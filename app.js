@@ -1,5 +1,7 @@
 const API_BASE = "https://api.openf1.org/v1";
-const REFRESH_MS = 12000;
+const REFRESH_MS = 30000;
+const OPENF1_REQUEST_GAP_MS = 450;
+const STREAM_WINDOW_MINUTES = 18;
 
 const els = {
   connection: document.querySelector("#connectionState"),
@@ -214,12 +216,16 @@ const FALLBACK_PREVIOUS_RACE = {
 const state = {
   token: localStorage.getItem("openf1_token") || "",
   timer: null,
+  isLoadingData: false,
+  queuedLoad: false,
   latestLocations: [],
   drivers: new Map(),
   lastPayload: null,
   news: null,
   newsPage: 1,
 };
+
+let openF1Queue = Promise.resolve();
 
 function escapeHtml(value = "") {
   return String(value).replace(/[&<>"']/g, (char) => ({
@@ -250,8 +256,14 @@ function setAllChannels(status) {
   ["drivers", "timing", "car", "gps", "weather", "race"].forEach((name) => setChannel(name, status));
 }
 
-function recentIso(minutes) {
-  return new Date(Date.now() - minutes * 60 * 1000).toISOString();
+function delay(ms) {
+  return new Promise((resolve) => window.setTimeout(resolve, ms));
+}
+
+function streamWindowStart(session) {
+  const end = normalizeDate(session?.date_end);
+  const anchor = end && end < Date.now() ? end : Date.now();
+  return new Date(anchor - STREAM_WINDOW_MINUTES * 60 * 1000).toISOString();
 }
 
 function normalizeDate(value) {
@@ -365,12 +377,21 @@ async function fetchOpenF1(endpoint, params = {}) {
   }
   const headers = {};
   if (state.token) headers.Authorization = `Bearer ${state.token}`;
-  const response = await fetch(url, { headers });
-  if (!response.ok) {
-    const detail = await response.text().catch(() => "");
-    throw new Error(`${endpoint}: ${response.status} ${detail.slice(0, 90)}`);
-  }
-  return response.json();
+  const task = openF1Queue.then(async () => {
+    await delay(OPENF1_REQUEST_GAP_MS);
+    let response = await fetch(url, { headers });
+    if (response.status === 429) {
+      await delay(1400);
+      response = await fetch(url, { headers });
+    }
+    if (!response.ok) {
+      const detail = await response.text().catch(() => "");
+      throw new Error(`${endpoint}: ${response.status} ${detail.slice(0, 90)}`);
+    }
+    return response.json();
+  });
+  openF1Queue = task.catch(() => {});
+  return task;
 }
 
 async function optional(endpoint, params = {}) {
@@ -382,59 +403,72 @@ async function optional(endpoint, params = {}) {
 }
 
 async function loadData() {
+  if (state.isLoadingData) {
+    state.queuedLoad = true;
+    return;
+  }
+  state.isLoadingData = true;
   setConnection("loading", "sincronizando");
   setAllChannels("warn");
 
-  const sessionResult = await optional("sessions", { session_key: "latest" });
-  const session = Array.isArray(sessionResult.data) ? sessionResult.data.at(-1) : null;
-  const sessionKey = session?.session_key || "latest";
-  const liveWindow = { "date>=": recentIso(18), session_key: sessionKey };
+  try {
+    const sessionResult = await optional("sessions", { session_key: "latest" });
+    const session = Array.isArray(sessionResult.data) ? sessionResult.data.at(-1) : null;
+    const sessionKey = session?.session_key || "latest";
+    const liveWindow = { "date>=": streamWindowStart(session), session_key: sessionKey };
 
-  const [
-    drivers,
-    positions,
-    intervals,
-    laps,
-    stints,
-    pits,
-    weather,
-    raceControl,
-    carData,
-    locations,
-    results,
-  ] = await Promise.all([
-    optional("drivers", { session_key: sessionKey }),
-    optional("position", liveWindow),
-    optional("intervals", liveWindow),
-    optional("laps", { session_key: sessionKey }),
-    optional("stints", { session_key: sessionKey }),
-    optional("pit", { session_key: sessionKey }),
-    optional("weather", { session_key: sessionKey }),
-    optional("race_control", { session_key: sessionKey }),
-    optional("car_data", liveWindow),
-    optional("location", liveWindow),
-    optional("session_result", { session_key: sessionKey }),
-  ]);
+    const [
+      drivers,
+      positions,
+      intervals,
+      laps,
+      stints,
+      pits,
+      weather,
+      raceControl,
+      carData,
+      locations,
+      results,
+    ] = await Promise.all([
+      optional("drivers", { session_key: sessionKey }),
+      optional("position", liveWindow),
+      optional("intervals", liveWindow),
+      optional("laps", { session_key: sessionKey }),
+      optional("stints", { session_key: sessionKey }),
+      optional("pit", { session_key: sessionKey }),
+      optional("weather", { session_key: sessionKey }),
+      optional("race_control", { session_key: sessionKey }),
+      optional("car_data", liveWindow),
+      optional("location", liveWindow),
+      optional("session_result", { session_key: sessionKey }),
+    ]);
 
-  updateChannels({ drivers, positions, intervals, laps, weather, raceControl, carData, locations });
+    updateChannels({ drivers, positions, intervals, laps, weather, raceControl, carData, locations });
 
-  const payload = {
-    session,
-    drivers: drivers.data || [],
-    positions: positions.data || [],
-    intervals: intervals.data || [],
-    laps: laps.data || [],
-    stints: stints.data || [],
-    pits: pits.data || [],
-    weather: weather.data || [],
-    raceControl: raceControl.data || [],
-    carData: carData.data || [],
-    locations: locations.data || [],
-    results: results.data || [],
-    errors: [sessionResult, drivers, positions, intervals, laps, weather, raceControl, carData, locations].filter((x) => !x.ok),
-  };
+    const payload = {
+      session,
+      drivers: drivers.data || [],
+      positions: positions.data || [],
+      intervals: intervals.data || [],
+      laps: laps.data || [],
+      stints: stints.data || [],
+      pits: pits.data || [],
+      weather: weather.data || [],
+      raceControl: raceControl.data || [],
+      carData: carData.data || [],
+      locations: locations.data || [],
+      results: results.data || [],
+      errors: [sessionResult, drivers, positions, intervals, laps, weather, raceControl, carData, locations].filter((x) => !x.ok),
+    };
 
-  render(payload);
+    render(payload);
+  } finally {
+    state.isLoadingData = false;
+    if (state.queuedLoad) {
+      state.queuedLoad = false;
+      window.setTimeout(loadData, OPENF1_REQUEST_GAP_MS);
+    }
+  }
 }
 
 function updateChannels(sources) {
