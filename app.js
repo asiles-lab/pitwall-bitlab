@@ -166,7 +166,8 @@ const state = {
   drivers: new Map(),
   lastPayload: null,
   news: null,
-  newsPage: 1,
+  mainNewsPage: 1,
+  sideNewsPage: 1,
 };
 
 let openF1Queue = Promise.resolve();
@@ -1265,18 +1266,14 @@ function newsTimestampDiffers(a, b) {
   return Math.abs(first - second) > 60000;
 }
 
-function renderNewsHistory(news) {
-  const targets = [els.newsHistory, els.francoHistory].filter(Boolean);
-  if (!targets.length) return;
+function renderNewsHistory(target, news, activePage, scope) {
+  if (!target) return;
   const pages = newsPages(news);
   const markup = pages.length <= 1 ? "" : `
     <span>Historico</span>
-    ${pages.map((page) => `<button class="${Number(page.page) === state.newsPage ? "is-active" : ""}" type="button" data-news-page="${page.page}">${page.page}</button>`).join("")}
+    ${pages.map((page) => `<button class="${Number(page.page) === activePage ? "is-active" : ""}" type="button" data-news-page="${page.page}" data-news-scope="${scope}">${page.page}</button>`).join("")}
   `;
-  for (const target of targets) target.innerHTML = markup;
-  if (pages.length <= 1) {
-    return;
-  }
+  target.innerHTML = markup;
 }
 
 function currentArticleId() {
@@ -1346,10 +1343,10 @@ function handleArticleRoute() {
   return renderArticle(item);
 }
 
-function newsSectionItems(news) {
+function newsSectionItems(news, pageKey) {
   const pages = newsPages(news);
-  const safePage = Math.min(Math.max(1, Number(state.newsPage) || 1), Math.max(1, pages.length));
-  state.newsPage = safePage;
+  const safePage = Math.min(Math.max(1, Number(state[pageKey]) || 1), Math.max(1, pages.length));
+  state[pageKey] = safePage;
   if (safePage === 1) return allNewsItems(news);
   const page = pages.find((entry) => Number(entry.page) === safePage) || pages[0];
   return Array.isArray(page?.items) ? page.items : [];
@@ -1370,14 +1367,15 @@ function preferSpanish(items) {
 function renderNews(news) {
   state.news = news;
   const allItems = allNewsItems(news);
-  const items = newsSectionItems(news);
+  const mainItems = newsSectionItems(news, "mainNewsPage");
+  const sideItems = newsSectionItems(news, "sideNewsPage");
   const visibleMainCategories = new Set(["argentino", "franco", "general"]);
-  const currentGeneral = preferSpanish(items.filter((item) => visibleMainCategories.has(item.category)));
+  const currentGeneral = preferSpanish(mainItems.filter((item) => visibleMainCategories.has(item.category)));
   const currentGeneralIds = new Set(currentGeneral.map((item) => item.id || stableNewsKey(item)));
   const generalBackfill = preferSpanish(allItems.filter((item) => visibleMainCategories.has(item.category) && !currentGeneralIds.has(item.id || stableNewsKey(item))));
   const general = [...currentGeneral, ...generalBackfill].slice(0, GENERAL_NEWS_VISIBLE);
-  const franco = preferSpanish(items.filter((item) => item.category === "argentino" || item.category === "franco")).slice(0, SIDE_NEWS_VISIBLE);
-  const support = items.filter((item) => item.category === "support").slice(0, 3);
+  const franco = preferSpanish(sideItems.filter((item) => item.category === "argentino" || item.category === "franco")).slice(0, SIDE_NEWS_VISIBLE);
+  const support = mainItems.filter((item) => item.category === "support").slice(0, 3);
 
   if (els.newsMeta) {
     const pages = newsPages(news).length || 1;
@@ -1385,12 +1383,13 @@ function renderNews(news) {
     const updatedText = newsTimestampDiffers(checkedAt, news.updatedAt)
       ? ` · ultima novedad ${formatNewsTimestamp(news.updatedAt)}`
       : "";
-    els.newsMeta.textContent = `Revisado ${formatNewsTimestamp(checkedAt)}${updatedText} · pagina ${state.newsPage}/${pages} · ${allItems.length} notas en historico`;
+    els.newsMeta.textContent = `Revisado ${formatNewsTimestamp(checkedAt)}${updatedText} · pagina ${state.mainNewsPage}/${pages} · ${allItems.length} notas en historico`;
   }
   renderNewsBucket(els.generalNews, general, newsCard, "Sin notas F1 en esta pagina.");
   renderNewsBucket(els.francoNews, franco, miniNews, "Sin notas de argentinos en esta pagina.");
   renderNewsBucket(els.supportNews, support, supportItem, "Sin novedades de F2, F3 o F1 Academy en esta pagina.");
-  renderNewsHistory(news);
+  renderNewsHistory(els.newsHistory, news, state.mainNewsPage, "main");
+  renderNewsHistory(els.francoHistory, news, state.sideNewsPage, "side");
   handleArticleRoute();
 }
 
@@ -1399,7 +1398,8 @@ function setupNewsHistory() {
     history.addEventListener("click", (event) => {
       const button = event.target.closest("[data-news-page]");
       if (!button || !state.news) return;
-      state.newsPage = Number(button.dataset.newsPage) || 1;
+      const pageKey = button.dataset.newsScope === "side" ? "sideNewsPage" : "mainNewsPage";
+      state[pageKey] = Number(button.dataset.newsPage) || 1;
       renderNews(state.news);
     });
   }
