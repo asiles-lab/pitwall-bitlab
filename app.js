@@ -269,6 +269,7 @@ function countryFlag(session) {
     AUT: "AT",
     AZE: "AZ",
     BAH: "BH",
+    BHR: "BH",
     BEL: "BE",
     BRA: "BR",
     BRN: "BH",
@@ -279,6 +280,7 @@ function countryFlag(session) {
     HUN: "HU",
     ITA: "IT",
     JPN: "JP",
+    MAL: "MY",
     MCO: "MC",
     MEX: "MX",
     NED: "NL",
@@ -311,13 +313,47 @@ function countryFlag(session) {
     "united kingdom": "GB",
     "united states": "US",
   };
+  const placeText = `${session?.circuit_short_name || ""} ${session?.circuit_name || ""} ${session?.location || ""}`.toLowerCase();
+  const placeAliases = [
+    [/sepang|kuala lumpur|malaysia/, "MY"],
+    [/sakhir|bahrain/, "BH"],
+    [/baku|azerbaijan/, "AZ"],
+    [/monza|imola|italy/, "IT"],
+    [/monaco|monte carlo/, "MC"],
+    [/silverstone|great britain|united kingdom/, "GB"],
+    [/spa|belgium/, "BE"],
+    [/zandvoort|netherlands/, "NL"],
+    [/suzuka|japan/, "JP"],
+    [/singapore|marina bay/, "SG"],
+    [/austin|miami|las vegas|united states/, "US"],
+    [/mexico/, "MX"],
+    [/interlagos|sao paulo|brazil/, "BR"],
+    [/yas marina|abu dhabi|united arab emirates/, "AE"],
+    [/jeddah|saudi arabia/, "SA"],
+    [/lusail|qatar/, "QA"],
+    [/hungaroring|hungary/, "HU"],
+    [/barcelona|spain/, "ES"],
+    [/melbourne|australia/, "AU"],
+    [/shanghai|china/, "CN"],
+    [/montreal|canada/, "CA"],
+  ];
+  const placeCode = placeAliases.find(([pattern]) => pattern.test(placeText))?.[1] || "";
   const rawCode = String(session?.country_code || "").trim().toUpperCase();
   const countryName = String(session?.country_name || "").trim().toLowerCase();
-  const code = aliases[rawCode] || rawCode || nameAliases[countryName] || "";
+  const code = placeCode || aliases[rawCode] || rawCode || nameAliases[countryName] || "";
   if (/^[A-Z]{2}$/.test(code)) {
     return [...code].map((char) => String.fromCodePoint(127397 + char.charCodeAt(0))).join("");
   }
   return "🏁";
+}
+
+function circuitLabel(session) {
+  const raw = String(session?.circuit_short_name || session?.location || "--").trim();
+  const location = String(session?.location || "").trim();
+  if (location && raw.toLowerCase().includes(location.toLowerCase())) {
+    return location;
+  }
+  return raw.replace(/^[A-Z]{2,3}\s+/, "").trim() || raw || "--";
 }
 
 function formatLap(seconds) {
@@ -638,14 +674,12 @@ function renderMetrics(payload, hasLivePulse) {
   const stintLaps = Math.max(0, ...(payload.stints || []).map((stint) => Number(stint.lap_end) || 0));
   const lapNumber = Number(lastLap?.lap_number) || resultLaps || stintLaps;
   const session = payload.session;
-  const dateEnd = session?.date_end ? new Date(session.date_end) : null;
-  const liveLabel = hasLivePulse ? "LIVE" : (dateEnd && dateEnd < new Date() ? "ultimo archivo" : "esperando");
   const flag = session ? countryFlag(session) : "🏁";
-  const trackName = session ? `${flag} ${session.circuit_short_name || session.location || "--"}` : "--";
+  const trackName = session ? `${flag} ${circuitLabel(session)}` : "--";
 
   els.sessionFlag.textContent = flag;
   els.sessionFlag.setAttribute("aria-label", session?.country_name ? `Bandera de ${session.country_name}` : "Bandera de sesion");
-  els.sessionMetric.textContent = session ? `${session.session_name || session.session_type || "Sesion"} / ${liveLabel}` : "OpenF1";
+  els.sessionMetric.textContent = session ? (session.session_name || session.session_type || "Sesion") : "OpenF1";
   els.trackMetric.textContent = trackName;
   els.flagMetric.textContent = latestRace?.flag || latestRace?.category || "--";
   els.weatherMetric.textContent = latestWeather ? `${Math.round(latestWeather.track_temperature ?? 0)}C pista` : "--";
@@ -1337,7 +1371,10 @@ function renderNews(news) {
   state.news = news;
   const allItems = allNewsItems(news);
   const items = newsSectionItems(news);
-  const general = preferSpanish(items.filter((item) => item.category !== "curiosity" && item.category !== "support")).slice(0, GENERAL_NEWS_VISIBLE);
+  const currentGeneral = preferSpanish(items.filter((item) => item.category === "general"));
+  const currentGeneralIds = new Set(currentGeneral.map((item) => item.id || stableNewsKey(item)));
+  const generalBackfill = preferSpanish(allItems.filter((item) => item.category === "general" && !currentGeneralIds.has(item.id || stableNewsKey(item))));
+  const general = [...currentGeneral, ...generalBackfill].slice(0, GENERAL_NEWS_VISIBLE);
   const franco = preferSpanish(items.filter((item) => item.category === "franco")).slice(0, SIDE_NEWS_VISIBLE);
   const support = items.filter((item) => item.category === "support").slice(0, 3);
 
