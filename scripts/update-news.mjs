@@ -9,7 +9,8 @@ const newsPath = resolve(root, "data/news.json");
 const PAGE_SIZE = 18;
 const MAX_ITEMS = 90;
 const BACKLOG_LIMIT = 180;
-const RELEASE_LIMIT = Number(process.env.NEWS_RELEASE_LIMIT) || 2;
+const DEFAULT_RELEASE_LIMIT = 2;
+const RELEASE_LIMIT = Number(process.env.NEWS_RELEASE_LIMIT) || DEFAULT_RELEASE_LIMIT;
 const MIN_RELEASE_SCORE = 32;
 const CHECK_INTERVAL_MS = 50 * 60 * 1000;
 
@@ -24,6 +25,18 @@ const SOURCES = [
     source: "TyC Sports",
     url: "https://www.tycsports.com/automovilismo/formula-1.html",
     type: "page",
+    language: "es",
+  },
+  {
+    source: "Campeones",
+    url: "https://campeones.com.ar/",
+    type: "genericPage",
+    language: "es",
+  },
+  {
+    source: "Carburando",
+    url: "https://carburando.com.ar/",
+    type: "genericPage",
     language: "es",
   },
 ];
@@ -52,8 +65,36 @@ const SUPPORT_SOURCES = [
   },
 ];
 
-const FRANCO_TERMS = ["colapinto", "franco", "alpine"];
-const GENERAL_TERMS = ["f1", "formula 1", "grand prix", "gp", "fia", "qualifying", "race"];
+const ARGENTINE_TERMS = [
+  "colapinto",
+  "franco",
+  "argentino",
+  "argentina",
+  "argentinos",
+  "pilarense",
+  "canapino",
+  "varrone",
+  "fenestraz",
+  "canapino",
+  "pernia",
+  "pernía",
+  "santero",
+  "werner",
+  "fain",
+  "faín",
+  "rosso",
+  "ciantini",
+  "panetta",
+  "morelli",
+  "girolami",
+  "guerrieri",
+  "pechito",
+  "lopez",
+  "lópez",
+  "montenegro",
+  "tiago",
+];
+const GENERAL_TERMS = ["f1", "formula 1", "formula 2", "formula 3", "f2", "f3", "grand prix", "gp", "fia", "qualifying", "race"];
 const RACE_PREVIEW_TERMS = [
   "race",
   "carrera",
@@ -191,14 +232,14 @@ function firstImage(xml) {
 
 function classify(item) {
   const text = `${item.title} ${item.summary}`.toLowerCase();
-  if (FRANCO_TERMS.some((term) => text.includes(term))) return "franco";
+  if (ARGENTINE_TERMS.some((term) => text.includes(term))) return "argentino";
   if (GENERAL_TERMS.some((term) => text.includes(term))) return "general";
   return "general";
 }
 
 function tagFor(item) {
   const text = `${item.title} ${item.summary}`.toLowerCase();
-  if (item.category === "franco") return "Franco";
+  if (item.category === "argentino" || item.category === "franco") return text.includes("colapinto") || text.includes("franco") ? "Franco" : "Argentino";
   if (item.category === "support") return item.series || "Soporte";
   if (text.includes("qualifying") || text.includes("clasificacion")) return "Clasificacion";
   if (text.includes("weather") || text.includes("clima") || text.includes("rain") || text.includes("lluvia") || text.includes("forecast") || text.includes("pronostico")) return "Clima";
@@ -261,8 +302,26 @@ function extractLinks(html, sourceUrl) {
     .filter((link) => /\.html(?:$|\?)/i.test(link.url))
     .filter((link) => new URL(link.url).pathname.startsWith("/automovilismo/"))
     .filter((link) => /-id\d+\.html(?:$|\?)/i.test(new URL(link.url).pathname))
-    .filter((link) => /f1|formula-?1|fórmula 1|formula 1|colapinto|alpine|briatore|gasly|grand prix|gp de/i.test(`${link.url} ${link.text}`));
-  return mergeById(links.map((link) => ({ id: stableId(link.url), ...link }))).slice(0, 18);
+    .filter((link) => /f1|formula-?1|fórmula 1|formula 1|formula 2|formula 3|f2|f3|colapinto|alpine|briatore|gasly|grand prix|gp de|argentin|canapino|varrone|fenestraz|indycar|turismo carretera|\btc\b/i.test(`${link.url} ${link.text}`));
+  return mergeById(links.map((link) => ({ id: stableId(link.url), ...link }))).slice(0, 60);
+}
+
+function extractGenericLinks(html, sourceUrl) {
+  const sourceHost = new URL(sourceUrl).hostname.replace(/^www\./, "");
+  const blocked = /carrito|add-to-cart|producto|tienda|privacidad|terminos|contacto|quienes-somos|category|seccion|tag|author|wp-content|youtube|facebook|instagram|twitter|tiktok|telegram|whatsapp|appradio|promoshell|bit\.ly/i;
+  const useful = /f1|formula|fórmula|colapinto|argentin|canapino|pernia|pernía|santero|werner|fain|faín|rosso|ciantini|panetta|morelli|girolami|guerrieri|pechito|lopez|lópez|montenegro|tc\b|turismo carretera|tc2000|tcr|indycar|wec|motogp|moto gp|rally/i;
+  const links = [...html.matchAll(/<a[^>]+href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)]
+    .map((match) => ({
+      url: new URL(match[1], sourceUrl).href,
+      text: stripTags(match[2]),
+    }))
+    .filter((link) => new URL(link.url).hostname.replace(/^www\./, "") === sourceHost)
+    .filter((link) => /^https?:\/\//i.test(link.url))
+    .filter((link) => !blocked.test(link.url))
+    .filter((link) => !/\.(jpg|jpeg|png|webp|svg|gif|pdf)(?:$|\?)/i.test(link.url))
+    .filter((link) => link.text.length > 12)
+    .filter((link) => useful.test(`${link.url} ${link.text}`));
+  return mergeById(links.map((link) => ({ id: stableId(link.url), ...link }))).slice(0, 45);
 }
 
 async function fetchArticle(link, source) {
@@ -322,23 +381,42 @@ async function fetchPageSource(source) {
     .filter((item) => item.title && item.url);
 }
 
+async function fetchGenericPageSource(source) {
+  const response = await fetch(source.url, {
+    headers: {
+      "user-agent": "Pitwall Bitlab local news updater",
+      accept: "text/html,application/xhtml+xml",
+    },
+  });
+  if (!response.ok) throw new Error(`${source.source} ${response.status}`);
+  const html = await response.text();
+  const links = extractGenericLinks(html, source.url);
+  const settled = await Promise.allSettled(links.map((link) => fetchArticle(link, source)));
+  return settled
+    .filter((result) => result.status === "fulfilled")
+    .map((result) => result.value)
+    .filter((item) => item.title && item.url);
+}
+
 function fetchSource(source) {
   if (source.type === "rss") return fetchSupportFeed(source);
   if (source.type === "academy") return fetchAcademySource(source);
+  if (source.type === "genericPage") return fetchGenericPageSource(source);
   return source.type === "page" ? fetchPageSource(source) : fetchFeed(source);
 }
 
 function isFormulaItem(item) {
   if (item.category === "support") return true;
   if (item.category === "curiosity") return false;
-  if (item.source !== "TyC Sports") return false;
-  try {
-    const path = new URL(item.url).pathname;
-    if (!path.startsWith("/automovilismo/") || !/-id\d+\.html$/i.test(path)) return false;
-  } catch {
-    return false;
+  if (item.source === "TyC Sports") {
+    try {
+      const path = new URL(item.url).pathname;
+      if (!path.startsWith("/automovilismo/") || !/-id\d+\.html$/i.test(path)) return false;
+    } catch {
+      return false;
+    }
   }
-  return /f1|formula-?1|fórmula 1|formula 1|colapinto|alpine|briatore|gasly|grand prix|gp de|malasia/i.test(`${item.url} ${item.title} ${item.summary}`);
+  return /f1|formula-?1|fórmula 1|formula 1|formula 2|formula 3|f2|f3|colapinto|alpine|briatore|gasly|grand prix|gp de|malasia|argentin|canapino|varrone|fenestraz|pernia|pernía|santero|werner|fain|faín|rosso|ciantini|panetta|morelli|girolami|guerrieri|pechito|lopez|lópez|montenegro|indycar|wec|motogp|moto gp|turismo carretera|tc2000|tcr|\btc\b/i.test(`${item.url} ${item.title} ${item.summary}`);
 }
 
 function orderNews(items) {
@@ -412,14 +490,18 @@ function score(item) {
   const text = `${item.title} ${item.summary}`.toLowerCase();
   let value = 0;
   if (item.category === "general") value += 10;
-  if (item.category === "franco") value += 16;
+  if (item.category === "argentino" || item.category === "franco") value += 24;
   if (item.source === "TyC Sports") value += 18;
   if (item.language === "es") value += 8;
   if (item.image) value += 4;
   if (RACE_PREVIEW_TERMS.some((term) => text.includes(term))) value += 12;
   if (text.includes("colapinto")) value += 20;
+  if (text.includes("argentin")) value += 12;
+  if (text.includes("formula 2") || text.includes("formula 3") || /\bf2\b|\bf3\b/.test(text)) value += 7;
   if (text.includes("motor") || text.includes("engine") || text.includes("penaliz") || text.includes("grid penalty")) value += 14;
   if (text.includes("formula 1") || text.includes("f1")) value += 3;
+  if (text.includes("mozzarella") || text.includes("helados") || text.includes("curiosos")) value -= 18;
+  if (text.includes("stroll") || text.includes("bearman")) value -= 18;
   const published = new Date(item.publishedAt).getTime();
   if (!Number.isNaN(published)) {
     const ageHours = (Date.now() - published) / 3600000;
@@ -435,9 +517,9 @@ function score(item) {
 
 function rebalance(items) {
   const sorted = [...items].sort((a, b) => score(b) - score(a) || new Date(b.publishedAt) - new Date(a.publishedAt));
-  const general = sorted.filter((item) => item.category === "general").slice(0, 9);
-  const franco = sorted.filter((item) => item.category === "franco").slice(0, 5);
-  const selected = [...general, ...franco];
+  const argentinos = sorted.filter((item) => item.category === "argentino" || item.category === "franco").slice(0, 36);
+  const general = sorted.filter((item) => item.category === "general").slice(0, 24);
+  const selected = [...argentinos, ...general];
   const selectedIds = new Set(selected.map((item) => item.id));
   return [
     ...selected,
@@ -534,16 +616,17 @@ async function main() {
   const backlog = sortNews(remaining).slice(0, BACKLOG_LIMIT);
   const nowIso = now.toISOString();
   const previousCoreItems = previousItems.filter((item) => item.category !== "support");
-  const items = orderNews(release.length
-    ? mergeById([...release, ...supportItems, ...previousCoreItems])
-    : mergeById([...supportItems, ...previousCoreItems])).slice(0, MAX_ITEMS);
+  const coreItems = rebalance(release.length
+    ? mergeById([...release, ...previousCoreItems])
+    : mergeById(previousCoreItems));
+  const items = [...coreItems, ...supportItems].slice(0, MAX_ITEMS);
   const payload = {
     updatedAt: release.length || !previousItems.length ? nowIso : (existing.updatedAt || nowIso),
     checkedAt: nowIso,
     pageSize: PAGE_SIZE,
     sources: allSources.map(({ source, url }) => ({ source, url })),
     releasePolicy: {
-      maxPerRun: RELEASE_LIMIT,
+      maxPerRun: DEFAULT_RELEASE_LIMIT,
       minScore: MIN_RELEASE_SCORE,
       cadence: "hourly",
       fallbackPerRun: 1,

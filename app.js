@@ -1296,8 +1296,8 @@ function articleParagraphs(item) {
   const text = `${item.title} ${summary}`.toLowerCase();
   if (text.includes("motor") || text.includes("penaliz")) {
     paragraphs.push("Lectura Pitwall: esta noticia cambia la preparación de la sesión porque una penalización de parrilla modifica la prioridad entre ritmo puro, gestión de neumáticos y estrategia de adelantamiento.");
-  } else if (item.category === "franco") {
-    paragraphs.push("Lectura Pitwall: seguimiento directo para Franco Colapinto, con foco en rendimiento, contexto Alpine y consecuencias para el fin de semana.");
+  } else if (item.category === "franco" || item.category === "argentino") {
+    paragraphs.push("Lectura Pitwall: seguimiento directo para pilotos argentinos, con foco en rendimiento, contexto deportivo y consecuencias para el fin de semana.");
   } else if (text.includes("clima") || text.includes("pronóstico") || text.includes("weather")) {
     paragraphs.push("Lectura Pitwall: el clima puede alterar ventanas de pista, degradación y timing de clasificación o carrera.");
   } else if (text.includes("mejora") || text.includes("upgrade") || text.includes("actualiz")) {
@@ -1371,11 +1371,12 @@ function renderNews(news) {
   state.news = news;
   const allItems = allNewsItems(news);
   const items = newsSectionItems(news);
-  const currentGeneral = preferSpanish(items.filter((item) => item.category === "general"));
+  const visibleMainCategories = new Set(["argentino", "franco", "general"]);
+  const currentGeneral = preferSpanish(items.filter((item) => visibleMainCategories.has(item.category)));
   const currentGeneralIds = new Set(currentGeneral.map((item) => item.id || stableNewsKey(item)));
-  const generalBackfill = preferSpanish(allItems.filter((item) => item.category === "general" && !currentGeneralIds.has(item.id || stableNewsKey(item))));
+  const generalBackfill = preferSpanish(allItems.filter((item) => visibleMainCategories.has(item.category) && !currentGeneralIds.has(item.id || stableNewsKey(item))));
   const general = [...currentGeneral, ...generalBackfill].slice(0, GENERAL_NEWS_VISIBLE);
-  const franco = preferSpanish(items.filter((item) => item.category === "franco")).slice(0, SIDE_NEWS_VISIBLE);
+  const franco = preferSpanish(items.filter((item) => item.category === "argentino" || item.category === "franco")).slice(0, SIDE_NEWS_VISIBLE);
   const support = items.filter((item) => item.category === "support").slice(0, 3);
 
   if (els.newsMeta) {
@@ -1387,7 +1388,7 @@ function renderNews(news) {
     els.newsMeta.textContent = `Revisado ${formatNewsTimestamp(checkedAt)}${updatedText} · pagina ${state.newsPage}/${pages} · ${allItems.length} notas en historico`;
   }
   renderNewsBucket(els.generalNews, general, newsCard, "Sin notas F1 en esta pagina.");
-  renderNewsBucket(els.francoNews, franco, miniNews, "Sin notas de Franco en esta pagina.");
+  renderNewsBucket(els.francoNews, franco, miniNews, "Sin notas de argentinos en esta pagina.");
   renderNewsBucket(els.supportNews, support, supportItem, "Sin novedades de F2, F3 o F1 Academy en esta pagina.");
   renderNewsHistory(news);
   handleArticleRoute();
