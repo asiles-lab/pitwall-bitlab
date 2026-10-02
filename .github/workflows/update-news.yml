@@ -2,7 +2,7 @@ name: Update F1 news
 
 on:
   schedule:
-    - cron: "7 * * * *"
+    - cron: "29 * * * *"
   workflow_dispatch:
 
 permissions:
