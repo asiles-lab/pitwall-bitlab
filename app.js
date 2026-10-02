@@ -43,6 +43,7 @@ const els = {
   curiosityNews: document.querySelector("#curiosityNews"),
   newsMeta: document.querySelector("#newsMeta"),
   newsHistory: document.querySelector("#newsHistory"),
+  francoHistory: document.querySelector("#francoHistory"),
 };
 
 const GENERAL_NEWS_VISIBLE = 7;
@@ -1016,7 +1017,15 @@ function miniNews(item) {
 }
 
 function curiosityItem(item) {
-  return `<span><strong>${escapeHtml(item.title)}</strong> ${escapeHtml(item.summary || "")}</span>`;
+  return `
+    <article>
+      <a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">
+        <strong>${escapeHtml(item.title)}</strong>
+        <span>${escapeHtml(excerpt(item.summary || "", 164))}</span>
+        <em>${escapeHtml(sourceText(item))}</em>
+      </a>
+    </article>
+  `;
 }
 
 function formatNewsTimestamp(value) {
@@ -1031,16 +1040,17 @@ function formatNewsTimestamp(value) {
 }
 
 function renderNewsHistory(news) {
-  if (!els.newsHistory) return;
+  const targets = [els.newsHistory, els.francoHistory].filter(Boolean);
+  if (!targets.length) return;
   const pages = newsPages(news);
-  if (pages.length <= 1) {
-    els.newsHistory.innerHTML = "";
-    return;
-  }
-  els.newsHistory.innerHTML = `
+  const markup = pages.length <= 1 ? "" : `
     <span>Historico</span>
     ${pages.map((page) => `<button class="${Number(page.page) === state.newsPage ? "is-active" : ""}" type="button" data-news-page="${page.page}">${page.page}</button>`).join("")}
   `;
+  for (const target of targets) target.innerHTML = markup;
+  if (pages.length <= 1) {
+    return;
+  }
 }
 
 function newsSectionItems(news) {
@@ -1057,13 +1067,20 @@ function renderNewsBucket(node, items, renderer, emptyText) {
   node.innerHTML = items.length ? items.map(renderer).join("") : `<p class="empty-copy">${emptyText}</p>`;
 }
 
+function preferSpanish(items) {
+  return [
+    ...items.filter((item) => item.language !== "en"),
+    ...items.filter((item) => item.language === "en"),
+  ];
+}
+
 function renderNews(news) {
   state.news = news;
   const allItems = allNewsItems(news);
   const items = newsSectionItems(news);
-  const general = items.filter((item) => item.category === "general").slice(0, GENERAL_NEWS_VISIBLE);
-  const franco = items.filter((item) => item.category === "franco").slice(0, SIDE_NEWS_VISIBLE);
-  const curiosity = items.filter((item) => item.category === "curiosity").slice(0, SIDE_NEWS_VISIBLE);
+  const general = preferSpanish(items.filter((item) => item.category === "general")).slice(0, GENERAL_NEWS_VISIBLE);
+  const franco = preferSpanish(items.filter((item) => item.category === "franco")).slice(0, SIDE_NEWS_VISIBLE);
+  const curiosity = preferSpanish(items.filter((item) => item.category === "curiosity" && item.language !== "en")).slice(0, SIDE_NEWS_VISIBLE);
 
   if (els.newsMeta) {
     const queued = Array.isArray(news.backlog) ? news.backlog.length : 0;
@@ -1077,13 +1094,14 @@ function renderNews(news) {
 }
 
 function setupNewsHistory() {
-  if (!els.newsHistory) return;
-  els.newsHistory.addEventListener("click", (event) => {
-    const button = event.target.closest("[data-news-page]");
-    if (!button || !state.news) return;
-    state.newsPage = Number(button.dataset.newsPage) || 1;
-    renderNews(state.news);
-  });
+  for (const history of [els.newsHistory, els.francoHistory].filter(Boolean)) {
+    history.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-news-page]");
+      if (!button || !state.news) return;
+      state.newsPage = Number(button.dataset.newsPage) || 1;
+      renderNews(state.news);
+    });
+  }
 }
 
 async function loadNews() {

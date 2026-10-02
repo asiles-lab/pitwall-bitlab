@@ -92,7 +92,7 @@ function firstImage(xml) {
 function classify(item) {
   const text = `${item.title} ${item.summary}`.toLowerCase();
   if (FRANCO_TERMS.some((term) => text.includes(term))) return "franco";
-  if (CURIOSITY_TERMS.some((term) => text.includes(term))) return "curiosity";
+  if (item.language === "es" && CURIOSITY_TERMS.some((term) => text.includes(term))) return "curiosity";
   if (GENERAL_TERMS.some((term) => text.includes(term))) return "general";
   return "general";
 }
