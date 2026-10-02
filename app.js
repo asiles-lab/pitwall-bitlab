@@ -45,7 +45,8 @@ const els = {
   newsHistory: document.querySelector("#newsHistory"),
 };
 
-const NEWS_VISIBLE_PER_SECTION = 2;
+const GENERAL_NEWS_VISIBLE = 7;
+const SIDE_NEWS_VISIBLE = 2;
 
 const FALLBACK_NEWS = {
   updatedAt: "2026-10-01T00:00:00.000Z",
@@ -1060,9 +1061,9 @@ function renderNews(news) {
   state.news = news;
   const allItems = allNewsItems(news);
   const items = newsSectionItems(news);
-  const general = items.filter((item) => item.category === "general").slice(0, NEWS_VISIBLE_PER_SECTION);
-  const franco = items.filter((item) => item.category === "franco").slice(0, NEWS_VISIBLE_PER_SECTION);
-  const curiosity = items.filter((item) => item.category === "curiosity").slice(0, NEWS_VISIBLE_PER_SECTION);
+  const general = items.filter((item) => item.category === "general").slice(0, GENERAL_NEWS_VISIBLE);
+  const franco = items.filter((item) => item.category === "franco").slice(0, SIDE_NEWS_VISIBLE);
+  const curiosity = items.filter((item) => item.category === "curiosity").slice(0, SIDE_NEWS_VISIBLE);
 
   if (els.newsMeta) {
     const queued = Array.isArray(news.backlog) ? news.backlog.length : 0;
