@@ -57,6 +57,15 @@ const els = {
   newsMeta: document.querySelector("#newsMeta"),
   newsHistory: document.querySelector("#newsHistory"),
   francoHistory: document.querySelector("#francoHistory"),
+  articlePanel: document.querySelector("#article-panel"),
+  articleView: document.querySelector("#articleView"),
+  articleBackBtn: document.querySelector("#articleBackBtn"),
+  articleKicker: document.querySelector("#articleKicker"),
+  articleTitle: document.querySelector("#articleTitle"),
+  articleStandfirst: document.querySelector("#articleStandfirst"),
+  articleHero: document.querySelector("#articleHero"),
+  articleBody: document.querySelector("#articleBody"),
+  articleSource: document.querySelector("#articleSource"),
 };
 
 const GENERAL_NEWS_VISIBLE = 7;
@@ -1160,12 +1169,16 @@ function formatDateOnly(value) {
   return `${day}/${month}/${year}`;
 }
 
+function showPanel(name) {
+  document.querySelectorAll("[data-panel]").forEach((panel) => panel.classList.toggle("is-active", panel.dataset.panel === name));
+  document.querySelectorAll("[data-tab]").forEach((item) => item.classList.toggle("is-active", item.dataset.tab === name));
+}
+
 function setupTabs() {
   document.querySelectorAll("[data-tab]").forEach((tab) => {
     tab.addEventListener("click", () => {
       const target = tab.dataset.tab;
-      document.querySelectorAll("[data-tab]").forEach((item) => item.classList.toggle("is-active", item === tab));
-      document.querySelectorAll("[data-panel]").forEach((panel) => panel.classList.toggle("is-active", panel.dataset.panel === target));
+      showPanel(target);
     });
   });
 }
@@ -1209,6 +1222,14 @@ function sourceText(item) {
   return item.sourceLabel || item.source || "Fuente";
 }
 
+function newsUrl(item) {
+  return `#noticia/${encodeURIComponent(item.id || stableNewsKey(item))}`;
+}
+
+function stableNewsKey(item) {
+  return String(item.url || item.title || "noticia").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 120);
+}
+
 function excerpt(value = "", maxLength = 142) {
   const text = String(value).replace(/\s+/g, " ").trim();
   if (text.length <= maxLength) return text;
@@ -1237,7 +1258,8 @@ function newsCard(item, index) {
         <span class="news-tag">${escapeHtml(item.tag || item.category || "Noticia")}</span>
         <h3>${escapeHtml(item.title)}</h3>
         <p>${escapeHtml(excerpt(item.summary || "", summaryLength))}</p>
-        <a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">${escapeHtml(sourceText(item))}</a>
+        <span class="news-source">Fuente: ${escapeHtml(sourceText(item))}</span>
+        <a href="${escapeHtml(newsUrl(item))}">Leer resumen</a>
       </div>
       ${newsThumb(item)}
     </article>
@@ -1253,7 +1275,8 @@ function miniNews(item) {
       <div>
         <strong>${escapeHtml(item.title)}</strong>
         <span>${escapeHtml(excerpt(item.summary || "", 118))}</span>
-        <a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">${escapeHtml(sourceText(item))}</a>
+        <em class="news-source">Fuente: ${escapeHtml(sourceText(item))}</em>
+        <a href="${escapeHtml(newsUrl(item))}">Leer resumen</a>
       </div>
     </article>
   `;
@@ -1262,7 +1285,7 @@ function miniNews(item) {
 function curiosityItem(item) {
   return `
     <article>
-      <a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">
+      <a href="${escapeHtml(newsUrl(item))}">
         <strong>${escapeHtml(item.title)}</strong>
         <span>${escapeHtml(excerpt(item.summary || "", 164))}</span>
         <em>${escapeHtml(sourceText(item))}</em>
@@ -1296,6 +1319,52 @@ function renderNewsHistory(news) {
   }
 }
 
+function currentArticleId() {
+  const match = window.location.hash.match(/^#noticia\/(.+)$/);
+  return match ? decodeURIComponent(match[1]) : "";
+}
+
+function articleParagraphs(item) {
+  const summary = String(item.summary || "").trim();
+  const paragraphs = summary ? [summary] : ["No hay un resumen disponible para esta nota."];
+  const text = `${item.title} ${summary}`.toLowerCase();
+  if (text.includes("motor") || text.includes("penaliz")) {
+    paragraphs.push("Lectura Pitwall: esta noticia cambia la preparación de la sesión porque una penalización de parrilla modifica la prioridad entre ritmo puro, gestión de neumáticos y estrategia de adelantamiento.");
+  } else if (item.category === "franco") {
+    paragraphs.push("Lectura Pitwall: seguimiento directo para Franco Colapinto, con foco en rendimiento, contexto Alpine y consecuencias para el fin de semana.");
+  } else if (text.includes("clima") || text.includes("pronóstico") || text.includes("weather")) {
+    paragraphs.push("Lectura Pitwall: el clima puede alterar ventanas de pista, degradación y timing de clasificación o carrera.");
+  } else if (text.includes("mejora") || text.includes("upgrade") || text.includes("actualiz")) {
+    paragraphs.push("Lectura Pitwall: las actualizaciones técnicas importan si se traducen en ritmo sostenido, no solo en una vuelta rápida.");
+  }
+  return paragraphs;
+}
+
+function renderArticle(item) {
+  if (!item) return false;
+  els.articleKicker.textContent = `${item.tag || item.category || "Noticia"} · ${sourceText(item)}`;
+  els.articleTitle.textContent = item.title || "Noticia";
+  els.articleStandfirst.textContent = excerpt(item.summary || "", 240);
+  els.articleHero.innerHTML = item.image
+    ? `<img src="${escapeHtml(item.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">`
+    : `<span>${escapeHtml(sourceText(item))}</span>`;
+  els.articleBody.innerHTML = articleParagraphs(item).map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`).join("");
+  els.articleSource.innerHTML = `
+    <span>Fuente citada: ${escapeHtml(sourceText(item))}</span>
+    <a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">Abrir fuente original</a>
+  `;
+  showPanel("article");
+  window.scrollTo({ top: 0, behavior: "smooth" });
+  return true;
+}
+
+function handleArticleRoute() {
+  const id = currentArticleId();
+  if (!id || !state.news) return false;
+  const item = allNewsItems(state.news).find((entry) => entry.id === id || stableNewsKey(entry) === id);
+  return renderArticle(item);
+}
+
 function newsSectionItems(news) {
   const pages = newsPages(news);
   const safePage = Math.min(Math.max(1, Number(state.newsPage) || 1), Math.max(1, pages.length));
@@ -1326,14 +1395,14 @@ function renderNews(news) {
   const curiosity = preferSpanish(items.filter((item) => item.category === "curiosity" && item.language !== "en")).slice(0, SIDE_NEWS_VISIBLE);
 
   if (els.newsMeta) {
-    const queued = Array.isArray(news.backlog) ? news.backlog.length : 0;
     const pages = newsPages(news).length || 1;
-    els.newsMeta.textContent = `Actualizado ${formatNewsTimestamp(news.updatedAt)} · pagina ${state.newsPage}/${pages} · ${allItems.length} notas en historico${queued ? ` · ${queued} en cola` : ""}`;
+    els.newsMeta.textContent = `Actualizado ${formatNewsTimestamp(news.updatedAt)} · pagina ${state.newsPage}/${pages} · ${allItems.length} notas en historico`;
   }
   renderNewsBucket(els.generalNews, general, newsCard, "Sin notas F1 en esta pagina.");
   renderNewsBucket(els.francoNews, franco, miniNews, "Sin notas de Franco en esta pagina.");
   renderNewsBucket(els.curiosityNews, curiosity, curiosityItem, "Sin datos curiosos en esta pagina.");
   renderNewsHistory(news);
+  handleArticleRoute();
 }
 
 function setupNewsHistory() {
@@ -1345,6 +1414,13 @@ function setupNewsHistory() {
       renderNews(state.news);
     });
   }
+  els.articleBackBtn?.addEventListener("click", () => {
+    history.pushState("", document.title, window.location.pathname + window.location.search);
+    showPanel("home");
+  });
+  window.addEventListener("hashchange", () => {
+    if (!handleArticleRoute() && !currentArticleId()) showPanel("home");
+  });
 }
 
 async function loadNews() {

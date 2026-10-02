@@ -12,12 +12,9 @@
     }
   ],
   "releasePolicy": {
-    "perCategory": 2,
-    "categories": [
-      "general",
-      "franco",
-      "curiosity"
-    ]
+    "maxPerRun": 2,
+    "minScore": 32,
+    "cadence": "hourly"
   },
   "backlog": [
     {

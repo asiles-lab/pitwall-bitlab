@@ -9,7 +9,8 @@ const newsPath = resolve(root, "data/news.json");
 const PAGE_SIZE = 18;
 const MAX_ITEMS = 90;
 const BACKLOG_LIMIT = 180;
-const RELEASE_PER_CATEGORY = 2;
+const RELEASE_LIMIT = 2;
+const MIN_RELEASE_SCORE = 32;
 
 const FEEDS = [
   {
@@ -133,7 +134,7 @@ async function fetchFeed(feed) {
   return entries.map((entry) => {
     const title = stripTags(tagValue(entry, "title"));
     const url = stripTags(tagValue(entry, "link"));
-    const summary = stripTags(tagValue(entry, "description")).slice(0, 240);
+    const summary = stripTags(tagValue(entry, "description")).slice(0, 520);
     const publishedAt = new Date(stripTags(tagValue(entry, "pubDate")) || Date.now()).toISOString();
     const item = {
       id: stableId(url || title),
@@ -163,6 +164,7 @@ function score(item) {
   if (item.image) value += 4;
   if (RACE_PREVIEW_TERMS.some((term) => text.includes(term))) value += 12;
   if (text.includes("colapinto")) value += 20;
+  if (text.includes("motor") || text.includes("engine") || text.includes("penaliz") || text.includes("grid penalty")) value += 14;
   if (text.includes("formula 1") || text.includes("f1")) value += 3;
   return value;
 }
@@ -194,17 +196,10 @@ function mergeById(items) {
 }
 
 function pickRelease(queue) {
-  const release = [];
-  const used = new Set();
-  for (const category of ["general", "franco", "curiosity"]) {
-    const selected = sortNews(queue)
-      .filter((item) => item.category === category && !used.has(item.id))
-      .slice(0, RELEASE_PER_CATEGORY);
-    for (const item of selected) {
-      used.add(item.id);
-      release.push(item);
-    }
-  }
+  const release = sortNews(queue)
+    .filter((item) => score(item) >= MIN_RELEASE_SCORE)
+    .slice(0, RELEASE_LIMIT);
+  const used = new Set(release.map((item) => item.id));
   return {
     release: sortNews(release),
     remaining: queue.filter((item) => !used.has(item.id)),
@@ -261,8 +256,9 @@ async function main() {
     pageSize: PAGE_SIZE,
     sources: FEEDS.map(({ source, url }) => ({ source, url })),
     releasePolicy: {
-      perCategory: RELEASE_PER_CATEGORY,
-      categories: ["general", "franco", "curiosity"],
+      maxPerRun: RELEASE_LIMIT,
+      minScore: MIN_RELEASE_SCORE,
+      cadence: "hourly",
     },
     backlog,
     pages: paginate(items),

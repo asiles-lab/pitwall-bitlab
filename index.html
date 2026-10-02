@@ -10,8 +10,8 @@
     <meta property="og:image" content="./assets/pitwall-logo.png">
     <link rel="icon" type="image/png" href="./assets/pitwall-logo.png">
     <link rel="apple-touch-icon" href="./assets/pitwall-logo.png">
-    <link rel="stylesheet" href="./styles.css?v=20261002-towerlayout">
-    <script src="./app.js?v=20261002-towerlayout" defer></script>
+    <link rel="stylesheet" href="./styles.css?v=20261002-articles">
+    <script src="./app.js?v=20261002-articles" defer></script>
   </head>
   <body>
     <div class="scanline" aria-hidden="true"></div>
@@ -98,6 +98,18 @@
               <div class="bit-list" id="curiosityNews"></div>
             </section>
           </div>
+        </section>
+
+        <section class="panel-view" id="article-panel" data-panel="article" aria-labelledby="articleTitle">
+          <article class="article-view" id="articleView">
+            <button class="article-back" id="articleBackBtn" type="button">Volver a noticias</button>
+            <p class="eyebrow" id="articleKicker">Pitwall Feed</p>
+            <h1 id="articleTitle">Cargando noticia</h1>
+            <p class="article-standfirst" id="articleStandfirst"></p>
+            <div class="article-hero" id="articleHero" aria-hidden="true"></div>
+            <div class="article-body" id="articleBody"></div>
+            <footer class="article-source" id="articleSource"></footer>
+          </article>
         </section>
 
         <section class="panel-view" id="live-panel" data-panel="live" aria-labelledby="live-title">
