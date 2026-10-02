@@ -280,7 +280,7 @@ main {
 .racer-stage {
   position: relative;
   width: 100%;
-  height: 100%;
+  height: clamp(360px, 43vh, 560px);
   min-height: 255px;
   pointer-events: none;
   opacity: 1;
@@ -876,6 +876,7 @@ main {
 }
 
 .racer-card {
+  height: clamp(360px, 43vh, 560px);
   min-height: 285px;
   padding: 0;
   overflow: hidden;
@@ -1623,6 +1624,7 @@ main {
   .racer-card,
   .racer-stage,
   .racer-canvas {
+    height: auto;
     min-height: 215px;
   }
 }
