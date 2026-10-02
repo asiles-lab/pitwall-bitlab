@@ -16,6 +16,7 @@ const els = {
   connection: document.querySelector("#connectionState"),
   lastSync: document.querySelector("#lastSync"),
   sessionMetric: document.querySelector("#sessionMetric"),
+  sessionFlag: document.querySelector("#sessionFlag"),
   trackMetric: document.querySelector("#trackMetric"),
   flagMetric: document.querySelector("#flagMetric"),
   weatherMetric: document.querySelector("#weatherMetric"),
@@ -329,6 +330,66 @@ function normalizeDate(value) {
 
 function formatSync(date = new Date()) {
   return `sync ${date.toLocaleTimeString("es-AR", { hour: "2-digit", minute: "2-digit", second: "2-digit" })}`;
+}
+
+function countryFlag(session) {
+  const aliases = {
+    UK: "GB",
+    UAE: "AE",
+    ABU: "AE",
+    AUS: "AU",
+    AUT: "AT",
+    AZE: "AZ",
+    BAH: "BH",
+    BEL: "BE",
+    BRA: "BR",
+    BRN: "BH",
+    CAN: "CA",
+    CHN: "CN",
+    ESP: "ES",
+    GBR: "GB",
+    HUN: "HU",
+    ITA: "IT",
+    JPN: "JP",
+    MCO: "MC",
+    MEX: "MX",
+    NED: "NL",
+    QAT: "QA",
+    SAU: "SA",
+    SGP: "SG",
+    USA: "US",
+  };
+  const nameAliases = {
+    australia: "AU",
+    austria: "AT",
+    azerbaijan: "AZ",
+    bahrain: "BH",
+    belgium: "BE",
+    brazil: "BR",
+    canada: "CA",
+    china: "CN",
+    hungary: "HU",
+    italy: "IT",
+    japan: "JP",
+    malaysia: "MY",
+    mexico: "MX",
+    monaco: "MC",
+    netherlands: "NL",
+    qatar: "QA",
+    "saudi arabia": "SA",
+    singapore: "SG",
+    spain: "ES",
+    "united arab emirates": "AE",
+    "united kingdom": "GB",
+    "united states": "US",
+  };
+  const rawCode = String(session?.country_code || "").trim().toUpperCase();
+  const countryName = String(session?.country_name || "").trim().toLowerCase();
+  const code = aliases[rawCode] || rawCode || nameAliases[countryName] || "";
+  if (/^[A-Z]{2}$/.test(code)) {
+    return [...code].map((char) => String.fromCodePoint(127397 + char.charCodeAt(0))).join("");
+  }
+  return "🏁";
 }
 
 function formatLap(seconds) {
@@ -651,9 +712,13 @@ function renderMetrics(payload, hasLivePulse) {
   const session = payload.session;
   const dateEnd = session?.date_end ? new Date(session.date_end) : null;
   const liveLabel = hasLivePulse ? "LIVE" : (dateEnd && dateEnd < new Date() ? "ultimo archivo" : "esperando");
+  const flag = session ? countryFlag(session) : "🏁";
+  const trackName = session ? `${flag} ${session.circuit_short_name || session.location || "--"}` : "--";
 
+  els.sessionFlag.textContent = flag;
+  els.sessionFlag.setAttribute("aria-label", session?.country_name ? `Bandera de ${session.country_name}` : "Bandera de sesion");
   els.sessionMetric.textContent = session ? `${session.session_name || session.session_type || "Sesion"} / ${liveLabel}` : "OpenF1";
-  els.trackMetric.textContent = session ? `${session.circuit_short_name || session.location || "--"}` : "--";
+  els.trackMetric.textContent = trackName;
   els.flagMetric.textContent = latestRace?.flag || latestRace?.category || "--";
   els.weatherMetric.textContent = latestWeather ? `${Math.round(latestWeather.track_temperature ?? 0)}C pista` : "--";
   els.lapMetric.textContent = lapNumber ? `L${lapNumber}` : "--";
