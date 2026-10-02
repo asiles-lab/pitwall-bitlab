@@ -1398,7 +1398,7 @@ function renderNews(news) {
   state.news = news;
   const allItems = allNewsItems(news);
   const items = newsSectionItems(news);
-  const general = preferSpanish(items.filter((item) => item.category === "general")).slice(0, GENERAL_NEWS_VISIBLE);
+  const general = preferSpanish(items.filter((item) => item.category !== "curiosity")).slice(0, GENERAL_NEWS_VISIBLE);
   const franco = preferSpanish(items.filter((item) => item.category === "franco")).slice(0, SIDE_NEWS_VISIBLE);
   const curiosity = preferSpanish(items.filter((item) => item.category === "curiosity" && item.language !== "en")).slice(0, SIDE_NEWS_VISIBLE);
 

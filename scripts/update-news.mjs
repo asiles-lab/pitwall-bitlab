@@ -9,20 +9,28 @@ const newsPath = resolve(root, "data/news.json");
 const PAGE_SIZE = 18;
 const MAX_ITEMS = 90;
 const BACKLOG_LIMIT = 180;
-const RELEASE_LIMIT = 2;
+const RELEASE_LIMIT = Number(process.env.NEWS_RELEASE_LIMIT) || 2;
 const MIN_RELEASE_SCORE = 32;
 const CHECK_INTERVAL_MS = 50 * 60 * 1000;
 
-const FEEDS = [
+const SOURCES = [
   {
-    source: "Motorsport.com Espanol",
-    url: "https://espanol.motorsport.com/rss/f1/news/",
+    source: "TyC Sports",
+    url: "https://www.tycsports.com/automovilismo.html",
+    type: "page",
     language: "es",
   },
   {
-    source: "Motorsport.com",
-    url: "https://www.motorsport.com/rss/f1/news/",
-    language: "en",
+    source: "TyC Sports",
+    url: "https://www.tycsports.com/franco-colapinto.html",
+    type: "page",
+    language: "es",
+  },
+  {
+    source: "TyC Sports",
+    url: "https://www.tycsports.com/formula-1.html",
+    type: "page",
+    language: "es",
   },
 ];
 
@@ -57,8 +65,35 @@ const RACE_PREVIEW_TERMS = [
 ];
 
 function decodeEntities(value = "") {
+  const named = {
+    aacute: "á",
+    eacute: "é",
+    iacute: "í",
+    oacute: "ó",
+    uacute: "ú",
+    Aacute: "Á",
+    Eacute: "É",
+    Iacute: "Í",
+    Oacute: "Ó",
+    Uacute: "Ú",
+    ntilde: "ñ",
+    Ntilde: "Ñ",
+    uuml: "ü",
+    Uuml: "Ü",
+    deg: "°",
+    ldquo: "“",
+    rdquo: "”",
+    lsquo: "‘",
+    rsquo: "’",
+    hellip: "...",
+    iquest: "¿",
+    nbsp: " ",
+  };
   return value
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => String.fromCodePoint(parseInt(code, 16)))
+    .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(Number(code)))
+    .replace(/&([a-zA-Z]+);/g, (match, name) => named[name] || match)
     .replace(/&amp;/g, "&")
     .replace(/&quot;/g, "\"")
     .replace(/&#39;/g, "'")
@@ -79,6 +114,23 @@ function tagValue(xml, tag) {
 function attrValue(xml, attr) {
   const match = xml.match(new RegExp(`${attr}=["']([^"']+)["']`, "i"));
   return match ? decodeEntities(match[1]).trim() : "";
+}
+
+function escapeRegExp(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function metaContent(html, key) {
+  const escaped = escapeRegExp(key);
+  const patterns = [
+    new RegExp(`<meta[^>]+(?:property|name)=["']${escaped}["'][^>]+content=["']([^"']*)["'][^>]*>`, "i"),
+    new RegExp(`<meta[^>]+content=["']([^"']*)["'][^>]+(?:property|name)=["']${escaped}["'][^>]*>`, "i"),
+  ];
+  for (const pattern of patterns) {
+    const match = html.match(pattern);
+    if (match) return decodeEntities(match[1]).trim();
+  }
+  return "";
 }
 
 function firstImage(xml) {
@@ -155,18 +207,117 @@ async function fetchFeed(feed) {
   }).filter((item) => item.title && item.url);
 }
 
+function extractLinks(html, sourceUrl) {
+  const links = [...html.matchAll(/<a[^>]+href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)]
+    .map((match) => ({
+      url: new URL(match[1], sourceUrl).href,
+      text: stripTags(match[2]),
+    }))
+    .filter((link) => /\.html(?:$|\?)/i.test(link.url))
+    .filter((link) => new URL(link.url).pathname.startsWith("/automovilismo/"))
+    .filter((link) => /-id\d+\.html(?:$|\?)/i.test(new URL(link.url).pathname))
+    .filter((link) => /f1|formula-?1|fórmula 1|formula 1|colapinto|alpine|briatore|gasly|grand prix|gp de/i.test(`${link.url} ${link.text}`));
+  return mergeById(links.map((link) => ({ id: stableId(link.url), ...link }))).slice(0, 18);
+}
+
+async function fetchArticle(link, source) {
+  const response = await fetch(link.url, {
+    headers: {
+      "user-agent": "Pitwall Bitlab local news updater",
+      accept: "text/html,application/xhtml+xml",
+    },
+  });
+  if (!response.ok) throw new Error(`${source.source} article ${response.status}`);
+  const html = await response.text();
+  const rawTitle = metaContent(html, "og:title") || html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i)?.[1] || link.text;
+  const title = stripTags(rawTitle).replace(/\s+-\s+TyC Sports$/i, "").trim();
+  const summary = stripTags(metaContent(html, "og:description") || metaContent(html, "description")).slice(0, 520);
+  const image = metaContent(html, "og:image") || firstImage(html);
+  const published = metaContent(html, "article:published_time")
+    || metaContent(html, "article:modified_time")
+    || html.match(/"datePublished"\s*:\s*"([^"]+)"/i)?.[1]
+    || html.match(/"dateModified"\s*:\s*"([^"]+)"/i)?.[1]
+    || new Date().toISOString();
+  const item = {
+    id: stableId(link.url),
+    title,
+    summary,
+    source: source.source,
+    sourceLabel: source.source,
+    url: link.url,
+    image,
+    language: source.language,
+    publishedAt: new Date(published).toISOString(),
+    addedAt: new Date().toISOString(),
+  };
+  item.category = classify(item);
+  item.tag = tagFor(item);
+  return item;
+}
+
+async function fetchPageSource(source) {
+  const response = await fetch(source.url, {
+    headers: {
+      "user-agent": "Pitwall Bitlab local news updater",
+      accept: "text/html,application/xhtml+xml",
+    },
+  });
+  if (!response.ok) throw new Error(`${source.source} ${response.status}`);
+  const html = await response.text();
+  const links = extractLinks(html, source.url);
+  const settled = await Promise.allSettled(links.map((link) => fetchArticle(link, source)));
+  return settled
+    .filter((result) => result.status === "fulfilled")
+    .map((result) => result.value)
+    .filter((item) => item.title && item.url);
+}
+
+function fetchSource(source) {
+  return source.type === "page" ? fetchPageSource(source) : fetchFeed(source);
+}
+
+function isFormulaItem(item) {
+  if (item.source !== "TyC Sports") return true;
+  try {
+    const path = new URL(item.url).pathname;
+    if (!path.startsWith("/automovilismo/") || !/-id\d+\.html$/i.test(path)) return false;
+  } catch {
+    return false;
+  }
+  return /f1|formula-?1|fórmula 1|formula 1|colapinto|alpine|briatore|gasly|grand prix|gp de|malasia/i.test(`${item.url} ${item.title} ${item.summary}`);
+}
+
+function orderNews(items) {
+  return [...items].sort((a, b) => {
+    const sourceDelta = Number(b.source === "TyC Sports") - Number(a.source === "TyC Sports");
+    if (sourceDelta) return sourceDelta;
+    return new Date(b.publishedAt) - new Date(a.publishedAt);
+  });
+}
+
 function score(item) {
   const text = `${item.title} ${item.summary}`.toLowerCase();
   let value = 0;
   if (item.category === "general") value += 10;
   if (item.category === "franco") value += 16;
   if (item.category === "curiosity") value += 8;
+  if (item.source === "TyC Sports") value += 18;
   if (item.language === "es") value += 8;
   if (item.image) value += 4;
   if (RACE_PREVIEW_TERMS.some((term) => text.includes(term))) value += 12;
   if (text.includes("colapinto")) value += 20;
   if (text.includes("motor") || text.includes("engine") || text.includes("penaliz") || text.includes("grid penalty")) value += 14;
   if (text.includes("formula 1") || text.includes("f1")) value += 3;
+  const published = new Date(item.publishedAt).getTime();
+  if (!Number.isNaN(published)) {
+    const ageHours = (Date.now() - published) / 3600000;
+    if (ageHours <= 3) value += 25;
+    else if (ageHours <= 12) value += 18;
+    else if (ageHours <= 24) value += 12;
+    else if (ageHours <= 72) value += 4;
+    else if (ageHours > 720) value -= 50;
+    else if (ageHours > 168) value -= 20;
+  }
   return value;
 }
 
@@ -238,31 +389,39 @@ async function main() {
     return;
   }
 
-  const previousItems = (existing.pages || []).flatMap((page) => page.items || []);
+  const fetched = (await Promise.allSettled(SOURCES.map(fetchSource)))
+    .flatMap((result) => result.status === "fulfilled" ? result.value : [])
+    .filter(isFormulaItem);
+  const fetchedById = new Map(fetched.map((item) => [item.id, item]));
+  const previousItems = (existing.pages || []).flatMap((page) => page.items || [])
+    .filter(isFormulaItem)
+    .map((item) => {
+      const fresh = fetchedById.get(item.id);
+      return fresh ? { ...fresh, addedAt: item.addedAt || fresh.addedAt } : item;
+    });
   const previousById = new Map(previousItems.map((item) => [item.id, item]));
   const publishedIds = new Set(previousById.keys());
-  const fetched = (await Promise.allSettled(FEEDS.map(fetchFeed)))
-    .flatMap((result) => result.status === "fulfilled" ? result.value : []);
 
   const normalizedFetched = fetched.map((item) => {
     const previous = previousById.get(item.id);
     return previous ? { ...item, addedAt: previous.addedAt } : item;
   });
   const incomingQueue = normalizedFetched.filter((item) => !publishedIds.has(item.id));
-  const existingQueue = Array.isArray(existing.backlog) ? existing.backlog.filter((item) => !publishedIds.has(item.id)) : [];
+  const currentSources = new Set(SOURCES.map((source) => source.source));
+  const existingQueue = Array.isArray(existing.backlog) ? existing.backlog.filter((item) => !publishedIds.has(item.id) && currentSources.has(item.source)) : [];
   const queue = sortNews(mergeById([...existingQueue, ...incomingQueue]));
   const { release, remaining } = pickRelease(queue);
 
   const backlog = sortNews(remaining).slice(0, BACKLOG_LIMIT);
   const nowIso = now.toISOString();
-  const items = release.length
-    ? mergeById([...release, ...previousItems]).slice(0, MAX_ITEMS)
-    : previousItems.slice(0, MAX_ITEMS);
+  const items = orderNews(release.length
+    ? mergeById([...release, ...previousItems])
+    : previousItems).slice(0, MAX_ITEMS);
   const payload = {
     updatedAt: release.length || !previousItems.length ? nowIso : (existing.updatedAt || nowIso),
     checkedAt: nowIso,
     pageSize: PAGE_SIZE,
-    sources: FEEDS.map(({ source, url }) => ({ source, url })),
+    sources: SOURCES.map(({ source, url }) => ({ source, url })),
     releasePolicy: {
       maxPerRun: RELEASE_LIMIT,
       minScore: MIN_RELEASE_SCORE,
