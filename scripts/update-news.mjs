@@ -22,20 +22,37 @@ const SOURCES = [
   },
   {
     source: "TyC Sports",
-    url: "https://www.tycsports.com/franco-colapinto.html",
-    type: "page",
-    language: "es",
-  },
-  {
-    source: "TyC Sports",
-    url: "https://www.tycsports.com/formula-1.html",
+    url: "https://www.tycsports.com/automovilismo/formula-1.html",
     type: "page",
     language: "es",
   },
 ];
 
+const SUPPORT_SOURCES = [
+  {
+    source: "Formula 2",
+    url: "https://www.fiaformula2.com/en/latest/all.xml",
+    type: "rss",
+    language: "en",
+    series: "F2",
+  },
+  {
+    source: "Formula 3",
+    url: "https://www.fiaformula3.com/en/latest/all.xml",
+    type: "rss",
+    language: "en",
+    series: "F3",
+  },
+  {
+    source: "F1 Academy",
+    url: "https://www.f1academy.com/Latest?filters=News",
+    type: "academy",
+    language: "en",
+    series: "F1 Academy",
+  },
+];
+
 const FRANCO_TERMS = ["colapinto", "franco", "alpine"];
-const CURIOSITY_TERMS = ["stat", "record", "history", "curious", "dato", "curioso", "historia", "ranking"];
 const GENERAL_TERMS = ["f1", "formula 1", "grand prix", "gp", "fia", "qualifying", "race"];
 const RACE_PREVIEW_TERMS = [
   "race",
@@ -133,6 +150,35 @@ function metaContent(html, key) {
   return "";
 }
 
+function firstJsonLdValue(html, key) {
+  for (const match of html.matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)) {
+    try {
+      const data = JSON.parse(decodeEntities(match[1]).trim());
+      const entries = Array.isArray(data) ? data : [data];
+      for (const entry of entries) {
+        if (entry && typeof entry === "object" && typeof entry[key] === "string") return entry[key];
+        if (Array.isArray(entry?.["@graph"])) {
+          const found = entry["@graph"].find((item) => typeof item?.[key] === "string");
+          if (found) return found[key];
+        }
+      }
+    } catch {
+      // Ignore malformed embedded metadata.
+    }
+  }
+  return "";
+}
+
+function extractParagraphs(html) {
+  const articleMatch = html.match(/<article[\s\S]*?<\/article>/i);
+  const scoped = articleMatch ? articleMatch[0] : html;
+  const paragraphs = [...scoped.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)]
+    .map((match) => stripTags(match[1]))
+    .filter((paragraph) => paragraph.length > 70)
+    .filter((paragraph) => !/también te puede interesar|seguí leyendo|newsletter|suscrib/i.test(paragraph));
+  return [...new Set(paragraphs)].slice(0, 5);
+}
+
 function firstImage(xml) {
   const media = xml.match(/<media:(?:content|thumbnail)[^>]+>/i)?.[0] || "";
   const enclosure = xml.match(/<enclosure[^>]+>/i)?.[0] || "";
@@ -146,7 +192,6 @@ function firstImage(xml) {
 function classify(item) {
   const text = `${item.title} ${item.summary}`.toLowerCase();
   if (FRANCO_TERMS.some((term) => text.includes(term))) return "franco";
-  if (item.language === "es" && CURIOSITY_TERMS.some((term) => text.includes(term))) return "curiosity";
   if (GENERAL_TERMS.some((term) => text.includes(term))) return "general";
   return "general";
 }
@@ -154,6 +199,7 @@ function classify(item) {
 function tagFor(item) {
   const text = `${item.title} ${item.summary}`.toLowerCase();
   if (item.category === "franco") return "Franco";
+  if (item.category === "support") return item.series || "Soporte";
   if (text.includes("qualifying") || text.includes("clasificacion")) return "Clasificacion";
   if (text.includes("weather") || text.includes("clima") || text.includes("rain") || text.includes("lluvia") || text.includes("forecast") || text.includes("pronostico")) return "Clima";
   if (text.includes("preview") || text.includes("previa") || text.includes("esperan")) return "Previa";
@@ -161,7 +207,6 @@ function tagFor(item) {
   if (text.includes("race") || text.includes("carrera")) return "Carrera";
   if (text.includes("fia") || text.includes("rules") || text.includes("reglas")) return "Reglamento";
   if (text.includes("market") || text.includes("contract") || text.includes("contrato")) return "Mercado";
-  if (item.category === "curiosity") return "Dato";
   return "F1";
 }
 
@@ -232,6 +277,10 @@ async function fetchArticle(link, source) {
   const rawTitle = metaContent(html, "og:title") || html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i)?.[1] || link.text;
   const title = stripTags(rawTitle).replace(/\s+-\s+TyC Sports$/i, "").trim();
   const summary = stripTags(metaContent(html, "og:description") || metaContent(html, "description")).slice(0, 520);
+  const body = [
+    ...extractParagraphs(html),
+    stripTags(firstJsonLdValue(html, "articleBody")),
+  ].filter(Boolean).join("\n\n").slice(0, 1800);
   const image = metaContent(html, "og:image") || firstImage(html);
   const published = metaContent(html, "article:published_time")
     || metaContent(html, "article:modified_time")
@@ -246,6 +295,7 @@ async function fetchArticle(link, source) {
     sourceLabel: source.source,
     url: link.url,
     image,
+    body,
     language: source.language,
     publishedAt: new Date(published).toISOString(),
     addedAt: new Date().toISOString(),
@@ -273,11 +323,15 @@ async function fetchPageSource(source) {
 }
 
 function fetchSource(source) {
+  if (source.type === "rss") return fetchSupportFeed(source);
+  if (source.type === "academy") return fetchAcademySource(source);
   return source.type === "page" ? fetchPageSource(source) : fetchFeed(source);
 }
 
 function isFormulaItem(item) {
-  if (item.source !== "TyC Sports") return true;
+  if (item.category === "support") return true;
+  if (item.category === "curiosity") return false;
+  if (item.source !== "TyC Sports") return false;
   try {
     const path = new URL(item.url).pathname;
     if (!path.startsWith("/automovilismo/") || !/-id\d+\.html$/i.test(path)) return false;
@@ -289,10 +343,69 @@ function isFormulaItem(item) {
 
 function orderNews(items) {
   return [...items].sort((a, b) => {
+    const supportDelta = Number(a.category === "support") - Number(b.category === "support");
+    if (supportDelta) return supportDelta;
     const sourceDelta = Number(b.source === "TyC Sports") - Number(a.source === "TyC Sports");
     if (sourceDelta) return sourceDelta;
     return new Date(b.publishedAt) - new Date(a.publishedAt);
   });
+}
+
+async function fetchSupportFeed(source) {
+  const items = await fetchFeed(source);
+  return items.slice(0, 8).map((item) => ({
+    ...item,
+    category: "support",
+    tag: source.series,
+    series: source.series,
+    source: source.source,
+    sourceLabel: source.source,
+  }));
+}
+
+async function fetchAcademySource(source) {
+  const response = await fetch(source.url, {
+    headers: {
+      "user-agent": "Pitwall Bitlab local news updater",
+      accept: "text/html,application/xhtml+xml",
+    },
+  });
+  if (!response.ok) throw new Error(`${source.source} ${response.status}`);
+  const html = await response.text();
+  const links = [...html.matchAll(/<a[^>]+href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)]
+    .map((match) => ({
+      url: new URL(match[1], source.url).href,
+      text: stripTags(match[2]),
+    }))
+    .filter((link) => {
+      const path = new URL(link.url).pathname;
+      return /\/Latest\/[^/?#]+\/[^/?#]+/i.test(path) && !/\/Latest\/Tag\//i.test(path);
+    })
+    .slice(0, 8);
+  return links
+    .map((link, index) => {
+      const title = link.text.replace(/^News\s+/i, "").trim();
+      return {
+        id: stableId(link.url),
+        title,
+        summary: title,
+        source: source.source,
+        sourceLabel: source.source,
+        url: link.url,
+        image: "",
+        language: source.language,
+        publishedAt: new Date(Date.now() - index * 60000).toISOString(),
+        addedAt: new Date().toISOString(),
+      };
+    })
+    .map((item) => ({
+      ...item,
+      category: "support",
+      tag: source.series,
+      series: source.series,
+      source: source.source,
+      sourceLabel: source.source,
+    }));
 }
 
 function score(item) {
@@ -300,7 +413,6 @@ function score(item) {
   let value = 0;
   if (item.category === "general") value += 10;
   if (item.category === "franco") value += 16;
-  if (item.category === "curiosity") value += 8;
   if (item.source === "TyC Sports") value += 18;
   if (item.language === "es") value += 8;
   if (item.image) value += 4;
@@ -325,8 +437,7 @@ function rebalance(items) {
   const sorted = [...items].sort((a, b) => score(b) - score(a) || new Date(b.publishedAt) - new Date(a.publishedAt));
   const general = sorted.filter((item) => item.category === "general").slice(0, 9);
   const franco = sorted.filter((item) => item.category === "franco").slice(0, 5);
-  const curiosity = sorted.filter((item) => item.category === "curiosity").slice(0, 4);
-  const selected = [...general, ...franco, ...curiosity];
+  const selected = [...general, ...franco];
   const selectedIds = new Set(selected.map((item) => item.id));
   return [
     ...selected,
@@ -389,7 +500,12 @@ async function main() {
     return;
   }
 
-  const fetched = (await Promise.allSettled(SOURCES.map(fetchSource)))
+  const allSources = [...SOURCES, ...SUPPORT_SOURCES];
+  const sourceResults = await Promise.allSettled(allSources.map(fetchSource));
+  sourceResults.forEach((result, index) => {
+    if (result.status === "rejected") console.warn(`Fuente omitida: ${allSources[index].source} - ${result.reason?.message || result.reason}`);
+  });
+  const fetched = sourceResults
     .flatMap((result) => result.status === "fulfilled" ? result.value : [])
     .filter(isFormulaItem);
   const fetchedById = new Map(fetched.map((item) => [item.id, item]));
@@ -406,22 +522,26 @@ async function main() {
     const previous = previousById.get(item.id);
     return previous ? { ...item, addedAt: previous.addedAt } : item;
   });
-  const incomingQueue = normalizedFetched.filter((item) => !publishedIds.has(item.id));
-  const currentSources = new Set(SOURCES.map((source) => source.source));
+  const supportItems = SUPPORT_SOURCES.flatMap((source) => (
+    sortNews(normalizedFetched.filter((item) => item.category === "support" && item.series === source.series)).slice(0, 3)
+  ));
+  const incomingQueue = normalizedFetched.filter((item) => item.category !== "support" && !publishedIds.has(item.id));
+  const currentSources = new Set(allSources.map((source) => source.source));
   const existingQueue = Array.isArray(existing.backlog) ? existing.backlog.filter((item) => !publishedIds.has(item.id) && currentSources.has(item.source)) : [];
   const queue = sortNews(mergeById([...existingQueue, ...incomingQueue]));
   const { release, remaining } = pickRelease(queue);
 
   const backlog = sortNews(remaining).slice(0, BACKLOG_LIMIT);
   const nowIso = now.toISOString();
+  const previousCoreItems = previousItems.filter((item) => item.category !== "support");
   const items = orderNews(release.length
-    ? mergeById([...release, ...previousItems])
-    : previousItems).slice(0, MAX_ITEMS);
+    ? mergeById([...release, ...supportItems, ...previousCoreItems])
+    : mergeById([...supportItems, ...previousCoreItems])).slice(0, MAX_ITEMS);
   const payload = {
     updatedAt: release.length || !previousItems.length ? nowIso : (existing.updatedAt || nowIso),
     checkedAt: nowIso,
     pageSize: PAGE_SIZE,
-    sources: SOURCES.map(({ source, url }) => ({ source, url })),
+    sources: allSources.map(({ source, url }) => ({ source, url })),
     releasePolicy: {
       maxPerRun: RELEASE_LIMIT,
       minScore: MIN_RELEASE_SCORE,

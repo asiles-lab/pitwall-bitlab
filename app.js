@@ -53,7 +53,7 @@ const els = {
   racerCanvas: document.querySelector("#racerCanvas"),
   generalNews: document.querySelector("#generalNews"),
   francoNews: document.querySelector("#francoNews"),
-  curiosityNews: document.querySelector("#curiosityNews"),
+  supportNews: document.querySelector("#supportNews"),
   newsMeta: document.querySelector("#newsMeta"),
   newsHistory: document.querySelector("#newsHistory"),
   francoHistory: document.querySelector("#francoHistory"),
@@ -72,93 +72,11 @@ const GENERAL_NEWS_VISIBLE = 7;
 const SIDE_NEWS_VISIBLE = 2;
 
 const FALLBACK_NEWS = {
-  updatedAt: "2026-10-01T00:00:00.000Z",
-  pages: [
-    {
-      page: 1,
-      createdAt: "2026-10-01T00:00:00.000Z",
-      items: [
-        {
-          title: "Russell gano una carrera caotica en Baku y recorto distancia en el campeonato.",
-          summary: "Mercedes salio reforzada del GP de Azerbaiyan: Russell resistio a Verstappen por apenas unas decimas y el campeonato quedo mas comprimido en la parte alta.",
-          category: "general",
-          tag: "Carrera anterior",
-          source: "Formula1.com",
-          sourceLabel: "Formula1.com · reporte de carrera",
-          url: "https://www.formula1.com/en/latest/article/russell-narrowly-holds-off-verstappen-to-take-victory-over-the-line-in-chaotic-azerbaijan-gp.5J4lgNh82JDL2GM302irF0.5J4lgNh82JDL2GM302irF0.5J4lgNh82JDL2GM302irF0",
-          image: "",
-        },
-        {
-          title: "Ocon confirma su salida de Haas, pero quiere seguir en F1.",
-          summary: "El movimiento abre una pieza importante del tablero 2027, con Haas mirando alternativas y Ocon dispuesto incluso a aceptar un rol de reserva si lo mantiene cerca de la parrilla.",
-          category: "general",
-          tag: "Mercado",
-          source: "Formula1.com",
-          sourceLabel: "Formula1.com · entrevista",
-          url: "https://www.formula1.com/en/latest/article/dont-write-me-off-yet-ocon-confirms-his-goal-is-to-remain-in-f1-after-haas-exit.1zmmzN3SyofnCfZKiggyXh.1zmmzN3SyofnCfZKiggyXh",
-          image: "",
-        },
-        {
-          title: "Mercedes llega a Bahrain con mejoras y Russell cree que pueden favorecerlo.",
-          summary: "La lectura estrategica: si la actualizacion consolida ritmo de carrera, Mercedes puede convertir su ventaja de puntos en control real de fines de semana.",
-          category: "general",
-          tag: "Tecnica",
-          source: "Formula1.com",
-          sourceLabel: "Formula1.com · previa tecnica",
-          url: "https://www.formula1.com/en/latest/article/bring-it-on-russell-predicts-mercedes-bahrain-upgrades-could-play-in-my-favour.2MrIZO0XrStD76V1fTLAlA",
-          image: "",
-        },
-        {
-          title: "Renovacion hasta 2027",
-          summary: "Alpine anuncio la continuidad de Franco y Pierre para 2027; el equipo destaco su progreso y los resultados de Miami y Montreal.",
-          category: "franco",
-          source: "Formula1.com",
-          url: "https://www.formula1.com/en/latest/article/alpine-announce-colapinto-contract-extension-as-team-confirms-unchanged-2027-line-up.DL3dVyZLJm5cHryWcHyPq",
-          image: "",
-        },
-        {
-          title: "Mejor fin de semana en Espana",
-          summary: "Colapinto califico su P7 en el GP de Espana como probablemente su mejor ejecucion con Alpine.",
-          category: "franco",
-          source: "Formula1.com",
-          url: "https://www.formula1.com/en/latest/article/probably-my-best-race-weekend-colapinto-reflects-on-p7-finish-in-spanish-gp.395CYAwUKuufzUiDFKhty7",
-          image: "",
-        },
-        {
-          title: "Baku dejo ruido, disculpas y aprendizaje",
-          summary: "Tras el incidente con Norris y Gasly, Norris publico disculpas y Alpine condeno abusos online contra sus pilotos.",
-          category: "franco",
-          source: "Cadena SER",
-          url: "https://cadenaser.com/nacional/2026/09/28/norris-se-disculpa-con-colapinto-por-sus-dichos-tras-el-gp-de-baku-fue-un-error-por-mi-parte-cadena-ser/",
-          image: "",
-        },
-        {
-          title: "0.196s",
-          summary: "separaron a Russell y Verstappen en Baku; F1 lo ubica cerca del top 10 historico de finales mas cerrados.",
-          category: "curiosity",
-          source: "Formula1.com",
-          url: "https://www.formula1.com/",
-          image: "",
-        },
-        {
-          title: "10 anos",
-          summary: "cumplio Azerbaiyan dentro del calendario con otra carrera marcada por Safety Cars.",
-          category: "curiosity",
-          source: "Formula1.com",
-          url: "https://www.formula1.com/",
-          image: "",
-        },
-        {
-          title: "27 pts",
-          summary: "suma Colapinto en el campeonato oficial, 12º entre pilotos.",
-          category: "curiosity",
-          source: "Formula1.com",
-          url: "https://www.formula1.com/en/results/2026/drivers",
-          image: "",
-        },
-      ],
-    },
-  ],
+  updatedAt: "",
+  checkedAt: "",
+  pageSize: 18,
+  sources: [],
+  pages: [{ page: 1, createdAt: "", items: [] }],
 };
 
 const DRIVER_STANDINGS = [
@@ -1283,12 +1201,12 @@ function miniNews(item) {
   `;
 }
 
-function curiosityItem(item) {
+function supportItem(item) {
   return `
     <article>
       <a href="${escapeHtml(newsUrl(item))}">
-        <strong>${escapeHtml(item.title)}</strong>
-        <span>${escapeHtml(excerpt(item.summary || "", 164))}</span>
+        <strong>${escapeHtml(item.series || item.tag || sourceText(item))} · ${escapeHtml(item.title)}</strong>
+        <span>${escapeHtml(excerpt(item.summary || "", 190))}</span>
         <em>${escapeHtml(sourceText(item))}</em>
       </a>
     </article>
@@ -1334,7 +1252,13 @@ function currentArticleId() {
 
 function articleParagraphs(item) {
   const summary = String(item.summary || "").trim();
-  const paragraphs = summary ? [summary] : ["No hay un resumen disponible para esta nota."];
+  const bodyParagraphs = String(item.body || "")
+    .split(/\n{2,}/)
+    .map((paragraph) => paragraph.replace(/\s+/g, " ").trim())
+    .filter((paragraph) => paragraph.length > 60);
+  const paragraphs = bodyParagraphs.length
+    ? bodyParagraphs
+    : (summary ? [summary] : ["No hay un resumen disponible para esta nota."]);
   const text = `${item.title} ${summary}`.toLowerCase();
   if (text.includes("motor") || text.includes("penaliz")) {
     paragraphs.push("Lectura Pitwall: esta noticia cambia la preparación de la sesión porque una penalización de parrilla modifica la prioridad entre ritmo puro, gestión de neumáticos y estrategia de adelantamiento.");
@@ -1364,6 +1288,21 @@ function renderArticle(item) {
   showPanel("article");
   window.scrollTo({ top: 0, behavior: "smooth" });
   return true;
+}
+
+function restoreHomeScroll(recheck = true) {
+  const feed = els.generalNews?.closest(".feature-news");
+  if (!feed) return;
+  const top = window.scrollY + feed.getBoundingClientRect().top - 90;
+  window.scrollTo({ top: Math.max(0, top), behavior: "auto" });
+  if (recheck) setTimeout(() => restoreHomeScroll(false), 90);
+}
+
+function returnToHome() {
+  history.pushState("", document.title, window.location.pathname + window.location.search);
+  if (state.news) renderNews(state.news);
+  showPanel("home");
+  requestAnimationFrame(() => setTimeout(restoreHomeScroll, 0));
 }
 
 function handleArticleRoute() {
@@ -1398,9 +1337,9 @@ function renderNews(news) {
   state.news = news;
   const allItems = allNewsItems(news);
   const items = newsSectionItems(news);
-  const general = preferSpanish(items.filter((item) => item.category !== "curiosity")).slice(0, GENERAL_NEWS_VISIBLE);
+  const general = preferSpanish(items.filter((item) => item.category !== "curiosity" && item.category !== "support")).slice(0, GENERAL_NEWS_VISIBLE);
   const franco = preferSpanish(items.filter((item) => item.category === "franco")).slice(0, SIDE_NEWS_VISIBLE);
-  const curiosity = preferSpanish(items.filter((item) => item.category === "curiosity" && item.language !== "en")).slice(0, SIDE_NEWS_VISIBLE);
+  const support = items.filter((item) => item.category === "support").slice(0, 3);
 
   if (els.newsMeta) {
     const pages = newsPages(news).length || 1;
@@ -1412,7 +1351,7 @@ function renderNews(news) {
   }
   renderNewsBucket(els.generalNews, general, newsCard, "Sin notas F1 en esta pagina.");
   renderNewsBucket(els.francoNews, franco, miniNews, "Sin notas de Franco en esta pagina.");
-  renderNewsBucket(els.curiosityNews, curiosity, curiosityItem, "Sin datos curiosos en esta pagina.");
+  renderNewsBucket(els.supportNews, support, supportItem, "Sin novedades de F2, F3 o F1 Academy en esta pagina.");
   renderNewsHistory(news);
   handleArticleRoute();
 }
@@ -1427,11 +1366,14 @@ function setupNewsHistory() {
     });
   }
   els.articleBackBtn?.addEventListener("click", () => {
-    history.pushState("", document.title, window.location.pathname + window.location.search);
-    showPanel("home");
+    returnToHome();
   });
   window.addEventListener("hashchange", () => {
-    if (!handleArticleRoute() && !currentArticleId()) showPanel("home");
+    if (!handleArticleRoute() && !currentArticleId()) {
+      if (state.news) renderNews(state.news);
+      showPanel("home");
+      requestAnimationFrame(() => setTimeout(restoreHomeScroll, 0));
+    }
   });
 }
 
