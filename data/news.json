@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-02T13:16:30.236Z",
-  "checkedAt": "2026-10-02T13:16:30.236Z",
+  "updatedAt": "2026-10-02T15:55:20.812Z",
+  "checkedAt": "2026-10-02T15:55:20.812Z",
   "pageSize": 18,
   "sources": [
     {
@@ -15,23 +15,10 @@
   "releasePolicy": {
     "maxPerRun": 2,
     "minScore": 32,
-    "cadence": "hourly"
+    "cadence": "hourly",
+    "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "www-motorsport-com-f1-news-mercedes-finally-brings-big-upgrade-and-f1-fans-are-asking-if-its-game-over-10860843-utm-sour",
-      "title": "Mercedes finally brings big upgrade and F1 fans are asking if it's game over",
-      "summary": "Mercedes went five months without touching the W17 and still built a 160-point lead over Ferrari in the constructors' championship. Six wins in ten races will do that. So when the team finally rolled out a serious upgrade package at Sepang ",
-      "source": "Motorsport.com",
-      "sourceLabel": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-finally-brings-big-upgrade-and-f1-fans-are-asking-if-its-game-over/10860843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-4.motorsport.com/images/amp/27NoRR30/s6/untitled-design-10.jpg",
-      "language": "en",
-      "publishedAt": "2026-10-02T06:10:52.000Z",
-      "addedAt": "2026-10-02T06:58:27.844Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
     {
       "id": "www-motorsport-com-f1-news-f1-bahrain-gp-in-malaysia-10860811-utm-source-rss-utm-medium-referral-utm-campaign-rss-f1-utm",
       "title": "F1 Bahrain GP in Malaysia: Max Verstappen tops FP1",
@@ -246,8 +233,22 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-02T13:16:30.237Z",
+      "createdAt": "2026-10-02T15:55:23.950Z",
       "items": [
+        {
+          "id": "www-motorsport-com-f1-news-mercedes-finally-brings-big-upgrade-and-f1-fans-are-asking-if-its-game-over-10860843-utm-sour",
+          "title": "Mercedes finally brings big upgrade and F1 fans are asking if it's game over",
+          "summary": "Mercedes went five months without touching the W17 and still built a 160-point lead over Ferrari in the constructors' championship. Six wins in ten races will do that. So when the team finally rolled out a serious upgrade package at Sepang ",
+          "source": "Motorsport.com",
+          "sourceLabel": "Motorsport.com",
+          "url": "https://www.motorsport.com/f1/news/mercedes-finally-brings-big-upgrade-and-f1-fans-are-asking-if-its-game-over/10860843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+          "image": "https://cdn-4.motorsport.com/images/amp/27NoRR30/s6/untitled-design-10.jpg",
+          "language": "en",
+          "publishedAt": "2026-10-02T06:10:52.000Z",
+          "addedAt": "2026-10-02T06:58:27.844Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
         {
           "id": "espanol-motorsport-com-f1-news-horarios-pronostico-como-ver-fp3-clasificacion-gp-bahrein-malasia-10860842-utm-source-rss",
           "title": "F1 2026: Horarios, pronóstico del tiempo y cómo ver la FP3 y clasificación del GP de Bahréin en Malasia",
@@ -485,7 +486,13 @@
           "addedAt": "2026-10-02T01:44:31.367Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-02T15:55:23.950Z",
+      "items": [
         {
           "id": "espanol-motorsport-com-f1-news-russell-detalla-viaje-de-pilotos-de-f1-a-langkawi-10860360-utm-source-rss-utm-medium-refe",
           "title": "Russell detalla el viaje de pilotos de F1 a Langkawi antes del GP de Bahréin en Malasia",
@@ -499,13 +506,7 @@
           "addedAt": "2026-10-02T01:44:31.367Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-02T13:16:30.237Z",
-      "items": [
+        },
         {
           "id": "espanol-motorsport-com-f1-news-analista-cuestiona-la-mejora-de-mclaren-tras-decepcion-de-azerbaiyan-10860301-utm-source-",
           "title": "Analista de la F1 cuestiona la mejora de McLaren tras la decepción del GP de Azerbaiyán",
@@ -743,7 +744,13 @@
           "addedAt": "2026-10-02T01:44:31.368Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "createdAt": "2026-10-02T15:55:23.950Z",
+      "items": [
         {
           "id": "espanol-motorsport-com-f1-news-mercedes-decoracion-especial-malasia-10860232-utm-source-rss-utm-medium-referral-utm-camp",
           "title": "Mercedes presenta una decoración especial para el regreso de la F1 a Malasia",
@@ -757,13 +764,7 @@
           "addedAt": "2026-10-02T01:44:31.368Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 3,
-      "createdAt": "2026-10-02T13:16:30.237Z",
-      "items": [
+        },
         {
           "id": "espanol-motorsport-com-f1-news-russell-senala-preocupacion-por-los-neumaticos-para-malasia-10860665-utm-source-rss-utm-m",
           "title": "Russell señala su preocupación por los neumáticos para el Gran Premio de Bahréin en Malasia",
@@ -1001,7 +1002,13 @@
           "addedAt": "2026-10-02T01:44:31.139Z",
           "category": "general",
           "tag": "Clima"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-02T15:55:23.950Z",
+      "items": [
         {
           "id": "www-motorsport-com-f1-news-max-verstappen-to-go-up-against-valentino-rossi-as-he-adds-gt3-race-to-hectic-f1-schedule-108",
           "title": "Max Verstappen to make GT3 return against Valentino Rossi, race on seven weekends in a row",
@@ -1015,13 +1022,7 @@
           "addedAt": "2026-10-02T01:44:31.139Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-02T13:16:30.237Z",
-      "items": [
+        },
         {
           "id": "www-motorsport-com-f1-news-bottas-degrading-suspension-old-ferrari-engine-causes-of-azerbaijan-f1-horror-show-10860401-u",
           "title": "Valtteri Bottas reveals causes of his Azerbaijan F1 horror show",
@@ -1259,7 +1260,13 @@
           "addedAt": "2026-10-02T01:44:31.367Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-02T15:55:23.950Z",
+      "items": [
         {
           "id": "espanol-motorsport-com-f1-news-comentarista-de-f1-dice-pilotos-son-complices-si-guardan-silencio-ante-abusos-en-redes-10",
           "title": "Comentarista de F1 dice que los pilotos son \"cómplices\" si guardan silencio ante los abusos en redes sociales",
@@ -1273,13 +1280,7 @@
           "addedAt": "2026-10-02T01:44:31.367Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-02T13:16:30.237Z",
-      "items": [
+        },
         {
           "id": "espanol-motorsport-com-f1-news-vettel-no-descarta-rol-en-formula-1-10860246-utm-source-rss-utm-medium-referral-utm-campa",
           "title": "Vettel no descarta asumir un papel en la F1 mientras disfruta del retiro",
@@ -1515,20 +1516,6 @@
           "language": "en",
           "publishedAt": "2026-10-01T19:40:59.000Z",
           "addedAt": "2026-10-02T01:44:31.136Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "www-motorsport-com-f1-news-lance-stroll-honda-engine-makes-f1-aston-martin-slower-by-two-seconds-a-lap-10860686-utm-sour",
-          "title": "Lance Stroll: Honda F1 engine makes Aston Martin slower by two seconds a lap",
-          "summary": "Aston Martin announced this week that both Lance Stroll and Fernando Alonso would be returning for another season in 2027. Of course, only Alonso's future was in doubt given that Stroll's father owns the team. Alonso's two main concerns hav",
-          "source": "Motorsport.com",
-          "sourceLabel": "Motorsport.com",
-          "url": "https://www.motorsport.com/f1/news/lance-stroll-honda-engine-makes-f1-aston-martin-slower-by-two-seconds-a-lap/10860686/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-          "image": "https://cdn-5.motorsport.com/images/amp/0qgKdewY/s6/lance-stroll-aston-martin-raci.jpg",
-          "language": "en",
-          "publishedAt": "2026-10-01T16:15:08.000Z",
-          "addedAt": "2026-10-02T01:44:31.137Z",
           "category": "general",
           "tag": "F1"
         }

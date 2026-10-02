@@ -197,9 +197,11 @@ function mergeById(items) {
 }
 
 function pickRelease(queue) {
-  const release = sortNews(queue)
+  const sorted = sortNews(queue);
+  const relevant = sorted
     .filter((item) => score(item) >= MIN_RELEASE_SCORE)
     .slice(0, RELEASE_LIMIT);
+  const release = relevant.length ? relevant : sorted.slice(0, 1);
   const used = new Set(release.map((item) => item.id));
   return {
     release: sortNews(release),
@@ -265,6 +267,7 @@ async function main() {
       maxPerRun: RELEASE_LIMIT,
       minScore: MIN_RELEASE_SCORE,
       cadence: "hourly",
+      fallbackPerRun: 1,
     },
     backlog,
     pages: paginate(items),
