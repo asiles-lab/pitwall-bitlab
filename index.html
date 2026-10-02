@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pitwall Bitlab | Inicio</title>
+    <meta name="description" content="Centro local de datos estrategicos para sesiones de Formula 1 con datos de OpenF1.">
+    <meta property="og:title" content="Pitwall Bitlab">
+    <meta property="og:description" content="Centro local de datos, noticias y live timing de Formula 1.">
+    <meta property="og:image" content="./assets/pitwall-logo.png">
+    <link rel="icon" type="image/png" href="./assets/pitwall-logo.png">
+    <link rel="apple-touch-icon" href="./assets/pitwall-logo.png">
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <div class="scanline" aria-hidden="true"></div>
+    <div class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="#home-panel" aria-label="Pitwall Bitlab">
+          <span class="brand-mark"><img src="./assets/pitwall-logo.png" alt=""></span>
+          <span>
+            <strong>Pitwall Bitlab</strong>
+            <small>centro no oficial</small>
+          </span>
+        </a>
+
+        <nav class="nav-tabs" aria-label="Secciones">
+          <button class="nav-tab is-active" type="button" data-tab="home">Inicio</button>
+          <button class="nav-tab" type="button" data-tab="live">Ver en Vivo</button>
+          <button class="nav-tab" type="button" data-tab="archive">Archivo</button>
+        </nav>
+
+        <div class="top-actions">
+          <button class="icon-btn" id="refreshBtn" type="button" title="Actualizar datos" aria-label="Actualizar datos">&#8635;</button>
+          <button class="utility-btn" id="settingsBtn" type="button" aria-expanded="false" aria-controls="settingsPanel">API</button>
+        </div>
+      </header>
+
+      <section class="settings-panel" id="settingsPanel" hidden>
+        <div>
+          <label for="tokenInput">OpenF1 token</label>
+          <input id="tokenInput" type="password" autocomplete="off" spellcheck="false" placeholder="Bearer token opcional">
+        </div>
+        <div class="settings-actions">
+          <button class="utility-btn strong" id="saveTokenBtn" type="button">Guardar</button>
+          <button class="utility-btn" id="clearTokenBtn" type="button">Borrar</button>
+        </div>
+      </section>
+
+      <main>
+        <section class="panel-view is-active" id="home-panel" data-panel="home" aria-labelledby="home-title">
+          <div class="command-ribbon">
+            <div class="title-block">
+              <p class="eyebrow">Actualidad F1</p>
+              <h1 id="home-title">Pitwall Feed</h1>
+            </div>
+          </div>
+
+          <div class="home-layout">
+            <section class="panel racer-card" aria-label="Animacion de Franco Colapinto">
+              <div class="racer-stage" aria-hidden="true">
+            <video id="racerVideo" class="racer-video-source" muted loop playsinline preload="auto">
+              <source src="./assets/racer-horizon.mp4" type="video/mp4">
+            </video>
+            <canvas id="racerCanvas" class="racer-canvas"></canvas>
+              </div>
+            </section>
+
+            <section class="panel franco-panel" aria-labelledby="franco-title">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Franco Colapinto</p>
+                  <h2 id="franco-title">Noticias Franco</h2>
+                </div>
+                <span class="panel-note">seguimiento</span>
+              </div>
+              <div class="mini-feed" id="francoNews"></div>
+            </section>
+
+            <section class="panel feature-news" aria-labelledby="general-title">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">F1 general · carrera · clima · previa</p>
+                  <h2 id="general-title">Noticias F1 Gral</h2>
+                </div>
+                <span class="panel-note">fuentes citadas</span>
+              </div>
+              <div class="news-stack" id="generalNews"></div>
+            </section>
+
+            <section class="panel curiosity-panel" aria-labelledby="curiosity-title">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Datos curiosos</p>
+                  <h2 id="curiosity-title">Datos curiosos</h2>
+                </div>
+                <span class="panel-note">contexto</span>
+              </div>
+              <div class="bit-list" id="curiosityNews"></div>
+            </section>
+          </div>
+        </section>
+
+        <section class="panel-view" id="live-panel" data-panel="live" aria-labelledby="live-title">
+          <div class="command-ribbon">
+            <div class="title-block">
+              <p class="eyebrow">OpenF1 data stream</p>
+              <h1 id="live-title">Ver en Vivo</h1>
+            </div>
+            <div class="status-stack">
+              <span class="status-pill" id="connectionState">conectando</span>
+              <span class="sync-copy" id="lastSync">sin sincronizar</span>
+            </div>
+          </div>
+
+          <section class="metric-strip" aria-label="Resumen de sesion">
+            <article class="metric-tile">
+              <span>Sesion</span>
+              <strong id="sessionMetric">--</strong>
+            </article>
+            <article class="metric-tile">
+              <span>Circuito</span>
+              <strong id="trackMetric">--</strong>
+            </article>
+            <article class="metric-tile">
+              <span>Bandera</span>
+              <strong id="flagMetric">--</strong>
+            </article>
+            <article class="metric-tile">
+              <span>Clima</span>
+              <strong id="weatherMetric">--</strong>
+            </article>
+            <article class="metric-tile">
+              <span>Vuelta</span>
+              <strong id="lapMetric">--</strong>
+            </article>
+          </section>
+
+          <div class="standings-grid" aria-label="Campeonato actual">
+            <section class="panel standings-panel" aria-labelledby="drivers-standings-title">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Campeonato</p>
+                  <h2 id="drivers-standings-title">Pilotos</h2>
+                </div>
+                <a class="source-link" href="https://www.formula1.com/en/results/2026/drivers" target="_blank" rel="noreferrer">Formula1.com</a>
+              </div>
+              <div class="points-list" id="driversStandings"></div>
+            </section>
+
+            <section class="panel standings-panel" aria-labelledby="teams-standings-title">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Constructores</p>
+                  <h2 id="teams-standings-title">Equipos</h2>
+                </div>
+                <a class="source-link" href="https://www.formula1.com/en/results/2026/team" target="_blank" rel="noreferrer">Formula1.com</a>
+              </div>
+              <div class="points-list compact" id="teamsStandings"></div>
+            </section>
+          </div>
+
+          <div class="dashboard-grid">
+            <section class="panel leaderboard-panel" aria-labelledby="leaderboard-title">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Timing tower</p>
+                  <h2 id="leaderboard-title">Orden de carrera</h2>
+                </div>
+                <span class="panel-note" id="rowCount">-- autos</span>
+              </div>
+              <div class="table-wrap">
+                <table class="timing-table">
+                  <thead>
+                    <tr>
+                      <th>POS</th>
+                      <th>Piloto</th>
+                      <th>Gap</th>
+                      <th>Int</th>
+                      <th>Ult</th>
+                      <th>Best</th>
+                      <th>Sectores</th>
+                      <th>Tyre</th>
+                      <th>Lap</th>
+                      <th>Km/h</th>
+                      <th>RPM</th>
+                      <th>Modo</th>
+                    </tr>
+                  </thead>
+                  <tbody id="leaderboardBody">
+                    <tr class="skeleton-row"><td colspan="12">Cargando OpenF1...</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </section>
+
+            <aside class="side-rail">
+              <section class="panel track-panel" aria-labelledby="track-title">
+                <div class="panel-head">
+                  <div>
+                    <p class="eyebrow">Mapa</p>
+                    <h2 id="track-title">Posicion GPS</h2>
+                  </div>
+                  <span class="panel-note" id="trackNote">live</span>
+                </div>
+                <canvas id="trackCanvas" width="720" height="430" aria-label="Mapa de posiciones"></canvas>
+              </section>
+
+              <section class="panel weather-panel" aria-labelledby="weather-title">
+                <div class="panel-head">
+                  <div>
+                    <p class="eyebrow">Grip radar</p>
+                    <h2 id="weather-title">Pista</h2>
+                  </div>
+                  <span class="panel-note" id="rainNote">--</span>
+                </div>
+                <div class="weather-grid" id="weatherGrid">
+                  <span>Aire <strong>--</strong></span>
+                  <span>Pista <strong>--</strong></span>
+                  <span>Humedad <strong>--</strong></span>
+                  <span>Viento <strong>--</strong></span>
+                </div>
+              </section>
+            </aside>
+          </div>
+
+          <div class="lower-grid">
+            <section class="panel strategy-panel" aria-labelledby="strategy-title">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Pitwall</p>
+                  <h2 id="strategy-title">Lectura estrategica</h2>
+                </div>
+                <span class="panel-note" id="strategyNote">neumaticos</span>
+              </div>
+              <div class="strategy-list" id="strategyList">
+                <p class="empty-copy">Esperando stints de OpenF1.</p>
+              </div>
+            </section>
+
+            <section class="panel race-control-panel" aria-labelledby="race-control-title">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Race control</p>
+                  <h2 id="race-control-title">Mensajes</h2>
+                </div>
+                <span class="panel-note" id="raceControlNote">--</span>
+              </div>
+              <div class="message-list" id="raceControlList">
+                <p class="empty-copy">Sin mensajes cargados.</p>
+              </div>
+            </section>
+
+            <section class="panel source-panel" aria-labelledby="source-title">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Feed health</p>
+                  <h2 id="source-title">Canales</h2>
+                </div>
+                <span class="panel-note">OpenF1</span>
+              </div>
+              <div class="channel-grid" id="channelGrid">
+                <span data-channel="drivers">Drivers</span>
+                <span data-channel="timing">Timing</span>
+                <span data-channel="car">CarData</span>
+                <span data-channel="gps">Location</span>
+                <span data-channel="weather">Weather</span>
+                <span data-channel="race">RaceCtrl</span>
+              </div>
+            </section>
+          </div>
+        </section>
+
+        <section class="panel-view" id="archive-panel" data-panel="archive" aria-labelledby="archive-title">
+          <div class="command-ribbon">
+            <div class="title-block">
+              <p class="eyebrow">Replay OpenF1</p>
+              <h1 id="archive-title">Archivo</h1>
+            </div>
+            <div class="status-stack">
+              <span class="status-pill" id="archiveState">cargando</span>
+              <span class="sync-copy" id="archiveSync">ultima carrera disponible</span>
+            </div>
+          </div>
+
+          <div class="archive-grid">
+            <section class="panel archive-summary" aria-labelledby="archive-summary-title">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Carrera anterior</p>
+                  <h2 id="archive-summary-title">Resumen</h2>
+                </div>
+                <span class="panel-note" id="archiveRaceName">OpenF1</span>
+              </div>
+              <div class="archive-metrics" id="archiveMetrics">
+                <span>Circuito <strong>--</strong></span>
+                <span>Vueltas <strong>--</strong></span>
+                <span>Ganador <strong>--</strong></span>
+                <span>Fecha <strong>--</strong></span>
+              </div>
+            </section>
+
+            <section class="panel archive-results" aria-labelledby="archive-results-title">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Clasificacion</p>
+                  <h2 id="archive-results-title">Resultado de carrera</h2>
+                </div>
+                <span class="panel-note" id="archiveResultCount">-- pilotos</span>
+              </div>
+              <div class="table-wrap">
+                <table class="timing-table archive-table">
+                  <thead>
+                    <tr>
+                      <th>POS</th>
+                      <th>Piloto</th>
+                      <th>Equipo</th>
+                      <th>Vueltas</th>
+                      <th>Gap</th>
+                      <th>Estado</th>
+                    </tr>
+                  </thead>
+                  <tbody id="archiveResultBody">
+                    <tr class="skeleton-row"><td colspan="6">Cargando carrera anterior...</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </section>
+          </div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <span>Datos: OpenF1. Sitio no oficial, local y sin anuncios.</span>
+        <span>No afiliado a Formula 1 ni a la FIA.</span>
+      </footer>
+    </div>
+  </body>
+</html>
