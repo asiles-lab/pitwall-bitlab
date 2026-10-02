@@ -41,7 +41,11 @@ const els = {
   generalNews: document.querySelector("#generalNews"),
   francoNews: document.querySelector("#francoNews"),
   curiosityNews: document.querySelector("#curiosityNews"),
+  newsMeta: document.querySelector("#newsMeta"),
+  newsHistory: document.querySelector("#newsHistory"),
 };
+
+const NEWS_VISIBLE_PER_SECTION = 2;
 
 const FALLBACK_NEWS = {
   updatedAt: "2026-10-01T00:00:00.000Z",
@@ -211,6 +215,8 @@ const state = {
   latestLocations: [],
   drivers: new Map(),
   lastPayload: null,
+  news: null,
+  newsPage: 1,
 };
 
 function escapeHtml(value = "") {
@@ -940,8 +946,16 @@ function setupSettings() {
   els.refreshBtn.addEventListener("click", loadData);
 }
 
+function newsPages(news) {
+  return Array.isArray(news.pages) ? news.pages : [];
+}
+
+function allNewsItems(news) {
+  return newsPages(news).flatMap((page) => Array.isArray(page.items) ? page.items : []);
+}
+
 function latestNewsItems(news) {
-  const pages = Array.isArray(news.pages) ? news.pages : [];
+  const pages = newsPages(news);
   const page = pages.find((entry) => Number(entry.page) === 1) || pages[0];
   return Array.isArray(page?.items) ? page.items : [];
 }
@@ -1004,21 +1018,71 @@ function curiosityItem(item) {
   return `<span><strong>${escapeHtml(item.title)}</strong> ${escapeHtml(item.summary || "")}</span>`;
 }
 
-function renderNews(news) {
-  const items = latestNewsItems(news);
-  const general = items.filter((item) => item.category === "general").slice(0, 9);
-  const franco = items.filter((item) => item.category === "franco").slice(0, 5);
-  const curiosity = items.filter((item) => item.category === "curiosity").slice(0, 4);
+function formatNewsTimestamp(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "sin fecha";
+  return date.toLocaleString("es-AR", {
+    day: "2-digit",
+    month: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+}
 
-  if (els.generalNews && general.length) {
-    els.generalNews.innerHTML = general.map(newsCard).join("");
+function renderNewsHistory(news) {
+  if (!els.newsHistory) return;
+  const pages = newsPages(news);
+  if (pages.length <= 1) {
+    els.newsHistory.innerHTML = "";
+    return;
   }
-  if (els.francoNews && franco.length) {
-    els.francoNews.innerHTML = franco.map(miniNews).join("");
+  els.newsHistory.innerHTML = `
+    <span>Historico</span>
+    ${pages.map((page) => `<button class="${Number(page.page) === state.newsPage ? "is-active" : ""}" type="button" data-news-page="${page.page}">${page.page}</button>`).join("")}
+  `;
+}
+
+function newsSectionItems(news) {
+  const pages = newsPages(news);
+  const safePage = Math.min(Math.max(1, Number(state.newsPage) || 1), Math.max(1, pages.length));
+  state.newsPage = safePage;
+  if (safePage === 1) return allNewsItems(news);
+  const page = pages.find((entry) => Number(entry.page) === safePage) || pages[0];
+  return Array.isArray(page?.items) ? page.items : [];
+}
+
+function renderNewsBucket(node, items, renderer, emptyText) {
+  if (!node) return;
+  node.innerHTML = items.length ? items.map(renderer).join("") : `<p class="empty-copy">${emptyText}</p>`;
+}
+
+function renderNews(news) {
+  state.news = news;
+  const allItems = allNewsItems(news);
+  const items = newsSectionItems(news);
+  const general = items.filter((item) => item.category === "general").slice(0, NEWS_VISIBLE_PER_SECTION);
+  const franco = items.filter((item) => item.category === "franco").slice(0, NEWS_VISIBLE_PER_SECTION);
+  const curiosity = items.filter((item) => item.category === "curiosity").slice(0, NEWS_VISIBLE_PER_SECTION);
+
+  if (els.newsMeta) {
+    const queued = Array.isArray(news.backlog) ? news.backlog.length : 0;
+    const pages = newsPages(news).length || 1;
+    els.newsMeta.textContent = `Actualizado ${formatNewsTimestamp(news.updatedAt)} · pagina ${state.newsPage}/${pages} · ${allItems.length} notas en historico${queued ? ` · ${queued} en cola` : ""}`;
   }
-  if (els.curiosityNews && curiosity.length) {
-    els.curiosityNews.innerHTML = curiosity.map(curiosityItem).join("");
-  }
+  renderNewsBucket(els.generalNews, general, newsCard, "Sin notas F1 en esta pagina.");
+  renderNewsBucket(els.francoNews, franco, miniNews, "Sin notas de Franco en esta pagina.");
+  renderNewsBucket(els.curiosityNews, curiosity, curiosityItem, "Sin datos curiosos en esta pagina.");
+  renderNewsHistory(news);
+}
+
+function setupNewsHistory() {
+  if (!els.newsHistory) return;
+  els.newsHistory.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-news-page]");
+    if (!button || !state.news) return;
+    state.newsPage = Number(button.dataset.newsPage) || 1;
+    renderNews(state.news);
+  });
 }
 
 async function loadNews() {
@@ -1137,6 +1201,7 @@ function setupRacerBackground() {
 function start() {
   setupTabs();
   setupSettings();
+  setupNewsHistory();
   setupRacerBackground();
   loadNews();
   renderStandings();

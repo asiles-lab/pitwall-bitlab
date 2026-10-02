@@ -8,6 +8,8 @@ const newsPath = resolve(root, "data/news.json");
 
 const PAGE_SIZE = 18;
 const MAX_ITEMS = 90;
+const BACKLOG_LIMIT = 180;
+const RELEASE_PER_CATEGORY = 2;
 
 const FEEDS = [
   {
@@ -178,6 +180,37 @@ function rebalance(items) {
   ];
 }
 
+function sortNews(items) {
+  return [...items].sort((a, b) => score(b) - score(a) || new Date(b.publishedAt) - new Date(a.publishedAt));
+}
+
+function mergeById(items) {
+  const byId = new Map();
+  for (const item of items) {
+    if (!item?.id || byId.has(item.id)) continue;
+    byId.set(item.id, item);
+  }
+  return [...byId.values()];
+}
+
+function pickRelease(queue) {
+  const release = [];
+  const used = new Set();
+  for (const category of ["general", "franco", "curiosity"]) {
+    const selected = sortNews(queue)
+      .filter((item) => item.category === category && !used.has(item.id))
+      .slice(0, RELEASE_PER_CATEGORY);
+    for (const item of selected) {
+      used.add(item.id);
+      release.push(item);
+    }
+  }
+  return {
+    release: sortNews(release),
+    remaining: queue.filter((item) => !used.has(item.id)),
+  };
+}
+
 function paginate(items) {
   const pages = [];
   for (let i = 0; i < items.length; i += PAGE_SIZE) {
@@ -201,21 +234,41 @@ async function readExisting() {
 async function main() {
   const existing = await readExisting();
   const previousItems = (existing.pages || []).flatMap((page) => page.items || []);
+  const previousById = new Map(previousItems.map((item) => [item.id, item]));
+  const publishedIds = new Set(previousById.keys());
   const fetched = (await Promise.allSettled(FEEDS.map(fetchFeed)))
     .flatMap((result) => result.status === "fulfilled" ? result.value : []);
-  const byId = new Map();
-  for (const item of [...fetched, ...previousItems]) {
-    if (!byId.has(item.id)) byId.set(item.id, item);
+
+  const normalizedFetched = fetched.map((item) => {
+    const previous = previousById.get(item.id);
+    return previous ? { ...item, addedAt: previous.addedAt } : item;
+  });
+  const incomingQueue = normalizedFetched.filter((item) => !publishedIds.has(item.id));
+  const existingQueue = Array.isArray(existing.backlog) ? existing.backlog.filter((item) => !publishedIds.has(item.id)) : [];
+  const queue = sortNews(mergeById([...existingQueue, ...incomingQueue]));
+  const { release, remaining } = pickRelease(queue);
+
+  if (!release.length && previousItems.length) {
+    console.log(`Sin novedades para publicar. ${remaining.length} notas siguen en cola.`);
+    return;
   }
-  const items = rebalance([...byId.values()]).slice(0, MAX_ITEMS);
+
+  const items = mergeById([...release, ...previousItems]).slice(0, MAX_ITEMS);
+  const backlog = sortNews(remaining).slice(0, BACKLOG_LIMIT);
+  const now = new Date().toISOString();
   const payload = {
-    updatedAt: new Date().toISOString(),
+    updatedAt: now,
     pageSize: PAGE_SIZE,
     sources: FEEDS.map(({ source, url }) => ({ source, url })),
+    releasePolicy: {
+      perCategory: RELEASE_PER_CATEGORY,
+      categories: ["general", "franco", "curiosity"],
+    },
+    backlog,
     pages: paginate(items),
   };
   await writeFile(newsPath, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
-  console.log(`Noticias actualizadas: ${fetched.length} nuevas/recientes, ${items.length} guardadas.`);
+  console.log(`Noticias publicadas: ${release.length}; en cola: ${backlog.length}; guardadas: ${items.length}.`);
 }
 
 main().catch((error) => {
