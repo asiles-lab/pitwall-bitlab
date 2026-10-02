@@ -1,7 +1,16 @@
 const API_BASE = "https://api.openf1.org/v1";
-const REFRESH_MS = 30000;
+const ACTIVE_REFRESH_MS = 2000;
+const IDLE_REFRESH_MS = 300000;
+const SESSION_REFRESH_MS = 60000;
+const CONTEXT_REFRESH_MS = 15000;
 const OPENF1_REQUEST_GAP_MS = 450;
 const STREAM_WINDOW_MINUTES = 18;
+const SESSION_GRACE_MS = 45000;
+const FAST_ENDPOINT_ROTATION = [
+  ["position", "intervals", "car_data"],
+  ["position", "intervals", "location"],
+  ["position", "intervals", "race_control"],
+];
 
 const els = {
   connection: document.querySelector("#connectionState"),
@@ -218,6 +227,12 @@ const state = {
   timer: null,
   isLoadingData: false,
   queuedLoad: false,
+  fastTick: 0,
+  lastSessionCheck: 0,
+  lastContextLoad: 0,
+  finalSnapshotKey: "",
+  contextSessionKey: "",
+  liveCache: null,
   latestLocations: [],
   drivers: new Map(),
   lastPayload: null,
@@ -264,6 +279,46 @@ function streamWindowStart(session) {
   const end = normalizeDate(session?.date_end);
   const anchor = end && end < Date.now() ? end : Date.now();
   return new Date(anchor - STREAM_WINDOW_MINUTES * 60 * 1000).toISOString();
+}
+
+function sessionPhase(session, now = Date.now()) {
+  const start = normalizeDate(session?.date_start);
+  const end = normalizeDate(session?.date_end);
+  if (!start || !end) return "unknown";
+  if (now < start) return "upcoming";
+  if (now <= end + SESSION_GRACE_MS) return "active";
+  return "ended";
+}
+
+function makeEmptyPayload(session = null) {
+  return {
+    session,
+    drivers: [],
+    positions: [],
+    intervals: [],
+    laps: [],
+    stints: [],
+    pits: [],
+    weather: [],
+    raceControl: [],
+    carData: [],
+    locations: [],
+    results: [],
+    errors: [],
+  };
+}
+
+function sessionId(session) {
+  return String(session?.session_key || "latest");
+}
+
+function replaceCache(partial = {}) {
+  state.liveCache = { ...(state.liveCache || makeEmptyPayload(partial.session || null)), ...partial };
+}
+
+function scheduleLoad(ms) {
+  window.clearTimeout(state.timer);
+  state.timer = window.setTimeout(loadData, ms);
 }
 
 function normalizeDate(value) {
@@ -402,71 +457,144 @@ async function optional(endpoint, params = {}) {
   }
 }
 
-async function loadData() {
+function payloadSources(payload) {
+  return {
+    drivers: { ok: Boolean(payload.drivers?.length), data: payload.drivers || [] },
+    positions: { ok: Boolean(payload.positions?.length), data: payload.positions || [] },
+    intervals: { ok: Boolean(payload.intervals?.length), data: payload.intervals || [] },
+    laps: { ok: Boolean(payload.laps?.length), data: payload.laps || [] },
+    weather: { ok: Boolean(payload.weather?.length), data: payload.weather || [] },
+    raceControl: { ok: Boolean(payload.raceControl?.length), data: payload.raceControl || [] },
+    carData: { ok: Boolean(payload.carData?.length), data: payload.carData || [] },
+    locations: { ok: Boolean(payload.locations?.length), data: payload.locations || [] },
+  };
+}
+
+function endpointCacheKey(endpoint) {
+  return ({
+    car_data: "carData",
+    location: "locations",
+    position: "positions",
+    intervals: "intervals",
+    race_control: "raceControl",
+  })[endpoint] || endpoint;
+}
+
+async function loadSession(force, now) {
+  const cached = state.liveCache?.session || null;
+  const shouldRefresh = force || !cached || now - state.lastSessionCheck > SESSION_REFRESH_MS;
+  if (!shouldRefresh) return cached;
+
+  const sessionResult = await optional("sessions", { session_key: "latest" });
+  state.lastSessionCheck = now;
+  const session = Array.isArray(sessionResult.data) ? sessionResult.data.at(-1) : null;
+  if (!session) return cached;
+
+  if (!cached || sessionId(cached) !== sessionId(session)) {
+    state.liveCache = makeEmptyPayload(session);
+    state.contextSessionKey = "";
+    state.finalSnapshotKey = "";
+  } else {
+    replaceCache({ session });
+  }
+  return session;
+}
+
+async function loadContext(sessionKey) {
+  const [drivers, laps, stints, pits, weather, results] = await Promise.all([
+    optional("drivers", { session_key: sessionKey }),
+    optional("laps", { session_key: sessionKey }),
+    optional("stints", { session_key: sessionKey }),
+    optional("pit", { session_key: sessionKey }),
+    optional("weather", { session_key: sessionKey }),
+    optional("session_result", { session_key: sessionKey }),
+  ]);
+
+  replaceCache({
+    drivers: drivers.ok ? drivers.data : state.liveCache?.drivers || [],
+    laps: laps.ok ? laps.data : state.liveCache?.laps || [],
+    stints: stints.ok ? stints.data : state.liveCache?.stints || [],
+    pits: pits.ok ? pits.data : state.liveCache?.pits || [],
+    weather: weather.ok ? weather.data : state.liveCache?.weather || [],
+    results: results.ok ? results.data : state.liveCache?.results || [],
+    errors: [drivers, laps, stints, pits, weather, results].filter((x) => !x.ok),
+  });
+}
+
+async function loadFastChannels(sessionKey, endpoints) {
+  const liveWindow = { "date>=": streamWindowStart(state.liveCache?.session), session_key: sessionKey };
+  const results = await Promise.all(endpoints.map((endpoint) => optional(endpoint, liveWindow)));
+  const next = {};
+  const errors = [];
+
+  results.forEach((result, index) => {
+    const endpoint = endpoints[index];
+    const key = endpointCacheKey(endpoint);
+    if (result.ok) next[key] = result.data;
+    else errors.push(result);
+  });
+
+  replaceCache({
+    ...next,
+    errors: [...(state.liveCache?.errors || []), ...errors],
+  });
+}
+
+async function loadData(options = {}) {
+  const force = options?.force === true || options?.type === "click";
   if (state.isLoadingData) {
     state.queuedLoad = true;
     return;
   }
   state.isLoadingData = true;
   setConnection("loading", "sincronizando");
-  setAllChannels("warn");
+  if (!state.liveCache) setAllChannels("warn");
+
+  let nextDelay = IDLE_REFRESH_MS;
 
   try {
-    const sessionResult = await optional("sessions", { session_key: "latest" });
-    const session = Array.isArray(sessionResult.data) ? sessionResult.data.at(-1) : null;
+    const now = Date.now();
+    const session = await loadSession(force, now);
     const sessionKey = session?.session_key || "latest";
-    const liveWindow = { "date>=": streamWindowStart(session), session_key: sessionKey };
+    const phase = sessionPhase(session, now);
+    const finalSnapshotKey = `${sessionKey}:final`;
+    const needsContext = force
+      || state.contextSessionKey !== String(sessionKey)
+      || now - state.lastContextLoad > CONTEXT_REFRESH_MS
+      || (phase === "ended" && state.finalSnapshotKey !== finalSnapshotKey);
 
-    const [
-      drivers,
-      positions,
-      intervals,
-      laps,
-      stints,
-      pits,
-      weather,
-      raceControl,
-      carData,
-      locations,
-      results,
-    ] = await Promise.all([
-      optional("drivers", { session_key: sessionKey }),
-      optional("position", liveWindow),
-      optional("intervals", liveWindow),
-      optional("laps", { session_key: sessionKey }),
-      optional("stints", { session_key: sessionKey }),
-      optional("pit", { session_key: sessionKey }),
-      optional("weather", { session_key: sessionKey }),
-      optional("race_control", { session_key: sessionKey }),
-      optional("car_data", liveWindow),
-      optional("location", liveWindow),
-      optional("session_result", { session_key: sessionKey }),
-    ]);
+    replaceCache({ session, errors: [] });
 
-    updateChannels({ drivers, positions, intervals, laps, weather, raceControl, carData, locations });
+    if (needsContext) {
+      await loadContext(sessionKey);
+      state.contextSessionKey = String(sessionKey);
+      state.lastContextLoad = now;
+    }
 
-    const payload = {
-      session,
-      drivers: drivers.data || [],
-      positions: positions.data || [],
-      intervals: intervals.data || [],
-      laps: laps.data || [],
-      stints: stints.data || [],
-      pits: pits.data || [],
-      weather: weather.data || [],
-      raceControl: raceControl.data || [],
-      carData: carData.data || [],
-      locations: locations.data || [],
-      results: results.data || [],
-      errors: [sessionResult, drivers, positions, intervals, laps, weather, raceControl, carData, locations].filter((x) => !x.ok),
-    };
+    if (phase === "active") {
+      const endpoints = FAST_ENDPOINT_ROTATION[state.fastTick % FAST_ENDPOINT_ROTATION.length];
+      state.fastTick += 1;
+      await loadFastChannels(sessionKey, endpoints);
+      state.finalSnapshotKey = "";
+      nextDelay = ACTIVE_REFRESH_MS;
+    } else if (phase === "ended" && state.finalSnapshotKey !== finalSnapshotKey) {
+      await loadFastChannels(sessionKey, ["position", "intervals", "car_data", "location", "race_control"]);
+      state.finalSnapshotKey = finalSnapshotKey;
+      nextDelay = IDLE_REFRESH_MS;
+    } else if (phase === "upcoming") {
+      nextDelay = Math.min(SESSION_REFRESH_MS, Math.max(5000, normalizeDate(session?.date_start) - Date.now()));
+    }
 
+    const payload = state.liveCache || makeEmptyPayload(session);
+    updateChannels(payloadSources(payload));
     render(payload);
   } finally {
     state.isLoadingData = false;
     if (state.queuedLoad) {
       state.queuedLoad = false;
-      window.setTimeout(loadData, OPENF1_REQUEST_GAP_MS);
+      scheduleLoad(OPENF1_REQUEST_GAP_MS);
+    } else {
+      scheduleLoad(nextDelay);
     }
   }
 }
@@ -537,6 +665,7 @@ function renderLeaderboard(payload) {
   const latestLap = latestBy(payload.laps, "driver_number", "lap_number");
   const bestLap = bestLapBy(payload.laps);
   const latestStint = latestBy(payload.stints, "driver_number", "stint_number");
+  const latestPit = latestBy(payload.pits, "driver_number", "date");
   const latestCar = latestBy(payload.carData, "driver_number", "date");
   const resultMap = latestBy(payload.results, "driver_number", "position");
   const isRace = /race/i.test(`${payload.session?.session_name || ""} ${payload.session?.session_type || ""}`);
@@ -553,15 +682,16 @@ function renderLeaderboard(payload) {
     const lap = latestLap.get(id);
     const best = bestLap.get(id);
     const stint = latestStint.get(id);
+    const pit = latestPit.get(id);
     const car = latestCar.get(id);
     const result = resultMap.get(id);
-    return { id, driver, pos, interval, lap, best, stint, car, result };
+    return { id, driver, pos, interval, lap, best, stint, pit, car, result };
   }).sort((a, b) => Number(a.pos) - Number(b.pos) || Number(a.id) - Number(b.id));
 
   els.rowCount.textContent = `${rows.length || "--"} autos`;
 
   if (!rows.length) {
-    els.leaderboard.innerHTML = `<tr class="skeleton-row"><td colspan="12">Sin datos de sesion disponibles. Si hay carrera en vivo, OpenF1 puede requerir token.</td></tr>`;
+    els.leaderboard.innerHTML = `<tr class="skeleton-row"><td colspan="13">Sin datos de sesion disponibles. Si hay carrera en vivo, OpenF1 puede requerir token.</td></tr>`;
     return;
   }
 
@@ -571,12 +701,14 @@ function renderLeaderboard(payload) {
       ...(row.lap?.segments_sector_1 || []),
       ...(row.lap?.segments_sector_2 || []),
       ...(row.lap?.segments_sector_3 || []),
-    ].slice(-9);
+    ].slice(-18);
     const gapValue = row.interval ? formatGap(row.interval.gap_to_leader) : (row.result ? formatGap(row.result.gap_to_leader) : "--");
     const bestValue = row.best?.lap_duration || (!isRace ? resultDuration(row.result?.duration) : null);
     const modeValue = row.car ? drsMode(row.car) : resultMode(row.result);
+    const pitLabel = row.pit ? `P${row.pit.pit_duration ? formatNumber(row.pit.pit_duration) : row.pit.stop_duration ? formatNumber(row.pit.stop_duration) : ""}` : "";
     return `
-      <tr>
+      <tr class="${row.driver.name_acronym === "COL" ? "highlight-row" : ""}">
+        <td class="pit-cell">${pitLabel ? `<span class="pit-badge">${pitLabel}</span>` : `<span class="pit-empty">--</span>`}</td>
         <td class="pos-cell">${row.pos === 99 ? index + 1 : row.pos}</td>
         <td>
           <div class="driver-cell">
@@ -603,7 +735,7 @@ function renderLeaderboard(payload) {
 }
 
 function renderSegments(values) {
-  if (!values.length) return `<span class="segments">${Array.from({ length: 9 }, () => `<span class="seg"></span>`).join("")}</span>`;
+  if (!values.length) return `<span class="segments">${Array.from({ length: 18 }, () => `<span class="seg"></span>`).join("")}</span>`;
   return `<span class="segments">${values.map((value) => `<span class="seg ${segmentClass(value)}"></span>`).join("")}</span>`;
 }
 
@@ -1259,8 +1391,7 @@ function start() {
   loadNews();
   renderStandings();
   drawTrack([]);
-  loadData();
-  state.timer = window.setInterval(loadData, REFRESH_MS);
+  loadData({ force: true });
   window.addEventListener("resize", () => drawTrack(state.latestLocations));
 }
 
