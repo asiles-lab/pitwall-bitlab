@@ -10,8 +10,8 @@
     <meta property="og:image" content="./assets/pitwall-logo.png">
     <link rel="icon" type="image/png" href="./assets/pitwall-logo.png">
     <link rel="apple-touch-icon" href="./assets/pitwall-logo.png">
-    <link rel="stylesheet" href="./styles.css?v=20261002-flags">
-    <script src="./app.js?v=20261002-flags" defer></script>
+    <link rel="stylesheet" href="./styles.css?v=20261002-towerlayout">
+    <script src="./app.js?v=20261002-towerlayout" defer></script>
   </head>
   <body>
     <div class="scanline" aria-hidden="true"></div>
@@ -135,30 +135,6 @@
             </article>
           </section>
 
-          <div class="standings-grid" aria-label="Campeonato actual">
-            <section class="panel standings-panel" aria-labelledby="drivers-standings-title">
-              <div class="panel-head">
-                <div>
-                  <p class="eyebrow">Campeonato</p>
-                  <h2 id="drivers-standings-title">Pilotos</h2>
-                </div>
-                <a class="source-link" href="https://www.formula1.com/en/results/2026/drivers" target="_blank" rel="noreferrer">Formula1.com</a>
-              </div>
-              <div class="points-list" id="driversStandings"></div>
-            </section>
-
-            <section class="panel standings-panel" aria-labelledby="teams-standings-title">
-              <div class="panel-head">
-                <div>
-                  <p class="eyebrow">Constructores</p>
-                  <h2 id="teams-standings-title">Equipos</h2>
-                </div>
-                <a class="source-link" href="https://www.formula1.com/en/results/2026/team" target="_blank" rel="noreferrer">Formula1.com</a>
-              </div>
-              <div class="points-list compact" id="teamsStandings"></div>
-            </section>
-          </div>
-
           <div class="dashboard-grid">
             <section class="panel leaderboard-panel" aria-labelledby="leaderboard-title">
               <div class="panel-head">
@@ -172,7 +148,7 @@
                 <table class="timing-table">
                   <thead>
                     <tr>
-                      <th>PIT</th>
+                      <th class="pit-col">PIT</th>
                       <th>POS</th>
                       <th>Piloto</th>
                       <th>Gap ahead</th>
@@ -222,6 +198,30 @@
                 </div>
               </section>
             </aside>
+          </div>
+
+          <div class="standings-grid" aria-label="Campeonato actual">
+            <section class="panel standings-panel" aria-labelledby="drivers-standings-title">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Campeonato</p>
+                  <h2 id="drivers-standings-title">Pilotos</h2>
+                </div>
+                <a class="source-link" href="https://www.formula1.com/en/results/2026/drivers" target="_blank" rel="noreferrer">Formula1.com</a>
+              </div>
+              <div class="points-list" id="driversStandings"></div>
+            </section>
+
+            <section class="panel standings-panel" aria-labelledby="teams-standings-title">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Constructores</p>
+                  <h2 id="teams-standings-title">Equipos</h2>
+                </div>
+                <a class="source-link" href="https://www.formula1.com/en/results/2026/team" target="_blank" rel="noreferrer">Formula1.com</a>
+              </div>
+              <div class="points-list compact" id="teamsStandings"></div>
+            </section>
           </div>
 
           <div class="lower-grid">

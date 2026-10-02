@@ -535,8 +535,11 @@ main {
   text-align: center;
 }
 
-.pit-badge,
-.pit-empty {
+.timing-table:not(.has-pit-active) .pit-col {
+  display: none;
+}
+
+.pit-badge {
   display: inline-grid;
   place-items: center;
   min-width: 34px;
@@ -548,11 +551,6 @@ main {
 .pit-badge {
   color: #071125;
   background: #ff3ca8;
-}
-
-.pit-empty {
-  color: rgba(255, 255, 255, 0.32);
-  background: rgba(255, 255, 255, 0.045);
 }
 
 .pos-cell {
@@ -1242,26 +1240,45 @@ main {
 
 .standings-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1.35fr) minmax(320px, 0.8fr);
+  grid-template-columns: minmax(0, 1.2fr) minmax(300px, 0.76fr);
   gap: 12px;
   margin-top: 12px;
 }
 
+.standings-panel .panel-head {
+  min-height: 56px;
+  padding: 12px 16px 8px;
+}
+
+.standings-panel .panel-head h2 {
+  font-size: clamp(1rem, 1.4vw, 1.35rem);
+}
+
+.standings-panel .eyebrow {
+  margin-bottom: 5px;
+  font-size: 0.66rem;
+}
+
+.standings-panel .source-link {
+  font-size: 0.62rem;
+}
+
 .points-list {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
 }
 
 .points-list.compact {
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 .points-row {
   display: grid;
-  grid-template-columns: 40px minmax(0, 1fr) auto;
-  gap: 10px;
+  grid-template-columns: 30px minmax(0, 1fr) auto;
+  gap: 8px;
   align-items: center;
-  min-height: 54px;
-  padding: 10px 12px;
+  min-height: 42px;
+  padding: 7px 10px;
 }
 
 .points-row.is-franco {
@@ -1272,7 +1289,7 @@ main {
 
 .points-row .rank {
   color: var(--lime);
-  font: 900 0.94rem/1 "Consolas", "Cascadia Mono", monospace;
+  font: 900 0.78rem/1 "Consolas", "Cascadia Mono", monospace;
 }
 
 .points-main {
@@ -1286,19 +1303,19 @@ main {
 
 .points-main strong {
   overflow: hidden;
-  font-size: 0.9rem;
+  font-size: 0.78rem;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
 
 .points-main span {
   color: var(--muted);
-  font-size: 0.76rem;
+  font-size: 0.66rem;
 }
 
 .points-score {
   color: var(--ink);
-  font: 900 1rem/1 "Consolas", "Cascadia Mono", monospace;
+  font: 900 0.84rem/1 "Consolas", "Cascadia Mono", monospace;
 }
 
 .archive-grid {

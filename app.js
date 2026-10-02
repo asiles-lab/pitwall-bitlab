@@ -22,6 +22,7 @@ const els = {
   weatherMetric: document.querySelector("#weatherMetric"),
   lapMetric: document.querySelector("#lapMetric"),
   rowCount: document.querySelector("#rowCount"),
+  timingTable: document.querySelector(".timing-table"),
   leaderboard: document.querySelector("#leaderboardBody"),
   weatherGrid: document.querySelector("#weatherGrid"),
   rainNote: document.querySelector("#rainNote"),
@@ -730,10 +731,10 @@ function renderLeaderboard(payload) {
   const latestLap = latestBy(payload.laps, "driver_number", "lap_number");
   const bestLap = bestLapBy(payload.laps);
   const latestStint = latestBy(payload.stints, "driver_number", "stint_number");
-  const latestPit = latestBy(payload.pits, "driver_number", "date");
   const latestCar = latestBy(payload.carData, "driver_number", "date");
   const resultMap = latestBy(payload.results, "driver_number", "position");
   const isRace = /race/i.test(`${payload.session?.session_name || ""} ${payload.session?.session_type || ""}`);
+  const isActiveSession = sessionPhase(payload.session) === "active";
 
   const ids = new Set();
   [payload.drivers, payload.positions, payload.intervals, payload.laps, payload.stints, payload.carData, payload.results].forEach((items) => {
@@ -747,13 +748,14 @@ function renderLeaderboard(payload) {
     const lap = latestLap.get(id);
     const best = bestLap.get(id);
     const stint = latestStint.get(id);
-    const pit = latestPit.get(id);
     const car = latestCar.get(id);
     const result = resultMap.get(id);
-    return { id, driver, pos, interval, lap, best, stint, pit, car, result };
+    return { id, driver, pos, interval, lap, best, stint, car, result };
   }).sort((a, b) => Number(a.pos) - Number(b.pos) || Number(a.id) - Number(b.id));
 
   els.rowCount.textContent = `${rows.length || "--"} autos`;
+  const pitActive = rows.some((row) => isActiveSession && isPitActive(row.lap));
+  els.timingTable.classList.toggle("has-pit-active", pitActive);
 
   if (!rows.length) {
     els.leaderboard.innerHTML = `<tr class="skeleton-row"><td colspan="13">Sin datos de sesion disponibles. Si hay carrera en vivo, OpenF1 puede requerir token.</td></tr>`;
@@ -770,10 +772,10 @@ function renderLeaderboard(payload) {
     const gapValue = row.interval ? formatGap(row.interval.gap_to_leader) : (row.result ? formatGap(row.result.gap_to_leader) : "--");
     const bestValue = row.best?.lap_duration || (!isRace ? resultDuration(row.result?.duration) : null);
     const modeValue = row.car ? drsMode(row.car) : resultMode(row.result);
-    const pitLabel = row.pit ? `P${row.pit.pit_duration ? formatNumber(row.pit.pit_duration) : row.pit.stop_duration ? formatNumber(row.pit.stop_duration) : ""}` : "";
+    const pitLabel = isActiveSession && isPitActive(row.lap) ? "PIT" : "";
     return `
       <tr class="${row.driver.name_acronym === "COL" ? "highlight-row" : ""}">
-        <td class="pit-cell">${pitLabel ? `<span class="pit-badge">${pitLabel}</span>` : `<span class="pit-empty">--</span>`}</td>
+        <td class="pit-cell pit-col">${pitLabel ? `<span class="pit-badge">${pitLabel}</span>` : ""}</td>
         <td class="pos-cell">${row.pos === 99 ? index + 1 : row.pos}</td>
         <td>
           <div class="driver-cell">
@@ -802,6 +804,16 @@ function renderLeaderboard(payload) {
 function renderSegments(values) {
   if (!values.length) return `<span class="segments">${Array.from({ length: 18 }, () => `<span class="seg"></span>`).join("")}</span>`;
   return `<span class="segments">${values.map((value) => `<span class="seg ${segmentClass(value)}"></span>`).join("")}</span>`;
+}
+
+function isPitActive(lap) {
+  if (!lap) return false;
+  const segments = [
+    ...(lap.segments_sector_1 || []),
+    ...(lap.segments_sector_2 || []),
+    ...(lap.segments_sector_3 || []),
+  ];
+  return Boolean(lap.is_pit_out_lap) || segments.slice(-4).some((value) => value === 2064);
 }
 
 function segmentClass(value) {
