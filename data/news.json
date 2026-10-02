@@ -1,5 +1,6 @@
 {
-  "updatedAt": "2026-10-02T06:58:27.850Z",
+  "updatedAt": "2026-10-02T13:16:30.236Z",
+  "checkedAt": "2026-10-02T13:16:30.236Z",
   "pageSize": 18,
   "sources": [
     {
@@ -17,48 +18,6 @@
     "cadence": "hourly"
   },
   "backlog": [
-    {
-      "id": "www-motorsport-com-f1-news-franco-colapinto-no-one-talks-about-how-i-receive-social-media-abuse-following-baku-clash-108",
-      "title": "Franco Colapinto: \"No one\" talks about how I receive social media abuse following Baku clash",
-      "summary": "Franco Colapinto has claimed that “no one ever talks about” how he also receives lots of social media abuse, following the fallout to his clash at the Formula 1 Azerbaijan Grand Prix. The Alpine driver locked up from deep into Turn 1 at a s",
-      "source": "Motorsport.com",
-      "sourceLabel": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/franco-colapinto-no-one-talks-about-how-i-receive-social-media-abuse-following-baku-clash/10860850/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-7.motorsport.com/images/amp/25dLGMn0/s6/franco-colapinto-alpine.jpg",
-      "language": "en",
-      "publishedAt": "2026-10-02T06:27:44.000Z",
-      "addedAt": "2026-10-02T06:58:27.844Z",
-      "category": "franco",
-      "tag": "Franco"
-    },
-    {
-      "id": "www-motorsport-com-f1-news-franco-colapinto-handed-extra-grid-penalty-at-f1-bahrain-gp-in-malaysia-10860803-utm-source-r",
-      "title": "Franco Colapinto handed extra grid penalty at F1 Bahrain GP",
-      "summary": "Alpine driver Franco Colapinto is set for an additional grid penalty at Formula 1's Bahrain GP in Malaysia after taking a new Mercedes V6 engine. Colapinto was set for a five-place grid drop at Sepang, which he carried over from last weeken",
-      "source": "Motorsport.com",
-      "sourceLabel": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/franco-colapinto-handed-extra-grid-penalty-at-f1-bahrain-gp-in-malaysia/10860803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image": "https://cdn-6.motorsport.com/images/amp/0rVPdN50/s6/franco-colapinto-alpine.jpg",
-      "language": "en",
-      "publishedAt": "2026-10-02T05:16:40.000Z",
-      "addedAt": "2026-10-02T06:58:27.844Z",
-      "category": "franco",
-      "tag": "Franco"
-    },
-    {
-      "id": "espanol-motorsport-com-f1-news-horarios-pronostico-como-ver-fp3-clasificacion-gp-bahrein-malasia-10860842-utm-source-rss",
-      "title": "F1 2026: Horarios, pronóstico del tiempo y cómo ver la FP3 y clasificación del GP de Bahréin en Malasia",
-      "summary": "La sesión de clasificación del Gran Premio de Bahréin en Malasia no será del todo definitiva para el resultado dado que la pista de Sepang es uno de los circuitos donde es posible adelantar, por ello, Alpine ha decidido montar un nuevo moto",
-      "source": "Motorsport.com Espanol",
-      "sourceLabel": "Motorsport.com Espanol",
-      "url": "https://espanol.motorsport.com/f1/news/horarios-pronostico-como-ver-fp3-clasificacion-gp-bahrein-malasia/10860842/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=es_us",
-      "image": "https://cdn-3.motorsport.com/images/amp/2y7QkJX6/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "language": "es",
-      "publishedAt": "2026-10-02T06:10:17.000Z",
-      "addedAt": "2026-10-02T06:58:27.780Z",
-      "category": "franco",
-      "tag": "Franco"
-    },
     {
       "id": "www-motorsport-com-f1-news-mercedes-finally-brings-big-upgrade-and-f1-fans-are-asking-if-its-game-over-10860843-utm-sour",
       "title": "Mercedes finally brings big upgrade and F1 fans are asking if it's game over",
@@ -287,8 +246,50 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-02T06:58:27.850Z",
+      "createdAt": "2026-10-02T13:16:30.237Z",
       "items": [
+        {
+          "id": "espanol-motorsport-com-f1-news-horarios-pronostico-como-ver-fp3-clasificacion-gp-bahrein-malasia-10860842-utm-source-rss",
+          "title": "F1 2026: Horarios, pronóstico del tiempo y cómo ver la FP3 y clasificación del GP de Bahréin en Malasia",
+          "summary": "La sesión de clasificación del Gran Premio de Bahréin en Malasia no será del todo definitiva para el resultado dado que la pista de Sepang es uno de los circuitos donde es posible adelantar, por ello, Alpine ha decidido montar un nuevo moto",
+          "source": "Motorsport.com Espanol",
+          "sourceLabel": "Motorsport.com Espanol",
+          "url": "https://espanol.motorsport.com/f1/news/horarios-pronostico-como-ver-fp3-clasificacion-gp-bahrein-malasia/10860842/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=es_us",
+          "image": "https://cdn-3.motorsport.com/images/amp/2y7QkJX6/s6/andrea-kimi-antonelli-mercedes.jpg",
+          "language": "es",
+          "publishedAt": "2026-10-02T06:10:17.000Z",
+          "addedAt": "2026-10-02T06:58:27.780Z",
+          "category": "franco",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-motorsport-com-f1-news-franco-colapinto-handed-extra-grid-penalty-at-f1-bahrain-gp-in-malaysia-10860803-utm-source-r",
+          "title": "Franco Colapinto handed extra grid penalty at F1 Bahrain GP",
+          "summary": "Alpine driver Franco Colapinto is set for an additional grid penalty at Formula 1's Bahrain GP in Malaysia after taking a new Mercedes V6 engine. Colapinto was set for a five-place grid drop at Sepang, which he carried over from last weeken",
+          "source": "Motorsport.com",
+          "sourceLabel": "Motorsport.com",
+          "url": "https://www.motorsport.com/f1/news/franco-colapinto-handed-extra-grid-penalty-at-f1-bahrain-gp-in-malaysia/10860803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+          "image": "https://cdn-6.motorsport.com/images/amp/0rVPdN50/s6/franco-colapinto-alpine.jpg",
+          "language": "en",
+          "publishedAt": "2026-10-02T05:16:40.000Z",
+          "addedAt": "2026-10-02T06:58:27.844Z",
+          "category": "franco",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-motorsport-com-f1-news-franco-colapinto-no-one-talks-about-how-i-receive-social-media-abuse-following-baku-clash-108",
+          "title": "Franco Colapinto: \"No one\" talks about how I receive social media abuse following Baku clash",
+          "summary": "Franco Colapinto has claimed that “no one ever talks about” how he also receives lots of social media abuse, following the fallout to his clash at the Formula 1 Azerbaijan Grand Prix. The Alpine driver locked up from deep into Turn 1 at a s",
+          "source": "Motorsport.com",
+          "sourceLabel": "Motorsport.com",
+          "url": "https://www.motorsport.com/f1/news/franco-colapinto-no-one-talks-about-how-i-receive-social-media-abuse-following-baku-clash/10860850/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+          "image": "https://cdn-7.motorsport.com/images/amp/25dLGMn0/s6/franco-colapinto-alpine.jpg",
+          "language": "en",
+          "publishedAt": "2026-10-02T06:27:44.000Z",
+          "addedAt": "2026-10-02T06:58:27.844Z",
+          "category": "franco",
+          "tag": "Franco"
+        },
         {
           "id": "espanol-motorsport-com-f1-news-verstappen-lidera-fp1-bahrein-resultados-colapinto-checo-perez-10860816-utm-source-rss-ut",
           "title": "Verstappen lidera la FP1 del GP de Bahréin en Malasia, con Colapinto y Checo Pérez al fondo del clasificador",
@@ -498,7 +499,13 @@
           "addedAt": "2026-10-02T01:44:31.367Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-02T13:16:30.237Z",
+      "items": [
         {
           "id": "espanol-motorsport-com-f1-news-analista-cuestiona-la-mejora-de-mclaren-tras-decepcion-de-azerbaiyan-10860301-utm-source-",
           "title": "Analista de la F1 cuestiona la mejora de McLaren tras la decepción del GP de Azerbaiyán",
@@ -540,13 +547,7 @@
           "addedAt": "2026-10-02T01:44:31.367Z",
           "category": "franco",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-02T06:58:27.850Z",
-      "items": [
+        },
         {
           "id": "espanol-motorsport-com-f1-news-norris-explica-disculpa-a-colapinto-10860576-utm-source-rss-utm-medium-referral-utm-campa",
           "title": "Norris explica por qué le pareció “sensato” hacer pública su disculpa a Colapinto",
@@ -756,7 +757,13 @@
           "addedAt": "2026-10-02T01:44:31.368Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "createdAt": "2026-10-02T13:16:30.237Z",
+      "items": [
         {
           "id": "espanol-motorsport-com-f1-news-russell-senala-preocupacion-por-los-neumaticos-para-malasia-10860665-utm-source-rss-utm-m",
           "title": "Russell señala su preocupación por los neumáticos para el Gran Premio de Bahréin en Malasia",
@@ -798,13 +805,7 @@
           "addedAt": "2026-10-02T01:44:31.366Z",
           "category": "general",
           "tag": "Previa"
-        }
-      ]
-    },
-    {
-      "page": 3,
-      "createdAt": "2026-10-02T06:58:27.850Z",
-      "items": [
+        },
         {
           "id": "espanol-motorsport-com-f1-news-hadjar-penalizacion-parrilla-carrera-bahrein-malasia-10860585-utm-source-rss-utm-medium-r",
           "title": "Hadjar se une a la lista de sancionados en parrilla para el GP de Bahréin en Malasia",
@@ -1014,7 +1015,13 @@
           "addedAt": "2026-10-02T01:44:31.139Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-02T13:16:30.237Z",
+      "items": [
         {
           "id": "www-motorsport-com-f1-news-bottas-degrading-suspension-old-ferrari-engine-causes-of-azerbaijan-f1-horror-show-10860401-u",
           "title": "Valtteri Bottas reveals causes of his Azerbaijan F1 horror show",
@@ -1056,13 +1063,7 @@
           "addedAt": "2026-10-02T01:44:31.140Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-02T06:58:27.850Z",
-      "items": [
+        },
         {
           "id": "www-motorsport-com-f1-news-george-russell-details-f1-drivers-langkawi-boys-trip-ahead-of-bahrain-gp-in-malaysia-10860341",
           "title": "George Russell details F1 drivers' Langkawi boys' trip ahead of Bahrain GP in Malaysia",
@@ -1272,7 +1273,13 @@
           "addedAt": "2026-10-02T01:44:31.367Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-02T13:16:30.237Z",
+      "items": [
         {
           "id": "espanol-motorsport-com-f1-news-vettel-no-descarta-rol-en-formula-1-10860246-utm-source-rss-utm-medium-referral-utm-campa",
           "title": "Vettel no descarta asumir un papel en la F1 mientras disfruta del retiro",
@@ -1314,13 +1321,7 @@
           "addedAt": "2026-10-02T01:44:31.368Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-02T06:58:27.850Z",
-      "items": [
+        },
         {
           "id": "espanol-motorsport-com-f1-news-baku-mejor-oportunidad-verstappen-ganar-f1-2026-10859948-utm-source-rss-utm-medium-referr",
           "title": "¿Era Bakú realmente la mejor oportunidad de Verstappen para ganar en la F1 de 2026?",
@@ -1530,48 +1531,6 @@
           "addedAt": "2026-10-02T01:44:31.137Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "www-motorsport-com-f1-news-max-verstappen-laughs-off-malaysian-heat-concerns-months-of-preparation-to-not-give-an-f-1086",
-          "title": "Max Verstappen laughs off Malaysian heat concerns: \"Months of preparation to not give an F!\"",
-          "summary": "Max Verstappen has finished on the podium in no fewer than six of the last eight Formula 1 weekends, but one thing is still missing: a victory. Asked whether Red Bull's form is finally starting to look respectable again after a very difficu",
-          "source": "Motorsport.com",
-          "sourceLabel": "Motorsport.com",
-          "url": "https://www.motorsport.com/f1/news/max-verstappen-laughs-off-malaysian-heat-concerns-months-of-preparation-to-not-give-an-f/10860559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-          "image": "https://cdn-2.motorsport.com/images/amp/0kZX5D86/s6/max-verstappen-red-bull-racing.jpg",
-          "language": "en",
-          "publishedAt": "2026-10-01T16:00:04.000Z",
-          "addedAt": "2026-10-02T01:44:31.137Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "www-motorsport-com-f1-news-ferrari-told-replacing-fred-vasseur-would-be-absolutely-ludicrous-10860667-utm-source-rss-utm",
-          "title": "Ferrari told replacing Fred Vasseur would be \"absolutely ludicrous\"",
-          "summary": "Formula 1 broadcaster Will Buxton has warned Ferrari it would be \"absolutely ludicrous\" to replace team principal Fred Vasseur with Christian Horner, following intense paddock speculation regarding the former Red Bull chief's future. Rumour",
-          "source": "Motorsport.com",
-          "sourceLabel": "Motorsport.com",
-          "url": "https://www.motorsport.com/f1/news/ferrari-told-replacing-fred-vasseur-would-be-absolutely-ludicrous/10860667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-          "image": "https://cdn-1.motorsport.com/images/amp/63Qa8ol2/s6/frederic-vasseur-ferrari.jpg",
-          "language": "en",
-          "publishedAt": "2026-10-01T14:52:42.000Z",
-          "addedAt": "2026-10-02T01:44:31.137Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "www-motorsport-com-f1-news-dropped-esteban-ocon-defiant-formula-1-is-where-i-belong-10860609-utm-source-rss-utm-medium-r",
-          "title": "Dropped Esteban Ocon defiant: Formula 1 is “where I belong”",
-          "summary": "This week the Haas Formula 1 team confirmed what had long been mooted in the paddock: Esteban Ocon will be leaving at the end of the current 2026 season. But the man himself has designs on staying in F1. “My focus is on Formula 1,” he said ",
-          "source": "Motorsport.com",
-          "sourceLabel": "Motorsport.com",
-          "url": "https://www.motorsport.com/f1/news/dropped-esteban-ocon-defiant-formula-1-is-where-i-belong/10860609/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-          "image": "https://cdn-4.motorsport.com/images/amp/0Zq8EJ56/s6/esteban-ocon-haas-f1-team.jpg",
-          "language": "en",
-          "publishedAt": "2026-10-01T13:00:04.000Z",
-          "addedAt": "2026-10-02T01:44:31.138Z",
-          "category": "general",
-          "tag": "Reglamento"
         }
       ]
     }

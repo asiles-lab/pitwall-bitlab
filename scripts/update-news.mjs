@@ -243,16 +243,14 @@ async function main() {
   const queue = sortNews(mergeById([...existingQueue, ...incomingQueue]));
   const { release, remaining } = pickRelease(queue);
 
-  if (!release.length && previousItems.length) {
-    console.log(`Sin novedades para publicar. ${remaining.length} notas siguen en cola.`);
-    return;
-  }
-
-  const items = mergeById([...release, ...previousItems]).slice(0, MAX_ITEMS);
   const backlog = sortNews(remaining).slice(0, BACKLOG_LIMIT);
   const now = new Date().toISOString();
+  const items = release.length
+    ? mergeById([...release, ...previousItems]).slice(0, MAX_ITEMS)
+    : previousItems.slice(0, MAX_ITEMS);
   const payload = {
-    updatedAt: now,
+    updatedAt: release.length || !previousItems.length ? now : (existing.updatedAt || now),
+    checkedAt: now,
     pageSize: PAGE_SIZE,
     sources: FEEDS.map(({ source, url }) => ({ source, url })),
     releasePolicy: {
@@ -264,6 +262,10 @@ async function main() {
     pages: paginate(items),
   };
   await writeFile(newsPath, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
+  if (!release.length) {
+    console.log(`Revisado sin novedades relevantes para publicar; en cola: ${backlog.length}; guardadas: ${items.length}.`);
+    return;
+  }
   console.log(`Noticias publicadas: ${release.length}; en cola: ${backlog.length}; guardadas: ${items.length}.`);
 }
 

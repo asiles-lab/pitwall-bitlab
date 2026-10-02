@@ -1306,6 +1306,13 @@ function formatNewsTimestamp(value) {
   });
 }
 
+function newsTimestampDiffers(a, b) {
+  const first = new Date(a).getTime();
+  const second = new Date(b).getTime();
+  if (Number.isNaN(first) || Number.isNaN(second)) return false;
+  return Math.abs(first - second) > 60000;
+}
+
 function renderNewsHistory(news) {
   const targets = [els.newsHistory, els.francoHistory].filter(Boolean);
   if (!targets.length) return;
@@ -1397,7 +1404,11 @@ function renderNews(news) {
 
   if (els.newsMeta) {
     const pages = newsPages(news).length || 1;
-    els.newsMeta.textContent = `Actualizado ${formatNewsTimestamp(news.updatedAt)} · pagina ${state.newsPage}/${pages} · ${allItems.length} notas en historico`;
+    const checkedAt = news.checkedAt || news.updatedAt;
+    const updatedText = newsTimestampDiffers(checkedAt, news.updatedAt)
+      ? ` · ultima novedad ${formatNewsTimestamp(news.updatedAt)}`
+      : "";
+    els.newsMeta.textContent = `Revisado ${formatNewsTimestamp(checkedAt)}${updatedText} · pagina ${state.newsPage}/${pages} · ${allItems.length} notas en historico`;
   }
   renderNewsBucket(els.generalNews, general, newsCard, "Sin notas F1 en esta pagina.");
   renderNewsBucket(els.francoNews, franco, miniNews, "Sin notas de Franco en esta pagina.");
