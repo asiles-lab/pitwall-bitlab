@@ -1240,26 +1240,27 @@ function excerpt(value = "", maxLength = 142) {
 
 function newsThumb(item) {
   const source = item.source || "F1";
+  const href = escapeHtml(newsUrl(item));
   if (!item.image) {
-    return `<div class="news-thumb" aria-hidden="true"><span class="news-thumb-fallback">${source.slice(0, 10)}</span></div>`;
+    return `<a class="news-thumb" href="${href}" aria-label="${escapeHtml(item.title || "Noticia")}"><span class="news-thumb-fallback">${source.slice(0, 10)}</span></a>`;
   }
   return `
-    <div class="news-thumb" aria-hidden="true">
+    <a class="news-thumb" href="${href}" aria-label="${escapeHtml(item.title || "Noticia")}">
       <img src="${escapeHtml(item.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">
-    </div>
+    </a>
   `;
 }
 
 function newsCard(item, index) {
   const summaryLength = index === 0 ? 168 : 112;
+  const href = escapeHtml(newsUrl(item));
   return `
     <article class="news-card ${index === 0 ? "priority" : ""}">
       <div class="news-card-body">
         <span class="news-tag">${escapeHtml(item.tag || item.category || "Noticia")}</span>
-        <h3>${escapeHtml(item.title)}</h3>
-        <p>${escapeHtml(excerpt(item.summary || "", summaryLength))}</p>
+        <h3><a href="${href}">${escapeHtml(item.title)}</a></h3>
+        <a class="news-summary-link" href="${href}">${escapeHtml(excerpt(item.summary || "", summaryLength))}</a>
         <span class="news-source">Fuente: ${escapeHtml(sourceText(item))}</span>
-        <a href="${escapeHtml(newsUrl(item))}">Leer resumen</a>
       </div>
       ${newsThumb(item)}
     </article>
@@ -1267,16 +1268,16 @@ function newsCard(item, index) {
 }
 
 function miniNews(item) {
+  const href = escapeHtml(newsUrl(item));
   return `
     <article>
-      <div class="mini-thumb" aria-hidden="true">
+      <a class="mini-thumb" href="${href}" aria-label="${escapeHtml(item.title || "Noticia")}">
         ${item.image ? `<img src="${escapeHtml(item.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">` : `<span>${escapeHtml((item.source || "F1").slice(0, 6))}</span>`}
-      </div>
+      </a>
       <div>
-        <strong>${escapeHtml(item.title)}</strong>
-        <span>${escapeHtml(excerpt(item.summary || "", 118))}</span>
+        <strong><a href="${href}">${escapeHtml(item.title)}</a></strong>
+        <a class="news-summary-link" href="${href}">${escapeHtml(excerpt(item.summary || "", 118))}</a>
         <em class="news-source">Fuente: ${escapeHtml(sourceText(item))}</em>
-        <a href="${escapeHtml(newsUrl(item))}">Leer resumen</a>
       </div>
     </article>
   `;
