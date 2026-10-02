@@ -272,6 +272,22 @@ main {
   display: block;
 }
 
+#live-panel .live-standby {
+  display: none;
+}
+
+#live-panel.is-booting-live .command-ribbon,
+#live-panel.is-booting-live .metric-strip,
+#live-panel.is-booting-live .dashboard-grid,
+#live-panel.is-booting-live .standings-grid,
+#live-panel.is-booting-live .lower-grid {
+  display: none;
+}
+
+#live-panel.is-booting-live .live-standby {
+  display: grid;
+}
+
 #home-panel {
   position: relative;
   border-radius: 8px;
@@ -423,6 +439,140 @@ main {
   display: block;
   overflow-wrap: anywhere;
   font: 800 1rem/1.25 "Consolas", "Cascadia Mono", monospace;
+}
+
+.live-standby {
+  display: grid;
+  grid-template-columns: minmax(170px, 0.34fr) minmax(0, 1fr);
+  gap: 22px;
+  align-items: center;
+  min-height: 228px;
+  margin-top: 12px;
+  padding: 24px;
+  border: 1px solid rgba(73, 91, 145, 0.54);
+  border-radius: 12px;
+  background:
+    radial-gradient(circle at 17% 50%, rgba(255, 54, 62, 0.18), transparent 34%),
+    linear-gradient(135deg, rgba(16, 18, 28, 0.98), rgba(9, 14, 27, 0.96));
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05), 0 18px 45px rgba(0, 0, 0, 0.25);
+}
+
+.tachometer {
+  position: relative;
+  width: min(220px, 100%);
+  aspect-ratio: 1.45 / 1;
+  justify-self: center;
+  overflow: hidden;
+}
+
+.tachometer::before {
+  content: "";
+  position: absolute;
+  inset: 12% 4% -58%;
+  border: 3px solid rgba(255, 255, 255, 0.08);
+  border-radius: 50% 50% 0 0;
+  background:
+    radial-gradient(circle at 50% 84%, rgba(255, 255, 255, 0.08), transparent 8%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0));
+}
+
+.tach-arc {
+  position: absolute;
+  inset: 12% 5% -60%;
+  border-radius: 50% 50% 0 0;
+  background:
+    conic-gradient(from 235deg at 50% 78%, var(--green) 0 44deg, var(--amber) 44deg 84deg, var(--red) 84deg 122deg, transparent 122deg 360deg);
+  -webkit-mask: radial-gradient(circle at 50% 78%, transparent 0 54%, #000 55% 62%, transparent 63%);
+  mask: radial-gradient(circle at 50% 78%, transparent 0 54%, #000 55% 62%, transparent 63%);
+}
+
+.tach-needle {
+  position: absolute;
+  left: 50%;
+  bottom: 21%;
+  width: 44%;
+  height: 4px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1), #f7f7f7 36%, var(--red));
+  box-shadow: 0 0 18px rgba(255, 54, 62, 0.42);
+  transform-origin: 0 50%;
+  animation: tachSweep 1.55s cubic-bezier(0.55, 0, 0.18, 1) infinite alternate;
+}
+
+.tach-hub {
+  position: absolute;
+  left: 50%;
+  bottom: 21%;
+  width: 18px;
+  height: 18px;
+  border: 3px solid #f7f7f7;
+  border-radius: 50%;
+  background: #0b0d15;
+  box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.05);
+  transform: translate(-50%, 50%);
+}
+
+.tach-mark {
+  position: absolute;
+  bottom: 17%;
+  left: 50%;
+  width: 3px;
+  height: 20px;
+  border-radius: 3px;
+  background: rgba(255, 255, 255, 0.35);
+  transform-origin: 50% 86px;
+}
+
+.mark-one {
+  transform: translateX(-50%) rotate(-54deg);
+}
+
+.mark-two {
+  transform: translateX(-50%) rotate(0deg);
+}
+
+.mark-three {
+  transform: translateX(-50%) rotate(54deg);
+  background: var(--red);
+}
+
+.tachometer span {
+  position: absolute;
+  left: 50%;
+  bottom: 4px;
+  color: var(--muted);
+  font: 900 0.76rem/1 "Consolas", "Cascadia Mono", monospace;
+  letter-spacing: 0.08em;
+  transform: translateX(-50%);
+}
+
+@keyframes tachSweep {
+  0% {
+    transform: rotate(204deg);
+  }
+
+  58% {
+    transform: rotate(296deg);
+  }
+
+  100% {
+    transform: rotate(278deg);
+  }
+}
+
+.standby-copy h2 {
+  margin: 0;
+  font-size: clamp(2rem, 5vw, 4.8rem);
+  line-height: 0.95;
+  letter-spacing: 0;
+}
+
+.standby-copy p:last-child {
+  max-width: 680px;
+  margin: 12px 0 0;
+  color: var(--muted);
+  font-size: clamp(1rem, 1.7vw, 1.28rem);
+  line-height: 1.45;
 }
 
 .dashboard-grid {
@@ -697,6 +847,11 @@ main {
 .skeleton-row td,
 .empty-copy {
   color: var(--muted);
+}
+
+.skeleton-row td {
+  padding: 22px 18px;
+  text-align: center;
 }
 
 .track-panel canvas {
@@ -1549,6 +1704,12 @@ main {
     grid-template-columns: 1fr 1fr;
   }
 
+  .live-standby {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    text-align: center;
+  }
+
   .points-list {
     grid-template-columns: 1fr;
   }
@@ -1621,10 +1782,26 @@ main {
     grid-template-columns: 1fr;
   }
 
+  .live-standby {
+    min-height: 0;
+    padding: 20px 16px;
+  }
+
+  .tachometer {
+    width: min(190px, 86vw);
+  }
+
   .racer-card,
   .racer-stage,
   .racer-canvas {
     height: auto;
     min-height: 215px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tach-needle {
+    animation: none;
+    transform: rotate(276deg);
   }
 }

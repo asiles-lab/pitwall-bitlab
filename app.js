@@ -13,10 +13,12 @@ const FAST_ENDPOINT_ROTATION = [
 ];
 
 const els = {
+  livePanel: document.querySelector("#live-panel"),
   connection: document.querySelector("#connectionState"),
   lastSync: document.querySelector("#lastSync"),
   sessionMetric: document.querySelector("#sessionMetric"),
   sessionFlag: document.querySelector("#sessionFlag"),
+  liveStandby: document.querySelector("#liveStandby"),
   trackMetric: document.querySelector("#trackMetric"),
   flagMetric: document.querySelector("#flagMetric"),
   weatherMetric: document.querySelector("#weatherMetric"),
@@ -68,6 +70,7 @@ const els = {
   articleSource: document.querySelector("#articleSource"),
 };
 
+const LIVE_BOOT_MS = 3600;
 const GENERAL_NEWS_VISIBLE = 7;
 const SIDE_NEWS_VISIBLE = 2;
 
@@ -154,6 +157,7 @@ const FALLBACK_PREVIOUS_RACE = {
 const state = {
   token: localStorage.getItem("openf1_token") || "",
   timer: null,
+  liveBootTimer: 0,
   isLoadingData: false,
   queuedLoad: false,
   fastTick: 0,
@@ -720,7 +724,7 @@ function renderLeaderboard(payload) {
   els.timingTable.classList.toggle("has-pit-active", pitActive);
 
   if (!rows.length) {
-    els.leaderboard.innerHTML = `<tr class="skeleton-row"><td colspan="13">Sin datos de sesion disponibles. Si hay carrera en vivo, OpenF1 puede requerir token.</td></tr>`;
+    els.leaderboard.innerHTML = `<tr class="skeleton-row"><td colspan="13">Esperando senal de pista. El timing tower se activa con datos OpenF1.</td></tr>`;
     return;
   }
 
@@ -1127,11 +1131,21 @@ function showPanel(name) {
   document.querySelectorAll("[data-tab]").forEach((item) => item.classList.toggle("is-active", item.dataset.tab === name));
 }
 
+function startLiveBoot() {
+  if (!els.livePanel) return;
+  window.clearTimeout(state.liveBootTimer);
+  els.livePanel.classList.add("is-booting-live");
+  state.liveBootTimer = window.setTimeout(() => {
+    els.livePanel.classList.remove("is-booting-live");
+  }, LIVE_BOOT_MS);
+}
+
 function setupTabs() {
   document.querySelectorAll("[data-tab]").forEach((tab) => {
     tab.addEventListener("click", () => {
       const target = tab.dataset.tab;
       showPanel(target);
+      if (target === "live") startLiveBoot();
     });
   });
 }

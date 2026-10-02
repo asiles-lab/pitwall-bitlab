@@ -11,7 +11,7 @@
     <link rel="icon" type="image/png" href="./assets/pitwall-logo.png">
     <link rel="apple-touch-icon" href="./assets/pitwall-logo.png">
     <link rel="stylesheet" href="./styles.css?v=20261002-homefix">
-    <script src="./app.js?v=20261002-split-news-pages" defer></script>
+    <script src="./app.js?v=20261002-live-tach" defer></script>
   </head>
   <body>
     <div class="scanline" aria-hidden="true"></div>
@@ -147,6 +147,23 @@
             </article>
           </section>
 
+          <section class="live-standby" id="liveStandby" aria-live="polite">
+            <div class="tachometer" aria-hidden="true">
+              <div class="tach-arc"></div>
+              <div class="tach-needle"></div>
+              <div class="tach-hub"></div>
+              <div class="tach-mark mark-one"></div>
+              <div class="tach-mark mark-two"></div>
+              <div class="tach-mark mark-three"></div>
+              <span>RPM</span>
+            </div>
+            <div class="standby-copy">
+              <p class="eyebrow">OpenF1 standby</p>
+              <h2>Calentando motores</h2>
+              <p>Preparando el pitwall para cuando la pista empiece a hablar.</p>
+            </div>
+          </section>
+
           <div class="dashboard-grid">
             <section class="panel leaderboard-panel" aria-labelledby="leaderboard-title">
               <div class="panel-head">
@@ -176,7 +193,7 @@
                     </tr>
                   </thead>
                   <tbody id="leaderboardBody">
-                    <tr class="skeleton-row"><td colspan="13">Cargando OpenF1...</td></tr>
+                    <tr class="skeleton-row"><td colspan="13">Esperando senal de pista.</td></tr>
                   </tbody>
                 </table>
               </div>
