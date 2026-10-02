@@ -11,6 +11,7 @@ const MAX_ITEMS = 90;
 const BACKLOG_LIMIT = 180;
 const RELEASE_LIMIT = 2;
 const MIN_RELEASE_SCORE = 32;
+const CHECK_INTERVAL_MS = 50 * 60 * 1000;
 
 const FEEDS = [
   {
@@ -228,6 +229,13 @@ async function readExisting() {
 
 async function main() {
   const existing = await readExisting();
+  const now = new Date();
+  const lastChecked = new Date(existing.checkedAt || existing.updatedAt || 0).getTime();
+  if (process.env.FORCE_NEWS_UPDATE !== "1" && Number.isFinite(lastChecked) && now.getTime() - lastChecked < CHECK_INTERVAL_MS) {
+    console.log(`Revision omitida: la ultima fue ${existing.checkedAt || existing.updatedAt}.`);
+    return;
+  }
+
   const previousItems = (existing.pages || []).flatMap((page) => page.items || []);
   const previousById = new Map(previousItems.map((item) => [item.id, item]));
   const publishedIds = new Set(previousById.keys());
@@ -244,13 +252,13 @@ async function main() {
   const { release, remaining } = pickRelease(queue);
 
   const backlog = sortNews(remaining).slice(0, BACKLOG_LIMIT);
-  const now = new Date().toISOString();
+  const nowIso = now.toISOString();
   const items = release.length
     ? mergeById([...release, ...previousItems]).slice(0, MAX_ITEMS)
     : previousItems.slice(0, MAX_ITEMS);
   const payload = {
-    updatedAt: release.length || !previousItems.length ? now : (existing.updatedAt || now),
-    checkedAt: now,
+    updatedAt: release.length || !previousItems.length ? nowIso : (existing.updatedAt || nowIso),
+    checkedAt: nowIso,
     pageSize: PAGE_SIZE,
     sources: FEEDS.map(({ source, url }) => ({ source, url })),
     releasePolicy: {
