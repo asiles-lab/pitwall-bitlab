@@ -469,107 +469,29 @@ main {
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05), 0 18px 45px rgba(0, 0, 0, 0.25);
 }
 
-.tachometer {
+.standby-animation {
   position: relative;
-  width: min(220px, 100%);
-  aspect-ratio: 1.45 / 1;
+  width: min(360px, 34vw);
+  aspect-ratio: 1;
   justify-self: center;
-  overflow: hidden;
+  isolation: isolate;
 }
 
-.tachometer::before {
+.standby-animation::before {
   content: "";
   position: absolute;
-  inset: 12% 4% -58%;
-  border: 3px solid rgba(255, 255, 255, 0.08);
-  border-radius: 50% 50% 0 0;
-  background:
-    radial-gradient(circle at 50% 84%, rgba(255, 255, 255, 0.08), transparent 8%),
-    linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0));
-}
-
-.tach-arc {
-  position: absolute;
-  inset: 12% 5% -60%;
-  border-radius: 50% 50% 0 0;
-  background:
-    conic-gradient(from 235deg at 50% 78%, var(--green) 0 44deg, var(--amber) 44deg 84deg, var(--red) 84deg 122deg, transparent 122deg 360deg);
-  -webkit-mask: radial-gradient(circle at 50% 78%, transparent 0 54%, #000 55% 62%, transparent 63%);
-  mask: radial-gradient(circle at 50% 78%, transparent 0 54%, #000 55% 62%, transparent 63%);
-}
-
-.tach-needle {
-  position: absolute;
-  left: 50%;
-  bottom: 21%;
-  width: 44%;
-  height: 4px;
-  border-radius: 999px;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1), #f7f7f7 36%, var(--red));
-  box-shadow: 0 0 18px rgba(255, 54, 62, 0.42);
-  transform-origin: 0 50%;
-  animation: tachSweep 1.55s cubic-bezier(0.55, 0, 0.18, 1) infinite alternate;
-}
-
-.tach-hub {
-  position: absolute;
-  left: 50%;
-  bottom: 21%;
-  width: 18px;
-  height: 18px;
-  border: 3px solid #f7f7f7;
+  inset: 16%;
+  z-index: -1;
   border-radius: 50%;
-  background: #0b0d15;
-  box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.05);
-  transform: translate(-50%, 50%);
+  background: rgba(255, 38, 55, 0.16);
+  filter: blur(42px);
 }
 
-.tach-mark {
-  position: absolute;
-  bottom: 17%;
-  left: 50%;
-  width: 3px;
-  height: 20px;
-  border-radius: 3px;
-  background: rgba(255, 255, 255, 0.35);
-  transform-origin: 50% 86px;
-}
-
-.mark-one {
-  transform: translateX(-50%) rotate(-54deg);
-}
-
-.mark-two {
-  transform: translateX(-50%) rotate(0deg);
-}
-
-.mark-three {
-  transform: translateX(-50%) rotate(54deg);
-  background: var(--red);
-}
-
-.tachometer span {
-  position: absolute;
-  left: 50%;
-  bottom: 4px;
-  color: var(--muted);
-  font: 900 0.76rem/1 "Consolas", "Cascadia Mono", monospace;
-  letter-spacing: 0.08em;
-  transform: translateX(-50%);
-}
-
-@keyframes tachSweep {
-  0% {
-    transform: rotate(204deg);
-  }
-
-  58% {
-    transform: rotate(296deg);
-  }
-
-  100% {
-    transform: rotate(278deg);
-  }
+.standby-animation dotlottie-wc {
+  display: block;
+  width: 100%;
+  height: 100%;
+  filter: drop-shadow(0 20px 30px rgba(0, 0, 0, 0.45));
 }
 
 .standby-copy h2 {
@@ -1688,7 +1610,6 @@ main {
     min-height: 265px;
   }
 }
-
 @media (max-width: 820px) {
   .app-shell {
     width: min(100% - 20px, 1640px);
@@ -1730,6 +1651,12 @@ main {
     grid-template-columns: 1fr;
     justify-items: center;
     text-align: center;
+  }
+
+  #live-panel.is-booting-live .live-standby {
+    grid-template-rows: auto auto;
+    align-content: center;
+    gap: 4px;
   }
 
   .points-list {
@@ -1816,8 +1743,8 @@ main {
     padding: 20px 16px;
   }
 
-  .tachometer {
-    width: min(190px, 86vw);
+  .standby-animation {
+    width: min(320px, 86vw);
   }
 
   .racer-card,
@@ -1825,12 +1752,5 @@ main {
   .racer-canvas {
     height: auto;
     min-height: 215px;
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .tach-needle {
-    animation: none;
-    transform: rotate(276deg);
   }
 }

@@ -10,8 +10,9 @@
     <meta property="og:image" content="./assets/pitwall-logo.png">
     <link rel="icon" type="image/png" href="./assets/pitwall-logo.png">
     <link rel="apple-touch-icon" href="./assets/pitwall-logo.png">
-    <link rel="stylesheet" href="./styles.css?v=20261003-live-boot">
-    <script src="./app.js?v=20261003-live-boot" defer></script>
+    <link rel="stylesheet" href="./styles.css?v=20261003-lottie-boot">
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@lottiefiles/dotlottie-wc@0.9.28/dist/dotlottie-wc.js"></script>
+    <script src="./app.js?v=20261003-lottie-boot" defer></script>
   </head>
   <body>
     <div class="scanline" aria-hidden="true"></div>
@@ -148,14 +149,12 @@
           </section>
 
           <section class="live-standby" id="liveStandby" aria-live="polite">
-            <div class="tachometer" aria-hidden="true">
-              <div class="tach-arc"></div>
-              <div class="tach-needle"></div>
-              <div class="tach-hub"></div>
-              <div class="tach-mark mark-one"></div>
-              <div class="tach-mark mark-two"></div>
-              <div class="tach-mark mark-three"></div>
-              <span>RPM</span>
+            <div class="standby-animation" aria-hidden="true">
+              <dotlottie-wc
+                src="./assets/pitwall-loading.lottie"
+                autoplay
+                loop
+              ></dotlottie-wc>
             </div>
             <div class="standby-copy">
               <p class="eyebrow">OpenF1 standby</p>
