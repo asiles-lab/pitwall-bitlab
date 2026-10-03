@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-03T21:11:29.702Z",
-  "checkedAt": "2026-10-03T21:11:29.702Z",
+  "updatedAt": "2026-10-03T22:11:27.008Z",
+  "checkedAt": "2026-10-03T22:11:27.008Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua",
-      "title": "Girolami le dio el '1' a Hyundai en una clasificación pasada por agua",
-      "summary": "El piloto de Isla Verde fue el más rápido en el primer corte de clasificación. La lluvia torrencial no permitió el normal desarrollo de la Q2, lo que se tradujo en \"pole\" del cordobés.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-HYUNDAI-e1791058796473.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-03T20:25:49.000Z",
-      "addedAt": "2026-10-03T21:11:31.442Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-eugenio-provens-por-1a-vez-al-tope-de-la-clasificacion-del-tc-pista",
       "title": "Eugenio Provens, por 1ª vez al tope de la clasificación del TC Pista",
@@ -343,23 +328,8 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-03T21:11:35.925Z",
+      "createdAt": "2026-10-03T22:11:35.636Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
-          "title": "Por qué Colapinto larga 21° si clasificó 15° en el GP de Malasia de la F1",
-          "summary": "El piloto argentino penalizó quince puestos por un cambio de motor y por una sanción previa de la carrera en Bakú.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167.html",
-          "image": "https://media.tycsports.com/files/2026/10/03/992532/colapinto_1440x810.webp",
-          "body": "El piloto argentino penalizó quince puestos por un cambio de motor y por una sanción previa de la carrera en Bakú.\n\nColapinto largará 21 en el Gran Premio de Malasia (Foto: @@AlpineF1Team). + Seguinos en El piloto argentino Franco Colapinto (Alpine) largará este domingo en la vigésimo primera posición del Gran Premio de Malasia de Fórmula 1 en el circuito de Sepang, a pesar de haber finalizado decimoquinto en la sesión de clasificación disputada este sábado, debido a la acumulación de quince puestos en penalizaciones por el cambio de componentes en su unidad de potencia y sanciones previas.\n\nLa sesión oficial de ordenamiento, correspondiente a la temporada 2026 de la máxima categoría del automovilismo, dejó al neerlandés Max Verstappen (Red Bull) en la primera posición de partida tras marcar el mejor tiempo en la última tanda (Q3), escoltado por el británico Lewis Hamilton (Mercedes) . En tanto, Colapinto logró superar el primer corte clasificatorio al finalizar décimo en la Q1, pero quedó eliminado en la Q2 tras registrar el decimoquinto tiempo y optar por abortar su intento final con neumáticos usados.\n\nEl retroceso en la grilla de partida se originó por dos sanciones reglamentarias acumuladas. Por un lado, el equipo Alpine decidió instalar el quinto motor de combustión interna Mercedes en el monoplaza del pilarense, superando el límite de cuatro permitidos por el reglamento técnico anual, lo que derivó en una penalización de diez posiciones. Por el otro, el argentino arrastraba una sanción de cinco lugares impuesta por los comisarios deportivos tras un incidente en la competencia anterior disputada en Bakú, donde protagonizó un toque con el británico Lando Norris (McLaren) y su compañero de escudería, el francés Pierre Gasly.\n\nCon estas penalizaciones aplicadas, la g",
-          "language": "es",
-          "publishedAt": "2026-10-03T09:44:29.000Z",
-          "addedAt": "2026-10-03T10:16:38.999Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
         {
           "id": "www-tycsports-com-automovilismo-f1-gp-malasia-colapinto-esperanza-declaraciones-qualy-15-largada-21-id764169-html",
           "title": "Colapinto, entre la resignación y la esperanza: \"Era lo que esperábamos, pero se puede remontar\"",
@@ -372,6 +342,21 @@
           "language": "es",
           "publishedAt": "2026-10-03T10:49:45.000Z",
           "addedAt": "2026-10-03T11:20:54.572Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
+          "title": "Por qué Colapinto larga 21° si clasificó 15° en el GP de Malasia de la F1",
+          "summary": "El piloto argentino penalizó quince puestos por un cambio de motor y por una sanción previa de la carrera en Bakú.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167.html",
+          "image": "https://media.tycsports.com/files/2026/10/03/992532/colapinto_1440x810.webp",
+          "body": "El piloto argentino penalizó quince puestos por un cambio de motor y por una sanción previa de la carrera en Bakú.\n\nColapinto largará 21 en el Gran Premio de Malasia (Foto: @@AlpineF1Team). + Seguinos en El piloto argentino Franco Colapinto (Alpine) largará este domingo en la vigésimo primera posición del Gran Premio de Malasia de Fórmula 1 en el circuito de Sepang, a pesar de haber finalizado decimoquinto en la sesión de clasificación disputada este sábado, debido a la acumulación de quince puestos en penalizaciones por el cambio de componentes en su unidad de potencia y sanciones previas.\n\nLa sesión oficial de ordenamiento, correspondiente a la temporada 2026 de la máxima categoría del automovilismo, dejó al neerlandés Max Verstappen (Red Bull) en la primera posición de partida tras marcar el mejor tiempo en la última tanda (Q3), escoltado por el británico Lewis Hamilton (Mercedes) . En tanto, Colapinto logró superar el primer corte clasificatorio al finalizar décimo en la Q1, pero quedó eliminado en la Q2 tras registrar el decimoquinto tiempo y optar por abortar su intento final con neumáticos usados.\n\nEl retroceso en la grilla de partida se originó por dos sanciones reglamentarias acumuladas. Por un lado, el equipo Alpine decidió instalar el quinto motor de combustión interna Mercedes en el monoplaza del pilarense, superando el límite de cuatro permitidos por el reglamento técnico anual, lo que derivó en una penalización de diez posiciones. Por el otro, el argentino arrastraba una sanción de cinco lugares impuesta por los comisarios deportivos tras un incidente en la competencia anterior disputada en Bakú, donde protagonizó un toque con el británico Lando Norris (McLaren) y su compañero de escudería, el francés Pierre Gasly.\n\nCon estas penalizaciones aplicadas, la g",
+          "language": "es",
+          "publishedAt": "2026-10-03T09:44:29.000Z",
+          "addedAt": "2026-10-03T10:16:38.999Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -406,6 +391,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-i",
+          "title": "Franco Colapinto recibió otra penalización en el GP de Malasia de la F1: \"Largaré...\"",
+          "summary": "El píloto argentino fue sancionado con diez posiciones porque Alpine cambió nuevamente el propulsor antes de la carrera del domingo. Esto se suma al castigo por el incidente en Bakú.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-id763960.html",
+          "image": "https://media.tycsports.com/files/2026/10/02/992226/franco-colapinto_1440x810.webp",
+          "body": "El píloto argentino fue sancionado con diez posiciones porque Alpine cambió nuevamente el propulsor antes de la carrera del domingo. Esto se suma al castigo por el incidente en Bakú.\n\nFranco Colapinto fue sancionado y largará aún más atrás en el GP de Bahreín (Kym Illman/Getty Images)) + Seguinos en El piloto argentino Franco Colapinto sufrió otra mala noticia este viernes porque fue sancionado con diez posiciones luego de que Alpine cambiara nuevamente el propulsor antes de la carrera del domingo, por lo que partirá desde diez posiciones más atrás en el GP de Malasia, castigo que se suma a los cinco puestos que ya había recibido por le incidente en Bakú.\n\nEl nuevo castigo llegó luego de que la escudería instalara el quinto motor de combustión interna Mercedes de la temporada en el auto del argentino. El reglamento establece un máximo de cuatro unidades sin sanción, por lo que superar ese límite implica un recargo automático. La decisión del equipo responde a una cuestión estratégica: como ya debía perder cinco puestos, Alpine optó por colocar ahora un motor nuevo y asumir también el castigo correspondiente . La intención es disponer de esa unidad adicional durante el tramo final del campeonato.\n\nEl primer recargo se originó en Bakú, cuando restaban 15 vueltas y el argentino bloqueó las ruedas al llegar a la primera curva tras un relanzamiento del Auto de Seguridad . El contacto terminó con los abandonos de Colapinto, Pierre Gasly y Lando Norris.\n\nLos comisarios determinaron que el argentino fue responsable del incidente y establecieron una pérdida de cinco lugares para la siguiente competencia . Alpine, además, dejó pasar una posibilidad importante de sumar en la lucha por el Campeonato de Constructores.",
+          "language": "es",
+          "publishedAt": "2026-10-02T15:11:24.000Z",
+          "addedAt": "2026-10-02T16:23:12.821Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611-h",
           "title": "F1: Verstappen logró su primera pole del año y Colapinto largará anteúltimo",
           "summary": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.",
@@ -417,21 +417,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T09:19:14.000Z",
           "addedAt": "2026-10-02T16:23:12.620Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
-          "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
-          "summary": "Debe cumplir con una penalización de 15 puestos con el Alpine, a bordo del cual el argentino pudo superar el primer corte clasificatorio en la pista de Sepang. La \"pole\" la logró Verstappen quien superó a Hamilton.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-box-Alpine.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T18:59:19.000Z",
-          "addedAt": "2026-10-03T18:11:30.466Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -451,17 +436,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-i",
-          "title": "Franco Colapinto recibió otra penalización en el GP de Malasia de la F1: \"Largaré...\"",
-          "summary": "El píloto argentino fue sancionado con diez posiciones porque Alpine cambió nuevamente el propulsor antes de la carrera del domingo. Esto se suma al castigo por el incidente en Bakú.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-id763960.html",
-          "image": "https://media.tycsports.com/files/2026/10/02/992226/franco-colapinto_1440x810.webp",
-          "body": "El píloto argentino fue sancionado con diez posiciones porque Alpine cambió nuevamente el propulsor antes de la carrera del domingo. Esto se suma al castigo por el incidente en Bakú.\n\nFranco Colapinto fue sancionado y largará aún más atrás en el GP de Bahreín (Kym Illman/Getty Images)) + Seguinos en El piloto argentino Franco Colapinto sufrió otra mala noticia este viernes porque fue sancionado con diez posiciones luego de que Alpine cambiara nuevamente el propulsor antes de la carrera del domingo, por lo que partirá desde diez posiciones más atrás en el GP de Malasia, castigo que se suma a los cinco puestos que ya había recibido por le incidente en Bakú.\n\nEl nuevo castigo llegó luego de que la escudería instalara el quinto motor de combustión interna Mercedes de la temporada en el auto del argentino. El reglamento establece un máximo de cuatro unidades sin sanción, por lo que superar ese límite implica un recargo automático. La decisión del equipo responde a una cuestión estratégica: como ya debía perder cinco puestos, Alpine optó por colocar ahora un motor nuevo y asumir también el castigo correspondiente . La intención es disponer de esa unidad adicional durante el tramo final del campeonato.\n\nEl primer recargo se originó en Bakú, cuando restaban 15 vueltas y el argentino bloqueó las ruedas al llegar a la primera curva tras un relanzamiento del Auto de Seguridad . El contacto terminó con los abandonos de Colapinto, Pierre Gasly y Lando Norris.\n\nLos comisarios determinaron que el argentino fue responsable del incidente y establecieron una pérdida de cinco lugares para la siguiente competencia . Alpine, además, dejó pasar una posibilidad importante de sumar en la lucha por el Campeonato de Constructores.",
+          "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
+          "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
+          "summary": "Debe cumplir con una penalización de 15 puestos con el Alpine, a bordo del cual el argentino pudo superar el primer corte clasificatorio en la pista de Sepang. La \"pole\" la logró Verstappen quien superó a Hamilton.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-box-Alpine.jpg",
+          "body": "",
           "language": "es",
-          "publishedAt": "2026-10-02T15:11:24.000Z",
-          "addedAt": "2026-10-02T16:23:12.821Z",
+          "publishedAt": "2026-10-03T18:59:19.000Z",
+          "addedAt": "2026-10-03T18:11:30.466Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -619,23 +604,8 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-03T21:11:35.925Z",
+      "createdAt": "2026-10-03T22:11:35.636Z",
       "items": [
-        {
-          "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
-          "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
-          "summary": "El pampeano se impuso en la Carrera Clasificatoria y tras quedarse con la “pole”, suma puntos claves en la cima del torneo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9726.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T18:27:57.000Z",
-          "addedAt": "2026-10-03T19:11:31.321Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
         {
           "id": "www-tycsports-com-automovilismo-ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792-h",
           "title": "Además de Colapinto, sancionaron a otro piloto de cara al GP de Malasia",
@@ -678,6 +648,21 @@
           "language": "es",
           "publishedAt": "2026-10-03T20:42:36.000Z",
           "addedAt": "2026-10-03T21:11:31.488Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
+          "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
+          "summary": "El pampeano se impuso en la Carrera Clasificatoria y tras quedarse con la “pole”, suma puntos claves en la cima del torneo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9726.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T18:27:57.000Z",
+          "addedAt": "2026-10-03T19:11:31.321Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -757,6 +742,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua",
+          "title": "Girolami le dio el '1' a Hyundai en una clasificación pasada por agua",
+          "summary": "El piloto de Isla Verde fue el más rápido en el primer corte de clasificación. La lluvia torrencial no permitió el normal desarrollo de la Q2, lo que se tradujo en \"pole\" del cordobés.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-HYUNDAI-e1791058796473.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T20:25:49.000Z",
+          "addedAt": "2026-10-03T21:11:31.442Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-tc-en-san-nicolas-fain-logro-su-1a-pole-y-corto-una-sequia-de-3-anos-para-torino",
           "title": "TC en San Nicolás: Fain logró su 1ª “pole” y cortó una sequía de 3 años para Torino",
           "summary": "El piloto del Trotta Racing Team ratificó el mejor tiempo que había marcado en el segundo entrenamiento de la 2ª fecha de la Copa de Oro 2026 y puso fin a una sequía de 44 clasificaciones sin “pole positions” para el “Toro”. Fritzler, con Mercedes, y Santero, con el BMW, escoltaron al santafesino.",
@@ -817,21 +817,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
-          "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
-          "summary": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué…",
-          "source": "Carburando",
-          "sourceLabel": "Carburando",
-          "url": "https://carburando.com.ar/blog/por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
-          "image": "https://carburando.com.ar/covers/22/por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rap-25600.webp",
-          "body": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué ocurrió realmente en esa vuelta.\n\nEl Gran Premio de Azerbaiyán volvió a dejar uno de esos momentos que generan debate en la Fórmula 1. Pierre Gasly, piloto de Alpine, acusó públicamente a Franco Colapinto de haberle arruinado su chance de quedarse con la vuelta más rápida de la carrera.\n\nEl francés, que venía con un ritmo sólido en las etapas finales, vio cómo su intento de registro rápido se frustraba tras un incidente con el Williams del argentino. Más allá de las declaraciones post-carrera, el episodio invita a revisar cómo funcionan las reglas de pista, el DRS y la gestión de tráfico en un circuito urbano estrecho como el de Bakú.\n\nBakú es un trazado de alta velocidad con zonas muy estrechas, donde el rebufo y el DRS juegan un rol decisivo. En las vueltas finales, cuando muchos pilotos ya habían completado sus paradas, varios autos se encontraban en diferentes fases de estrategia. Gasly buscaba precisamente aprovechar un claro para marcar el mejor tiempo del día, algo que además entrega un punto extra en el campeonato de constructores y puede tener peso en la clasificación general.\n\nColapinto, por su parte, estaba cumpliendo con su stint final y, según las imágenes disponibles, se encontraba en una posición defensiva natural. El contacto o la maniobra de paso generó que Gasly perdiera tracción o aerodinámica suficiente para completar la vuelta en el tiempo que buscaba. Desde la ingeniería, perder el flujo limpio sobre el alerón trasero en una zona de alta velocidad como la recta principal de Bakú es casi siempre fatal para un intento de vuelta rápida.",
-          "language": "es",
-          "publishedAt": "2026-10-02T21:35:36.000Z",
-          "addedAt": "2026-10-02T22:34:53.320Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-podios-argentinos-en-el-rally-raid-de-marruecos",
           "title": "Podios argentinos en el Rally Raid de Marruecos",
           "summary": "Manuel Andújar fue 3.° en el debut en Challenger T3 con Andrés Frini; González Ferioli y Rinaldi se retrasaron y finalizaron 3.° en SSV y L. Benavides terminó 4.° en Motos.",
@@ -877,17 +862,17 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
-          "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
-          "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
+          "id": "campeones-com-ar-asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas",
+          "title": "Así se largan las series del Turismo Carretera en San Nicolás",
+          "summary": "Curiosamente, no habrá pilotos ni de Ford ni de Chevrolet en ninguna de las tres primeras filas de la 2ª fecha de la Copa de Oro 2026, donde serán mayoría los representantes de Torino (Fain y Chapur) y Mercedes-Benz (Fritzler y Azar).",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-HYUNDAI-POSADAS.jpg",
+          "url": "https://campeones.com.ar/asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Boxes-TC-San-Nicolas-II-2026.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-03T18:45:37.000Z",
-          "addedAt": "2026-10-03T19:11:31.070Z",
+          "publishedAt": "2026-10-03T22:00:23.000Z",
+          "addedAt": "2026-10-03T22:11:27.635Z",
           "category": "argentino",
           "tag": "Argentino"
         }
@@ -895,23 +880,8 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-03T21:11:35.925Z",
+      "createdAt": "2026-10-03T22:11:35.636Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
-          "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
-          "summary": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-entradas-id763683.html",
-          "image": "https://media.tycsports.com/files/2025/01/20/804453/motogp-en-termas_1440x810.webp?v=2",
-          "body": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.\n\nEl Moto GP llegará a Buenos Aires en abril de 2027 + Seguinos en El MotoGP ya tiene los precios de las entradas para su regreso a la Ciudad de Buenos Aires. El Gran Premio se disputará del 9 al 11 de abril en el renovado circuito porteño, que volverá a recibir a la máxima categoría del motociclismo mundial.\n\nEl valor de los tickets parte desde $194.520 para una ubicación en la recta y llega hasta $5.349.300 para el acceso al Apex Club Elite, la alternativa de mayor costo. Entre ambos extremos, habrá distintas opciones de localidades y experiencias para los espectadores.\n\nLa venta se realizará a través del sitio oficial de tickets de MotoGP. Además, entre el 1 y el 7 de octubre habrá una preventa exclusiva para clientes de Banco Ciudad, con la posibilidad de abonar en hasta seis cuotas sin interés.",
-          "language": "es",
-          "publishedAt": "2026-09-30T22:03:28.000Z",
-          "addedAt": "2026-10-02T17:54:07.788Z",
-          "category": "general",
-          "tag": "F1"
-        },
         {
           "id": "campeones-com-ar-tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas",
           "title": "TC Pista: Maceira se quedó con el ensayo final en San Nicolás",
@@ -956,6 +926,21 @@
           "addedAt": "2026-10-02T17:57:42.858Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
+          "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
+          "summary": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-entradas-id763683.html",
+          "image": "https://media.tycsports.com/files/2025/01/20/804453/motogp-en-termas_1440x810.webp?v=2",
+          "body": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.\n\nEl Moto GP llegará a Buenos Aires en abril de 2027 + Seguinos en El MotoGP ya tiene los precios de las entradas para su regreso a la Ciudad de Buenos Aires. El Gran Premio se disputará del 9 al 11 de abril en el renovado circuito porteño, que volverá a recibir a la máxima categoría del motociclismo mundial.\n\nEl valor de los tickets parte desde $194.520 para una ubicación en la recta y llega hasta $5.349.300 para el acceso al Apex Club Elite, la alternativa de mayor costo. Entre ambos extremos, habrá distintas opciones de localidades y experiencias para los espectadores.\n\nLa venta se realizará a través del sitio oficial de tickets de MotoGP. Además, entre el 1 y el 7 de octubre habrá una preventa exclusiva para clientes de Banco Ciudad, con la posibilidad de abonar en hasta seis cuotas sin interés.",
+          "language": "es",
+          "publishedAt": "2026-09-30T22:03:28.000Z",
+          "addedAt": "2026-10-02T17:54:07.788Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi",
@@ -1018,21 +1003,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-motogp-en-motegi-marc-marquez-le-gano-otro-sprint-a-martin",
-          "title": "MotoGP en Motegi: Marc Márquez le ganó otro Sprint a Martín",
-          "summary": "En la pista japonesa el piloto de Ducati fue contundente desde la partida en la competencia sabatina relegando al \"poleman\" con quien disputa el título.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/motogp-en-motegi-marc-marquez-le-gano-otro-sprint-a-martin/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-MotoGP-Sprint-Motegi.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T09:35:42.000Z",
-          "addedAt": "2026-10-03T06:54:56.540Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-esteba-ocon-piloto-formula-1-salida-escuderia-final-temporada-id763605-html",
           "title": "Un piloto de la Fórmula 1 anunció la salida de su equipo al final de la temporada",
           "summary": "Esteban Ocon, piloto de Haas desde 2025, confirmó que no formará parte de la escudería en 2027: \"Dejo este proyecto con la cabeza bien alta y orgulloso de mi rendimiento\".",
@@ -1059,6 +1029,21 @@
           "language": "es",
           "publishedAt": "2026-09-29T15:23:29.000Z",
           "addedAt": "2026-10-02T16:23:13.048Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-motogp-en-motegi-marc-marquez-le-gano-otro-sprint-a-martin",
+          "title": "MotoGP en Motegi: Marc Márquez le ganó otro Sprint a Martín",
+          "summary": "En la pista japonesa el piloto de Ducati fue contundente desde la partida en la competencia sabatina relegando al \"poleman\" con quien disputa el título.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/motogp-en-motegi-marc-marquez-le-gano-otro-sprint-a-martin/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-MotoGP-Sprint-Motegi.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T09:35:42.000Z",
+          "addedAt": "2026-10-03T06:54:56.540Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1171,7 +1156,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-03T21:11:35.925Z",
+      "createdAt": "2026-10-03T22:11:35.636Z",
       "items": [
         {
           "id": "campeones-com-ar-cambios-en-el-cronograma-habitual-del-turismo-carretera",
@@ -1264,6 +1249,21 @@
           "tag": "Franco"
         },
         {
+          "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
+          "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
+          "summary": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué…",
+          "source": "Carburando",
+          "sourceLabel": "Carburando",
+          "url": "https://carburando.com.ar/blog/por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
+          "image": "https://carburando.com.ar/covers/22/por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rap-25600.webp",
+          "body": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué ocurrió realmente en esa vuelta.\n\nEl Gran Premio de Azerbaiyán volvió a dejar uno de esos momentos que generan debate en la Fórmula 1. Pierre Gasly, piloto de Alpine, acusó públicamente a Franco Colapinto de haberle arruinado su chance de quedarse con la vuelta más rápida de la carrera.\n\nEl francés, que venía con un ritmo sólido en las etapas finales, vio cómo su intento de registro rápido se frustraba tras un incidente con el Williams del argentino. Más allá de las declaraciones post-carrera, el episodio invita a revisar cómo funcionan las reglas de pista, el DRS y la gestión de tráfico en un circuito urbano estrecho como el de Bakú.\n\nBakú es un trazado de alta velocidad con zonas muy estrechas, donde el rebufo y el DRS juegan un rol decisivo. En las vueltas finales, cuando muchos pilotos ya habían completado sus paradas, varios autos se encontraban en diferentes fases de estrategia. Gasly buscaba precisamente aprovechar un claro para marcar el mejor tiempo del día, algo que además entrega un punto extra en el campeonato de constructores y puede tener peso en la clasificación general.\n\nColapinto, por su parte, estaba cumpliendo con su stint final y, según las imágenes disponibles, se encontraba en una posición defensiva natural. El contacto o la maniobra de paso generó que Gasly perdiera tracción o aerodinámica suficiente para completar la vuelta en el tiempo que buscaba. Desde la ingeniería, perder el flujo limpio sobre el alerón trasero en una zona de alta velocidad como la recta principal de Bakú es casi siempre fatal para un intento de vuelta rápida.",
+          "language": "es",
+          "publishedAt": "2026-10-02T21:35:36.000Z",
+          "addedAt": "2026-10-02T22:34:53.320Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-atencion-argentina-ciudad-del-cabo-avanza-para-tener-la-formula-1",
           "title": "Atención Argentina: Ciudad del Cabo avanza para tener la Fórmula 1 | Campeones",
           "summary": "El proyecto para que dicha ciudad reciba el retorno de Sudáfrica al Mundial tuvo un importante paso adelante con la asociación de sus responsables con un grupo económico que ayudará a financiar este Gran Premio que compite con Argentina para entrar en el próximo calendario.",
@@ -1275,6 +1275,21 @@
           "language": "es",
           "publishedAt": "2026-09-30T12:51:37.000Z",
           "addedAt": "2026-10-02T17:57:42.339Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
+          "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
+          "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-HYUNDAI-POSADAS.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T18:45:37.000Z",
+          "addedAt": "2026-10-03T19:11:31.070Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1369,21 +1384,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-tcr-girolami-marca-el-ritmo-con-el-hyundai-en-posadas",
-          "title": "TCR: Girolami marca el ritmo con el Hyundai en Posadas | Campeones",
-          "summary": "El “Bebu” marcó el mejor tiempo del Shakedown, con una buena diferencia sobre Joaquín Cafaro y Fabrizio Pezzini, que cerraron el “top” 10.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tcr-girolami-marca-el-ritmo-con-el-hyundai-en-posadas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/HCC_9580.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T21:57:54.000Z",
-          "addedAt": "2026-10-02T22:34:56.415Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina",
           "title": "Daniel Herrero aclaró el programa deportivo de Mercedes-Benz en Argentina",
           "summary": "El CEO de Prestige Auto se refirió sobre el rumor de una posible expansión de la marca alemana hacia Turismo Competición 2000.",
@@ -1395,6 +1395,21 @@
           "language": "es",
           "publishedAt": "2026-09-29T18:31:58.000Z",
           "addedAt": "2026-10-02T17:57:45.353Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-tcr-girolami-marca-el-ritmo-con-el-hyundai-en-posadas",
+          "title": "TCR: Girolami marca el ritmo con el Hyundai en Posadas | Campeones",
+          "summary": "El “Bebu” marcó el mejor tiempo del Shakedown, con una buena diferencia sobre Joaquín Cafaro y Fabrizio Pezzini, que cerraron el “top” 10.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tcr-girolami-marca-el-ritmo-con-el-hyundai-en-posadas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/HCC_9580.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T21:57:54.000Z",
+          "addedAt": "2026-10-02T22:34:56.415Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1412,7 +1427,13 @@
           "addedAt": "2026-10-02T19:06:31.918Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-03T22:11:35.636Z",
+      "items": [
         {
           "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
           "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
@@ -1442,13 +1463,7 @@
           "addedAt": "2026-10-02T17:57:42.540Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-03T21:11:35.925Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-de-familia-fierrera-y-con-su-hermano-de-referente-bautista-panetta-tiene-una-cita-mundialista",
           "title": "De familia fierrera y con su hermano de referente, Bautista Panetta tiene una cita mundialista | Campeones",
@@ -1683,38 +1698,8 @@
           "url": "https://www.fiaformula2.com/en/latest/article/were-definitely-in-the-fight-says-dunne-after-race-winning-baku-weekend.2pQoM3dwcZomeFagyCzlxe",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T21:11:31.574Z",
+          "publishedAt": "2026-10-03T22:11:27.565Z",
           "addedAt": "2026-10-03T09:12:03.358Z",
-          "category": "support",
-          "tag": "F2",
-          "series": "F2"
-        },
-        {
-          "id": "www-fiaformula2-com-en-latest-article-it-was-much-more-than-a-win-says-tsolov-after-comeback-to-second-in-baku-feature-r",
-          "title": "‘It was much more than a win’ says Tsolov after comeback to second in Baku Feature Race 2",
-          "summary": "",
-          "source": "Formula 2",
-          "sourceLabel": "Formula 2",
-          "url": "https://www.fiaformula2.com/en/latest/article/it-was-much-more-than-a-win-says-tsolov-after-comeback-to-second-in-baku-feature-race-2.2L9LXZR8L2w3VyUV62twHr",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-03T21:11:31.574Z",
-          "addedAt": "2026-10-03T09:12:03.358Z",
-          "category": "support",
-          "tag": "F2",
-          "series": "F2"
-        },
-        {
-          "id": "www-fiaformula2-com-en-latest-article-joshua-duerksen-joins-hitech-for-2027-f2-season-66qvyilxzqpnjz9vrs9itt",
-          "title": "Joshua Duerksen joins Hitech for 2027 F2 season",
-          "summary": "",
-          "source": "Formula 2",
-          "sourceLabel": "Formula 2",
-          "url": "https://www.fiaformula2.com/en/latest/article/joshua-duerksen-joins-hitech-for-2027-f2-season.66QvYilXZqpnjz9VRs9ITt",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-03T21:11:31.573Z",
-          "addedAt": "2026-10-03T09:12:03.357Z",
           "category": "support",
           "tag": "F2",
           "series": "F2"
