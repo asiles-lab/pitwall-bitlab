@@ -12,7 +12,7 @@ if (-not $nodeCandidates) {
   throw "No se encontro Node.js para ejecutar el actualizador."
 }
 
-$node = $nodeCandidates[0]
+$node = @($nodeCandidates)[0]
 $stateDir = Join-Path $env:LOCALAPPDATA "PitwallBitlab"
 $logPath = Join-Path $stateDir "news-updater.log"
 $lockPath = Join-Path $stateDir "news-updater.lock"
