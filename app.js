@@ -70,7 +70,7 @@ const els = {
   articleSource: document.querySelector("#articleSource"),
 };
 
-const LIVE_BOOT_MS = 3600;
+const LIVE_BOOT_MS = 4200;
 const GENERAL_NEWS_VISIBLE = 7;
 const SIDE_NEWS_VISIBLE = 2;
 
@@ -121,6 +121,20 @@ const TEAM_STANDINGS = [
   { pos: 10, team: "Aston Martin", points: 3 },
   { pos: 11, team: "Cadillac", points: 0 },
 ];
+
+const TEAM_COLORS = {
+  "Mercedes": "#27f4d2",
+  "Ferrari": "#e80020",
+  "McLaren": "#ff8000",
+  "Red Bull Racing": "#3671c6",
+  "Racing Bulls": "#6692ff",
+  "Alpine": "#ff87bc",
+  "Haas F1 Team": "#b6babd",
+  "Audi": "#c92d4b",
+  "Williams": "#64c4ff",
+  "Aston Martin": "#229971",
+  "Cadillac": "#d7b56d",
+};
 
 const FALLBACK_PREVIOUS_RACE = {
   name: "Azerbaijan GP 2026",
@@ -384,7 +398,11 @@ function cleanName(driver) {
 
 function teamColor(driver) {
   const raw = driver?.team_colour;
-  return raw ? `#${raw.replace("#", "")}` : "#39d7ff";
+  return raw ? `#${raw.replace("#", "")}` : (TEAM_COLORS[driver?.team_name] || "#39d7ff");
+}
+
+function standingColor(item) {
+  return TEAM_COLORS[item.team] || "#39d7ff";
 }
 
 function compoundClass(compound) {
@@ -897,7 +915,7 @@ function renderRaceControl(messages) {
 
 function renderStandings() {
   els.driversStandings.innerHTML = DRIVER_STANDINGS.map((item) => `
-    <article class="points-row ${item.code === "COL" ? "is-franco" : ""}">
+    <article class="points-row ${item.code === "COL" ? "is-franco" : ""}" style="--team-color:${standingColor(item)}">
       <span class="rank">${item.pos}</span>
       <span class="points-main">
         <strong>${item.code} · ${item.driver}</strong>
@@ -908,7 +926,7 @@ function renderStandings() {
   `).join("");
 
   els.teamsStandings.innerHTML = TEAM_STANDINGS.map((item) => `
-    <article class="points-row ${item.team === "Alpine" ? "is-franco" : ""}">
+    <article class="points-row ${item.team === "Alpine" ? "is-franco" : ""}" style="--team-color:${standingColor(item)}">
       <span class="rank">${item.pos}</span>
       <span class="points-main">
         <strong>${item.team}</strong>
@@ -1134,6 +1152,7 @@ function showPanel(name) {
 function startLiveBoot() {
   if (!els.livePanel) return;
   window.clearTimeout(state.liveBootTimer);
+  window.scrollTo({ top: 0, behavior: "auto" });
   els.livePanel.classList.add("is-booting-live");
   state.liveBootTimer = window.setTimeout(() => {
     els.livePanel.classList.remove("is-booting-live");
@@ -1142,10 +1161,13 @@ function startLiveBoot() {
 
 function setupTabs() {
   document.querySelectorAll("[data-tab]").forEach((tab) => {
-    tab.addEventListener("click", () => {
+    tab.addEventListener("click", (event) => {
       const target = tab.dataset.tab;
+      if (target === "live") {
+        event.preventDefault();
+        startLiveBoot();
+      }
       showPanel(target);
-      if (target === "live") startLiveBoot();
     });
   });
 }

@@ -276,6 +276,10 @@ main {
   display: none;
 }
 
+#live-panel.is-booting-live {
+  min-height: calc(100vh - 96px);
+}
+
 #live-panel.is-booting-live .command-ribbon,
 #live-panel.is-booting-live .metric-strip,
 #live-panel.is-booting-live .dashboard-grid,
@@ -286,6 +290,14 @@ main {
 
 #live-panel.is-booting-live .live-standby {
   display: grid;
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  min-height: 100vh;
+  margin: 0;
+  padding: clamp(28px, 7vh, 84px) clamp(22px, 8vw, 120px);
+  border: 0;
+  border-radius: 0;
 }
 
 #home-panel {
@@ -1561,31 +1573,41 @@ main {
 }
 
 .points-list {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-rows: repeat(12, minmax(42px, auto));
+  grid-auto-columns: minmax(230px, 1fr);
   gap: 8px;
 }
 
 .points-list.compact {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-rows: repeat(6, minmax(42px, auto));
+  grid-auto-columns: minmax(230px, 1fr);
 }
 
 .points-row {
+  position: relative;
   display: grid;
   grid-template-columns: 30px minmax(0, 1fr) auto;
   gap: 8px;
   align-items: center;
   min-height: 42px;
-  padding: 7px 10px;
+  overflow: hidden;
+  padding: 7px 10px 7px 14px;
+  border-left: 4px solid var(--team-color, var(--cyan));
+  background:
+    linear-gradient(90deg, color-mix(in srgb, var(--team-color, var(--cyan)) 20%, transparent), transparent 44%),
+    #151720;
 }
 
 .points-row.is-franco {
   background:
-    linear-gradient(90deg, rgba(126, 185, 215, 0.16), transparent 52%),
+    linear-gradient(90deg, color-mix(in srgb, var(--team-color, #ff87bc) 28%, transparent), transparent 58%),
     #151720;
 }
 
 .points-row .rank {
-  color: var(--lime);
+  color: var(--team-color, var(--lime));
   font: 900 0.78rem/1 "Consolas", "Cascadia Mono", monospace;
 }
 
@@ -1711,7 +1733,14 @@ main {
   }
 
   .points-list {
+    grid-auto-flow: row;
+    grid-template-rows: none;
+    grid-auto-columns: minmax(0, 1fr);
     grid-template-columns: 1fr;
+  }
+
+  .points-list.compact {
+    grid-template-rows: none;
   }
 
   .metric-tile:last-child {
