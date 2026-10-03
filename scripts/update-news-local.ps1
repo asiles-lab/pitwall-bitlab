@@ -24,12 +24,16 @@ function Write-Log([string]$Message) {
 }
 
 function Invoke-Checked([string]$FilePath, [string[]]$Arguments) {
+  $previousPreference = $ErrorActionPreference
+  $ErrorActionPreference = "Continue"
   $output = & $FilePath @Arguments 2>&1
+  $exitCode = $LASTEXITCODE
+  $ErrorActionPreference = $previousPreference
   if ($output) {
     $output | ForEach-Object { Write-Log $_.ToString() }
   }
-  if ($LASTEXITCODE -ne 0) {
-    throw "Fallo '$FilePath $($Arguments -join ' ')' con codigo $LASTEXITCODE."
+  if ($exitCode -ne 0) {
+    throw "Fallo '$FilePath $($Arguments -join ' ')' con codigo $exitCode."
   }
   return $output
 }
