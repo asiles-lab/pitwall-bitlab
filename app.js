@@ -1,4 +1,9 @@
-const API_BASE = "https://api.openf1.org/v1";
+const OPENF1_API_BASE = "https://api.openf1.org/v1";
+const LIVE_API_BASE = localStorage.getItem("pitwall_live_api") || (
+  ["127.0.0.1", "localhost"].includes(window.location.hostname)
+    ? "http://127.0.0.1:8790"
+    : "https://pitwall-bitlab-live.onrender.com"
+);
 const ACTIVE_REFRESH_MS = 2000;
 const IDLE_REFRESH_MS = 300000;
 const SESSION_REFRESH_MS = 60000;
@@ -193,6 +198,7 @@ const state = {
   contextSessionKey: "",
   liveCache: null,
   authRequired: false,
+  liveFeedError: "",
   latestLocations: [],
   drivers: new Map(),
   lastPayload: null,
@@ -535,7 +541,7 @@ function lastRecord(items) {
 }
 
 async function fetchOpenF1(endpoint, params = {}) {
-  const url = new URL(`${API_BASE}/${endpoint}`);
+  const url = new URL(`${OPENF1_API_BASE}/${endpoint}`);
   for (const [key, value] of Object.entries(params)) {
     if (value !== undefined && value !== null && value !== "") url.searchParams.append(key, value);
   }
@@ -663,7 +669,7 @@ async function loadFastChannels(sessionKey, endpoints) {
   });
 }
 
-async function loadData(options = {}) {
+async function loadOpenF1Data(options = {}) {
   const force = options?.force === true || options?.type === "click";
   if (state.isLoadingData) {
     state.queuedLoad = true;
@@ -728,6 +734,47 @@ async function loadData(options = {}) {
   }
 }
 
+async function fetchLiveTimingSnapshot() {
+  const response = await fetch(`${LIVE_API_BASE}/api/snapshot`, { cache: "no-store" });
+  if (!response.ok) throw new Error(`live timing: HTTP ${response.status}`);
+  const payload = await response.json();
+  if (payload?.source !== "f1-live-timing") throw new Error("live timing: respuesta invalida");
+  return payload;
+}
+
+async function loadData() {
+  if (state.isLoadingData) {
+    state.queuedLoad = true;
+    return;
+  }
+  state.isLoadingData = true;
+  setConnection("loading", "sincronizando");
+  let nextDelay = 30000;
+
+  try {
+    const payload = await fetchLiveTimingSnapshot();
+    state.liveFeedError = "";
+    state.authRequired = false;
+    state.liveCache = payload;
+    updateChannels(payloadSources(payload));
+    render(payload);
+    nextDelay = payload.feed?.active ? ACTIVE_REFRESH_MS : 30000;
+  } catch (error) {
+    state.liveFeedError = error.message || "colector no disponible";
+    const payload = state.liveCache || makeEmptyPayload();
+    payload.errors = [{ error }];
+    render(payload);
+  } finally {
+    state.isLoadingData = false;
+    if (state.queuedLoad) {
+      state.queuedLoad = false;
+      scheduleLoad(250);
+    } else {
+      scheduleLoad(nextDelay);
+    }
+  }
+}
+
 function updateChannels(sources) {
   setChannel("drivers", sources.drivers.ok && sources.drivers.data.length ? "ok" : "warn");
   setChannel("timing", (sources.positions.ok && sources.positions.data.length) || (sources.intervals.ok && sources.intervals.data.length) || (sources.laps.ok && sources.laps.data.length) ? "ok" : "warn");
@@ -744,10 +791,12 @@ function render(payload) {
 
   const maxFresh = freshestTelemetryAt(payload);
   const liveAgeMinutes = maxFresh ? (Date.now() - maxFresh) / 60000 : Infinity;
-  const hasLivePulse = liveAgeMinutes <= 8;
+  const hasLivePulse = payload.feed
+    ? Boolean(payload.feed.connected && payload.feed.active)
+    : liveAgeMinutes <= 8;
 
-  if (state.authRequired) {
-    setConnection("error", state.token ? "token vencido" : "token requerido");
+  if (state.liveFeedError) {
+    setConnection("error", "colector offline");
   } else if (payload.errors.length && !payload.drivers.length) {
     setConnection("error", "sin datos");
   } else if (hasLivePulse) {
@@ -756,7 +805,9 @@ function render(payload) {
     setConnection("loading", "standby");
   }
 
-  els.lastSync.textContent = state.authRequired ? "datos congelados · sin acceso live" : formatSync();
+  els.lastSync.textContent = payload.feed?.lastMessageAt
+    ? formatSync(new Date(payload.feed.lastMessageAt))
+    : formatSync();
   renderOpenF1Notice();
   renderMetrics(payload, hasLivePulse);
   renderLeaderboard(payload);
@@ -769,16 +820,16 @@ function render(payload) {
 
 function renderMetrics(payload, hasLivePulse) {
   const latestWeather = lastRecord(payload.weather);
-  const lastLap = lastRecord(payload.laps);
   const resultLaps = Math.max(0, ...(payload.results || []).map((result) => Number(result.number_of_laps) || 0));
   const stintLaps = Math.max(0, ...(payload.stints || []).map((stint) => Number(stint.lap_end) || 0));
-  const lapNumber = Number(lastLap?.lap_number) || resultLaps || stintLaps;
+  const timingLaps = Math.max(0, ...(payload.laps || []).map((lap) => Number(lap.lap_number) || 0));
+  const lapNumber = Math.max(timingLaps, resultLaps, stintLaps);
   const session = payload.session;
   const flagCode = session ? countryCode(session) : "";
   const trackName = session ? circuitLabel(session) : "--";
 
   setCountryFlag(els.sessionFlag, flagCode);
-  els.sessionMetric.textContent = session ? (session.session_name || session.session_type || "Sesion") : "OpenF1";
+  els.sessionMetric.textContent = session ? (session.session_name || session.session_type || "Sesion") : "F1 Live Timing";
   setCountryFlag(els.trackCountryFlag, flagCode);
   els.trackName.textContent = trackName;
   els.trackMetric.setAttribute("aria-label", session ? trackName : "Circuito sin datos");
@@ -819,7 +870,7 @@ function renderLeaderboard(payload) {
   els.timingTable.classList.toggle("has-pit-active", pitActive);
 
   if (!rows.length) {
-    els.leaderboard.innerHTML = `<tr class="skeleton-row"><td colspan="13">Esperando senal de pista. El timing tower se activa con datos OpenF1.</td></tr>`;
+    els.leaderboard.innerHTML = `<tr class="skeleton-row"><td colspan="13">Esperando senal de pista desde F1 Live Timing.</td></tr>`;
     return;
   }
 
@@ -926,7 +977,7 @@ function renderStrategy(payload) {
   els.strategyNote.textContent = currentLap ? `vuelta ${currentLap}` : "neumaticos";
 
   if (!items.length) {
-    els.strategyList.innerHTML = `<p class="empty-copy">Esperando stints de OpenF1.</p>`;
+    els.strategyList.innerHTML = `<p class="empty-copy">Esperando stints de F1 Live Timing.</p>`;
     return;
   }
 
@@ -1251,12 +1302,10 @@ function setupTabs() {
 
 function renderOpenF1Notice() {
   if (!els.openF1Notice) return;
-  els.openF1Notice.hidden = !state.authRequired;
-  if (!state.authRequired) return;
-  els.openF1NoticeTitle.textContent = state.token ? "El token de OpenF1 venció" : "OpenF1 bloqueó los datos en vivo";
-  els.openF1NoticeText.textContent = state.token
-    ? "Los datos visibles quedaron congelados. Generá un token nuevo y reemplazalo desde API."
-    : "Durante una sesión en vivo OpenF1 exige una cuenta paga y un token activo. Los datos visibles son la última captura disponible.";
+  els.openF1Notice.hidden = !state.liveFeedError;
+  if (!state.liveFeedError) return;
+  els.openF1NoticeTitle.textContent = "El colector de F1 Live Timing no responde";
+  els.openF1NoticeText.textContent = "La interfaz conserva la ultima captura y vuelve a intentar automaticamente. No hace falta una cuenta ni un token para el vivo.";
 }
 
 function setupSettings() {
@@ -1270,7 +1319,7 @@ function setupSettings() {
     els.settingsPanel.toggleAttribute("hidden", !hidden);
     els.settingsBtn.setAttribute("aria-expanded", String(hidden));
   });
-  els.noticeSettingsBtn?.addEventListener("click", openSettings);
+  els.noticeSettingsBtn?.addEventListener("click", loadData);
   els.saveTokenBtn.addEventListener("click", () => {
     state.token = els.tokenInput.value.trim().replace(/^Bearer\s+/i, "");
     els.tokenInput.value = state.token;

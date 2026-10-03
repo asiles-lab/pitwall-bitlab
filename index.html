@@ -4,15 +4,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Pitwall Bitlab | Inicio</title>
-    <meta name="description" content="Centro local de datos estrategicos para sesiones de Formula 1 con datos de OpenF1.">
+    <meta name="description" content="Centro de datos estrategicos para sesiones de Formula 1 con live timing publico.">
     <meta property="og:title" content="Pitwall Bitlab">
     <meta property="og:description" content="Centro local de datos, noticias y live timing de Formula 1.">
     <meta property="og:image" content="./assets/pitwall-logo.png">
     <link rel="icon" type="image/png" href="./assets/pitwall-logo.png">
     <link rel="apple-touch-icon" href="./assets/pitwall-logo.png">
-    <link rel="stylesheet" href="./styles.css?v=20261003-live-auth">
+    <link rel="stylesheet" href="./styles.css?v=20261003-f1-feed">
     <script type="module" src="https://cdn.jsdelivr.net/npm/@lottiefiles/dotlottie-wc@0.9.28/dist/dotlottie-wc.js"></script>
-    <script src="./app.js?v=20261003-live-auth" defer></script>
+    <script src="./app.js?v=20261003-f1-feed" defer></script>
   </head>
   <body>
     <div class="scanline" aria-hidden="true"></div>
@@ -40,9 +40,9 @@
 
       <section class="settings-panel" id="settingsPanel" hidden>
         <div>
-          <label for="tokenInput">Token de acceso OpenF1</label>
+          <label for="tokenInput">Token OpenF1 para archivo (opcional)</label>
           <input id="tokenInput" type="password" autocomplete="off" spellcheck="false" placeholder="Pegá el access token">
-          <p class="settings-help">El vivo requiere una suscripción de OpenF1. El token vence cada hora. <a href="https://openf1.org/account" target="_blank" rel="noreferrer">Cuenta OpenF1</a></p>
+          <p class="settings-help">El vivo usa F1 Live Timing y no necesita token. OpenF1 queda como fuente auxiliar para datos historicos.</p>
         </div>
         <div class="settings-actions">
           <button class="utility-btn strong" id="saveTokenBtn" type="button">Guardar</button>
@@ -117,7 +117,7 @@
         <section class="panel-view" id="live-panel" data-panel="live" aria-labelledby="live-title">
           <div class="command-ribbon">
             <div class="title-block">
-              <p class="eyebrow">OpenF1 data stream</p>
+              <p class="eyebrow">F1 Live Timing stream</p>
               <h1 id="live-title"><img class="session-flag" id="sessionFlag" src="./assets/flags/my.png" alt=""> Ver en Vivo</h1>
             </div>
             <div class="status-stack">
@@ -129,9 +129,9 @@
           <section class="live-alert" id="openF1Notice" role="status" hidden>
             <div>
               <strong id="openF1NoticeTitle">Datos en vivo bloqueados</strong>
-              <span id="openF1NoticeText">OpenF1 requiere un token activo durante las sesiones en vivo.</span>
+              <span id="openF1NoticeText">Reconectando con el colector de live timing.</span>
             </div>
-            <button class="utility-btn strong" id="noticeSettingsBtn" type="button">Cargar token</button>
+            <button class="utility-btn strong" id="noticeSettingsBtn" type="button">Reintentar</button>
           </section>
 
           <section class="metric-strip" aria-label="Resumen de sesion">
@@ -165,7 +165,7 @@
               ></dotlottie-wc>
             </div>
             <div class="standby-copy">
-              <p class="eyebrow">OpenF1 standby</p>
+              <p class="eyebrow">F1 Live Timing standby</p>
               <h2>Calentando motores</h2>
               <p>Preparando el pitwall para cuando la pista empiece a hablar.</p>
             </div>
@@ -270,7 +270,7 @@
                 <span class="panel-note" id="strategyNote">neumaticos</span>
               </div>
               <div class="strategy-list" id="strategyList">
-                <p class="empty-copy">Esperando stints de OpenF1.</p>
+                <p class="empty-copy">Esperando stints de F1 Live Timing.</p>
               </div>
             </section>
 
@@ -293,7 +293,7 @@
                   <p class="eyebrow">Feed health</p>
                   <h2 id="source-title">Canales</h2>
                 </div>
-                <span class="panel-note">OpenF1</span>
+                <span class="panel-note">F1 Live Timing</span>
               </div>
               <div class="channel-grid" id="channelGrid">
                 <span data-channel="drivers">Drivers</span>
@@ -367,7 +367,7 @@
       </main>
 
       <footer class="site-footer">
-        <span>Datos: OpenF1. Sitio no oficial, local y sin anuncios.</span>
+        <span>Datos en vivo: F1 Live Timing. Archivo: OpenF1. Sitio no oficial y sin anuncios.</span>
         <span>No afiliado a Formula 1 ni a la FIA.</span>
       </footer>
     </div>
