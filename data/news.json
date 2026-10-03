@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-03T06:54:54.034Z",
-  "checkedAt": "2026-10-03T06:54:54.034Z",
+  "updatedAt": "2026-10-03T08:07:51.897Z",
+  "checkedAt": "2026-10-03T08:07:51.897Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "carburando-com-ar-blog-la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-encara-a-todo",
-      "title": "La mentalidad de Ignacio Faín: “Estas cinco carreras uno las encara a todo o nada”",
-      "summary": "El piloto de Junín debuta en la Copa de Oro del Turismo Carretera y explica cómo cambia el chip cuando llega la fase decisiva del campeonato. Análisis…",
-      "source": "Carburando",
-      "sourceLabel": "Carburando",
-      "url": "https://carburando.com.ar/blog/la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-encara-a-todo",
-      "image": "https://carburando.com.ar/covers/22/la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-e-23080.webp",
-      "body": "El piloto de Junín debuta en la Copa de Oro del Turismo Carretera y explica cómo cambia el chip cuando llega la fase decisiva del campeonato. Análisis de su preparación y objetivos para las cinco finales.\n\nIgnacio Faín encara su primera Copa de Oro del Turismo Carretera con la convicción de que las cinco carreras finales se disputan de manera distinta al resto del año. “Estas cinco carreras uno las encara a todo o nada”, afirma el piloto de Junín, que clasificó a la instancia decisiva tras una temporada regular sólida con el Chevrolet del equipo de José Savino.\n\nEn el TC, la Copa de Oro representa el momento donde el campeonato se reinicia con un nuevo formato. Los doce clasificados llegan con el puntaje reseteado y solo cuentan los puntos que se sumen en las cinco fechas restantes. Esa particularidad obliga a cambiar la mentalidad: ya no alcanza con sumar de a poco, hay que ir por las victorias o al menos por podios consistentes si se quiere pelear el título.\n\nFaín llega con experiencia acumulada en la categoría, pero reconoce que debutar en la Copa implica un salto. Durante la fase regular se prioriza la regularidad, evitar abandonos y acumular la mayor cantidad de puntos posible para entrar entre los doce. Una vez adentro, el enfoque pasa a ser más agresivo. “Hay que tener el auto para pelear adelante todas las fechas y no cometer errores”, explica.\n\nDesde el punto de vista técnico, su equipo trabajó en la puesta a punto pensando en circuitos que se vienen: mezcla de autódromos rápidos y semipermanentes donde el grip y la confiabilidad del motor V8 serán claves. El Chevrolet ya demostró velocidad en varias carreras, pero ahora la exigencia es mantener ese nivel sin fisuras durante las cinco finales.",
-      "language": "es",
-      "publishedAt": "2026-09-11T20:50:23.000Z",
-      "addedAt": "2026-10-02T17:57:43.038Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "carburando-com-ar-blog-volver-a-acelerar-para-celebrar-la-vida-el-emotivo-regreso-de-jose-ciantini",
       "title": "Volver a acelerar para celebrar la vida: el emotivo regreso de José Ciantini",
@@ -343,7 +328,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-03T06:55:09.291Z",
+      "createdAt": "2026-10-03T08:07:56.724Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611-h",
@@ -619,7 +604,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-03T06:55:09.291Z",
+      "createdAt": "2026-10-03T08:07:56.724Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-gasly-declaraciones-incidente-colapinto-f1-id763788-html",
@@ -895,7 +880,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-03T06:55:09.291Z",
+      "createdAt": "2026-10-03T08:07:56.724Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -1003,21 +988,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-camilo-trappa-llega-a-posadas-con-una-actualizacion-del-hyundai-elantra-n-tcr",
-          "title": "Camilo Trappa llega a Posadas con una actualización del Hyundai Elantra N TCR",
-          "summary": "La escuadra que representa a la marca surcoreana Hyundai colocó el nuevo kit aerodinámico para dos de sus tres autos en TCR South America.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/camilo-trappa-llega-a-posadas-con-una-actualizacion-del-hyundai-elantra-n-tcr/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/HYUNDAI-V2.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T18:56:06.000Z",
-          "addedAt": "2026-10-02T19:06:32.218Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-fernando-alonso-definio-su-futuro-en-la-f1-formula-1-id763464-html",
           "title": "Fernando Alonso definió su futuro en la Fórmula 1",
           "summary": "El dos veces campeón del mundo y el piloto canadiense seguirán compartiendo el equipo por quinto año consecutivo.",
@@ -1046,6 +1016,21 @@
           "addedAt": "2026-10-02T17:57:47.194Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-camilo-trappa-llega-a-posadas-con-una-actualizacion-del-hyundai-elantra-n-tcr",
+          "title": "Camilo Trappa llega a Posadas con una actualización del Hyundai Elantra N TCR",
+          "summary": "La escuadra que representa a la marca surcoreana Hyundai colocó el nuevo kit aerodinámico para dos de sus tres autos en TCR South America.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/camilo-trappa-llega-a-posadas-con-una-actualizacion-del-hyundai-elantra-n-tcr/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/HYUNDAI-V2.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T18:56:06.000Z",
+          "addedAt": "2026-10-02T19:06:32.218Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-gac-la-segunda-marca-china-que-incursionara-en-tc2000",
@@ -1171,7 +1156,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-03T06:55:09.291Z",
+      "createdAt": "2026-10-03T08:07:56.724Z",
       "items": [
         {
           "id": "carburando-com-ar-blog-formula-1-confirma-fecha-para-el-gp-de-mexico-2027-y-un-calendario-de-24",
@@ -1309,139 +1294,19 @@
           "tag": "Argentino"
         },
         {
-          "id": "www-fiaformula2-com-en-latest-article-were-definitely-in-the-fight-says-dunne-after-race-winning-baku-weekend-2pqom3dwcz",
-          "title": "‘We’re definitely in the fight’ says Dunne after race-winning Baku weekend",
-          "summary": "",
-          "source": "Formula 2",
-          "sourceLabel": "Formula 2",
-          "url": "https://www.fiaformula2.com/en/latest/article/were-definitely-in-the-fight-says-dunne-after-race-winning-baku-weekend.2pQoM3dwcZomeFagyCzlxe",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-03T06:54:54.817Z",
-          "addedAt": "2026-10-02T16:40:38.141Z",
-          "category": "support",
-          "tag": "F2",
-          "series": "F2"
-        },
-        {
-          "id": "www-fiaformula2-com-en-latest-article-it-was-much-more-than-a-win-says-tsolov-after-comeback-to-second-in-baku-feature-r",
-          "title": "‘It was much more than a win’ says Tsolov after comeback to second in Baku Feature Race 2",
-          "summary": "",
-          "source": "Formula 2",
-          "sourceLabel": "Formula 2",
-          "url": "https://www.fiaformula2.com/en/latest/article/it-was-much-more-than-a-win-says-tsolov-after-comeback-to-second-in-baku-feature-race-2.2L9LXZR8L2w3VyUV62twHr",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-03T06:54:54.817Z",
-          "addedAt": "2026-10-02T16:40:38.141Z",
-          "category": "support",
-          "tag": "F2",
-          "series": "F2"
-        },
-        {
-          "id": "www-fiaformula2-com-en-latest-article-joshua-duerksen-joins-hitech-for-2027-f2-season-66qvyilxzqpnjz9vrs9itt",
-          "title": "Joshua Duerksen joins Hitech for 2027 F2 season",
-          "summary": "",
-          "source": "Formula 2",
-          "sourceLabel": "Formula 2",
-          "url": "https://www.fiaformula2.com/en/latest/article/joshua-duerksen-joins-hitech-for-2027-f2-season.66QvYilXZqpnjz9VRs9ITt",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-03T06:54:54.816Z",
-          "addedAt": "2026-10-02T16:50:13.398Z",
-          "category": "support",
-          "tag": "F2",
-          "series": "F2"
-        },
-        {
-          "id": "www-fiaformula3-com-en-latest-article-rodin-motorsport-confirms-reza-seewooruthun-for-2027-f3-season-3p1yggeurpm8jougzaa",
-          "title": "Rodin Motorsport confirms Reza Seewooruthun for 2027 F3 season",
-          "summary": "",
-          "source": "Formula 3",
-          "sourceLabel": "Formula 3",
-          "url": "https://www.fiaformula3.com/en/latest/article/rodin-motorsport-confirms-reza-seewooruthun-for-2027-f3-season.3p1yGgEurpM8JoUgzAawV",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-03T06:54:55.131Z",
-          "addedAt": "2026-10-02T16:40:38.575Z",
-          "category": "support",
-          "tag": "F3",
-          "series": "F3"
-        },
-        {
-          "id": "www-fiaformula3-com-en-latest-article-fia-formula-3-announces-2026-post-season-tests-in-jerez-and-barcelona-2ac1gfynm6d0",
-          "title": "FIA Formula 3 announces 2026 post-season tests in Jerez and Barcelona",
-          "summary": "",
-          "source": "Formula 3",
-          "sourceLabel": "Formula 3",
-          "url": "https://www.fiaformula3.com/en/latest/article/fia-formula-3-announces-2026-post-season-tests-in-jerez-and-barcelona.2AC1GfYNm6D0HSbBtax1dr",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-03T06:54:55.131Z",
-          "addedAt": "2026-10-02T16:50:13.396Z",
-          "category": "support",
-          "tag": "F3",
-          "series": "F3"
-        },
-        {
-          "id": "www-fiaformula3-com-en-latest-article-maciej-gladysz-season-review-maiden-win-and-important-lessons-learned-umvplbkrgsb7",
-          "title": "Maciej Gladysz Season Review: Maiden win and important lessons learned",
-          "summary": "",
-          "source": "Formula 3",
-          "sourceLabel": "Formula 3",
-          "url": "https://www.fiaformula3.com/en/latest/article/maciej-gladysz-season-review-maiden-win-and-important-lessons-learned.UMVplbkRGsB7MKjQAeN6e",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-03T06:54:55.131Z",
-          "addedAt": "2026-10-03T06:54:55.131Z",
-          "category": "support",
-          "tag": "F3",
-          "series": "F3"
-        },
-        {
-          "id": "www-f1academy-com-latest-6wbco3mith0mknuoz5hq6w-florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-rev",
-          "title": "Florescu disqualified from Zandvoort Qualifying, Westcott promoted to Reverse Grid Race pole",
-          "summary": "Florescu disqualified from Zandvoort Qualifying, Westcott promoted to Reverse Grid Race pole",
-          "source": "F1 Academy",
-          "sourceLabel": "F1 Academy",
-          "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-03T06:53:55.767Z",
-          "addedAt": "2026-10-02T16:43:18.002Z",
-          "category": "support",
-          "tag": "F1 Academy",
-          "series": "F1 Academy"
-        },
-        {
-          "id": "www-f1academy-com-latest-5uqm9adwjr1l7emv71y4lp-ferreira-penalised-following-silverstone-feature-race",
-          "title": "Ferreira penalised following Silverstone Feature Race",
-          "summary": "Ferreira penalised following Silverstone Feature Race",
-          "source": "F1 Academy",
-          "sourceLabel": "F1 Academy",
-          "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-03T06:51:55.767Z",
-          "addedAt": "2026-10-02T16:43:18.002Z",
-          "category": "support",
-          "tag": "F1 Academy",
-          "series": "F1 Academy"
-        },
-        {
-          "id": "www-f1academy-com-latest-03tr7bwh68pwgrzxw4ixy-chiara-baettig-to-represent-wella-professionals-as-f1-academy-wild-card-d",
-          "title": "Chiara Bättig to represent Wella Professionals as F1 ACADEMY Wild Card driver at Silverstone",
-          "summary": "Chiara Bättig to represent Wella Professionals as F1 ACADEMY Wild Card driver at Silverstone",
-          "source": "F1 Academy",
-          "sourceLabel": "F1 Academy",
-          "url": "https://www.f1academy.com/Latest/03tr7bWH68PWgrzxw4iXY/chiara-baettig-to-represent-wella-professionals-as-f1-academy-wild-card-driver-at-silverstone",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-03T06:50:55.767Z",
-          "addedAt": "2026-10-02T16:43:18.002Z",
-          "category": "support",
-          "tag": "F1 Academy",
-          "series": "F1 Academy"
+          "id": "carburando-com-ar-blog-la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-encara-a-todo",
+          "title": "La mentalidad de Ignacio Faín: “Estas cinco carreras uno las encara a todo o nada”",
+          "summary": "El piloto de Junín debuta en la Copa de Oro del Turismo Carretera y explica cómo cambia el chip cuando llega la fase decisiva del campeonato. Análisis…",
+          "source": "Carburando",
+          "sourceLabel": "Carburando",
+          "url": "https://carburando.com.ar/blog/la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-encara-a-todo",
+          "image": "https://carburando.com.ar/covers/22/la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-e-23080.webp",
+          "body": "El piloto de Junín debuta en la Copa de Oro del Turismo Carretera y explica cómo cambia el chip cuando llega la fase decisiva del campeonato. Análisis de su preparación y objetivos para las cinco finales.\n\nIgnacio Faín encara su primera Copa de Oro del Turismo Carretera con la convicción de que las cinco carreras finales se disputan de manera distinta al resto del año. “Estas cinco carreras uno las encara a todo o nada”, afirma el piloto de Junín, que clasificó a la instancia decisiva tras una temporada regular sólida con el Chevrolet del equipo de José Savino.\n\nEn el TC, la Copa de Oro representa el momento donde el campeonato se reinicia con un nuevo formato. Los doce clasificados llegan con el puntaje reseteado y solo cuentan los puntos que se sumen en las cinco fechas restantes. Esa particularidad obliga a cambiar la mentalidad: ya no alcanza con sumar de a poco, hay que ir por las victorias o al menos por podios consistentes si se quiere pelear el título.\n\nFaín llega con experiencia acumulada en la categoría, pero reconoce que debutar en la Copa implica un salto. Durante la fase regular se prioriza la regularidad, evitar abandonos y acumular la mayor cantidad de puntos posible para entrar entre los doce. Una vez adentro, el enfoque pasa a ser más agresivo. “Hay que tener el auto para pelear adelante todas las fechas y no cometer errores”, explica.\n\nDesde el punto de vista técnico, su equipo trabajó en la puesta a punto pensando en circuitos que se vienen: mezcla de autódromos rápidos y semipermanentes donde el grip y la confiabilidad del motor V8 serán claves. El Chevrolet ya demostró velocidad en varias carreras, pero ahora la exigencia es mantener ese nivel sin fisuras durante las cinco finales.",
+          "language": "es",
+          "publishedAt": "2026-09-11T20:50:23.000Z",
+          "addedAt": "2026-10-02T17:57:43.038Z",
+          "category": "argentino",
+          "tag": "Argentino"
         }
       ]
     }
