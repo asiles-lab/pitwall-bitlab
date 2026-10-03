@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-03T10:16:36.706Z",
-  "checkedAt": "2026-10-03T10:16:36.706Z",
+  "updatedAt": "2026-10-03T11:20:52.255Z",
+  "checkedAt": "2026-10-03T11:20:52.255Z",
   "pageSize": 18,
   "sources": [
     {
@@ -328,7 +328,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-03T10:16:42.710Z",
+      "createdAt": "2026-10-03T11:20:58.491Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -342,6 +342,21 @@
           "language": "es",
           "publishedAt": "2026-10-03T09:44:29.000Z",
           "addedAt": "2026-10-03T10:16:38.999Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-gp-malasia-colapinto-esperanza-declaraciones-qualy-15-largada-21-id764169-html",
+          "title": "Colapinto, entre la resignación y la esperanza: \"Era lo que esperábamos, pero se puede remontar\"",
+          "summary": "El piloto argentino terminó 15° en la clasificación para la carrera del domingo pero largará 21° por las penalizaciones que arrastra.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-gp-malasia-colapinto-esperanza-declaraciones-qualy-15-largada-21-id764169.html",
+          "image": "https://media.tycsports.com/files/2026/10/03/992533/franco-colapinto-largara-penultimo-en-malasia_1440x810.webp",
+          "body": "El piloto argentino terminó 15° en la clasificación para la carrera del domingo pero largará 21° por las penalizaciones que arrastra.\n\nFranco Colapinto largará penúltimo en Malasia + Seguinos en El escenario de la clasificación del GP de Malasia fue irremontable para Franco Colapinto . Las 15 posiciones de sanción que pesaban sobre él por el incidente que generó en Bakú, Azerbaiyán, y por el cambio en el motor que decidió hacer Alpine (le instalaron un quinto propulsor cuando se permiten hasta cuatro por temporada) lo iban a depositar en el fondo de la grilla hiciera lo que hiciera. Por eso, este domingo largará penúltimo , solo delante de Arvid Lindblad, quien tenía una sanción mayor. \"Era lo que esperábamos\" , dijo el argentino tras la qualy.\n\nA sabiendas de que no iba a poder estar en puestos de sumar puntos, la escudería francesa decidió trazar un plan diferente e incluso adoptó la postura de modificar el auto para probar nuevos detalles de cara al cierre de la temporada. Tras girar sin aspiraciones en las prácticas libres, en las sesiones de este sábado logró superar la Q1 pero hasta allí llegó. En la Q2 terminó 15° y mañana partirá 21°.\n\n\"Creo que era lo que esperábamos. Guardar un par de gomas para la carrera de mañana, que voy a tener blandas, medias, duras, de todo. Intentaremos hacer lo mejor que podamos, maximizar un poco el ritmo del auto; hicimos mucho trabajo de cara a la carrera, así que intentaremos ir para adelante y avanzar , es el objetivo que tenemos\" , declaró Colapinto, algo resignado, pero abriéndole la puerta a una remontada.\n\nY para graficar su sensación de impotencia tras un fin de semana que todavía lo golpea con las consecuencias de su error en Bakú, agregó: \"Esa FP3 fue muy buena, fue el único momento del fin de semana en el que pude hacer a",
+          "language": "es",
+          "publishedAt": "2026-10-03T10:49:45.000Z",
+          "addedAt": "2026-10-03T11:20:54.572Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -447,6 +462,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T20:37:34.000Z",
           "addedAt": "2026-10-02T21:06:55.272Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-la-determinacion-de-franco-colapinto-para-afrontar-el-gp-de-bahrein-de-f1",
+          "title": "La determinación de Franco Colapinto para afrontar el GP de Bahrein de F1",
+          "summary": "Largará 21.° con el Alpine cumpliendo con las penalizaciones deportivas y técnicas en Sepang, circuito en el cual pretende escalar durante las 56 vueltas.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-determinacion-de-franco-colapinto-para-afrontar-el-gp-de-bahrein-de-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-Alpine-Box.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T10:25:22.000Z",
+          "addedAt": "2026-10-03T11:20:54.389Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -569,7 +599,13 @@
           "addedAt": "2026-10-02T17:57:42.281Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-03T11:20:58.491Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792-h",
           "title": "Además de Colapinto, sancionaron a otro piloto de cara al GP de Malasia",
@@ -585,27 +621,6 @@
           "category": "argentino",
           "tag": "Franco"
         },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336-html",
-          "title": "F1: horarios y el cronograma completo del GP de Malasia",
-          "summary": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336.html",
-          "image": "https://media.tycsports.com/files/2026/09/28/991324/gp-de-malasia_862x485.webp?v=1",
-          "body": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nGP de Malasia + Seguinos en El Campeonato Mundial de la Fórmula 1 se trasladó a Malasia debido a los conflictos bélicos en Medio Oriente, donde se disputa el Gran Premio de Bahréin , correspondiente a la 16ª fecha, luego del triunfo de George Russell en Azerbaiyán. También contará con la presencia de Franco Colapinto a bordo de su Alpine, que viene de protagonizar un choque con Gasly y abandonar en Bakú . Conocé el cronograma completo .\n\nLas primeras sesiones de prácticas tuvieron al argentino en los puestos 19 y 22 respectivamente , con el trabajo del equipo enfocado en estudiar el comportamiento del monoplaza con una nueva unidad de potencia y otros componentes actualizados. Debido a estos cambios, la FIA le impuso una nueva penalización de 10 puestos, que se suman a los cinco recibidos por el incidente en Azerbaiyán, por lo que Franco perderá 15 lugares respecto a su clasificación y tendrá que correr de atrás el domingo .\n\nEl Circuito de Sepang es uno de los màs completos de la Fórmula 1. Su amplio trazado combina largas rectas, zonas de frenada intensa y una variedad de curvas rápidas y fluidas, lo que permite a los pilotos atacar desde múltiples trazadas. El circuito es conocido por su calor y humedad, y los repentinos aguaceros tropicales pueden cambiar las condiciones en un instante. Entre las secciones más destacadas se encuentran la larga curva que une las curvas 5 y 6, y la singular horquilla final de la curva 15 que desemboca en la recta principal.",
-          "language": "es",
-          "publishedAt": "2026-10-02T10:38:59.000Z",
-          "addedAt": "2026-10-02T16:23:12.886Z",
-          "category": "argentino",
-          "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-03T10:16:42.710Z",
-      "items": [
         {
           "id": "www-tycsports-com-automovilismo-asi-quedo-colapinto-en-el-campeonato-de-destructores-en-la-formula-1-tras-su-accidente-e",
           "title": "Así quedó Colapinto en el \"campeonato de destructores\" en la Fórmula 1 tras su accidente en Azerbaiyán",
@@ -637,19 +652,19 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-scaloni-se-junto-con-un-piloto-argentino-y-recibio-un-regalo-especial-se-sube-a-un-tc-id",
-          "title": "Scaloni se juntó con un piloto argentino y recibió un regalo especial: ¿Se sube a un TC?",
-          "summary": "En el día posterior a la goleada ante Bolivia, el entrenador de la Selección Argentina se reunió con varias personalidades del automovilismo y, además, se llevó un traje personalizado con su camiseta número 18.",
+          "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336-html",
+          "title": "F1: horarios y el cronograma completo del GP de Malasia",
+          "summary": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/scaloni-se-junto-con-un-piloto-argentino-y-recibio-un-regalo-especial-se-sube-a-un-tc-id763883.html",
-          "image": "https://media.tycsports.com/files/2026/10/01/992138/lionel-scaloni_1440x810.webp",
-          "body": "En el día posterior a la goleada ante Bolivia, el entrenador de la Selección Argentina se reunió con varias personalidades del automovilismo y, además, se llevó un traje personalizado con su camiseta número 18.\n\nScaloni se juntó con un piloto argentino y recibió un regalo especial: ¿Se sube a un TC? + Seguinos en Durante el día posterior a la categórica victoria de la Selección Argentina por 4-0 frente a Bolivia en el Mario Alberto Kempes, Lionel Scaloni tuvo un encuentro muy especial con tres personalidades reconocidas en el automovilismo argentino : Gastón Mazzacane -uno de los pilotos nacionales que logró desempeñarse en la Fórmula 1- junto a Juan Antonio y Juan Bautista de Benedictis lo visitaron en el Predio que tiene la AFA , conversaron con él y, además, le entregaron varios regalos.\n\n“¿Y si Scaloni se sube a un TC? Hoy estuvimos en la AFA y le dimos un regalito al campeón del mundo” , escribió en sus redes sociales la Asociación Corredores de Turismo Carretera , publicación la cual acompañó con varias postales del entrenador, a quien le obsequiaron un traje de competición personalizado con el número 18 , su nombre y basado en uno de los modelos de camiseta más emblemáticos que utilizó en el seleccionado .\n\nEl encuentro, al mismo tiempo, permitió unir al Gringo con “Jhonny” De Benedictis, uno de sus ídolos. “Lo disfrutábamos mucho, aparte era uno de los que daba espectáculo , no tenía miedo arriba del auto . Todavía guardo las imágenes de él, nosotros nos criamos viendolo. Me emociona poder estar al lado de él, así que gracias por la invitación y encima me regaló una gorra, que conservaré con mucho cariño” , afirmó Scaloni con una sonrisa de oreja a oreja parado junto al recordado piloto.\n\nEl emotivo encuentro entre Lionel Scaloni y Johnny De Benedictis > Al mism",
+          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336.html",
+          "image": "https://media.tycsports.com/files/2026/09/28/991324/gp-de-malasia_862x485.webp?v=1",
+          "body": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nGP de Malasia + Seguinos en El Campeonato Mundial de la Fórmula 1 se trasladó a Malasia debido a los conflictos bélicos en Medio Oriente, donde se disputa el Gran Premio de Bahréin , correspondiente a la 16ª fecha, luego del triunfo de George Russell en Azerbaiyán. También contará con la presencia de Franco Colapinto a bordo de su Alpine, que viene de protagonizar un choque con Gasly y abandonar en Bakú . Conocé el cronograma completo .\n\nLas primeras sesiones de prácticas tuvieron al argentino en los puestos 19 y 22 respectivamente , con el trabajo del equipo enfocado en estudiar el comportamiento del monoplaza con una nueva unidad de potencia y otros componentes actualizados. Debido a estos cambios, la FIA le impuso una nueva penalización de 10 puestos, que se suman a los cinco recibidos por el incidente en Azerbaiyán, por lo que Franco perderá 15 lugares respecto a su clasificación y tendrá que correr de atrás el domingo .\n\nEl Circuito de Sepang es uno de los màs completos de la Fórmula 1. Su amplio trazado combina largas rectas, zonas de frenada intensa y una variedad de curvas rápidas y fluidas, lo que permite a los pilotos atacar desde múltiples trazadas. El circuito es conocido por su calor y humedad, y los repentinos aguaceros tropicales pueden cambiar las condiciones en un instante. Entre las secciones más destacadas se encuentran la larga curva que une las curvas 5 y 6, y la singular horquilla final de la curva 15 que desemboca en la recta principal.",
           "language": "es",
-          "publishedAt": "2026-10-02T10:52:06.000Z",
-          "addedAt": "2026-10-02T17:54:07.677Z",
+          "publishedAt": "2026-10-02T10:38:59.000Z",
+          "addedAt": "2026-10-02T16:23:12.886Z",
           "category": "argentino",
-          "tag": "Argentino"
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-gasly-declaraciones-incidente-colapinto-f1-id763788-html",
@@ -695,6 +710,21 @@
           "addedAt": "2026-10-02T17:57:42.219Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-scaloni-se-junto-con-un-piloto-argentino-y-recibio-un-regalo-especial-se-sube-a-un-tc-id",
+          "title": "Scaloni se juntó con un piloto argentino y recibió un regalo especial: ¿Se sube a un TC?",
+          "summary": "En el día posterior a la goleada ante Bolivia, el entrenador de la Selección Argentina se reunió con varias personalidades del automovilismo y, además, se llevó un traje personalizado con su camiseta número 18.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/scaloni-se-junto-con-un-piloto-argentino-y-recibio-un-regalo-especial-se-sube-a-un-tc-id763883.html",
+          "image": "https://media.tycsports.com/files/2026/10/01/992138/lionel-scaloni_1440x810.webp",
+          "body": "En el día posterior a la goleada ante Bolivia, el entrenador de la Selección Argentina se reunió con varias personalidades del automovilismo y, además, se llevó un traje personalizado con su camiseta número 18.\n\nScaloni se juntó con un piloto argentino y recibió un regalo especial: ¿Se sube a un TC? + Seguinos en Durante el día posterior a la categórica victoria de la Selección Argentina por 4-0 frente a Bolivia en el Mario Alberto Kempes, Lionel Scaloni tuvo un encuentro muy especial con tres personalidades reconocidas en el automovilismo argentino : Gastón Mazzacane -uno de los pilotos nacionales que logró desempeñarse en la Fórmula 1- junto a Juan Antonio y Juan Bautista de Benedictis lo visitaron en el Predio que tiene la AFA , conversaron con él y, además, le entregaron varios regalos.\n\n“¿Y si Scaloni se sube a un TC? Hoy estuvimos en la AFA y le dimos un regalito al campeón del mundo” , escribió en sus redes sociales la Asociación Corredores de Turismo Carretera , publicación la cual acompañó con varias postales del entrenador, a quien le obsequiaron un traje de competición personalizado con el número 18 , su nombre y basado en uno de los modelos de camiseta más emblemáticos que utilizó en el seleccionado .\n\nEl encuentro, al mismo tiempo, permitió unir al Gringo con “Jhonny” De Benedictis, uno de sus ídolos. “Lo disfrutábamos mucho, aparte era uno de los que daba espectáculo , no tenía miedo arriba del auto . Todavía guardo las imágenes de él, nosotros nos criamos viendolo. Me emociona poder estar al lado de él, así que gracias por la invitación y encima me regaló una gorra, que conservaré con mucho cariño” , afirmó Scaloni con una sonrisa de oreja a oreja parado junto al recordado piloto.\n\nEl emotivo encuentro entre Lionel Scaloni y Johnny De Benedictis > Al mism",
+          "language": "es",
+          "publishedAt": "2026-10-02T10:52:06.000Z",
+          "addedAt": "2026-10-02T17:54:07.677Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
@@ -845,58 +875,13 @@
           "addedAt": "2026-10-02T17:57:42.240Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina",
-          "title": "Daniel Herrero aclaró el programa deportivo de Mercedes-Benz en Argentina",
-          "summary": "El CEO de Prestige Auto se refirió sobre el rumor de una posible expansión de la marca alemana hacia Turismo Competición 2000.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/06/DANIEL-HERRERO-MERCEDES-BENZ.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-09-29T18:31:58.000Z",
-          "addedAt": "2026-10-02T17:57:45.353Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-fain-con-el-objetivo-de-completar-2026-y-analizar-su-futuro-en-tc",
-          "title": "Fain con el objetivo de completar 2026 y analizar su futuro en TC",
-          "summary": "El piloto de Villa Minetti (Santa Fe) quiere ser protagonista en San Nicolás con el Torino de Trotta Racing e intentar sumar fuerte en la \"Copa de Oro RUS\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fain-con-el-objetivo-de-completar-2026-y-analizar-su-futuro-en-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2610021-TC-Fain.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T02:10:15.000Z",
-          "addedAt": "2026-10-02T17:57:42.586Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-03T10:16:42.710Z",
+      "createdAt": "2026-10-03T11:20:58.491Z",
       "items": [
-        {
-          "id": "campeones-com-ar-el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi",
-          "title": "El cierre del campeonato de F1 será en Qatar y Abu Dhabi",
-          "summary": "Stefano Domenicali confirmó que la temporada culminará en las carreras de Medio Oriente, en donde dispone de \"garantías\" para desarrollar ambos Grandes Premios.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Qatar-e1791015491652.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T08:16:57.000Z",
-          "addedAt": "2026-10-03T09:12:03.399Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -911,6 +896,21 @@
           "addedAt": "2026-10-02T17:54:07.788Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi",
+          "title": "El cierre del campeonato de F1 será en Qatar y Abu Dhabi",
+          "summary": "Stefano Domenicali confirmó que la temporada culminará en las carreras de Medio Oriente, en donde dispone de \"garantías\" para desarrollar ambos Grandes Premios.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Qatar-e1791015491652.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T08:16:57.000Z",
+          "addedAt": "2026-10-03T09:12:03.399Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "www-tycsports-com-automovilismo-desopilante-jugada-de-briatore-engano-a-todos-los-periodistas-de-la-f1-con-una-hoja-en-b",
@@ -943,6 +943,21 @@
           "tag": "Carrera"
         },
         {
+          "id": "campeones-com-ar-motogp-en-motegi-marc-marquez-le-gano-otro-sprint-a-martin",
+          "title": "MotoGP en Motegi: Marc Márquez le ganó otro Sprint a Martín",
+          "summary": "En la pista japonesa el piloto de Ducati fue contundente desde la partida en la competencia sabatina relegando al \"poleman\" con quien disputa el título.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/motogp-en-motegi-marc-marquez-le-gano-otro-sprint-a-martin/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-MotoGP-Sprint-Motegi.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T09:35:42.000Z",
+          "addedAt": "2026-10-03T06:54:56.540Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-esteba-ocon-piloto-formula-1-salida-escuderia-final-temporada-id763605-html",
           "title": "Un piloto de la Fórmula 1 anunció la salida de su equipo al final de la temporada",
           "summary": "Esteban Ocon, piloto de Haas desde 2025, confirmó que no formará parte de la escudería en 2027: \"Dejo este proyecto con la cabeza bien alta y orgulloso de mi rendimiento\".",
@@ -954,21 +969,6 @@
           "language": "es",
           "publishedAt": "2026-09-30T14:01:23.000Z",
           "addedAt": "2026-10-02T16:23:12.849Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-motogp-en-motegi-marc-marquez-le-gano-otro-sprint-a-martin",
-          "title": "MotoGP en Motegi: Marc Márquez le ganó otro Sprint a Martín",
-          "summary": "En la pista japonesa el piloto de Ducati fue contundente desde la partida en la competencia sabatina relegando al \"poleman\" con quien disputa el título.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/motogp-en-motegi-marc-marquez-le-gano-otro-sprint-a-martin/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-MotoGP-Sprint-Motegi.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T06:35:42.000Z",
-          "addedAt": "2026-10-03T06:54:56.540Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1156,7 +1156,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-03T10:16:42.710Z",
+      "createdAt": "2026-10-03T11:20:58.491Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-fue-campeon-de-formula-1-con-ferrari-y-ahora-cambio-los-autos-por-la-mozzarella-y-los-he",
@@ -1187,6 +1187,36 @@
           "addedAt": "2026-10-02T17:57:42.622Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina",
+          "title": "Daniel Herrero aclaró el programa deportivo de Mercedes-Benz en Argentina",
+          "summary": "El CEO de Prestige Auto se refirió sobre el rumor de una posible expansión de la marca alemana hacia Turismo Competición 2000.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/06/DANIEL-HERRERO-MERCEDES-BENZ.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-09-29T18:31:58.000Z",
+          "addedAt": "2026-10-02T17:57:45.353Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-fain-con-el-objetivo-de-completar-2026-y-analizar-su-futuro-en-tc",
+          "title": "Fain con el objetivo de completar 2026 y analizar su futuro en TC",
+          "summary": "El piloto de Villa Minetti (Santa Fe) quiere ser protagonista en San Nicolás con el Torino de Trotta Racing e intentar sumar fuerte en la \"Copa de Oro RUS\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fain-con-el-objetivo-de-completar-2026-y-analizar-su-futuro-en-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2610021-TC-Fain.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T02:10:15.000Z",
+          "addedAt": "2026-10-02T17:57:42.586Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen",
@@ -1377,7 +1407,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/were-definitely-in-the-fight-says-dunne-after-race-winning-baku-weekend.2pQoM3dwcZomeFagyCzlxe",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T10:16:38.986Z",
+          "publishedAt": "2026-10-03T11:20:54.274Z",
           "addedAt": "2026-10-03T09:12:03.358Z",
           "category": "support",
           "tag": "F2",
@@ -1392,12 +1422,18 @@
           "url": "https://www.fiaformula2.com/en/latest/article/it-was-much-more-than-a-win-says-tsolov-after-comeback-to-second-in-baku-feature-race-2.2L9LXZR8L2w3VyUV62twHr",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T10:16:38.986Z",
+          "publishedAt": "2026-10-03T11:20:54.274Z",
           "addedAt": "2026-10-03T09:12:03.358Z",
           "category": "support",
           "tag": "F2",
           "series": "F2"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-03T11:20:58.491Z",
+      "items": [
         {
           "id": "www-fiaformula2-com-en-latest-article-joshua-duerksen-joins-hitech-for-2027-f2-season-66qvyilxzqpnjz9vrs9itt",
           "title": "Joshua Duerksen joins Hitech for 2027 F2 season",
@@ -1407,7 +1443,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/joshua-duerksen-joins-hitech-for-2027-f2-season.66QvYilXZqpnjz9VRs9ITt",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T10:16:38.985Z",
+          "publishedAt": "2026-10-03T11:20:54.273Z",
           "addedAt": "2026-10-03T09:12:03.357Z",
           "category": "support",
           "tag": "F2",
@@ -1422,18 +1458,12 @@
           "url": "https://www.fiaformula3.com/en/latest/article/rodin-motorsport-confirms-reza-seewooruthun-for-2027-f3-season.3p1yGgEurpM8JoUgzAawV",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T10:16:38.888Z",
+          "publishedAt": "2026-10-03T11:20:54.633Z",
           "addedAt": "2026-10-03T09:12:03.451Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-03T10:16:42.710Z",
-      "items": [
+        },
         {
           "id": "www-fiaformula3-com-en-latest-article-fia-formula-3-announces-2026-post-season-tests-in-jerez-and-barcelona-2ac1gfynm6d0",
           "title": "FIA Formula 3 announces 2026 post-season tests in Jerez and Barcelona",
@@ -1443,7 +1473,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/fia-formula-3-announces-2026-post-season-tests-in-jerez-and-barcelona.2AC1GfYNm6D0HSbBtax1dr",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T10:16:38.888Z",
+          "publishedAt": "2026-10-03T11:20:54.633Z",
           "addedAt": "2026-10-03T09:12:03.450Z",
           "category": "support",
           "tag": "F3",
@@ -1458,7 +1488,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/pedro-clerot-season-review-patience-adaptation-and-victory.2OdfhzDqBHqJv5C9K3FEjE",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T10:16:38.888Z",
+          "publishedAt": "2026-10-03T11:20:54.633Z",
           "addedAt": "2026-10-03T10:16:38.888Z",
           "category": "support",
           "tag": "F3",
@@ -1473,7 +1503,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T10:15:41.278Z",
+          "publishedAt": "2026-10-03T11:19:55.538Z",
           "addedAt": "2026-10-03T09:12:04.593Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1488,7 +1518,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T10:13:41.278Z",
+          "publishedAt": "2026-10-03T11:17:55.538Z",
           "addedAt": "2026-10-03T09:12:04.593Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1503,7 +1533,7 @@
           "url": "https://www.f1academy.com/Latest/03tr7bWH68PWgrzxw4iXY/chiara-baettig-to-represent-wella-professionals-as-f1-academy-wild-card-driver-at-silverstone",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T10:12:41.278Z",
+          "publishedAt": "2026-10-03T11:16:55.538Z",
           "addedAt": "2026-10-03T09:12:04.593Z",
           "category": "support",
           "tag": "F1 Academy",
