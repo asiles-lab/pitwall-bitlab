@@ -363,16 +363,13 @@ main {
 }
 
 .session-flag {
-  display: inline-grid;
-  place-items: center;
+  display: inline-block;
   width: 1.12em;
   height: 0.82em;
   margin-right: 0.16em;
   border-radius: 0.12em;
-  font-size: 0.72em;
-  line-height: 1;
+  object-fit: cover;
   vertical-align: 0.08em;
-  background: rgba(255, 255, 255, 0.08);
   box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.14);
 }
 
@@ -424,7 +421,7 @@ main {
 
 .metric-strip {
   display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 1px;
   margin-top: 12px;
   overflow: hidden;
@@ -438,7 +435,7 @@ main {
   background: #171820;
 }
 
-.metric-tile span {
+.metric-tile > span {
   display: block;
   margin-bottom: 10px;
   color: var(--quiet);
@@ -451,6 +448,27 @@ main {
   display: block;
   overflow-wrap: anywhere;
   font: 800 1rem/1.25 "Consolas", "Cascadia Mono", monospace;
+}
+
+.metric-tile strong.track-metric {
+  display: flex;
+  gap: 9px;
+  align-items: center;
+}
+
+.track-country-flag {
+  flex: 0 0 auto;
+  width: 28px;
+  height: 20px;
+  margin: 0;
+  border-radius: 3px;
+  object-fit: cover;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.16);
+}
+
+.track-name {
+  min-width: 0;
+  margin: 0;
 }
 
 .live-standby {
@@ -1668,10 +1686,6 @@ main {
 
   .points-list.compact {
     grid-template-rows: none;
-  }
-
-  .metric-tile:last-child {
-    grid-column: 1 / -1;
   }
 
   .news-card {

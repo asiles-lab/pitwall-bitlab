@@ -20,7 +20,8 @@ const els = {
   sessionFlag: document.querySelector("#sessionFlag"),
   liveStandby: document.querySelector("#liveStandby"),
   trackMetric: document.querySelector("#trackMetric"),
-  flagMetric: document.querySelector("#flagMetric"),
+  trackCountryFlag: document.querySelector("#trackCountryFlag"),
+  trackName: document.querySelector("#trackName"),
   weatherMetric: document.querySelector("#weatherMetric"),
   lapMetric: document.querySelector("#lapMetric"),
   rowCount: document.querySelector("#rowCount"),
@@ -279,7 +280,7 @@ function formatSync(date = new Date()) {
   return `sync ${date.toLocaleTimeString("es-AR", { hour: "2-digit", minute: "2-digit", second: "2-digit" })}`;
 }
 
-function countryFlag(session) {
+function countryCode(session) {
   const aliases = {
     UK: "GB",
     UAE: "AE",
@@ -300,6 +301,8 @@ function countryFlag(session) {
     ITA: "IT",
     JPN: "JP",
     MAL: "MY",
+    MAS: "MY",
+    MYS: "MY",
     MCO: "MC",
     MEX: "MX",
     NED: "NL",
@@ -317,6 +320,8 @@ function countryFlag(session) {
     brazil: "BR",
     canada: "CA",
     china: "CN",
+    france: "FR",
+    germany: "DE",
     hungary: "HU",
     italy: "IT",
     japan: "JP",
@@ -324,15 +329,24 @@ function countryFlag(session) {
     mexico: "MX",
     monaco: "MC",
     netherlands: "NL",
+    portugal: "PT",
     qatar: "QA",
     "saudi arabia": "SA",
     singapore: "SG",
     spain: "ES",
+    "south africa": "ZA",
+    turkey: "TR",
     "united arab emirates": "AE",
     "united kingdom": "GB",
     "united states": "US",
   };
-  const placeText = `${session?.circuit_short_name || ""} ${session?.circuit_name || ""} ${session?.location || ""}`.toLowerCase();
+  const placeText = [
+    session?.circuit_short_name,
+    session?.circuit_name,
+    session?.location,
+    session?.meeting_name,
+    session?.meeting_official_name,
+  ].filter(Boolean).join(" ").toLowerCase();
   const placeAliases = [
     [/sepang|kuala lumpur|malaysia/, "MY"],
     [/sakhir|bahrain/, "BH"],
@@ -355,15 +369,31 @@ function countryFlag(session) {
     [/melbourne|australia/, "AU"],
     [/shanghai|china/, "CN"],
     [/montreal|canada/, "CA"],
+    [/paul ricard|magny-cours|france/, "FR"],
+    [/hockenheim|nurburgring|germany/, "DE"],
+    [/portimao|portugal/, "PT"],
+    [/istanbul|turkey/, "TR"],
+    [/kyalami|south africa/, "ZA"],
   ];
   const placeCode = placeAliases.find(([pattern]) => pattern.test(placeText))?.[1] || "";
   const rawCode = String(session?.country_code || "").trim().toUpperCase();
   const countryName = String(session?.country_name || "").trim().toLowerCase();
   const code = placeCode || aliases[rawCode] || rawCode || nameAliases[countryName] || "";
   if (/^[A-Z]{2}$/.test(code)) {
-    return [...code].map((char) => String.fromCodePoint(127397 + char.charCodeAt(0))).join("");
+    return code.toLowerCase();
   }
-  return "🏁";
+  return "";
+}
+
+function setCountryFlag(image, code) {
+  if (!image) return;
+  if (!code) {
+    image.hidden = true;
+    image.removeAttribute("src");
+    return;
+  }
+  image.src = `./assets/flags/${code}.png`;
+  image.hidden = false;
 }
 
 function circuitLabel(session) {
@@ -691,20 +721,19 @@ function render(payload) {
 
 function renderMetrics(payload, hasLivePulse) {
   const latestWeather = lastRecord(payload.weather);
-  const latestRace = lastRecord(payload.raceControl);
   const lastLap = lastRecord(payload.laps);
   const resultLaps = Math.max(0, ...(payload.results || []).map((result) => Number(result.number_of_laps) || 0));
   const stintLaps = Math.max(0, ...(payload.stints || []).map((stint) => Number(stint.lap_end) || 0));
   const lapNumber = Number(lastLap?.lap_number) || resultLaps || stintLaps;
   const session = payload.session;
-  const flag = session ? countryFlag(session) : "🏁";
-  const trackName = session ? `${flag} ${circuitLabel(session)}` : "--";
+  const flagCode = session ? countryCode(session) : "";
+  const trackName = session ? circuitLabel(session) : "--";
 
-  els.sessionFlag.textContent = flag;
-  els.sessionFlag.setAttribute("aria-label", session?.country_name ? `Bandera de ${session.country_name}` : "Bandera de sesion");
+  setCountryFlag(els.sessionFlag, flagCode);
   els.sessionMetric.textContent = session ? (session.session_name || session.session_type || "Sesion") : "OpenF1";
-  els.trackMetric.textContent = trackName;
-  els.flagMetric.textContent = latestRace?.flag || latestRace?.category || "--";
+  setCountryFlag(els.trackCountryFlag, flagCode);
+  els.trackName.textContent = trackName;
+  els.trackMetric.setAttribute("aria-label", session ? trackName : "Circuito sin datos");
   els.weatherMetric.textContent = latestWeather ? `${Math.round(latestWeather.track_temperature ?? 0)}C pista` : "--";
   els.lapMetric.textContent = lapNumber ? `L${lapNumber}` : "--";
 }

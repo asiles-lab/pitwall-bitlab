@@ -10,9 +10,9 @@
     <meta property="og:image" content="./assets/pitwall-logo.png">
     <link rel="icon" type="image/png" href="./assets/pitwall-logo.png">
     <link rel="apple-touch-icon" href="./assets/pitwall-logo.png">
-    <link rel="stylesheet" href="./styles.css?v=20261003-lottie-boot">
+    <link rel="stylesheet" href="./styles.css?v=20261003-country-flags">
     <script type="module" src="https://cdn.jsdelivr.net/npm/@lottiefiles/dotlottie-wc@0.9.28/dist/dotlottie-wc.js"></script>
-    <script src="./app.js?v=20261003-lottie-boot" defer></script>
+    <script src="./app.js?v=20261003-country-flags" defer></script>
   </head>
   <body>
     <div class="scanline" aria-hidden="true"></div>
@@ -117,7 +117,7 @@
           <div class="command-ribbon">
             <div class="title-block">
               <p class="eyebrow">OpenF1 data stream</p>
-              <h1 id="live-title"><span class="session-flag" id="sessionFlag" aria-hidden="true">🏁</span> Ver en Vivo</h1>
+              <h1 id="live-title"><img class="session-flag" id="sessionFlag" src="./assets/flags/my.png" alt=""> Ver en Vivo</h1>
             </div>
             <div class="status-stack">
               <span class="status-pill" id="connectionState">conectando</span>
@@ -132,11 +132,10 @@
             </article>
             <article class="metric-tile">
               <span>Circuito</span>
-              <strong id="trackMetric">--</strong>
-            </article>
-            <article class="metric-tile">
-              <span>Bandera</span>
-              <strong id="flagMetric">--</strong>
+              <strong class="track-metric" id="trackMetric">
+                <img class="track-country-flag" id="trackCountryFlag" src="./assets/flags/my.png" alt="">
+                <span class="track-name" id="trackName">--</span>
+              </strong>
             </article>
             <article class="metric-tile">
               <span>Clima</span>
