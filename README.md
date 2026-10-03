@@ -19,3 +19,7 @@ La interfaz local busca el colector en `http://127.0.0.1:8790`. En produccion us
 El sitio es estatico y puede publicarse desde la raiz del branch `main`.
 
 La carpeta incluye un workflow que actualiza `data/news.json` cada hora desde fuentes RSS y commitea cambios solo si encuentra novedades.
+
+## Actualizacion local automatica
+
+Windows ejecuta `scripts/update-news-local.ps1` cada hora mediante la tarea programada `Pitwall Bitlab - Update News`. El script evita ejecuciones simultaneas, no pisa cambios locales, valida JavaScript y JSON, y publica el resultado en GitHub. El registro queda en `%LOCALAPPDATA%\PitwallBitlab\news-updater.log`.
