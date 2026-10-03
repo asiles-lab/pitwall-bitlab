@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-03T12:23:49.097Z",
-  "checkedAt": "2026-10-03T12:23:49.097Z",
+  "updatedAt": "2026-10-03T14:11:26.480Z",
+  "checkedAt": "2026-10-03T14:11:26.480Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,36 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour",
+      "title": "Azcona revalidó la \"pole\" con triunfo en el TCR World Tour | Campeones",
+      "summary": "El español es ahora le nuevo líder del certamen con el Hyundai, ya que Santiago Urrutia culminó 9.°.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2026_TCR_photo_news_299_5906468e00a8118fbdc45bde752c23ce.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-03T13:12:20.000Z",
+      "addedAt": "2026-10-03T14:11:27.536Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
+      "title": "TC: “Josito” Di Palma fue el más veloz bajo la lluvia en San Nicolás",
+      "summary": "El arrecifeño del RUS Med Team, que viene de lograr la “pole position” en San Luis también en condiciones de pista húmeda, prevaleció en el primer entrenamiento de la 2ª fecha de la Copa de Oro del Turismo Carretera, del que sólo tomaron parte 20 de los 53 inscriptos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Di-Palma-TC-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-03T13:27:45.000Z",
+      "addedAt": "2026-10-03T14:11:27.624Z",
+      "category": "general",
+      "tag": "Clima"
+    },
     {
       "id": "campeones-com-ar-horarios-e-inscriptos-para-el-tcr-south-america-en-posadas",
       "title": "Horarios e inscriptos para el TCR South America en Posadas",
@@ -313,7 +343,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-03T12:23:55.892Z",
+      "createdAt": "2026-10-03T14:11:32.557Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -376,21 +406,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770-html",
-          "title": "F1: hora y dónde ver en vivo la carrera de Colapinto en el GP de Malasia",
-          "summary": "Este domingo durante la madrugada se disputa en el Circuito de Sepang la decimosexta fecha de la temporada 2026 de la Fórmula 1 con la presencia del piloto argentino con el equipo de Alpine.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770.html",
-          "image": "https://media.tycsports.com/files/2026/10/01/991962/franco-colapinto_862x485.webp?v=1",
-          "body": "Este domingo durante la madrugada se disputa en el Circuito de Sepang la decimosexta fecha de la temporada 2026 de la Fórmula 1 con la presencia del piloto argentino con el equipo de Alpine.\n\nVerstappen logró su primera pole del año y Colapinto largará anteúltimo Afectado por una nueva penalización, Colapinto terminó 19°, 22° y 9° en las prácticas libres en Malasia 03/10/2026 06:25 am Franco Colapinto. + Seguinos en La decimosexta fecha de la temporada 2026 de la Fórmula 1 se disputa durante la madrugada de este domingo en el Circuito de Sepang, en el marco del Gran Premio de Bahréin que se corre en Malasia por los conflictos bélicos en Medio Oriente. El argentino Franco Colapinto finalizó 15° en la clasificación del sábado pero largará 21° para cumplir la sanción impuesta por la FIA por el choque en Bakú y por modificaciones en su auto este fin de semana. Su compañero en Alpine, Pierre Gasly, largará 9° mientras que la pole quedó en manos de Max Verstappen.\n\nVerstappen dominó buena parte de la clasificación y confirmó su rendimiento en la Q3 el sábado, donde mejoró nuevamente su registro para quedarse con la primera posición. Hamilton terminó segundo y completará la primera fila, mientras que Isack Hadjar había terminado tercero, aunque deberá retroceder por una penalización. De esta manera, Kimi Antonelli heredará el tercer puesto y Charles Leclerc ocupará el cuarto lugar . Detrás partirán Lando Norris y Oscar Piastri, mientras que George Russell será séptimo y Hadjar, finalmente, octavo.\n\nColapinto, por su parte, logró avanzar a la Q2 después de finalizar décimo en la primera tanda, en la que Verstappen, Hamilton y Leclerc ocuparon los primeros lugares. Sin embargo, el piloto argentino no consiguió meterse entre los diez mejores y quedó eliminado en el 15° puesto , p",
-          "language": "es",
-          "publishedAt": "2026-10-03T09:25:13.000Z",
-          "addedAt": "2026-10-03T10:16:39.500Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
           "title": "El director de Alpine reveló por qué Colapinto penalizará en Malasia",
           "summary": "Steve Nielsen aseguró que la decisión estuvo directamente relacionada con la sanción que el argentino recibió por el accidente que protagonizó en Bakú.",
@@ -417,6 +432,21 @@
           "language": "es",
           "publishedAt": "2026-10-03T09:19:14.000Z",
           "addedAt": "2026-10-02T16:23:12.620Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770-html",
+          "title": "F1: hora y dónde ver en vivo la carrera de Colapinto en el GP de Malasia",
+          "summary": "Este domingo durante la madrugada se disputa en el Circuito de Sepang la decimosexta fecha de la temporada 2026 de la Fórmula 1 con la presencia del piloto argentino con el equipo de Alpine.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770.html",
+          "image": "https://media.tycsports.com/files/2026/10/01/991962/franco-colapinto_862x485.webp?v=1",
+          "body": "Este domingo durante la madrugada se disputa en el Circuito de Sepang la decimosexta fecha de la temporada 2026 de la Fórmula 1 con la presencia del piloto argentino con el equipo de Alpine.\n\nVerstappen logró su primera pole del año y Colapinto largará anteúltimo Afectado por una nueva penalización, Colapinto terminó 19°, 22° y 9° en las prácticas libres en Malasia 03/10/2026 06:25 am Franco Colapinto. + Seguinos en La decimosexta fecha de la temporada 2026 de la Fórmula 1 se disputa durante la madrugada de este domingo en el Circuito de Sepang, en el marco del Gran Premio de Bahréin que se corre en Malasia por los conflictos bélicos en Medio Oriente. El argentino Franco Colapinto finalizó 15° en la clasificación del sábado pero largará 21° para cumplir la sanción impuesta por la FIA por el choque en Bakú y por modificaciones en su auto este fin de semana. Su compañero en Alpine, Pierre Gasly, largará 9° mientras que la pole quedó en manos de Max Verstappen.\n\nVerstappen dominó buena parte de la clasificación y confirmó su rendimiento en la Q3 el sábado, donde mejoró nuevamente su registro para quedarse con la primera posición. Hamilton terminó segundo y completará la primera fila, mientras que Isack Hadjar había terminado tercero, aunque deberá retroceder por una penalización. De esta manera, Kimi Antonelli heredará el tercer puesto y Charles Leclerc ocupará el cuarto lugar . Detrás partirán Lando Norris y Oscar Piastri, mientras que George Russell será séptimo y Hadjar, finalmente, octavo.\n\nColapinto, por su parte, logró avanzar a la Q2 después de finalizar décimo en la primera tanda, en la que Verstappen, Hamilton y Leclerc ocuparon los primeros lugares. Sin embargo, el piloto argentino no consiguió meterse entre los diez mejores y quedó eliminado en el 15° puesto , p",
+          "language": "es",
+          "publishedAt": "2026-10-03T09:25:13.000Z",
+          "addedAt": "2026-10-03T10:16:39.500Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -526,21 +556,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
-          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
-          "summary": "Cobertura especial del GP de Bahrein de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T13:00:17.000Z",
-          "addedAt": "2026-10-02T17:57:42.536Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-le-respondio-a-lando-norris-y-se-quejo-de-los-ataques-en-redes-siempre-",
           "title": "Franco Colapinto le respondió a Lando Norris y se quejó de los ataques en redes: \"Siempre se apunta a los argentinos\"",
           "summary": "En la antesala del GP de Malasia, el piloto de Alpine se refirió a las críticas del de McLaren y habló de las especulaciones sobre su futuro en la F1.",
@@ -584,13 +599,7 @@
           "addedAt": "2026-10-02T17:57:42.281Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-03T12:23:55.892Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792-h",
           "title": "Además de Colapinto, sancionaron a otro piloto de cara al GP de Malasia",
@@ -603,6 +612,27 @@
           "language": "es",
           "publishedAt": "2026-10-01T15:10:47.000Z",
           "addedAt": "2026-10-02T16:23:12.854Z",
+          "category": "argentino",
+          "tag": "Franco"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-03T14:11:32.557Z",
+      "items": [
+        {
+          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
+          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
+          "summary": "Cobertura especial del GP de Bahrein de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T13:00:17.000Z",
+          "addedAt": "2026-10-02T17:57:42.536Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -618,6 +648,21 @@
           "language": "es",
           "publishedAt": "2026-09-29T16:59:01.000Z",
           "addedAt": "2026-10-02T16:23:12.957Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina",
+          "title": "Bajo la lluvia, Franco Ledesma arrancó adelante en la Fórmula 2 Argentina | Campeones",
+          "summary": "La mañana de San Nicolás se abrió con un fuerte diluvio, pero los monoplazas giraron sin mayores inconvenientes y el de Mar del Plata sacó una buena diferencia.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/06/IMG_9706.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T12:57:31.000Z",
+          "addedAt": "2026-10-03T14:11:27.611Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -727,21 +772,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-atencion-argentina-ciudad-del-cabo-avanza-para-tener-la-formula-1",
-          "title": "Atención Argentina: Ciudad del Cabo avanza para tener la Fórmula 1 | Campeones",
-          "summary": "El proyecto para que dicha ciudad reciba el retorno de Sudáfrica al Mundial tuvo un importante paso adelante con la asociación de sus responsables con un grupo económico que ayudará a financiar este Gran Premio que compite con Argentina para entrar en el próximo calendario.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/atencion-argentina-ciudad-del-cabo-avanza-para-tener-la-formula-1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/cape-town-gp-layou.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-09-30T12:51:37.000Z",
-          "addedAt": "2026-10-02T17:57:42.339Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-pick-up-con-la-exclusion-de-werner-el-campeonato-tiene-nuevo-lider",
           "title": "Pick Up: con la exclusión de Werner, el campeonato tiene nuevo líder | Campeones",
           "summary": "Otto Fritzler es quien comanda el campeoanto tras la penalización al de Paraná por el exceso de compresión en el motor de la Foton.",
@@ -757,6 +787,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-santero-apunto-por-las-licencias-y-dijo-que-nadie-lo-llamo",
+          "title": "Santero apuntó por las licencias y dijo que \"nadie lo llamó\" | Campeones",
+          "summary": "El mendocino dialogó con Campeones desde San Nicolás y volvió a disparar por la negativa de la CDA de otorgarle la Licencia Internacional para correr en Stock Car . Además, la falta de apoyo entre los pilotos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/santero-apunto-por-las-licencias-y-dijo-que-nadie-lo-llamo/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/Julian-Santero-BMW-IG-1.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T13:32:02.000Z",
+          "addedAt": "2026-10-03T14:11:27.613Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-los-argentinos-tienen-por-objetivo-estar-en-los-podios-del-rally-de-marruecos",
           "title": "Los argentinos disputan por un lugar en los podios del Rally de Marruecos",
           "summary": "En la penúltima etapa Benavides se retrasó por una caída en Motos, Andújar descuenta en Challenger y González Ferioli mantiene la vanguardia en SSV. Ekström se impone en Autos.",
@@ -768,6 +813,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T18:08:30.000Z",
           "addedAt": "2026-10-02T19:06:32.267Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-atencion-argentina-ciudad-del-cabo-avanza-para-tener-la-formula-1",
+          "title": "Atención Argentina: Ciudad del Cabo avanza para tener la Fórmula 1 | Campeones",
+          "summary": "El proyecto para que dicha ciudad reciba el retorno de Sudáfrica al Mundial tuvo un importante paso adelante con la asociación de sus responsables con un grupo económico que ayudará a financiar este Gran Premio que compite con Argentina para entrar en el próximo calendario.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/atencion-argentina-ciudad-del-cabo-avanza-para-tener-la-formula-1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/cape-town-gp-layou.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-09-30T12:51:37.000Z",
+          "addedAt": "2026-10-02T17:57:42.339Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -830,42 +890,12 @@
           "addedAt": "2026-10-02T17:57:42.098Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
-          "title": "Geely presentó su SUV de TC2000",
-          "summary": "El flamante equipo tendrá como pilotos a Nicolás Traut y Franco Riva. Así la categoría suma una nueva automotriz.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/geely-presento-su-suv-de-tc2000/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-12.47.43.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T16:28:07.000Z",
-          "addedAt": "2026-10-02T17:57:42.540Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina",
-          "title": "Daniel Herrero aclaró el programa deportivo de Mercedes-Benz en Argentina",
-          "summary": "El CEO de Prestige Auto se refirió sobre el rumor de una posible expansión de la marca alemana hacia Turismo Competición 2000.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/06/DANIEL-HERRERO-MERCEDES-BENZ.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-09-29T18:31:58.000Z",
-          "addedAt": "2026-10-02T17:57:45.353Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-03T12:23:55.892Z",
+      "createdAt": "2026-10-03T14:11:32.557Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -943,21 +973,6 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-esteba-ocon-piloto-formula-1-salida-escuderia-final-temporada-id763605-html",
-          "title": "Un piloto de la Fórmula 1 anunció la salida de su equipo al final de la temporada",
-          "summary": "Esteban Ocon, piloto de Haas desde 2025, confirmó que no formará parte de la escudería en 2027: \"Dejo este proyecto con la cabeza bien alta y orgulloso de mi rendimiento\".",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/esteba-ocon-piloto-formula-1-salida-escuderia-final-temporada-id763605.html",
-          "image": "https://media.tycsports.com/files/2026/09/30/991668/esteban-ocon_416x234.webp",
-          "body": "Esteban Ocon, piloto de Haas desde 2025, confirmó que no formará parte de la escudería en 2027: \"Dejo este proyecto con la cabeza bien alta y orgulloso de mi rendimiento\".\n\nEsteban Ocon anunció su salida de Haas al término de la temporada 2026 (Photo by Jayce Illman/Getty Images) + Seguinos en Esteban Ocon confirmó su salida de Haas al término de la presente temporada, decisión que, de momento, lo deja sin contrato para 2027 en la Fórmula 1. El piloto francés anunció la noticia a través de un comunicado difundido a través de sus redes sociales; de la misma manera, la escudería ratificó la desvinculación y evitó adelantar quién reemplazará su butaca.\n\n“Mi etapa en el equipo Haas F1 llegará a su fin al concluir la temporada 2026. Dejo este proyecto con la cabeza bien alta y orgulloso de mi rendimiento, logrado en circunstancias que no siempre fueron fáciles debido a diversos motivos y factores ajenos a mi control”, comenzó Ocon.\n\n“Mi prioridad inmediata es el próximo fin de semana de carreras. Seguiré trabajando duro con el equipo, aprovechando al máximo cada oportunidad y extrayendo todo el rendimiento posible del coche”, agregó y aseguró que “como siempre” dará todo al volante. “Sigo motivado. Sigo con hambre de éxito. E sto no es, en absoluto, el final de mi carrera en la Fórmula 1”, sentenció el corredor de 30 años.\n\nLa confirmación llegó apenas una semana después de que el piloto se definiera como “agente libre” para la próxima temporada, durante el Gran Premio de Azerbaiyán, cuando reconoció que no había avances para prolongar su contrato con Haas, dejando abierta la posibilidad de negociar con otras escuderías de cara a 2027.",
-          "language": "es",
-          "publishedAt": "2026-09-30T14:01:23.000Z",
-          "addedAt": "2026-10-02T16:23:12.849Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-tcr-wt-azcona-se-quedo-con-la-pole-y-michelisz-cerro-el-1-2-de-hyundai",
           "title": "TCR WT: Azcona se quedó con la “pole” y Michelisz cerró el “1-2” de Hyundai | Campeones",
           "summary": "La categoría visita Corea del Sur tras casi tres meses de inactividad y en el comienzo de su gira asiática.",
@@ -988,6 +1003,21 @@
           "tag": "F1"
         },
         {
+          "id": "www-tycsports-com-automovilismo-esteba-ocon-piloto-formula-1-salida-escuderia-final-temporada-id763605-html",
+          "title": "Un piloto de la Fórmula 1 anunció la salida de su equipo al final de la temporada",
+          "summary": "Esteban Ocon, piloto de Haas desde 2025, confirmó que no formará parte de la escudería en 2027: \"Dejo este proyecto con la cabeza bien alta y orgulloso de mi rendimiento\".",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/esteba-ocon-piloto-formula-1-salida-escuderia-final-temporada-id763605.html",
+          "image": "https://media.tycsports.com/files/2026/09/30/991668/esteban-ocon_416x234.webp",
+          "body": "Esteban Ocon, piloto de Haas desde 2025, confirmó que no formará parte de la escudería en 2027: \"Dejo este proyecto con la cabeza bien alta y orgulloso de mi rendimiento\".\n\nEsteban Ocon anunció su salida de Haas al término de la temporada 2026 (Photo by Jayce Illman/Getty Images) + Seguinos en Esteban Ocon confirmó su salida de Haas al término de la presente temporada, decisión que, de momento, lo deja sin contrato para 2027 en la Fórmula 1. El piloto francés anunció la noticia a través de un comunicado difundido a través de sus redes sociales; de la misma manera, la escudería ratificó la desvinculación y evitó adelantar quién reemplazará su butaca.\n\n“Mi etapa en el equipo Haas F1 llegará a su fin al concluir la temporada 2026. Dejo este proyecto con la cabeza bien alta y orgulloso de mi rendimiento, logrado en circunstancias que no siempre fueron fáciles debido a diversos motivos y factores ajenos a mi control”, comenzó Ocon.\n\n“Mi prioridad inmediata es el próximo fin de semana de carreras. Seguiré trabajando duro con el equipo, aprovechando al máximo cada oportunidad y extrayendo todo el rendimiento posible del coche”, agregó y aseguró que “como siempre” dará todo al volante. “Sigo motivado. Sigo con hambre de éxito. E sto no es, en absoluto, el final de mi carrera en la Fórmula 1”, sentenció el corredor de 30 años.\n\nLa confirmación llegó apenas una semana después de que el piloto se definiera como “agente libre” para la próxima temporada, durante el Gran Premio de Azerbaiyán, cuando reconoció que no había avances para prolongar su contrato con Haas, dejando abierta la posibilidad de negociar con otras escuderías de cara a 2027.",
+          "language": "es",
+          "publishedAt": "2026-09-30T14:01:23.000Z",
+          "addedAt": "2026-10-02T16:23:12.849Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-fernando-alonso-definio-su-futuro-en-la-f1-formula-1-id763464-html",
           "title": "Fernando Alonso definió su futuro en la Fórmula 1",
           "summary": "El dos veces campeón del mundo y el piloto canadiense seguirán compartiendo el equipo por quinto año consecutivo.",
@@ -1001,21 +1031,6 @@
           "addedAt": "2026-10-02T16:23:13.048Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-esperado-acuerdo-multianual-se-firmo-en-la-era-dorada-del-endurance-entre-el-fia-wec-y-el-aco",
-          "title": "Esperado acuerdo multianual se firmó en la era dorada del endurance entre el WEC y el ACO",
-          "summary": "El World Endurance Championship y el Automobile Club de l'Ouest dominan la escena mundial de las carreras de resistencia.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/esperado-acuerdo-multianual-se-firmo-en-la-era-dorada-del-endurance-entre-el-fia-wec-y-el-aco/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/WEC-Largada-2026-FOTO-DPPI.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-09-30T12:24:35.000Z",
-          "addedAt": "2026-10-02T17:57:47.194Z",
-          "category": "general",
-          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-camilo-trappa-llega-a-posadas-con-una-actualizacion-del-hyundai-elantra-n-tcr",
@@ -1063,19 +1078,19 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
-          "title": "Campeones Clasificación con el TC desde San Nicolás",
-          "summary": "No te pierdas los detalles de la 12.ª fecha de la categoría más popular del automovilismo nacional y los detalles de la actividad en el circuito nicoleño, por nuestras plataformas y AM590 Continental.",
+          "id": "campeones-com-ar-esperado-acuerdo-multianual-se-firmo-en-la-era-dorada-del-endurance-entre-el-fia-wec-y-el-aco",
+          "title": "Esperado acuerdo multianual se firmó en la era dorada del endurance entre el WEC y el ACO",
+          "summary": "El World Endurance Championship y el Automobile Club de l'Ouest dominan la escena mundial de las carreras de resistencia.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/este-sabado-campeones-clasificacion-con-el-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/03/Campeones-Clasificacion.jpg",
+          "url": "https://campeones.com.ar/esperado-acuerdo-multianual-se-firmo-en-la-era-dorada-del-endurance-entre-el-fia-wec-y-el-aco/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/WEC-Largada-2026-FOTO-DPPI.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-02T13:50:50.000Z",
-          "addedAt": "2026-10-02T17:57:42.409Z",
+          "publishedAt": "2026-09-30T12:24:35.000Z",
+          "addedAt": "2026-10-02T17:57:47.194Z",
           "category": "general",
-          "tag": "F1"
+          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-tcr-south-america-cumple-100-carreras-el-proximo-fin-de-semana-en-posadas",
@@ -1091,6 +1106,21 @@
           "addedAt": "2026-10-02T17:57:45.788Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
+          "title": "Campeones Clasificación con el TC desde San Nicolás",
+          "summary": "No te pierdas los detalles de la 12.ª fecha de la categoría más popular del automovilismo nacional y los detalles de la actividad en el circuito nicoleño, por nuestras plataformas y AM590 Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/este-sabado-campeones-clasificacion-con-el-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/03/Campeones-Clasificacion.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T13:50:50.000Z",
+          "addedAt": "2026-10-02T17:57:42.409Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-cambios-en-el-cronograma-habitual-del-turismo-carretera",
@@ -1141,7 +1171,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-03T12:23:55.892Z",
+      "createdAt": "2026-10-03T14:11:32.557Z",
       "items": [
         {
           "id": "campeones-com-ar-esteban-ocon-no-seguira-en-la-formula-1",
@@ -1172,6 +1202,36 @@
           "addedAt": "2026-10-02T17:57:42.622Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
+          "title": "Geely presentó su SUV de TC2000",
+          "summary": "El flamante equipo tendrá como pilotos a Nicolás Traut y Franco Riva. Así la categoría suma una nueva automotriz.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/geely-presento-su-suv-de-tc2000/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-12.47.43.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T16:28:07.000Z",
+          "addedAt": "2026-10-02T17:57:42.540Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina",
+          "title": "Daniel Herrero aclaró el programa deportivo de Mercedes-Benz en Argentina",
+          "summary": "El CEO de Prestige Auto se refirió sobre el rumor de una posible expansión de la marca alemana hacia Turismo Competición 2000.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/06/DANIEL-HERRERO-MERCEDES-BENZ.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-09-29T18:31:58.000Z",
+          "addedAt": "2026-10-02T17:57:45.353Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-de-familia-fierrera-y-con-su-hermano-de-referente-bautista-panetta-tiene-una-cita-mundialista",
@@ -1382,7 +1442,13 @@
           "addedAt": "2026-10-02T17:57:42.833Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-03T14:11:32.557Z",
+      "items": [
         {
           "id": "campeones-com-ar-los-datos-curiosos-del-tc-en-san-nicolas",
           "title": "Los datos curiosos del TC en San Nicolás",
@@ -1407,18 +1473,12 @@
           "url": "https://www.fiaformula2.com/en/latest/article/were-definitely-in-the-fight-says-dunne-after-race-winning-baku-weekend.2pQoM3dwcZomeFagyCzlxe",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T12:23:54.095Z",
+          "publishedAt": "2026-10-03T14:11:27.376Z",
           "addedAt": "2026-10-03T09:12:03.358Z",
           "category": "support",
           "tag": "F2",
           "series": "F2"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-03T12:23:55.892Z",
-      "items": [
+        },
         {
           "id": "www-fiaformula2-com-en-latest-article-it-was-much-more-than-a-win-says-tsolov-after-comeback-to-second-in-baku-feature-r",
           "title": "‘It was much more than a win’ says Tsolov after comeback to second in Baku Feature Race 2",
@@ -1428,7 +1488,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/it-was-much-more-than-a-win-says-tsolov-after-comeback-to-second-in-baku-feature-race-2.2L9LXZR8L2w3VyUV62twHr",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T12:23:54.095Z",
+          "publishedAt": "2026-10-03T14:11:27.376Z",
           "addedAt": "2026-10-03T09:12:03.358Z",
           "category": "support",
           "tag": "F2",
@@ -1443,7 +1503,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/joshua-duerksen-joins-hitech-for-2027-f2-season.66QvYilXZqpnjz9VRs9ITt",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T12:23:54.094Z",
+          "publishedAt": "2026-10-03T14:11:27.375Z",
           "addedAt": "2026-10-03T09:12:03.357Z",
           "category": "support",
           "tag": "F2",
@@ -1458,7 +1518,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/rodin-motorsport-confirms-reza-seewooruthun-for-2027-f3-season.3p1yGgEurpM8JoUgzAawV",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T12:23:54.435Z",
+          "publishedAt": "2026-10-03T14:11:27.762Z",
           "addedAt": "2026-10-03T09:12:03.451Z",
           "category": "support",
           "tag": "F3",
@@ -1473,7 +1533,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/fia-formula-3-announces-2026-post-season-tests-in-jerez-and-barcelona.2AC1GfYNm6D0HSbBtax1dr",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T12:23:54.435Z",
+          "publishedAt": "2026-10-03T14:11:27.762Z",
           "addedAt": "2026-10-03T09:12:03.450Z",
           "category": "support",
           "tag": "F3",
@@ -1488,7 +1548,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/maciej-gladysz-season-review-maiden-win-and-important-lessons-learned.UMVplbkRGsB7MKjQAeN6e",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T12:23:54.435Z",
+          "publishedAt": "2026-10-03T14:11:27.762Z",
           "addedAt": "2026-10-03T12:23:54.435Z",
           "category": "support",
           "tag": "F3",
@@ -1503,7 +1563,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T12:22:55.885Z",
+          "publishedAt": "2026-10-03T14:10:28.650Z",
           "addedAt": "2026-10-03T09:12:04.593Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1518,7 +1578,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T12:20:55.885Z",
+          "publishedAt": "2026-10-03T14:08:28.650Z",
           "addedAt": "2026-10-03T09:12:04.593Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1533,7 +1593,7 @@
           "url": "https://www.f1academy.com/Latest/03tr7bWH68PWgrzxw4iXY/chiara-baettig-to-represent-wella-professionals-as-f1-academy-wild-card-driver-at-silverstone",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T12:19:55.885Z",
+          "publishedAt": "2026-10-03T14:07:28.650Z",
           "addedAt": "2026-10-03T09:12:04.593Z",
           "category": "support",
           "tag": "F1 Academy",
