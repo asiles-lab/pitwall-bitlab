@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-03T16:11:28.945Z",
-  "checkedAt": "2026-10-03T16:11:28.945Z",
+  "updatedAt": "2026-10-03T17:11:28.937Z",
+  "checkedAt": "2026-10-03T17:11:28.937Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
-      "title": "TCR South America: Okulovich por Piquet Jr. como cambio de último momento",
-      "summary": "El brasileño se ausenta de la competencia en Misiones \"por compromisos asumidos previamente en su calendario deportivo\" según explicó el equipo.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NELSON-PIQUET-JR.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-03T02:40:19.000Z",
-      "addedAt": "2026-10-03T15:11:35.641Z",
-      "category": "general",
-      "tag": "Previa"
-    },
     {
       "id": "campeones-com-ar-horarios-e-inscriptos-para-el-tcr-south-america-en-posadas",
       "title": "Horarios e inscriptos para el TCR South America en Posadas",
@@ -328,7 +313,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-03T16:11:38.130Z",
+      "createdAt": "2026-10-03T17:11:36.477Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -604,7 +589,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-03T16:11:38.130Z",
+      "createdAt": "2026-10-03T17:11:36.477Z",
       "items": [
         {
           "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
@@ -682,6 +667,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-cuarta-pole-de-lautaro-videla-en-la-formula-2-argentina",
+          "title": "Cuarta “pole” de Lautaro Videla en la Fórmula 2 Argentina | Campeones",
+          "summary": "En San Nicolás, la pista se secó y el pampeano, líder del torneo, se quedó con lo mejor. Franco Ledesma e Ignacio Monti cerraron el “top” 3.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/cuarta-pole-de-lautaro-videla-en-la-formula-2-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9709.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T16:29:12.000Z",
+          "addedAt": "2026-10-03T17:11:31.236Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-colapinto-tambien-recibe-mensajes-de-odio-en-las-redes-nadie-habla-nunca-de-eso",
           "title": "Colapinto advirtió que él también recibe mensajes de odio en las redes: \"Nadie habla nunca de eso\"",
           "summary": "Franco Colapinto señaló que el odio no llega solamente desde Argentina y que él mismo es víctima de muchos mensajes que nadie visibiliza.",
@@ -751,7 +751,7 @@
           "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9709.jpeg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-03T12:57:31.000Z",
+          "publishedAt": "2026-10-03T07:57:31.000Z",
           "addedAt": "2026-10-03T14:11:27.611Z",
           "category": "argentino",
           "tag": "Franco"
@@ -802,36 +802,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-santero-apunto-por-las-licencias-y-dijo-que-nadie-lo-llamo",
-          "title": "Santero apuntó por las licencias y dijo que \"nadie lo llamó\" | Campeones",
-          "summary": "El mendocino dialogó con Campeones desde San Nicolás y volvió a disparar por la negativa de la CDA de otorgarle la Licencia Internacional para correr en Stock Car . Además, la falta de apoyo entre los pilotos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/santero-apunto-por-las-licencias-y-dijo-que-nadie-lo-llamo/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/Julian-Santero-BMW-IG-1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T13:32:02.000Z",
-          "addedAt": "2026-10-03T14:11:27.613Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour",
-          "title": "Azcona revalidó la \"pole\" con triunfo en el TCR World Tour | Campeones",
-          "summary": "El español es ahora le nuevo líder del certamen con el Hyundai, ya que Santiago Urrutia culminó 9.°.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2026_TCR_photo_news_299_5906468e00a8118fbdc45bde752c23ce.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T13:12:20.000Z",
-          "addedAt": "2026-10-03T14:11:27.536Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-los-argentinos-tienen-por-objetivo-estar-en-los-podios-del-rally-de-marruecos",
           "title": "Los argentinos disputan por un lugar en los podios del Rally de Marruecos",
           "summary": "En la penúltima etapa Benavides se retrasó por una caída en Motos, Andújar descuenta en Challenger y González Ferioli mantiene la vanguardia en SSV. Ekström se impone en Autos.",
@@ -862,17 +832,32 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-marco-morelli-lidero-en-los-ensayos-japoneses-de-moto3",
-          "title": "Marco Morelli lideró en los ensayos japoneses de Moto3",
-          "summary": "Con la KTM de Aspar Team el piloto hispano argentino consiguió superar al local Yamanaka (MSI); Valentín Perrone quedó quinto con la unidad de Tech3.",
+          "id": "campeones-com-ar-santero-apunto-por-las-licencias-y-dijo-que-nadie-lo-llamo",
+          "title": "Santero apuntó por las licencias y dijo que \"nadie lo llamó\" | Campeones",
+          "summary": "El mendocino dialogó con Campeones desde San Nicolás y volvió a disparar por la negativa de la CDA de otorgarle la Licencia Internacional para correr en Stock Car . Además, la falta de apoyo entre los pilotos.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/marco-morelli-lidero-en-los-ensayos-japoneses-de-moto3/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-Moto3-Morelli.jpg",
+          "url": "https://campeones.com.ar/santero-apunto-por-las-licencias-y-dijo-que-nadie-lo-llamo/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/Julian-Santero-BMW-IG-1.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-02T06:39:57.000Z",
-          "addedAt": "2026-10-02T17:57:42.221Z",
+          "publishedAt": "2026-10-03T13:32:02.000Z",
+          "addedAt": "2026-10-03T14:11:27.613Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour",
+          "title": "Azcona revalidó la \"pole\" con triunfo en el TCR World Tour | Campeones",
+          "summary": "El español es ahora le nuevo líder del certamen con el Hyundai, ya que Santiago Urrutia culminó 9.°.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2026_TCR_photo_news_299_5906468e00a8118fbdc45bde752c23ce.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T13:12:20.000Z",
+          "addedAt": "2026-10-03T14:11:27.536Z",
           "category": "argentino",
           "tag": "Argentino"
         }
@@ -880,23 +865,8 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-03T16:11:38.130Z",
+      "createdAt": "2026-10-03T17:11:36.477Z",
       "items": [
-        {
-          "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
-          "title": "TC: “Josito” Di Palma fue el más veloz bajo la lluvia en San Nicolás",
-          "summary": "El arrecifeño del RUS Med Team, que viene de lograr la “pole position” en San Luis también en condiciones de pista húmeda, prevaleció en el primer entrenamiento de la 2ª fecha de la Copa de Oro del Turismo Carretera, del que sólo tomaron parte 20 de los 53 inscriptos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Di-Palma-TC-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T13:27:45.000Z",
-          "addedAt": "2026-10-03T14:11:27.624Z",
-          "category": "general",
-          "tag": "Clima"
-        },
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -928,6 +898,21 @@
           "tag": "Carrera"
         },
         {
+          "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
+          "title": "TC: “Josito” Di Palma fue el más veloz bajo la lluvia en San Nicolás",
+          "summary": "El arrecifeño del RUS Med Team, que viene de lograr la “pole position” en San Luis también en condiciones de pista húmeda, prevaleció en el primer entrenamiento de la 2ª fecha de la Copa de Oro del Turismo Carretera, del que sólo tomaron parte 20 de los 53 inscriptos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Di-Palma-TC-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T13:27:45.000Z",
+          "addedAt": "2026-10-03T14:11:27.624Z",
+          "category": "general",
+          "tag": "Clima"
+        },
+        {
           "id": "campeones-com-ar-el-susto-que-tuvo-rus-med-team-antes-de-la-carrera-de-tc-en-san-nicolas",
           "title": "El \"susto\" que tuvo RUS Med Team antes de la carrera de TCen San Nicolás",
           "summary": "Una imprevista rotura en el motor del Toyota de \"Josito\" Di Palma motivó a un cambio de última hora para afrontar el fin de semana nicoleño.",
@@ -956,6 +941,21 @@
           "addedAt": "2026-10-02T16:23:12.760Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
+          "title": "TCR South America: Okulovich por Piquet Jr. como cambio de último momento",
+          "summary": "El brasileño se ausenta de la competencia en Misiones \"por compromisos asumidos previamente en su calendario deportivo\" según explicó el equipo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NELSON-PIQUET-JR.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T02:40:19.000Z",
+          "addedAt": "2026-10-03T15:11:35.641Z",
+          "category": "general",
+          "tag": "Previa"
         },
         {
           "id": "campeones-com-ar-motogp-en-motegi-marc-marquez-le-gano-otro-sprint-a-martin",
@@ -1136,7 +1136,13 @@
           "addedAt": "2026-10-02T17:57:42.291Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-03T17:11:36.477Z",
+      "items": [
         {
           "id": "campeones-com-ar-ledesma-la-vuelta-de-balcarce-y-la-posibilidad-de-que-lo-visite-el-tc",
           "title": "Ledesma, la vuelta de Balcarce y la posibilidad de que lo visite el TC | Campeones",
@@ -1151,13 +1157,7 @@
           "addedAt": "2026-10-02T17:57:42.723Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-03T16:11:38.130Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-esteban-ocon-no-seguira-en-la-formula-1",
           "title": "Esteban Ocon no seguirá en la Fórmula 1",
@@ -1202,6 +1202,21 @@
           "addedAt": "2026-10-02T17:57:42.622Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-marco-morelli-lidero-en-los-ensayos-japoneses-de-moto3",
+          "title": "Marco Morelli lideró en los ensayos japoneses de Moto3",
+          "summary": "Con la KTM de Aspar Team el piloto hispano argentino consiguió superar al local Yamanaka (MSI); Valentín Perrone quedó quinto con la unidad de Tech3.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/marco-morelli-lidero-en-los-ensayos-japoneses-de-moto3/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-Moto3-Morelli.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T06:39:57.000Z",
+          "addedAt": "2026-10-02T17:57:42.221Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-tcr-girolami-marca-el-ritmo-con-el-hyundai-en-posadas",
@@ -1249,21 +1264,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
-          "title": "Geely presentó su SUV de TC2000",
-          "summary": "El flamante equipo tendrá como pilotos a Nicolás Traut y Franco Riva. Así la categoría suma una nueva automotriz.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/geely-presento-su-suv-de-tc2000/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-12.47.43.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T16:28:07.000Z",
-          "addedAt": "2026-10-02T17:57:42.540Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina",
           "title": "Daniel Herrero aclaró el programa deportivo de Mercedes-Benz en Argentina",
           "summary": "El CEO de Prestige Auto se refirió sobre el rumor de una posible expansión de la marca alemana hacia Turismo Competición 2000.",
@@ -1277,6 +1277,21 @@
           "addedAt": "2026-10-02T17:57:45.353Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
+          "title": "Geely presentó su SUV de TC2000",
+          "summary": "El flamante equipo tendrá como pilotos a Nicolás Traut y Franco Riva. Así la categoría suma una nueva automotriz.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/geely-presento-su-suv-de-tc2000/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-12.47.43.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T16:28:07.000Z",
+          "addedAt": "2026-10-02T17:57:42.540Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-de-familia-fierrera-y-con-su-hermano-de-referente-bautista-panetta-tiene-una-cita-mundialista",
@@ -1397,7 +1412,13 @@
           "addedAt": "2026-10-02T17:57:45.987Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-03T17:11:36.477Z",
+      "items": [
         {
           "id": "campeones-com-ar-wec-clasificacion-cancelada-en-fuji-por-condiciones-meteorologicas-adversas",
           "title": "WEC: clasificación cancelada en Fuji por condiciones meteorológicas adversas",
@@ -1427,13 +1448,7 @@
           "addedAt": "2026-10-02T17:57:45.066Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-03T16:11:38.130Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-tiago-pernia-se-presenta-en-el-mitico-circuito-de-monza-con-el-tcr-europa",
           "title": "Tiago Pernía se presenta en el mítico circuito de Monza con el TCR Europa | Campeones",
@@ -1518,7 +1533,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/were-definitely-in-the-fight-says-dunne-after-race-winning-baku-weekend.2pQoM3dwcZomeFagyCzlxe",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T16:11:30.501Z",
+          "publishedAt": "2026-10-03T17:11:31.084Z",
           "addedAt": "2026-10-03T09:12:03.358Z",
           "category": "support",
           "tag": "F2",
@@ -1533,7 +1548,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/it-was-much-more-than-a-win-says-tsolov-after-comeback-to-second-in-baku-feature-race-2.2L9LXZR8L2w3VyUV62twHr",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T16:11:30.501Z",
+          "publishedAt": "2026-10-03T17:11:31.084Z",
           "addedAt": "2026-10-03T09:12:03.358Z",
           "category": "support",
           "tag": "F2",
@@ -1548,7 +1563,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/joshua-duerksen-joins-hitech-for-2027-f2-season.66QvYilXZqpnjz9VRs9ITt",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T16:11:30.500Z",
+          "publishedAt": "2026-10-03T17:11:31.083Z",
           "addedAt": "2026-10-03T09:12:03.357Z",
           "category": "support",
           "tag": "F2",
@@ -1563,7 +1578,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/rodin-motorsport-confirms-reza-seewooruthun-for-2027-f3-season.3p1yGgEurpM8JoUgzAawV",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T16:11:30.947Z",
+          "publishedAt": "2026-10-03T17:11:31.382Z",
           "addedAt": "2026-10-03T09:12:03.451Z",
           "category": "support",
           "tag": "F3",
@@ -1578,23 +1593,23 @@
           "url": "https://www.fiaformula3.com/en/latest/article/fia-formula-3-announces-2026-post-season-tests-in-jerez-and-barcelona.2AC1GfYNm6D0HSbBtax1dr",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T16:11:30.947Z",
+          "publishedAt": "2026-10-03T17:11:31.382Z",
           "addedAt": "2026-10-03T09:12:03.450Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
         },
         {
-          "id": "www-fiaformula3-com-en-latest-article-maciej-gladysz-season-review-maiden-win-and-important-lessons-learned-umvplbkrgsb7",
-          "title": "Maciej Gladysz Season Review: Maiden win and important lessons learned",
+          "id": "www-fiaformula3-com-en-latest-article-brando-badoers-season-review-highlight-moments-and-bouncing-back-from-tough-rookie",
+          "title": "Brando Badoer's Season Review: Highlight moments and bouncing back from tough rookie year",
           "summary": "",
           "source": "Formula 3",
           "sourceLabel": "Formula 3",
-          "url": "https://www.fiaformula3.com/en/latest/article/maciej-gladysz-season-review-maiden-win-and-important-lessons-learned.UMVplbkRGsB7MKjQAeN6e",
+          "url": "https://www.fiaformula3.com/en/latest/article/brando-badoers-season-review-highlight-moments-and-bouncing-back-from-tough-rookie-year.5VzqnHtyRevib5jtSTsq9V",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T16:11:30.947Z",
-          "addedAt": "2026-10-03T12:23:54.435Z",
+          "publishedAt": "2026-10-03T17:11:31.383Z",
+          "addedAt": "2026-10-03T17:11:31.383Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
@@ -1608,7 +1623,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T16:10:32.595Z",
+          "publishedAt": "2026-10-03T17:10:32.582Z",
           "addedAt": "2026-10-03T09:12:04.593Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1623,7 +1638,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T16:08:32.595Z",
+          "publishedAt": "2026-10-03T17:08:32.582Z",
           "addedAt": "2026-10-03T09:12:04.593Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1638,7 +1653,7 @@
           "url": "https://www.f1academy.com/Latest/03tr7bWH68PWgrzxw4iXY/chiara-baettig-to-represent-wella-professionals-as-f1-academy-wild-card-driver-at-silverstone",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T16:07:32.595Z",
+          "publishedAt": "2026-10-03T17:07:32.582Z",
           "addedAt": "2026-10-03T09:12:04.593Z",
           "category": "support",
           "tag": "F1 Academy",
