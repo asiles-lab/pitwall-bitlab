@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-03T15:11:29.681Z",
-  "checkedAt": "2026-10-03T15:11:29.681Z",
+  "updatedAt": "2026-10-03T16:11:28.945Z",
+  "checkedAt": "2026-10-03T16:11:28.945Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
-      "title": "TC: “Josito” Di Palma fue el más veloz bajo la lluvia en San Nicolás",
-      "summary": "El arrecifeño del RUS Med Team, que viene de lograr la “pole position” en San Luis también en condiciones de pista húmeda, prevaleció en el primer entrenamiento de la 2ª fecha de la Copa de Oro del Turismo Carretera, del que sólo tomaron parte 20 de los 53 inscriptos.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Di-Palma-TC-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-03T13:27:45.000Z",
-      "addedAt": "2026-10-03T14:11:27.624Z",
-      "category": "general",
-      "tag": "Clima"
-    },
     {
       "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
       "title": "TCR South America: Okulovich por Piquet Jr. como cambio de último momento",
@@ -343,7 +328,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-03T15:11:37.860Z",
+      "createdAt": "2026-10-03T16:11:38.130Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -526,21 +511,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
-          "title": "F1 | Colapinto en el GP de Malasia: horarios y el cronograma completo",
-          "summary": "El argentino disputa la decimosexta fecha de la temporada 2026 de la Fórmula 1 en el Circuito de Sepang. Conocé todos los horarios.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543.html",
-          "image": "https://media.tycsports.com/files/2026/09/26/990872/franco-colapinto_1440x810.webp?v=1",
-          "body": "El argentino disputa la decimosexta fecha de la temporada 2026 de la Fórmula 1 en el Circuito de Sepang. Conocé todos los horarios.\n\nCuál fue la sanción de la FIA a Colapinto tras su accidente en el GP de Azerbaiyán. + Seguinos en Franco Colapinto disputa la decimosexta fecha del campeonato mundial de Fórmula 1 en el Gran Premio de Malasia, en el Circuito de Sepang . El argentino afronta la competencia al volante de uno de los monoplazas de Alpine, luego de chocar y abandonar en Azerbaiyán . Conocé el cronograma completo .\n\nEl argentino terminó P19 en la primera Práctica y último en la segunda , aunque los resultados no reflejan directamente el rendimiento del auto, ya que Alpine se enfocó en preparar el A526 para la carrera. Además de los cinco lugares de penalización que Colapinto deberá cumplir por el choque en Bakú, se sumaron 10 puesto más debido a que el equipo cambió la unidad de potencia del monoplaza y otros componentes, por lo que perderá 15 lugares respecto a la ubicación que obtenga en la Clasificación del sábado.\n\nEl circuito de Sepang es uno de los circuitos más completos de la Fórmula 1. Su amplio trazado combina largas rectas, zonas de frenada intensa y una variedad de curvas rápidas y fluidas, lo que permite a los pilotos atacar desde múltiples trazadas. El circuito es conocido por su calor y humedad, y los repentinos aguaceros tropicales pueden cambiar las condiciones en un instante. Entre las secciones más destacas se encuentran la larga curva que une las curvas 5 y 6, y la singular horquilla final de la curva 15 que desemboca en la recta principal.",
-          "language": "es",
-          "publishedAt": "2026-10-02T16:04:47.000Z",
-          "addedAt": "2026-10-02T16:23:12.642Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
           "title": "Después de la accidentada carrera, Colapinto estableció sus objetivos para Malasia",
           "summary": "El piloto argentino se prepara de cara a su primera experiencia en el circuito asiático. \"Apunto a un viernes productivo, tener el auto en una buena ventana de configuración y, con suerte, estar en una posición para competir por los diez primeros puestos\", afirmó.",
@@ -552,6 +522,21 @@
           "language": "es",
           "publishedAt": "2026-09-29T15:05:13.000Z",
           "addedAt": "2026-10-02T16:23:13.438Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
+          "title": "F1 | Colapinto en el GP de Malasia: horarios y el cronograma completo",
+          "summary": "El argentino disputa la decimosexta fecha de la temporada 2026 de la Fórmula 1 en el Circuito de Sepang. Conocé todos los horarios.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543.html",
+          "image": "https://media.tycsports.com/files/2026/09/26/990872/franco-colapinto_1440x810.webp?v=1",
+          "body": "El argentino disputa la decimosexta fecha de la temporada 2026 de la Fórmula 1 en el Circuito de Sepang. Conocé todos los horarios.\n\nCuál fue la sanción de la FIA a Colapinto tras su accidente en el GP de Azerbaiyán. + Seguinos en Franco Colapinto disputa la decimosexta fecha del campeonato mundial de Fórmula 1 en el Gran Premio de Malasia, en el Circuito de Sepang . El argentino afronta la competencia al volante de uno de los monoplazas de Alpine, luego de chocar y abandonar en Azerbaiyán . Conocé el cronograma completo .\n\nEl argentino terminó P19 en la primera Práctica y último en la segunda , aunque los resultados no reflejan directamente el rendimiento del auto, ya que Alpine se enfocó en preparar el A526 para la carrera. Además de los cinco lugares de penalización que Colapinto deberá cumplir por el choque en Bakú, se sumaron 10 puesto más debido a que el equipo cambió la unidad de potencia del monoplaza y otros componentes, por lo que perderá 15 lugares respecto a la ubicación que obtenga en la Clasificación del sábado.\n\nEl circuito de Sepang es uno de los circuitos más completos de la Fórmula 1. Su amplio trazado combina largas rectas, zonas de frenada intensa y una variedad de curvas rápidas y fluidas, lo que permite a los pilotos atacar desde múltiples trazadas. El circuito es conocido por su calor y humedad, y los repentinos aguaceros tropicales pueden cambiar las condiciones en un instante. Entre las secciones más destacas se encuentran la larga curva que une las curvas 5 y 6, y la singular horquilla final de la curva 15 que desemboca en la recta principal.",
+          "language": "es",
+          "publishedAt": "2026-10-02T16:04:47.000Z",
+          "addedAt": "2026-10-02T16:23:12.642Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -619,7 +604,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-03T15:11:37.860Z",
+      "createdAt": "2026-10-03T16:11:38.130Z",
       "items": [
         {
           "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
@@ -697,21 +682,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina",
-          "title": "El más rápido de las prácticas fue Lautaro Videla en la Fórmula 2 Argentina | Campeones",
-          "summary": "La mañana de San Nicolás se abrió con un fuerte diluvio, pero los monoplazas giraron sin mayores inconvenientes, con Franco Ledesma arriba en la primera tanda y el pampeano en la segunda.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9709.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T12:57:31.000Z",
-          "addedAt": "2026-10-03T14:11:27.611Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-colapinto-tambien-recibe-mensajes-de-odio-en-las-redes-nadie-habla-nunca-de-eso",
           "title": "Colapinto advirtió que él también recibe mensajes de odio en las redes: \"Nadie habla nunca de eso\"",
           "summary": "Franco Colapinto señaló que el odio no llega solamente desde Argentina y que él mismo es víctima de muchos mensajes que nadie visibiliza.",
@@ -772,6 +742,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina",
+          "title": "El más rápido de las prácticas fue Lautaro Videla en la Fórmula 2 Argentina | Campeones",
+          "summary": "La mañana de San Nicolás se abrió con un fuerte diluvio, pero los monoplazas giraron sin mayores inconvenientes, con Franco Ledesma arriba en la primera tanda y el pampeano en la segunda.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9709.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T12:57:31.000Z",
+          "addedAt": "2026-10-03T14:11:27.611Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-pick-up-con-la-exclusion-de-werner-el-campeonato-tiene-nuevo-lider",
           "title": "Pick Up: con la exclusión de Werner, el campeonato tiene nuevo líder | Campeones",
           "summary": "Otto Fritzler es quien comanda el campeoanto tras la penalización al de Paraná por el exceso de compresión en el motor de la Foton.",
@@ -783,6 +768,21 @@
           "language": "es",
           "publishedAt": "2026-09-28T13:14:59.000Z",
           "addedAt": "2026-10-02T17:57:46.877Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-tc-en-san-nicolas-el-torino-de-fain-prevalecio-en-la-dispar-ultima-practica",
+          "title": "TC en San Nicolás: el Torino de Faín prevaleció en la dispar última práctica",
+          "summary": "En un entrenamiento en el que los integrantes del grupo “A” giraron con la pista bastante menos húmeda que los del grupo “B” y diferencias superiores a los 8 segundos entre ambos, el piloto del Trotta Racing Team aventajó por 0s064 a Mauricio Lambiris (Ford Mustang).",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-en-san-nicolas-el-torino-de-fain-prevalecio-en-la-dispar-ultima-practica/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-TC-2026.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T15:55:19.000Z",
+          "addedAt": "2026-10-03T16:11:30.630Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -875,28 +875,28 @@
           "addedAt": "2026-10-02T17:57:42.221Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-tcr-girolami-marca-el-ritmo-con-el-hyundai-en-posadas",
-          "title": "TCR: Girolami marca el ritmo con el Hyundai en Posadas | Campeones",
-          "summary": "El “Bebu” marcó el mejor tiempo del Shakedown, con una buena diferencia sobre Joaquín Cafaro y Fabrizio Pezzini, que cerraron el “top” 10.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tcr-girolami-marca-el-ritmo-con-el-hyundai-en-posadas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/HCC_9580.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T21:57:54.000Z",
-          "addedAt": "2026-10-02T22:34:56.415Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-03T15:11:37.860Z",
+      "createdAt": "2026-10-03T16:11:38.130Z",
       "items": [
+        {
+          "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
+          "title": "TC: “Josito” Di Palma fue el más veloz bajo la lluvia en San Nicolás",
+          "summary": "El arrecifeño del RUS Med Team, que viene de lograr la “pole position” en San Luis también en condiciones de pista húmeda, prevaleció en el primer entrenamiento de la 2ª fecha de la Copa de Oro del Turismo Carretera, del que sólo tomaron parte 20 de los 53 inscriptos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Di-Palma-TC-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T13:27:45.000Z",
+          "addedAt": "2026-10-03T14:11:27.624Z",
+          "category": "general",
+          "tag": "Clima"
+        },
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -1063,21 +1063,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-motogp-en-japon-dominio-de-los-hermanos-marquez-en-los-ensayos",
-          "title": "MotoGP en Japón: dominio de los hermanos Márquez en los ensayos",
-          "summary": "Con las Ducati, Marc y Álex fueron los más rápidos en las tandas cronometradas desarrolladas en la pista de Motegi.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/motogp-en-japon-dominio-de-los-hermanos-marquez-en-los-ensayos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-MotoGP-Alex-Marquez.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T15:45:15.000Z",
-          "addedAt": "2026-10-02T17:57:42.455Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-esperado-acuerdo-multianual-se-firmo-en-la-era-dorada-del-endurance-entre-el-fia-wec-y-el-aco",
           "title": "Esperado acuerdo multianual se firmó en la era dorada del endurance entre el WEC y el ACO",
           "summary": "El World Endurance Championship y el Automobile Club de l'Ouest dominan la escena mundial de las carreras de resistencia.",
@@ -1106,6 +1091,21 @@
           "addedAt": "2026-10-02T17:57:45.788Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-motogp-en-japon-dominio-de-los-hermanos-marquez-en-los-ensayos",
+          "title": "MotoGP en Japón: dominio de los hermanos Márquez en los ensayos",
+          "summary": "Con las Ducati, Marc y Álex fueron los más rápidos en las tandas cronometradas desarrolladas en la pista de Motegi.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/motogp-en-japon-dominio-de-los-hermanos-marquez-en-los-ensayos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-MotoGP-Alex-Marquez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T15:45:15.000Z",
+          "addedAt": "2026-10-02T17:57:42.455Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
@@ -1151,27 +1151,12 @@
           "addedAt": "2026-10-02T17:57:42.723Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-fue-campeon-de-formula-1-con-ferrari-y-ahora-cambio-los-autos-por-la-mozzarella-y-los-he",
-          "title": "Fue campeón de Fórmula 1 con Ferrari y ahora cambió los autos por la mozzarella y los helados",
-          "summary": "El sudafricano fue campeón del mundo en 1979 con la Scuderia y, tras retirarse de la Fórmula 1, dejó atrás los circuitos para dedicarse a la producción orgánica, los búfalos y los productos lácteos.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/fue-campeon-de-formula-1-con-ferrari-y-ahora-cambio-los-autos-por-la-mozzarella-y-los-helados-id763625.html",
-          "image": "https://media.tycsports.com/files/2026/09/30/991690/jody-sheckter_862x485.webp",
-          "body": "El sudafricano fue campeón del mundo en 1979 con la Scuderia y, tras retirarse de la Fórmula 1, dejó atrás los circuitos para dedicarse a la producción orgánica, los búfalos y los productos lácteos.\n\nJody Sheckter, el campeón de la F1 que se dedicó a los quesos y los animales. + Seguinos en Jody Scheckter llegó a la Fórmula 1 en 1972 y después de pasar por McLaren, Tyrrell y Wolf encontró su gran oportunidad en Ferrari. En 1979, en su primera temporada con la Scuderia, se consagró campeón del mundo después de ganar tres Grandes Premios, entre ellos el de Italia en Monza, donde selló el título con dos fechas de anticipación. Fue, además, el último piloto de Ferrari en ser campeón durante 21 años, hasta la llegada de Michael Schumacher.\n\nEl sudafricano compartió aquel campeonato con Gilles Villeneuve, su compañero de equipo y uno de sus grandes amigos dentro de la Fórmula 1. Scheckter terminó la temporada con 51 puntos y consiguió el único título mundial de su carrera . Un año después, sin embargo, todo cambió: la defensa del campeonato con Ferrari fue muy complicada y terminó con apenas dos puntos. A los 30 años decidió retirarse de la Fórmula 1.\n\nLejos de los circuitos, Scheckter encontró una nueva pasión en la producción de alimentos. En 1996 comenzó a desarrollar Laverstoke Park Farm, una enorme propiedad de más de 1.000 hectáreas en Hampshire, Inglaterra , donde apostó por la agricultura orgánica y biodinámica. Allí incorporó ganado de búfalos de agua asiáticos y empezó a producir alimentos a partir de su leche.\n\nAsí apareció una imagen difícil de asociar con aquel campeón de Ferrari: Scheckter rodeado de búfalos y dedicado a elaborar mozzarella. La granja llegó a producir mozzarella de búfala, quesos y helados a partir de la leche de los animales. La propia Laversto",
-          "language": "es",
-          "publishedAt": "2026-09-30T15:19:09.000Z",
-          "addedAt": "2026-10-02T16:23:12.707Z",
-          "category": "general",
-          "tag": "F1"
         }
       ]
     },
     {
       "page": 4,
-      "createdAt": "2026-10-03T15:11:37.860Z",
+      "createdAt": "2026-10-03T16:11:38.130Z",
       "items": [
         {
           "id": "campeones-com-ar-esteban-ocon-no-seguira-en-la-formula-1",
@@ -1189,6 +1174,21 @@
           "tag": "F1"
         },
         {
+          "id": "www-tycsports-com-automovilismo-fue-campeon-de-formula-1-con-ferrari-y-ahora-cambio-los-autos-por-la-mozzarella-y-los-he",
+          "title": "Fue campeón de Fórmula 1 con Ferrari y ahora cambió los autos por la mozzarella y los helados",
+          "summary": "El sudafricano fue campeón del mundo en 1979 con la Scuderia y, tras retirarse de la Fórmula 1, dejó atrás los circuitos para dedicarse a la producción orgánica, los búfalos y los productos lácteos.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/fue-campeon-de-formula-1-con-ferrari-y-ahora-cambio-los-autos-por-la-mozzarella-y-los-helados-id763625.html",
+          "image": "https://media.tycsports.com/files/2026/09/30/991690/jody-sheckter_862x485.webp",
+          "body": "El sudafricano fue campeón del mundo en 1979 con la Scuderia y, tras retirarse de la Fórmula 1, dejó atrás los circuitos para dedicarse a la producción orgánica, los búfalos y los productos lácteos.\n\nJody Sheckter, el campeón de la F1 que se dedicó a los quesos y los animales. + Seguinos en Jody Scheckter llegó a la Fórmula 1 en 1972 y después de pasar por McLaren, Tyrrell y Wolf encontró su gran oportunidad en Ferrari. En 1979, en su primera temporada con la Scuderia, se consagró campeón del mundo después de ganar tres Grandes Premios, entre ellos el de Italia en Monza, donde selló el título con dos fechas de anticipación. Fue, además, el último piloto de Ferrari en ser campeón durante 21 años, hasta la llegada de Michael Schumacher.\n\nEl sudafricano compartió aquel campeonato con Gilles Villeneuve, su compañero de equipo y uno de sus grandes amigos dentro de la Fórmula 1. Scheckter terminó la temporada con 51 puntos y consiguió el único título mundial de su carrera . Un año después, sin embargo, todo cambió: la defensa del campeonato con Ferrari fue muy complicada y terminó con apenas dos puntos. A los 30 años decidió retirarse de la Fórmula 1.\n\nLejos de los circuitos, Scheckter encontró una nueva pasión en la producción de alimentos. En 1996 comenzó a desarrollar Laverstoke Park Farm, una enorme propiedad de más de 1.000 hectáreas en Hampshire, Inglaterra , donde apostó por la agricultura orgánica y biodinámica. Allí incorporó ganado de búfalos de agua asiáticos y empezó a producir alimentos a partir de su leche.\n\nAsí apareció una imagen difícil de asociar con aquel campeón de Ferrari: Scheckter rodeado de búfalos y dedicado a elaborar mozzarella. La granja llegó a producir mozzarella de búfala, quesos y helados a partir de la leche de los animales. La propia Laversto",
+          "language": "es",
+          "publishedAt": "2026-09-30T15:19:09.000Z",
+          "addedAt": "2026-10-02T16:23:12.707Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "carburando-com-ar-blog-formula-1-confirma-fecha-para-el-gp-de-mexico-2027-y-un-calendario-de-24",
           "title": "Fórmula 1 confirma fecha para el GP de México 2027 y un calendario de 24 carreras",
           "summary": "La categoría reveló el calendario 2027 con el Gran Premio de México en su lugar habitual de octubre. Analizamos cómo se estructura un año récord de 24…",
@@ -1202,6 +1202,21 @@
           "addedAt": "2026-10-02T17:57:42.622Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-tcr-girolami-marca-el-ritmo-con-el-hyundai-en-posadas",
+          "title": "TCR: Girolami marca el ritmo con el Hyundai en Posadas | Campeones",
+          "summary": "El “Bebu” marcó el mejor tiempo del Shakedown, con una buena diferencia sobre Joaquín Cafaro y Fabrizio Pezzini, que cerraron el “top” 10.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tcr-girolami-marca-el-ritmo-con-el-hyundai-en-posadas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/HCC_9580.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T21:57:54.000Z",
+          "addedAt": "2026-10-02T22:34:56.415Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-la-alianza-estrategica-en-tc-que-formaron-rus-med-team-y-city-center-rosario",
@@ -1412,7 +1427,13 @@
           "addedAt": "2026-10-02T17:57:45.066Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-03T16:11:38.130Z",
+      "items": [
         {
           "id": "campeones-com-ar-tiago-pernia-se-presenta-en-el-mitico-circuito-de-monza-con-el-tcr-europa",
           "title": "Tiago Pernía se presenta en el mítico circuito de Monza con el TCR Europa | Campeones",
@@ -1442,13 +1463,7 @@
           "addedAt": "2026-10-02T17:57:42.830Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-03T15:11:37.860Z",
-      "items": [
+        },
         {
           "id": "carburando-com-ar-blog-la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-encara-a-todo",
           "title": "La mentalidad de Ignacio Faín: “Estas cinco carreras uno las encara a todo o nada”",
@@ -1503,7 +1518,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/were-definitely-in-the-fight-says-dunne-after-race-winning-baku-weekend.2pQoM3dwcZomeFagyCzlxe",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T15:11:31.710Z",
+          "publishedAt": "2026-10-03T16:11:30.501Z",
           "addedAt": "2026-10-03T09:12:03.358Z",
           "category": "support",
           "tag": "F2",
@@ -1518,7 +1533,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/it-was-much-more-than-a-win-says-tsolov-after-comeback-to-second-in-baku-feature-race-2.2L9LXZR8L2w3VyUV62twHr",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T15:11:31.710Z",
+          "publishedAt": "2026-10-03T16:11:30.501Z",
           "addedAt": "2026-10-03T09:12:03.358Z",
           "category": "support",
           "tag": "F2",
@@ -1533,7 +1548,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/joshua-duerksen-joins-hitech-for-2027-f2-season.66QvYilXZqpnjz9VRs9ITt",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T15:11:31.709Z",
+          "publishedAt": "2026-10-03T16:11:30.500Z",
           "addedAt": "2026-10-03T09:12:03.357Z",
           "category": "support",
           "tag": "F2",
@@ -1548,7 +1563,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/rodin-motorsport-confirms-reza-seewooruthun-for-2027-f3-season.3p1yGgEurpM8JoUgzAawV",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T15:11:32.038Z",
+          "publishedAt": "2026-10-03T16:11:30.947Z",
           "addedAt": "2026-10-03T09:12:03.451Z",
           "category": "support",
           "tag": "F3",
@@ -1563,7 +1578,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/fia-formula-3-announces-2026-post-season-tests-in-jerez-and-barcelona.2AC1GfYNm6D0HSbBtax1dr",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T15:11:32.038Z",
+          "publishedAt": "2026-10-03T16:11:30.947Z",
           "addedAt": "2026-10-03T09:12:03.450Z",
           "category": "support",
           "tag": "F3",
@@ -1578,7 +1593,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/maciej-gladysz-season-review-maiden-win-and-important-lessons-learned.UMVplbkRGsB7MKjQAeN6e",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T15:11:32.038Z",
+          "publishedAt": "2026-10-03T16:11:30.947Z",
           "addedAt": "2026-10-03T12:23:54.435Z",
           "category": "support",
           "tag": "F3",
@@ -1593,7 +1608,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T15:10:33.044Z",
+          "publishedAt": "2026-10-03T16:10:32.595Z",
           "addedAt": "2026-10-03T09:12:04.593Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1608,7 +1623,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T15:08:33.044Z",
+          "publishedAt": "2026-10-03T16:08:32.595Z",
           "addedAt": "2026-10-03T09:12:04.593Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1623,7 +1638,7 @@
           "url": "https://www.f1academy.com/Latest/03tr7bWH68PWgrzxw4iXY/chiara-baettig-to-represent-wella-professionals-as-f1-academy-wild-card-driver-at-silverstone",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T15:07:33.044Z",
+          "publishedAt": "2026-10-03T16:07:32.595Z",
           "addedAt": "2026-10-03T09:12:04.593Z",
           "category": "support",
           "tag": "F1 Academy",
