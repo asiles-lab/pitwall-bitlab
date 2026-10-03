@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-03T17:11:28.937Z",
-  "checkedAt": "2026-10-03T17:11:28.937Z",
+  "updatedAt": "2026-10-03T18:11:28.965Z",
+  "checkedAt": "2026-10-03T18:11:28.965Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas",
+      "title": "TC Pista: Maceira se quedó con el ensayo final en San Nicolás",
+      "summary": "El piloto del Catalán Magni Motorsport, que no pudo largar la Final en San Luis y llegó a poner en duda su presencia en esta 2ª fecha de la Copa de Plata 2026, marcó el mejor tiempo en una pista en la que se bajaron los tiempos en casi 13 segundos respecto de la primera práctica.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Maceira-TCP-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-03T17:19:06.000Z",
+      "addedAt": "2026-10-03T18:11:30.923Z",
+      "category": "general",
+      "tag": "F1"
+    },
     {
       "id": "campeones-com-ar-horarios-e-inscriptos-para-el-tcr-south-america-en-posadas",
       "title": "Horarios e inscriptos para el TCR South America en Posadas",
@@ -313,7 +328,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-03T17:11:36.477Z",
+      "createdAt": "2026-10-03T18:11:36.437Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -421,6 +436,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
+          "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
+          "summary": "Debe cumplir con una penalización de 15 puestos con el Alpine, a bordo del cual el argentino pudo superar el primer corte clasificatorio en la pista de Sepang. La \"pole\" la logró Verstappen quien superó a Hamilton.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-box-Alpine.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T08:59:19.000Z",
+          "addedAt": "2026-10-03T18:11:30.466Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y largará último en el Gran Premio de Bahrein",
           "summary": "Debe cumplir con una penalización de 15 puestos con el Alpine, a bordo del cual el argentino consiguió otra vez tener un andar estable en la pista de Sepang.",
@@ -451,6 +481,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
+          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
+          "summary": "Cobertura especial del GP de Bahrein de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T17:00:17.000Z",
+          "addedAt": "2026-10-02T17:57:42.536Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-la-determinacion-de-franco-colapinto-para-afrontar-el-gp-de-bahrein-de-f1",
           "title": "La determinación de Franco Colapinto para afrontar el GP de Bahrein de F1",
           "summary": "Largará 21.° con el Alpine cumpliendo con las penalizaciones deportivas y técnicas en Sepang, circuito en el cual pretende escalar durante las 56 vueltas.",
@@ -462,21 +507,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T10:25:22.000Z",
           "addedAt": "2026-10-03T11:20:54.389Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang",
-          "title": "F1: Top10 de Colapinto, tras otra práctica de preparación en Sepang",
-          "summary": "Durante la última sesión de entrenamientos del GP de Bahrein, el argentino centró su foco en el rendimiento y consumo de neumáticos para la carrera.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-Alpine-Blandos.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T05:32:37.000Z",
-          "addedAt": "2026-10-03T06:54:55.719Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -507,6 +537,21 @@
           "language": "es",
           "publishedAt": "2026-09-29T15:05:13.000Z",
           "addedAt": "2026-10-02T16:23:13.438Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang",
+          "title": "F1: Top10 de Colapinto, tras otra práctica de preparación en Sepang",
+          "summary": "Durante la última sesión de entrenamientos del GP de Bahrein, el argentino centró su foco en el rendimiento y consumo de neumáticos para la carrera.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-Alpine-Blandos.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T05:32:37.000Z",
+          "addedAt": "2026-10-03T06:54:55.719Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -554,7 +599,13 @@
           "addedAt": "2026-10-02T16:23:12.797Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-03T18:11:36.437Z",
+      "items": [
         {
           "id": "campeones-com-ar-franco-colapinto-en-sepang-estamos-enfocados-en-la-carrera",
           "title": "Franco Colapinto en Sepang: «Estamos enfocados en la carrera»",
@@ -582,27 +633,6 @@
           "language": "es",
           "publishedAt": "2026-10-01T15:10:47.000Z",
           "addedAt": "2026-10-02T16:23:12.854Z",
-          "category": "argentino",
-          "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-03T17:11:36.477Z",
-      "items": [
-        {
-          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
-          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
-          "summary": "Cobertura especial del GP de Bahrein de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T13:00:17.000Z",
-          "addedAt": "2026-10-02T17:57:42.536Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -665,6 +695,21 @@
           "addedAt": "2026-10-02T16:23:12.895Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-podios-argentinos-en-el-rally-raid-de-marruecos",
+          "title": "Podios argentinos en el Rally Raid de Marruecos",
+          "summary": "Manuel Andújar fue 3.° en el debut en Challenger T3 con Andrés Frini; González Ferioli y Rinaldi se retrasaron y finalizaron 3.° en SSV y L. Benavides terminó 4.° en Motos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/podios-argentinos-en-el-rally-raid-de-marruecos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-W2RC-FIA-Andujar-Frini-Marruecos.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T17:26:14.000Z",
+          "addedAt": "2026-10-03T18:11:30.634Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-cuarta-pole-de-lautaro-videla-en-la-formula-2-argentina",
@@ -787,36 +832,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-santiago-biagi-abrio-el-juego-del-tc-pista-en-san-nicolas",
-          "title": "Santiago Biagi abrió el juego del TC Pista en San Nicolás",
-          "summary": "El piloto del RUS Med Team se quedó con el mejor tiempo en el entrenamiento que dio comienzo a la 2ª fecha de la Copa de Plata 2026, que se desarrolló con pista húmeda y del que tomaron parte 12 de los 19 inscriptos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/santiago-biagi-abrio-el-juego-del-tc-pista-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Biagi-TCP-2026-Bosco.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T15:06:57.000Z",
-          "addedAt": "2026-10-03T15:11:32.087Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-los-argentinos-tienen-por-objetivo-estar-en-los-podios-del-rally-de-marruecos",
-          "title": "Los argentinos disputan por un lugar en los podios del Rally de Marruecos",
-          "summary": "En la penúltima etapa Benavides se retrasó por una caída en Motos, Andújar descuenta en Challenger y González Ferioli mantiene la vanguardia en SSV. Ekström se impone en Autos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/los-argentinos-tienen-por-objetivo-estar-en-los-podios-del-rally-de-marruecos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-W2RC-FIA-Andujar-Frini.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T18:08:30.000Z",
-          "addedAt": "2026-10-02T19:06:32.267Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-atencion-argentina-ciudad-del-cabo-avanza-para-tener-la-formula-1",
           "title": "Atención Argentina: Ciudad del Cabo avanza para tener la Fórmula 1 | Campeones",
           "summary": "El proyecto para que dicha ciudad reciba el retorno de Sudáfrica al Mundial tuvo un importante paso adelante con la asociación de sus responsables con un grupo económico que ayudará a financiar este Gran Premio que compite con Argentina para entrar en el próximo calendario.",
@@ -828,6 +843,21 @@
           "language": "es",
           "publishedAt": "2026-09-30T12:51:37.000Z",
           "addedAt": "2026-10-02T17:57:42.339Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-santiago-biagi-abrio-el-juego-del-tc-pista-en-san-nicolas",
+          "title": "Santiago Biagi abrió el juego del TC Pista en San Nicolás",
+          "summary": "El piloto del RUS Med Team se quedó con el mejor tiempo en el entrenamiento que dio comienzo a la 2ª fecha de la Copa de Plata 2026, que se desarrolló con pista húmeda y del que tomaron parte 12 de los 19 inscriptos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/santiago-biagi-abrio-el-juego-del-tc-pista-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Biagi-TCP-2026-Bosco.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T15:06:57.000Z",
+          "addedAt": "2026-10-03T15:11:32.087Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -845,27 +875,12 @@
           "addedAt": "2026-10-03T14:11:27.613Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour",
-          "title": "Azcona revalidó la \"pole\" con triunfo en el TCR World Tour | Campeones",
-          "summary": "El español es ahora le nuevo líder del certamen con el Hyundai, ya que Santiago Urrutia culminó 9.°.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2026_TCR_photo_news_299_5906468e00a8118fbdc45bde752c23ce.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T13:12:20.000Z",
-          "addedAt": "2026-10-03T14:11:27.536Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-03T17:11:36.477Z",
+      "createdAt": "2026-10-03T18:11:36.437Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -926,6 +941,21 @@
           "addedAt": "2026-10-02T17:57:42.858Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
+          "title": "Campeones Clasificación con el TC desde San Nicolás",
+          "summary": "No te pierdas los detalles de la 12.ª fecha de la categoría más popular del automovilismo nacional y los detalles de la actividad en el circuito nicoleño, por nuestras plataformas y AM590 Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/este-sabado-campeones-clasificacion-con-el-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/03/Campeones-Clasificacion.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T17:50:50.000Z",
+          "addedAt": "2026-10-02T17:57:42.409Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-desopilante-jugada-de-briatore-engano-a-todos-los-periodistas-de-la-f1-con-una-hoja-en-b",
@@ -1048,21 +1078,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-gac-la-segunda-marca-china-que-incursionara-en-tc2000",
-          "title": "GAC, la segunda marca china que incursionará en TC2000",
-          "summary": "En la Exposición de Autos Chinos que se realiza este fin de semana en Buenos Aires, fueron mostrados los modelos que estarán corriendo próximamente con equipos propios.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/gac-la-segunda-marca-china-que-incursionara-en-tc2000/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-TC2000-GAC-EmZoom.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T17:16:58.000Z",
-          "addedAt": "2026-10-02T17:57:42.983Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-esperado-acuerdo-multianual-se-firmo-en-la-era-dorada-del-endurance-entre-el-fia-wec-y-el-aco",
           "title": "Esperado acuerdo multianual se firmó en la era dorada del endurance entre el WEC y el ACO",
           "summary": "El World Endurance Championship y el Automobile Club de l'Ouest dominan la escena mundial de las carreras de resistencia.",
@@ -1093,6 +1108,21 @@
           "tag": "Carrera"
         },
         {
+          "id": "campeones-com-ar-gac-la-segunda-marca-china-que-incursionara-en-tc2000",
+          "title": "GAC, la segunda marca china que incursionará en TC2000",
+          "summary": "En la Exposición de Autos Chinos que se realiza este fin de semana en Buenos Aires, fueron mostrados los modelos que estarán corriendo próximamente con equipos propios.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/gac-la-segunda-marca-china-que-incursionara-en-tc2000/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-TC2000-GAC-EmZoom.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T17:16:58.000Z",
+          "addedAt": "2026-10-02T17:57:42.983Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "campeones-com-ar-motogp-en-japon-dominio-de-los-hermanos-marquez-en-los-ensayos",
           "title": "MotoGP en Japón: dominio de los hermanos Márquez en los ensayos",
           "summary": "Con las Ducati, Marc y Álex fueron los más rápidos en las tandas cronometradas desarrolladas en la pista de Motegi.",
@@ -1104,21 +1134,6 @@
           "language": "es",
           "publishedAt": "2026-10-02T15:45:15.000Z",
           "addedAt": "2026-10-02T17:57:42.455Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
-          "title": "Campeones Clasificación con el TC desde San Nicolás",
-          "summary": "No te pierdas los detalles de la 12.ª fecha de la categoría más popular del automovilismo nacional y los detalles de la actividad en el circuito nicoleño, por nuestras plataformas y AM590 Continental.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/este-sabado-campeones-clasificacion-con-el-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/03/Campeones-Clasificacion.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T13:50:50.000Z",
-          "addedAt": "2026-10-02T17:57:42.409Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1141,7 +1156,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-03T17:11:36.477Z",
+      "createdAt": "2026-10-03T18:11:36.437Z",
       "items": [
         {
           "id": "campeones-com-ar-ledesma-la-vuelta-de-balcarce-y-la-posibilidad-de-que-lo-visite-el-tc",
@@ -1204,6 +1219,36 @@
           "tag": "Carrera"
         },
         {
+          "id": "campeones-com-ar-azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour",
+          "title": "Azcona revalidó la \"pole\" con triunfo en el TCR World Tour | Campeones",
+          "summary": "El español es ahora le nuevo líder del certamen con el Hyundai, ya que Santiago Urrutia culminó 9.°.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2026_TCR_photo_news_299_5906468e00a8118fbdc45bde752c23ce.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T13:12:20.000Z",
+          "addedAt": "2026-10-03T14:11:27.536Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-los-argentinos-tienen-por-objetivo-estar-en-los-podios-del-rally-de-marruecos",
+          "title": "Los argentinos disputan por un lugar en los podios del Rally de Marruecos",
+          "summary": "En la penúltima etapa Benavides se retrasó por una caída en Motos, Andújar descuenta en Challenger y González Ferioli mantiene la vanguardia en SSV. Ekström se impone en Autos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/los-argentinos-tienen-por-objetivo-estar-en-los-podios-del-rally-de-marruecos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-W2RC-FIA-Andujar-Frini.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T18:08:30.000Z",
+          "addedAt": "2026-10-02T19:06:32.267Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-marco-morelli-lidero-en-los-ensayos-japoneses-de-moto3",
           "title": "Marco Morelli lideró en los ensayos japoneses de Moto3",
           "summary": "Con la KTM de Aspar Team el piloto hispano argentino consiguió superar al local Yamanaka (MSI); Valentín Perrone quedó quinto con la unidad de Tech3.",
@@ -1249,21 +1294,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
-          "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
-          "summary": "Luego de la exclusión por técnica en Balcarce y la posterior determinación de la CAF de la ACTC, el entrerriano se expresó en el micrófono de Campeones. Además se refirió a la \"Copa de Oro\", al TC, Balcarce y más.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WernerMarianob261002.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T17:41:06.000Z",
-          "addedAt": "2026-10-02T17:57:42.098Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina",
           "title": "Daniel Herrero aclaró el programa deportivo de Mercedes-Benz en Argentina",
           "summary": "El CEO de Prestige Auto se refirió sobre el rumor de una posible expansión de la marca alemana hacia Turismo Competición 2000.",
@@ -1275,6 +1305,21 @@
           "language": "es",
           "publishedAt": "2026-09-29T18:31:58.000Z",
           "addedAt": "2026-10-02T17:57:45.353Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
+          "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
+          "summary": "Luego de la exclusión por técnica en Balcarce y la posterior determinación de la CAF de la ACTC, el entrerriano se expresó en el micrófono de Campeones. Además se refirió a la \"Copa de Oro\", al TC, Balcarce y más.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WernerMarianob261002.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T17:41:06.000Z",
+          "addedAt": "2026-10-02T17:57:42.098Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1382,7 +1427,13 @@
           "addedAt": "2026-10-02T17:57:42.543Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-03T18:11:36.437Z",
+      "items": [
         {
           "id": "campeones-com-ar-lucas-carabajal-festejo-en-el-zonda-su-primera-victoria-en-tc2000",
           "title": "Lucas Carabajal festejó en \"El Zonda\" su primera victoria en TC2000",
@@ -1412,13 +1463,7 @@
           "addedAt": "2026-10-02T17:57:45.987Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-03T17:11:36.477Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-wec-clasificacion-cancelada-en-fuji-por-condiciones-meteorologicas-adversas",
           "title": "WEC: clasificación cancelada en Fuji por condiciones meteorológicas adversas",
@@ -1533,7 +1578,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/were-definitely-in-the-fight-says-dunne-after-race-winning-baku-weekend.2pQoM3dwcZomeFagyCzlxe",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T17:11:31.084Z",
+          "publishedAt": "2026-10-03T18:11:30.715Z",
           "addedAt": "2026-10-03T09:12:03.358Z",
           "category": "support",
           "tag": "F2",
@@ -1548,7 +1593,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/it-was-much-more-than-a-win-says-tsolov-after-comeback-to-second-in-baku-feature-race-2.2L9LXZR8L2w3VyUV62twHr",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T17:11:31.084Z",
+          "publishedAt": "2026-10-03T18:11:30.715Z",
           "addedAt": "2026-10-03T09:12:03.358Z",
           "category": "support",
           "tag": "F2",
@@ -1563,7 +1608,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/joshua-duerksen-joins-hitech-for-2027-f2-season.66QvYilXZqpnjz9VRs9ITt",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T17:11:31.083Z",
+          "publishedAt": "2026-10-03T18:11:30.714Z",
           "addedAt": "2026-10-03T09:12:03.357Z",
           "category": "support",
           "tag": "F2",
@@ -1578,7 +1623,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/rodin-motorsport-confirms-reza-seewooruthun-for-2027-f3-season.3p1yGgEurpM8JoUgzAawV",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T17:11:31.382Z",
+          "publishedAt": "2026-10-03T18:11:30.896Z",
           "addedAt": "2026-10-03T09:12:03.451Z",
           "category": "support",
           "tag": "F3",
@@ -1593,23 +1638,23 @@
           "url": "https://www.fiaformula3.com/en/latest/article/fia-formula-3-announces-2026-post-season-tests-in-jerez-and-barcelona.2AC1GfYNm6D0HSbBtax1dr",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T17:11:31.382Z",
+          "publishedAt": "2026-10-03T18:11:30.896Z",
           "addedAt": "2026-10-03T09:12:03.450Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
         },
         {
-          "id": "www-fiaformula3-com-en-latest-article-brando-badoers-season-review-highlight-moments-and-bouncing-back-from-tough-rookie",
-          "title": "Brando Badoer's Season Review: Highlight moments and bouncing back from tough rookie year",
+          "id": "www-fiaformula3-com-en-latest-article-pedro-clerot-season-review-patience-adaptation-and-victory-2odfhzdqbhqjv5c9k3feje",
+          "title": "Pedro Clerot Season Review: Patience, adaptation and victory",
           "summary": "",
           "source": "Formula 3",
           "sourceLabel": "Formula 3",
-          "url": "https://www.fiaformula3.com/en/latest/article/brando-badoers-season-review-highlight-moments-and-bouncing-back-from-tough-rookie-year.5VzqnHtyRevib5jtSTsq9V",
+          "url": "https://www.fiaformula3.com/en/latest/article/pedro-clerot-season-review-patience-adaptation-and-victory.2OdfhzDqBHqJv5C9K3FEjE",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T17:11:31.383Z",
-          "addedAt": "2026-10-03T17:11:31.383Z",
+          "publishedAt": "2026-10-03T18:11:30.896Z",
+          "addedAt": "2026-10-03T18:11:30.896Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
@@ -1623,7 +1668,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T17:10:32.582Z",
+          "publishedAt": "2026-10-03T18:10:32.433Z",
           "addedAt": "2026-10-03T09:12:04.593Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1638,7 +1683,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T17:08:32.582Z",
+          "publishedAt": "2026-10-03T18:08:32.433Z",
           "addedAt": "2026-10-03T09:12:04.593Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1653,7 +1698,7 @@
           "url": "https://www.f1academy.com/Latest/03tr7bWH68PWgrzxw4iXY/chiara-baettig-to-represent-wella-professionals-as-f1-academy-wild-card-driver-at-silverstone",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T17:07:32.582Z",
+          "publishedAt": "2026-10-03T18:07:32.433Z",
           "addedAt": "2026-10-03T09:12:04.593Z",
           "category": "support",
           "tag": "F1 Academy",
