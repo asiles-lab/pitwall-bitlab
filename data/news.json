@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-03T20:11:28.953Z",
-  "checkedAt": "2026-10-03T20:11:28.953Z",
+  "updatedAt": "2026-10-03T21:11:29.702Z",
+  "checkedAt": "2026-10-03T21:11:29.702Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua",
+      "title": "Girolami le dio el '1' a Hyundai en una clasificación pasada por agua",
+      "summary": "El piloto de Isla Verde fue el más rápido en el primer corte de clasificación. La lluvia torrencial no permitió el normal desarrollo de la Q2, lo que se tradujo en \"pole\" del cordobés.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-HYUNDAI-e1791058796473.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-03T20:25:49.000Z",
+      "addedAt": "2026-10-03T21:11:31.442Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-eugenio-provens-por-1a-vez-al-tope-de-la-clasificacion-del-tc-pista",
       "title": "Eugenio Provens, por 1ª vez al tope de la clasificación del TC Pista",
@@ -328,7 +343,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-03T20:11:34.957Z",
+      "createdAt": "2026-10-03T21:11:35.925Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -406,6 +421,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
+          "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
+          "summary": "Debe cumplir con una penalización de 15 puestos con el Alpine, a bordo del cual el argentino pudo superar el primer corte clasificatorio en la pista de Sepang. La \"pole\" la logró Verstappen quien superó a Hamilton.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-box-Alpine.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T18:59:19.000Z",
+          "addedAt": "2026-10-03T18:11:30.466Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770-html",
           "title": "F1: hora y dónde ver en vivo la carrera de Colapinto en el GP de Malasia",
           "summary": "Este domingo durante la madrugada se disputa en el Circuito de Sepang la decimosexta fecha de la temporada 2026 de la Fórmula 1 con la presencia del piloto argentino con el equipo de Alpine.",
@@ -432,21 +462,6 @@
           "language": "es",
           "publishedAt": "2026-10-02T15:11:24.000Z",
           "addedAt": "2026-10-02T16:23:12.821Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
-          "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
-          "summary": "Debe cumplir con una penalización de 15 puestos con el Alpine, a bordo del cual el argentino pudo superar el primer corte clasificatorio en la pista de Sepang. La \"pole\" la logró Verstappen quien superó a Hamilton.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-box-Alpine.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T08:59:19.000Z",
-          "addedAt": "2026-10-03T18:11:30.466Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -604,7 +619,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-03T20:11:34.957Z",
+      "createdAt": "2026-10-03T21:11:35.925Z",
       "items": [
         {
           "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
@@ -620,21 +635,6 @@
           "addedAt": "2026-10-03T19:11:31.321Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-franco-colapinto-en-sepang-estamos-enfocados-en-la-carrera",
-          "title": "Franco Colapinto en Sepang: «Estamos enfocados en la carrera»",
-          "summary": "El piloto argentino repasó su labor con el Alpine en las dos prácticas que realizó en su primera visita a la pista de Sepang, y su objetivo para remontar posiciones el domingo en el GP de Bahrein.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/franco-colapinto-en-sepang-estamos-enfocados-en-la-carrera/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-F1-Colapinto-paddock.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T20:15:49.000Z",
-          "addedAt": "2026-10-02T17:57:42.281Z",
-          "category": "argentino",
-          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792-h",
@@ -663,6 +663,36 @@
           "language": "es",
           "publishedAt": "2026-09-29T16:59:01.000Z",
           "addedAt": "2026-10-02T16:23:12.957Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-baldoni-toma-el-comando-en-el-intermitente-rally-de-entre-rios",
+          "title": "Baldoni toma el comando en el intermitente Rally de Entre Ríos",
+          "summary": "La competencia, válida por la séptima fecha del campeonato argentino, debió reprogramar su primera etapa por los pronósticos de lluvia y cerró con un Súper Especial que dominó el puntano.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/baldoni-toma-el-comando-en-el-intermitente-rally-de-entre-rios/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-RallyArg-Baldoni.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T20:42:36.000Z",
+          "addedAt": "2026-10-03T21:11:31.488Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-franco-colapinto-en-sepang-estamos-enfocados-en-la-carrera",
+          "title": "Franco Colapinto en Sepang: «Estamos enfocados en la carrera»",
+          "summary": "El piloto argentino repasó su labor con el Alpine en las dos prácticas que realizó en su primera visita a la pista de Sepang, y su objetivo para remontar posiciones el domingo en el GP de Bahrein.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/franco-colapinto-en-sepang-estamos-enfocados-en-la-carrera/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-F1-Colapinto-paddock.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T20:15:49.000Z",
+          "addedAt": "2026-10-02T17:57:42.281Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -697,6 +727,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-ignacio-fain-logro-su-primera-pole-en-el-turismo-carretera-en-san-nicolas-id764227-html",
+          "title": "Ignacio Faín logró su primera pole en el Turismo Carretera en San Nicolás",
+          "summary": "El piloto de Villa Minetti fue el más rápido de la clasificación con el Torino del Trotta Racing. Otto Fritzler y Julián Santero completaron los tres primeros.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/ignacio-fain-logro-su-primera-pole-en-el-turismo-carretera-en-san-nicolas-id764227.html",
+          "image": "https://media.tycsports.com/files/2026/10/03/992643/fain-sorprendio-en-san-nicolas-y-consiguio-su-primera-pole-en-el-tc_1440x810.webp?v=1",
+          "body": "El piloto de Villa Minetti fue el más rápido de la clasificación con el Torino del Trotta Racing. Otto Fritzler y Julián Santero completaron los tres primeros.\n\nEl santafesino fue el más rápido de la clasificación con el Torino del Trotta Racing y superó a Otto Fritzler y Julián Santero. + Seguinos en Ignacio Faín tuvo una tarde inolvidable en San Nicolás y se quedó con la pole position del Turismo Carretera, en el marco de la 12ª fecha de la temporada.\n\nEl piloto de Villa Minetti, a bordo del Torino del Trotta Racing, marcó un tiempo de 1:26.047 y consiguió de esta manera su primera pole dentro de la categoría.\n\nLa clasificación comenzó con Diego Azar como primera referencia importante, luego de establecer un registro de 1:26.456. Sin embargo, el panorama cambió cuando salieron a pista los principales protagonistas de la Copa de Oro.\n\nOtto Fritzler fue uno de los primeros en bajar el tiempo de Azar y se colocó al frente con 1:26.341, pero poco después apareció Faín para marcar la vuelta que terminaría siendo definitiva.",
+          "language": "es",
+          "publishedAt": "2026-10-03T20:12:36.000Z",
+          "addedAt": "2026-10-03T21:11:31.686Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-gasly-declaraciones-incidente-colapinto-f1-id763788-html",
           "title": "Pierre Gasly dejó atrás el incidente con Franco Colapinto: “Ya está todo bien entre nosotros”",
           "summary": "El francés explicó que no quedaron rispideces con su compañero de equipo luego del choque del último sábado en Azerbaiyán y apuntó a trabajar en conjunto para lo que viene. “Nos necesitamos mutuamente”, aseguró.",
@@ -723,21 +768,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T19:57:35.000Z",
           "addedAt": "2026-10-03T20:11:30.535Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-podios-argentinos-en-el-rally-raid-de-marruecos",
-          "title": "Podios argentinos en el Rally Raid de Marruecos",
-          "summary": "Manuel Andújar fue 3.° en el debut en Challenger T3 con Andrés Frini; González Ferioli y Rinaldi se retrasaron y finalizaron 3.° en SSV y L. Benavides terminó 4.° en Motos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/podios-argentinos-en-el-rally-raid-de-marruecos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-W2RC-FIA-Andujar-Frini-Marruecos.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T17:26:14.000Z",
-          "addedAt": "2026-10-03T18:11:30.634Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -802,6 +832,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-podios-argentinos-en-el-rally-raid-de-marruecos",
+          "title": "Podios argentinos en el Rally Raid de Marruecos",
+          "summary": "Manuel Andújar fue 3.° en el debut en Challenger T3 con Andrés Frini; González Ferioli y Rinaldi se retrasaron y finalizaron 3.° en SSV y L. Benavides terminó 4.° en Motos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/podios-argentinos-en-el-rally-raid-de-marruecos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-W2RC-FIA-Andujar-Frini-Marruecos.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T17:26:14.000Z",
+          "addedAt": "2026-10-03T18:11:30.634Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-cuarta-pole-de-lautaro-videla-en-la-formula-2-argentina",
           "title": "Cuarta “pole” de Lautaro Videla en la Fórmula 2 Argentina | Campeones",
           "summary": "En San Nicolás, la pista se secó y el pampeano, líder del torneo, se quedó con lo mejor. Franco Ledesma e Ignacio Monti cerraron el “top” 3.",
@@ -845,58 +890,13 @@
           "addedAt": "2026-10-03T19:11:31.070Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina",
-          "title": "El más rápido de las prácticas fue Lautaro Videla en la Fórmula 2 Argentina | Campeones",
-          "summary": "La mañana de San Nicolás se abrió con un fuerte diluvio, pero los monoplazas giraron sin mayores inconvenientes, con Franco Ledesma arriba en la primera tanda y el pampeano en la segunda.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9709.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T07:57:31.000Z",
-          "addedAt": "2026-10-03T14:11:27.611Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-atencion-argentina-ciudad-del-cabo-avanza-para-tener-la-formula-1",
-          "title": "Atención Argentina: Ciudad del Cabo avanza para tener la Fórmula 1 | Campeones",
-          "summary": "El proyecto para que dicha ciudad reciba el retorno de Sudáfrica al Mundial tuvo un importante paso adelante con la asociación de sus responsables con un grupo económico que ayudará a financiar este Gran Premio que compite con Argentina para entrar en el próximo calendario.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/atencion-argentina-ciudad-del-cabo-avanza-para-tener-la-formula-1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/cape-town-gp-layou.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-09-30T12:51:37.000Z",
-          "addedAt": "2026-10-02T17:57:42.339Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-03T20:11:34.957Z",
+      "createdAt": "2026-10-03T21:11:35.925Z",
       "items": [
-        {
-          "id": "campeones-com-ar-tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas",
-          "title": "TC Pista: Maceira se quedó con el ensayo final en San Nicolás",
-          "summary": "El piloto del Catalán Magni Motorsport, que no pudo largar la Final en San Luis y llegó a poner en duda su presencia en esta 2ª fecha de la Copa de Plata 2026, marcó el mejor tiempo en una pista en la que se bajaron los tiempos en casi 13 segundos respecto de la primera práctica.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Maceira-TCP-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T17:19:06.000Z",
-          "addedAt": "2026-10-03T18:11:30.923Z",
-          "category": "general",
-          "tag": "F1"
-        },
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -913,19 +913,19 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi",
-          "title": "El cierre del campeonato de F1 será en Qatar y Abu Dhabi",
-          "summary": "Stefano Domenicali confirmó que la temporada culminará en las carreras de Medio Oriente, en donde dispone de \"garantías\" para desarrollar ambos Grandes Premios.",
+          "id": "campeones-com-ar-tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas",
+          "title": "TC Pista: Maceira se quedó con el ensayo final en San Nicolás",
+          "summary": "El piloto del Catalán Magni Motorsport, que no pudo largar la Final en San Luis y llegó a poner en duda su presencia en esta 2ª fecha de la Copa de Plata 2026, marcó el mejor tiempo en una pista en la que se bajaron los tiempos en casi 13 segundos respecto de la primera práctica.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Qatar-e1791015491652.jpg",
+          "url": "https://campeones.com.ar/tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Maceira-TCP-2026.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-03T08:16:57.000Z",
-          "addedAt": "2026-10-03T09:12:03.399Z",
+          "publishedAt": "2026-10-03T17:19:06.000Z",
+          "addedAt": "2026-10-03T18:11:30.923Z",
           "category": "general",
-          "tag": "Carrera"
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
@@ -958,19 +958,19 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
-          "title": "Campeones Clasificación con el TC desde San Nicolás",
-          "summary": "No te pierdas los detalles de la 12.ª fecha de la categoría más popular del automovilismo nacional y los detalles de la actividad en el circuito nicoleño, por nuestras plataformas y AM590 Continental.",
+          "id": "campeones-com-ar-el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi",
+          "title": "El cierre del campeonato de F1 será en Qatar y Abu Dhabi",
+          "summary": "Stefano Domenicali confirmó que la temporada culminará en las carreras de Medio Oriente, en donde dispone de \"garantías\" para desarrollar ambos Grandes Premios.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/este-sabado-campeones-clasificacion-con-el-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/03/Campeones-Clasificacion.jpg",
+          "url": "https://campeones.com.ar/el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Qatar-e1791015491652.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-03T17:50:50.000Z",
-          "addedAt": "2026-10-02T17:57:42.409Z",
+          "publishedAt": "2026-10-03T08:16:57.000Z",
+          "addedAt": "2026-10-03T09:12:03.399Z",
           "category": "general",
-          "tag": "F1"
+          "tag": "Carrera"
         },
         {
           "id": "www-tycsports-com-automovilismo-desopilante-jugada-de-briatore-engano-a-todos-los-periodistas-de-la-f1-con-una-hoja-en-b",
@@ -1001,6 +1001,21 @@
           "addedAt": "2026-10-03T15:11:35.641Z",
           "category": "general",
           "tag": "Previa"
+        },
+        {
+          "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
+          "title": "Campeones Clasificación con el TC desde San Nicolás",
+          "summary": "No te pierdas los detalles de la 12.ª fecha de la categoría más popular del automovilismo nacional y los detalles de la actividad en el circuito nicoleño, por nuestras plataformas y AM590 Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/este-sabado-campeones-clasificacion-con-el-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/03/Campeones-Clasificacion.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T10:50:50.000Z",
+          "addedAt": "2026-10-02T17:57:42.409Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-motogp-en-motegi-marc-marquez-le-gano-otro-sprint-a-martin",
@@ -1156,7 +1171,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-03T20:11:34.957Z",
+      "createdAt": "2026-10-03T21:11:35.925Z",
       "items": [
         {
           "id": "campeones-com-ar-cambios-en-el-cronograma-habitual-del-turismo-carretera",
@@ -1232,6 +1247,36 @@
           "addedAt": "2026-10-02T17:57:42.622Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina",
+          "title": "El más rápido de las prácticas fue Lautaro Videla en la Fórmula 2 Argentina | Campeones",
+          "summary": "La mañana de San Nicolás se abrió con un fuerte diluvio, pero los monoplazas giraron sin mayores inconvenientes, con Franco Ledesma arriba en la primera tanda y el pampeano en la segunda.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9709.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T07:57:31.000Z",
+          "addedAt": "2026-10-03T14:11:27.611Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-atencion-argentina-ciudad-del-cabo-avanza-para-tener-la-formula-1",
+          "title": "Atención Argentina: Ciudad del Cabo avanza para tener la Fórmula 1 | Campeones",
+          "summary": "El proyecto para que dicha ciudad reciba el retorno de Sudáfrica al Mundial tuvo un importante paso adelante con la asociación de sus responsables con un grupo económico que ayudará a financiar este Gran Premio que compite con Argentina para entrar en el próximo calendario.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/atencion-argentina-ciudad-del-cabo-avanza-para-tener-la-formula-1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/cape-town-gp-layou.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-09-30T12:51:37.000Z",
+          "addedAt": "2026-10-02T17:57:42.339Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-tc-en-san-nicolas-el-torino-de-fain-prevalecio-en-la-dispar-ultima-practica",
@@ -1397,7 +1442,13 @@
           "addedAt": "2026-10-02T17:57:42.540Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-03T21:11:35.925Z",
+      "items": [
         {
           "id": "campeones-com-ar-de-familia-fierrera-y-con-su-hermano-de-referente-bautista-panetta-tiene-una-cita-mundialista",
           "title": "De familia fierrera y con su hermano de referente, Bautista Panetta tiene una cita mundialista | Campeones",
@@ -1427,13 +1478,7 @@
           "addedAt": "2026-10-02T17:57:42.586Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-03T20:11:34.957Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen",
           "title": "TN: el balance de Santero tras las pruebas en el Cabalén | Campeones",
@@ -1638,7 +1683,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/were-definitely-in-the-fight-says-dunne-after-race-winning-baku-weekend.2pQoM3dwcZomeFagyCzlxe",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T20:11:31.511Z",
+          "publishedAt": "2026-10-03T21:11:31.574Z",
           "addedAt": "2026-10-03T09:12:03.358Z",
           "category": "support",
           "tag": "F2",
@@ -1653,7 +1698,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/it-was-much-more-than-a-win-says-tsolov-after-comeback-to-second-in-baku-feature-race-2.2L9LXZR8L2w3VyUV62twHr",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T20:11:31.511Z",
+          "publishedAt": "2026-10-03T21:11:31.574Z",
           "addedAt": "2026-10-03T09:12:03.358Z",
           "category": "support",
           "tag": "F2",
@@ -1668,41 +1713,11 @@
           "url": "https://www.fiaformula2.com/en/latest/article/joshua-duerksen-joins-hitech-for-2027-f2-season.66QvYilXZqpnjz9VRs9ITt",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T20:11:31.511Z",
+          "publishedAt": "2026-10-03T21:11:31.573Z",
           "addedAt": "2026-10-03T09:12:03.357Z",
           "category": "support",
           "tag": "F2",
           "series": "F2"
-        },
-        {
-          "id": "www-fiaformula3-com-en-latest-article-rodin-motorsport-confirms-reza-seewooruthun-for-2027-f3-season-3p1yggeurpm8jougzaa",
-          "title": "Rodin Motorsport confirms Reza Seewooruthun for 2027 F3 season",
-          "summary": "",
-          "source": "Formula 3",
-          "sourceLabel": "Formula 3",
-          "url": "https://www.fiaformula3.com/en/latest/article/rodin-motorsport-confirms-reza-seewooruthun-for-2027-f3-season.3p1yGgEurpM8JoUgzAawV",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-03T20:11:31.314Z",
-          "addedAt": "2026-10-03T09:12:03.451Z",
-          "category": "support",
-          "tag": "F3",
-          "series": "F3"
-        },
-        {
-          "id": "www-fiaformula3-com-en-latest-article-fia-formula-3-announces-2026-post-season-tests-in-jerez-and-barcelona-2ac1gfynm6d0",
-          "title": "FIA Formula 3 announces 2026 post-season tests in Jerez and Barcelona",
-          "summary": "",
-          "source": "Formula 3",
-          "sourceLabel": "Formula 3",
-          "url": "https://www.fiaformula3.com/en/latest/article/fia-formula-3-announces-2026-post-season-tests-in-jerez-and-barcelona.2AC1GfYNm6D0HSbBtax1dr",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-03T20:11:31.314Z",
-          "addedAt": "2026-10-03T09:12:03.450Z",
-          "category": "support",
-          "tag": "F3",
-          "series": "F3"
         }
       ]
     }
