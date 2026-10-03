@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-03T01:03:45.721Z",
-  "checkedAt": "2026-10-03T01:03:45.721Z",
+  "updatedAt": "2026-10-03T03:27:52.565Z",
+  "checkedAt": "2026-10-03T03:27:52.565Z",
   "pageSize": 18,
   "sources": [
     {
@@ -358,7 +358,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-03T01:03:56.364Z",
+      "createdAt": "2026-10-03T03:28:03.507Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
@@ -601,21 +601,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-colapinto-tambien-recibe-mensajes-de-odio-en-las-redes-nadie-habla-nunca-de-eso",
-          "title": "Colapinto advirtió que él también recibe mensajes de odio en las redes: \"Nadie habla nunca de eso\"",
-          "summary": "Franco Colapinto señaló que el odio no llega solamente desde Argentina y que él mismo es víctima de muchos mensajes que nadie visibiliza.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-tambien-recibe-mensajes-de-odio-en-las-redes-nadie-habla-nunca-de-eso/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260912-F1-Franco-Colapinto.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T02:43:26.000Z",
-          "addedAt": "2026-10-02T17:57:42.670Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-scaloni-se-junto-con-un-piloto-argentino-y-recibio-un-regalo-especial-se-sube-a-un-tc-id",
           "title": "Scaloni se juntó con un piloto argentino y recibió un regalo especial: ¿Se sube a un TC?",
           "summary": "En el día posterior a la goleada ante Bolivia, el entrenador de la Selección Argentina se reunió con varias personalidades del automovilismo y, además, se llevó un traje personalizado con su camiseta número 18.",
@@ -629,13 +614,7 @@
           "addedAt": "2026-10-02T17:54:07.677Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-03T01:03:56.364Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-gasly-declaraciones-incidente-colapinto-f1-id763788-html",
           "title": "Pierre Gasly dejó atrás el incidente con Franco Colapinto: “Ya está todo bien entre nosotros”",
@@ -650,7 +629,13 @@
           "addedAt": "2026-10-02T16:23:12.895Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-03T03:28:03.507Z",
+      "items": [
         {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
           "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
@@ -663,6 +648,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T21:35:36.000Z",
           "addedAt": "2026-10-02T22:34:53.320Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-tambien-recibe-mensajes-de-odio-en-las-redes-nadie-habla-nunca-de-eso",
+          "title": "Colapinto advirtió que él también recibe mensajes de odio en las redes: \"Nadie habla nunca de eso\"",
+          "summary": "Franco Colapinto señaló que el odio no llega solamente desde Argentina y que él mismo es víctima de muchos mensajes que nadie visibiliza.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-tambien-recibe-mensajes-de-odio-en-las-redes-nadie-habla-nunca-de-eso/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260912-F1-Franco-Colapinto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T02:43:26.000Z",
+          "addedAt": "2026-10-02T17:57:42.670Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -817,21 +817,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-fain-con-el-objetivo-de-completar-2026-y-analizar-su-futuro-en-tc",
-          "title": "Fain con el objetivo de completar 2026 y analizar su futuro en TC",
-          "summary": "El piloto de Villa Minetti (Santa Fe) quiere ser protagonista en San Nicolás con el Torino de Trotta Racing e intentar sumar fuerte en la \"Copa de Oro RUS\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fain-con-el-objetivo-de-completar-2026-y-analizar-su-futuro-en-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2610021-TC-Fain.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T02:10:15.000Z",
-          "addedAt": "2026-10-02T17:57:42.586Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina",
           "title": "Daniel Herrero aclaró el programa deportivo de Mercedes-Benz en Argentina",
           "summary": "El CEO de Prestige Auto se refirió sobre el rumor de una posible expansión de la marca alemana hacia Turismo Competición 2000.",
@@ -843,6 +828,21 @@
           "language": "es",
           "publishedAt": "2026-09-29T18:31:58.000Z",
           "addedAt": "2026-10-02T17:57:45.353Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-fain-con-el-objetivo-de-completar-2026-y-analizar-su-futuro-en-tc",
+          "title": "Fain con el objetivo de completar 2026 y analizar su futuro en TC",
+          "summary": "El piloto de Villa Minetti (Santa Fe) quiere ser protagonista en San Nicolás con el Torino de Trotta Racing e intentar sumar fuerte en la \"Copa de Oro RUS\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fain-con-el-objetivo-de-completar-2026-y-analizar-su-futuro-en-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2610021-TC-Fain.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T02:10:15.000Z",
+          "addedAt": "2026-10-02T17:57:42.586Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -910,23 +910,8 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-03T01:03:56.364Z",
+      "createdAt": "2026-10-03T03:28:03.507Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-desopilante-jugada-de-briatore-engano-a-todos-los-periodistas-de-la-f1-con-una-hoja-en-b",
-          "title": "Desopilante jugada de Briatore: engañó a todos los periodistas de la F1 con una hoja en blanco",
-          "summary": "El jefe de Alpine, que hace un mes apareció en una rueda de prensa con una hoja y denunció a McLaren por sobornar a un juez que sancionó a Gasly, volvió a salir a escena con un papel, pero esta vez fue para distraer.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/desopilante-jugada-de-briatore-engano-a-todos-los-periodistas-de-la-f1-con-una-hoja-en-blanco-id763998.html",
-          "image": "https://media.tycsports.com/files/2026/10/02/992300/briatore_862x485.webp?v=3",
-          "body": "El jefe de Alpine, que hace un mes apareció en una rueda de prensa con una hoja y denunció a McLaren por sobornar a un juez que sancionó a Gasly, volvió a salir a escena con un papel, pero esta vez fue para distraer.\n\nF1: hora y dónde ver en vivo la clasificación de Colapinto en el GP de Malasia 02/10/2026 12:01 pm Briatore muestra el papel con el que se presentó a la rueda de prensa de los jefes de equipo + Seguinos en El jefe de equipo de Alpine, el italiano Flavio Briatore, volvió a desplegar su histrionismo en una de las clásicas ruedas de prensa antes de cada Gran Premio cuando se presentó a hablar con los periodistas con una hoja en la mano . A pocos días del accidente que protagonizó Franco Colapinto, que también le costó dejar la carrera a su compañero de escudería, Pierre Gasly , todos esperaban que la hoja con la que apareció el hombre fuerte del equipo francés estuviera relacionada a eso. Pero al final era tan solo ¡un papel en blanco!\n\nEl directivo de 76 años mostró que llevaba consigo una hoja doblada cuando apareció frente a los medios en la previa al Gran Premio de Bahréin, que se correrá en Malasia. Estaba acompañado por sus pares de Williams, James Wolves, y de Ferrari, Frédéric Vasseur. Sin embargo, la dejó a un costado y durante la conferencia los temas abordados fueron la realización de la carrera en Malasia, el choque del piloto argentino el fin de semana pasado en Azerbaiyán, el mano a mano con Racing Bulls por el quinto lugar del Campeonato, entre otros, y nadie le consultó por la hoja.\n\nSi bien se refirió al caso del pilarense, solo dijo: “Estaba muy decepcionado con lo que pasó en Bakú, pero esta es otra carrera. Hay que olvidarlo” . Al terminar la rueda de prensa, Briatore se levantó y se marchó, pero dejó el papel en el asiento . Y, minutos de",
-          "language": "es",
-          "publishedAt": "2026-10-02T15:01:28.000Z",
-          "addedAt": "2026-10-02T16:23:12.760Z",
-          "category": "general",
-          "tag": "F1"
-        },
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -939,6 +924,21 @@
           "language": "es",
           "publishedAt": "2026-09-30T22:03:28.000Z",
           "addedAt": "2026-10-02T17:54:07.788Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-desopilante-jugada-de-briatore-engano-a-todos-los-periodistas-de-la-f1-con-una-hoja-en-b",
+          "title": "Desopilante jugada de Briatore: engañó a todos los periodistas de la F1 con una hoja en blanco",
+          "summary": "El jefe de Alpine, que hace un mes apareció en una rueda de prensa con una hoja y denunció a McLaren por sobornar a un juez que sancionó a Gasly, volvió a salir a escena con un papel, pero esta vez fue para distraer.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/desopilante-jugada-de-briatore-engano-a-todos-los-periodistas-de-la-f1-con-una-hoja-en-blanco-id763998.html",
+          "image": "https://media.tycsports.com/files/2026/10/02/992300/briatore_862x485.webp?v=3",
+          "body": "El jefe de Alpine, que hace un mes apareció en una rueda de prensa con una hoja y denunció a McLaren por sobornar a un juez que sancionó a Gasly, volvió a salir a escena con un papel, pero esta vez fue para distraer.\n\nF1: hora y dónde ver en vivo la clasificación de Colapinto en el GP de Malasia 02/10/2026 12:01 pm Briatore muestra el papel con el que se presentó a la rueda de prensa de los jefes de equipo + Seguinos en El jefe de equipo de Alpine, el italiano Flavio Briatore, volvió a desplegar su histrionismo en una de las clásicas ruedas de prensa antes de cada Gran Premio cuando se presentó a hablar con los periodistas con una hoja en la mano . A pocos días del accidente que protagonizó Franco Colapinto, que también le costó dejar la carrera a su compañero de escudería, Pierre Gasly , todos esperaban que la hoja con la que apareció el hombre fuerte del equipo francés estuviera relacionada a eso. Pero al final era tan solo ¡un papel en blanco!\n\nEl directivo de 76 años mostró que llevaba consigo una hoja doblada cuando apareció frente a los medios en la previa al Gran Premio de Bahréin, que se correrá en Malasia. Estaba acompañado por sus pares de Williams, James Wolves, y de Ferrari, Frédéric Vasseur. Sin embargo, la dejó a un costado y durante la conferencia los temas abordados fueron la realización de la carrera en Malasia, el choque del piloto argentino el fin de semana pasado en Azerbaiyán, el mano a mano con Racing Bulls por el quinto lugar del Campeonato, entre otros, y nadie le consultó por la hoja.\n\nSi bien se refirió al caso del pilarense, solo dijo: “Estaba muy decepcionado con lo que pasó en Bakú, pero esta es otra carrera. Hay que olvidarlo” . Al terminar la rueda de prensa, Briatore se levantó y se marchó, pero dejó el papel en el asiento . Y, minutos de",
+          "language": "es",
+          "publishedAt": "2026-10-02T15:01:28.000Z",
+          "addedAt": "2026-10-02T16:23:12.760Z",
           "category": "general",
           "tag": "F1"
         },
@@ -956,6 +956,36 @@
           "addedAt": "2026-10-02T17:57:42.858Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-tcr-wt-azcona-se-quedo-con-la-pole-y-michelisz-cerro-el-1-2-de-hyundai",
+          "title": "TCR WT: Azcona se quedó con la “pole” y Michelisz cerró el “1-2” de Hyundai | Campeones",
+          "summary": "La categoría visita Corea del Sur tras casi tres meses de inactividad y en el comienzo de su gira asiática.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tcr-wt-azcona-se-quedo-con-la-pole-y-michelisz-cerro-el-1-2-de-hyundai/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9705.png",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T03:04:32.000Z",
+          "addedAt": "2026-10-03T03:27:57.539Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-gp-de-japon-martin-resistio-y-logro-otra-pole-en-motogp",
+          "title": "GP de Japón: Martín resistió y logró otra \"pole\" en MotoGP",
+          "summary": "El madrileño consiguió establecer el mejor tiempo con la Aprilia en la clasificación de Motegi, superando las Ducati de Marc Márquez y a la KTM de Pedro Acosta.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/gp-de-japon-martin-resistio-y-logro-otra-pole-en-motogp/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-MotoGP-Martin-Japon.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T02:57:15.000Z",
+          "addedAt": "2026-10-03T03:27:57.768Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-esteba-ocon-piloto-formula-1-salida-escuderia-final-temporada-id763605-html",
@@ -1018,21 +1048,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
-          "title": "Campeones Clasificación con el TC desde San Nicolás",
-          "summary": "No te pierdas los detalles de la 12.ª fecha de la categoría más popular del automovilismo nacional y los detalles de la actividad en el circuito nicoleño, por nuestras plataformas y AM590 Continental.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/este-sabado-campeones-clasificacion-con-el-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/03/Campeones-Clasificacion.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T13:50:50.000Z",
-          "addedAt": "2026-10-02T17:57:42.409Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-fernando-alonso-definio-su-futuro-en-la-f1-formula-1-id763464-html",
           "title": "Fernando Alonso definió su futuro en la Fórmula 1",
           "summary": "El dos veces campeón del mundo y el piloto canadiense seguirán compartiendo el equipo por quinto año consecutivo.",
@@ -1061,6 +1076,21 @@
           "addedAt": "2026-10-02T17:57:47.194Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
+          "title": "Campeones Clasificación con el TC desde San Nicolás",
+          "summary": "No te pierdas los detalles de la 12.ª fecha de la categoría más popular del automovilismo nacional y los detalles de la actividad en el circuito nicoleño, por nuestras plataformas y AM590 Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/este-sabado-campeones-clasificacion-con-el-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/03/Campeones-Clasificacion.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T13:50:50.000Z",
+          "addedAt": "2026-10-02T17:57:42.409Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-tcr-south-america-cumple-100-carreras-el-proximo-fin-de-semana-en-posadas",
@@ -1151,7 +1181,13 @@
           "addedAt": "2026-10-02T17:57:42.622Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-03T03:28:03.507Z",
+      "items": [
         {
           "id": "campeones-com-ar-lucas-carabajal-festejo-en-el-zonda-su-primera-victoria-en-tc2000",
           "title": "Lucas Carabajal festejó en \"El Zonda\" su primera victoria en TC2000",
@@ -1181,13 +1217,7 @@
           "addedAt": "2026-10-02T17:57:45.987Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-03T01:03:56.364Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-wec-clasificacion-cancelada-en-fuji-por-condiciones-meteorologicas-adversas",
           "title": "WEC: clasificación cancelada en Fuji por condiciones meteorológicas adversas",
@@ -1249,21 +1279,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "www-fiaformula2-com-en-latest-article-it-was-much-more-than-a-win-says-tsolov-after-comeback-to-second-in-baku-feature-r",
-          "title": "‘It was much more than a win’ says Tsolov after comeback to second in Baku Feature Race 2",
-          "summary": "",
-          "source": "Formula 2",
-          "sourceLabel": "Formula 2",
-          "url": "https://www.fiaformula2.com/en/latest/article/it-was-much-more-than-a-win-says-tsolov-after-comeback-to-second-in-baku-feature-race-2.2L9LXZR8L2w3VyUV62twHr",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-03T01:03:50.798Z",
-          "addedAt": "2026-10-02T16:40:38.141Z",
-          "category": "support",
-          "tag": "F2",
-          "series": "F2"
-        },
-        {
           "id": "www-fiaformula2-com-en-latest-article-were-definitely-in-the-fight-says-dunne-after-race-winning-baku-weekend-2pqom3dwcz",
           "title": "‘We’re definitely in the fight’ says Dunne after race-winning Baku weekend",
           "summary": "",
@@ -1272,7 +1287,22 @@
           "url": "https://www.fiaformula2.com/en/latest/article/were-definitely-in-the-fight-says-dunne-after-race-winning-baku-weekend.2pQoM3dwcZomeFagyCzlxe",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T01:03:50.797Z",
+          "publishedAt": "2026-10-03T03:27:57.912Z",
+          "addedAt": "2026-10-02T16:40:38.141Z",
+          "category": "support",
+          "tag": "F2",
+          "series": "F2"
+        },
+        {
+          "id": "www-fiaformula2-com-en-latest-article-it-was-much-more-than-a-win-says-tsolov-after-comeback-to-second-in-baku-feature-r",
+          "title": "‘It was much more than a win’ says Tsolov after comeback to second in Baku Feature Race 2",
+          "summary": "",
+          "source": "Formula 2",
+          "sourceLabel": "Formula 2",
+          "url": "https://www.fiaformula2.com/en/latest/article/it-was-much-more-than-a-win-says-tsolov-after-comeback-to-second-in-baku-feature-race-2.2L9LXZR8L2w3VyUV62twHr",
+          "image": "",
+          "language": "en",
+          "publishedAt": "2026-10-03T03:27:57.912Z",
           "addedAt": "2026-10-02T16:40:38.141Z",
           "category": "support",
           "tag": "F2",
@@ -1287,7 +1317,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/joshua-duerksen-joins-hitech-for-2027-f2-season.66QvYilXZqpnjz9VRs9ITt",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T01:03:50.797Z",
+          "publishedAt": "2026-10-03T03:27:57.912Z",
           "addedAt": "2026-10-02T16:50:13.398Z",
           "category": "support",
           "tag": "F2",
@@ -1302,7 +1332,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/rodin-motorsport-confirms-reza-seewooruthun-for-2027-f3-season.3p1yGgEurpM8JoUgzAawV",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T01:03:50.806Z",
+          "publishedAt": "2026-10-03T03:27:57.797Z",
           "addedAt": "2026-10-02T16:40:38.575Z",
           "category": "support",
           "tag": "F3",
@@ -1317,23 +1347,23 @@
           "url": "https://www.fiaformula3.com/en/latest/article/fia-formula-3-announces-2026-post-season-tests-in-jerez-and-barcelona.2AC1GfYNm6D0HSbBtax1dr",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T01:03:50.806Z",
+          "publishedAt": "2026-10-03T03:27:57.797Z",
           "addedAt": "2026-10-02T16:50:13.396Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
         },
         {
-          "id": "www-fiaformula3-com-en-latest-article-maciej-gladysz-season-review-maiden-win-and-important-lessons-learned-umvplbkrgsb7",
-          "title": "Maciej Gladysz Season Review: Maiden win and important lessons learned",
+          "id": "www-fiaformula3-com-en-latest-article-noah-stromsted-season-review-improvements-and-opportunities-58vhlxmjofl3wew42bs0kq",
+          "title": "Noah Stromsted Season Review: Improvements and opportunities",
           "summary": "",
           "source": "Formula 3",
           "sourceLabel": "Formula 3",
-          "url": "https://www.fiaformula3.com/en/latest/article/maciej-gladysz-season-review-maiden-win-and-important-lessons-learned.UMVplbkRGsB7MKjQAeN6e",
+          "url": "https://www.fiaformula3.com/en/latest/article/noah-stromsted-season-review-improvements-and-opportunities.58VHLXMjOFL3Wew42bs0Kq",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T01:03:50.806Z",
-          "addedAt": "2026-10-03T01:03:50.806Z",
+          "publishedAt": "2026-10-03T03:27:57.797Z",
+          "addedAt": "2026-10-03T03:27:57.797Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
@@ -1347,7 +1377,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T01:02:53.433Z",
+          "publishedAt": "2026-10-03T03:26:59.708Z",
           "addedAt": "2026-10-02T16:43:18.002Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1362,7 +1392,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T01:00:53.433Z",
+          "publishedAt": "2026-10-03T03:24:59.708Z",
           "addedAt": "2026-10-02T16:43:18.002Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1377,7 +1407,7 @@
           "url": "https://www.f1academy.com/Latest/03tr7bWH68PWgrzxw4iXY/chiara-baettig-to-represent-wella-professionals-as-f1-academy-wild-card-driver-at-silverstone",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-03T00:59:53.433Z",
+          "publishedAt": "2026-10-03T03:23:59.708Z",
           "addedAt": "2026-10-02T16:43:18.002Z",
           "category": "support",
           "tag": "F1 Academy",
