@@ -2,14 +2,21 @@ const API_BASE = "https://api.openf1.org/v1";
 const ACTIVE_REFRESH_MS = 2000;
 const IDLE_REFRESH_MS = 300000;
 const SESSION_REFRESH_MS = 60000;
-const CONTEXT_REFRESH_MS = 15000;
+const AUTH_RETRY_MS = 60000;
+const CONTEXT_REFRESH_MS = 30000;
 const OPENF1_REQUEST_GAP_MS = 450;
 const STREAM_WINDOW_MINUTES = 18;
 const SESSION_GRACE_MS = 45000;
+const SESSION_OVERRUN_WINDOW_MS = 90 * 60 * 1000;
+const LIVE_SIGNAL_WINDOW_MS = 2 * 60 * 1000;
 const FAST_ENDPOINT_ROTATION = [
-  ["position", "intervals", "car_data"],
-  ["position", "intervals", "location"],
-  ["position", "intervals", "race_control"],
+  ["position"],
+  ["intervals"],
+  ["position"],
+  ["car_data"],
+  ["intervals"],
+  ["location"],
+  ["race_control"],
 ];
 
 const els = {
@@ -19,6 +26,10 @@ const els = {
   sessionMetric: document.querySelector("#sessionMetric"),
   sessionFlag: document.querySelector("#sessionFlag"),
   liveStandby: document.querySelector("#liveStandby"),
+  openF1Notice: document.querySelector("#openF1Notice"),
+  openF1NoticeTitle: document.querySelector("#openF1NoticeTitle"),
+  openF1NoticeText: document.querySelector("#openF1NoticeText"),
+  noticeSettingsBtn: document.querySelector("#noticeSettingsBtn"),
   trackMetric: document.querySelector("#trackMetric"),
   trackCountryFlag: document.querySelector("#trackCountryFlag"),
   trackName: document.querySelector("#trackName"),
@@ -181,6 +192,7 @@ const state = {
   finalSnapshotKey: "",
   contextSessionKey: "",
   liveCache: null,
+  authRequired: false,
   latestLocations: [],
   drivers: new Map(),
   lastPayload: null,
@@ -226,7 +238,8 @@ function delay(ms) {
 
 function streamWindowStart(session) {
   const end = normalizeDate(session?.date_end);
-  const anchor = end && end < Date.now() ? end : Date.now();
+  const now = Date.now();
+  const anchor = end && now - end > SESSION_OVERRUN_WINDOW_MS ? end : now;
   return new Date(anchor - STREAM_WINDOW_MINUTES * 60 * 1000).toISOString();
 }
 
@@ -259,6 +272,24 @@ function makeEmptyPayload(session = null) {
 
 function sessionId(session) {
   return String(session?.session_key || "latest");
+}
+
+function freshestTelemetryAt(payload) {
+  const records = [
+    lastRecord(payload?.carData),
+    lastRecord(payload?.locations),
+    lastRecord(payload?.intervals),
+    lastRecord(payload?.positions),
+    lastRecord(payload?.laps),
+    lastRecord(payload?.weather),
+    lastRecord(payload?.raceControl),
+  ].filter(Boolean);
+  return records.length ? Math.max(...records.map((item) => normalizeDate(item.date || item.date_start))) : 0;
+}
+
+function hasRecentTelemetry(payload, now = Date.now()) {
+  const freshest = freshestTelemetryAt(payload);
+  return Boolean(freshest && now - freshest <= LIVE_SIGNAL_WINDOW_MS);
 }
 
 function replaceCache(partial = {}) {
@@ -519,7 +550,10 @@ async function fetchOpenF1(endpoint, params = {}) {
     }
     if (!response.ok) {
       const detail = await response.text().catch(() => "");
-      throw new Error(`${endpoint}: ${response.status} ${detail.slice(0, 90)}`);
+      const error = new Error(`${endpoint}: ${response.status} ${detail.slice(0, 160)}`);
+      error.status = response.status;
+      error.detail = detail;
+      throw error;
     }
     return response.json();
   });
@@ -531,8 +565,16 @@ async function optional(endpoint, params = {}) {
   try {
     return { ok: true, data: await fetchOpenF1(endpoint, params) };
   } catch (error) {
-    return { ok: false, data: [], error };
+    return { ok: false, data: [], error, status: error.status || 0 };
   }
+}
+
+function noteRequestErrors(results) {
+  const attempted = results.filter(Boolean);
+  const authRejected = attempted.some((result) => result.status === 401);
+  const browserBlocked = attempted.length > 0
+    && attempted.every((result) => !result.ok && result.status === 0);
+  if (authRejected || browserBlocked) state.authRequired = true;
 }
 
 function payloadSources(payload) {
@@ -564,6 +606,7 @@ async function loadSession(force, now) {
   if (!shouldRefresh) return cached;
 
   const sessionResult = await optional("sessions", { session_key: "latest" });
+  noteRequestErrors([sessionResult]);
   state.lastSessionCheck = now;
   const session = Array.isArray(sessionResult.data) ? sessionResult.data.at(-1) : null;
   if (!session) return cached;
@@ -587,6 +630,7 @@ async function loadContext(sessionKey) {
     optional("weather", { session_key: sessionKey }),
     optional("session_result", { session_key: sessionKey }),
   ]);
+  noteRequestErrors([drivers, laps, stints, pits, weather, results]);
 
   replaceCache({
     drivers: drivers.ok ? drivers.data : state.liveCache?.drivers || [],
@@ -602,6 +646,7 @@ async function loadContext(sessionKey) {
 async function loadFastChannels(sessionKey, endpoints) {
   const liveWindow = { "date>=": streamWindowStart(state.liveCache?.session), session_key: sessionKey };
   const results = await Promise.all(endpoints.map((endpoint) => optional(endpoint, liveWindow)));
+  noteRequestErrors(results);
   const next = {};
   const errors = [];
 
@@ -632,14 +677,16 @@ async function loadData(options = {}) {
 
   try {
     const now = Date.now();
+    state.authRequired = false;
     const session = await loadSession(force, now);
     const sessionKey = session?.session_key || "latest";
     const phase = sessionPhase(session, now);
     const finalSnapshotKey = `${sessionKey}:final`;
+    const recentlyStreaming = hasRecentTelemetry(state.liveCache, now);
     const needsContext = force
       || state.contextSessionKey !== String(sessionKey)
       || now - state.lastContextLoad > CONTEXT_REFRESH_MS
-      || (phase === "ended" && state.finalSnapshotKey !== finalSnapshotKey);
+      || (phase === "ended" && !recentlyStreaming && state.finalSnapshotKey !== finalSnapshotKey);
 
     replaceCache({ session, errors: [] });
 
@@ -649,7 +696,9 @@ async function loadData(options = {}) {
       state.lastContextLoad = now;
     }
 
-    if (phase === "active") {
+    const isStreaming = phase === "active" || hasRecentTelemetry(state.liveCache, Date.now());
+
+    if (isStreaming) {
       const endpoints = FAST_ENDPOINT_ROTATION[state.fastTick % FAST_ENDPOINT_ROTATION.length];
       state.fastTick += 1;
       await loadFastChannels(sessionKey, endpoints);
@@ -662,6 +711,8 @@ async function loadData(options = {}) {
     } else if (phase === "upcoming") {
       nextDelay = Math.min(SESSION_REFRESH_MS, Math.max(5000, normalizeDate(session?.date_start) - Date.now()));
     }
+
+    if (state.authRequired) nextDelay = state.token ? AUTH_RETRY_MS : IDLE_REFRESH_MS;
 
     const payload = state.liveCache || makeEmptyPayload(session);
     updateChannels(payloadSources(payload));
@@ -691,17 +742,13 @@ function render(payload) {
   state.drivers = new Map(payload.drivers.map((driver) => [String(driver.driver_number), driver]));
   state.latestLocations = payload.locations;
 
-  const freshest = [
-    lastRecord(payload.carData),
-    lastRecord(payload.locations),
-    lastRecord(payload.intervals),
-    lastRecord(payload.positions),
-  ].filter(Boolean).map((item) => normalizeDate(item.date));
-  const maxFresh = freshest.length ? Math.max(...freshest) : 0;
+  const maxFresh = freshestTelemetryAt(payload);
   const liveAgeMinutes = maxFresh ? (Date.now() - maxFresh) / 60000 : Infinity;
   const hasLivePulse = liveAgeMinutes <= 8;
 
-  if (payload.errors.length && !payload.drivers.length) {
+  if (state.authRequired) {
+    setConnection("error", state.token ? "token vencido" : "token requerido");
+  } else if (payload.errors.length && !payload.drivers.length) {
     setConnection("error", "sin datos");
   } else if (hasLivePulse) {
     setConnection("live", "live");
@@ -709,7 +756,8 @@ function render(payload) {
     setConnection("loading", "standby");
   }
 
-  els.lastSync.textContent = formatSync();
+  els.lastSync.textContent = state.authRequired ? "datos congelados · sin acceso live" : formatSync();
+  renderOpenF1Notice();
   renderMetrics(payload, hasLivePulse);
   renderLeaderboard(payload);
   renderWeather(payload.weather);
@@ -1201,23 +1249,40 @@ function setupTabs() {
   });
 }
 
+function renderOpenF1Notice() {
+  if (!els.openF1Notice) return;
+  els.openF1Notice.hidden = !state.authRequired;
+  if (!state.authRequired) return;
+  els.openF1NoticeTitle.textContent = state.token ? "El token de OpenF1 venció" : "OpenF1 bloqueó los datos en vivo";
+  els.openF1NoticeText.textContent = state.token
+    ? "Los datos visibles quedaron congelados. Generá un token nuevo y reemplazalo desde API."
+    : "Durante una sesión en vivo OpenF1 exige una cuenta paga y un token activo. Los datos visibles son la última captura disponible.";
+}
+
 function setupSettings() {
+  const openSettings = () => {
+    els.settingsPanel.hidden = false;
+    els.settingsBtn.setAttribute("aria-expanded", "true");
+    els.tokenInput.focus();
+  };
   els.settingsBtn.addEventListener("click", () => {
     const hidden = els.settingsPanel.hasAttribute("hidden");
     els.settingsPanel.toggleAttribute("hidden", !hidden);
     els.settingsBtn.setAttribute("aria-expanded", String(hidden));
   });
+  els.noticeSettingsBtn?.addEventListener("click", openSettings);
   els.saveTokenBtn.addEventListener("click", () => {
-    state.token = els.tokenInput.value.trim();
+    state.token = els.tokenInput.value.trim().replace(/^Bearer\s+/i, "");
+    els.tokenInput.value = state.token;
     if (state.token) localStorage.setItem("openf1_token", state.token);
     else localStorage.removeItem("openf1_token");
-    loadData();
+    loadData({ force: true });
   });
   els.clearTokenBtn.addEventListener("click", () => {
     state.token = "";
     els.tokenInput.value = "";
     localStorage.removeItem("openf1_token");
-    loadData();
+    loadData({ force: true });
   });
   els.refreshBtn.addEventListener("click", loadData);
 }

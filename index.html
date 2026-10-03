@@ -10,9 +10,9 @@
     <meta property="og:image" content="./assets/pitwall-logo.png">
     <link rel="icon" type="image/png" href="./assets/pitwall-logo.png">
     <link rel="apple-touch-icon" href="./assets/pitwall-logo.png">
-    <link rel="stylesheet" href="./styles.css?v=20261003-country-flags">
+    <link rel="stylesheet" href="./styles.css?v=20261003-live-auth">
     <script type="module" src="https://cdn.jsdelivr.net/npm/@lottiefiles/dotlottie-wc@0.9.28/dist/dotlottie-wc.js"></script>
-    <script src="./app.js?v=20261003-country-flags" defer></script>
+    <script src="./app.js?v=20261003-live-auth" defer></script>
   </head>
   <body>
     <div class="scanline" aria-hidden="true"></div>
@@ -40,8 +40,9 @@
 
       <section class="settings-panel" id="settingsPanel" hidden>
         <div>
-          <label for="tokenInput">OpenF1 token</label>
-          <input id="tokenInput" type="password" autocomplete="off" spellcheck="false" placeholder="Bearer token opcional">
+          <label for="tokenInput">Token de acceso OpenF1</label>
+          <input id="tokenInput" type="password" autocomplete="off" spellcheck="false" placeholder="Pegá el access token">
+          <p class="settings-help">El vivo requiere una suscripción de OpenF1. El token vence cada hora. <a href="https://openf1.org/account" target="_blank" rel="noreferrer">Cuenta OpenF1</a></p>
         </div>
         <div class="settings-actions">
           <button class="utility-btn strong" id="saveTokenBtn" type="button">Guardar</button>
@@ -124,6 +125,14 @@
               <span class="sync-copy" id="lastSync">sin sincronizar</span>
             </div>
           </div>
+
+          <section class="live-alert" id="openF1Notice" role="status" hidden>
+            <div>
+              <strong id="openF1NoticeTitle">Datos en vivo bloqueados</strong>
+              <span id="openF1NoticeText">OpenF1 requiere un token activo durante las sesiones en vivo.</span>
+            </div>
+            <button class="utility-btn strong" id="noticeSettingsBtn" type="button">Cargar token</button>
+          </section>
 
           <section class="metric-strip" aria-label="Resumen de sesion">
             <article class="metric-tile">
