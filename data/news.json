@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T21:11:29.248Z",
-  "checkedAt": "2026-10-04T21:11:29.248Z",
+  "updatedAt": "2026-10-04T22:11:29.970Z",
+  "checkedAt": "2026-10-04T22:11:29.970Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
+      "title": "Geely presentó su SUV de TC2000",
+      "summary": "El flamante equipo tendrá como pilotos a Nicolás Traut y Franco Riva. Así la categoría suma una nueva automotriz.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/geely-presento-su-suv-de-tc2000/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-12.47.43.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-02T16:28:07.000Z",
+      "addedAt": "2026-10-04T22:11:31.175Z",
+      "category": "argentino",
+      "tag": "Franco"
+    },
     {
       "id": "campeones-com-ar-tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen",
       "title": "TN: el balance de Santero tras las pruebas en el Cabalén | Campeones",
@@ -508,7 +523,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-04T21:11:33.076Z",
+      "createdAt": "2026-10-04T22:11:32.539Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -612,6 +627,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T23:24:40.000Z",
           "addedAt": "2026-10-03T01:03:50.878Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-",
+          "title": "La cruda autocrítica de Briatore tras el enojo de Colapinto con Alpine",
+          "summary": "El asesor ejecutivo admitió que el equipo “no tomó las decisiones acertadas” en el Gran Premio de Malasia de la Fórmula 1.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-altura-id764360.html",
+          "image": "https://media.tycsports.com/files/2026/09/26/990875/briatore_862x485.webp?v=2",
+          "body": "El asesor ejecutivo admitió que el equipo “no tomó las decisiones acertadas” en el Gran Premio de Malasia de la Fórmula 1.\n\nFlavio Briatore se mostró decepcionado tras el GP de Azerbaiyán + Seguinos en Flavio Briatore se hizo cargo del error de Alpine en el Gran Premio de Malasia de la Fórmula 1 . El asesor ejecutivo reconoció que la escudería no estuvo a la altura tras la decisión de salir con neumáticos slick con la pista de Sepang todavía húmeda, una apuesta que le costó la carrera y terreno en la pelea por el quinto puesto en el Campeonato de Constructores, y desató el enojo del argentino Franco Colapinto.\n\nBriatore expresó: “ No ha sido el resultado que esperábamos hoy, teniendo en cuenta nuestra posición de salida, especialmente considerando que nuestros rivales han sumado puntos y la diferencia actual en el campeonato . Habíamos rendido bien durante todo el fin de semana hasta ese momento; sin embargo, a la vista de lo ocurrido en la carrera, no tomamos las decisiones acertadas ni estuvimos a la altura como equipo\" .\n\nY agregó: \"Nosotros, al igual que otras escuderías, probamos una estrategia distinta con los neumáticos y, posteriormente, hicimos todo lo posible por remontar, pero no dio resultado. No obstante, el ritmo en seco parecía prometedor y aún quedan muchas carreras para luchar por la quinta plaza del campeonato”.\n\nColapinto largó desde el puesto 21, terminó 13° y pasó buena parte de la carrera sin grip sobre el asfalto mojado. Pierre Gasly corrió con el mismo problema. Mientras tanto, Racing Bulls sumó siete puntos y amplió la diferencia en el campeonato.",
+          "language": "es",
+          "publishedAt": "2026-10-04T21:25:18.000Z",
+          "addedAt": "2026-10-04T22:11:31.068Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -764,7 +794,13 @@
           "addedAt": "2026-10-02T16:23:12.642Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-04T22:11:32.539Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-le-respondio-a-lando-norris-y-se-quejo-de-los-ataques-en-redes-siempre-",
           "title": "Franco Colapinto le respondió a Lando Norris y se quejó de los ataques en redes: \"Siempre se apunta a los argentinos\"",
@@ -779,13 +815,7 @@
           "addedAt": "2026-10-02T16:23:12.799Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-04T21:11:33.076Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21",
           "title": "GP de Bahrein: Verstappen larga en \"pole\", Hamilton lo escolta y Colapinto empieza 21.° | Campeones",
@@ -1027,21 +1057,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-colapinto-no-se-callo-y-revelo-su-sorpresa-con-el-exhorto-de-norris-comparado-a-verstappen",
-          "title": "Colapinto no se calló y reveló su sorpresa con el exhorto de Norris comparado a Verstappen",
-          "summary": "El argentino marcó la marcada diferencia entre la actitud de Max Verstappen y la que tomó Lando Norris, quien luego debió pedir disculpas.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-no-se-callo-y-revelo-su-sorpresa-con-el-exhorto-de-norris-comparado-a-verstappen/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Alpine-F1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-01T21:56:21.000Z",
-          "addedAt": "2026-10-02T17:57:42.219Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
           "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
           "summary": "El pampeano se impuso en la Carrera Clasificatoria y tras quedarse con la “pole”, suma puntos claves en la cima del torneo.",
@@ -1060,7 +1075,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-04T21:11:33.076Z",
+      "createdAt": "2026-10-04T22:11:32.539Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1336,7 +1351,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-04T21:11:33.076Z",
+      "createdAt": "2026-10-04T22:11:32.539Z",
       "items": [
         {
           "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
@@ -1442,6 +1457,21 @@
           "addedAt": "2026-10-02T17:54:07.677Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-no-se-callo-y-revelo-su-sorpresa-con-el-exhorto-de-norris-comparado-a-verstappen",
+          "title": "Colapinto no se calló y reveló su sorpresa con el exhorto de Norris comparado a Verstappen",
+          "summary": "El argentino marcó la marcada diferencia entre la actitud de Max Verstappen y la que tomó Lando Norris, quien luego debió pedir disculpas.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-no-se-callo-y-revelo-su-sorpresa-con-el-exhorto-de-norris-comparado-a-verstappen/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Alpine-F1.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-01T21:56:21.000Z",
+          "addedAt": "2026-10-02T17:57:42.219Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-rally-de-entre-rios-federico-villagra-se-recupero-y-gano-en-diamante",
@@ -1592,7 +1622,13 @@
           "addedAt": "2026-10-04T17:11:31.516Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-04T22:11:32.539Z",
+      "items": [
         {
           "id": "campeones-com-ar-tc-el-bmw-de-santero-se-quedo-con-el-ultimo-parcial-nicoleno",
           "title": "TC: el BMW de Santero se quedó con el último parcial nicoleño",
@@ -1607,13 +1643,7 @@
           "addedAt": "2026-10-04T15:11:30.853Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-04T21:11:33.076Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-tc-en-san-nicolas-rossi-doblego-a-fritzler-y-triunfo-en-la-2a-bateria",
           "title": "TC en San Nicolás: Rossi doblegó a Fritzler y triunfó en la 2ª batería",
@@ -1866,21 +1896,6 @@
           "language": "es",
           "publishedAt": "2026-10-02T21:57:54.000Z",
           "addedAt": "2026-10-02T22:34:56.415Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-la-alianza-estrategica-en-tc-que-formaron-rus-med-team-y-city-center-rosario",
-          "title": "La alianza estratégica en TC que formaron RUS Med Team y City Center Rosario",
-          "summary": "A partir de la fecha de San Nicolás, los autos de Juan Bautista De Benedictis, Tobías Martínez y en el TC Pista de Santiago Biagi llevarán el patrocinio de la firma.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-alianza-estrategica-en-tc-que-formaron-rus-med-team-y-city-center-rosario/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-TC-RUS-Med-Team-City-Center-e1790966320181.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T18:40:25.000Z",
-          "addedAt": "2026-10-02T19:06:31.918Z",
           "category": "argentino",
           "tag": "Argentino"
         }
