@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T12:11:29.175Z",
-  "checkedAt": "2026-10-04T12:11:29.175Z",
+  "updatedAt": "2026-10-04T13:11:29.144Z",
+  "checkedAt": "2026-10-04T13:11:29.144Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,6 +40,21 @@
   },
   "backlog": [
     {
+      "id": "carburando-com-ar-blog-la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-encara-a-todo",
+      "title": "La mentalidad de Ignacio Faín: “Estas cinco carreras uno las encara a todo o nada”",
+      "summary": "El piloto de Junín debuta en la Copa de Oro del Turismo Carretera y explica cómo cambia el chip cuando llega la fase decisiva del campeonato. Análisis…",
+      "source": "Carburando",
+      "sourceLabel": "Carburando",
+      "url": "https://carburando.com.ar/blog/la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-encara-a-todo",
+      "image": "https://carburando.com.ar/covers/22/la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-e-23080.webp",
+      "body": "El piloto de Junín debuta en la Copa de Oro del Turismo Carretera y explica cómo cambia el chip cuando llega la fase decisiva del campeonato. Análisis de su preparación y objetivos para las cinco finales.\n\nIgnacio Faín encara su primera Copa de Oro del Turismo Carretera con la convicción de que las cinco carreras finales se disputan de manera distinta al resto del año. “Estas cinco carreras uno las encara a todo o nada”, afirma el piloto de Junín, que clasificó a la instancia decisiva tras una temporada regular sólida con el Chevrolet del equipo de José Savino.\n\nEn el TC, la Copa de Oro representa el momento donde el campeonato se reinicia con un nuevo formato. Los doce clasificados llegan con el puntaje reseteado y solo cuentan los puntos que se sumen en las cinco fechas restantes. Esa particularidad obliga a cambiar la mentalidad: ya no alcanza con sumar de a poco, hay que ir por las victorias o al menos por podios consistentes si se quiere pelear el título.\n\nFaín llega con experiencia acumulada en la categoría, pero reconoce que debutar en la Copa implica un salto. Durante la fase regular se prioriza la regularidad, evitar abandonos y acumular la mayor cantidad de puntos posible para entrar entre los doce. Una vez adentro, el enfoque pasa a ser más agresivo. “Hay que tener el auto para pelear adelante todas las fechas y no cometer errores”, explica.\n\nDesde el punto de vista técnico, su equipo trabajó en la puesta a punto pensando en circuitos que se vienen: mezcla de autódromos rápidos y semipermanentes donde el grip y la confiabilidad del motor V8 serán claves. El Chevrolet ya demostró velocidad en varias carreras, pero ahora la exigencia es mantener ese nivel sin fisuras durante las cinco finales.",
+      "language": "es",
+      "publishedAt": "2026-09-11T20:50:23.000Z",
+      "addedAt": "2026-10-04T13:11:31.750Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "carburando-com-ar-blog-volver-a-acelerar-para-celebrar-la-vida-el-emotivo-regreso-de-jose-ciantini",
       "title": "Volver a acelerar para celebrar la vida: el emotivo regreso de José Ciantini",
       "summary": "El piloto superó una dura enfermedad y volvió a subirse a un auto de carreras. Su historia es mucho más que una vuelta a las pistas: es un mensaje…",
@@ -51,6 +66,21 @@
       "language": "es",
       "publishedAt": "2026-09-11T05:25:22.000Z",
       "addedAt": "2026-10-04T12:11:31.888Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-los-datos-curiosos-del-tc-en-san-nicolas",
+      "title": "Los datos curiosos del TC en San Nicolás",
+      "summary": "Mariano Werner (Ford) y Agustín Canapino (Chevrolet) son los grandes referentes históricos en el circuito “Juan María Traverso”, donde las últimas 5 Finales fueron ganadas por el piloto que largó desde la 2ª posición.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/los-datos-curiosos-del-tc-en-san-nicolas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-San-Nicolas-2025.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-02T12:22:59.000Z",
+      "addedAt": "2026-10-04T11:11:31.542Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -68,21 +98,6 @@
       "addedAt": "2026-10-04T12:11:31.317Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-los-datos-curiosos-del-tc-en-san-nicolas",
-      "title": "Los datos curiosos del TC en San Nicolás",
-      "summary": "Mariano Werner (Ford) y Agustín Canapino (Chevrolet) son los grandes referentes históricos en el circuito “Juan María Traverso”, donde las últimas 5 Finales fueron ganadas por el piloto que largó desde la 2ª posición.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/los-datos-curiosos-del-tc-en-san-nicolas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-San-Nicolas-2025.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-02T12:22:59.000Z",
-      "addedAt": "2026-10-04T11:11:31.542Z",
-      "category": "argentino",
-      "tag": "Argentino"
     },
     {
       "id": "www-tycsports-com-automovilismo-fue-campeon-de-formula-1-con-ferrari-y-ahora-cambio-los-autos-por-la-mozzarella-y-los-he",
@@ -373,11 +388,11 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-04T12:11:32.188Z",
+      "createdAt": "2026-10-04T13:11:35.521Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-furiosa-reaccion-de-colapinto-por-la-estrategia-de-alpine-en-el-gp-de-malasia-de-la-f",
-          "title": "La furiosa reacción de Colapinto por la estrategia de Alpine en el GP de Malasia de la F1",
+          "title": "La furiosa reacción de Colapinto por la estrategia de Alpine en el GP de Bahréin en Malasia",
           "summary": "El piloto argentino dejó de lado su remontada del 21° al 13° puesto y no pudo ocultar su enojo por el plan de la escudería, que decidió que largara con gomas blandas sobre un Circuito de Sepang azotado por la lluvia.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
@@ -385,7 +400,7 @@
           "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
           "body": "El piloto argentino dejó de lado su remontada del 21° al 13° puesto y no pudo ocultar su enojo por el plan de la escudería, que decidió que largara con gomas blandas sobre un Circuito de Sepang azotado por la lluvia.\n\nFranco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Masticando bronca terminó Franco Colapinto el Gran Premio de Malasia de la Fórmula 1 . No por el hecho de que estuvo cerca de sumar puntos, ya que terminó 13° luego de protagonizar una gran remontada desde el fondo de la parrilla , sino porque consideraba que estaba para más y la fallida estrategia de Alpine no se lo permitió.\n\nLa carrera, pactada para las 4 de la madrugada (hora argentina), debió postergarse durante una hora y 41 minutos a causa de las fuertes tormentas que azotaron la zona . Una vez que las lluvias mermaron, los coches salieron a la pista, pero el asfalto nunca se secó del todo y el piloto argentino sufrió desde la largada con las gomas blandas.\n\n“Nos quedamos sin grip, nos quedamos todos patinando en la largada, en el cajón, y el auto no salió para adelante. Una lástima, obviamente fue la decisión incorrecta. Después había que tomar muchos riesgos para ir rápido con la goma lisa y ya habíamos perdido la carrera . Había que esperar un safety car y estaba muy complicado con la goma lisa. No tomé tantos riesgos, pero íbamos muy, muy lento. No había chances ” , analizó.\n\nCon el enojo a flor de piel, Colapinto puntualizó en las dificultades que tuvo en el inicio del GP y siguió machacando sobre el plan que le jugó en contra: “Es lo que hay. Con la goma lisa, como habíamos visto antes, tuvimos un muy, muy buen ritmo. Pasé a varios autos que venían adelante mío bastante lejos y tenía mucho mejor ritmo. Eso es positivo para el futu",
           "language": "es",
-          "publishedAt": "2026-10-04T12:08:43.000Z",
+          "publishedAt": "2026-10-04T12:56:56.000Z",
           "addedAt": "2026-10-04T12:11:31.035Z",
           "category": "argentino",
           "tag": "Franco"
@@ -601,6 +616,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang",
+          "title": "La decisión de Alpine que condicionó a Colapinto en Sepang",
+          "summary": "Al concluir el GP de Bahrein, el piloto argentino se refirió a las dificultades que afrontó con el auto cuando en el comienzo calzó los neumáticos lisos estando el piso húmedo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-F1-Bahrein-Colapinto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T12:15:40.000Z",
+          "addedAt": "2026-10-04T13:11:30.995Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten",
           "title": "Verstappen agradeció los elogios de Colapinto: \"Los que compiten en F1...\"",
           "summary": "El piloto neerlandés reconoció las palabras del argentino, que lo había puesto como ejemplo por su accionar con los jóvenes que competen errores en la Fórmula 1.",
@@ -629,7 +659,13 @@
           "addedAt": "2026-10-02T16:23:12.642Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-04T13:11:35.521Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-le-respondio-a-lando-norris-y-se-quejo-de-los-ataques-en-redes-siempre-",
           "title": "Franco Colapinto le respondió a Lando Norris y se quejó de los ataques en redes: \"Siempre se apunta a los argentinos\"",
@@ -644,13 +680,7 @@
           "addedAt": "2026-10-02T16:23:12.799Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-04T12:11:32.188Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-lando-norris-revelo-la-intimidad-de-su-charla-con-franco-colapinto-id763779-html",
           "title": "Lando Norris reveló la intimidad de su charla con Franco Colapinto: \"Algunas cosas que dije estuvieron mal\"",
@@ -905,27 +935,12 @@
           "addedAt": "2026-10-02T17:57:46.877Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua",
-          "title": "Girolami le dio el '1' a Hyundai en una clasificación pasada por agua",
-          "summary": "El piloto de Isla Verde fue el más rápido en el primer corte de clasificación. La lluvia torrencial no permitió el normal desarrollo de la Q2, lo que se tradujo en \"pole\" del cordobés.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-HYUNDAI-e1791058796473.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T20:25:49.000Z",
-          "addedAt": "2026-10-03T21:11:31.442Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-04T12:11:32.188Z",
+      "createdAt": "2026-10-04T13:11:35.522Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -941,6 +956,21 @@
           "addedAt": "2026-10-04T08:11:31.664Z",
           "category": "general",
           "tag": "Clima"
+        },
+        {
+          "id": "campeones-com-ar-andersson-y-azcona-ganaron-las-ultimas-carreras-del-tcr-en-corea",
+          "title": "Andersson y Azcona ganaron las últimas carreras del TCR en Corea | Campeones",
+          "summary": "El sueco mantuvo la punta desde la largada y se llevó la segunda competencia, mientras que el español repitió triunfo y lidera el certamen.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/andersson-y-azcona-ganaron-las-ultimas-carreras-del-tcr-en-corea/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9801.png",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T11:04:58.000Z",
+          "addedAt": "2026-10-04T13:11:31.134Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-andersson-triunfo-en-la-segunda-carrera-del-tcr-en-corea-urrutia-se-retraso",
@@ -1181,7 +1211,13 @@
           "addedAt": "2026-10-03T06:54:56.540Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-04T13:11:35.522Z",
+      "items": [
         {
           "id": "campeones-com-ar-tcr-wt-azcona-se-quedo-con-la-pole-y-michelisz-cerro-el-1-2-de-hyundai",
           "title": "TCR WT: Azcona se quedó con la “pole” y Michelisz cerró el “1-2” de Hyundai | Campeones",
@@ -1196,13 +1232,7 @@
           "addedAt": "2026-10-03T03:27:57.539Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-04T12:11:32.188Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-gp-de-japon-martin-resistio-y-logro-otra-pole-en-motogp",
           "title": "GP de Japón: Martín resistió y logró otra \"pole\" en MotoGP",
@@ -1279,19 +1309,34 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-ledesma-la-vuelta-de-balcarce-y-la-posibilidad-de-que-lo-visite-el-tc",
-          "title": "Ledesma, la vuelta de Balcarce y la posibilidad de que lo visite el TC | Campeones",
-          "summary": "El ídolo de Chevrolet se expresó en los micrófonos de Campeones sobre cómo vio el renovado circuito \"Juan Manuel Fangio\" y analizó si el Turismo Carretera podría volver a dicho escenario.",
+          "id": "campeones-com-ar-asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas",
+          "title": "Así se largan las series del Turismo Carretera en San Nicolás",
+          "summary": "Curiosamente, no habrá pilotos ni de Ford ni de Chevrolet en ninguna de las tres primeras filas de la 2ª fecha de la Copa de Oro 2026, donde serán mayoría los representantes de Torino (Fain y Chapur) y Mercedes-Benz (Fritzler y Azar).",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/ledesma-la-vuelta-de-balcarce-y-la-posibilidad-de-que-lo-visite-el-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/03/260327-TC-Ledesma-e1774644218394.jpg",
+          "url": "https://campeones.com.ar/asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Boxes-TC-San-Nicolas-II-2026.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-01T20:51:12.000Z",
-          "addedAt": "2026-10-02T17:57:42.723Z",
-          "category": "general",
-          "tag": "F1"
+          "publishedAt": "2026-10-04T12:17:23.000Z",
+          "addedAt": "2026-10-03T22:11:27.635Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua",
+          "title": "Girolami le dio el '1' a Hyundai en una clasificación pasada por agua",
+          "summary": "El piloto de Isla Verde fue el más rápido en el primer corte de clasificación. La lluvia torrencial no permitió el normal desarrollo de la Q2, lo que se tradujo en \"pole\" del cordobés.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-HYUNDAI-e1791058796473.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T20:25:49.000Z",
+          "addedAt": "2026-10-03T21:11:31.442Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-tc-en-san-nicolas-fain-logro-su-1a-pole-y-corto-una-sequia-de-3-anos-para-torino",
@@ -1369,21 +1414,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas",
-          "title": "Así se largan las series del Turismo Carretera en San Nicolás",
-          "summary": "Curiosamente, no habrá pilotos ni de Ford ni de Chevrolet en ninguna de las tres primeras filas de la 2ª fecha de la Copa de Oro 2026, donde serán mayoría los representantes de Torino (Fain y Chapur) y Mercedes-Benz (Fritzler y Azar).",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Boxes-TC-San-Nicolas-II-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T06:45:23.000Z",
-          "addedAt": "2026-10-03T22:11:27.635Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina",
           "title": "El más rápido de las prácticas fue Lautaro Videla en la Fórmula 2 Argentina | Campeones",
           "summary": "La mañana de San Nicolás se abrió con un fuerte diluvio, pero los monoplazas giraron sin mayores inconvenientes, con Franco Ledesma arriba en la primera tanda y el pampeano en la segunda.",
@@ -1457,7 +1487,13 @@
           "addedAt": "2026-10-03T16:11:30.630Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-04T13:11:35.522Z",
+      "items": [
         {
           "id": "campeones-com-ar-santiago-biagi-abrio-el-juego-del-tc-pista-en-san-nicolas",
           "title": "Santiago Biagi abrió el juego del TC Pista en San Nicolás",
@@ -1472,13 +1508,7 @@
           "addedAt": "2026-10-03T15:11:32.087Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-04T12:11:32.188Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-santero-apunto-por-las-licencias-y-dijo-que-nadie-lo-llamo",
           "title": "Santero apuntó por las licencias y dijo que \"nadie lo llamó\" | Campeones",
@@ -1731,21 +1761,6 @@
           "language": "es",
           "publishedAt": "2026-09-25T17:14:32.000Z",
           "addedAt": "2026-10-02T17:57:45.571Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "carburando-com-ar-blog-el-plan-de-juan-angel-rosso-para-afianzarse-en-el-tcr-south-america",
-          "title": "El plan de Juan Ángel Rosso para afianzarse en el TCR South America",
-          "summary": "El piloto argentino detalla cómo busca consolidar su vínculo con la marca y escalar en la categoría sudamericana de turismos. Un proyecto técnico…",
-          "source": "Carburando",
-          "sourceLabel": "Carburando",
-          "url": "https://carburando.com.ar/blog/el-plan-de-juan-angel-rosso-para-afianzarse-en-el-tcr-south-america",
-          "image": "https://carburando.com.ar/covers/22/el-plan-de-juan-angel-rosso-para-afianzarse-en-el-tcr-south-23087.webp",
-          "body": "El piloto argentino detalla cómo busca consolidar su vínculo con la marca y escalar en la categoría sudamericana de turismos. Un proyecto técnico y estratégico que apunta a crecer de forma sostenida.\n\nJuan Ángel Rosso encara la temporada 2026 del TCR South America con un objetivo claro: afianzarse definitivamente con la marca que representa y transformar su presencia en la categoría en un proyecto sólido y a largo plazo.\n\nEl cordobés, que ya acumula experiencia en diferentes categorías del automovilismo nacional e internacional, entiende que el TCR es un escalón clave para proyectarse. \"Estamos tratando de afianzarnos con la marca\", explica con la franqueza que lo caracteriza. Esa frase resume una estrategia que va más allá de correr una o dos fechas: se trata de construir una relación técnica y comercial duradera con el equipo y el fabricante.\n\nEn el TCR South America los autos compiten bajo un reglamento técnico basado en el TCR International, con motores turbo de 2.0 litros, tracción delantera y un peso mínimo que ronda los 1.280 kilos según la balanza de performance. Esto obliga a los pilotos y equipos a trabajar muy cerca del fabricante para lograr el setup ideal en cada circuito. Rosso sabe que solo con continuidad se pueden extraer los datos necesarios para evolucionar el paquete.\n\nEl plan pasa por varias patas. Primero, la parte técnica: lograr que el auto se adapte mejor a los trazados sudamericanos, que tienen características muy distintas a los europeos. Segundo, la deportiva: sumar kilómetros y resultados consistentes que permitan pelear por podios y victorias de manera regular. Y tercero, la comercial: fortalecer la imagen de la marca en el mercado argentino y regional, algo que los sponsors valoran especialmente en un contexto económico complejo.",
-          "language": "es",
-          "publishedAt": "2026-09-11T21:20:22.000Z",
-          "addedAt": "2026-10-02T17:57:42.830Z",
           "category": "argentino",
           "tag": "Argentino"
         }
