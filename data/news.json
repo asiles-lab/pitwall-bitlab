@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T22:11:29.970Z",
-  "checkedAt": "2026-10-04T22:11:29.970Z",
+  "updatedAt": "2026-10-04T23:11:29.508Z",
+  "checkedAt": "2026-10-04T23:11:29.508Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
-      "title": "Geely presentó su SUV de TC2000",
-      "summary": "El flamante equipo tendrá como pilotos a Nicolás Traut y Franco Riva. Así la categoría suma una nueva automotriz.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/geely-presento-su-suv-de-tc2000/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-12.47.43.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-02T16:28:07.000Z",
-      "addedAt": "2026-10-04T22:11:31.175Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
     {
       "id": "campeones-com-ar-tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen",
       "title": "TN: el balance de Santero tras las pruebas en el Cabalén | Campeones",
@@ -523,7 +508,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-04T22:11:32.539Z",
+      "createdAt": "2026-10-04T23:11:35.694Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -661,21 +646,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-ahora-que-alpine-le-pida-perdon-a-colapinto-op-id764303-html",
-          "title": "Ahora que Alpine le pida perdón a Colapinto",
-          "summary": "Así como en Azerbaiyán falló el piloto, en Malasia hubo un grave error estratégico del equipo ante la primera lluvia para la F1 en el año.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/ahora-que-alpine-le-pida-perdon-a-colapinto-op-id764303.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992792/colapinto-_1440x810.webp?v=1",
-          "body": "Así como en Azerbaiyán falló el piloto, en Malasia hubo un grave error estratégico del equipo ante la primera lluvia para la F1 en el año.\n\nColapinto, muy atrás en Malasia tras una pésima decisión de Alpine. + Seguinos en Alpine tendrá que pedirles perdón a Franco Colapinto y Pierre Gasly. La decisión de largar con la goma blanda sobre un circuito de Malasia todavía muy húmedo destruyó la carrera de sus dos pilotos, que indudablemente estaban para más y en siete días perdieron puntos vitales en esta Fórmula 1.\n\nAsí como el piloto argentino se equivocó -por primera vez en el año- hace una semana en Azerbaiyán y fue un escándalo, este domingo erraron Flavio Briatore y compañía. Se la jugaron de la misma forma con uno que largaba 9° y otro en el P21 en vez de desdoblar , apostar distinto y minimizar el riesgo de perderlo todo, lo que finalmente ocurrió porque el asfalto en Sepang tardó más en secarse de lo previsto. Inentendible.\n\nEntre un nuevo mamarracho bajo este reglamento con fallas ante las esperables primeras gotas del año (una hora y media de demora), y las pésimas decisiones de la dirección de la carrera, Colapinto la remó de principio a fin. A pesar de todo, manejó a muy buen ritmo sobre seco y entre los vaivenes de la carrera trepó hasta el 13°, lo que demuestra que tenía potencial suficiente para sumar buenos puntos.\n\nPeor aún fue lo de Gasly, que por el horror estratégico perdió siete lugares respecto de la posición de partida y finalizó 16°. Y para colmo de males, los Racing Bulls volvieron a cosechar por duplicado (Liam Lawson terminó 7° y Arvid Lindblad fue 10°, después de largar último), por lo que la diferencia ahora es de 22 unidades por el 5° puesto en Constructores, una batalla con olor a perdida. En Alpine llovió sobre mojado. Ojalá que en Singapur ca",
-          "language": "es",
-          "publishedAt": "2026-10-04T10:30:05.000Z",
-          "addedAt": "2026-10-04T11:11:31.436Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611-h",
           "title": "F1: Verstappen logró su primera pole del año y Colapinto largará anteúltimo",
           "summary": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.",
@@ -706,17 +676,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-f1-colapinto-escalo-en-sepang-hasta-el-13-puesto-y-verstappen-retorno-a-la-victoria",
-          "title": "F1: Colapinto escaló en Sepang hasta el 13.° puesto y Verstappen retornó a la victoria con Red Bull",
-          "summary": "Sólida labor realizó el piloto argentino con el Alpine en una carrera que se largó 1h35m más tarde y con varias dificultades en su desarrollo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-colapinto-escalo-en-sepang-hasta-el-13-puesto-y-verstappen-retorno-a-la-victoria/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-F1-Colapinto-Alpine.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-ahora-que-alpine-le-pida-perdon-a-colapinto-op-id764303-html",
+          "title": "Ahora que Alpine le pida perdón a Colapinto",
+          "summary": "Así como en Azerbaiyán falló el piloto, en Malasia hubo un grave error estratégico del equipo ante la primera lluvia para la F1 en el año.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/ahora-que-alpine-le-pida-perdon-a-colapinto-op-id764303.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992792/colapinto-_1440x810.webp?v=1",
+          "body": "Así como en Azerbaiyán falló el piloto, en Malasia hubo un grave error estratégico del equipo ante la primera lluvia para la F1 en el año.\n\nColapinto, muy atrás en Malasia tras una pésima decisión de Alpine. + Seguinos en Alpine tendrá que pedirles perdón a Franco Colapinto y Pierre Gasly. La decisión de largar con la goma blanda sobre un circuito de Malasia todavía muy húmedo destruyó la carrera de sus dos pilotos, que indudablemente estaban para más y en siete días perdieron puntos vitales en esta Fórmula 1.\n\nAsí como el piloto argentino se equivocó -por primera vez en el año- hace una semana en Azerbaiyán y fue un escándalo, este domingo erraron Flavio Briatore y compañía. Se la jugaron de la misma forma con uno que largaba 9° y otro en el P21 en vez de desdoblar , apostar distinto y minimizar el riesgo de perderlo todo, lo que finalmente ocurrió porque el asfalto en Sepang tardó más en secarse de lo previsto. Inentendible.\n\nEntre un nuevo mamarracho bajo este reglamento con fallas ante las esperables primeras gotas del año (una hora y media de demora), y las pésimas decisiones de la dirección de la carrera, Colapinto la remó de principio a fin. A pesar de todo, manejó a muy buen ritmo sobre seco y entre los vaivenes de la carrera trepó hasta el 13°, lo que demuestra que tenía potencial suficiente para sumar buenos puntos.\n\nPeor aún fue lo de Gasly, que por el horror estratégico perdió siete lugares respecto de la posición de partida y finalizó 16°. Y para colmo de males, los Racing Bulls volvieron a cosechar por duplicado (Liam Lawson terminó 7° y Arvid Lindblad fue 10°, después de largar último), por lo que la diferencia ahora es de 22 unidades por el 5° puesto en Constructores, una batalla con olor a perdida. En Alpine llovió sobre mojado. Ojalá que en Singapur ca",
           "language": "es",
-          "publishedAt": "2026-10-04T10:28:21.000Z",
-          "addedAt": "2026-10-04T11:11:30.712Z",
+          "publishedAt": "2026-10-04T10:30:05.000Z",
+          "addedAt": "2026-10-04T11:11:31.436Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -766,6 +736,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-f1-colapinto-escalo-en-sepang-hasta-el-13-puesto-y-verstappen-retorno-a-la-victoria",
+          "title": "F1: Colapinto escaló en Sepang hasta el 13.° puesto y Verstappen retornó a la victoria con Red Bull",
+          "summary": "Sólida labor realizó el piloto argentino con el Alpine en una carrera que se largó 1h35m más tarde y con varias dificultades en su desarrollo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-colapinto-escalo-en-sepang-hasta-el-13-puesto-y-verstappen-retorno-a-la-victoria/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-F1-Colapinto-Alpine.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T10:28:21.000Z",
+          "addedAt": "2026-10-04T11:11:30.712Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten",
           "title": "Verstappen agradeció los elogios de Colapinto: \"Los que compiten en F1...\"",
           "summary": "El piloto neerlandés reconoció las palabras del argentino, que lo había puesto como ejemplo por su accionar con los jóvenes que competen errores en la Fórmula 1.",
@@ -799,38 +784,8 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-04T22:11:32.539Z",
+      "createdAt": "2026-10-04T23:11:35.694Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-le-respondio-a-lando-norris-y-se-quejo-de-los-ataques-en-redes-siempre-",
-          "title": "Franco Colapinto le respondió a Lando Norris y se quejó de los ataques en redes: \"Siempre se apunta a los argentinos\"",
-          "summary": "En la antesala del GP de Malasia, el piloto de Alpine se refirió a las críticas del de McLaren y habló de las especulaciones sobre su futuro en la F1.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-le-respondio-a-lando-norris-y-se-quejo-de-los-ataques-en-redes-siempre-se-apunta-a-los-argentinos-id763771.html",
-          "image": "https://media.tycsports.com/files/2026/10/01/991963/franco-colapinto_1440x810.webp",
-          "body": "En la antesala del GP de Malasia, el piloto de Alpine se refirió a las críticas del de McLaren y habló de las especulaciones sobre su futuro en la F1.\n\nFranco Colapinto se sorprendió por las declaraciones de Lando Norris en su contra (Getty Images) + Seguinos en Tras las polémicas declaraciones de Lando Norris contra Franco Colapinto luego de la carrera del Gran Premio de Azerbaiyán de la Fórmula 1, el piloto argentino le respondió al británico y habló de las críticas que recibe en las redes sociales.\n\nColapinto reveló que los dichos del piloto de McLaren lo sorprendieron y afirmó que \"se pasó tres pueblos\", pero lo justificó: \"Creo que estaba en el calor del momento. Por supuesto, sabe qué tipo de comentarios genera eso porque él mismo lo sufrió. Probablemente haya sido el piloto que más habló sobre el odio hace un par de años, apenas unas temporadas atrás. Así que me sorprendió un poco, pero después, por supuesto, se disculpó \".\n\n\" Desafortunadamente, él también recibió mucho odio por eso . Es una situación complicada con el mundo exterior. Por eso creo que tenemos que cuidarnos con las cosas que decimos . Entiendo que, en el calor del momento, uno diga cosas así\" .\n\nPese a la crítica de Norris, Colapinto tuvo el respaldo de Max Verstappen y George Russell y, ante eso, deslizó entre risas: \" Creo que está bien que Lando haya logrado que Max y George estén de acuerdo por una vez. Son simplemente diferentes tipos de reacciones. Y, por supuesto, ellos han estado en situaciones diferentes\".",
-          "language": "es",
-          "publishedAt": "2026-10-01T22:32:02.000Z",
-          "addedAt": "2026-10-02T16:23:12.799Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21",
-          "title": "GP de Bahrein: Verstappen larga en \"pole\", Hamilton lo escolta y Colapinto empieza 21.° | Campeones",
-          "summary": "A la hora 4:00 de la madrugada argentina se pondrá en marcha la 16.ª carrera de Fórmula 1 en el circuito de Sepang, sobre 56 vueltas.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-F1-Colapinto-Alpine-A526.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T23:00:39.000Z",
-          "addedAt": "2026-10-03T23:11:31.151Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
         {
           "id": "campeones-com-ar-la-determinacion-de-franco-colapinto-para-afrontar-el-gp-de-bahrein-de-f1",
           "title": "La determinación de Franco Colapinto para afrontar el GP de Bahrein de F1",
@@ -843,6 +798,21 @@
           "language": "es",
           "publishedAt": "2026-10-03T10:25:22.000Z",
           "addedAt": "2026-10-03T11:20:54.389Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-le-respondio-a-lando-norris-y-se-quejo-de-los-ataques-en-redes-siempre-",
+          "title": "Franco Colapinto le respondió a Lando Norris y se quejó de los ataques en redes: \"Siempre se apunta a los argentinos\"",
+          "summary": "En la antesala del GP de Malasia, el piloto de Alpine se refirió a las críticas del de McLaren y habló de las especulaciones sobre su futuro en la F1.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-le-respondio-a-lando-norris-y-se-quejo-de-los-ataques-en-redes-siempre-se-apunta-a-los-argentinos-id763771.html",
+          "image": "https://media.tycsports.com/files/2026/10/01/991963/franco-colapinto_1440x810.webp",
+          "body": "En la antesala del GP de Malasia, el piloto de Alpine se refirió a las críticas del de McLaren y habló de las especulaciones sobre su futuro en la F1.\n\nFranco Colapinto se sorprendió por las declaraciones de Lando Norris en su contra (Getty Images) + Seguinos en Tras las polémicas declaraciones de Lando Norris contra Franco Colapinto luego de la carrera del Gran Premio de Azerbaiyán de la Fórmula 1, el piloto argentino le respondió al británico y habló de las críticas que recibe en las redes sociales.\n\nColapinto reveló que los dichos del piloto de McLaren lo sorprendieron y afirmó que \"se pasó tres pueblos\", pero lo justificó: \"Creo que estaba en el calor del momento. Por supuesto, sabe qué tipo de comentarios genera eso porque él mismo lo sufrió. Probablemente haya sido el piloto que más habló sobre el odio hace un par de años, apenas unas temporadas atrás. Así que me sorprendió un poco, pero después, por supuesto, se disculpó \".\n\n\" Desafortunadamente, él también recibió mucho odio por eso . Es una situación complicada con el mundo exterior. Por eso creo que tenemos que cuidarnos con las cosas que decimos . Entiendo que, en el calor del momento, uno diga cosas así\" .\n\nPese a la crítica de Norris, Colapinto tuvo el respaldo de Max Verstappen y George Russell y, ante eso, deslizó entre risas: \" Creo que está bien que Lando haya logrado que Max y George estén de acuerdo por una vez. Son simplemente diferentes tipos de reacciones. Y, por supuesto, ellos han estado en situaciones diferentes\".",
+          "language": "es",
+          "publishedAt": "2026-10-01T22:32:02.000Z",
+          "addedAt": "2026-10-02T16:23:12.799Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -937,6 +907,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21",
+          "title": "GP de Bahrein: Verstappen larga en \"pole\", Hamilton lo escolta y Colapinto empieza 21.° | Campeones",
+          "summary": "A la hora 4:00 de la madrugada argentina se pondrá en marcha la 16.ª carrera de Fórmula 1 en el circuito de Sepang, sobre 56 vueltas.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-F1-Colapinto-Alpine-A526.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T23:00:39.000Z",
+          "addedAt": "2026-10-03T23:11:31.151Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-franco-colapinto-en-sepang-estamos-enfocados-en-la-carrera",
           "title": "Franco Colapinto en Sepang: «Estamos enfocados en la carrera»",
           "summary": "El piloto argentino repasó su labor con el Alpine en las dos prácticas que realizó en su primera visita a la pista de Sepang, y su objetivo para remontar posiciones el domingo en el GP de Bahrein.",
@@ -982,21 +967,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352-html",
-          "title": "La Copa de Oro del TC tiene nuevo líder tras la fecha de San Nicolás",
-          "summary": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992877/chapur-tomo-el-mando-de-la-copa-de-oro-tras-un-domingo-clave-en-san-nicolas_862x485.webp",
-          "body": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.\n\nEl piloto de Torino pasó a liderar el playoff después del abandono de Werner y quedó seguido de cerca por Santero y Fritzler. + Seguinos en La fecha del Turismo Carretera en San Nicolás modificó por completo el panorama de la Copa de Oro. Después de una final marcada por la primera victoria de Ignacio Faín y el abandono de Mariano Werner, Facundo Chapur pasó a ser el nuevo líder del campeonato. Chapur terminó segundo en la final detrás de su compañero Faín y alcanzó los 82,5 puntos, resultado que le permitió desplazar a Werner de la cima. El entrerriano, que había llegado a San Nicolás como puntero, abandonó en la vuelta 11 y cayó considerablemente en la tabla.\n\nMuy cerca del nuevo líder aparece Julián Santero con 81 unidades. El mendocino todavía no forma parte oficialmente de la Copa de Oro, pero está en zona de ingreso mediante el sistema de los “3 de último minuto” y sus puntos acumulados durante el playoff lo mantienen de lleno en la pelea.\n\nEl tercero es Otto Fritzler , quien finalizó cuarto en San Nicolás y llegó a los 78 puntos, apenas 4,5 por detrás de Chapur . Más atrás aparecen Josito Di Palma con 69,5 y Agustín Canapino con 63, luego de terminar 11° en la final.\n\nFaín , gracias a su victoria, alcanzó los 59 puntos, la misma cantidad que Werner . Jonatan Castellano quedó con 58,5 y Marco Dianda con 55,5.",
-          "language": "es",
-          "publishedAt": "2026-10-04T19:20:18.000Z",
-          "addedAt": "2026-10-04T20:11:31.443Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-gasly-declaraciones-incidente-colapinto-f1-id763788-html",
           "title": "Pierre Gasly dejó atrás el incidente con Franco Colapinto: “Ya está todo bien entre nosotros”",
           "summary": "El francés explicó que no quedaron rispideces con su compañero de equipo luego del choque del último sábado en Azerbaiyán y apuntó a trabajar en conjunto para lo que viene. “Nos necesitamos mutuamente”, aseguró.",
@@ -1025,6 +995,21 @@
           "addedAt": "2026-10-04T16:11:30.994Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352-html",
+          "title": "La Copa de Oro del TC tiene nuevo líder tras la fecha de San Nicolás",
+          "summary": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992877/chapur-tomo-el-mando-de-la-copa-de-oro-tras-un-domingo-clave-en-san-nicolas_862x485.webp",
+          "body": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.\n\nEl piloto de Torino pasó a liderar el playoff después del abandono de Werner y quedó seguido de cerca por Santero y Fritzler. + Seguinos en La fecha del Turismo Carretera en San Nicolás modificó por completo el panorama de la Copa de Oro. Después de una final marcada por la primera victoria de Ignacio Faín y el abandono de Mariano Werner, Facundo Chapur pasó a ser el nuevo líder del campeonato. Chapur terminó segundo en la final detrás de su compañero Faín y alcanzó los 82,5 puntos, resultado que le permitió desplazar a Werner de la cima. El entrerriano, que había llegado a San Nicolás como puntero, abandonó en la vuelta 11 y cayó considerablemente en la tabla.\n\nMuy cerca del nuevo líder aparece Julián Santero con 81 unidades. El mendocino todavía no forma parte oficialmente de la Copa de Oro, pero está en zona de ingreso mediante el sistema de los “3 de último minuto” y sus puntos acumulados durante el playoff lo mantienen de lleno en la pelea.\n\nEl tercero es Otto Fritzler , quien finalizó cuarto en San Nicolás y llegó a los 78 puntos, apenas 4,5 por detrás de Chapur . Más atrás aparecen Josito Di Palma con 69,5 y Agustín Canapino con 63, luego de terminar 11° en la final.\n\nFaín , gracias a su victoria, alcanzó los 59 puntos, la misma cantidad que Werner . Jonatan Castellano quedó con 58,5 y Marco Dianda con 55,5.",
+          "language": "es",
+          "publishedAt": "2026-10-04T19:20:18.000Z",
+          "addedAt": "2026-10-04T20:11:31.443Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-ignacio-fain-gano-en-san-nicolas-y-logro-su-primera-victoria-en-el-turismo-carretera-id7",
@@ -1075,7 +1060,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-04T22:11:32.539Z",
+      "createdAt": "2026-10-04T23:11:35.694Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1091,21 +1076,6 @@
           "addedAt": "2026-10-04T08:11:31.664Z",
           "category": "general",
           "tag": "Clima"
-        },
-        {
-          "id": "campeones-com-ar-andersson-y-azcona-ganaron-las-ultimas-carreras-del-tcr-en-corea",
-          "title": "Andersson y Azcona ganaron las últimas carreras del TCR en Corea | Campeones",
-          "summary": "El sueco mantuvo la punta desde la largada y se llevó la segunda competencia, mientras que el español repitió triunfo y lidera el certamen.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/andersson-y-azcona-ganaron-las-ultimas-carreras-del-tcr-en-corea/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9801.png",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T11:04:58.000Z",
-          "addedAt": "2026-10-04T13:11:31.134Z",
-          "category": "general",
-          "tag": "Carrera"
         },
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -1151,6 +1121,21 @@
           "addedAt": "2026-10-02T16:23:12.760Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-andersson-y-azcona-ganaron-las-ultimas-carreras-del-tcr-en-corea",
+          "title": "Andersson y Azcona ganaron las últimas carreras del TCR en Corea | Campeones",
+          "summary": "El sueco mantuvo la punta desde la largada y se llevó la segunda competencia, mientras que el español repitió triunfo y lidera el certamen.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/andersson-y-azcona-ganaron-las-ultimas-carreras-del-tcr-en-corea/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9801.png",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T11:04:58.000Z",
+          "addedAt": "2026-10-04T13:11:31.134Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-andersson-triunfo-en-la-segunda-carrera-del-tcr-en-corea-urrutia-se-retraso",
@@ -1351,7 +1336,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-04T22:11:32.539Z",
+      "createdAt": "2026-10-04T23:11:35.694Z",
       "items": [
         {
           "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
@@ -1627,7 +1612,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-04T22:11:32.539Z",
+      "createdAt": "2026-10-04T23:11:35.694Z",
       "items": [
         {
           "id": "campeones-com-ar-tc-el-bmw-de-santero-se-quedo-con-el-ultimo-parcial-nicoleno",
