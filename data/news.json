@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T13:11:29.144Z",
-  "checkedAt": "2026-10-04T13:11:29.144Z",
+  "updatedAt": "2026-10-04T14:11:29.992Z",
+  "checkedAt": "2026-10-04T14:11:29.992Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,36 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-provens-tiene-la-pole-para-la-final-del-tc-pista",
+      "title": "Provens tiene la “pole” para la Final del TC Pista",
+      "summary": "El piloto de Dodge ganó con comodidad la batería más veloz en San Nicolás y largará la Final desde la mejor posición por 3ª vez en la temporada. Gabriel Gandulia (Ford Mustang) completará la 1ª fila de la 12ª fecha del campeonato 2026.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/provens-tiene-la-pole-para-la-final-del-tc-pista/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Provens-TCP-2026-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-04T13:44:47.000Z",
+      "addedAt": "2026-10-04T14:11:37.933Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "carburando-com-ar-blog-el-plan-de-juan-angel-rosso-para-afianzarse-en-el-tcr-south-america",
+      "title": "El plan de Juan Ángel Rosso para afianzarse en el TCR South America",
+      "summary": "El piloto argentino detalla cómo busca consolidar su vínculo con la marca y escalar en la categoría sudamericana de turismos. Un proyecto técnico…",
+      "source": "Carburando",
+      "sourceLabel": "Carburando",
+      "url": "https://carburando.com.ar/blog/el-plan-de-juan-angel-rosso-para-afianzarse-en-el-tcr-south-america",
+      "image": "https://carburando.com.ar/covers/22/el-plan-de-juan-angel-rosso-para-afianzarse-en-el-tcr-south-23087.webp",
+      "body": "El piloto argentino detalla cómo busca consolidar su vínculo con la marca y escalar en la categoría sudamericana de turismos. Un proyecto técnico y estratégico que apunta a crecer de forma sostenida.\n\nJuan Ángel Rosso encara la temporada 2026 del TCR South America con un objetivo claro: afianzarse definitivamente con la marca que representa y transformar su presencia en la categoría en un proyecto sólido y a largo plazo.\n\nEl cordobés, que ya acumula experiencia en diferentes categorías del automovilismo nacional e internacional, entiende que el TCR es un escalón clave para proyectarse. \"Estamos tratando de afianzarnos con la marca\", explica con la franqueza que lo caracteriza. Esa frase resume una estrategia que va más allá de correr una o dos fechas: se trata de construir una relación técnica y comercial duradera con el equipo y el fabricante.\n\nEn el TCR South America los autos compiten bajo un reglamento técnico basado en el TCR International, con motores turbo de 2.0 litros, tracción delantera y un peso mínimo que ronda los 1.280 kilos según la balanza de performance. Esto obliga a los pilotos y equipos a trabajar muy cerca del fabricante para lograr el setup ideal en cada circuito. Rosso sabe que solo con continuidad se pueden extraer los datos necesarios para evolucionar el paquete.\n\nEl plan pasa por varias patas. Primero, la parte técnica: lograr que el auto se adapte mejor a los trazados sudamericanos, que tienen características muy distintas a los europeos. Segundo, la deportiva: sumar kilómetros y resultados consistentes que permitan pelear por podios y victorias de manera regular. Y tercero, la comercial: fortalecer la imagen de la marca en el mercado argentino y regional, algo que los sponsors valoran especialmente en un contexto económico complejo.",
+      "language": "es",
+      "publishedAt": "2026-09-11T21:20:22.000Z",
+      "addedAt": "2026-10-04T14:11:32.689Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "carburando-com-ar-blog-la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-encara-a-todo",
       "title": "La mentalidad de Ignacio Faín: “Estas cinco carreras uno las encara a todo o nada”",
@@ -388,7 +418,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-04T13:11:35.521Z",
+      "createdAt": "2026-10-04T14:11:44.596Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-furiosa-reaccion-de-colapinto-por-la-estrategia-de-alpine-en-el-gp-de-malasia-de-la-f",
@@ -496,6 +526,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-como-quedo-colapinto-en-el-campeonato-de-pilotos-de-la-f1-tras-el-gp-de-malasia-id764320",
+          "title": "Cómo quedó Colapinto en el Campeonato de Pilotos de la F1 tras el GP de Malasia",
+          "summary": "El argentino terminó 13° en Sepang después de una gran remontada desde el fondo de la grilla, pero no logró sumar puntos.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/como-quedo-colapinto-en-el-campeonato-de-pilotos-de-la-f1-tras-el-gp-de-malasia-id764320.html",
+          "image": "https://media.tycsports.com/files/2026/09/25/990636/colapinto_1440x810.webp?v=1",
+          "body": "El argentino terminó 13° en Sepang después de una gran remontada desde el fondo de la grilla, pero no logró sumar puntos.\n\nColapinto. + Seguinos en Franco Colapinto completó una destacada remontada en el Gran Premio de Malasia de la Fórmula 1 , pero se quedó sin premio en el resultado. El piloto de Alpine largó desde el 21° puesto, avanzó ocho posiciones y cruzó la bandera a cuadros en el 13° lugar, por lo que no sumó puntos y se mantuvo en el 12° puesto del Campeonato de Pilotos , con 27 unidades.\n\nLa carrera tuvo como ganador a Max Verstappen , quien consiguió su primera victoria de la temporada 2026 con Red Bull después de dominar desde la pole position. El neerlandés se impuso en una competencia que tuvo un comienzo retrasado por la lluvia y estuvo marcada por varios ingresos del auto de seguridad. Kimi Antonelli, con Mercedes, terminó segundo, mientras que Lewis Hamilton completó el podio con Ferrari. Para Colapinto, la jornada en Sepang fue cuesta arriba desde antes de la largada. El argentino debió afrontar una penalización que lo relegó al fondo de la grilla y condicionó sus posibilidades de avanzar en una carrera en la que los incidentes y las neutralizaciones modificaron el desarrollo de la prueba.\n\nAun así, el piloto de Alpine consiguió recuperar ocho posiciones y finalizó por delante de su compañero Pierre Gasly, quien terminó 16°. La remontada tuvo mérito, aunque la estrategia de neumáticos elegida por Alpine no terminó de favorecerlo y le impidió acercarse a la zona de puntos. El 13° puesto no le permitió sumar unidades, pero tampoco modificó su ubicación en el campeonato . Colapinto continúa 12° con 27 puntos, mientras que Gasly se mantiene 10º en la clasificación, con 41. En lo más alto, Antonelli conserva el liderazgo con holgura tras finalizar segundo ",
+          "language": "es",
+          "publishedAt": "2026-10-04T14:00:16.000Z",
+          "addedAt": "2026-10-04T14:11:31.968Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-ahora-que-alpine-le-pida-perdon-a-colapinto-op-id764303-html",
           "title": "Ahora que Alpine le pida perdón a Colapinto",
           "summary": "Así como en Azerbaiyán falló el piloto, en Malasia hubo un grave error estratégico del equipo ante la primera lluvia para la F1 en el año.",
@@ -507,21 +552,6 @@
           "language": "es",
           "publishedAt": "2026-10-04T10:30:05.000Z",
           "addedAt": "2026-10-04T11:11:31.436Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-f1-colapinto-escalo-en-sepang-hasta-el-13-puesto-y-verstappen-retorno-a-la-victoria",
-          "title": "F1: Colapinto escaló en Sepang hasta el 13.° puesto y Verstappen retornó a la victoria con Red Bull",
-          "summary": "Sólida labor realizó el piloto argentino con el Alpine en una carrera que se largó 1h35m más tarde y con varias dificultades en su desarrollo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-colapinto-escalo-en-sepang-hasta-el-13-puesto-y-verstappen-retorno-a-la-victoria/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-F1-Colapinto-Alpine.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T10:28:21.000Z",
-          "addedAt": "2026-10-04T11:11:30.712Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -567,6 +597,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T20:37:34.000Z",
           "addedAt": "2026-10-02T21:06:55.272Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-f1-colapinto-escalo-en-sepang-hasta-el-13-puesto-y-verstappen-retorno-a-la-victoria",
+          "title": "F1: Colapinto escaló en Sepang hasta el 13.° puesto y Verstappen retornó a la victoria con Red Bull",
+          "summary": "Sólida labor realizó el piloto argentino con el Alpine en una carrera que se largó 1h35m más tarde y con varias dificultades en su desarrollo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-colapinto-escalo-en-sepang-hasta-el-13-puesto-y-verstappen-retorno-a-la-victoria/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-F1-Colapinto-Alpine.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T10:28:21.000Z",
+          "addedAt": "2026-10-04T11:11:30.712Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -644,7 +689,13 @@
           "addedAt": "2026-10-02T20:06:54.053Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-04T14:11:44.596Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
           "title": "F1 | Colapinto en el GP de Malasia: horarios y el cronograma completo",
@@ -659,13 +710,7 @@
           "addedAt": "2026-10-02T16:23:12.642Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-04T13:11:35.521Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-le-respondio-a-lando-norris-y-se-quejo-de-los-ataques-en-redes-siempre-",
           "title": "Franco Colapinto le respondió a Lando Norris y se quejó de los ataques en redes: \"Siempre se apunta a los argentinos\"",
@@ -678,21 +723,6 @@
           "language": "es",
           "publishedAt": "2026-10-01T22:32:02.000Z",
           "addedAt": "2026-10-02T16:23:12.799Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-lando-norris-revelo-la-intimidad-de-su-charla-con-franco-colapinto-id763779-html",
-          "title": "Lando Norris reveló la intimidad de su charla con Franco Colapinto: \"Algunas cosas que dije estuvieron mal\"",
-          "summary": "El piloto de McLaren contó cómo le pidió disculpas al argentino luego de sus polémicos dichos tras el GP de Azerbaiyán de la F1.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/lando-norris-revelo-la-intimidad-de-su-charla-con-franco-colapinto-id763779.html",
-          "image": "https://media.tycsports.com/files/2026/10/01/991982/colapinto-y-norris_1440x810.webp",
-          "body": "El piloto de McLaren contó cómo le pidió disculpas al argentino luego de sus polémicos dichos tras el GP de Azerbaiyán de la F1.\n\nFranco Colapinto junto a Lando Norris (Getty Images) + Seguinos en Las polémicas declaraciones de Lando Norris contra Franco Colapinto dieron la vuelta al mundo y generaron varias reacciones negativas en el público argentino, hasta la de algunos pilotos que no coincidieron con él, como Max Verstappen y George Russell . A través de esto, el de McLaren se disculpó con el pilarense y le pareció \" sensato \" informarlo en sus redes sociales .\n\nNorris había quedado muy enojado con Colapinto tras el choque que lo dejó afuera del Gran Premio de Azerbaiyán y, en sus dichos post carrera, pidió por la suspensión del argentino: “Esta gente debería ser suspendida porque ese tipo de conducción no merece estar en la F1. Para ser honestos, hay pilotos que no deberían estar en la Fórmula 1” .\n\nLuego de esas declaraciones en caliente, el británico reculó y reveló: \"No hizo falta que fuera una conversación larga. Me disculpé con él por las palabras y algunas de las cosas que dije que estuvieron mal, y él se disculpó conmigo por el incidente y, obviamente, por el choque, lo cual está bien\".\n\nAdemás, el vigente campeón de la Fórmula 1 explicó porqué lo compartió en sus redes sociales: \" Diría que fue más para el público en general. Yo le dije a Franco lo que quería decirle y él es realmente la única persona con la que necesito compartir mi opinión y disculparme. No necesito hacerlo en las redes sociales y no siento que necesite usar las redes sociales para hacer algo así. Pero, al mismo tiempo, obviamente hubo mucho ruido y cosas de fondo y pensé que era sensato anunciar o mostrar que me había disculpado\".",
-          "language": "es",
-          "publishedAt": "2026-10-01T13:54:31.000Z",
-          "addedAt": "2026-10-02T16:23:12.797Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -738,6 +768,21 @@
           "language": "es",
           "publishedAt": "2026-10-03T10:25:22.000Z",
           "addedAt": "2026-10-03T11:20:54.389Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-lando-norris-revelo-la-intimidad-de-su-charla-con-franco-colapinto-id763779-html",
+          "title": "Lando Norris reveló la intimidad de su charla con Franco Colapinto: \"Algunas cosas que dije estuvieron mal\"",
+          "summary": "El piloto de McLaren contó cómo le pidió disculpas al argentino luego de sus polémicos dichos tras el GP de Azerbaiyán de la F1.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/lando-norris-revelo-la-intimidad-de-su-charla-con-franco-colapinto-id763779.html",
+          "image": "https://media.tycsports.com/files/2026/10/01/991982/colapinto-y-norris_1440x810.webp",
+          "body": "El piloto de McLaren contó cómo le pidió disculpas al argentino luego de sus polémicos dichos tras el GP de Azerbaiyán de la F1.\n\nFranco Colapinto junto a Lando Norris (Getty Images) + Seguinos en Las polémicas declaraciones de Lando Norris contra Franco Colapinto dieron la vuelta al mundo y generaron varias reacciones negativas en el público argentino, hasta la de algunos pilotos que no coincidieron con él, como Max Verstappen y George Russell . A través de esto, el de McLaren se disculpó con el pilarense y le pareció \" sensato \" informarlo en sus redes sociales .\n\nNorris había quedado muy enojado con Colapinto tras el choque que lo dejó afuera del Gran Premio de Azerbaiyán y, en sus dichos post carrera, pidió por la suspensión del argentino: “Esta gente debería ser suspendida porque ese tipo de conducción no merece estar en la F1. Para ser honestos, hay pilotos que no deberían estar en la Fórmula 1” .\n\nLuego de esas declaraciones en caliente, el británico reculó y reveló: \"No hizo falta que fuera una conversación larga. Me disculpé con él por las palabras y algunas de las cosas que dije que estuvieron mal, y él se disculpó conmigo por el incidente y, obviamente, por el choque, lo cual está bien\".\n\nAdemás, el vigente campeón de la Fórmula 1 explicó porqué lo compartió en sus redes sociales: \" Diría que fue más para el público en general. Yo le dije a Franco lo que quería decirle y él es realmente la única persona con la que necesito compartir mi opinión y disculparme. No necesito hacerlo en las redes sociales y no siento que necesite usar las redes sociales para hacer algo así. Pero, al mismo tiempo, obviamente hubo mucho ruido y cosas de fondo y pensé que era sensato anunciar o mostrar que me había disculpado\".",
+          "language": "es",
+          "publishedAt": "2026-10-01T13:54:31.000Z",
+          "addedAt": "2026-10-02T16:23:12.797Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -920,27 +965,12 @@
           "addedAt": "2026-10-03T21:11:31.686Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-pick-up-con-la-exclusion-de-werner-el-campeonato-tiene-nuevo-lider",
-          "title": "Pick Up: con la exclusión de Werner, el campeonato tiene nuevo líder | Campeones",
-          "summary": "Otto Fritzler es quien comanda el campeoanto tras la penalización al de Paraná por el exceso de compresión en el motor de la Foton.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/pick-up-con-la-exclusion-de-werner-el-campeonato-tiene-nuevo-lider/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Fritzler-TCPK-2026.png",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-09-28T13:14:59.000Z",
-          "addedAt": "2026-10-02T17:57:46.877Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-04T13:11:35.522Z",
+      "createdAt": "2026-10-04T14:11:44.596Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1048,21 +1078,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
-          "title": "TC: “Josito” Di Palma fue el más veloz bajo la lluvia en San Nicolás",
-          "summary": "El arrecifeño del RUS Med Team, que viene de lograr la “pole position” en San Luis también en condiciones de pista húmeda, prevaleció en el primer entrenamiento de la 2ª fecha de la Copa de Oro del Turismo Carretera, del que sólo tomaron parte 20 de los 53 inscriptos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Di-Palma-TC-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T13:27:45.000Z",
-          "addedAt": "2026-10-03T14:11:27.624Z",
-          "category": "general",
-          "tag": "Clima"
-        },
-        {
           "id": "campeones-com-ar-el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi",
           "title": "El cierre del campeonato de F1 será en Qatar y Abu Dhabi",
           "summary": "Stefano Domenicali confirmó que la temporada culminará en las carreras de Medio Oriente, en donde dispone de \"garantías\" para desarrollar ambos Grandes Premios.",
@@ -1121,6 +1136,21 @@
           "addedAt": "2026-10-02T16:23:13.048Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
+          "title": "TC: “Josito” Di Palma fue el más veloz bajo la lluvia en San Nicolás",
+          "summary": "El arrecifeño del RUS Med Team, que viene de lograr la “pole position” en San Luis también en condiciones de pista húmeda, prevaleció en el primer entrenamiento de la 2ª fecha de la Copa de Oro del Turismo Carretera, del que sólo tomaron parte 20 de los 53 inscriptos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Di-Palma-TC-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T13:27:45.000Z",
+          "addedAt": "2026-10-03T14:11:27.624Z",
+          "category": "general",
+          "tag": "Clima"
         },
         {
           "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
@@ -1216,7 +1246,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-04T13:11:35.522Z",
+      "createdAt": "2026-10-04T14:11:44.596Z",
       "items": [
         {
           "id": "campeones-com-ar-tcr-wt-azcona-se-quedo-con-la-pole-y-michelisz-cerro-el-1-2-de-hyundai",
@@ -1307,6 +1337,36 @@
           "addedAt": "2026-10-02T17:57:42.291Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-pick-up-con-la-exclusion-de-werner-el-campeonato-tiene-nuevo-lider",
+          "title": "Pick Up: con la exclusión de Werner, el campeonato tiene nuevo líder | Campeones",
+          "summary": "Otto Fritzler es quien comanda el campeoanto tras la penalización al de Paraná por el exceso de compresión en el motor de la Foton.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/pick-up-con-la-exclusion-de-werner-el-campeonato-tiene-nuevo-lider/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Fritzler-TCPK-2026.png",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-09-28T13:14:59.000Z",
+          "addedAt": "2026-10-02T17:57:46.877Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-tc-con-solvencia-fain-se-adjudico-la-1a-serie-en-san-nicolas",
+          "title": "TC: con solvencia, Fain se adjudicó la 1ª serie en San Nicolás",
+          "summary": "El representante de Torino logró su 1ª victoria parcial en el Turismo Carretera tras superar por 1s331 a Diego Azar (Mercedes-Benz CLE 53).",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-con-solvencia-fain-se-adjudico-la-1a-serie-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-TC-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T14:09:40.000Z",
+          "addedAt": "2026-10-04T14:11:33.825Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas",
@@ -1457,7 +1517,13 @@
           "addedAt": "2026-10-02T17:57:42.221Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-04T14:11:44.596Z",
+      "items": [
         {
           "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
           "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
@@ -1487,13 +1553,7 @@
           "addedAt": "2026-10-03T16:11:30.630Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-04T13:11:35.522Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-santiago-biagi-abrio-el-juego-del-tc-pista-en-san-nicolas",
           "title": "Santiago Biagi abrió el juego del TC Pista en San Nicolás",
@@ -1506,6 +1566,21 @@
           "language": "es",
           "publishedAt": "2026-10-03T15:06:57.000Z",
           "addedAt": "2026-10-03T15:11:32.087Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina",
+          "title": "Daniel Herrero aclaró el programa deportivo de Mercedes-Benz en Argentina",
+          "summary": "El CEO de Prestige Auto se refirió sobre el rumor de una posible expansión de la marca alemana hacia Turismo Competición 2000.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/06/DANIEL-HERRERO-MERCEDES-BENZ.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-09-29T18:31:58.000Z",
+          "addedAt": "2026-10-02T17:57:45.353Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1536,21 +1611,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T13:12:20.000Z",
           "addedAt": "2026-10-03T14:11:27.536Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina",
-          "title": "Daniel Herrero aclaró el programa deportivo de Mercedes-Benz en Argentina",
-          "summary": "El CEO de Prestige Auto se refirió sobre el rumor de una posible expansión de la marca alemana hacia Turismo Competición 2000.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/06/DANIEL-HERRERO-MERCEDES-BENZ.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-09-29T18:31:58.000Z",
-          "addedAt": "2026-10-02T17:57:45.353Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1731,36 +1791,6 @@
           "language": "es",
           "publishedAt": "2026-09-27T15:52:09.000Z",
           "addedAt": "2026-10-02T17:57:45.987Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-lema-despejo-dudas-sobre-el-futuro-de-canapino-en-el-tc-y-tn",
-          "title": "Lema despejó dudas sobre el futuro de Canapino en el TC y TN",
-          "summary": "El titular del Canning Motorsports ratificó la continuidad del arrecifeño dentro de su equipo en ambas divisionales para la temporada 2027.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/lema-despejo-dudas-sobre-el-futuro-de-canapino-en-el-tc-y-tn/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/06/gustavo-lema.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-09-22T15:59:59.000Z",
-          "addedAt": "2026-10-02T17:57:45.066Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-tiago-pernia-se-presenta-en-el-mitico-circuito-de-monza-con-el-tcr-europa",
-          "title": "Tiago Pernía se presenta en el mítico circuito de Monza con el TCR Europa | Campeones",
-          "summary": "El joven argentino realizó dos tandas de entrenamientos con el Honda de la Squadra Martino y se ubicó 10.° y 17.°, respectivamente.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tiago-pernia-se-presenta-en-el-mitico-circuito-de-monza-con-el-tcr-europa/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/SnapInsta.to_824128338_18420609616156552_7728897429539746402_n-e1790363643606.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-09-25T17:14:32.000Z",
-          "addedAt": "2026-10-02T17:57:45.571Z",
           "category": "argentino",
           "tag": "Argentino"
         }
