@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T01:11:29.033Z",
-  "checkedAt": "2026-10-04T01:11:29.033Z",
+  "updatedAt": "2026-10-04T02:11:29.995Z",
+  "checkedAt": "2026-10-04T02:11:29.995Z",
   "pageSize": 18,
   "sources": [
     {
@@ -298,7 +298,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-04T01:11:32.812Z",
+      "createdAt": "2026-10-04T02:11:40.405Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -436,21 +436,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21",
-          "title": "GP de Bahrein: Verstappen larga en \"pole\", Hamilton lo escolta y Colapinto empieza 21.° | Campeones",
-          "summary": "A la hora 4:00 de la madrugada argentina se pondrá en marcha la 16.ª carrera de Fórmula 1 en el circuito de Sepang, sobre 56 vueltas.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-F1-Colapinto-Alpine-A526.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T23:00:39.000Z",
-          "addedAt": "2026-10-03T23:11:31.151Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-alpine-explico-por-que-decidio-tocar-el-motor-y-que-colapinto-sea-sancionado-id764083-ht",
           "title": "Alpine explicó por qué decidió \"tocar\" el motor y que Colapinto sea sancionado",
           "summary": "El director general de la escudería, Steve Nielsen, detalló la estrategia del equipo para el Gran Premio de Malasia y contó lo que los llevó a realizar cambios pese a que serían sancionados.",
@@ -477,6 +462,21 @@
           "language": "es",
           "publishedAt": "2026-10-03T17:00:17.000Z",
           "addedAt": "2026-10-02T17:57:42.536Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21",
+          "title": "GP de Bahrein: Verstappen larga en \"pole\", Hamilton lo escolta y Colapinto empieza 21.° | Campeones",
+          "summary": "A la hora 4:00 de la madrugada argentina se pondrá en marcha la 16.ª carrera de Fórmula 1 en el circuito de Sepang, sobre 56 vueltas.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-F1-Colapinto-Alpine-A526.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T23:00:39.000Z",
+          "addedAt": "2026-10-03T23:11:31.151Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -574,7 +574,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-04T01:11:32.812Z",
+      "createdAt": "2026-10-04T02:11:40.405Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-lando-norris-revelo-la-intimidad-de-su-charla-con-franco-colapinto-id763779-html",
@@ -850,7 +850,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-04T01:11:32.812Z",
+      "createdAt": "2026-10-04T02:11:40.405Z",
       "items": [
         {
           "id": "campeones-com-ar-tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas",
@@ -866,21 +866,6 @@
           "addedAt": "2026-10-03T18:11:30.923Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
-          "title": "TC: “Josito” Di Palma fue el más veloz bajo la lluvia en San Nicolás",
-          "summary": "El arrecifeño del RUS Med Team, que viene de lograr la “pole position” en San Luis también en condiciones de pista húmeda, prevaleció en el primer entrenamiento de la 2ª fecha de la Copa de Oro del Turismo Carretera, del que sólo tomaron parte 20 de los 53 inscriptos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Di-Palma-TC-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T13:27:45.000Z",
-          "addedAt": "2026-10-03T14:11:27.624Z",
-          "category": "general",
-          "tag": "Clima"
         },
         {
           "id": "campeones-com-ar-el-susto-que-tuvo-rus-med-team-antes-de-la-carrera-de-tc-en-san-nicolas",
@@ -941,6 +926,21 @@
           "addedAt": "2026-10-02T16:23:12.760Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
+          "title": "TC: “Josito” Di Palma fue el más veloz bajo la lluvia en San Nicolás",
+          "summary": "El arrecifeño del RUS Med Team, que viene de lograr la “pole position” en San Luis también en condiciones de pista húmeda, prevaleció en el primer entrenamiento de la 2ª fecha de la Copa de Oro del Turismo Carretera, del que sólo tomaron parte 20 de los 53 inscriptos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Di-Palma-TC-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T13:27:45.000Z",
+          "addedAt": "2026-10-03T14:11:27.624Z",
+          "category": "general",
+          "tag": "Clima"
         },
         {
           "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
@@ -1126,7 +1126,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-04T01:11:32.812Z",
+      "createdAt": "2026-10-04T02:11:40.405Z",
       "items": [
         {
           "id": "campeones-com-ar-motogp-en-japon-dominio-de-los-hermanos-marquez-en-los-ensayos",
@@ -1324,36 +1324,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-santero-apunto-por-las-licencias-y-dijo-que-nadie-lo-llamo",
-          "title": "Santero apuntó por las licencias y dijo que \"nadie lo llamó\" | Campeones",
-          "summary": "El mendocino dialogó con Campeones desde San Nicolás y volvió a disparar por la negativa de la CDA de otorgarle la Licencia Internacional para correr en Stock Car . Además, la falta de apoyo entre los pilotos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/santero-apunto-por-las-licencias-y-dijo-que-nadie-lo-llamo/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/Julian-Santero-BMW-IG-1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T13:32:02.000Z",
-          "addedAt": "2026-10-03T14:11:27.613Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour",
-          "title": "Azcona revalidó la \"pole\" con triunfo en el TCR World Tour | Campeones",
-          "summary": "El español es ahora le nuevo líder del certamen con el Hyundai, ya que Santiago Urrutia culminó 9.°.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2026_TCR_photo_news_299_5906468e00a8118fbdc45bde752c23ce.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T13:12:20.000Z",
-          "addedAt": "2026-10-03T14:11:27.536Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-los-argentinos-tienen-por-objetivo-estar-en-los-podios-del-rally-de-marruecos",
           "title": "Los argentinos disputan por un lugar en los podios del Rally de Marruecos",
           "summary": "En la penúltima etapa Benavides se retrasó por una caída en Motos, Andújar descuenta en Challenger y González Ferioli mantiene la vanguardia en SSV. Ekström se impone en Autos.",
@@ -1384,6 +1354,36 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-santero-apunto-por-las-licencias-y-dijo-que-nadie-lo-llamo",
+          "title": "Santero apuntó por las licencias y dijo que \"nadie lo llamó\" | Campeones",
+          "summary": "El mendocino dialogó con Campeones desde San Nicolás y volvió a disparar por la negativa de la CDA de otorgarle la Licencia Internacional para correr en Stock Car . Además, la falta de apoyo entre los pilotos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/santero-apunto-por-las-licencias-y-dijo-que-nadie-lo-llamo/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/Julian-Santero-BMW-IG-1.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T13:32:02.000Z",
+          "addedAt": "2026-10-03T14:11:27.613Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour",
+          "title": "Azcona revalidó la \"pole\" con triunfo en el TCR World Tour | Campeones",
+          "summary": "El español es ahora le nuevo líder del certamen con el Hyundai, ya que Santiago Urrutia culminó 9.°.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2026_TCR_photo_news_299_5906468e00a8118fbdc45bde752c23ce.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T13:12:20.000Z",
+          "addedAt": "2026-10-03T14:11:27.536Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina",
           "title": "Daniel Herrero aclaró el programa deportivo de Mercedes-Benz en Argentina",
           "summary": "El CEO de Prestige Auto se refirió sobre el rumor de una posible expansión de la marca alemana hacia Turismo Competición 2000.",
@@ -1402,7 +1402,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-04T01:11:32.812Z",
+      "createdAt": "2026-10-04T02:11:40.405Z",
       "items": [
         {
           "id": "campeones-com-ar-tcr-girolami-marca-el-ritmo-con-el-hyundai-en-posadas",
