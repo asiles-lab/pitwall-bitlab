@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T03:11:29.126Z",
-  "checkedAt": "2026-10-04T03:11:29.126Z",
+  "updatedAt": "2026-10-04T04:11:29.140Z",
+  "checkedAt": "2026-10-04T04:11:29.140Z",
   "pageSize": 18,
   "sources": [
     {
@@ -313,7 +313,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-04T03:11:37.553Z",
+      "createdAt": "2026-10-04T04:11:32.674Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -589,7 +589,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-04T03:11:37.553Z",
+      "createdAt": "2026-10-04T04:11:32.674Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-lando-norris-revelo-la-intimidad-de-su-charla-con-franco-colapinto-id763779-html",
@@ -865,7 +865,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-04T03:11:37.553Z",
+      "createdAt": "2026-10-04T04:11:32.674Z",
       "items": [
         {
           "id": "campeones-com-ar-andersson-triunfo-en-la-segunda-carrera-del-tcr-en-corea-urrutia-se-retraso",
@@ -1141,7 +1141,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-04T03:11:37.553Z",
+      "createdAt": "2026-10-04T04:11:32.674Z",
       "items": [
         {
           "id": "campeones-com-ar-gac-la-segunda-marca-china-que-incursionara-en-tc2000",
@@ -1309,21 +1309,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-tc-en-san-nicolas-el-torino-de-fain-prevalecio-en-la-dispar-ultima-practica",
-          "title": "TC en San Nicolás: el Torino de Faín prevaleció en la dispar última práctica",
-          "summary": "En un entrenamiento en el que los integrantes del grupo “A” giraron con la pista bastante menos húmeda que los del grupo “B” y diferencias superiores a los 8 segundos entre ambos, el piloto del Trotta Racing Team aventajó por 0s064 a Mauricio Lambiris (Ford Mustang).",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-en-san-nicolas-el-torino-de-fain-prevalecio-en-la-dispar-ultima-practica/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-TC-2026.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T15:55:19.000Z",
-          "addedAt": "2026-10-03T16:11:30.630Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-los-argentinos-tienen-por-objetivo-estar-en-los-podios-del-rally-de-marruecos",
           "title": "Los argentinos disputan por un lugar en los podios del Rally de Marruecos",
           "summary": "En la penúltima etapa Benavides se retrasó por una caída en Motos, Andújar descuenta en Challenger y González Ferioli mantiene la vanguardia en SSV. Ekström se impone en Autos.",
@@ -1350,6 +1335,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T06:39:57.000Z",
           "addedAt": "2026-10-02T17:57:42.221Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-tc-en-san-nicolas-el-torino-de-fain-prevalecio-en-la-dispar-ultima-practica",
+          "title": "TC en San Nicolás: el Torino de Faín prevaleció en la dispar última práctica",
+          "summary": "En un entrenamiento en el que los integrantes del grupo “A” giraron con la pista bastante menos húmeda que los del grupo “B” y diferencias superiores a los 8 segundos entre ambos, el piloto del Trotta Racing Team aventajó por 0s064 a Mauricio Lambiris (Ford Mustang).",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-en-san-nicolas-el-torino-de-fain-prevalecio-en-la-dispar-ultima-practica/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-TC-2026.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T15:55:19.000Z",
+          "addedAt": "2026-10-03T16:11:30.630Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1417,7 +1417,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-04T03:11:37.553Z",
+      "createdAt": "2026-10-04T04:11:32.674Z",
       "items": [
         {
           "id": "campeones-com-ar-tcr-girolami-marca-el-ritmo-con-el-hyundai-en-posadas",
