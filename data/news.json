@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T02:11:29.995Z",
-  "checkedAt": "2026-10-04T02:11:29.995Z",
+  "updatedAt": "2026-10-04T03:11:29.126Z",
+  "checkedAt": "2026-10-04T03:11:29.126Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-tc2000-el-historico-regreso-al-triunfo-de-vw",
+      "title": "TC2000: el histórico regreso al triunfo de VW",
+      "summary": "La victoria de Lucas Carabajal en “El Zonda” puso fin a 21 años de sequía para Volkswagen en la categoría, la racha más extensa de la marca. El detalle de los pilotos y los modelos que ganaron con VW desde 1980.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc2000-el-historico-regreso-al-triunfo-de-vw/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Carabajal-TC2000-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-09-29T13:00:33.000Z",
+      "addedAt": "2026-10-04T03:11:33.977Z",
+      "category": "general",
+      "tag": "F1"
+    },
     {
       "id": "campeones-com-ar-balcarce-esta-muchisimo-mejor-que-otra-pista-del-calendario-de-tc",
       "title": "\"Balcarce está muchísimo mejor que otras pistas del calendario de TC\" | Campeones",
@@ -298,7 +313,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-04T02:11:40.405Z",
+      "createdAt": "2026-10-04T03:11:37.553Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -574,7 +589,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-04T02:11:40.405Z",
+      "createdAt": "2026-10-04T03:11:37.553Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-lando-norris-revelo-la-intimidad-de-su-charla-con-franco-colapinto-id763779-html",
@@ -850,8 +865,23 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-04T02:11:40.405Z",
+      "createdAt": "2026-10-04T03:11:37.553Z",
       "items": [
+        {
+          "id": "campeones-com-ar-andersson-triunfo-en-la-segunda-carrera-del-tcr-en-corea-urrutia-se-retraso",
+          "title": "Andersson triunfó en la segunda carrera del TCR en Corea; Urrutia se retrasó | Campeones",
+          "summary": "El sueco mantuvo la punta desde la largada y se llevó la competencia, escoltado por el chino Quinghua Ma y el local Junesung Park.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/andersson-triunfo-en-la-segunda-carrera-del-tcr-en-corea-urrutia-se-retraso/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9801.png",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T03:04:58.000Z",
+          "addedAt": "2026-10-04T03:11:30.910Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
         {
           "id": "campeones-com-ar-tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas",
           "title": "TC Pista: Maceira se quedó con el ensayo final en San Nicolás",
@@ -943,21 +973,6 @@
           "tag": "Clima"
         },
         {
-          "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
-          "title": "TCR South America: Okulovich por Piquet Jr. como cambio de último momento",
-          "summary": "El brasileño se ausenta de la competencia en Misiones \"por compromisos asumidos previamente en su calendario deportivo\" según explicó el equipo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NELSON-PIQUET-JR.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T02:40:19.000Z",
-          "addedAt": "2026-10-03T15:11:35.641Z",
-          "category": "general",
-          "tag": "Previa"
-        },
-        {
           "id": "campeones-com-ar-eugenio-provens-por-1a-vez-al-tope-de-la-clasificacion-del-tc-pista",
           "title": "Eugenio Provens, por 1ª vez al tope de la clasificación del TC Pista",
           "summary": "El cordobés logró su 1ª “pole position” en la categoría al marcar el mejor tiempo en San Nicolás con el Dodge Challenger del Galarza Racing. Bautista Damiani (Chevrolet Camaro), el líder de la Copa de Plata, quedó 2º a sólo 0s020.",
@@ -1003,6 +1018,21 @@
           "tag": "F1"
         },
         {
+          "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
+          "title": "TCR South America: Okulovich por Piquet Jr. como cambio de último momento",
+          "summary": "El brasileño se ausenta de la competencia en Misiones \"por compromisos asumidos previamente en su calendario deportivo\" según explicó el equipo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NELSON-PIQUET-JR.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T02:40:19.000Z",
+          "addedAt": "2026-10-03T15:11:35.641Z",
+          "category": "general",
+          "tag": "Previa"
+        },
+        {
           "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
           "title": "Campeones Clasificación con el TC desde San Nicolás",
           "summary": "No te pierdas los detalles de la 12.ª fecha de la categoría más popular del automovilismo nacional y los detalles de la actividad en el circuito nicoleño, por nuestras plataformas y AM590 Continental.",
@@ -1029,36 +1059,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T09:35:42.000Z",
           "addedAt": "2026-10-03T06:54:56.540Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-tcr-wt-azcona-se-quedo-con-la-pole-y-michelisz-cerro-el-1-2-de-hyundai",
-          "title": "TCR WT: Azcona se quedó con la “pole” y Michelisz cerró el “1-2” de Hyundai | Campeones",
-          "summary": "La categoría visita Corea del Sur tras casi tres meses de inactividad y en el comienzo de su gira asiática.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tcr-wt-azcona-se-quedo-con-la-pole-y-michelisz-cerro-el-1-2-de-hyundai/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9705.png",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T03:04:32.000Z",
-          "addedAt": "2026-10-03T03:27:57.539Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-gp-de-japon-martin-resistio-y-logro-otra-pole-en-motogp",
-          "title": "GP de Japón: Martín resistió y logró otra \"pole\" en MotoGP",
-          "summary": "El madrileño consiguió establecer el mejor tiempo con la Aprilia en la clasificación de Motegi, superando las Ducati de Marc Márquez y a la KTM de Pedro Acosta.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/gp-de-japon-martin-resistio-y-logro-otra-pole-en-motogp/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-MotoGP-Martin-Japon.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T02:57:15.000Z",
-          "addedAt": "2026-10-03T03:27:57.768Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1093,6 +1093,36 @@
           "tag": "Carrera"
         },
         {
+          "id": "campeones-com-ar-tcr-wt-azcona-se-quedo-con-la-pole-y-michelisz-cerro-el-1-2-de-hyundai",
+          "title": "TCR WT: Azcona se quedó con la “pole” y Michelisz cerró el “1-2” de Hyundai | Campeones",
+          "summary": "La categoría visita Corea del Sur tras casi tres meses de inactividad y en el comienzo de su gira asiática.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tcr-wt-azcona-se-quedo-con-la-pole-y-michelisz-cerro-el-1-2-de-hyundai/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9705.png",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T03:04:32.000Z",
+          "addedAt": "2026-10-03T03:27:57.539Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-gp-de-japon-martin-resistio-y-logro-otra-pole-en-motogp",
+          "title": "GP de Japón: Martín resistió y logró otra \"pole\" en MotoGP",
+          "summary": "El madrileño consiguió establecer el mejor tiempo con la Aprilia en la clasificación de Motegi, superando las Ducati de Marc Márquez y a la KTM de Pedro Acosta.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/gp-de-japon-martin-resistio-y-logro-otra-pole-en-motogp/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-MotoGP-Martin-Japon.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T02:57:15.000Z",
+          "addedAt": "2026-10-03T03:27:57.768Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "campeones-com-ar-camilo-trappa-llega-a-posadas-con-una-actualizacion-del-hyundai-elantra-n-tcr",
           "title": "Camilo Trappa llega a Posadas con una actualización del Hyundai Elantra N TCR",
           "summary": "La escuadra que representa a la marca surcoreana Hyundai colocó el nuevo kit aerodinámico para dos de sus tres autos en TCR South America.",
@@ -1106,7 +1136,13 @@
           "addedAt": "2026-10-02T19:06:32.218Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-04T03:11:37.553Z",
+      "items": [
         {
           "id": "campeones-com-ar-gac-la-segunda-marca-china-que-incursionara-en-tc2000",
           "title": "GAC, la segunda marca china que incursionará en TC2000",
@@ -1121,13 +1157,7 @@
           "addedAt": "2026-10-02T17:57:42.983Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-04T02:11:40.405Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-motogp-en-japon-dominio-de-los-hermanos-marquez-en-los-ensayos",
           "title": "MotoGP en Japón: dominio de los hermanos Márquez en los ensayos",
@@ -1200,21 +1230,6 @@
           "language": "es",
           "publishedAt": "2026-09-30T11:58:23.000Z",
           "addedAt": "2026-10-02T17:57:43.000Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-fue-campeon-de-formula-1-con-ferrari-y-ahora-cambio-los-autos-por-la-mozzarella-y-los-he",
-          "title": "Fue campeón de Fórmula 1 con Ferrari y ahora cambió los autos por la mozzarella y los helados",
-          "summary": "El sudafricano fue campeón del mundo en 1979 con la Scuderia y, tras retirarse de la Fórmula 1, dejó atrás los circuitos para dedicarse a la producción orgánica, los búfalos y los productos lácteos.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/fue-campeon-de-formula-1-con-ferrari-y-ahora-cambio-los-autos-por-la-mozzarella-y-los-helados-id763625.html",
-          "image": "https://media.tycsports.com/files/2026/09/30/991690/jody-sheckter_862x485.webp",
-          "body": "El sudafricano fue campeón del mundo en 1979 con la Scuderia y, tras retirarse de la Fórmula 1, dejó atrás los circuitos para dedicarse a la producción orgánica, los búfalos y los productos lácteos.\n\nJody Sheckter, el campeón de la F1 que se dedicó a los quesos y los animales. + Seguinos en Jody Scheckter llegó a la Fórmula 1 en 1972 y después de pasar por McLaren, Tyrrell y Wolf encontró su gran oportunidad en Ferrari. En 1979, en su primera temporada con la Scuderia, se consagró campeón del mundo después de ganar tres Grandes Premios, entre ellos el de Italia en Monza, donde selló el título con dos fechas de anticipación. Fue, además, el último piloto de Ferrari en ser campeón durante 21 años, hasta la llegada de Michael Schumacher.\n\nEl sudafricano compartió aquel campeonato con Gilles Villeneuve, su compañero de equipo y uno de sus grandes amigos dentro de la Fórmula 1. Scheckter terminó la temporada con 51 puntos y consiguió el único título mundial de su carrera . Un año después, sin embargo, todo cambió: la defensa del campeonato con Ferrari fue muy complicada y terminó con apenas dos puntos. A los 30 años decidió retirarse de la Fórmula 1.\n\nLejos de los circuitos, Scheckter encontró una nueva pasión en la producción de alimentos. En 1996 comenzó a desarrollar Laverstoke Park Farm, una enorme propiedad de más de 1.000 hectáreas en Hampshire, Inglaterra , donde apostó por la agricultura orgánica y biodinámica. Allí incorporó ganado de búfalos de agua asiáticos y empezó a producir alimentos a partir de su leche.\n\nAsí apareció una imagen difícil de asociar con aquel campeón de Ferrari: Scheckter rodeado de búfalos y dedicado a elaborar mozzarella. La granja llegó a producir mozzarella de búfala, quesos y helados a partir de la leche de los animales. La propia Laversto",
-          "language": "es",
-          "publishedAt": "2026-09-30T15:19:09.000Z",
-          "addedAt": "2026-10-02T16:23:12.707Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1309,21 +1324,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-santiago-biagi-abrio-el-juego-del-tc-pista-en-san-nicolas",
-          "title": "Santiago Biagi abrió el juego del TC Pista en San Nicolás",
-          "summary": "El piloto del RUS Med Team se quedó con el mejor tiempo en el entrenamiento que dio comienzo a la 2ª fecha de la Copa de Plata 2026, que se desarrolló con pista húmeda y del que tomaron parte 12 de los 19 inscriptos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/santiago-biagi-abrio-el-juego-del-tc-pista-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Biagi-TCP-2026-Bosco.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T15:06:57.000Z",
-          "addedAt": "2026-10-03T15:11:32.087Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-los-argentinos-tienen-por-objetivo-estar-en-los-podios-del-rally-de-marruecos",
           "title": "Los argentinos disputan por un lugar en los podios del Rally de Marruecos",
           "summary": "En la penúltima etapa Benavides se retrasó por una caída en Motos, Andújar descuenta en Challenger y González Ferioli mantiene la vanguardia en SSV. Ekström se impone en Autos.",
@@ -1350,6 +1350,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T06:39:57.000Z",
           "addedAt": "2026-10-02T17:57:42.221Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-santiago-biagi-abrio-el-juego-del-tc-pista-en-san-nicolas",
+          "title": "Santiago Biagi abrió el juego del TC Pista en San Nicolás",
+          "summary": "El piloto del RUS Med Team se quedó con el mejor tiempo en el entrenamiento que dio comienzo a la 2ª fecha de la Copa de Plata 2026, que se desarrolló con pista húmeda y del que tomaron parte 12 de los 19 inscriptos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/santiago-biagi-abrio-el-juego-del-tc-pista-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Biagi-TCP-2026-Bosco.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T15:06:57.000Z",
+          "addedAt": "2026-10-03T15:11:32.087Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1402,7 +1417,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-04T02:11:40.405Z",
+      "createdAt": "2026-10-04T03:11:37.553Z",
       "items": [
         {
           "id": "campeones-com-ar-tcr-girolami-marca-el-ritmo-con-el-hyundai-en-posadas",
