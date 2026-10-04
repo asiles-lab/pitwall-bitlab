@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T04:11:29.140Z",
-  "checkedAt": "2026-10-04T04:11:29.140Z",
+  "updatedAt": "2026-10-04T05:11:29.117Z",
+  "checkedAt": "2026-10-04T05:11:29.117Z",
   "pageSize": 18,
   "sources": [
     {
@@ -313,7 +313,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-04T04:11:32.674Z",
+      "createdAt": "2026-10-04T05:11:33.032Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -466,21 +466,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
-          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
-          "summary": "Cobertura especial del GP de Bahrein de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T17:00:17.000Z",
-          "addedAt": "2026-10-02T17:57:42.536Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21",
           "title": "GP de Bahrein: Verstappen larga en \"pole\", Hamilton lo escolta y Colapinto empieza 21.° | Campeones",
           "summary": "A la hora 4:00 de la madrugada argentina se pondrá en marcha la 16.ª carrera de Fórmula 1 en el circuito de Sepang, sobre 56 vueltas.",
@@ -541,6 +526,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
+          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
+          "summary": "Cobertura especial del GP de Bahrein de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T17:00:17.000Z",
+          "addedAt": "2026-10-02T17:57:42.536Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten",
           "title": "Verstappen agradeció los elogios de Colapinto: \"Los que compiten en F1...\"",
           "summary": "El piloto neerlandés reconoció las palabras del argentino, que lo había puesto como ejemplo por su accionar con los jóvenes que competen errores en la Fórmula 1.",
@@ -589,7 +589,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-04T04:11:32.674Z",
+      "createdAt": "2026-10-04T05:11:33.032Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-lando-norris-revelo-la-intimidad-de-su-charla-con-franco-colapinto-id763779-html",
@@ -832,21 +832,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-cuarta-pole-de-lautaro-videla-en-la-formula-2-argentina",
-          "title": "Cuarta “pole” de Lautaro Videla en la Fórmula 2 Argentina | Campeones",
-          "summary": "En San Nicolás, la pista se secó y el pampeano, líder del torneo, se quedó con lo mejor. Franco Ledesma e Ignacio Monti cerraron el “top” 3.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/cuarta-pole-de-lautaro-videla-en-la-formula-2-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9709.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T16:29:12.000Z",
-          "addedAt": "2026-10-03T17:11:31.236Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-pick-up-con-la-exclusion-de-werner-el-campeonato-tiene-nuevo-lider",
           "title": "Pick Up: con la exclusión de Werner, el campeonato tiene nuevo líder | Campeones",
           "summary": "Otto Fritzler es quien comanda el campeoanto tras la penalización al de Paraná por el exceso de compresión en el motor de la Foton.",
@@ -860,12 +845,27 @@
           "addedAt": "2026-10-02T17:57:46.877Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-cuarta-pole-de-lautaro-videla-en-la-formula-2-argentina",
+          "title": "Cuarta “pole” de Lautaro Videla en la Fórmula 2 Argentina | Campeones",
+          "summary": "En San Nicolás, la pista se secó y el pampeano, líder del torneo, se quedó con lo mejor. Franco Ledesma e Ignacio Monti cerraron el “top” 3.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/cuarta-pole-de-lautaro-videla-en-la-formula-2-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9709.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T16:29:12.000Z",
+          "addedAt": "2026-10-03T17:11:31.236Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-04T04:11:32.674Z",
+      "createdAt": "2026-10-04T05:11:33.032Z",
       "items": [
         {
           "id": "campeones-com-ar-andersson-triunfo-en-la-segunda-carrera-del-tcr-en-corea-urrutia-se-retraso",
@@ -1141,7 +1141,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-04T04:11:32.674Z",
+      "createdAt": "2026-10-04T05:11:33.032Z",
       "items": [
         {
           "id": "campeones-com-ar-gac-la-segunda-marca-china-que-incursionara-en-tc2000",
@@ -1417,7 +1417,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-04T04:11:32.674Z",
+      "createdAt": "2026-10-04T05:11:33.032Z",
       "items": [
         {
           "id": "campeones-com-ar-tcr-girolami-marca-el-ritmo-con-el-hyundai-en-posadas",
