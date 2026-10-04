@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T18:11:29.236Z",
-  "checkedAt": "2026-10-04T18:11:29.236Z",
+  "updatedAt": "2026-10-04T19:11:27.205Z",
+  "checkedAt": "2026-10-04T19:11:27.205Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,21 +40,6 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-domingo-de-gloria-para-torino-en-tc-fain-logro-su-1a-victoria-y-chapur-lidera-la-copa-de-oro",
-      "title": "Domingo de gloria para Torino en TC: Fain logró su 1ª victoria y Chapur lidera la Copa de Oro",
-      "summary": "Los pilotos del Trotta Racing Team aprovecharon la falla de Julián Santero (BMW M4) para coronar el “1-2” de la marca en San Nicolás. El santafesino de 21 años festejó por 1ª vez en el Turismo Carretera y el cordobés de 32 llegó a la cima de la tabla de posiciones del “play-off”. El mendocino completó el podio y se mantiene expectante en la lucha por el título.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/domingo-de-gloria-para-torino-en-tc-fain-logro-su-1a-victoria-y-chapur-lidera-la-copa-de-oro/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-TC-2026-2.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-04T17:45:25.000Z",
-      "addedAt": "2026-10-04T18:11:30.614Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-provens-tiene-la-pole-para-la-final-del-tc-pista",
       "title": "Provens tiene la “pole” para la Final del TC Pista",
       "summary": "El piloto de Dodge ganó con comodidad la batería más veloz en San Nicolás y largará la Final desde la mejor posición por 3ª vez en la temporada. Gabriel Gandulia (Ford Mustang) completará la 1ª fila de la 12ª fecha del campeonato 2026.",
@@ -68,6 +53,21 @@
       "addedAt": "2026-10-04T14:11:37.933Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen",
+      "title": "TN: el balance de Santero tras las pruebas en el Cabalén | Campeones",
+      "summary": "El mendocino puso en pista el VW Virtus de Clase 3 junto al Ambrogio Racing, buscando la mejor puesta a punto de cara a la fecha en Mendoza.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/IMG_0122-e1790810850482.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-01T11:15:16.000Z",
+      "addedAt": "2026-10-04T19:11:32.386Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-julian-santero-prueba-el-virtus-de-tn-clase-3-en-cordoba",
@@ -523,7 +523,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-04T18:11:39.589Z",
+      "createdAt": "2026-10-04T19:11:34.388Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -676,21 +676,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
-          "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
-          "summary": "Debe cumplir con una penalización de 15 puestos con el Alpine, a bordo del cual el argentino pudo superar el primer corte clasificatorio en la pista de Sepang. La \"pole\" la logró Verstappen quien superó a Hamilton.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-box-Alpine.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T18:59:19.000Z",
-          "addedAt": "2026-10-03T18:11:30.466Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-alpine-explico-por-que-decidio-tocar-el-motor-y-que-colapinto-sea-sancionado-id764083-ht",
           "title": "Alpine explicó por qué decidió \"tocar\" el motor y que Colapinto sea sancionado",
           "summary": "El director general de la escudería, Steve Nielsen, detalló la estrategia del equipo para el Gran Premio de Malasia y contó lo que los llevó a realizar cambios pese a que serían sancionados.",
@@ -717,6 +702,21 @@
           "language": "es",
           "publishedAt": "2026-10-04T10:28:21.000Z",
           "addedAt": "2026-10-04T11:11:30.712Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
+          "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
+          "summary": "Debe cumplir con una penalización de 15 puestos con el Alpine, a bordo del cual el argentino pudo superar el primer corte clasificatorio en la pista de Sepang. La \"pole\" la logró Verstappen quien superó a Hamilton.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-box-Alpine.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T18:59:19.000Z",
+          "addedAt": "2026-10-03T18:11:30.466Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -799,7 +799,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-04T18:11:39.589Z",
+      "createdAt": "2026-10-04T19:11:34.388Z",
       "items": [
         {
           "id": "campeones-com-ar-gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21",
@@ -967,32 +967,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina",
-          "title": "Franco Ledesma ganó en San Nicolás y descuenta puntos en la F2 Argentina | Campeones",
-          "summary": "El marplatense aventajó en el giro inicial a Lautaro Videla y se llevó la cuarta victoria en el año.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9804.jpeg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-ignacio-fain-gano-en-san-nicolas-y-logro-su-primera-victoria-en-el-turismo-carretera-id7",
+          "title": "Ignacio Faín ganó en San Nicolás y logró su primera victoria en el Turismo Carretera",
+          "summary": "El piloto de Torino completó un fin de semana perfecto: pole, triunfo en su serie y victoria en la final. Facundo Chapur y Julián Santero completaron el podio.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/ignacio-fain-gano-en-san-nicolas-y-logro-su-primera-victoria-en-el-turismo-carretera-id764342.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992866/ignacio-fain-hizo-historia-en-san-nicolas_862x485.webp",
+          "body": "El piloto de Torino completó un fin de semana perfecto: pole, triunfo en su serie y victoria en la final. Facundo Chapur y Julián Santero completaron el podio.\n\nEl piloto de Villa Minetti completó un fin de semana perfecto con pole, serie y final. + Seguinos en Ignacio Faín se quedó con la final del Turismo Carretera en San Nicolás y consiguió su primera victoria en la categoría. El piloto de Villa Minetti completó un fin de semana ideal con el Torino del Trotta Racing, ya que también había logrado la pole position y el triunfo en su serie.\n\nLa carrera comenzó con Julián Santero al frente, pero el BMW del mendocino comenzó a evidenciar una falla en el tramo final. Faín aprovechó la pérdida de rendimiento para tomar el liderazgo y encaminarse hacia el triunfo, mientras Facundo Chapur también superó a Santero sobre el cierre y completó el 1-2 del Trotta Racing.\n\nFaín ganó con 3s815 de ventaja sobre Chapur , mientras que Santero finalizó tercero a 7s027. Otto Fritzler fue cuarto, Diego Azar quinto y Matías Rossi sexto. Por su parte, Agustín Canapino terminó 11°, luego de perder una posición con Juan Pablo Gianini en el tramo final.\n\nOtro de los momentos determinantes fue el abandono de Mariano Werner en la vuelta 11. El entrerriano había llegado a San Nicolás como líder de la Copa de Oro, pero su deserción modificó completamente el escenario del campeonato.",
           "language": "es",
-          "publishedAt": "2026-10-04T15:35:19.000Z",
-          "addedAt": "2026-10-04T16:11:30.994Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
-          "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
-          "summary": "El pampeano se impuso en la Carrera Clasificatoria y tras quedarse con la “pole”, suma puntos claves en la cima del torneo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9726.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T18:27:57.000Z",
-          "addedAt": "2026-10-03T19:11:31.321Z",
+          "publishedAt": "2026-10-04T18:11:00.000Z",
+          "addedAt": "2026-10-04T19:11:28.198Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1042,6 +1027,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina",
+          "title": "Franco Ledesma ganó en San Nicolás y descuenta puntos en la F2 Argentina | Campeones",
+          "summary": "El marplatense aventajó en el giro inicial a Lautaro Videla y se llevó la cuarta victoria en el año.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9804.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T15:35:19.000Z",
+          "addedAt": "2026-10-04T16:11:30.994Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-baldoni-toma-el-comando-en-el-intermitente-rally-de-entre-rios",
           "title": "Baldoni toma el comando en el intermitente Rally de Entre Ríos",
           "summary": "La competencia, válida por la séptima fecha del campeonato argentino, debió reprogramar su primera etapa por los pronósticos de lluvia y cerró con un Súper Especial que dominó el puntano.",
@@ -1075,7 +1075,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-04T18:11:39.589Z",
+      "createdAt": "2026-10-04T19:11:34.388Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1198,21 +1198,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-nuevo-triunfo-de-marc-marquez-en-la-temporada-de-motogp-ahora-en-japon",
-          "title": "Nuevo triunfo de Marc Márquez en la temporada de MotoGP, ahora en Japón",
-          "summary": "Se impuso por 7.ª en el circuito de Motegi y con la Ducati consiguió quedar a dos puntos en el campeonato de Jorge Martín, quien lo escoltó con la Aprilia.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/nuevo-triunfo-de-marc-marquez-en-la-temporada-de-motogp-ahora-en-japon/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-MotoGP-Marquez-Martin.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T06:42:11.000Z",
-          "addedAt": "2026-10-04T07:11:31.673Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas",
           "title": "TC Pista: Maceira se quedó con el ensayo final en San Nicolás",
           "summary": "El piloto del Catalán Magni Motorsport, que no pudo largar la Final en San Luis y llegó a poner en duda su presencia en esta 2ª fecha de la Copa de Plata 2026, marcó el mejor tiempo en una pista en la que se bajaron los tiempos en casi 13 segundos respecto de la primera práctica.",
@@ -1288,17 +1273,17 @@
           "tag": "Previa"
         },
         {
-          "id": "campeones-com-ar-eugenio-provens-por-1a-vez-al-tope-de-la-clasificacion-del-tc-pista",
-          "title": "Eugenio Provens, por 1ª vez al tope de la clasificación del TC Pista",
-          "summary": "El cordobés logró su 1ª “pole position” en la categoría al marcar el mejor tiempo en San Nicolás con el Dodge Challenger del Galarza Racing. Bautista Damiani (Chevrolet Camaro), el líder de la Copa de Plata, quedó 2º a sólo 0s020.",
+          "id": "campeones-com-ar-nuevo-triunfo-de-marc-marquez-en-la-temporada-de-motogp-ahora-en-japon",
+          "title": "Nuevo triunfo de Marc Márquez en la temporada de MotoGP, ahora en Japón",
+          "summary": "Se impuso por 7.ª en el circuito de Motegi y con la Ducati consiguió quedar a dos puntos en el campeonato de Jorge Martín, quien lo escoltó con la Aprilia.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/eugenio-provens-por-1a-vez-al-tope-de-la-clasificacion-del-tc-pista/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Provens-TCP-2026.jpg",
+          "url": "https://campeones.com.ar/nuevo-triunfo-de-marc-marquez-en-la-temporada-de-motogp-ahora-en-japon/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-MotoGP-Marquez-Martin.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-03T19:07:13.000Z",
-          "addedAt": "2026-10-03T19:11:30.831Z",
+          "publishedAt": "2026-10-04T06:42:11.000Z",
+          "addedAt": "2026-10-04T07:11:31.673Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1333,6 +1318,21 @@
           "tag": "Carrera"
         },
         {
+          "id": "campeones-com-ar-eugenio-provens-por-1a-vez-al-tope-de-la-clasificacion-del-tc-pista",
+          "title": "Eugenio Provens, por 1ª vez al tope de la clasificación del TC Pista",
+          "summary": "El cordobés logró su 1ª “pole position” en la categoría al marcar el mejor tiempo en San Nicolás con el Dodge Challenger del Galarza Racing. Bautista Damiani (Chevrolet Camaro), el líder de la Copa de Plata, quedó 2º a sólo 0s020.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/eugenio-provens-por-1a-vez-al-tope-de-la-clasificacion-del-tc-pista/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Provens-TCP-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T19:07:13.000Z",
+          "addedAt": "2026-10-03T19:11:30.831Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
           "title": "Campeones Clasificación con el TC desde San Nicolás",
           "summary": "No te pierdas los detalles de la 12.ª fecha de la categoría más popular del automovilismo nacional y los detalles de la actividad en el circuito nicoleño, por nuestras plataformas y AM590 Continental.",
@@ -1351,7 +1351,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-04T18:11:39.589Z",
+      "createdAt": "2026-10-04T19:11:34.388Z",
       "items": [
         {
           "id": "campeones-com-ar-motogp-en-motegi-marc-marquez-le-gano-otro-sprint-a-martin",
@@ -1459,6 +1459,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
+          "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
+          "summary": "El pampeano se impuso en la Carrera Clasificatoria y tras quedarse con la “pole”, suma puntos claves en la cima del torneo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9726.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T18:27:57.000Z",
+          "addedAt": "2026-10-03T19:11:31.321Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-scaloni-se-junto-con-un-piloto-argentino-y-recibio-un-regalo-especial-se-sube-a-un-tc-id",
           "title": "Scaloni se juntó con un piloto argentino y recibió un regalo especial: ¿Se sube a un TC?",
           "summary": "En el día posterior a la goleada ante Bolivia, el entrenador de la Selección Argentina se reunió con varias personalidades del automovilismo y, además, se llevó un traje personalizado con su camiseta número 18.",
@@ -1515,6 +1530,21 @@
           "language": "es",
           "publishedAt": "2026-09-28T13:14:59.000Z",
           "addedAt": "2026-10-02T17:57:46.877Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-domingo-de-gloria-para-torino-en-tc-fain-logro-su-1a-victoria-y-chapur-lidera-la-copa-de-oro",
+          "title": "Domingo de gloria para Torino en TC: Fain logró su 1ª victoria y Chapur lidera la Copa de Oro",
+          "summary": "Los pilotos del Trotta Racing Team aprovecharon la falla de Julián Santero (BMW M4) para coronar el “1-2” de la marca en San Nicolás. El santafesino de 21 años festejó por 1ª vez en el Turismo Carretera y el cordobés de 32 llegó a la cima de la tabla de posiciones del “play-off”. El mendocino completó el podio y se mantiene expectante en la lucha por el título.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/domingo-de-gloria-para-torino-en-tc-fain-logro-su-1a-victoria-y-chapur-lidera-la-copa-de-oro/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-TC-2026-2.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T17:45:25.000Z",
+          "addedAt": "2026-10-04T18:11:30.614Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1592,7 +1622,13 @@
           "addedAt": "2026-10-02T17:57:42.339Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-04T19:11:34.388Z",
+      "items": [
         {
           "id": "campeones-com-ar-tc-el-bmw-de-santero-se-quedo-con-el-ultimo-parcial-nicoleno",
           "title": "TC: el BMW de Santero se quedó con el último parcial nicoleño",
@@ -1622,13 +1658,7 @@
           "addedAt": "2026-10-04T15:11:30.803Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-04T18:11:39.589Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-tc-con-solvencia-fain-se-adjudico-la-1a-serie-en-san-nicolas",
           "title": "TC: con solvencia, Fain se adjudicó la 1ª serie en San Nicolás",
@@ -1735,21 +1765,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
-          "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
-          "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-HYUNDAI-POSADAS.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T18:45:37.000Z",
-          "addedAt": "2026-10-03T19:11:31.070Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina",
           "title": "Daniel Herrero aclaró el programa deportivo de Mercedes-Benz en Argentina",
           "summary": "El CEO de Prestige Auto se refirió sobre el rumor de una posible expansión de la marca alemana hacia Turismo Competición 2000.",
@@ -1761,6 +1776,21 @@
           "language": "es",
           "publishedAt": "2026-09-29T18:31:58.000Z",
           "addedAt": "2026-10-02T17:57:45.353Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
+          "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
+          "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-HYUNDAI-POSADAS.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T18:45:37.000Z",
+          "addedAt": "2026-10-03T19:11:31.070Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1866,36 +1896,6 @@
           "language": "es",
           "publishedAt": "2026-10-02T17:41:06.000Z",
           "addedAt": "2026-10-02T17:57:42.098Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
-          "title": "Geely presentó su SUV de TC2000",
-          "summary": "El flamante equipo tendrá como pilotos a Nicolás Traut y Franco Riva. Así la categoría suma una nueva automotriz.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/geely-presento-su-suv-de-tc2000/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-12.47.43.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T16:28:07.000Z",
-          "addedAt": "2026-10-02T17:57:42.540Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-de-familia-fierrera-y-con-su-hermano-de-referente-bautista-panetta-tiene-una-cita-mundialista",
-          "title": "De familia fierrera y con su hermano de referente, Bautista Panetta tiene una cita mundialista | Campeones",
-          "summary": "El joven de 14 años diálogo con Campeones y contó todo sobre sus inicios, su actualidad y los deseos a futuro.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/de-familia-fierrera-y-con-su-hermano-de-referente-bautista-panetta-tiene-una-cita-mundialista/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/4725f0e4-22c9-4917-be63-6f7ec1af6593.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T11:35:47.000Z",
-          "addedAt": "2026-10-02T17:57:42.240Z",
           "category": "argentino",
           "tag": "Argentino"
         }
