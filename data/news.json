@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T00:11:29.070Z",
-  "checkedAt": "2026-10-04T00:11:29.070Z",
+  "updatedAt": "2026-10-04T01:11:29.033Z",
+  "checkedAt": "2026-10-04T01:11:29.033Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-tc2000-el-historico-regreso-al-triunfo-de-vw",
-      "title": "TC2000: el histórico regreso al triunfo de VW",
-      "summary": "La victoria de Lucas Carabajal en “El Zonda” puso fin a 21 años de sequía para Volkswagen en la categoría, la racha más extensa de la marca. El detalle de los pilotos y los modelos que ganaron con VW desde 1980.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc2000-el-historico-regreso-al-triunfo-de-vw/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Carabajal-TC2000-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-09-29T13:00:33.000Z",
-      "addedAt": "2026-10-02T17:57:46.886Z",
-      "category": "general",
-      "tag": "F1"
-    },
     {
       "id": "campeones-com-ar-balcarce-esta-muchisimo-mejor-que-otra-pista-del-calendario-de-tc",
       "title": "\"Balcarce está muchísimo mejor que otras pistas del calendario de TC\" | Campeones",
@@ -143,6 +128,21 @@
       "addedAt": "2026-10-02T17:54:07.605Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "carburando-com-ar-blog-formula-1-confirma-fecha-para-el-gp-de-mexico-2027-y-un-calendario-de-24",
+      "title": "Fórmula 1 confirma fecha para el GP de México 2027 y un calendario de 24 carreras",
+      "summary": "La categoría reveló el calendario 2027 con el Gran Premio de México en su lugar habitual de octubre. Analizamos cómo se estructura un año récord de 24…",
+      "source": "Carburando",
+      "sourceLabel": "Carburando",
+      "url": "https://carburando.com.ar/blog/formula-1-confirma-fecha-para-el-gp-de-mexico-2027-y-un-calendario-de-24",
+      "image": "https://carburando.com.ar/covers/22/formula-1-confirma-fecha-para-el-gp-de-mexico-2027-y-un-cale-24882.webp",
+      "body": "La categoría reveló el calendario 2027 con el Gran Premio de México en su lugar habitual de octubre. Analizamos cómo se estructura un año récord de 24 fechas y qué significa para el equilibrio técnico y logístico.\n\nLa Fórmula 1 oficializó el calendario para la temporada 2027, que alcanzará un récord de 24 Grandes Premios. Entre las confirmaciones más esperadas por el público latinoamericano está la fecha del Gran Premio de México, que mantendrá su tradicional ubicación en el mes de octubre.\n\nEste anuncio llega en un momento en que la categoría busca equilibrar el crecimiento global con la sostenibilidad y la exigencia física sobre pilotos, equipos y logística. Un calendario de semejante extensión no es solo una lista de fechas: es un desafío de ingeniería y estrategia que impacta directamente en el desarrollo de los autos y en cómo se preparan las escuderías.\n\nEl Autódromo Hermanos Rodríguez volverá a recibir a la categoría en la segunda mitad de la temporada, manteniendo el esquema que ha funcionado bien en los últimos años. Ubicado después de las carreras asiáticas y antes del cierre en América y Oriente Medio, México sirve como puente natural entre continentes y permite optimizar los traslados transatlánticos.\n\nDesde el punto de vista técnico, el circuito mexicano es uno de los más exigentes en cuanto a altitud. Los 2.240 metros sobre el nivel del mar reducen la densidad del aire, lo que afecta de manera directa el rendimiento aerodinámico y la refrigeración de los motores. Los equipos deben preparar paquetes específicos de alas, difusores y radiadores para compensar la pérdida de carga y la menor eficiencia de los turbo. Esa adaptación es uno de los laboratorios más interesantes que luego se traduce, aunque diluido, en los autos de calle que se venden en mercados co",
+      "language": "es",
+      "publishedAt": "2026-09-25T21:30:58.000Z",
+      "addedAt": "2026-10-04T01:11:31.647Z",
+      "category": "general",
+      "tag": "Carrera"
     },
     {
       "id": "carburando-com-ar-blog-madrid-suena-con-la-formula-1-un-circuito-tecnico-y-exigente-que-retara",
@@ -298,7 +298,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-04T00:11:34.071Z",
+      "createdAt": "2026-10-04T01:11:32.812Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -574,7 +574,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-04T00:11:34.071Z",
+      "createdAt": "2026-10-04T01:11:32.812Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-lando-norris-revelo-la-intimidad-de-su-charla-con-franco-colapinto-id763779-html",
@@ -850,7 +850,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-04T00:11:34.071Z",
+      "createdAt": "2026-10-04T01:11:32.812Z",
       "items": [
         {
           "id": "campeones-com-ar-tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas",
@@ -1126,7 +1126,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-04T00:11:34.071Z",
+      "createdAt": "2026-10-04T01:11:32.812Z",
       "items": [
         {
           "id": "campeones-com-ar-motogp-en-japon-dominio-de-los-hermanos-marquez-en-los-ensayos",
@@ -1219,21 +1219,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas",
-          "title": "Así se largan las series del Turismo Carretera en San Nicolás",
-          "summary": "Curiosamente, no habrá pilotos ni de Ford ni de Chevrolet en ninguna de las tres primeras filas de la 2ª fecha de la Copa de Oro 2026, donde serán mayoría los representantes de Torino (Fain y Chapur) y Mercedes-Benz (Fritzler y Azar).",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Boxes-TC-San-Nicolas-II-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T22:00:23.000Z",
-          "addedAt": "2026-10-03T22:11:27.635Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina",
           "title": "El más rápido de las prácticas fue Lautaro Videla en la Fórmula 2 Argentina | Campeones",
           "summary": "La mañana de San Nicolás se abrió con un fuerte diluvio, pero los monoplazas giraron sin mayores inconvenientes, con Franco Ledesma arriba en la primera tanda y el pampeano en la segunda.",
@@ -1275,6 +1260,21 @@
           "language": "es",
           "publishedAt": "2026-09-30T12:51:37.000Z",
           "addedAt": "2026-10-02T17:57:42.339Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas",
+          "title": "Así se largan las series del Turismo Carretera en San Nicolás",
+          "summary": "Curiosamente, no habrá pilotos ni de Ford ni de Chevrolet en ninguna de las tres primeras filas de la 2ª fecha de la Copa de Oro 2026, donde serán mayoría los representantes de Torino (Fain y Chapur) y Mercedes-Benz (Fritzler y Azar).",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Boxes-TC-San-Nicolas-II-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T22:00:23.000Z",
+          "addedAt": "2026-10-03T22:11:27.635Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1402,7 +1402,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-04T00:11:34.071Z",
+      "createdAt": "2026-10-04T01:11:32.812Z",
       "items": [
         {
           "id": "campeones-com-ar-tcr-girolami-marca-el-ritmo-con-el-hyundai-en-posadas",
