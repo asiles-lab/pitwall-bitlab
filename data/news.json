@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T07:11:29.407Z",
-  "checkedAt": "2026-10-04T07:11:29.407Z",
+  "updatedAt": "2026-10-04T08:11:29.225Z",
+  "checkedAt": "2026-10-04T08:11:29.225Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-los-datos-curiosos-del-tc-en-san-nicolas",
+      "title": "Los datos curiosos del TC en San Nicolás",
+      "summary": "Mariano Werner (Ford) y Agustín Canapino (Chevrolet) son los grandes referentes históricos en el circuito “Juan María Traverso”, donde las últimas 5 Finales fueron ganadas por el piloto que largó desde la 2ª posición.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/los-datos-curiosos-del-tc-en-san-nicolas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-San-Nicolas-2025.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-02T12:22:59.000Z",
+      "addedAt": "2026-10-04T08:11:39.221Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "www-tycsports-com-automovilismo-fue-campeon-de-formula-1-con-ferrari-y-ahora-cambio-los-autos-por-la-mozzarella-y-los-he",
       "title": "Fue campeón de Fórmula 1 con Ferrari y ahora cambió los autos por la mozzarella y los helados",
@@ -328,7 +343,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-04T07:11:40.192Z",
+      "createdAt": "2026-10-04T08:11:39.604Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -353,9 +368,9 @@
           "sourceLabel": "TyC Sports",
           "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770.html",
           "image": "https://media.tycsports.com/files/2026/10/04/992784/gp-de-malasia_1440x810.webp?v=1",
-          "body": "Este domingo durante la madrugada se disputa en el Circuito de Sepang la decimosexta fecha de la temporada 2026 de la Fórmula 1 con la presencia del piloto argentino con el equipo de Alpine.\n\nVerstappen logró su primera pole del año y Colapinto largará anteúltimo Afectado por una nueva penalización, Colapinto terminó 19°, 22° y 9° en las prácticas libres en Malasia 04/10/2026 04:10 am Colapinto en el GP de Malasia. + Seguinos en F1: seguí en vivo la carrera de Colapinto en el GP de Malasia 04:02 Aún no hay horario de inicio La FIA confirmó el retraso de la largada, pero aún no confirmó a qué hora comenzará la carrera.\n\nLa FIA comunicó que la largada de del Gran Premio se retrasará por la intensa lluvia que cae sobre el circuito de Sepang.\n\nEste domingo, la carrera de la Fórmula 1 se podrá ver en vivo en la Argentina a través de Fox Sports. Además, vas a poder seguir el minuto a minuto de la competición en la web de www.tycsports.com.\n\nTambién se puede ver online a través de Disney+ Premium, la plataforma digital de ESPN, la cual se contrata previo registro por la página web por $24.390 final por mes.",
+          "body": "Este domingo durante la madrugada se disputa en el Circuito de Sepang la decimosexta fecha de la temporada 2026 de la Fórmula 1 con la presencia del piloto argentino con el equipo de Alpine.\n\nVerstappen logró su primera pole del año y Colapinto largará anteúltimo Afectado por una nueva penalización, Colapinto terminó 19°, 22° y 9° en las prácticas libres en Malasia 04/10/2026 05:09 am Colapinto en el GP de Malasia. + Seguinos en F1: seguí en vivo la carrera de Colapinto en el GP de Malasia 05:00 La carrera ya lleva una hora de retraso El inicio del GP de Malasia se vio afectado por una intensa lluvia que obligó a demorar 40 minutos la salida de los autos. Una vez en pista, en la vuelta de formación, varios pilotos sufrieron problemas en sus monoplazas y hubo bandera roja. Aún es incierto a qué hora se reanudará.\n\nDebido a los problemas causados por la lluvia, la carrera aún no tendrá inicio.\n\nEn la vuelta de formación, el monoplaza de Ferrari sufrió un desperfecto y peligra su participación.\n\nEl auto de seguridad salió por segunda vez a al circuito para reconocer el estado de la pista.",
           "language": "es",
-          "publishedAt": "2026-10-04T07:02:00.000Z",
+          "publishedAt": "2026-10-04T08:00:00.000Z",
           "addedAt": "2026-10-03T10:16:39.500Z",
           "category": "argentino",
           "tag": "Franco"
@@ -376,21 +391,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-malasia-id763660-",
-          "title": "Afectado por una nueva penalización, Colapinto terminó 19°, 22° y 9° en las prácticas libres en Malasia",
-          "summary": "El argentino tuvo un viernes cuesta arriba en los entrenamientos, lejos de los mejores tiempos y golpeado por una nueva sanción debido a los cambios en la unidad de potencia y otros componentes.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-malasia-id763660.html",
-          "image": "https://media.tycsports.com/files/2026/09/25/990604/franco-colapinto_1440x810.webp",
-          "body": "El argentino tuvo un viernes cuesta arriba en los entrenamientos, lejos de los mejores tiempos y golpeado por una nueva sanción debido a los cambios en la unidad de potencia y otros componentes.\n\n+ Seguinos en La decimosexta fecha de la Fórmula 1 comenzó de manera atípica en la madrugada de este viernes, en el Gran Premio de Bahréin que se corre en el Circuito de Sepang en Malasia. Franco Colapinto terminó P19 en la primera práctica y último en la segunda , aunque los resultados no reflejan directamente el rendimiento del auto, ya que Alpine se enfocó en preparar el A526 para la carrera. Sin embargo, en la práctica libre 3 quedó noveno.\n\nAdemás de los cinco lugares de penalización que Franco deberá cumplir por el choque en Bakú, se sumaron 10 puesto más debido a que el equipo cambió la unidad de potencia del monoplaza y otros componentes, por lo que perderá 15 lugares respecto a la ubicación que obtenga en la clasificación del sábado .\n\nDebido a esto, la estrategia del equipo estuvo centrada en recopilar información sobre el comportamiento del auto en condiciones similares a las que enfrentará el domingo. Colapinto completó 22 vueltas con neumáticos blandos en la FP1 con un mejor tiempo de 1:40.531, mientras que en la segunda fueron 31 giros con una marca de 1:43.391 . En tanto, en la última en 20 vueltas quedó +1.618 del primero, Kimi Antonelli, que fue el más rápido y superó a Verstappen.\n\nPierre Gasly terminó 10° en la segunda sesión después de completar 29 vueltas, mientras que Charles Leclerc (Ferrari) marcó el mejor tiempo de la tanda. Sin embargo, el registro más rápido del día quedó en manos de Max Verstappen, que había liderado la primera práctica . El calor también fue gran protagonista, con temperaturas que llegaron a 62 grados sobre el asfalto.",
-          "language": "es",
-          "publishedAt": "2026-10-03T07:27:51.000Z",
-          "addedAt": "2026-10-02T16:23:12.608Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-i",
           "title": "Franco Colapinto recibió otra penalización en el GP de Malasia de la F1: \"Largaré...\"",
           "summary": "El píloto argentino fue sancionado con diez posiciones porque Alpine cambió nuevamente el propulsor antes de la carrera del domingo. Esto se suma al castigo por el incidente en Bakú.",
@@ -402,6 +402,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T15:11:24.000Z",
           "addedAt": "2026-10-02T16:23:12.821Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-malasia-id763660-",
+          "title": "Afectado por una nueva penalización, Colapinto terminó 19°, 22° y 9° en las prácticas libres en Malasia",
+          "summary": "El argentino tuvo un viernes cuesta arriba en los entrenamientos, lejos de los mejores tiempos y golpeado por una nueva sanción debido a los cambios en la unidad de potencia y otros componentes.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-malasia-id763660.html",
+          "image": "https://media.tycsports.com/files/2026/09/25/990604/franco-colapinto_1440x810.webp",
+          "body": "El argentino tuvo un viernes cuesta arriba en los entrenamientos, lejos de los mejores tiempos y golpeado por una nueva sanción debido a los cambios en la unidad de potencia y otros componentes.\n\n+ Seguinos en La decimosexta fecha de la Fórmula 1 comenzó de manera atípica en la madrugada de este viernes, en el Gran Premio de Bahréin que se corre en el Circuito de Sepang en Malasia. Franco Colapinto terminó P19 en la primera práctica y último en la segunda , aunque los resultados no reflejan directamente el rendimiento del auto, ya que Alpine se enfocó en preparar el A526 para la carrera. Sin embargo, en la práctica libre 3 quedó noveno.\n\nAdemás de los cinco lugares de penalización que Franco deberá cumplir por el choque en Bakú, se sumaron 10 puesto más debido a que el equipo cambió la unidad de potencia del monoplaza y otros componentes, por lo que perderá 15 lugares respecto a la ubicación que obtenga en la clasificación del sábado .\n\nDebido a esto, la estrategia del equipo estuvo centrada en recopilar información sobre el comportamiento del auto en condiciones similares a las que enfrentará el domingo. Colapinto completó 22 vueltas con neumáticos blandos en la FP1 con un mejor tiempo de 1:40.531, mientras que en la segunda fueron 31 giros con una marca de 1:43.391 . En tanto, en la última en 20 vueltas quedó +1.618 del primero, Kimi Antonelli, que fue el más rápido y superó a Verstappen.\n\nPierre Gasly terminó 10° en la segunda sesión después de completar 29 vueltas, mientras que Charles Leclerc (Ferrari) marcó el mejor tiempo de la tanda. Sin embargo, el registro más rápido del día quedó en manos de Max Verstappen, que había liderado la primera práctica . El calor también fue gran protagonista, con temperaturas que llegaron a 62 grados sobre el asfalto.",
+          "language": "es",
+          "publishedAt": "2026-10-03T07:27:51.000Z",
+          "addedAt": "2026-10-02T16:23:12.608Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -604,7 +619,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-04T07:11:40.192Z",
+      "createdAt": "2026-10-04T08:11:39.604Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792-h",
@@ -817,21 +832,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-tc-en-san-nicolas-fain-logro-su-1a-pole-y-corto-una-sequia-de-3-anos-para-torino",
-          "title": "TC en San Nicolás: Fain logró su 1ª “pole” y cortó una sequía de 3 años para Torino",
-          "summary": "El piloto del Trotta Racing Team ratificó el mejor tiempo que había marcado en el segundo entrenamiento de la 2ª fecha de la Copa de Oro 2026 y puso fin a una sequía de 44 clasificaciones sin “pole positions” para el “Toro”. Fritzler, con Mercedes, y Santero, con el BMW, escoltaron al santafesino.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-en-san-nicolas-fain-logro-su-1a-pole-y-corto-una-sequia-de-3-anos-para-torino/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-TC-2026-1.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T19:57:35.000Z",
-          "addedAt": "2026-10-03T20:11:30.535Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-pick-up-con-la-exclusion-de-werner-el-campeonato-tiene-nuevo-lider",
           "title": "Pick Up: con la exclusión de Werner, el campeonato tiene nuevo líder | Campeones",
           "summary": "Otto Fritzler es quien comanda el campeoanto tras la penalización al de Paraná por el exceso de compresión en el motor de la Foton.",
@@ -862,6 +862,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-tc-en-san-nicolas-fain-logro-su-1a-pole-y-corto-una-sequia-de-3-anos-para-torino",
+          "title": "TC en San Nicolás: Fain logró su 1ª “pole” y cortó una sequía de 3 años para Torino",
+          "summary": "El piloto del Trotta Racing Team ratificó el mejor tiempo que había marcado en el segundo entrenamiento de la 2ª fecha de la Copa de Oro 2026 y puso fin a una sequía de 44 clasificaciones sin “pole positions” para el “Toro”. Fritzler, con Mercedes, y Santero, con el BMW, escoltaron al santafesino.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-en-san-nicolas-fain-logro-su-1a-pole-y-corto-una-sequia-de-3-anos-para-torino/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-TC-2026-1.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T19:57:35.000Z",
+          "addedAt": "2026-10-03T20:11:30.535Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-podios-argentinos-en-el-rally-raid-de-marruecos",
           "title": "Podios argentinos en el Rally Raid de Marruecos",
           "summary": "Manuel Andújar fue 3.° en el debut en Challenger T3 con Andrés Frini; González Ferioli y Rinaldi se retrasaron y finalizaron 3.° en SSV y L. Benavides terminó 4.° en Motos.",
@@ -880,8 +895,23 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-04T07:11:40.192Z",
+      "createdAt": "2026-10-04T08:11:39.604Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
+          "title": "Por qué se retrasó la largada del GP de Malasia de la Fórmula 1",
+          "summary": "Una fuerte tormenta azotó el Circuito de Sepang y obligó a la Dirección de Carrera a postergar la salida. La intensa lluvia dejó el asfalto en condiciones impracticables y generó además una fuerte actividad eléctrica en la zona.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992782/gp-de-malasia_1440x810.webp",
+          "body": "Una fuerte tormenta azotó el Circuito de Sepang y obligó a la Dirección de Carrera a postergar la salida. La intensa lluvia dejó el asfalto en condiciones impracticables y generó además una fuerte actividad eléctrica en la zona.\n\nLa lluvia, protagonista en la previa del Gran Premio (@f1). + Seguinos en A menos de una hora de volver a ver a Franco Colapinto en la pista a bordo de su Alpine, una incesante lluvia cayó sobre el Circuito de Sepang y obligó a la Dirección de Carrera de la FIA a postergar la largada del Gran Premio de Malasia de la Fórmula 1 hasta que el asfalto fuera seguro para los pilotos.\n\nEl clima había sido una amenaza durante toda la semana, aunque viernes y sábado se desarrollaron con el trazado seco. Todo indicaba que la jornada principal seguiría el mismo camino, pero el panorama cambió poco más de 40 minutos antes de la salida.\n\nLa precipitación comenzó en la zona de las curvas 6 y 7 y rápidamente se extendió por toda la pista. Lo que parecía ser un chaparrón breve terminó convirtiéndose en un aguacero de gran intensidad, justo cuando los equipos se preparaban para llevar los autos a la grilla.\n\nCon los pilotos y el personal ya ubicados en la recta principal para el protocolo previo, la tormenta se intensificó y estuvo acompañada por rayos . El coche médico salió a comprobar el estado del circuito, aunque las condiciones de la pista no permitían iniciar la competencia con seguridad.",
+          "language": "es",
+          "publishedAt": "2026-10-04T07:42:57.000Z",
+          "addedAt": "2026-10-04T08:11:31.664Z",
+          "category": "general",
+          "tag": "Clima"
+        },
         {
           "id": "campeones-com-ar-andersson-triunfo-en-la-segunda-carrera-del-tcr-en-corea-urrutia-se-retraso",
           "title": "Andersson triunfó en la segunda carrera del TCR en Corea; Urrutia se retrasó | Campeones",
@@ -1136,7 +1166,13 @@
           "addedAt": "2026-10-03T03:27:57.539Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-04T08:11:39.604Z",
+      "items": [
         {
           "id": "campeones-com-ar-gp-de-japon-martin-resistio-y-logro-otra-pole-en-motogp",
           "title": "GP de Japón: Martín resistió y logró otra \"pole\" en MotoGP",
@@ -1151,13 +1187,7 @@
           "addedAt": "2026-10-03T03:27:57.768Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-04T07:11:40.192Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-camilo-trappa-llega-a-posadas-con-una-actualizacion-del-hyundai-elantra-n-tcr",
           "title": "Camilo Trappa llega a Posadas con una actualización del Hyundai Elantra N TCR",
@@ -1234,21 +1264,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-horarios-e-inscriptos-para-el-tcr-south-america-en-posadas",
-          "title": "Horarios e inscriptos para el TCR South America en Posadas",
-          "summary": "La 8va fecha del campeonato de TCR South America marcará la llegada por primera vez al \"Rosamonte\" de Posadas, del 2 al 4 de octubre.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/horarios-e-inscriptos-para-el-tcr-south-america-en-posadas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/TCR-Hyundai-box.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-01T12:50:17.000Z",
-          "addedAt": "2026-10-02T17:57:42.641Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-cuarta-pole-de-lautaro-videla-en-la-formula-2-argentina",
           "title": "Cuarta “pole” de Lautaro Videla en la Fórmula 2 Argentina | Campeones",
           "summary": "En San Nicolás, la pista se secó y el pampeano, líder del torneo, se quedó con lo mejor. Franco Ledesma e Ignacio Monti cerraron el “top” 3.",
@@ -1260,21 +1275,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T16:29:12.000Z",
           "addedAt": "2026-10-03T17:11:31.236Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina",
-          "title": "El más rápido de las prácticas fue Lautaro Videla en la Fórmula 2 Argentina | Campeones",
-          "summary": "La mañana de San Nicolás se abrió con un fuerte diluvio, pero los monoplazas giraron sin mayores inconvenientes, con Franco Ledesma arriba en la primera tanda y el pampeano en la segunda.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9709.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T07:57:31.000Z",
-          "addedAt": "2026-10-03T14:11:27.611Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1307,6 +1307,21 @@
           "addedAt": "2026-10-02T17:57:42.339Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina",
+          "title": "El más rápido de las prácticas fue Lautaro Videla en la Fórmula 2 Argentina | Campeones",
+          "summary": "La mañana de San Nicolás se abrió con un fuerte diluvio, pero los monoplazas giraron sin mayores inconvenientes, con Franco Ledesma arriba en la primera tanda y el pampeano en la segunda.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/bajo-la-lluvia-franco-ledesma-arranco-adelante-en-la-formula-2-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9709.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T07:57:31.000Z",
+          "addedAt": "2026-10-03T14:11:27.611Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-los-argentinos-tienen-por-objetivo-estar-en-los-podios-del-rally-de-marruecos",
@@ -1432,7 +1447,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-04T07:11:40.192Z",
+      "createdAt": "2026-10-04T08:11:39.604Z",
       "items": [
         {
           "id": "campeones-com-ar-tcr-girolami-marca-el-ritmo-con-el-hyundai-en-posadas",
@@ -1690,17 +1705,17 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-esteban-ocon-no-seguira-en-la-formula-1",
-          "title": "Esteban Ocon no seguirá en la Fórmula 1",
-          "summary": "Esteban Ocon dejará el equipo Haas al final de la temporada 2026 de Formula 1 y se espera un anuncio de su sustituto.",
+          "id": "campeones-com-ar-horarios-e-inscriptos-para-el-tcr-south-america-en-posadas",
+          "title": "Horarios e inscriptos para el TCR South America en Posadas",
+          "summary": "La 8va fecha del campeonato de TCR South America marcará la llegada por primera vez al \"Rosamonte\" de Posadas, del 2 al 4 de octubre.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/esteban-ocon-no-seguira-en-la-formula-1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Esteban-Ocon-F1-Haas.jpg",
+          "url": "https://campeones.com.ar/horarios-e-inscriptos-para-el-tcr-south-america-en-posadas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/TCR-Hyundai-box.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-09-30T11:58:23.000Z",
-          "addedAt": "2026-10-02T17:57:43.000Z",
+          "publishedAt": "2026-10-01T12:50:17.000Z",
+          "addedAt": "2026-10-02T17:57:42.641Z",
           "category": "general",
           "tag": "F1"
         }
