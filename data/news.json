@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T07:11:29.304Z",
-  "checkedAt": "2026-10-05T07:11:29.304Z",
+  "updatedAt": "2026-10-05T08:11:29.409Z",
+  "checkedAt": "2026-10-05T08:11:29.409Z",
   "pageSize": 18,
   "sources": [
     {
@@ -508,7 +508,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-05T07:11:33.364Z",
+      "createdAt": "2026-10-05T08:11:32.658Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -784,7 +784,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-05T07:11:33.364Z",
+      "createdAt": "2026-10-05T08:11:32.658Z",
       "items": [
         {
           "id": "campeones-com-ar-la-determinacion-de-franco-colapinto-para-afrontar-el-gp-de-bahrein-de-f1",
@@ -982,21 +982,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352-html",
-          "title": "La Copa de Oro del TC tiene nuevo líder tras la fecha de San Nicolás",
-          "summary": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992877/chapur-tomo-el-mando-de-la-copa-de-oro-tras-un-domingo-clave-en-san-nicolas_862x485.webp",
-          "body": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.\n\nEl piloto de Torino pasó a liderar el playoff después del abandono de Werner y quedó seguido de cerca por Santero y Fritzler. + Seguinos en La fecha del Turismo Carretera en San Nicolás modificó por completo el panorama de la Copa de Oro. Después de una final marcada por la primera victoria de Ignacio Faín y el abandono de Mariano Werner, Facundo Chapur pasó a ser el nuevo líder del campeonato. Chapur terminó segundo en la final detrás de su compañero Faín y alcanzó los 82,5 puntos, resultado que le permitió desplazar a Werner de la cima. El entrerriano, que había llegado a San Nicolás como puntero, abandonó en la vuelta 11 y cayó considerablemente en la tabla.\n\nMuy cerca del nuevo líder aparece Julián Santero con 81 unidades. El mendocino todavía no forma parte oficialmente de la Copa de Oro, pero está en zona de ingreso mediante el sistema de los “3 de último minuto” y sus puntos acumulados durante el playoff lo mantienen de lleno en la pelea.\n\nEl tercero es Otto Fritzler , quien finalizó cuarto en San Nicolás y llegó a los 78 puntos, apenas 4,5 por detrás de Chapur . Más atrás aparecen Josito Di Palma con 69,5 y Agustín Canapino con 63, luego de terminar 11° en la final.\n\nFaín , gracias a su victoria, alcanzó los 59 puntos, la misma cantidad que Werner . Jonatan Castellano quedó con 58,5 y Marco Dianda con 55,5.",
-          "language": "es",
-          "publishedAt": "2026-10-04T19:20:18.000Z",
-          "addedAt": "2026-10-04T20:11:31.443Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
           "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
           "summary": "El pampeano se impuso en la Carrera Clasificatoria y tras quedarse con la “pole”, suma puntos claves en la cima del torneo.",
@@ -1055,12 +1040,27 @@
           "addedAt": "2026-10-02T17:57:42.219Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina",
+          "title": "Franco Ledesma ganó en San Nicolás y descuenta puntos en la F2 Argentina | Campeones",
+          "summary": "El marplatense aventajó en el giro inicial a Lautaro Videla y se llevó la cuarta victoria en el año.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9804.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T15:35:19.000Z",
+          "addedAt": "2026-10-04T16:11:30.994Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-05T07:11:33.364Z",
+      "createdAt": "2026-10-05T08:11:32.658Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1336,7 +1336,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-05T07:11:33.364Z",
+      "createdAt": "2026-10-05T08:11:32.658Z",
       "items": [
         {
           "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
@@ -1429,19 +1429,19 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina",
-          "title": "Franco Ledesma ganó en San Nicolás y descuenta puntos en la F2 Argentina | Campeones",
-          "summary": "El marplatense aventajó en el giro inicial a Lautaro Videla y se llevó la cuarta victoria en el año.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9804.jpeg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352-html",
+          "title": "La Copa de Oro del TC tiene nuevo líder tras la fecha de San Nicolás",
+          "summary": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992877/chapur-tomo-el-mando-de-la-copa-de-oro-tras-un-domingo-clave-en-san-nicolas_862x485.webp",
+          "body": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.\n\nEl piloto de Torino pasó a liderar el playoff después del abandono de Werner y quedó seguido de cerca por Santero y Fritzler. + Seguinos en La fecha del Turismo Carretera en San Nicolás modificó por completo el panorama de la Copa de Oro. Después de una final marcada por la primera victoria de Ignacio Faín y el abandono de Mariano Werner, Facundo Chapur pasó a ser el nuevo líder del campeonato. Chapur terminó segundo en la final detrás de su compañero Faín y alcanzó los 82,5 puntos, resultado que le permitió desplazar a Werner de la cima. El entrerriano, que había llegado a San Nicolás como puntero, abandonó en la vuelta 11 y cayó considerablemente en la tabla.\n\nMuy cerca del nuevo líder aparece Julián Santero con 81 unidades. El mendocino todavía no forma parte oficialmente de la Copa de Oro, pero está en zona de ingreso mediante el sistema de los “3 de último minuto” y sus puntos acumulados durante el playoff lo mantienen de lleno en la pelea.\n\nEl tercero es Otto Fritzler , quien finalizó cuarto en San Nicolás y llegó a los 78 puntos, apenas 4,5 por detrás de Chapur . Más atrás aparecen Josito Di Palma con 69,5 y Agustín Canapino con 63, luego de terminar 11° en la final.\n\nFaín , gracias a su victoria, alcanzó los 59 puntos, la misma cantidad que Werner . Jonatan Castellano quedó con 58,5 y Marco Dianda con 55,5.",
           "language": "es",
-          "publishedAt": "2026-10-04T15:35:19.000Z",
-          "addedAt": "2026-10-04T16:11:30.994Z",
+          "publishedAt": "2026-10-04T19:20:18.000Z",
+          "addedAt": "2026-10-04T20:11:31.443Z",
           "category": "argentino",
-          "tag": "Franco"
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-ignacio-fain-gano-en-san-nicolas-y-logro-su-primera-victoria-en-el-turismo-carretera-id7",
@@ -1612,7 +1612,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-05T07:11:33.364Z",
+      "createdAt": "2026-10-05T08:11:32.658Z",
       "items": [
         {
           "id": "campeones-com-ar-podios-argentinos-en-el-rally-raid-de-marruecos",
