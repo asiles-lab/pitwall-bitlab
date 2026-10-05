@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T08:11:29.409Z",
-  "checkedAt": "2026-10-05T08:11:29.409Z",
+  "updatedAt": "2026-10-05T09:11:29.395Z",
+  "checkedAt": "2026-10-05T09:11:29.395Z",
   "pageSize": 18,
   "sources": [
     {
@@ -508,7 +508,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-05T08:11:32.658Z",
+      "createdAt": "2026-10-05T09:11:32.201Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -784,7 +784,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-05T08:11:32.658Z",
+      "createdAt": "2026-10-05T09:11:32.201Z",
       "items": [
         {
           "id": "campeones-com-ar-la-determinacion-de-franco-colapinto-para-afrontar-el-gp-de-bahrein-de-f1",
@@ -922,21 +922,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-colapinto-completo-la-segunda-tanda-planificando-la-carrera-del-gp-de-bahrein",
-          "title": "Colapinto completó la segunda tanda planificando la carrera del GP de Bahrein",
-          "summary": "Experimentando el rendimiento del Alpine A526 con mayor carga de combustible y la gestión con los neumáticos, el piloto argentino cerró el primer día de actividad en Sepang.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-completo-la-segunda-tanda-planificando-la-carrera-del-gp-de-bahrein/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-F1-Colapinto-A526.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T09:02:56.000Z",
-          "addedAt": "2026-10-02T17:57:42.346Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336-html",
           "title": "F1: horarios y el cronograma completo del GP de Malasia",
           "summary": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
@@ -963,6 +948,21 @@
           "language": "es",
           "publishedAt": "2026-10-04T12:15:40.000Z",
           "addedAt": "2026-10-04T13:11:30.995Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-completo-la-segunda-tanda-planificando-la-carrera-del-gp-de-bahrein",
+          "title": "Colapinto completó la segunda tanda planificando la carrera del GP de Bahrein",
+          "summary": "Experimentando el rendimiento del Alpine A526 con mayor carga de combustible y la gestión con los neumáticos, el piloto argentino cerró el primer día de actividad en Sepang.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-completo-la-segunda-tanda-planificando-la-carrera-del-gp-de-bahrein/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-F1-Colapinto-A526.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T09:02:56.000Z",
+          "addedAt": "2026-10-02T17:57:42.346Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1060,7 +1060,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-05T08:11:32.658Z",
+      "createdAt": "2026-10-05T09:11:32.201Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1336,7 +1336,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-05T08:11:32.658Z",
+      "createdAt": "2026-10-05T09:11:32.201Z",
       "items": [
         {
           "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
@@ -1612,7 +1612,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-05T08:11:32.658Z",
+      "createdAt": "2026-10-05T09:11:32.201Z",
       "items": [
         {
           "id": "campeones-com-ar-podios-argentinos-en-el-rally-raid-de-marruecos",
