@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T12:11:29.560Z",
-  "checkedAt": "2026-10-05T12:11:29.560Z",
+  "updatedAt": "2026-10-05T13:11:29.407Z",
+  "checkedAt": "2026-10-05T13:11:29.407Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
+      "title": "Geely presentó su SUV de TC2000",
+      "summary": "El flamante equipo tendrá como pilotos a Nicolás Traut y Franco Riva. Así la categoría suma una nueva automotriz.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/geely-presento-su-suv-de-tc2000/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-12.47.43.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-02T16:28:07.000Z",
+      "addedAt": "2026-10-05T13:11:30.932Z",
+      "category": "argentino",
+      "tag": "Franco"
+    },
     {
       "id": "campeones-com-ar-tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen",
       "title": "TN: el balance de Santero tras las pruebas en el Cabalén | Campeones",
@@ -160,21 +175,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-los-datos-curiosos-del-tc-en-san-nicolas",
-      "title": "Los datos curiosos del TC en San Nicolás",
-      "summary": "Mariano Werner (Ford) y Agustín Canapino (Chevrolet) son los grandes referentes históricos en el circuito “Juan María Traverso”, donde las últimas 5 Finales fueron ganadas por el piloto que largó desde la 2ª posición.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/los-datos-curiosos-del-tc-en-san-nicolas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-San-Nicolas-2025.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-02T12:22:59.000Z",
-      "addedAt": "2026-10-04T11:11:31.542Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-horarios-e-inscriptos-para-el-tcr-south-america-en-posadas",
       "title": "Horarios e inscriptos para el TCR South America en Posadas",
       "summary": "La 8va fecha del campeonato de TCR South America marcará la llegada por primera vez al \"Rosamonte\" de Posadas, del 2 al 4 de octubre.",
@@ -233,6 +233,21 @@
       "addedAt": "2026-10-02T17:57:45.524Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-los-datos-curiosos-del-tc-en-san-nicolas",
+      "title": "Los datos curiosos del TC en San Nicolás",
+      "summary": "Mariano Werner (Ford) y Agustín Canapino (Chevrolet) son los grandes referentes históricos en el circuito “Juan María Traverso”, donde las últimas 5 Finales fueron ganadas por el piloto que largó desde la 2ª posición.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/los-datos-curiosos-del-tc-en-san-nicolas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-San-Nicolas-2025.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-02T12:22:59.000Z",
+      "addedAt": "2026-10-04T11:11:31.542Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-lucas-carabajal-festejo-en-el-zonda-su-primera-victoria-en-tc2000",
@@ -508,8 +523,23 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-05T12:11:34.855Z",
+      "createdAt": "2026-10-05T13:11:36.047Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-ma",
+          "title": "El contundente respaldo del manager de Colapinto y su agencia tras el GP de Baréin en Malasia",
+          "summary": "Bullet Sports Management destacó la actuación del piloto argentino tras una destacada recuperación y una estrategia de Alpine que condicionó su desempeño.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-malasia-id764413.html",
+          "image": "https://media.tycsports.com/files/2026/09/26/990872/franco-colapinto_1440x810.webp?v=1",
+          "body": "Bullet Sports Management destacó la actuación del piloto argentino tras una destacada recuperación y una estrategia de Alpine que condicionó su desempeño.\n\nFranco Colapinto terminó 13° en el Gran Premio de Baréin + Seguinos en Franco Colapinto terminó 13° en el Gran Premio de Baréin de Fórmula 1 , disputado en Malasia, después de remontar ocho posiciones desde el 21° lugar. El argentino no pudo sumar puntos, pero tuvo una destacada recuperación en una carrera marcada por las condiciones cambiantes de la pista y una estrategia de neumáticos de Alpine que condicionó su desempeño desde la largada.\n\nBullet Sports Management, la agencia que representa al piloto junto a Jamie Campbell-Walter y María Catarineu, destacó su actuación en redes sociales. “P13 en la bandera a cuadros no cuenta toda la historia del GP de Baréin de Franco” , publicó BSM. Campbell-Walter, por su parte, escribió: “Súper rápido este fin de semana. Hacia Singapur”.\n\nLa estrategia de Alpine fue uno de los principales problemas para Colapinto y Pierre Gasly, quienes largaron con neumáticos blandos para piso seco pese a que la pista todavía estaba mojada. “Nos quedamos todos sin agarre y patinando en la largada. Fue la decisión incorrecta” , explicó el argentino en diálogo con ESPN. “Después había que tomar muchos riesgos para ir rápido con la goma lisa y hubiésemos perdido la carrera” , agregó. En sus redes sociales, reconoció el error del equipo: “No fue el mejor día… No tomamos la decisión correcta como equipo, pero desde donde largábamos había que intentar algo” . Más allá del resultado, el piloto de Alpine rescató: “Lo más positivo fue el gran ritmo durante todo el finde en seco. Ya se viene Singapur, a volver a pelear arriba. ¡Vamos!”. En ese circuito, Colapinto ya compitió en 2024 con Williams y term",
+          "language": "es",
+          "publishedAt": "2026-10-05T12:55:21.000Z",
+          "addedAt": "2026-10-05T13:11:31.250Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
           "title": "Por qué Colapinto larga 21° si clasificó 15° en el GP de Malasia de la F1",
@@ -764,7 +794,13 @@
           "addedAt": "2026-10-02T20:06:54.053Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-05T13:11:36.047Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
           "title": "F1 | Colapinto en el GP de Malasia: horarios y el cronograma completo",
@@ -779,13 +815,7 @@
           "addedAt": "2026-10-02T16:23:12.642Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-05T12:11:34.855Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-la-determinacion-de-franco-colapinto-para-afrontar-el-gp-de-bahrein-de-f1",
           "title": "La determinación de Franco Colapinto para afrontar el GP de Bahrein de F1",
@@ -937,21 +967,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang",
-          "title": "La decisión de Alpine que condicionó a Colapinto en Sepang",
-          "summary": "Al concluir el GP de Bahrein, el piloto argentino se refirió a las dificultades que afrontó con el auto cuando en el comienzo calzó los neumáticos lisos estando el piso húmedo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-F1-Bahrein-Colapinto.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T12:15:40.000Z",
-          "addedAt": "2026-10-04T13:11:30.995Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-colapinto-completo-la-segunda-tanda-planificando-la-carrera-del-gp-de-bahrein",
           "title": "Colapinto completó la segunda tanda planificando la carrera del GP de Bahrein",
           "summary": "Experimentando el rendimiento del Alpine A526 con mayor carga de combustible y la gestión con los neumáticos, el piloto argentino cerró el primer día de actividad en Sepang.",
@@ -993,6 +1008,21 @@
           "language": "es",
           "publishedAt": "2026-10-01T17:59:06.000Z",
           "addedAt": "2026-10-02T16:23:12.895Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang",
+          "title": "La decisión de Alpine que condicionó a Colapinto en Sepang",
+          "summary": "Al concluir el GP de Bahrein, el piloto argentino se refirió a las dificultades que afrontó con el auto cuando en el comienzo calzó los neumáticos lisos estando el piso húmedo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-F1-Bahrein-Colapinto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T12:15:40.000Z",
+          "addedAt": "2026-10-04T13:11:30.995Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1040,27 +1070,12 @@
           "addedAt": "2026-10-02T17:57:42.219Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina",
-          "title": "Franco Ledesma ganó en San Nicolás y descuenta puntos en la F2 Argentina | Campeones",
-          "summary": "El marplatense aventajó en el giro inicial a Lautaro Videla y se llevó la cuarta victoria en el año.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9804.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T15:35:19.000Z",
-          "addedAt": "2026-10-04T16:11:30.994Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-05T12:11:34.855Z",
+      "createdAt": "2026-10-05T13:11:36.047Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1336,7 +1351,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-05T12:11:34.855Z",
+      "createdAt": "2026-10-05T13:11:36.047Z",
       "items": [
         {
           "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
@@ -1427,6 +1442,21 @@
           "addedAt": "2026-10-02T17:57:42.983Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina",
+          "title": "Franco Ledesma ganó en San Nicolás y descuenta puntos en la F2 Argentina | Campeones",
+          "summary": "El marplatense aventajó en el giro inicial a Lautaro Videla y se llevó la cuarta victoria en el año.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9804.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T15:35:19.000Z",
+          "addedAt": "2026-10-04T16:11:30.994Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352-html",
@@ -1592,7 +1622,13 @@
           "addedAt": "2026-10-03T21:11:31.686Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-05T13:11:36.047Z",
+      "items": [
         {
           "id": "campeones-com-ar-girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua",
           "title": "Girolami le dio el '1' a Hyundai en una clasificación pasada por agua",
@@ -1607,13 +1643,7 @@
           "addedAt": "2026-10-03T21:11:31.442Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-05T12:11:34.855Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-tc-en-san-nicolas-fain-logro-su-1a-pole-y-corto-una-sequia-de-3-anos-para-torino",
           "title": "TC en San Nicolás: Fain logró su 1ª “pole” y cortó una sequía de 3 años para Torino",
@@ -1765,21 +1795,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas",
-          "title": "Así se largan las series del Turismo Carretera en San Nicolás",
-          "summary": "Curiosamente, no habrá pilotos ni de Ford ni de Chevrolet en ninguna de las tres primeras filas de la 2ª fecha de la Copa de Oro 2026, donde serán mayoría los representantes de Torino (Fain y Chapur) y Mercedes-Benz (Fritzler y Azar).",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Boxes-TC-San-Nicolas-II-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T12:17:23.000Z",
-          "addedAt": "2026-10-03T22:11:27.635Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-marco-morelli-lidero-en-los-ensayos-japoneses-de-moto3",
           "title": "Marco Morelli lideró en los ensayos japoneses de Moto3",
           "summary": "Con la KTM de Aspar Team el piloto hispano argentino consiguió superar al local Yamanaka (MSI); Valentín Perrone quedó quinto con la unidad de Tech3.",
@@ -1806,6 +1821,21 @@
           "language": "es",
           "publishedAt": "2026-09-29T18:31:58.000Z",
           "addedAt": "2026-10-02T17:57:45.353Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas",
+          "title": "Así se largan las series del Turismo Carretera en San Nicolás",
+          "summary": "Curiosamente, no habrá pilotos ni de Ford ni de Chevrolet en ninguna de las tres primeras filas de la 2ª fecha de la Copa de Oro 2026, donde serán mayoría los representantes de Torino (Fain y Chapur) y Mercedes-Benz (Fritzler y Azar).",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Boxes-TC-San-Nicolas-II-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T12:17:23.000Z",
+          "addedAt": "2026-10-03T22:11:27.635Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1866,21 +1896,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T13:32:02.000Z",
           "addedAt": "2026-10-03T14:11:27.613Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour",
-          "title": "Azcona revalidó la \"pole\" con triunfo en el TCR World Tour | Campeones",
-          "summary": "El español es ahora le nuevo líder del certamen con el Hyundai, ya que Santiago Urrutia culminó 9.°.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/azcona-revalido-la-pole-con-triunfo-en-el-tcr-world-tour/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2026_TCR_photo_news_299_5906468e00a8118fbdc45bde752c23ce.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T13:12:20.000Z",
-          "addedAt": "2026-10-03T14:11:27.536Z",
           "category": "argentino",
           "tag": "Argentino"
         }
