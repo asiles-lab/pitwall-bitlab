@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T11:11:29.335Z",
-  "checkedAt": "2026-10-05T11:11:29.335Z",
+  "updatedAt": "2026-10-05T12:11:29.560Z",
+  "checkedAt": "2026-10-05T12:11:29.560Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
-      "title": "Geely presentó su SUV de TC2000",
-      "summary": "El flamante equipo tendrá como pilotos a Nicolás Traut y Franco Riva. Así la categoría suma una nueva automotriz.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/geely-presento-su-suv-de-tc2000/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-12.47.43.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-02T16:28:07.000Z",
-      "addedAt": "2026-10-05T11:11:34.807Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
     {
       "id": "campeones-com-ar-tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen",
       "title": "TN: el balance de Santero tras las pruebas en el Cabalén | Campeones",
@@ -523,7 +508,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-05T11:11:36.235Z",
+      "createdAt": "2026-10-05T12:11:34.855Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -631,21 +616,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770-html",
-          "title": "Max Verstappen se quedó con el GP de Malasia: Colapinto finalizó 13&ordm;",
-          "summary": "El neerlandés obtuvo su primera victoria en la temporada 2026, en una carrera que se demoró y tuvo tres ingresos del safety car. El argentino remontó ocho posiciones y cerró una buena actuación.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992793/gp-de-malasia_1440x810.webp?v=1",
-          "body": "El neerlandés obtuvo su primera victoria en la temporada 2026, en una carrera que se demoró y tuvo tres ingresos del safety car. El argentino remontó ocho posiciones y cerró una buena actuación.\n\nVerstappen logró su primera pole del año y Colapinto largará anteúltimo Afectado por una nueva penalización, Colapinto terminó 19°, 22° y 9° en las prácticas libres en Malasia 04/10/2026 08:22 am Franco Colapinto en el GP de Malasia (Getty Images) + Seguinos en Max Verstappen (Red Bull) ganó el Gran Premio de Malasia y obtuvo su primera victoria en la temporada 2026 de la Fórmula 1. El neerlandés, que había hecho la pole, dominó de principio a fin una carrera que se retrasó una hora y media a causa de la lluvia y tuvo tres safety car. Franco Colapinto, que arrancó 21º, recuperó ocho posiciones y finalizó 13º, por delante de Pierre Gasly que fue 16º. El podio lo completaron Kimi Antonelli (Mercedes) y Lewis Hamilton (Ferrari).\n\nLa carrera comenzó con Antonelli tomando la punta y Russell detrás, mientras Verstappen avanzaba rápidamente hasta recuperar el liderazgo. La pista mojada complicó las primeras vueltas y obligó a varios pilotos a cambiar los neumáticos. Colapinto sufrió con las condiciones iniciales, pero luego comenzó a recuperar terreno y llegó a ubicarse 11º antes de su detención en boxes.\n\nEl argentino tuvo una estrategia cambiante y volvió a meterse en la pelea por posiciones después de caer al 19º lugar tras su parada, sin embargo adelantó a varios rivales en el tramo final y, con el ingreso del último safety car, quedó cerca de los puntos. Finalmente superó a Oliver Bearman y recibió la bandera a cuadros en el 13º puesto , mientras Gasly, también de carrera cambiante y cuatro ingresos a pits terminó 16º.\n\nLa definición volvió a quedar condicionada por el ingreso de",
-          "language": "es",
-          "publishedAt": "2026-10-04T11:22:48.000Z",
-          "addedAt": "2026-10-03T10:16:39.500Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611-h",
           "title": "F1: Verstappen logró su primera pole del año y Colapinto largará anteúltimo",
           "summary": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.",
@@ -672,6 +642,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T20:37:34.000Z",
           "addedAt": "2026-10-02T21:06:55.272Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770-html",
+          "title": "Max Verstappen se quedó con el GP de Malasia: Colapinto finalizó 13&ordm;",
+          "summary": "El neerlandés obtuvo su primera victoria en la temporada 2026, en una carrera que se demoró y tuvo tres ingresos del safety car. El argentino remontó ocho posiciones y cerró una buena actuación.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992793/gp-de-malasia_1440x810.webp?v=1",
+          "body": "El neerlandés obtuvo su primera victoria en la temporada 2026, en una carrera que se demoró y tuvo tres ingresos del safety car. El argentino remontó ocho posiciones y cerró una buena actuación.\n\nVerstappen logró su primera pole del año y Colapinto largará anteúltimo Afectado por una nueva penalización, Colapinto terminó 19°, 22° y 9° en las prácticas libres en Malasia 04/10/2026 08:22 am Franco Colapinto en el GP de Malasia (Getty Images) + Seguinos en Max Verstappen (Red Bull) ganó el Gran Premio de Malasia y obtuvo su primera victoria en la temporada 2026 de la Fórmula 1. El neerlandés, que había hecho la pole, dominó de principio a fin una carrera que se retrasó una hora y media a causa de la lluvia y tuvo tres safety car. Franco Colapinto, que arrancó 21º, recuperó ocho posiciones y finalizó 13º, por delante de Pierre Gasly que fue 16º. El podio lo completaron Kimi Antonelli (Mercedes) y Lewis Hamilton (Ferrari).\n\nLa carrera comenzó con Antonelli tomando la punta y Russell detrás, mientras Verstappen avanzaba rápidamente hasta recuperar el liderazgo. La pista mojada complicó las primeras vueltas y obligó a varios pilotos a cambiar los neumáticos. Colapinto sufrió con las condiciones iniciales, pero luego comenzó a recuperar terreno y llegó a ubicarse 11º antes de su detención en boxes.\n\nEl argentino tuvo una estrategia cambiante y volvió a meterse en la pelea por posiciones después de caer al 19º lugar tras su parada, sin embargo adelantó a varios rivales en el tramo final y, con el ingreso del último safety car, quedó cerca de los puntos. Finalmente superó a Oliver Bearman y recibió la bandera a cuadros en el 13º puesto , mientras Gasly, también de carrera cambiante y cuatro ingresos a pits terminó 16º.\n\nLa definición volvió a quedar condicionada por el ingreso de",
+          "language": "es",
+          "publishedAt": "2026-10-04T11:22:48.000Z",
+          "addedAt": "2026-10-03T10:16:39.500Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -799,7 +784,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-05T11:11:36.235Z",
+      "createdAt": "2026-10-05T12:11:34.855Z",
       "items": [
         {
           "id": "campeones-com-ar-la-determinacion-de-franco-colapinto-para-afrontar-el-gp-de-bahrein-de-f1",
@@ -1075,7 +1060,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-05T11:11:36.235Z",
+      "createdAt": "2026-10-05T12:11:34.855Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1351,7 +1336,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-05T11:11:36.235Z",
+      "createdAt": "2026-10-05T12:11:34.855Z",
       "items": [
         {
           "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
@@ -1627,7 +1612,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-05T11:11:36.235Z",
+      "createdAt": "2026-10-05T12:11:34.855Z",
       "items": [
         {
           "id": "campeones-com-ar-tc-en-san-nicolas-fain-logro-su-1a-pole-y-corto-una-sequia-de-3-anos-para-torino",
