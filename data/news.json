@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T04:11:29.288Z",
-  "checkedAt": "2026-10-05T04:11:29.288Z",
+  "updatedAt": "2026-10-05T05:11:29.349Z",
+  "checkedAt": "2026-10-05T05:11:29.349Z",
   "pageSize": 18,
   "sources": [
     {
@@ -508,7 +508,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-05T04:11:35.066Z",
+      "createdAt": "2026-10-05T05:11:34.186Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -784,7 +784,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-05T04:11:35.066Z",
+      "createdAt": "2026-10-05T05:11:34.186Z",
       "items": [
         {
           "id": "campeones-com-ar-la-determinacion-de-franco-colapinto-para-afrontar-el-gp-de-bahrein-de-f1",
@@ -1060,7 +1060,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-05T04:11:35.066Z",
+      "createdAt": "2026-10-05T05:11:34.186Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1153,21 +1153,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona",
-          "title": "Thomas Pozner ganó la Final de TC Pista en San Nicolás y se ilusiona",
-          "summary": "El piloto de Ford logró su 1ª victoria en la categoría luego de doblegar en la anteúltima vuelta a Gabriel Gandulia (Ford Mustang), quien completó el “1-2” del Moriatis Competición, y se convirtió en el nuevo escolta de Bautista Damiani (Chevrolet Camaro) en la Copa de Plata.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Pozner-TCP-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T16:38:46.000Z",
-          "addedAt": "2026-10-04T17:11:31.464Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas",
           "title": "TC Pista: Maceira se quedó con el ensayo final en San Nicolás",
           "summary": "El piloto del Catalán Magni Motorsport, que no pudo largar la Final en San Luis y llegó a poner en duda su presencia en esta 2ª fecha de la Copa de Plata 2026, marcó el mejor tiempo en una pista en la que se bajaron los tiempos en casi 13 segundos respecto de la primera práctica.",
@@ -1258,6 +1243,21 @@
           "tag": "Previa"
         },
         {
+          "id": "campeones-com-ar-thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona",
+          "title": "Thomas Pozner ganó la Final de TC Pista en San Nicolás y se ilusiona",
+          "summary": "El piloto de Ford logró su 1ª victoria en la categoría luego de doblegar en la anteúltima vuelta a Gabriel Gandulia (Ford Mustang), quien completó el “1-2” del Moriatis Competición, y se convirtió en el nuevo escolta de Bautista Damiani (Chevrolet Camaro) en la Copa de Plata.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Pozner-TCP-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T16:38:46.000Z",
+          "addedAt": "2026-10-04T17:11:31.464Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "campeones-com-ar-provens-tiene-la-pole-para-la-final-del-tc-pista",
           "title": "Provens tiene la “pole” para la Final del TC Pista",
           "summary": "El piloto de Dodge ganó con comodidad la batería más veloz en San Nicolás y largará la Final desde la mejor posición por 3ª vez en la temporada. Gabriel Gandulia (Ford Mustang) completará la 1ª fila de la 12ª fecha del campeonato 2026.",
@@ -1336,7 +1336,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-05T04:11:35.066Z",
+      "createdAt": "2026-10-05T05:11:34.186Z",
       "items": [
         {
           "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
@@ -1594,27 +1594,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-asi-se-conforma-la-grilla-para-la-final-del-tc-en-san-nicolas",
-          "title": "Así se conforma la grilla para la Final del TC en San Nicolás",
-          "summary": "Julián Santero (BMW M4), que por ahora no forma parte de la Copa de Oro, largará desde la “pole position” por 2ª vez en la temporada 2026 de Turismo Carretera, en un circuito que ya lo vio ganador en 2021. Ignacio Fain (Torino NG), que sí está en el “play-off” y busca su 1ª victoria en la categoría, completará la 1ª fila.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/asi-se-conforma-la-grilla-para-la-final-del-tc-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Boxes-TC-San-Nicolas-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T16:28:01.000Z",
-          "addedAt": "2026-10-04T17:11:31.516Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-05T04:11:35.066Z",
-      "items": [
-        {
           "id": "campeones-com-ar-girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua",
           "title": "Girolami le dio el '1' a Hyundai en una clasificación pasada por agua",
           "summary": "El piloto de Isla Verde fue el más rápido en el primer corte de clasificación. La lluvia torrencial no permitió el normal desarrollo de la Q2, lo que se tradujo en \"pole\" del cordobés.",
@@ -1628,7 +1607,13 @@
           "addedAt": "2026-10-03T21:11:31.442Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-05T05:11:34.186Z",
+      "items": [
         {
           "id": "campeones-com-ar-tc-en-san-nicolas-fain-logro-su-1a-pole-y-corto-una-sequia-de-3-anos-para-torino",
           "title": "TC en San Nicolás: Fain logró su 1ª “pole” y cortó una sequía de 3 años para Torino",
@@ -1716,6 +1701,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T06:39:57.000Z",
           "addedAt": "2026-10-02T17:57:42.221Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-asi-se-conforma-la-grilla-para-la-final-del-tc-en-san-nicolas",
+          "title": "Así se conforma la grilla para la Final del TC en San Nicolás",
+          "summary": "Julián Santero (BMW M4), que por ahora no forma parte de la Copa de Oro, largará desde la “pole position” por 2ª vez en la temporada 2026 de Turismo Carretera, en un circuito que ya lo vio ganador en 2021. Ignacio Fain (Torino NG), que sí está en el “play-off” y busca su 1ª victoria en la categoría, completará la 1ª fila.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/asi-se-conforma-la-grilla-para-la-final-del-tc-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Boxes-TC-San-Nicolas-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T16:28:01.000Z",
+          "addedAt": "2026-10-04T17:11:31.516Z",
           "category": "argentino",
           "tag": "Argentino"
         },
