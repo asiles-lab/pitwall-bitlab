@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T18:11:29.495Z",
-  "checkedAt": "2026-10-05T18:11:29.495Z",
+  "updatedAt": "2026-10-05T20:11:30.136Z",
+  "checkedAt": "2026-10-05T20:11:30.136Z",
   "pageSize": 18,
   "sources": [
     {
@@ -81,21 +81,6 @@
       "language": "es",
       "publishedAt": "2026-09-30T01:08:43.000Z",
       "addedAt": "2026-10-04T17:11:35.039Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-la-emocion-del-bocha-ciantini-tras-correr-en-balcarce",
-      "title": "La emoción del \"Bocha\" Ciantini tras correr en Balcarce | Campeones",
-      "summary": "El experimentado piloto de 56 años se dio el lujo de correr en sus tierras con el TC Pick Up, el fin de semana de la histórica reinauguración del autódromo.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/la-emocion-del-bocha-ciantini-tras-correr-en-balcarce/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/SaveClip.App_825326399_18628945504036077_4541664836126086895_n-e1790603863751.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-09-28T18:58:51.000Z",
-      "addedAt": "2026-10-04T17:11:31.442Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -250,21 +235,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-balcarce-esta-muchisimo-mejor-que-otra-pista-del-calendario-de-tc",
-      "title": "\"Balcarce está muchísimo mejor que otras pistas del calendario de TC\" | Campeones",
-      "summary": "Otto Fritzler pasó por Campeones y se expresó sobre la vuelta del \"Juan Manuel Fangio\" al calendario nacional, con la actividad de TC Pick Up.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/balcarce-esta-muchisimo-mejor-que-otra-pista-del-calendario-de-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/otto-fritzler-balcarce.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-09-28T19:22:19.000Z",
-      "addedAt": "2026-10-02T17:57:45.524Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-los-datos-curiosos-del-tc-en-san-nicolas",
       "title": "Los datos curiosos del TC en San Nicolás",
       "summary": "Mariano Werner (Ford) y Agustín Canapino (Chevrolet) son los grandes referentes históricos en el circuito “Juan María Traverso”, donde las últimas 5 Finales fueron ganadas por el piloto que largó desde la 2ª posición.",
@@ -276,6 +246,21 @@
       "language": "es",
       "publishedAt": "2026-10-02T12:22:59.000Z",
       "addedAt": "2026-10-04T11:11:31.542Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-la-emocion-del-bocha-ciantini-tras-correr-en-balcarce",
+      "title": "La emoción del \"Bocha\" Ciantini tras correr en Balcarce | Campeones",
+      "summary": "El experimentado piloto de 56 años se dio el lujo de correr en sus tierras con el TC Pick Up, el fin de semana de la histórica reinauguración del autódromo.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/la-emocion-del-bocha-ciantini-tras-correr-en-balcarce/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/SaveClip.App_825326399_18628945504036077_4541664836126086895_n-e1790603863751.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-09-28T18:58:51.000Z",
+      "addedAt": "2026-10-04T17:11:31.442Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -445,6 +430,21 @@
       "tag": "Carrera"
     },
     {
+      "id": "campeones-com-ar-balcarce-esta-muchisimo-mejor-que-otra-pista-del-calendario-de-tc",
+      "title": "\"Balcarce está muchísimo mejor que otras pistas del calendario de TC\" | Campeones",
+      "summary": "Otto Fritzler pasó por Campeones y se expresó sobre la vuelta del \"Juan Manuel Fangio\" al calendario nacional, con la actividad de TC Pick Up.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/balcarce-esta-muchisimo-mejor-que-otra-pista-del-calendario-de-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/otto-fritzler-balcarce.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-09-28T19:22:19.000Z",
+      "addedAt": "2026-10-02T17:57:45.524Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "carburando-com-ar-blog-turismo-carretera-el-misil-es-el-mas-ganador-en-san-luis-y-busca",
       "title": "Turismo Carretera: el Misil es el más ganador en San Luis y busca la victoria para pelear el título",
       "summary": "Facundo Ardusso llega como el piloto con más triunfos en el Autódromo Rosendo Hernández y necesita sumar fuerte este fin de semana para meterse de lleno…",
@@ -458,6 +458,21 @@
       "addedAt": "2026-10-02T17:57:42.623Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-wec-fia-y-aco-trabajan-en-extender-su-acuerdo-mas-alla-de-2027",
+      "title": "WEC: FIA y ACO trabajan en extender su acuerdo más allá de 2027",
+      "summary": "Ambas entidades aclararon que sus objetivos se enfocan en continuar desarrollando el Campeonato Mundial de Resistencia juntos, ante informaciones erróneas.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/wec-fia-y-aco-trabajan-en-extender-su-acuerdo-mas-alla-de-2027/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260918-WEC-Le-Mans.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-09-18T19:49:28.000Z",
+      "addedAt": "2026-10-05T20:11:35.423Z",
+      "category": "general",
+      "tag": "Reglamento"
     },
     {
       "id": "campeones-com-ar-tcr-south-america-piquet-jr-marco-el-ritmo-antes-de-clasificar-en-concordia",
@@ -568,7 +583,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-05T18:11:37.814Z",
+      "createdAt": "2026-10-05T20:11:35.433Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -826,27 +841,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten",
-          "title": "Verstappen agradeció los elogios de Colapinto: \"Los que compiten en F1...\"",
-          "summary": "El piloto neerlandés reconoció las palabras del argentino, que lo había puesto como ejemplo por su accionar con los jóvenes que competen errores en la Fórmula 1.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten-en-f1-no-son-mis-enemigos-id764060.html",
-          "image": "https://media.tycsports.com/files/2026/10/02/992362/verstappen_1440x810.webp?v=1",
-          "body": "El piloto neerlandés reconoció las palabras del argentino, que lo había puesto como ejemplo por su accionar con los jóvenes que competen errores en la Fórmula 1.\n\nVerstappen destacó el reconocimiento de Colapinto por su actitud (Redes sociales) + Seguinos en El piloto neerlandés de Red Bull, Max Verstappen , cuatro veces campeón de la Fórmula 1, agradeció los elogios del argentino Franco Colapinto , quien lo puso como ejemplo tras el accidente que protagonizó en el Gran Premio de Azerbaiyán por la actitud que el europeo ha tenido siempre con los jóvenes que cometen errores en la Máxima.\n\n\"Creo que algunos pilotos valoran eso. Soy naturalmente así. La gente me hace preguntas y no escondo cosas, soy un libro abierto\" , dijo Verstappen en una entrevista con The Fast and the Curious acerca de su predisposición para hablar y aconsejar a los nuevos pilotos que llegan a la Fórmula 1.\n\nEn esa misma línea, el neerlandés hizo una declaración de principios: \"Aprecio cuando la gente es buena conmigo, y cuando me respetan, los respeto, no es muy difícil. No tengo esa forma de pensar de que todos los que compiten en la Fórmula 1 son mis enemigos , así que para mí es algo natural que hacer, honestamente\" .\n\nTodo comenzó a partir de la carrera en Bakú, en la que un error de Colapinto dejó fuera de carrera a Pierre Gasly e impactara al hombre de McLaren Lando Norris , quien disparó: \"Esta gente debería ser suspendida porque ese tipo de conducción no merece estar en la F1\" .",
-          "language": "es",
-          "publishedAt": "2026-10-02T19:48:38.000Z",
-          "addedAt": "2026-10-02T20:06:54.053Z",
-          "category": "argentino",
-          "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-05T18:11:37.814Z",
-      "items": [
-        {
           "id": "campeones-com-ar-la-determinacion-de-franco-colapinto-para-afrontar-el-gp-de-bahrein-de-f1",
           "title": "La determinación de Franco Colapinto para afrontar el GP de Bahrein de F1",
           "summary": "Largará 21.° con el Alpine cumpliendo con las penalizaciones deportivas y técnicas en Sepang, circuito en el cual pretende escalar durante las 56 vueltas.",
@@ -858,6 +852,27 @@
           "language": "es",
           "publishedAt": "2026-10-03T10:25:22.000Z",
           "addedAt": "2026-10-03T11:20:54.389Z",
+          "category": "argentino",
+          "tag": "Franco"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-05T20:11:35.433Z",
+      "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten",
+          "title": "Verstappen agradeció los elogios de Colapinto: \"Los que compiten en F1...\"",
+          "summary": "El piloto neerlandés reconoció las palabras del argentino, que lo había puesto como ejemplo por su accionar con los jóvenes que competen errores en la Fórmula 1.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten-en-f1-no-son-mis-enemigos-id764060.html",
+          "image": "https://media.tycsports.com/files/2026/10/02/992362/verstappen_1440x810.webp?v=1",
+          "body": "El piloto neerlandés reconoció las palabras del argentino, que lo había puesto como ejemplo por su accionar con los jóvenes que competen errores en la Fórmula 1.\n\nVerstappen destacó el reconocimiento de Colapinto por su actitud (Redes sociales) + Seguinos en El piloto neerlandés de Red Bull, Max Verstappen , cuatro veces campeón de la Fórmula 1, agradeció los elogios del argentino Franco Colapinto , quien lo puso como ejemplo tras el accidente que protagonizó en el Gran Premio de Azerbaiyán por la actitud que el europeo ha tenido siempre con los jóvenes que cometen errores en la Máxima.\n\n\"Creo que algunos pilotos valoran eso. Soy naturalmente así. La gente me hace preguntas y no escondo cosas, soy un libro abierto\" , dijo Verstappen en una entrevista con The Fast and the Curious acerca de su predisposición para hablar y aconsejar a los nuevos pilotos que llegan a la Fórmula 1.\n\nEn esa misma línea, el neerlandés hizo una declaración de principios: \"Aprecio cuando la gente es buena conmigo, y cuando me respetan, los respeto, no es muy difícil. No tengo esa forma de pensar de que todos los que compiten en la Fórmula 1 son mis enemigos , así que para mí es algo natural que hacer, honestamente\" .\n\nTodo comenzó a partir de la carrera en Bakú, en la que un error de Colapinto dejó fuera de carrera a Pierre Gasly e impactara al hombre de McLaren Lando Norris , quien disparó: \"Esta gente debería ser suspendida porque ese tipo de conducción no merece estar en la F1\" .",
+          "language": "es",
+          "publishedAt": "2026-10-02T19:48:38.000Z",
+          "addedAt": "2026-10-02T20:06:54.053Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1042,21 +1057,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-gran-demostracion-de-lorenzato-en-el-mundial-de-flat-track-previo-a-las-carreras-de-argentina",
-          "title": "Gran demostración de Lorenzato en el Mundial de Flat Track previo a las carreras de Argentina",
-          "summary": "Un fallo mecánico impidió que el argentino se luzca en República Checa, mientras Argentina se prepara para la doble fecha en Totoras.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/gran-demostracion-de-lorenzato-en-el-mundial-de-flat-track-previo-a-las-carreras-de-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Marius-y-Lorenzato.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-05T08:09:47.000Z",
-          "addedAt": "2026-10-05T17:11:32.246Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336-html",
           "title": "F1: horarios y el cronograma completo del GP de Malasia",
           "summary": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
@@ -1085,6 +1085,21 @@
           "addedAt": "2026-10-02T16:23:12.895Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-gran-demostracion-de-lorenzato-en-el-mundial-de-flat-track-previo-a-las-carreras-de-argentina",
+          "title": "Gran demostración de Lorenzato en el Mundial de Flat Track previo a las carreras de Argentina",
+          "summary": "Un fallo mecánico impidió que el argentino se luzca en República Checa, mientras Argentina se prepara para la doble fecha en Totoras.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/gran-demostracion-de-lorenzato-en-el-mundial-de-flat-track-previo-a-las-carreras-de-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Marius-y-Lorenzato.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-05T08:09:47.000Z",
+          "addedAt": "2026-10-05T17:11:32.246Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang",
@@ -1120,23 +1135,8 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-05T18:11:37.814Z",
+      "createdAt": "2026-10-05T20:11:35.433Z",
       "items": [
-        {
-          "id": "campeones-com-ar-asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas",
-          "title": "Así quedó la Copa de Oro de TC con Chapur líder luego de San Nicolás",
-          "summary": "Con el segundo puesto en el '1-2' de Torino, el cordobés se trepó a la cima del 'playoff' a falta de tres carreras para el cierre.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/FACUNDO-CHAPUR-TC-FOTO-DARIO-GALLARDO.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-05T15:49:04.000Z",
-          "addedAt": "2026-10-05T16:11:30.907Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
           "title": "Por qué se retrasó la largada del GP de Malasia de la Fórmula 1",
@@ -1151,6 +1151,21 @@
           "addedAt": "2026-10-04T08:11:31.664Z",
           "category": "general",
           "tag": "Clima"
+        },
+        {
+          "id": "campeones-com-ar-asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas",
+          "title": "Así quedó la Copa de Oro de TC con Chapur líder luego de San Nicolás",
+          "summary": "Con el segundo puesto en el '1-2' de Torino, el cordobés se trepó a la cima del 'playoff' a falta de tres carreras para el cierre.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/FACUNDO-CHAPUR-TC-FOTO-DARIO-GALLARDO.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-05T15:49:04.000Z",
+          "addedAt": "2026-10-05T16:11:30.907Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -1183,21 +1198,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-como-es-un-ford-mustang-de-tc-por-dentro",
-          "title": "¿Cómo es un Ford Mustang de TC por dentro?",
-          "summary": "Facundo Ardusso explica al detalle las características del vehículo con el que compite y que atiende el \"Gurí Martínez Competición\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/como-es-un-ford-mustang-de-tc-por-dentro/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/FORD-MUSTANG-FACUNDO-ARDUSSO-TC-SAN-NICOLAS.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-05T15:19:21.000Z",
-          "addedAt": "2026-10-05T16:11:31.670Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-desopilante-jugada-de-briatore-engano-a-todos-los-periodistas-de-la-f1-con-una-hoja-en-b",
           "title": "Desopilante jugada de Briatore: engañó a todos los periodistas de la F1 con una hoja en blanco",
           "summary": "El jefe de Alpine, que hace un mes apareció en una rueda de prensa con una hoja y denunció a McLaren por sobornar a un juez que sancionó a Gasly, volvió a salir a escena con un papel, pero esta vez fue para distraer.",
@@ -1226,6 +1226,21 @@
           "addedAt": "2026-10-03T09:12:03.399Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-como-es-un-ford-mustang-de-tc-por-dentro",
+          "title": "¿Cómo es un Ford Mustang de TC por dentro?",
+          "summary": "Facundo Ardusso explica al detalle las características del vehículo con el que compite y que atiende el \"Gurí Martínez Competición\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/como-es-un-ford-mustang-de-tc-por-dentro/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/FORD-MUSTANG-FACUNDO-ARDUSSO-TC-SAN-NICOLAS.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-05T15:19:21.000Z",
+          "addedAt": "2026-10-05T16:11:31.670Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas",
@@ -1396,7 +1411,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-05T18:11:37.814Z",
+      "createdAt": "2026-10-05T20:11:35.433Z",
       "items": [
         {
           "id": "campeones-com-ar-nuevo-triunfo-de-marc-marquez-en-la-temporada-de-motogp-ahora-en-japon",
@@ -1519,21 +1534,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352-html",
-          "title": "La Copa de Oro del TC tiene nuevo líder tras la fecha de San Nicolás",
-          "summary": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992877/chapur-tomo-el-mando-de-la-copa-de-oro-tras-un-domingo-clave-en-san-nicolas_862x485.webp",
-          "body": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.\n\nEl piloto de Torino pasó a liderar el playoff después del abandono de Werner y quedó seguido de cerca por Santero y Fritzler. + Seguinos en La fecha del Turismo Carretera en San Nicolás modificó por completo el panorama de la Copa de Oro. Después de una final marcada por la primera victoria de Ignacio Faín y el abandono de Mariano Werner, Facundo Chapur pasó a ser el nuevo líder del campeonato. Chapur terminó segundo en la final detrás de su compañero Faín y alcanzó los 82,5 puntos, resultado que le permitió desplazar a Werner de la cima. El entrerriano, que había llegado a San Nicolás como puntero, abandonó en la vuelta 11 y cayó considerablemente en la tabla.\n\nMuy cerca del nuevo líder aparece Julián Santero con 81 unidades. El mendocino todavía no forma parte oficialmente de la Copa de Oro, pero está en zona de ingreso mediante el sistema de los “3 de último minuto” y sus puntos acumulados durante el playoff lo mantienen de lleno en la pelea.\n\nEl tercero es Otto Fritzler , quien finalizó cuarto en San Nicolás y llegó a los 78 puntos, apenas 4,5 por detrás de Chapur . Más atrás aparecen Josito Di Palma con 69,5 y Agustín Canapino con 63, luego de terminar 11° en la final.\n\nFaín , gracias a su victoria, alcanzó los 59 puntos, la misma cantidad que Werner . Jonatan Castellano quedó con 58,5 y Marco Dianda con 55,5.",
-          "language": "es",
-          "publishedAt": "2026-10-04T19:20:18.000Z",
-          "addedAt": "2026-10-04T20:11:31.443Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-scaloni-se-junto-con-un-piloto-argentino-y-recibio-un-regalo-especial-se-sube-a-un-tc-id",
           "title": "Scaloni se juntó con un piloto argentino y recibió un regalo especial: ¿Se sube a un TC?",
           "summary": "En el día posterior a la goleada ante Bolivia, el entrenador de la Selección Argentina se reunió con varias personalidades del automovilismo y, además, se llevó un traje personalizado con su camiseta número 18.",
@@ -1609,6 +1609,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352-html",
+          "title": "La Copa de Oro del TC tiene nuevo líder tras la fecha de San Nicolás",
+          "summary": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992877/chapur-tomo-el-mando-de-la-copa-de-oro-tras-un-domingo-clave-en-san-nicolas_862x485.webp",
+          "body": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.\n\nEl piloto de Torino pasó a liderar el playoff después del abandono de Werner y quedó seguido de cerca por Santero y Fritzler. + Seguinos en La fecha del Turismo Carretera en San Nicolás modificó por completo el panorama de la Copa de Oro. Después de una final marcada por la primera victoria de Ignacio Faín y el abandono de Mariano Werner, Facundo Chapur pasó a ser el nuevo líder del campeonato. Chapur terminó segundo en la final detrás de su compañero Faín y alcanzó los 82,5 puntos, resultado que le permitió desplazar a Werner de la cima. El entrerriano, que había llegado a San Nicolás como puntero, abandonó en la vuelta 11 y cayó considerablemente en la tabla.\n\nMuy cerca del nuevo líder aparece Julián Santero con 81 unidades. El mendocino todavía no forma parte oficialmente de la Copa de Oro, pero está en zona de ingreso mediante el sistema de los “3 de último minuto” y sus puntos acumulados durante el playoff lo mantienen de lleno en la pelea.\n\nEl tercero es Otto Fritzler , quien finalizó cuarto en San Nicolás y llegó a los 78 puntos, apenas 4,5 por detrás de Chapur . Más atrás aparecen Josito Di Palma con 69,5 y Agustín Canapino con 63, luego de terminar 11° en la final.\n\nFaín , gracias a su victoria, alcanzó los 59 puntos, la misma cantidad que Werner . Jonatan Castellano quedó con 58,5 y Marco Dianda con 55,5.",
+          "language": "es",
+          "publishedAt": "2026-10-04T19:20:18.000Z",
+          "addedAt": "2026-10-04T20:11:31.443Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-ignacio-fain-gano-en-san-nicolas-y-logro-su-primera-victoria-en-el-turismo-carretera-id7",
           "title": "Ignacio Faín ganó en San Nicolás y logró su primera victoria en el Turismo Carretera",
           "summary": "El piloto de Torino completó un fin de semana perfecto: pole, triunfo en su serie y victoria en la final. Facundo Chapur y Julián Santero completaron el podio.",
@@ -1672,7 +1687,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-05T18:11:37.814Z",
+      "createdAt": "2026-10-05T20:11:35.433Z",
       "items": [
         {
           "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
