@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T14:11:30.212Z",
-  "checkedAt": "2026-10-05T14:11:30.212Z",
+  "updatedAt": "2026-10-05T15:11:29.530Z",
+  "checkedAt": "2026-10-05T15:11:29.530Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
+      "title": "Geely presentó su SUV de TC2000",
+      "summary": "El flamante equipo tendrá como pilotos a Nicolás Traut y Franco Riva. Así la categoría suma una nueva automotriz.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/geely-presento-su-suv-de-tc2000/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-12.47.43.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-02T16:28:07.000Z",
+      "addedAt": "2026-10-05T15:11:36.826Z",
+      "category": "argentino",
+      "tag": "Franco"
+    },
     {
       "id": "campeones-com-ar-tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen",
       "title": "TN: el balance de Santero tras las pruebas en el Cabalén | Campeones",
@@ -523,7 +538,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-05T14:11:44.454Z",
+      "createdAt": "2026-10-05T15:11:38.139Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-ma",
@@ -552,21 +567,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T09:44:29.000Z",
           "addedAt": "2026-10-03T10:16:38.999Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-i",
-          "title": "Franco Colapinto recibió otra penalización en el GP de Malasia de la F1: \"Largaré...\"",
-          "summary": "El píloto argentino fue sancionado con diez posiciones porque Alpine cambió nuevamente el propulsor antes de la carrera del domingo. Esto se suma al castigo por el incidente en Bakú.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-id763960.html",
-          "image": "https://media.tycsports.com/files/2026/10/02/992226/franco-colapinto_1440x810.webp",
-          "body": "El píloto argentino fue sancionado con diez posiciones porque Alpine cambió nuevamente el propulsor antes de la carrera del domingo. Esto se suma al castigo por el incidente en Bakú.\n\nFranco Colapinto fue sancionado y largará aún más atrás en el GP de Bahreín (Kym Illman/Getty Images)) + Seguinos en El piloto argentino Franco Colapinto sufrió otra mala noticia este viernes porque fue sancionado con diez posiciones luego de que Alpine cambiara nuevamente el propulsor antes de la carrera del domingo, por lo que partirá desde diez posiciones más atrás en el GP de Malasia, castigo que se suma a los cinco puestos que ya había recibido por le incidente en Bakú.\n\nEl nuevo castigo llegó luego de que la escudería instalara el quinto motor de combustión interna Mercedes de la temporada en el auto del argentino. El reglamento establece un máximo de cuatro unidades sin sanción, por lo que superar ese límite implica un recargo automático. La decisión del equipo responde a una cuestión estratégica: como ya debía perder cinco puestos, Alpine optó por colocar ahora un motor nuevo y asumir también el castigo correspondiente . La intención es disponer de esa unidad adicional durante el tramo final del campeonato.\n\nEl primer recargo se originó en Bakú, cuando restaban 15 vueltas y el argentino bloqueó las ruedas al llegar a la primera curva tras un relanzamiento del Auto de Seguridad . El contacto terminó con los abandonos de Colapinto, Pierre Gasly y Lando Norris.\n\nLos comisarios determinaron que el argentino fue responsable del incidente y establecieron una pérdida de cinco lugares para la siguiente competencia . Alpine, además, dejó pasar una posibilidad importante de sumar en la lucha por el Campeonato de Constructores.",
-          "language": "es",
-          "publishedAt": "2026-10-02T15:11:24.000Z",
-          "addedAt": "2026-10-02T16:23:12.821Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -616,17 +616,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-furiosa-reaccion-de-colapinto-por-la-estrategia-de-alpine-en-el-gp-de-malasia-de-la-f",
-          "title": "La furiosa reacción de Colapinto por la estrategia de Alpine en el GP de Bahréin en Malasia",
-          "summary": "El piloto argentino dejó de lado su remontada del 21° al 13° puesto y no pudo ocultar su enojo por el plan de la escudería, que decidió que largara con gomas blandas sobre un Circuito de Sepang azotado por la lluvia.",
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-i",
+          "title": "Franco Colapinto recibió otra penalización en el GP de Malasia de la F1: \"Largaré...\"",
+          "summary": "El píloto argentino fue sancionado con diez posiciones porque Alpine cambió nuevamente el propulsor antes de la carrera del domingo. Esto se suma al castigo por el incidente en Bakú.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-furiosa-reaccion-de-colapinto-por-la-estrategia-de-alpine-en-el-gp-de-malasia-de-la-f1-id764314.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
-          "body": "El piloto argentino dejó de lado su remontada del 21° al 13° puesto y no pudo ocultar su enojo por el plan de la escudería, que decidió que largara con gomas blandas sobre un Circuito de Sepang azotado por la lluvia.\n\nCómo quedó Colapinto en el Campeonato de Pilotos tras el GP de Malasia 04/10/2026 11:24 am Franco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Masticando bronca terminó Franco Colapinto el Gran Premio de Malasia de la Fórmula 1 . No por el hecho de que estuvo cerca de sumar puntos, ya que terminó 13° luego de protagonizar una gran remontada desde el fondo de la parrilla , sino porque consideraba que estaba para más y la fallida estrategia de Alpine no se lo permitió.\n\nLa carrera, pactada para las 4 de la madrugada (hora argentina), debió postergarse durante una hora y 41 minutos a causa de las fuertes tormentas que azotaron la zona . Una vez que las lluvias mermaron, los coches salieron a la pista, pero el asfalto nunca se secó del todo y el piloto argentino sufrió desde la largada con las gomas blandas.\n\n“Nos quedamos sin grip, nos quedamos todos patinando en la largada, en el cajón, y el auto no salió para adelante. Una lástima, obviamente fue la decisión incorrecta. Después había que tomar muchos riesgos para ir rápido con la goma lisa y ya habíamos perdido la carrera . Había que esperar un safety car y estaba muy complicado con la goma lisa. No tomé tantos riesgos, pero íbamos muy, muy lento. No había chances ” , analizó.\n\nCon el enojo a flor de piel, Colapinto puntualizó en las dificultades que tuvo en el inicio del GP y siguió machacando sobre el plan que le jugó en contra: “Es lo que hay. Con la goma lisa, como habíamos visto antes, tuvimos un muy, muy buen ritmo. Pasé a varios autos que",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-id763960.html",
+          "image": "https://media.tycsports.com/files/2026/10/02/992226/franco-colapinto_1440x810.webp",
+          "body": "El píloto argentino fue sancionado con diez posiciones porque Alpine cambió nuevamente el propulsor antes de la carrera del domingo. Esto se suma al castigo por el incidente en Bakú.\n\nFranco Colapinto fue sancionado y largará aún más atrás en el GP de Bahreín (Kym Illman/Getty Images)) + Seguinos en El piloto argentino Franco Colapinto sufrió otra mala noticia este viernes porque fue sancionado con diez posiciones luego de que Alpine cambiara nuevamente el propulsor antes de la carrera del domingo, por lo que partirá desde diez posiciones más atrás en el GP de Malasia, castigo que se suma a los cinco puestos que ya había recibido por le incidente en Bakú.\n\nEl nuevo castigo llegó luego de que la escudería instalara el quinto motor de combustión interna Mercedes de la temporada en el auto del argentino. El reglamento establece un máximo de cuatro unidades sin sanción, por lo que superar ese límite implica un recargo automático. La decisión del equipo responde a una cuestión estratégica: como ya debía perder cinco puestos, Alpine optó por colocar ahora un motor nuevo y asumir también el castigo correspondiente . La intención es disponer de esa unidad adicional durante el tramo final del campeonato.\n\nEl primer recargo se originó en Bakú, cuando restaban 15 vueltas y el argentino bloqueó las ruedas al llegar a la primera curva tras un relanzamiento del Auto de Seguridad . El contacto terminó con los abandonos de Colapinto, Pierre Gasly y Lando Norris.\n\nLos comisarios determinaron que el argentino fue responsable del incidente y establecieron una pérdida de cinco lugares para la siguiente competencia . Alpine, además, dejó pasar una posibilidad importante de sumar en la lucha por el Campeonato de Constructores.",
           "language": "es",
-          "publishedAt": "2026-10-04T14:24:49.000Z",
-          "addedAt": "2026-10-04T12:11:31.035Z",
+          "publishedAt": "2026-10-02T15:11:24.000Z",
+          "addedAt": "2026-10-02T16:23:12.821Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -672,6 +672,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T20:37:34.000Z",
           "addedAt": "2026-10-02T21:06:55.272Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-la-furiosa-reaccion-de-colapinto-por-la-estrategia-de-alpine-en-el-gp-de-malasia-de-la-f",
+          "title": "La furiosa reacción de Colapinto por la estrategia de Alpine en el GP de Bahréin en Malasia",
+          "summary": "El piloto argentino dejó de lado su remontada del 21° al 13° puesto y no pudo ocultar su enojo por el plan de la escudería, que decidió que largara con gomas blandas sobre un Circuito de Sepang azotado por la lluvia.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-furiosa-reaccion-de-colapinto-por-la-estrategia-de-alpine-en-el-gp-de-malasia-de-la-f1-id764314.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
+          "body": "El piloto argentino dejó de lado su remontada del 21° al 13° puesto y no pudo ocultar su enojo por el plan de la escudería, que decidió que largara con gomas blandas sobre un Circuito de Sepang azotado por la lluvia.\n\nCómo quedó Colapinto en el Campeonato de Pilotos tras el GP de Malasia 04/10/2026 11:24 am Franco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Masticando bronca terminó Franco Colapinto el Gran Premio de Malasia de la Fórmula 1 . No por el hecho de que estuvo cerca de sumar puntos, ya que terminó 13° luego de protagonizar una gran remontada desde el fondo de la parrilla , sino porque consideraba que estaba para más y la fallida estrategia de Alpine no se lo permitió.\n\nLa carrera, pactada para las 4 de la madrugada (hora argentina), debió postergarse durante una hora y 41 minutos a causa de las fuertes tormentas que azotaron la zona . Una vez que las lluvias mermaron, los coches salieron a la pista, pero el asfalto nunca se secó del todo y el piloto argentino sufrió desde la largada con las gomas blandas.\n\n“Nos quedamos sin grip, nos quedamos todos patinando en la largada, en el cajón, y el auto no salió para adelante. Una lástima, obviamente fue la decisión incorrecta. Después había que tomar muchos riesgos para ir rápido con la goma lisa y ya habíamos perdido la carrera . Había que esperar un safety car y estaba muy complicado con la goma lisa. No tomé tantos riesgos, pero íbamos muy, muy lento. No había chances ” , analizó.\n\nCon el enojo a flor de piel, Colapinto puntualizó en las dificultades que tuvo en el inicio del GP y siguió machacando sobre el plan que le jugó en contra: “Es lo que hay. Con la goma lisa, como habíamos visto antes, tuvimos un muy, muy buen ritmo. Pasé a varios autos que",
+          "language": "es",
+          "publishedAt": "2026-10-04T14:24:49.000Z",
+          "addedAt": "2026-10-04T12:11:31.035Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -799,7 +814,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-05T14:11:44.454Z",
+      "createdAt": "2026-10-05T15:11:38.139Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
@@ -937,6 +952,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad",
+          "title": "En marzo se estrenaría el circuito de Buenos Aires con el Campeonato Argentino de Velocidad",
+          "summary": "En la previa del GP de Buenos Aires de MotoGP (fechado para el 11 de abril) habrá una cita del CAM, el 12, 13 y 14 de marzo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/Autodromo-Palco-Froilan-Gonzalez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-05T14:49:55.000Z",
+          "addedAt": "2026-10-05T15:11:31.193Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21",
           "title": "GP de Bahrein: Verstappen larga en \"pole\", Hamilton lo escolta y Colapinto empieza 21.° | Campeones",
           "summary": "A la hora 4:00 de la madrugada argentina se pondrá en marcha la 16.ª carrera de Fórmula 1 en el circuito de Sepang, sobre 56 vueltas.",
@@ -1055,27 +1085,12 @@
           "addedAt": "2026-10-02T17:57:42.670Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-colapinto-no-se-callo-y-revelo-su-sorpresa-con-el-exhorto-de-norris-comparado-a-verstappen",
-          "title": "Colapinto no se calló y reveló su sorpresa con el exhorto de Norris comparado a Verstappen",
-          "summary": "El argentino marcó la marcada diferencia entre la actitud de Max Verstappen y la que tomó Lando Norris, quien luego debió pedir disculpas.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-no-se-callo-y-revelo-su-sorpresa-con-el-exhorto-de-norris-comparado-a-verstappen/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Alpine-F1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-01T21:56:21.000Z",
-          "addedAt": "2026-10-02T17:57:42.219Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-05T14:11:44.454Z",
+      "createdAt": "2026-10-05T15:11:38.139Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1351,7 +1366,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-05T14:11:44.454Z",
+      "createdAt": "2026-10-05T15:11:38.139Z",
       "items": [
         {
           "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
@@ -1442,6 +1457,21 @@
           "addedAt": "2026-10-02T17:57:42.983Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-no-se-callo-y-revelo-su-sorpresa-con-el-exhorto-de-norris-comparado-a-verstappen",
+          "title": "Colapinto no se calló y reveló su sorpresa con el exhorto de Norris comparado a Verstappen",
+          "summary": "El argentino marcó la marcada diferencia entre la actitud de Max Verstappen y la que tomó Lando Norris, quien luego debió pedir disculpas.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-no-se-callo-y-revelo-su-sorpresa-con-el-exhorto-de-norris-comparado-a-verstappen/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Alpine-F1.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-01T21:56:21.000Z",
+          "addedAt": "2026-10-02T17:57:42.219Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina",
@@ -1549,21 +1579,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
-          "title": "Girolami y Hyundai siguen imbatibles en Posadas",
-          "summary": "El cordobés debió pelearla al principio, pero se impuso en la primera carrera del TCR South America. Leonel Pernía y Raphael Reis completaron el podio.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/girolami-y-hyundai-siguen-imbatibles-en-posadas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T14:30:48.000Z",
-          "addedAt": "2026-10-04T15:11:38.851Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
           "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
           "summary": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué…",
@@ -1609,6 +1624,27 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
+          "title": "Girolami y Hyundai siguen imbatibles en Posadas",
+          "summary": "El cordobés debió pelearla al principio, pero se impuso en la primera carrera del TCR South America. Leonel Pernía y Raphael Reis completaron el podio.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/girolami-y-hyundai-siguen-imbatibles-en-posadas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T14:30:48.000Z",
+          "addedAt": "2026-10-04T15:11:38.851Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-05T15:11:38.139Z",
+      "items": [
+        {
           "id": "campeones-com-ar-girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua",
           "title": "Girolami le dio el '1' a Hyundai en una clasificación pasada por agua",
           "summary": "El piloto de Isla Verde fue el más rápido en el primer corte de clasificación. La lluvia torrencial no permitió el normal desarrollo de la Q2, lo que se tradujo en \"pole\" del cordobés.",
@@ -1622,13 +1658,7 @@
           "addedAt": "2026-10-03T21:11:31.442Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-05T14:11:44.454Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-tc-en-san-nicolas-fain-logro-su-1a-pole-y-corto-una-sequia-de-3-anos-para-torino",
           "title": "TC en San Nicolás: Fain logró su 1ª “pole” y cortó una sequía de 3 años para Torino",
@@ -1735,36 +1765,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-tc-el-bmw-de-santero-se-quedo-con-el-ultimo-parcial-nicoleno",
-          "title": "TC: el BMW de Santero se quedó con el último parcial nicoleño",
-          "summary": "Tras una áspera largada con Facundo Chapur (Torino NG), el mendocino se escapó, ganó su 3ª serie de la temporada por una diferencia de 3s370 y largará la Final de la 2ª fecha de la Copa de Oro 2026 desde la “pole position”.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-el-bmw-de-santero-se-quedo-con-el-ultimo-parcial-nicoleno/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TC-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T15:00:40.000Z",
-          "addedAt": "2026-10-04T15:11:30.853Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-tc-en-san-nicolas-rossi-doblego-a-fritzler-y-triunfo-en-la-2a-bateria",
-          "title": "TC en San Nicolás: Rossi doblegó a Fritzler y triunfó en la 2ª batería",
-          "summary": "En una serie que fue más lenta que la que ganó Ignacio Fain (Torino NG), el “Misil” superó al piloto de Mercedes-Benz con una muy ajustada maniobra -toque incluido- en la 1ª vuelta y logró su 3º éxito parcial de la temporada 2026.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-en-san-nicolas-rossi-doblego-a-fritzler-y-triunfo-en-la-2a-bateria/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Rossi-TC-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T14:33:39.000Z",
-          "addedAt": "2026-10-04T15:11:30.803Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-marco-morelli-lidero-en-los-ensayos-japoneses-de-moto3",
           "title": "Marco Morelli lideró en los ensayos japoneses de Moto3",
           "summary": "Con la KTM de Aspar Team el piloto hispano argentino consiguió superar al local Yamanaka (MSI); Valentín Perrone quedó quinto con la unidad de Tech3.",
@@ -1806,6 +1806,36 @@
           "language": "es",
           "publishedAt": "2026-09-28T13:14:59.000Z",
           "addedAt": "2026-10-02T17:57:46.877Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-tc-el-bmw-de-santero-se-quedo-con-el-ultimo-parcial-nicoleno",
+          "title": "TC: el BMW de Santero se quedó con el último parcial nicoleño",
+          "summary": "Tras una áspera largada con Facundo Chapur (Torino NG), el mendocino se escapó, ganó su 3ª serie de la temporada por una diferencia de 3s370 y largará la Final de la 2ª fecha de la Copa de Oro 2026 desde la “pole position”.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-el-bmw-de-santero-se-quedo-con-el-ultimo-parcial-nicoleno/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TC-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T15:00:40.000Z",
+          "addedAt": "2026-10-04T15:11:30.853Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-tc-en-san-nicolas-rossi-doblego-a-fritzler-y-triunfo-en-la-2a-bateria",
+          "title": "TC en San Nicolás: Rossi doblegó a Fritzler y triunfó en la 2ª batería",
+          "summary": "En una serie que fue más lenta que la que ganó Ignacio Fain (Torino NG), el “Misil” superó al piloto de Mercedes-Benz con una muy ajustada maniobra -toque incluido- en la 1ª vuelta y logró su 3º éxito parcial de la temporada 2026.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-en-san-nicolas-rossi-doblego-a-fritzler-y-triunfo-en-la-2a-bateria/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Rossi-TC-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T14:33:39.000Z",
+          "addedAt": "2026-10-04T15:11:30.803Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1881,21 +1911,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T15:06:57.000Z",
           "addedAt": "2026-10-03T15:11:32.087Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-santero-apunto-por-las-licencias-y-dijo-que-nadie-lo-llamo",
-          "title": "Santero apuntó por las licencias y dijo que \"nadie lo llamó\" | Campeones",
-          "summary": "El mendocino dialogó con Campeones desde San Nicolás y volvió a disparar por la negativa de la CDA de otorgarle la Licencia Internacional para correr en Stock Car . Además, la falta de apoyo entre los pilotos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/santero-apunto-por-las-licencias-y-dijo-que-nadie-lo-llamo/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/Julian-Santero-BMW-IG-1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T13:32:02.000Z",
-          "addedAt": "2026-10-03T14:11:27.613Z",
           "category": "argentino",
           "tag": "Argentino"
         }
