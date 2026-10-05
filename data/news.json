@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T17:11:29.483Z",
-  "checkedAt": "2026-10-05T17:11:29.483Z",
+  "updatedAt": "2026-10-05T18:11:29.495Z",
+  "checkedAt": "2026-10-05T18:11:29.495Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
-      "title": "Geely presentó su SUV de TC2000",
-      "summary": "El flamante equipo tendrá como pilotos a Nicolás Traut y Franco Riva. Así la categoría suma una nueva automotriz.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/geely-presento-su-suv-de-tc2000/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-12.47.43.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-02T16:28:07.000Z",
-      "addedAt": "2026-10-05T15:11:36.826Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
     {
       "id": "campeones-com-ar-tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen",
       "title": "TN: el balance de Santero tras las pruebas en el Cabalén | Campeones",
@@ -126,6 +111,21 @@
       "language": "es",
       "publishedAt": "2026-09-22T15:59:59.000Z",
       "addedAt": "2026-10-04T15:11:36.725Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-pechito-lopez-corre-las-6-horas-de-fuji-con-el-wec",
+      "title": "\"Pechito\" López corre las 6 horas de Fuji con el WEC",
+      "summary": "La sexta carrera del Campeonato Mundial de Resistencia se desarrolla en el trazado japonés en donde los Hypercar de Alpine y Toyota dominaron en ambos entrenamientos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/pechito-lopez-corre-las-6-horas-de-fuji-con-el-wec/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260925-WEC-Alpine-Pechito.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-09-25T15:42:45.000Z",
+      "addedAt": "2026-10-05T18:11:37.605Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -568,7 +568,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-05T17:11:36.215Z",
+      "createdAt": "2026-10-05T18:11:37.814Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -844,7 +844,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-05T17:11:36.215Z",
+      "createdAt": "2026-10-05T18:11:37.814Z",
       "items": [
         {
           "id": "campeones-com-ar-la-determinacion-de-franco-colapinto-para-afrontar-el-gp-de-bahrein-de-f1",
@@ -982,21 +982,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad",
-          "title": "En marzo se estrenaría el circuito de Buenos Aires con el Campeonato Argentino de Velocidad",
-          "summary": "En la previa del GP de Buenos Aires de MotoGP (fechado para el 11 de abril) habrá una cita del CAM, el 12, 13 y 14 de marzo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/Autodromo-Palco-Froilan-Gonzalez.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-05T14:49:55.000Z",
-          "addedAt": "2026-10-05T15:11:31.193Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21",
           "title": "GP de Bahrein: Verstappen larga en \"pole\", Hamilton lo escolta y Colapinto empieza 21.° | Campeones",
           "summary": "A la hora 4:00 de la madrugada argentina se pondrá en marcha la 16.ª carrera de Fórmula 1 en el circuito de Sepang, sobre 56 vueltas.",
@@ -1040,6 +1025,21 @@
           "addedAt": "2026-10-02T17:57:42.346Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad",
+          "title": "En marzo se estrenaría el circuito de Buenos Aires con el Campeonato Argentino de Velocidad",
+          "summary": "En la previa del GP de Buenos Aires de MotoGP (fechado para el 11 de abril) habrá una cita del CAM, el 12, 13 y 14 de marzo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/Autodromo-Palco-Froilan-Gonzalez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-05T14:49:55.000Z",
+          "addedAt": "2026-10-05T15:11:31.193Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-gran-demostracion-de-lorenzato-en-el-mundial-de-flat-track-previo-a-las-carreras-de-argentina",
@@ -1120,7 +1120,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-05T17:11:36.215Z",
+      "createdAt": "2026-10-05T18:11:37.814Z",
       "items": [
         {
           "id": "campeones-com-ar-asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas",
@@ -1396,7 +1396,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-05T17:11:36.215Z",
+      "createdAt": "2026-10-05T18:11:37.814Z",
       "items": [
         {
           "id": "campeones-com-ar-nuevo-triunfo-de-marc-marquez-en-la-temporada-de-motogp-ahora-en-japon",
@@ -1534,21 +1534,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "www-tycsports-com-automovilismo-ignacio-fain-gano-en-san-nicolas-y-logro-su-primera-victoria-en-el-turismo-carretera-id7",
-          "title": "Ignacio Faín ganó en San Nicolás y logró su primera victoria en el Turismo Carretera",
-          "summary": "El piloto de Torino completó un fin de semana perfecto: pole, triunfo en su serie y victoria en la final. Facundo Chapur y Julián Santero completaron el podio.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/ignacio-fain-gano-en-san-nicolas-y-logro-su-primera-victoria-en-el-turismo-carretera-id764342.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992866/ignacio-fain-hizo-historia-en-san-nicolas_862x485.webp",
-          "body": "El piloto de Torino completó un fin de semana perfecto: pole, triunfo en su serie y victoria en la final. Facundo Chapur y Julián Santero completaron el podio.\n\nEl piloto de Villa Minetti completó un fin de semana perfecto con pole, serie y final. + Seguinos en Ignacio Faín se quedó con la final del Turismo Carretera en San Nicolás y consiguió su primera victoria en la categoría. El piloto de Villa Minetti completó un fin de semana ideal con el Torino del Trotta Racing, ya que también había logrado la pole position y el triunfo en su serie.\n\nLa carrera comenzó con Julián Santero al frente, pero el BMW del mendocino comenzó a evidenciar una falla en el tramo final. Faín aprovechó la pérdida de rendimiento para tomar el liderazgo y encaminarse hacia el triunfo, mientras Facundo Chapur también superó a Santero sobre el cierre y completó el 1-2 del Trotta Racing.\n\nFaín ganó con 3s815 de ventaja sobre Chapur , mientras que Santero finalizó tercero a 7s027. Otto Fritzler fue cuarto, Diego Azar quinto y Matías Rossi sexto. Por su parte, Agustín Canapino terminó 11°, luego de perder una posición con Juan Pablo Gianini en el tramo final.\n\nOtro de los momentos determinantes fue el abandono de Mariano Werner en la vuelta 11. El entrerriano había llegado a San Nicolás como líder de la Copa de Oro, pero su deserción modificó completamente el escenario del campeonato.",
-          "language": "es",
-          "publishedAt": "2026-10-04T18:11:00.000Z",
-          "addedAt": "2026-10-04T19:11:28.198Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-scaloni-se-junto-con-un-piloto-argentino-y-recibio-un-regalo-especial-se-sube-a-un-tc-id",
           "title": "Scaloni se juntó con un piloto argentino y recibió un regalo especial: ¿Se sube a un TC?",
           "summary": "En el día posterior a la goleada ante Bolivia, el entrenador de la Selección Argentina se reunió con varias personalidades del automovilismo y, además, se llevó un traje personalizado con su camiseta número 18.",
@@ -1575,36 +1560,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T20:42:36.000Z",
           "addedAt": "2026-10-03T21:11:31.488Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-rally-de-entre-rios-federico-villagra-se-recupero-y-gano-en-diamante",
-          "title": "Rally de Entre Ríos: Federico Villagra se recuperó y ganó en Diamante",
-          "summary": "El cordobés logró su cuarta victoria del año de Rally Argentino a bordo del Skoda tras una férrea disputa con Miguel Baldoni, con quien se repartió la mayoría de los tramos cronometrados.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/rally-de-entre-rios-federico-villagra-se-recupero-y-gano-en-diamante/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-RallyArg-Villagra.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T17:43:16.000Z",
-          "addedAt": "2026-10-04T18:11:31.423Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas",
-          "title": "Hyundai y Girolami completaron un fin de semana ideal en Posadas",
-          "summary": "El \"Bebu\" se llevó también la segunda carrera en el \"Rosamonte\", alcanzando su cuarto éxito de la temporada 2026. Lo siguieron Fabián Yannantuoni y Joaquín Cafaro.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-SOUTH-AMERICA-POSADAS-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T17:11:39.000Z",
-          "addedAt": "2026-10-04T18:11:31.196Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1654,6 +1609,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-ignacio-fain-gano-en-san-nicolas-y-logro-su-primera-victoria-en-el-turismo-carretera-id7",
+          "title": "Ignacio Faín ganó en San Nicolás y logró su primera victoria en el Turismo Carretera",
+          "summary": "El piloto de Torino completó un fin de semana perfecto: pole, triunfo en su serie y victoria en la final. Facundo Chapur y Julián Santero completaron el podio.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/ignacio-fain-gano-en-san-nicolas-y-logro-su-primera-victoria-en-el-turismo-carretera-id764342.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992866/ignacio-fain-hizo-historia-en-san-nicolas_862x485.webp",
+          "body": "El piloto de Torino completó un fin de semana perfecto: pole, triunfo en su serie y victoria en la final. Facundo Chapur y Julián Santero completaron el podio.\n\nEl piloto de Villa Minetti completó un fin de semana perfecto con pole, serie y final. + Seguinos en Ignacio Faín se quedó con la final del Turismo Carretera en San Nicolás y consiguió su primera victoria en la categoría. El piloto de Villa Minetti completó un fin de semana ideal con el Torino del Trotta Racing, ya que también había logrado la pole position y el triunfo en su serie.\n\nLa carrera comenzó con Julián Santero al frente, pero el BMW del mendocino comenzó a evidenciar una falla en el tramo final. Faín aprovechó la pérdida de rendimiento para tomar el liderazgo y encaminarse hacia el triunfo, mientras Facundo Chapur también superó a Santero sobre el cierre y completó el 1-2 del Trotta Racing.\n\nFaín ganó con 3s815 de ventaja sobre Chapur , mientras que Santero finalizó tercero a 7s027. Otto Fritzler fue cuarto, Diego Azar quinto y Matías Rossi sexto. Por su parte, Agustín Canapino terminó 11°, luego de perder una posición con Juan Pablo Gianini en el tramo final.\n\nOtro de los momentos determinantes fue el abandono de Mariano Werner en la vuelta 11. El entrerriano había llegado a San Nicolás como líder de la Copa de Oro, pero su deserción modificó completamente el escenario del campeonato.",
+          "language": "es",
+          "publishedAt": "2026-10-04T18:11:00.000Z",
+          "addedAt": "2026-10-04T19:11:28.198Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-ignacio-fain-logro-su-primera-pole-en-el-turismo-carretera-en-san-nicolas-id764227-html",
           "title": "Ignacio Faín logró su primera pole en el Turismo Carretera en San Nicolás",
           "summary": "El piloto de Villa Minetti fue el más rápido de la clasificación con el Torino del Trotta Racing. Otto Fritzler y Julián Santero completaron los tres primeros.",
@@ -1667,12 +1637,42 @@
           "addedAt": "2026-10-03T21:11:31.686Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-rally-de-entre-rios-federico-villagra-se-recupero-y-gano-en-diamante",
+          "title": "Rally de Entre Ríos: Federico Villagra se recuperó y ganó en Diamante",
+          "summary": "El cordobés logró su cuarta victoria del año de Rally Argentino a bordo del Skoda tras una férrea disputa con Miguel Baldoni, con quien se repartió la mayoría de los tramos cronometrados.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/rally-de-entre-rios-federico-villagra-se-recupero-y-gano-en-diamante/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-RallyArg-Villagra.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T17:43:16.000Z",
+          "addedAt": "2026-10-04T18:11:31.423Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas",
+          "title": "Hyundai y Girolami completaron un fin de semana ideal en Posadas",
+          "summary": "El \"Bebu\" se llevó también la segunda carrera en el \"Rosamonte\", alcanzando su cuarto éxito de la temporada 2026. Lo siguieron Fabián Yannantuoni y Joaquín Cafaro.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-SOUTH-AMERICA-POSADAS-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T17:11:39.000Z",
+          "addedAt": "2026-10-04T18:11:31.196Z",
+          "category": "argentino",
+          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 5,
-      "createdAt": "2026-10-05T17:11:36.215Z",
+      "createdAt": "2026-10-05T18:11:37.814Z",
       "items": [
         {
           "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
@@ -1780,21 +1780,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-domingo-de-gloria-para-torino-en-tc-fain-logro-su-1a-victoria-y-chapur-lidera-la-copa-de-oro",
-          "title": "Domingo de gloria para Torino en TC: Fain logró su 1ª victoria y Chapur lidera la Copa de Oro",
-          "summary": "Los pilotos del Trotta Racing Team aprovecharon la falla de Julián Santero (BMW M4) para coronar el “1-2” de la marca en San Nicolás. El santafesino de 21 años festejó por 1ª vez en el Turismo Carretera y el cordobés de 32 llegó a la cima de la tabla de posiciones del “play-off”. El mendocino completó el podio y se mantiene expectante en la lucha por el título.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/domingo-de-gloria-para-torino-en-tc-fain-logro-su-1a-victoria-y-chapur-lidera-la-copa-de-oro/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-TC-2026-2.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T17:45:25.000Z",
-          "addedAt": "2026-10-04T18:11:30.614Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-marco-morelli-lidero-en-los-ensayos-japoneses-de-moto3",
           "title": "Marco Morelli lideró en los ensayos japoneses de Moto3",
           "summary": "Con la KTM de Aspar Team el piloto hispano argentino consiguió superar al local Yamanaka (MSI); Valentín Perrone quedó quinto con la unidad de Tech3.",
@@ -1836,6 +1821,21 @@
           "language": "es",
           "publishedAt": "2026-09-28T13:14:59.000Z",
           "addedAt": "2026-10-02T17:57:46.877Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-domingo-de-gloria-para-torino-en-tc-fain-logro-su-1a-victoria-y-chapur-lidera-la-copa-de-oro",
+          "title": "Domingo de gloria para Torino en TC: Fain logró su 1ª victoria y Chapur lidera la Copa de Oro",
+          "summary": "Los pilotos del Trotta Racing Team aprovecharon la falla de Julián Santero (BMW M4) para coronar el “1-2” de la marca en San Nicolás. El santafesino de 21 años festejó por 1ª vez en el Turismo Carretera y el cordobés de 32 llegó a la cima de la tabla de posiciones del “play-off”. El mendocino completó el podio y se mantiene expectante en la lucha por el título.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/domingo-de-gloria-para-torino-en-tc-fain-logro-su-1a-victoria-y-chapur-lidera-la-copa-de-oro/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-TC-2026-2.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T17:45:25.000Z",
+          "addedAt": "2026-10-04T18:11:30.614Z",
           "category": "argentino",
           "tag": "Argentino"
         },
