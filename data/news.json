@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-06T05:11:29.481Z",
-  "checkedAt": "2026-10-06T05:11:29.481Z",
+  "updatedAt": "2026-10-06T06:11:29.646Z",
+  "checkedAt": "2026-10-06T06:11:29.646Z",
   "pageSize": 18,
   "sources": [
     {
@@ -583,7 +583,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-06T05:11:33.394Z",
+      "createdAt": "2026-10-06T06:11:33.565Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -859,7 +859,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-06T05:11:33.394Z",
+      "createdAt": "2026-10-06T06:11:33.565Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten",
@@ -937,21 +937,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang",
-          "title": "F1: Top10 de Colapinto, tras otra práctica de preparación en Sepang",
-          "summary": "Durante la última sesión de entrenamientos del GP de Bahrein, el argentino centró su foco en el rendimiento y consumo de neumáticos para la carrera.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-Alpine-Blandos.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T05:32:37.000Z",
-          "addedAt": "2026-10-03T06:54:55.719Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
           "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
           "summary": "Cobertura especial del GP de Bahrein de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
@@ -1008,6 +993,21 @@
           "language": "es",
           "publishedAt": "2026-10-03T23:00:39.000Z",
           "addedAt": "2026-10-03T23:11:31.151Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang",
+          "title": "F1: Top10 de Colapinto, tras otra práctica de preparación en Sepang",
+          "summary": "Durante la última sesión de entrenamientos del GP de Bahrein, el argentino centró su foco en el rendimiento y consumo de neumáticos para la carrera.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-Alpine-Blandos.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T05:32:37.000Z",
+          "addedAt": "2026-10-03T06:54:55.719Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1135,7 +1135,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-06T05:11:33.394Z",
+      "createdAt": "2026-10-06T06:11:33.565Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-bottas-formula-1-bicicleta-gp-singapur-id764495-html",
@@ -1411,7 +1411,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-06T05:11:33.394Z",
+      "createdAt": "2026-10-06T06:11:33.565Z",
       "items": [
         {
           "id": "campeones-com-ar-thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona",
@@ -1687,7 +1687,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-06T05:11:33.394Z",
+      "createdAt": "2026-10-06T06:11:33.565Z",
       "items": [
         {
           "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
