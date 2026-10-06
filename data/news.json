@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-06T18:11:29.650Z",
-  "checkedAt": "2026-10-06T18:11:29.650Z",
+  "updatedAt": "2026-10-06T19:06:39.805Z",
+  "checkedAt": "2026-10-06T19:06:39.805Z",
   "pageSize": 18,
   "sources": [
     {
@@ -613,7 +613,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-06T18:11:36.852Z",
+      "createdAt": "2026-10-06T19:06:49.770Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -889,7 +889,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-06T18:11:36.852Z",
+      "createdAt": "2026-10-06T19:06:49.770Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
@@ -1165,7 +1165,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-06T18:11:36.852Z",
+      "createdAt": "2026-10-06T19:06:49.770Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1441,7 +1441,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-06T18:11:36.852Z",
+      "createdAt": "2026-10-06T19:06:49.770Z",
       "items": [
         {
           "id": "campeones-com-ar-thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona",
@@ -1534,21 +1534,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
-          "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
-          "summary": "El pampeano se impuso en la Carrera Clasificatoria y tras quedarse con la “pole”, suma puntos claves en la cima del torneo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9726.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T18:27:57.000Z",
-          "addedAt": "2026-10-03T19:11:31.321Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-colapinto-tambien-recibe-mensajes-de-odio-en-las-redes-nadie-habla-nunca-de-eso",
           "title": "Colapinto advirtió que él también recibe mensajes de odio en las redes: \"Nadie habla nunca de eso\"",
           "summary": "Franco Colapinto señaló que el odio no llega solamente desde Argentina y que él mismo es víctima de muchos mensajes que nadie visibiliza.",
@@ -1577,6 +1562,21 @@
           "addedAt": "2026-10-02T17:57:42.219Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
+          "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
+          "summary": "El pampeano se impuso en la Carrera Clasificatoria y tras quedarse con la “pole”, suma puntos claves en la cima del torneo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9726.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T18:27:57.000Z",
+          "addedAt": "2026-10-03T19:11:31.321Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-scaloni-se-junto-con-un-piloto-argentino-y-recibio-un-regalo-especial-se-sube-a-un-tc-id",
@@ -1717,7 +1717,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-06T18:11:36.852Z",
+      "createdAt": "2026-10-06T19:06:49.770Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-ignacio-fain-logro-su-primera-pole-en-el-turismo-carretera-en-san-nicolas-id764227-html",
@@ -1915,21 +1915,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina",
-          "title": "Daniel Herrero aclaró el programa deportivo de Mercedes-Benz en Argentina",
-          "summary": "El CEO de Prestige Auto se refirió sobre el rumor de una posible expansión de la marca alemana hacia Turismo Competición 2000.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/daniel-herrero-aclaro-el-programa-deportivo-de-mercedes-benz-en-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/06/DANIEL-HERRERO-MERCEDES-BENZ.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-09-29T18:31:58.000Z",
-          "addedAt": "2026-10-02T17:57:45.353Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-pick-up-con-la-exclusion-de-werner-el-campeonato-tiene-nuevo-lider",
           "title": "Pick Up: con la exclusión de Werner, el campeonato tiene nuevo líder | Campeones",
           "summary": "Otto Fritzler es quien comanda el campeoanto tras la penalización al de Paraná por el exceso de compresión en el motor de la Foton.",
@@ -1986,6 +1971,21 @@
           "language": "es",
           "publishedAt": "2026-10-04T15:00:40.000Z",
           "addedAt": "2026-10-04T15:11:30.853Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
+          "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
+          "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-HYUNDAI-POSADAS.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T18:45:37.000Z",
+          "addedAt": "2026-10-06T19:06:47.145Z",
           "category": "argentino",
           "tag": "Argentino"
         }
