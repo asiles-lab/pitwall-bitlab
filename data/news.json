@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-06T16:11:29.768Z",
-  "checkedAt": "2026-10-06T16:11:29.768Z",
+  "updatedAt": "2026-10-06T17:11:29.689Z",
+  "checkedAt": "2026-10-06T17:11:29.689Z",
   "pageSize": 18,
   "sources": [
     {
@@ -535,21 +535,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-mario-valle-no-dejo-pasar-la-oportunidad-y-gano-en-turismo-carretera-2000",
-      "title": "Mario Valle no dejó pasar la oportunidad y ganó en Turismo Carretera 2000",
-      "summary": "El chubutense aprovechó el toque entre Bohdanowicz y Jakos en la largada para saltar a la punta y dominar con solidez la segunda Final de la 8ª fecha. El piloto del Coiro Competición sumó su 2ª victoria en la categoría, ambas en Termas de Río Hondo. Llaver completó el “1-2” de los Honda verdes.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/mario-valle-no-dejo-pasar-la-oportunidad-y-gano-en-turismo-carretera-2000/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Mario-Valle-TurCar2000-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-09-06T16:46:08.000Z",
-      "addedAt": "2026-10-02T17:57:45.123Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-bohdanowicz-festejo-su-anhelada-1a-victoria-en-turismo-carretera-2000",
       "title": "Bohdanowicz festejó su anhelada 1ª victoria en Turismo Carretera 2000",
       "summary": "El chaqueño del ACRA Ambrogio Racing se impuso de punta a punta en la carrera sabatina de la 9ª fecha, que se disputa en Termas de Río Hondo. Andrés Jakos (Toyota Corolla) yMario Valle (Honda Civic) completaron el podio multimarca.",
@@ -563,6 +548,21 @@
       "addedAt": "2026-10-02T17:57:47.118Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-mario-valle-no-dejo-pasar-la-oportunidad-y-gano-en-turismo-carretera-2000",
+      "title": "Mario Valle no dejó pasar la oportunidad y ganó en Turismo Carretera 2000",
+      "summary": "El chubutense aprovechó el toque entre Bohdanowicz y Jakos en la largada para saltar a la punta y dominar con solidez la segunda Final de la 8ª fecha. El piloto del Coiro Competición sumó su 2ª victoria en la categoría, ambas en Termas de Río Hondo. Llaver completó el “1-2” de los Honda verdes.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/mario-valle-no-dejo-pasar-la-oportunidad-y-gano-en-turismo-carretera-2000/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Mario-Valle-TurCar2000-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-09-06T16:46:08.000Z",
+      "addedAt": "2026-10-02T17:57:45.123Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-bohdanowicz-con-la-pole-en-el-turismo-carretera-2000",
@@ -613,7 +613,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-06T16:11:38.328Z",
+      "createdAt": "2026-10-06T17:11:37.080Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -889,7 +889,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-06T16:11:38.328Z",
+      "createdAt": "2026-10-06T17:11:37.080Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten",
@@ -952,21 +952,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-que-motivo-la-falla-en-el-bmw-de-santero-durante-la-final-de-tc-nicolena",
-          "title": "¿Qué motivó la falla en el BMW de Santero en la final de TC nicoleña?",
-          "summary": "El piloto mendocino lideraba la carrera de la 2.ª fecha de la \"Copa de Oro RUS\" hasta que apareció un inconveniente en el motor.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/que-motivo-la-falla-en-el-bmw-de-santero-durante-la-final-de-tc-nicolena/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-TC-Santero.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-06T13:58:46.000Z",
-          "addedAt": "2026-10-06T14:11:31.232Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549-html",
           "title": "Corrió con Schumacher en la F1 y ahora vende repuestos para colectivos",
           "summary": "Esteban Tuero debutó en la máxima categoría a los 19 años, disputó una sola temporada y decidió volver a la Argentina. Después de retirarse, se dedicó al negocio familiar de autopartes para el transporte.",
@@ -997,21 +982,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
-          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
-          "summary": "Cobertura especial del GP de Bahrein de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T17:00:17.000Z",
-          "addedAt": "2026-10-02T17:57:42.536Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792-h",
           "title": "Además de Colapinto, sancionaron a otro piloto de cara al GP de Malasia",
           "summary": "Arvid Lindblad tendrá que arrancar desde el fondo de la parrilla este fin de semana por cambios en la unidad de potencia de su monoplaza.",
@@ -1023,21 +993,6 @@
           "language": "es",
           "publishedAt": "2026-10-01T15:10:47.000Z",
           "addedAt": "2026-10-02T16:23:12.854Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-asi-quedo-colapinto-en-el-campeonato-de-destructores-en-la-formula-1-tras-su-accidente-e",
-          "title": "Así quedó Colapinto en el \"campeonato de destructores\" en la Fórmula 1 tras su accidente en Azerbaiyán",
-          "summary": "El piloto argentino protagonizó en Bakú un choque triple con Pierre Gasly y Lando Norris. Los tres debieron abandonar y Alpine deberá desembolsar millones en arreglos.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/asi-quedo-colapinto-en-el-campeonato-de-destructores-en-la-formula-1-tras-su-accidente-en-azerbaiyan-id763500.html",
-          "image": "https://media.tycsports.com/files/2026/09/26/990846/colapinto_1440x810.webp?v=1",
-          "body": "El piloto argentino protagonizó en Bakú un choque triple con Pierre Gasly y Lando Norris. Los tres debieron abandonar y Alpine deberá desembolsar millones en arreglos.\n\nColapinto se equivocó y los dos Alpine terminaron afuera en Bakú. (@AlpineF1Team) + Seguinos en El accidente de Franco Colapinto en el último GP de Azerbaiyán le salió muy caro. No solo puertas afuera, en el ambiente de la Fórmula 1, donde recibió numerosas críticas por una maniobra arriesgada que terminó con tres abandonos (el suyo, el de su compañero Pierre Gasly y el de Lando Norris), sino también puertas adentro, en el taller de Alpine , que tendrá que desembolsar varios millones para reparar sus monoplazas.\n\nCon este triple toque en Bakú, el argentino escaló en el \"campeonato de destructores\" de la F1 , una suerte de competencia paralela que mide cuánto dinero le hizo gastar cada piloto a su escudería en reparaciones. Hoy ocupa el noveno puesto, con 982.000 euros, en una lista que lidera Oliver Bearman (Haas, 2.033.000) y cuyo podio cierra su compañero francés, con 1.841.000 . Tras el choque del sábado, Alpine pasó a ser la segunda escudería que más dinero destinó a repuestos y mano de obra: a lo largo de estas 15 fechas acumula alrededor de 2.823.000 euros , una cifra que difícilmente le guste a Flavio Briatore.\n\nAun así, el equipo francés todavía está lejos de Red Bull, que lidera con 3.200.000 , mientras que Haas completa el podio con 2.700.000. En el otro extremo aparece Audi, la que menos gastó por este concepto: entre Gabriel Bortoleto y Nico Hülkenberg suma apenas 525.000.",
-          "language": "es",
-          "publishedAt": "2026-09-29T16:59:01.000Z",
-          "addedAt": "2026-10-02T16:23:12.957Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1085,6 +1040,36 @@
           "addedAt": "2026-10-03T06:54:55.719Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
+          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
+          "summary": "Cobertura especial del GP de Bahrein de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T17:00:17.000Z",
+          "addedAt": "2026-10-02T17:57:42.536Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-que-motivo-la-falla-en-el-bmw-de-santero-durante-la-final-de-tc-nicolena",
+          "title": "¿Qué motivó la falla en el BMW de Santero en la final de TC nicoleña?",
+          "summary": "El piloto mendocino lideraba la carrera de la 2.ª fecha de la \"Copa de Oro RUS\" hasta que apareció un inconveniente en el motor.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/que-motivo-la-falla-en-el-bmw-de-santero-durante-la-final-de-tc-nicolena/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-TC-Santero.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-06T13:58:46.000Z",
+          "addedAt": "2026-10-06T14:11:31.232Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-franco-colapinto-en-sepang-estamos-enfocados-en-la-carrera",
@@ -1160,12 +1145,27 @@
           "addedAt": "2026-10-02T16:23:12.895Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang",
+          "title": "La decisión de Alpine que condicionó a Colapinto en Sepang",
+          "summary": "Al concluir el GP de Bahrein, el piloto argentino se refirió a las dificultades que afrontó con el auto cuando en el comienzo calzó los neumáticos lisos estando el piso húmedo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-F1-Bahrein-Colapinto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T12:15:40.000Z",
+          "addedAt": "2026-10-04T13:11:30.995Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-06T16:11:38.328Z",
+      "createdAt": "2026-10-06T17:11:37.080Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1241,6 +1241,21 @@
           "addedAt": "2026-10-02T17:57:42.858Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-se-cumple-una-decada-del-ultimo-triunfo-de-ortelli-en-tc",
+          "title": "Se cumple una década del último triunfo de Ortelli en TC",
+          "summary": "El 2 de octubre de 2016, en el autódromo de Concepción del Uruguay el heptacampeón venció con un Chevrolet de JP y la preparación de Fabián Giustozzi.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/se-cumple-una-decada-del-ultimo-triunfo-de-ortelli-en-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-TC-Ortelli-CDU-2016.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-06T16:32:06.000Z",
+          "addedAt": "2026-10-06T17:11:31.761Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-desopilante-jugada-de-briatore-engano-a-todos-los-periodistas-de-la-f1-con-una-hoja-en-b",
@@ -1421,7 +1436,13 @@
           "addedAt": "2026-10-02T17:57:45.788Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-06T17:11:37.080Z",
+      "items": [
         {
           "id": "campeones-com-ar-thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona",
           "title": "Thomas Pozner ganó la Final de TC Pista en San Nicolás y se ilusiona",
@@ -1436,13 +1457,7 @@
           "addedAt": "2026-10-04T17:11:31.464Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-06T16:11:38.328Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-provens-tiene-la-pole-para-la-final-del-tc-pista",
           "title": "Provens tiene la “pole” para la Final del TC Pista",
@@ -1519,36 +1534,6 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-fernando-alonso-definio-su-futuro-en-la-f1-formula-1-id763464-html",
-          "title": "Fernando Alonso definió su futuro en la Fórmula 1",
-          "summary": "El dos veces campeón del mundo y el piloto canadiense seguirán compartiendo el equipo por quinto año consecutivo.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/fernando-alonso-definio-su-futuro-en-la-f1-formula-1-id763464.html",
-          "image": "https://media.tycsports.com/files/2026/09/29/991475/fernando-alonso-y-lance-stroll-seguiran-compitiendo-en-aston-martin-en-2027_1440x810.webp",
-          "body": "El dos veces campeón del mundo y el piloto canadiense seguirán compartiendo el equipo por quinto año consecutivo.\n\nFernando Alonso y Lance Stroll seguirán compitiendo en Aston Martin en 2027 + Seguinos en Fernando Alonso continuará en Aston Martin en la temporada 2027. El piloto español, dos veces campeón del mundo, se tomó un tiempo para definir su futuro y finalmente extendió su contrato con la escudería británica, por lo que seguirá compitiendo en la Fórmula 1. Además, el equipo también confirmó la continuidad de Lance Stroll y será el quinto año consecutivo que formarán dupla.\n\nLa continuidad de Alonso había quedado en duda durante las últimas semanas debido a la incertidumbre sobre su futuro. El español evaluó durante un período prolongado si continuar en la categoría, pero finalmente resolvió seguir ligado a Aston Martin, donde corre desde 2023.\n\n“Me tomé mi tiempo para tomar esta decisión, pero las carreras son mi vida, mi pasión, y sé que todavía tengo la velocidad y la determinación para competir al más alto nivel”, explicó Alonso luego de confirmarse la renovación. Desde su llegada a Aston Martin, el bicampeón mundial disputó 85 Grandes Premios, consiguió ocho podios y obtuvo dos segundos puestos. Ahora, afrontará una nueva temporada con el objetivo de continuar dentro de la máxima categoría.\n\nPor su parte, Stroll expresó: “He estado en este camino desde el principio y creo que tenemos los recursos y las personas para convertirnos en un equipo ganador. En Silverstone se está trabajando arduamente y se están logrando avances reales, y la determinación que veo en cada departamento es una gran motivación para mí. Sé que vamos por el buen camino y mi compromiso es más fuerte que nunca para ayudarnos a alcanzar nuestros objetivos”.",
-          "language": "es",
-          "publishedAt": "2026-09-29T15:23:29.000Z",
-          "addedAt": "2026-10-02T16:23:13.048Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang",
-          "title": "La decisión de Alpine que condicionó a Colapinto en Sepang",
-          "summary": "Al concluir el GP de Bahrein, el piloto argentino se refirió a las dificultades que afrontó con el auto cuando en el comienzo calzó los neumáticos lisos estando el piso húmedo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-F1-Bahrein-Colapinto.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T12:15:40.000Z",
-          "addedAt": "2026-10-04T13:11:30.995Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
           "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
           "summary": "El pampeano se impuso en la Carrera Clasificatoria y tras quedarse con la “pole”, suma puntos claves en la cima del torneo.",
@@ -1607,6 +1592,21 @@
           "addedAt": "2026-10-02T17:54:07.677Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-asi-quedo-colapinto-en-el-campeonato-de-destructores-en-la-formula-1-tras-su-accidente-e",
+          "title": "Así quedó Colapinto en el \"campeonato de destructores\" en la Fórmula 1 tras su accidente en Azerbaiyán",
+          "summary": "El piloto argentino protagonizó en Bakú un choque triple con Pierre Gasly y Lando Norris. Los tres debieron abandonar y Alpine deberá desembolsar millones en arreglos.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/asi-quedo-colapinto-en-el-campeonato-de-destructores-en-la-formula-1-tras-su-accidente-en-azerbaiyan-id763500.html",
+          "image": "https://media.tycsports.com/files/2026/09/26/990846/colapinto_1440x810.webp?v=1",
+          "body": "El piloto argentino protagonizó en Bakú un choque triple con Pierre Gasly y Lando Norris. Los tres debieron abandonar y Alpine deberá desembolsar millones en arreglos.\n\nColapinto se equivocó y los dos Alpine terminaron afuera en Bakú. (@AlpineF1Team) + Seguinos en El accidente de Franco Colapinto en el último GP de Azerbaiyán le salió muy caro. No solo puertas afuera, en el ambiente de la Fórmula 1, donde recibió numerosas críticas por una maniobra arriesgada que terminó con tres abandonos (el suyo, el de su compañero Pierre Gasly y el de Lando Norris), sino también puertas adentro, en el taller de Alpine , que tendrá que desembolsar varios millones para reparar sus monoplazas.\n\nCon este triple toque en Bakú, el argentino escaló en el \"campeonato de destructores\" de la F1 , una suerte de competencia paralela que mide cuánto dinero le hizo gastar cada piloto a su escudería en reparaciones. Hoy ocupa el noveno puesto, con 982.000 euros, en una lista que lidera Oliver Bearman (Haas, 2.033.000) y cuyo podio cierra su compañero francés, con 1.841.000 . Tras el choque del sábado, Alpine pasó a ser la segunda escudería que más dinero destinó a repuestos y mano de obra: a lo largo de estas 15 fechas acumula alrededor de 2.823.000 euros , una cifra que difícilmente le guste a Flavio Briatore.\n\nAun así, el equipo francés todavía está lejos de Red Bull, que lidera con 3.200.000 , mientras que Haas completa el podio con 2.700.000. En el otro extremo aparece Audi, la que menos gastó por este concepto: entre Gabriel Bortoleto y Nico Hülkenberg suma apenas 525.000.",
+          "language": "es",
+          "publishedAt": "2026-09-29T16:59:01.000Z",
+          "addedAt": "2026-10-02T16:23:12.957Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad",
@@ -1717,7 +1717,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-06T16:11:38.328Z",
+      "createdAt": "2026-10-06T17:11:37.080Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-ignacio-fain-logro-su-primera-pole-en-el-turismo-carretera-en-san-nicolas-id764227-html",
