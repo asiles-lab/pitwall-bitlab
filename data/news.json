@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-06T15:11:30.782Z",
-  "checkedAt": "2026-10-06T15:11:30.782Z",
+  "updatedAt": "2026-10-06T16:11:29.768Z",
+  "checkedAt": "2026-10-06T16:11:29.768Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
-      "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
-      "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-HYUNDAI-POSADAS.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-03T18:45:37.000Z",
-      "addedAt": "2026-10-06T15:11:36.653Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
       "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
@@ -628,7 +613,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-06T15:11:39.922Z",
+      "createdAt": "2026-10-06T16:11:38.328Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -811,21 +796,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549-html",
-          "title": "Corrió con Schumacher en la F1 y ahora vende repuestos para colectivos",
-          "summary": "Esteban Tuero debutó en la máxima categoría a los 19 años, disputó una sola temporada y decidió volver a la Argentina. Después de retirarse, se dedicó al negocio familiar de autopartes para el transporte.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549.html",
-          "image": "https://media.tycsports.com/files/2026/10/06/993327/tuero-y-reutemann_1440x810.webp",
-          "body": "Esteban Tuero debutó en la máxima categoría a los 19 años, disputó una sola temporada y decidió volver a la Argentina. Después de retirarse, se dedicó al negocio familiar de autopartes para el transporte.\n\nTuero junto a Reutemann en la previa del GP de Buenos Aires. + Seguinos en A los 19 años, Esteban Tuero llegó a la Fórmula 1 y compartió la pista con Michael Schumacher . Era 1998 y el argentino se incorporaba a Minardi, donde disputó los 16 Grandes Premios de aquella temporada. Su recorrido en la máxima categoría duró apenas un año: aunque tenía la posibilidad de continuar, decidió regresar al país. Mucho después, cuando dejó definitivamente las carreras, su actividad pasó a concentrarse en otro sector de la industria automotriz : los repuestos para colectivos y camiones.\n\nEl vínculo viene de familia. Su padre, Eduardo “ Pirulo ” Tuero, también había sido piloto y estaba al frente del negocio al que Esteban le dedicó más tiempo después de retirarse. La empresa Porenz fabrica componentes para suspensiones neumáticas , utilizados en vehículos de transporte de pasajeros y de carga. Así, el trabajo con las autopartes se convirtió en su ocupación fuera de los circuitos.\n\nPara llegar a la F1, Tuero había construido una carrera que lo llevó muy joven al exterior. Fue campeón de la Fórmula Honda en 1994 y de la Fórmula 2000 italiana en 1995, antes de pasar por otras categorías y realizar pruebas con Minardi. La escudería de Faenza lo eligió para acompañar al japonés Shinji Nakano en 1998: debutó en Australia con 19 años y se convirtió, en aquel momento, en el tercer piloto más joven en estrenarse en la categoría .\n\nSu temporada estuvo condicionada por las limitaciones del Minardi y los abandonos. El mejor resultado llegó en el Gran Premio de San Marino, donde terminó octavo,",
-          "language": "es",
-          "publishedAt": "2026-10-06T12:33:46.000Z",
-          "addedAt": "2026-10-06T13:11:32.116Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y largará último en el Gran Premio de Bahrein",
           "summary": "Debe cumplir con una penalización de 15 puestos con el Alpine, a bordo del cual el argentino consiguió otra vez tener un andar estable en la pista de Sepang.",
@@ -899,13 +869,7 @@
           "addedAt": "2026-10-04T11:11:31.436Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-06T15:11:39.922Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-",
           "title": "La cruda autocrítica de Briatore tras el enojo de Colapinto con Alpine",
@@ -920,7 +884,13 @@
           "addedAt": "2026-10-04T22:11:31.068Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-06T16:11:38.328Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten",
           "title": "Verstappen agradeció los elogios de Colapinto: \"Los que compiten en F1...\"",
@@ -993,6 +963,21 @@
           "language": "es",
           "publishedAt": "2026-10-06T13:58:46.000Z",
           "addedAt": "2026-10-06T14:11:31.232Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549-html",
+          "title": "Corrió con Schumacher en la F1 y ahora vende repuestos para colectivos",
+          "summary": "Esteban Tuero debutó en la máxima categoría a los 19 años, disputó una sola temporada y decidió volver a la Argentina. Después de retirarse, se dedicó al negocio familiar de autopartes para el transporte.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549.html",
+          "image": "https://media.tycsports.com/files/2026/10/06/993327/tuero-y-reutemann_1440x810.webp",
+          "body": "Esteban Tuero debutó en la máxima categoría a los 19 años, disputó una sola temporada y decidió volver a la Argentina. Después de retirarse, se dedicó al negocio familiar de autopartes para el transporte.\n\nTuero junto a Reutemann en la previa del GP de Buenos Aires. + Seguinos en A los 19 años, Esteban Tuero llegó a la Fórmula 1 y compartió la pista con Michael Schumacher . Era 1998 y el argentino se incorporaba a Minardi, donde disputó los 16 Grandes Premios de aquella temporada. Su recorrido en la máxima categoría duró apenas un año: aunque tenía la posibilidad de continuar, decidió regresar al país. Mucho después, cuando dejó definitivamente las carreras, su actividad pasó a concentrarse en otro sector de la industria automotriz : los repuestos para colectivos y camiones.\n\nEl vínculo viene de familia. Su padre, Eduardo “ Pirulo ” Tuero, también había sido piloto y estaba al frente del negocio al que Esteban le dedicó más tiempo después de retirarse. La empresa Porenz fabrica componentes para suspensiones neumáticas , utilizados en vehículos de transporte de pasajeros y de carga. Así, el trabajo con las autopartes se convirtió en su ocupación fuera de los circuitos.\n\nPara llegar a la F1, Tuero había construido una carrera que lo llevó muy joven al exterior. Fue campeón de la Fórmula Honda en 1994 y de la Fórmula 2000 italiana en 1995, antes de pasar por otras categorías y realizar pruebas con Minardi. La escudería de Faenza lo eligió para acompañar al japonés Shinji Nakano en 1998: debutó en Australia con 19 años y se convirtió, en aquel momento, en el tercer piloto más joven en estrenarse en la categoría .\n\nSu temporada estuvo condicionada por las limitaciones del Minardi y los abandonos. El mejor resultado llegó en el Gran Premio de San Marino, donde terminó octavo,",
+          "language": "es",
+          "publishedAt": "2026-10-06T12:33:46.000Z",
+          "addedAt": "2026-10-06T13:11:32.116Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1180,7 +1165,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-06T15:11:39.922Z",
+      "createdAt": "2026-10-06T16:11:38.328Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1258,21 +1243,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas",
-          "title": "Así quedó la Copa de Oro de TC con Chapur líder luego de San Nicolás",
-          "summary": "Con el segundo puesto en el '1-2' de Torino, el cordobés se trepó a la cima del 'playoff' a falta de tres carreras para el cierre.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/FACUNDO-CHAPUR-TC-FOTO-DARIO-GALLARDO.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-05T15:49:04.000Z",
-          "addedAt": "2026-10-05T16:11:30.907Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-desopilante-jugada-de-briatore-engano-a-todos-los-periodistas-de-la-f1-con-una-hoja-en-b",
           "title": "Desopilante jugada de Briatore: engañó a todos los periodistas de la F1 con una hoja en blanco",
           "summary": "El jefe de Alpine, que hace un mes apareció en una rueda de prensa con una hoja y denunció a McLaren por sobornar a un juez que sancionó a Gasly, volvió a salir a escena con un papel, pero esta vez fue para distraer.",
@@ -1318,19 +1288,19 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-fernando-alonso-definio-su-futuro-en-la-f1-formula-1-id763464-html",
-          "title": "Fernando Alonso definió su futuro en la Fórmula 1",
-          "summary": "El dos veces campeón del mundo y el piloto canadiense seguirán compartiendo el equipo por quinto año consecutivo.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/fernando-alonso-definio-su-futuro-en-la-f1-formula-1-id763464.html",
-          "image": "https://media.tycsports.com/files/2026/09/29/991475/fernando-alonso-y-lance-stroll-seguiran-compitiendo-en-aston-martin-en-2027_1440x810.webp",
-          "body": "El dos veces campeón del mundo y el piloto canadiense seguirán compartiendo el equipo por quinto año consecutivo.\n\nFernando Alonso y Lance Stroll seguirán compitiendo en Aston Martin en 2027 + Seguinos en Fernando Alonso continuará en Aston Martin en la temporada 2027. El piloto español, dos veces campeón del mundo, se tomó un tiempo para definir su futuro y finalmente extendió su contrato con la escudería británica, por lo que seguirá compitiendo en la Fórmula 1. Además, el equipo también confirmó la continuidad de Lance Stroll y será el quinto año consecutivo que formarán dupla.\n\nLa continuidad de Alonso había quedado en duda durante las últimas semanas debido a la incertidumbre sobre su futuro. El español evaluó durante un período prolongado si continuar en la categoría, pero finalmente resolvió seguir ligado a Aston Martin, donde corre desde 2023.\n\n“Me tomé mi tiempo para tomar esta decisión, pero las carreras son mi vida, mi pasión, y sé que todavía tengo la velocidad y la determinación para competir al más alto nivel”, explicó Alonso luego de confirmarse la renovación. Desde su llegada a Aston Martin, el bicampeón mundial disputó 85 Grandes Premios, consiguió ocho podios y obtuvo dos segundos puestos. Ahora, afrontará una nueva temporada con el objetivo de continuar dentro de la máxima categoría.\n\nPor su parte, Stroll expresó: “He estado en este camino desde el principio y creo que tenemos los recursos y las personas para convertirnos en un equipo ganador. En Silverstone se está trabajando arduamente y se están logrando avances reales, y la determinación que veo en cada departamento es una gran motivación para mí. Sé que vamos por el buen camino y mi compromiso es más fuerte que nunca para ayudarnos a alcanzar nuestros objetivos”.",
+          "id": "campeones-com-ar-asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas",
+          "title": "Así quedó la Copa de Oro de TC con Chapur líder luego de San Nicolás",
+          "summary": "Con el segundo puesto en el '1-2' de Torino, el cordobés se trepó a la cima del 'playoff' a falta de tres carreras para el cierre.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/FACUNDO-CHAPUR-TC-FOTO-DARIO-GALLARDO.jpg",
+          "body": "",
           "language": "es",
-          "publishedAt": "2026-09-29T15:23:29.000Z",
-          "addedAt": "2026-10-02T16:23:13.048Z",
+          "publishedAt": "2026-10-05T15:49:04.000Z",
+          "addedAt": "2026-10-05T16:11:30.907Z",
           "category": "general",
-          "tag": "F1"
+          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-andersson-y-azcona-ganaron-las-ultimas-carreras-del-tcr-en-corea",
@@ -1451,13 +1421,7 @@
           "addedAt": "2026-10-02T17:57:45.788Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-06T15:11:39.922Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona",
           "title": "Thomas Pozner ganó la Final de TC Pista en San Nicolás y se ilusiona",
@@ -1472,7 +1436,13 @@
           "addedAt": "2026-10-04T17:11:31.464Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-06T16:11:38.328Z",
+      "items": [
         {
           "id": "campeones-com-ar-provens-tiene-la-pole-para-la-final-del-tc-pista",
           "title": "Provens tiene la “pole” para la Final del TC Pista",
@@ -1545,6 +1515,21 @@
           "language": "es",
           "publishedAt": "2026-10-03T09:35:42.000Z",
           "addedAt": "2026-10-03T06:54:56.540Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-fernando-alonso-definio-su-futuro-en-la-f1-formula-1-id763464-html",
+          "title": "Fernando Alonso definió su futuro en la Fórmula 1",
+          "summary": "El dos veces campeón del mundo y el piloto canadiense seguirán compartiendo el equipo por quinto año consecutivo.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/fernando-alonso-definio-su-futuro-en-la-f1-formula-1-id763464.html",
+          "image": "https://media.tycsports.com/files/2026/09/29/991475/fernando-alonso-y-lance-stroll-seguiran-compitiendo-en-aston-martin-en-2027_1440x810.webp",
+          "body": "El dos veces campeón del mundo y el piloto canadiense seguirán compartiendo el equipo por quinto año consecutivo.\n\nFernando Alonso y Lance Stroll seguirán compitiendo en Aston Martin en 2027 + Seguinos en Fernando Alonso continuará en Aston Martin en la temporada 2027. El piloto español, dos veces campeón del mundo, se tomó un tiempo para definir su futuro y finalmente extendió su contrato con la escudería británica, por lo que seguirá compitiendo en la Fórmula 1. Además, el equipo también confirmó la continuidad de Lance Stroll y será el quinto año consecutivo que formarán dupla.\n\nLa continuidad de Alonso había quedado en duda durante las últimas semanas debido a la incertidumbre sobre su futuro. El español evaluó durante un período prolongado si continuar en la categoría, pero finalmente resolvió seguir ligado a Aston Martin, donde corre desde 2023.\n\n“Me tomé mi tiempo para tomar esta decisión, pero las carreras son mi vida, mi pasión, y sé que todavía tengo la velocidad y la determinación para competir al más alto nivel”, explicó Alonso luego de confirmarse la renovación. Desde su llegada a Aston Martin, el bicampeón mundial disputó 85 Grandes Premios, consiguió ocho podios y obtuvo dos segundos puestos. Ahora, afrontará una nueva temporada con el objetivo de continuar dentro de la máxima categoría.\n\nPor su parte, Stroll expresó: “He estado en este camino desde el principio y creo que tenemos los recursos y las personas para convertirnos en un equipo ganador. En Silverstone se está trabajando arduamente y se están logrando avances reales, y la determinación que veo en cada departamento es una gran motivación para mí. Sé que vamos por el buen camino y mi compromiso es más fuerte que nunca para ayudarnos a alcanzar nuestros objetivos”.",
+          "language": "es",
+          "publishedAt": "2026-09-29T15:23:29.000Z",
+          "addedAt": "2026-10-02T16:23:13.048Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1732,7 +1717,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-06T15:11:39.922Z",
+      "createdAt": "2026-10-06T16:11:38.328Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-ignacio-fain-logro-su-primera-pole-en-el-turismo-carretera-en-san-nicolas-id764227-html",
