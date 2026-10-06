@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-06T14:11:29.695Z",
-  "checkedAt": "2026-10-06T14:11:29.695Z",
+  "updatedAt": "2026-10-06T15:11:30.782Z",
+  "checkedAt": "2026-10-06T15:11:30.782Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
+      "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
+      "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-HYUNDAI-POSADAS.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-03T18:45:37.000Z",
+      "addedAt": "2026-10-06T15:11:36.653Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
       "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
@@ -613,7 +628,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-06T14:11:39.765Z",
+      "createdAt": "2026-10-06T15:11:39.922Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -766,6 +781,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-canapino-colapinto-advertencia-odio-redes-sociales-id764567-html",
+          "title": "La advertencia de Canapino a Colapinto sobre el odio en redes sociales: \"Yo tuve muchos problemas y hoy...\"",
+          "summary": "El pentacampeón del Turismo Carretera se pronunció sobre el fanatismo tóxico, recordó los problemas que vivió en IndyCar cuando sus seguidores amenazaron a Callum Ilott y trazó un paralelismo directo.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/canapino-colapinto-advertencia-odio-redes-sociales-id764567.html",
+          "image": "https://media.tycsports.com/files/2026/10/06/993360/canapino-colapinto_1440x810.webp",
+          "body": "El pentacampeón del Turismo Carretera se pronunció sobre el fanatismo tóxico, recordó los problemas que vivió en IndyCar cuando sus seguidores amenazaron a Callum Ilott y trazó un paralelismo directo.\n\nCanapino-Colapinto + Seguinos en Agustín Canapino conoce de cerca lo que es el odio en redes sociales dirigido contra otros pilotos por culpa de un fanatismo que se le fue de las manos. Lo vivió en IndyCar cuando sus seguidores amenazaron al británico Callum Ilott y generaron un escándalo que llegó a los propios organizadores de la categoría. Ahora ve el mismo fenómeno alrededor de Franco Colapinto y no dudó en hablar: \"Yo tuve muchos problemas y hoy lo sufrimos con Franco\" , dijo en una entrevista. Alpine ya había publicado un comunicado pidiendo frenar el hostigamiento virtual hacia otros competidores.\n\nCanapino fue claro sobre el origen del problema con Mario Pergolini en Otro Día Perdido : \"Son los menos porque la mayoría de los argentinos somos muy educados. Pero tenés un grupo de personas que hacen desastres en las redes sociales.\" Y apuntó a la facilidad con la que se viraliza el odio desde el anonimato: \"Por ahí es muy sencillo escribir algo detrás de un teclado, pero estás lastimando a alguien.\"\n\nEl antecedente que marcó su postura ocurrió en 2023, en el circuito de Long Beach. Tras un incidente con Ilott por falta de comunicación y demoras en los pits, los fanáticos del piloto arrecifeño inundaron las redes del británico con amenazas de muerte. El propio Ilott lo graficó con ironía: \" Estoy impresionado por la cantidad de amenazas de muerte y abuso que recibí. Definitivamente, un nuevo récord. Aprecio el esfuerzo por ayudarme a aprender nuevas palabras en español.\"\n\nCanapino tuvo que salir a aclarar públicamente que Ilott no había tenido culpa de nada. Un año de",
+          "language": "es",
+          "publishedAt": "2026-10-06T14:46:11.000Z",
+          "addedAt": "2026-10-06T15:11:32.799Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
           "summary": "Debe cumplir con una penalización de 15 puestos con el Alpine, a bordo del cual el argentino pudo superar el primer corte clasificatorio en la pista de Sepang. La \"pole\" la logró Verstappen quien superó a Hamilton.",
@@ -777,21 +807,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T18:59:19.000Z",
           "addedAt": "2026-10-03T18:11:30.466Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
-          "title": "Después de la accidentada carrera, Colapinto estableció sus objetivos para Malasia",
-          "summary": "El piloto argentino se prepara de cara a su primera experiencia en el circuito asiático. \"Apunto a un viernes productivo, tener el auto en una buena ventana de configuración y, con suerte, estar en una posición para competir por los diez primeros puestos\", afirmó.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-gran-premio-barein-malasia-formula-1-id763482.html",
-          "image": "https://media.tycsports.com/files/2026/09/14/987815/franco-colapinto_1440x810.webp",
-          "body": "El piloto argentino se prepara de cara a su primera experiencia en el circuito asiático. \"Apunto a un viernes productivo, tener el auto en una buena ventana de configuración y, con suerte, estar en una posición para competir por los diez primeros puestos\", afirmó.\n\nFranco Colapinto se prepara de cara al Gran Premio de Barein que se correrá en Malasia. + Seguinos en Franco Colapinto ya puso la mira en su primera experiencia en Sepang, escenario que recibirá a la Fórmula 1 del 2 al 4 de octubre para disputar el denominado Gran Premio de Bahrein en Malasia . Tras el accidentado paso por Bakú, el argentino buscará recuperarse en un trazado que conoce por haberlo seguido desde chico.\n\nEl piloto de Alpine se refirió a lo que significa correr por primera vez en la histórica pista malaya. \"Será mi primera experiencia. Es un circuito del que he escuchado y visto mucho mientras crecía . Una cosa que se destaca son las condiciones, ya que es muy caluroso y húmedo, y siempre parece haber una alta probabilidad de que llueva\" , expresó.\n\nLa preparación para Sepang incluyó una jornada poco habitual en la fábrica de Enstone. Luego de la competencia en Azerbaiyán, el argentino viajó a la sede de la escudería para trabajar en el simulador y comenzar a acomodar sus horarios a la diferencia con Malasia. \"Volé como estaba planeado y fue bastante único, ya que como parte de la adaptación estuve en la fábrica a las cinco de la mañana junto con mis ingenieros \" , contó sobre la particular rutina.\n\nMás allá de tratarse de un circuito nuevo para él, Colapinto dejó en claro que la prioridad será encontrar rápidamente una buena puesta a punto. \"Tengo muchas ganas de experimentar Malasia y el trabajo que tenemos por delante es apuntar a un viernes productivo, tener el auto en una buena ventana de c",
-          "language": "es",
-          "publishedAt": "2026-09-29T15:05:13.000Z",
-          "addedAt": "2026-10-02T16:23:13.438Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -822,6 +837,21 @@
           "language": "es",
           "publishedAt": "2026-10-03T08:59:19.000Z",
           "addedAt": "2026-10-03T09:12:02.953Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-sobre-el-gp-de-singapur-las-condiciones-realmente-premian-el-compromiso",
+          "title": "Colapinto sobre el GP de Singapur: «Las condiciones realmente premian el compromiso»",
+          "summary": "El argentino se prepara para participar en uno de los fines de semana más exigentes del calendario, aunque dijo que las características del circuito «hace que sea uno de mis favoritos del año».",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-sobre-el-gp-de-singapur-las-condiciones-realmente-premian-el-compromiso/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-F1-Colapinto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-06T14:33:10.000Z",
+          "addedAt": "2026-10-06T15:11:32.761Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -869,7 +899,13 @@
           "addedAt": "2026-10-04T11:11:31.436Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-06T15:11:39.922Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-",
           "title": "La cruda autocrítica de Briatore tras el enojo de Colapinto con Alpine",
@@ -884,13 +920,7 @@
           "addedAt": "2026-10-04T22:11:31.068Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-06T14:11:39.765Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten",
           "title": "Verstappen agradeció los elogios de Colapinto: \"Los que compiten en F1...\"",
@@ -1102,6 +1132,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
+          "title": "Después de la accidentada carrera, Colapinto estableció sus objetivos para Malasia",
+          "summary": "El piloto argentino se prepara de cara a su primera experiencia en el circuito asiático. \"Apunto a un viernes productivo, tener el auto en una buena ventana de configuración y, con suerte, estar en una posición para competir por los diez primeros puestos\", afirmó.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-gran-premio-barein-malasia-formula-1-id763482.html",
+          "image": "https://media.tycsports.com/files/2026/09/14/987815/franco-colapinto_1440x810.webp",
+          "body": "El piloto argentino se prepara de cara a su primera experiencia en el circuito asiático. \"Apunto a un viernes productivo, tener el auto en una buena ventana de configuración y, con suerte, estar en una posición para competir por los diez primeros puestos\", afirmó.\n\nFranco Colapinto se prepara de cara al Gran Premio de Barein que se correrá en Malasia. + Seguinos en Franco Colapinto ya puso la mira en su primera experiencia en Sepang, escenario que recibirá a la Fórmula 1 del 2 al 4 de octubre para disputar el denominado Gran Premio de Bahrein en Malasia . Tras el accidentado paso por Bakú, el argentino buscará recuperarse en un trazado que conoce por haberlo seguido desde chico.\n\nEl piloto de Alpine se refirió a lo que significa correr por primera vez en la histórica pista malaya. \"Será mi primera experiencia. Es un circuito del que he escuchado y visto mucho mientras crecía . Una cosa que se destaca son las condiciones, ya que es muy caluroso y húmedo, y siempre parece haber una alta probabilidad de que llueva\" , expresó.\n\nLa preparación para Sepang incluyó una jornada poco habitual en la fábrica de Enstone. Luego de la competencia en Azerbaiyán, el argentino viajó a la sede de la escudería para trabajar en el simulador y comenzar a acomodar sus horarios a la diferencia con Malasia. \"Volé como estaba planeado y fue bastante único, ya que como parte de la adaptación estuve en la fábrica a las cinco de la mañana junto con mis ingenieros \" , contó sobre la particular rutina.\n\nMás allá de tratarse de un circuito nuevo para él, Colapinto dejó en claro que la prioridad será encontrar rápidamente una buena puesta a punto. \"Tengo muchas ganas de experimentar Malasia y el trabajo que tenemos por delante es apuntar a un viernes productivo, tener el auto en una buena ventana de c",
+          "language": "es",
+          "publishedAt": "2026-09-29T15:05:13.000Z",
+          "addedAt": "2026-10-02T16:23:13.438Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336-html",
           "title": "F1: horarios y el cronograma completo del GP de Malasia",
           "summary": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
@@ -1130,42 +1175,12 @@
           "addedAt": "2026-10-02T16:23:12.895Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad",
-          "title": "En marzo se estrenaría el circuito de Buenos Aires con el Campeonato Argentino de Velocidad",
-          "summary": "En la previa del GP de Buenos Aires de MotoGP (fechado para el 11 de abril) habrá una cita del CAM, el 12, 13 y 14 de marzo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/Autodromo-Palco-Froilan-Gonzalez.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-05T14:49:55.000Z",
-          "addedAt": "2026-10-05T15:11:31.193Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang",
-          "title": "La decisión de Alpine que condicionó a Colapinto en Sepang",
-          "summary": "Al concluir el GP de Bahrein, el piloto argentino se refirió a las dificultades que afrontó con el auto cuando en el comienzo calzó los neumáticos lisos estando el piso húmedo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-F1-Bahrein-Colapinto.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T12:15:40.000Z",
-          "addedAt": "2026-10-04T13:11:30.995Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-06T14:11:39.765Z",
+      "createdAt": "2026-10-06T15:11:39.922Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1441,7 +1456,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-06T14:11:39.765Z",
+      "createdAt": "2026-10-06T15:11:39.922Z",
       "items": [
         {
           "id": "campeones-com-ar-thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona",
@@ -1534,6 +1549,21 @@
           "tag": "F1"
         },
         {
+          "id": "campeones-com-ar-la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang",
+          "title": "La decisión de Alpine que condicionó a Colapinto en Sepang",
+          "summary": "Al concluir el GP de Bahrein, el piloto argentino se refirió a las dificultades que afrontó con el auto cuando en el comienzo calzó los neumáticos lisos estando el piso húmedo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-F1-Bahrein-Colapinto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T12:15:40.000Z",
+          "addedAt": "2026-10-04T13:11:30.995Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
           "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
           "summary": "El pampeano se impuso en la Carrera Clasificatoria y tras quedarse con la “pole”, suma puntos claves en la cima del torneo.",
@@ -1594,6 +1624,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad",
+          "title": "En marzo se estrenaría el circuito de Buenos Aires con el Campeonato Argentino de Velocidad",
+          "summary": "En la previa del GP de Buenos Aires de MotoGP (fechado para el 11 de abril) habrá una cita del CAM, el 12, 13 y 14 de marzo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/Autodromo-Palco-Froilan-Gonzalez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-05T14:49:55.000Z",
+          "addedAt": "2026-10-05T15:11:31.193Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-gran-demostracion-de-lorenzato-en-el-mundial-de-flat-track-previo-a-las-carreras-de-argentina",
           "title": "Gran demostración de Lorenzato en el Mundial de Flat Track previo a las carreras de Argentina",
           "summary": "Un fallo mecánico impidió que el argentino se luzca en República Checa, mientras Argentina se prepara para la doble fecha en Totoras.",
@@ -1620,21 +1665,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T20:42:36.000Z",
           "addedAt": "2026-10-03T21:11:31.488Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-tc-el-resultado-que-se-dio-por-apenas-7a-vez-en-50-anos",
-          "title": "TC: el resultado que se dio por apenas 7ª vez en 50 años",
-          "summary": "Ignacio Fain y Facundo Chapur protagonizaron el primer “1-2” de Torino en el Turismo Carretera desde el Premio Coronación 2022, que a su vez resultó el primero de los “Toros” de nueva generación.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-el-resultado-que-se-dio-por-apenas-7a-vez-en-50-anos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Chapur-Fain-Santero-Podio-TC-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-06T12:07:30.000Z",
-          "addedAt": "2026-10-06T12:11:31.195Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1697,7 +1727,13 @@
           "addedAt": "2026-10-04T19:11:28.198Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-06T15:11:39.922Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-ignacio-fain-logro-su-primera-pole-en-el-turismo-carretera-en-san-nicolas-id764227-html",
           "title": "Ignacio Faín logró su primera pole en el Turismo Carretera en San Nicolás",
@@ -1712,13 +1748,7 @@
           "addedAt": "2026-10-03T21:11:31.686Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-06T14:11:39.765Z",
-      "items": [
+        },
         {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
           "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
@@ -1733,6 +1763,21 @@
           "addedAt": "2026-10-02T22:34:53.320Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-tc-el-resultado-que-se-dio-por-apenas-7a-vez-en-50-anos",
+          "title": "TC: el resultado que se dio por apenas 7ª vez en 50 años",
+          "summary": "Ignacio Fain y Facundo Chapur protagonizaron el primer “1-2” de Torino en el Turismo Carretera desde el Premio Coronación 2022, que a su vez resultó el primero de los “Toros” de nueva generación.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-el-resultado-que-se-dio-por-apenas-7a-vez-en-50-anos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Chapur-Fain-Santero-Podio-TC-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-06T12:07:30.000Z",
+          "addedAt": "2026-10-06T12:11:31.195Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-rally-de-entre-rios-federico-villagra-se-recupero-y-gano-en-diamante",
@@ -1956,36 +2001,6 @@
           "language": "es",
           "publishedAt": "2026-10-04T15:00:40.000Z",
           "addedAt": "2026-10-04T15:11:30.853Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-tc-en-san-nicolas-rossi-doblego-a-fritzler-y-triunfo-en-la-2a-bateria",
-          "title": "TC en San Nicolás: Rossi doblegó a Fritzler y triunfó en la 2ª batería",
-          "summary": "En una serie que fue más lenta que la que ganó Ignacio Fain (Torino NG), el “Misil” superó al piloto de Mercedes-Benz con una muy ajustada maniobra -toque incluido- en la 1ª vuelta y logró su 3º éxito parcial de la temporada 2026.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-en-san-nicolas-rossi-doblego-a-fritzler-y-triunfo-en-la-2a-bateria/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Rossi-TC-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T14:33:39.000Z",
-          "addedAt": "2026-10-04T15:11:30.803Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-tc-con-solvencia-fain-se-adjudico-la-1a-serie-en-san-nicolas",
-          "title": "TC: con solvencia, Fain se adjudicó la 1ª serie en San Nicolás",
-          "summary": "El representante de Torino logró su 1ª victoria parcial en el Turismo Carretera tras superar por 1s331 a Diego Azar (Mercedes-Benz CLE 53).",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-con-solvencia-fain-se-adjudico-la-1a-serie-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-TC-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T14:09:40.000Z",
-          "addedAt": "2026-10-04T14:11:33.825Z",
           "category": "argentino",
           "tag": "Argentino"
         }
