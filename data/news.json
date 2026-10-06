@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T23:11:29.528Z",
-  "checkedAt": "2026-10-05T23:11:29.528Z",
+  "updatedAt": "2026-10-06T00:11:29.512Z",
+  "checkedAt": "2026-10-06T00:11:29.512Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
-      "title": "Geely presentó su SUV de TC2000",
-      "summary": "El flamante equipo tendrá como pilotos a Nicolás Traut y Franco Riva. Así la categoría suma una nueva automotriz.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/geely-presento-su-suv-de-tc2000/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-12.47.43.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-02T16:28:07.000Z",
-      "addedAt": "2026-10-05T22:11:31.721Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
     {
       "id": "campeones-com-ar-tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen",
       "title": "TN: el balance de Santero tras las pruebas en el Cabalén | Campeones",
@@ -598,7 +583,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-05T23:11:32.966Z",
+      "createdAt": "2026-10-06T00:11:35.279Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -661,21 +646,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
-          "title": "El director de Alpine reveló por qué Colapinto penalizará en Malasia",
-          "summary": "Steve Nielsen aseguró que la decisión estuvo directamente relacionada con la sanción que el argentino recibió por el accidente que protagonizó en Bakú.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/director-alpine-revelo-colapinto-penalizara-malasia-id764118.html",
-          "image": "https://media.tycsports.com/files/2026/10/02/992426/steve-nielsen-y-franco-colapinto_416x234.webp",
-          "body": "Steve Nielsen aseguró que la decisión estuvo directamente relacionada con la sanción que el argentino recibió por el accidente que protagonizó en Bakú.\n\nFranco Colapinto y Steve Nielsen, director general de Alpine (@AlpineF1Team) + Seguinos en Franco Colapinto, piloto argentino de Alpine, atraviesa un adverso fin de semana. Tras llegar al GP de Bahrein en Malasia con una sanción de cinco puestos en la grilla de salida por el accidente que protagonizó en Bakú, sumó otras 10 posiciones de penalización por un cambio en la unidad de potencia de su monoplaza, y afrontó las prácticas libres centrado en la carrera del domingo, razón de sus elevados tiempos en pista.\n\nTras las sesiones del viernes, en las que el argentino quedó 19° y 22°, Steve Nielsen, director general de la escudería francesa, explicó que la decisión de que el pilarense penalizara esta jornada tuvo que ver con la sanción preexistente. Ante la inevitable pérdida de posiciones, el equipo consideró que era la ocasión perfecta para cambiar las piezas y unificar las penas.\n\n“Sabíamos que en algún momento tendríamos que aceptar una penalización por componentes de la unidad de potencia, como algunos de nuestros rivales, y sentimos que esta pista podría ser óptima para adelantar y permite una mayor oportunidad para que Franco avance en la parrilla, como lo vimos hacer en Monza en su camino hacia los puntos\", explicó Nielsen.\n\nSobre el trabajo de Colapinto aseguró que “corrió con el tanque lleno en ambas sesiones con la vista puesta en la preparación para la carrera del domingo” . Y concluyó: \"Ha hecho un buen trabajo hoy para recopilar datos con el depósito lleno y para ayudar a comprender los neumáticos”.",
-          "language": "es",
-          "publishedAt": "2026-10-02T23:24:40.000Z",
-          "addedAt": "2026-10-03T01:03:50.878Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-i",
           "title": "Franco Colapinto recibió otra penalización en el GP de Malasia de la F1: \"Largaré...\"",
           "summary": "El píloto argentino fue sancionado con diez posiciones porque Alpine cambió nuevamente el propulsor antes de la carrera del domingo. Esto se suma al castigo por el incidente en Bakú.",
@@ -687,6 +657,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T15:11:24.000Z",
           "addedAt": "2026-10-02T16:23:12.821Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
+          "title": "El director de Alpine reveló por qué Colapinto penalizará en Malasia",
+          "summary": "Steve Nielsen aseguró que la decisión estuvo directamente relacionada con la sanción que el argentino recibió por el accidente que protagonizó en Bakú.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/director-alpine-revelo-colapinto-penalizara-malasia-id764118.html",
+          "image": "https://media.tycsports.com/files/2026/10/02/992426/steve-nielsen-y-franco-colapinto_416x234.webp",
+          "body": "Steve Nielsen aseguró que la decisión estuvo directamente relacionada con la sanción que el argentino recibió por el accidente que protagonizó en Bakú.\n\nFranco Colapinto y Steve Nielsen, director general de Alpine (@AlpineF1Team) + Seguinos en Franco Colapinto, piloto argentino de Alpine, atraviesa un adverso fin de semana. Tras llegar al GP de Bahrein en Malasia con una sanción de cinco puestos en la grilla de salida por el accidente que protagonizó en Bakú, sumó otras 10 posiciones de penalización por un cambio en la unidad de potencia de su monoplaza, y afrontó las prácticas libres centrado en la carrera del domingo, razón de sus elevados tiempos en pista.\n\nTras las sesiones del viernes, en las que el argentino quedó 19° y 22°, Steve Nielsen, director general de la escudería francesa, explicó que la decisión de que el pilarense penalizara esta jornada tuvo que ver con la sanción preexistente. Ante la inevitable pérdida de posiciones, el equipo consideró que era la ocasión perfecta para cambiar las piezas y unificar las penas.\n\n“Sabíamos que en algún momento tendríamos que aceptar una penalización por componentes de la unidad de potencia, como algunos de nuestros rivales, y sentimos que esta pista podría ser óptima para adelantar y permite una mayor oportunidad para que Franco avance en la parrilla, como lo vimos hacer en Monza en su camino hacia los puntos\", explicó Nielsen.\n\nSobre el trabajo de Colapinto aseguró que “corrió con el tanque lleno en ambas sesiones con la vista puesta en la preparación para la carrera del domingo” . Y concluyó: \"Ha hecho un buen trabajo hoy para recopilar datos con el depósito lleno y para ayudar a comprender los neumáticos”.",
+          "language": "es",
+          "publishedAt": "2026-10-02T23:24:40.000Z",
+          "addedAt": "2026-10-03T01:03:50.878Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -874,7 +859,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-05T23:11:32.966Z",
+      "createdAt": "2026-10-06T00:11:35.279Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten",
@@ -1150,7 +1135,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-05T23:11:32.966Z",
+      "createdAt": "2026-10-06T00:11:35.279Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-bottas-formula-1-bicicleta-gp-singapur-id764495-html",
@@ -1426,7 +1411,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-05T23:11:32.966Z",
+      "createdAt": "2026-10-06T00:11:35.279Z",
       "items": [
         {
           "id": "campeones-com-ar-thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona",
@@ -1702,7 +1687,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-05T23:11:32.966Z",
+      "createdAt": "2026-10-06T00:11:35.279Z",
       "items": [
         {
           "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
