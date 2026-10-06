@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-06T13:11:29.772Z",
-  "checkedAt": "2026-10-06T13:11:29.772Z",
+  "updatedAt": "2026-10-06T14:11:29.695Z",
+  "checkedAt": "2026-10-06T14:11:29.695Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
+      "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
+      "summary": "Luego de la exclusión por técnica en Balcarce y la posterior determinación de la CAF de la ACTC, el entrerriano se expresó en el micrófono de Campeones. Además se refirió a la \"Copa de Oro\", al TC, Balcarce y más.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WernerMarianob261002.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-02T17:41:06.000Z",
+      "addedAt": "2026-10-06T14:11:34.919Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
       "title": "Geely presentó su SUV de TC2000",
@@ -598,7 +613,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-06T13:11:39.457Z",
+      "createdAt": "2026-10-06T14:11:39.765Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -874,7 +889,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-06T13:11:39.457Z",
+      "createdAt": "2026-10-06T14:11:39.765Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten",
@@ -935,6 +950,21 @@
           "addedAt": "2026-10-02T16:23:12.797Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-que-motivo-la-falla-en-el-bmw-de-santero-durante-la-final-de-tc-nicolena",
+          "title": "¿Qué motivó la falla en el BMW de Santero en la final de TC nicoleña?",
+          "summary": "El piloto mendocino lideraba la carrera de la 2.ª fecha de la \"Copa de Oro RUS\" hasta que apareció un inconveniente en el motor.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/que-motivo-la-falla-en-el-bmw-de-santero-durante-la-final-de-tc-nicolena/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-TC-Santero.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-06T13:58:46.000Z",
+          "addedAt": "2026-10-06T14:11:31.232Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-f1-colapinto-escalo-en-sepang-hasta-el-13-puesto-y-verstappen-retorno-a-la-victoria",
@@ -1130,27 +1160,12 @@
           "addedAt": "2026-10-04T13:11:30.995Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
-          "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
-          "summary": "El pampeano se impuso en la Carrera Clasificatoria y tras quedarse con la “pole”, suma puntos claves en la cima del torneo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9726.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T18:27:57.000Z",
-          "addedAt": "2026-10-03T19:11:31.321Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-06T13:11:39.457Z",
+      "createdAt": "2026-10-06T14:11:39.765Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1333,21 +1348,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
-          "title": "TC: “Josito” Di Palma fue el más veloz bajo la lluvia en San Nicolás",
-          "summary": "El arrecifeño del RUS Med Team, que viene de lograr la “pole position” en San Luis también en condiciones de pista húmeda, prevaleció en el primer entrenamiento de la 2ª fecha de la Copa de Oro del Turismo Carretera, del que sólo tomaron parte 20 de los 53 inscriptos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Di-Palma-TC-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T13:27:45.000Z",
-          "addedAt": "2026-10-03T14:11:27.624Z",
-          "category": "general",
-          "tag": "Clima"
-        },
-        {
           "id": "campeones-com-ar-el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi",
           "title": "El cierre del campeonato de F1 será en Qatar y Abu Dhabi",
           "summary": "Stefano Domenicali confirmó que la temporada culminará en las carreras de Medio Oriente, en donde dispone de \"garantías\" para desarrollar ambos Grandes Premios.",
@@ -1372,10 +1372,25 @@
           "image": "https://campeones.com.ar/wp-content/uploads/2026/10/FORD-MUSTANG-FACUNDO-ARDUSSO-TC-SAN-NICOLAS.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-05T15:19:21.000Z",
+          "publishedAt": "2026-10-06T01:19:21.000Z",
           "addedAt": "2026-10-05T16:11:31.670Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
+          "title": "TC: “Josito” Di Palma fue el más veloz bajo la lluvia en San Nicolás",
+          "summary": "El arrecifeño del RUS Med Team, que viene de lograr la “pole position” en San Luis también en condiciones de pista húmeda, prevaleció en el primer entrenamiento de la 2ª fecha de la Copa de Oro del Turismo Carretera, del que sólo tomaron parte 20 de los 53 inscriptos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Di-Palma-TC-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T13:27:45.000Z",
+          "addedAt": "2026-10-03T14:11:27.624Z",
+          "category": "general",
+          "tag": "Clima"
         },
         {
           "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
@@ -1426,7 +1441,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-06T13:11:39.457Z",
+      "createdAt": "2026-10-06T14:11:39.765Z",
       "items": [
         {
           "id": "campeones-com-ar-thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona",
@@ -1517,6 +1532,21 @@
           "addedAt": "2026-10-03T06:54:56.540Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
+          "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
+          "summary": "El pampeano se impuso en la Carrera Clasificatoria y tras quedarse con la “pole”, suma puntos claves en la cima del torneo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9726.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T18:27:57.000Z",
+          "addedAt": "2026-10-03T19:11:31.321Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-colapinto-tambien-recibe-mensajes-de-odio-en-las-redes-nadie-habla-nunca-de-eso",
@@ -1682,7 +1712,13 @@
           "addedAt": "2026-10-03T21:11:31.686Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-06T14:11:39.765Z",
+      "items": [
         {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
           "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
@@ -1697,13 +1733,7 @@
           "addedAt": "2026-10-02T22:34:53.320Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-06T13:11:39.457Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-rally-de-entre-rios-federico-villagra-se-recupero-y-gano-en-diamante",
           "title": "Rally de Entre Ríos: Federico Villagra se recuperó y ganó en Diamante",
@@ -1956,21 +1986,6 @@
           "language": "es",
           "publishedAt": "2026-10-04T14:09:40.000Z",
           "addedAt": "2026-10-04T14:11:33.825Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas",
-          "title": "Así se largan las series del Turismo Carretera en San Nicolás",
-          "summary": "Curiosamente, no habrá pilotos ni de Ford ni de Chevrolet en ninguna de las tres primeras filas de la 2ª fecha de la Copa de Oro 2026, donde serán mayoría los representantes de Torino (Fain y Chapur) y Mercedes-Benz (Fritzler y Azar).",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/asi-se-largan-las-series-del-turismo-carretera-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Boxes-TC-San-Nicolas-II-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T12:17:23.000Z",
-          "addedAt": "2026-10-03T22:11:27.635Z",
           "category": "argentino",
           "tag": "Argentino"
         }
