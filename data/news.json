@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-06T08:11:29.587Z",
-  "checkedAt": "2026-10-06T08:11:29.587Z",
+  "updatedAt": "2026-10-06T09:11:29.697Z",
+  "checkedAt": "2026-10-06T09:11:29.697Z",
   "pageSize": 18,
   "sources": [
     {
@@ -583,7 +583,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-06T08:11:33.319Z",
+      "createdAt": "2026-10-06T09:11:33.416Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -766,21 +766,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
-          "title": "Colapinto clasificó 15.° y largará último en el Gran Premio de Bahrein",
-          "summary": "Debe cumplir con una penalización de 15 puestos con el Alpine, a bordo del cual el argentino consiguió otra vez tener un andar estable en la pista de Sepang.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-box-Alpine.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T08:59:19.000Z",
-          "addedAt": "2026-10-03T09:12:02.953Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
           "title": "Después de la accidentada carrera, Colapinto estableció sus objetivos para Malasia",
           "summary": "El piloto argentino se prepara de cara a su primera experiencia en el circuito asiático. \"Apunto a un viernes productivo, tener el auto en una buena ventana de configuración y, con suerte, estar en una posición para competir por los diez primeros puestos\", afirmó.",
@@ -792,6 +777,21 @@
           "language": "es",
           "publishedAt": "2026-09-29T15:05:13.000Z",
           "addedAt": "2026-10-02T16:23:13.438Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
+          "title": "Colapinto clasificó 15.° y largará último en el Gran Premio de Bahrein",
+          "summary": "Debe cumplir con una penalización de 15 puestos con el Alpine, a bordo del cual el argentino consiguió otra vez tener un andar estable en la pista de Sepang.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-box-Alpine.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T08:59:19.000Z",
+          "addedAt": "2026-10-03T09:12:02.953Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -859,7 +859,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-06T08:11:33.319Z",
+      "createdAt": "2026-10-06T09:11:33.416Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten",
@@ -1135,7 +1135,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-06T08:11:33.319Z",
+      "createdAt": "2026-10-06T09:11:33.416Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-bottas-formula-1-bicicleta-gp-singapur-id764495-html",
@@ -1243,21 +1243,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi",
-          "title": "El cierre del campeonato de F1 será en Qatar y Abu Dhabi",
-          "summary": "Stefano Domenicali confirmó que la temporada culminará en las carreras de Medio Oriente, en donde dispone de \"garantías\" para desarrollar ambos Grandes Premios.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Qatar-e1791015491652.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T08:16:57.000Z",
-          "addedAt": "2026-10-03T09:12:03.399Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "campeones-com-ar-tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas",
           "title": "TC Pista: Maceira se quedó con el ensayo final en San Nicolás",
           "summary": "El piloto del Catalán Magni Motorsport, que no pudo largar la Final en San Luis y llegó a poner en duda su presencia en esta 2ª fecha de la Copa de Plata 2026, marcó el mejor tiempo en una pista en la que se bajaron los tiempos en casi 13 segundos respecto de la primera práctica.",
@@ -1348,6 +1333,21 @@
           "tag": "Clima"
         },
         {
+          "id": "campeones-com-ar-el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi",
+          "title": "El cierre del campeonato de F1 será en Qatar y Abu Dhabi",
+          "summary": "Stefano Domenicali confirmó que la temporada culminará en las carreras de Medio Oriente, en donde dispone de \"garantías\" para desarrollar ambos Grandes Premios.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Qatar-e1791015491652.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T08:16:57.000Z",
+          "addedAt": "2026-10-03T09:12:03.399Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
+        {
           "id": "campeones-com-ar-como-es-un-ford-mustang-de-tc-por-dentro",
           "title": "¿Cómo es un Ford Mustang de TC por dentro?",
           "summary": "Facundo Ardusso explica al detalle las características del vehículo con el que compite y que atiende el \"Gurí Martínez Competición\".",
@@ -1411,7 +1411,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-06T08:11:33.319Z",
+      "createdAt": "2026-10-06T09:11:33.416Z",
       "items": [
         {
           "id": "campeones-com-ar-thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona",
@@ -1687,7 +1687,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-06T08:11:33.319Z",
+      "createdAt": "2026-10-06T09:11:33.416Z",
       "items": [
         {
           "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
