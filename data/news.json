@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-06T20:11:30.592Z",
-  "checkedAt": "2026-10-06T20:11:30.592Z",
+  "updatedAt": "2026-10-06T21:11:26.675Z",
+  "checkedAt": "2026-10-06T21:11:26.675Z",
   "pageSize": 18,
   "sources": [
     {
@@ -628,7 +628,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-06T20:11:37.685Z",
+      "createdAt": "2026-10-06T21:11:34.643Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -904,7 +904,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-06T20:11:37.685Z",
+      "createdAt": "2026-10-06T21:11:34.643Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
@@ -1180,7 +1180,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-06T20:11:37.685Z",
+      "createdAt": "2026-10-06T21:11:34.643Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1256,6 +1256,21 @@
           "addedAt": "2026-10-02T17:57:42.858Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-wec-mike-conway-anuncio-su-retiro-de-las-pistas",
+          "title": "WEC: Mike Conway anunció su retiro de las pistas",
+          "summary": "El británico, bicampeón mundial en WEC y ganador en dos ediciones de las 24h de Le Mans, cerrará una exitosa campaña profesional.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/wec-mike-conway-anuncio-su-retiro-de-las-pistas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-WEC-Conway.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-06T20:27:47.000Z",
+          "addedAt": "2026-10-06T21:11:27.103Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-un-mustang-cero-kilometro-se-acerca-a-la-orbita-del-tc",
@@ -1436,7 +1451,13 @@
           "addedAt": "2026-10-03T15:11:35.641Z",
           "category": "general",
           "tag": "Previa"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-06T21:11:34.643Z",
+      "items": [
         {
           "id": "campeones-com-ar-esperado-acuerdo-multianual-se-firmo-en-la-era-dorada-del-endurance-entre-el-fia-wec-y-el-aco",
           "title": "Esperado acuerdo multianual se firmó en la era dorada del endurance entre el WEC y el ACO",
@@ -1451,13 +1472,7 @@
           "addedAt": "2026-10-02T17:57:47.194Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-06T20:11:37.685Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona",
           "title": "Thomas Pozner ganó la Final de TC Pista en San Nicolás y se ilusiona",
@@ -1530,21 +1545,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T10:50:50.000Z",
           "addedAt": "2026-10-02T17:57:42.409Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-motogp-en-motegi-marc-marquez-le-gano-otro-sprint-a-martin",
-          "title": "MotoGP en Motegi: Marc Márquez le ganó otro Sprint a Martín",
-          "summary": "En la pista japonesa el piloto de Ducati fue contundente desde la partida en la competencia sabatina relegando al \"poleman\" con quien disputa el título.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/motogp-en-motegi-marc-marquez-le-gano-otro-sprint-a-martin/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-MotoGP-Sprint-Motegi.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T09:35:42.000Z",
-          "addedAt": "2026-10-03T06:54:56.540Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1732,23 +1732,8 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-06T20:11:37.685Z",
+      "createdAt": "2026-10-06T21:11:34.643Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-ignacio-fain-logro-su-primera-pole-en-el-turismo-carretera-en-san-nicolas-id764227-html",
-          "title": "Ignacio Faín logró su primera pole en el Turismo Carretera en San Nicolás",
-          "summary": "El piloto de Villa Minetti fue el más rápido de la clasificación con el Torino del Trotta Racing. Otto Fritzler y Julián Santero completaron los tres primeros.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/ignacio-fain-logro-su-primera-pole-en-el-turismo-carretera-en-san-nicolas-id764227.html",
-          "image": "https://media.tycsports.com/files/2026/10/03/992643/fain-sorprendio-en-san-nicolas-y-consiguio-su-primera-pole-en-el-tc_1440x810.webp?v=1",
-          "body": "El piloto de Villa Minetti fue el más rápido de la clasificación con el Torino del Trotta Racing. Otto Fritzler y Julián Santero completaron los tres primeros.\n\nEl santafesino fue el más rápido de la clasificación con el Torino del Trotta Racing y superó a Otto Fritzler y Julián Santero. + Seguinos en Ignacio Faín tuvo una tarde inolvidable en San Nicolás y se quedó con la pole position del Turismo Carretera, en el marco de la 12ª fecha de la temporada.\n\nEl piloto de Villa Minetti, a bordo del Torino del Trotta Racing, marcó un tiempo de 1:26.047 y consiguió de esta manera su primera pole dentro de la categoría.\n\nLa clasificación comenzó con Diego Azar como primera referencia importante, luego de establecer un registro de 1:26.456. Sin embargo, el panorama cambió cuando salieron a pista los principales protagonistas de la Copa de Oro.\n\nOtto Fritzler fue uno de los primeros en bajar el tiempo de Azar y se colocó al frente con 1:26.341, pero poco después apareció Faín para marcar la vuelta que terminaría siendo definitiva.",
-          "language": "es",
-          "publishedAt": "2026-10-03T20:12:36.000Z",
-          "addedAt": "2026-10-03T21:11:31.686Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
         {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
           "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
@@ -1776,6 +1761,21 @@
           "language": "es",
           "publishedAt": "2026-10-06T12:07:30.000Z",
           "addedAt": "2026-10-06T12:11:31.195Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-ignacio-fain-logro-su-primera-pole-en-el-turismo-carretera-en-san-nicolas-id764227-html",
+          "title": "Ignacio Faín logró su primera pole en el Turismo Carretera en San Nicolás",
+          "summary": "El piloto de Villa Minetti fue el más rápido de la clasificación con el Torino del Trotta Racing. Otto Fritzler y Julián Santero completaron los tres primeros.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/ignacio-fain-logro-su-primera-pole-en-el-turismo-carretera-en-san-nicolas-id764227.html",
+          "image": "https://media.tycsports.com/files/2026/10/03/992643/fain-sorprendio-en-san-nicolas-y-consiguio-su-primera-pole-en-el-tc_1440x810.webp?v=1",
+          "body": "El piloto de Villa Minetti fue el más rápido de la clasificación con el Torino del Trotta Racing. Otto Fritzler y Julián Santero completaron los tres primeros.\n\nEl santafesino fue el más rápido de la clasificación con el Torino del Trotta Racing y superó a Otto Fritzler y Julián Santero. + Seguinos en Ignacio Faín tuvo una tarde inolvidable en San Nicolás y se quedó con la pole position del Turismo Carretera, en el marco de la 12ª fecha de la temporada.\n\nEl piloto de Villa Minetti, a bordo del Torino del Trotta Racing, marcó un tiempo de 1:26.047 y consiguió de esta manera su primera pole dentro de la categoría.\n\nLa clasificación comenzó con Diego Azar como primera referencia importante, luego de establecer un registro de 1:26.456. Sin embargo, el panorama cambió cuando salieron a pista los principales protagonistas de la Copa de Oro.\n\nOtto Fritzler fue uno de los primeros en bajar el tiempo de Azar y se colocó al frente con 1:26.341, pero poco después apareció Faín para marcar la vuelta que terminaría siendo definitiva.",
+          "language": "es",
+          "publishedAt": "2026-10-03T20:12:36.000Z",
+          "addedAt": "2026-10-03T21:11:31.686Z",
           "category": "argentino",
           "tag": "Argentino"
         },
