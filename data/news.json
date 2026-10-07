@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-07T09:11:28.868Z",
-  "checkedAt": "2026-10-07T09:11:28.868Z",
+  "updatedAt": "2026-10-07T10:11:28.995Z",
+  "checkedAt": "2026-10-07T10:11:28.995Z",
   "pageSize": 18,
   "sources": [
     {
@@ -628,7 +628,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-07T09:11:32.749Z",
+      "createdAt": "2026-10-07T10:11:32.674Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -904,7 +904,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-07T09:11:32.749Z",
+      "createdAt": "2026-10-07T10:11:32.674Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
@@ -1180,7 +1180,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-07T09:11:32.749Z",
+      "createdAt": "2026-10-07T10:11:32.674Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1258,21 +1258,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-f1-se-anticipa-que-ruanda-tendria-una-fecha-desde-2030",
-          "title": "F1: se anticipa que Ruanda tendría una fecha desde 2030",
-          "summary": "Con la incorporación de la competencia en África, el campeonato mundial repetiría su presencia en los cinco continentes como ocurrió anteriormente en 1993.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-se-anticipa-que-ruanda-tendria-una-fecha-desde-2030/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2610056-F1-Ruanda-Kigali.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-06T21:25:07.000Z",
-          "addedAt": "2026-10-06T22:11:30.582Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-desopilante-jugada-de-briatore-engano-a-todos-los-periodistas-de-la-f1-con-una-hoja-en-b",
           "title": "Desopilante jugada de Briatore: engañó a todos los periodistas de la F1 con una hoja en blanco",
           "summary": "El jefe de Alpine, que hace un mes apareció en una rueda de prensa con una hoja y denunció a McLaren por sobornar a un juez que sancionó a Gasly, volvió a salir a escena con un papel, pero esta vez fue para distraer.",
@@ -1331,6 +1316,21 @@
           "addedAt": "2026-10-04T13:11:31.134Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-f1-se-anticipa-que-ruanda-tendria-una-fecha-desde-2030",
+          "title": "F1: se anticipa que Ruanda tendría una fecha desde 2030",
+          "summary": "Con la incorporación de la competencia en África, el campeonato mundial repetiría su presencia en los cinco continentes como ocurrió anteriormente en 1993.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-se-anticipa-que-ruanda-tendria-una-fecha-desde-2030/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2610056-F1-Ruanda-Kigali.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-06T21:25:07.000Z",
+          "addedAt": "2026-10-06T22:11:30.582Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi",
@@ -1456,7 +1456,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-07T09:11:32.749Z",
+      "createdAt": "2026-10-07T10:11:32.674Z",
       "items": [
         {
           "id": "campeones-com-ar-esperado-acuerdo-multianual-se-firmo-en-la-era-dorada-del-endurance-entre-el-fia-wec-y-el-aco",
@@ -1732,7 +1732,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-07T09:11:32.749Z",
+      "createdAt": "2026-10-07T10:11:32.674Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-ignacio-fain-gano-en-san-nicolas-y-logro-su-primera-victoria-en-el-turismo-carretera-id7",
