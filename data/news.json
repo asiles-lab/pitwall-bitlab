@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-07T04:11:28.800Z",
-  "checkedAt": "2026-10-07T04:11:28.800Z",
+  "updatedAt": "2026-10-07T05:11:28.857Z",
+  "checkedAt": "2026-10-07T05:11:28.857Z",
   "pageSize": 18,
   "sources": [
     {
@@ -628,7 +628,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-07T04:11:32.802Z",
+      "createdAt": "2026-10-07T05:11:31.926Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -904,7 +904,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-07T04:11:32.802Z",
+      "createdAt": "2026-10-07T05:11:31.926Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
@@ -1180,7 +1180,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-07T04:11:32.802Z",
+      "createdAt": "2026-10-07T05:11:31.926Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1318,21 +1318,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-se-cumple-una-decada-del-ultimo-triunfo-de-ortelli-en-tc",
-          "title": "Se cumple una década del último triunfo de Ortelli en TC",
-          "summary": "El 2 de octubre de 2016, en el autódromo de Concepción del Uruguay el heptacampeón venció con un Chevrolet de JP y la preparación de Fabián Giustozzi.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/se-cumple-una-decada-del-ultimo-triunfo-de-ortelli-en-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-TC-Ortelli-CDU-2016.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-06T16:32:06.000Z",
-          "addedAt": "2026-10-06T17:11:31.761Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-esteba-ocon-piloto-formula-1-salida-escuderia-final-temporada-id763605-html",
           "title": "Un piloto de la Fórmula 1 anunció la salida de su equipo al final de la temporada",
           "summary": "Esteban Ocon, piloto de Haas desde 2025, confirmó que no formará parte de la escudería en 2027: \"Dejo este proyecto con la cabeza bien alta y orgulloso de mi rendimiento\".",
@@ -1408,6 +1393,21 @@
           "tag": "F1"
         },
         {
+          "id": "campeones-com-ar-se-cumple-una-decada-del-ultimo-triunfo-de-ortelli-en-tc",
+          "title": "Se cumple una década del último triunfo de Ortelli en TC",
+          "summary": "El 2 de octubre de 2016, en el autódromo de Concepción del Uruguay el heptacampeón venció con un Chevrolet de JP y la preparación de Fabián Giustozzi.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/se-cumple-una-decada-del-ultimo-triunfo-de-ortelli-en-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-TC-Ortelli-CDU-2016.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-06T16:32:06.000Z",
+          "addedAt": "2026-10-06T17:11:31.761Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "campeones-com-ar-andersson-triunfo-en-la-segunda-carrera-del-tcr-en-corea-urrutia-se-retraso",
           "title": "Andersson triunfó en la segunda carrera del TCR en Corea; Urrutia se retrasó | Campeones",
           "summary": "El sueco mantuvo la punta desde la largada y se llevó la competencia, escoltado por el chino Quinghua Ma y el local Junesung Park.",
@@ -1456,7 +1456,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-07T04:11:32.802Z",
+      "createdAt": "2026-10-07T05:11:31.926Z",
       "items": [
         {
           "id": "campeones-com-ar-esperado-acuerdo-multianual-se-firmo-en-la-era-dorada-del-endurance-entre-el-fia-wec-y-el-aco",
@@ -1732,7 +1732,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-07T04:11:32.802Z",
+      "createdAt": "2026-10-07T05:11:31.926Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-ignacio-fain-gano-en-san-nicolas-y-logro-su-primera-victoria-en-el-turismo-carretera-id7",
