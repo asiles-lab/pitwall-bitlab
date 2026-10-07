@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-07T01:11:28.741Z",
-  "checkedAt": "2026-10-07T01:11:28.741Z",
+  "updatedAt": "2026-10-07T02:11:28.905Z",
+  "checkedAt": "2026-10-07T02:11:28.905Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
-      "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
-      "summary": "Luego de la exclusión por técnica en Balcarce y la posterior determinación de la CAF de la ACTC, el entrerriano se expresó en el micrófono de Campeones. Además se refirió a la \"Copa de Oro\", al TC, Balcarce y más.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WernerMarianob261002.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-02T17:41:06.000Z",
-      "addedAt": "2026-10-07T01:11:30.893Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
       "title": "Geely presentó su SUV de TC2000",
@@ -643,7 +628,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-07T01:11:33.347Z",
+      "createdAt": "2026-10-07T02:11:32.459Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -919,7 +904,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-07T01:11:33.347Z",
+      "createdAt": "2026-10-07T02:11:32.460Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten",
@@ -1087,21 +1072,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-que-motivo-la-falla-en-el-bmw-de-santero-durante-la-final-de-tc-nicolena",
-          "title": "¿Qué motivó la falla en el BMW de Santero en la final de TC nicoleña?",
-          "summary": "El piloto mendocino lideraba la carrera de la 2.ª fecha de la \"Copa de Oro RUS\" hasta que apareció un inconveniente en el motor.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/que-motivo-la-falla-en-el-bmw-de-santero-durante-la-final-de-tc-nicolena/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-TC-Santero.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-06T13:58:46.000Z",
-          "addedAt": "2026-10-06T14:11:31.232Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21",
           "title": "GP de Bahrein: Verstappen larga en \"pole\", Hamilton lo escolta y Colapinto empieza 21.° | Campeones",
           "summary": "A la hora 4:00 de la madrugada argentina se pondrá en marcha la 16.ª carrera de Fórmula 1 en el circuito de Sepang, sobre 56 vueltas.",
@@ -1177,6 +1147,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-que-motivo-la-falla-en-el-bmw-de-santero-durante-la-final-de-tc-nicolena",
+          "title": "¿Qué motivó la falla en el BMW de Santero en la final de TC nicoleña?",
+          "summary": "El piloto mendocino lideraba la carrera de la 2.ª fecha de la \"Copa de Oro RUS\" hasta que apareció un inconveniente en el motor.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/que-motivo-la-falla-en-el-bmw-de-santero-durante-la-final-de-tc-nicolena/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-TC-Santero.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-06T13:58:46.000Z",
+          "addedAt": "2026-10-06T14:11:31.232Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-gasly-declaraciones-incidente-colapinto-f1-id763788-html",
           "title": "Pierre Gasly dejó atrás el incidente con Franco Colapinto: “Ya está todo bien entre nosotros”",
           "summary": "El francés explicó que no quedaron rispideces con su compañero de equipo luego del choque del último sábado en Azerbaiyán y apuntó a trabajar en conjunto para lo que viene. “Nos necesitamos mutuamente”, aseguró.",
@@ -1195,7 +1180,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-07T01:11:33.347Z",
+      "createdAt": "2026-10-07T02:11:32.460Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1438,21 +1423,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-como-es-un-ford-mustang-de-tc-por-dentro",
-          "title": "¿Cómo es un Ford Mustang de TC por dentro?",
-          "summary": "Facundo Ardusso explica al detalle las características del vehículo con el que compite y que atiende el \"Gurí Martínez Competición\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/como-es-un-ford-mustang-de-tc-por-dentro/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/FORD-MUSTANG-FACUNDO-ARDUSSO-TC-SAN-NICOLAS.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-06T01:19:21.000Z",
-          "addedAt": "2026-10-05T16:11:31.670Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
           "title": "TC: “Josito” Di Palma fue el más veloz bajo la lluvia en San Nicolás",
           "summary": "El arrecifeño del RUS Med Team, que viene de lograr la “pole position” en San Luis también en condiciones de pista húmeda, prevaleció en el primer entrenamiento de la 2ª fecha de la Copa de Oro del Turismo Carretera, del que sólo tomaron parte 20 de los 53 inscriptos.",
@@ -1466,13 +1436,7 @@
           "addedAt": "2026-10-03T14:11:27.624Z",
           "category": "general",
           "tag": "Clima"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-07T01:11:33.347Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
           "title": "TCR South America: Okulovich por Piquet Jr. como cambio de último momento",
@@ -1487,7 +1451,13 @@
           "addedAt": "2026-10-03T15:11:35.641Z",
           "category": "general",
           "tag": "Previa"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-07T02:11:32.460Z",
+      "items": [
         {
           "id": "campeones-com-ar-esperado-acuerdo-multianual-se-firmo-en-la-era-dorada-del-endurance-entre-el-fia-wec-y-el-aco",
           "title": "Esperado acuerdo multianual se firmó en la era dorada del endurance entre el WEC y el ACO",
@@ -1502,6 +1472,21 @@
           "addedAt": "2026-10-02T17:57:47.194Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-como-es-un-ford-mustang-de-tc-por-dentro",
+          "title": "¿Cómo es un Ford Mustang de TC por dentro?",
+          "summary": "Facundo Ardusso explica al detalle las características del vehículo con el que compite y que atiende el \"Gurí Martínez Competición\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/como-es-un-ford-mustang-de-tc-por-dentro/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/FORD-MUSTANG-FACUNDO-ARDUSSO-TC-SAN-NICOLAS.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-06T01:19:21.000Z",
+          "addedAt": "2026-10-05T16:11:31.670Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona",
@@ -1747,7 +1732,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-07T01:11:33.347Z",
+      "createdAt": "2026-10-07T02:11:32.460Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-ignacio-fain-gano-en-san-nicolas-y-logro-su-primera-victoria-en-el-turismo-carretera-id7",
