@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-07T16:11:29.027Z",
-  "checkedAt": "2026-10-07T16:11:29.027Z",
+  "updatedAt": "2026-10-07T17:11:29.004Z",
+  "checkedAt": "2026-10-07T17:11:29.004Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
+      "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
+      "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-HYUNDAI-POSADAS.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-03T18:45:37.000Z",
+      "addedAt": "2026-10-07T17:11:31.168Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
       "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
@@ -658,7 +673,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-07T16:11:38.186Z",
+      "createdAt": "2026-10-07T17:11:32.764Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -934,7 +949,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-07T16:11:38.186Z",
+      "createdAt": "2026-10-07T17:11:32.764Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
@@ -1210,8 +1225,38 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-07T16:11:38.186Z",
+      "createdAt": "2026-10-07T17:11:32.764Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
+          "title": "George Russell largará último en el GP de Singapur y se complica en la lucha por el título de la Fórmula 1",
+          "summary": "Luego de que su monoplaza quede varado a cinco vueltas del final en el GP de Malasia; el piloto británico será sancionado por un cambio en la unidad de potencia para la carrera en Singapur.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id764729.html",
+          "image": "https://media.tycsports.com/files/2026/10/07/993716/george-russell_1440x810.webp",
+          "body": "Luego de que su monoplaza quede varado a cinco vueltas del final en el GP de Malasia; el piloto británico será sancionado por un cambio en la unidad de potencia para la carrera en Singapur.\n\nGeorge Russell durante el GP de Bahrein en Malasia (Photo by Jayce Illman/Getty Images) + Seguinos en Mercedes atraviesa un presente brillante en la Fórmula 1, líder del campeonato de constructores y con Kimi Antonelli, uno de sus pilotos, en lo más alto del Mundial individual. Sin embargo, la actualidad de George Russell, el otro corredor de la escudería, presenta ciertas complicaciones: en el GP de Malasia su monoplaza quedó varado cuando marchaba tercero, a solo cinco vueltas del final; a esto se suma la penalización que afrontará para la jornada en Singapur .\n\nEl británico deberá largar desde el último puesto de la parrilla debido a un cambio en la unidad de potencia de su auto y superó el límite de componentes permitidos para modificar. Esta situación complica todavía más sus posibilidades de acercarse a su compañero en la pelea por el Campeonato de Pilotos, que marcha líder con 84 puntos de ventaja.\n\n“George tiene la dificultad añadida de una penalización por problemas en la unidad de potencia, lo que significa que saldrá desde la última posición de la parrilla el domingo, tras el problema de motor en Malasia. Es especialmente frustrante teniendo en cuenta cómo manejó el fin de semana pasado y el resultado por el que merecía luchar”, explicó Toto Wolff, director de Mercedes.\n\nEl accidente que sufrió en Malasia no fue el único traspié que atravesó el británico durante la temporada: en el GP de China una falla en el sistema eléctrico de su monoplaza durante la clasificación; en Japón tuvo problemas de energía durante la carrera y se vio perjudicado por la estrategia del safety c",
+          "language": "es",
+          "publishedAt": "2026-10-07T16:46:12.000Z",
+          "addedAt": "2026-10-07T17:11:31.241Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-bottas-llego-a-singapur-en-bicicleta-f1-id764731-html",
+          "title": "Un piloto de F1 cumplió su reto viral y llegó al GP de Singapur en bicicleta",
+          "summary": "Valtteri Bottas arribó este miércoles al circuito callejero de Marina Bay tras pedalear más de 400 kilómetros desde Malasia.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/bottas-llego-a-singapur-en-bicicleta-f1-id764731.html",
+          "image": "https://media.tycsports.com/files/2026/10/07/993742/botas_862x485.webp?v=1",
+          "body": "Valtteri Bottas arribó este miércoles al circuito callejero de Marina Bay tras pedalear más de 400 kilómetros desde Malasia.\n\nValtteri Bottas completó más de 400 kilómetros arriba de su bicicleta desde Malasia hasta Singapur. + Seguinos en La exótica travesía de Valtteri Bottas previa al Gran Premio de Singapur de la Fórmula 1 tuvo un final feliz. El piloto finlandés llegó este miércoles al país asiático tras recorrer en bicicleta los más de 400 kilómetros que separan Marina Bay de Sepang , sede de la última cita de la Máxima el fin de semana pasado.\n\nEl piloto de 37 años cumplió su objetivo de llegar a Singapur antes del Media Day que se desarrollará este jueves en el circuito callejero de Marina Bay. Vale la pena recordar que optó por afrontar este reto luego de la carrera en Malasia el último domingo. Mientras el resto de los pilotos se trasladaron en avión, él decidió hacerlo en su bicicleta.\n\nLo cierto es que, además de su habilidad al volante de un monoplaza de F1, Bottas también sumó experiencia en el Campeonato Mundial de Ciclismo en Grava . De hecho, su novia, Tiffany Cromwell, es una ciclista profesional australiana.\n\nImágenes captadas por Bottas durante su travesía > A través de sus redes sociales, el piloto de Cadillac fue compartiendo su travesía con sus seguidores. En las imágenes que posteó se puede apreciar que recorrió caminos de tierra, otros de asfalto y superó obstáculos difíciles como los avisos por cocodrilos. Tras tres días de aventura, completó su reto este miércoles y recibió un certificado que lo avala.",
+          "language": "es",
+          "publishedAt": "2026-10-07T17:03:02.000Z",
+          "addedAt": "2026-10-07T17:11:31.764Z",
+          "category": "general",
+          "tag": "F1"
+        },
         {
           "id": "campeones-com-ar-motogp-introduce-un-formato-al-estilo-formula-1-a-partir-de-2027",
           "title": "MotoGP introduce un formato al estilo Fórmula 1 a partir de 2027",
@@ -1423,21 +1468,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-se-cumple-una-decada-del-ultimo-triunfo-de-ortelli-en-tc",
-          "title": "Se cumple una década del último triunfo de Ortelli en TC",
-          "summary": "El 2 de octubre de 2016, en el autódromo de Concepción del Uruguay el heptacampeón venció con un Chevrolet de JP y la preparación de Fabián Giustozzi.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/se-cumple-una-decada-del-ultimo-triunfo-de-ortelli-en-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-TC-Ortelli-CDU-2016.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-06T16:32:06.000Z",
-          "addedAt": "2026-10-06T17:11:31.761Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-andersson-y-azcona-ganaron-las-ultimas-carreras-del-tcr-en-corea",
           "title": "Andersson y Azcona ganaron las últimas carreras del TCR en Corea | Campeones",
           "summary": "El sueco mantuvo la punta desde la largada y se llevó la segunda competencia, mientras que el español repitió triunfo y lidera el certamen.",
@@ -1466,7 +1496,13 @@
           "addedAt": "2026-10-04T03:11:30.910Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-07T17:11:32.764Z",
+      "items": [
         {
           "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
           "title": "TC: “Josito” Di Palma fue el más veloz bajo la lluvia en San Nicolás",
@@ -1481,13 +1517,7 @@
           "addedAt": "2026-10-03T14:11:27.624Z",
           "category": "general",
           "tag": "Clima"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-07T16:11:38.186Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
           "title": "TCR South America: Okulovich por Piquet Jr. como cambio de último momento",
@@ -1502,6 +1532,21 @@
           "addedAt": "2026-10-03T15:11:35.641Z",
           "category": "general",
           "tag": "Previa"
+        },
+        {
+          "id": "campeones-com-ar-se-cumple-una-decada-del-ultimo-triunfo-de-ortelli-en-tc",
+          "title": "Se cumple una década del último triunfo de Ortelli en TC",
+          "summary": "El 2 de octubre de 2016, en el autódromo de Concepción del Uruguay el heptacampeón venció con un Chevrolet de JP y la preparación de Fabián Giustozzi.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/se-cumple-una-decada-del-ultimo-triunfo-de-ortelli-en-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-TC-Ortelli-CDU-2016.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-06T16:32:06.000Z",
+          "addedAt": "2026-10-06T17:11:31.761Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-como-es-un-ford-mustang-de-tc-por-dentro",
@@ -1545,36 +1590,6 @@
           "language": "es",
           "publishedAt": "2026-10-04T13:44:47.000Z",
           "addedAt": "2026-10-04T14:11:37.933Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-nuevo-triunfo-de-marc-marquez-en-la-temporada-de-motogp-ahora-en-japon",
-          "title": "Nuevo triunfo de Marc Márquez en la temporada de MotoGP, ahora en Japón",
-          "summary": "Se impuso por 7.ª en el circuito de Motegi y con la Ducati consiguió quedar a dos puntos en el campeonato de Jorge Martín, quien lo escoltó con la Aprilia.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/nuevo-triunfo-de-marc-marquez-en-la-temporada-de-motogp-ahora-en-japon/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-MotoGP-Marquez-Martin.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T06:42:11.000Z",
-          "addedAt": "2026-10-04T07:11:31.673Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-eugenio-provens-por-1a-vez-al-tope-de-la-clasificacion-del-tc-pista",
-          "title": "Eugenio Provens, por 1ª vez al tope de la clasificación del TC Pista",
-          "summary": "El cordobés logró su 1ª “pole position” en la categoría al marcar el mejor tiempo en San Nicolás con el Dodge Challenger del Galarza Racing. Bautista Damiani (Chevrolet Camaro), el líder de la Copa de Plata, quedó 2º a sólo 0s020.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/eugenio-provens-por-1a-vez-al-tope-de-la-clasificacion-del-tc-pista/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Provens-TCP-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T19:07:13.000Z",
-          "addedAt": "2026-10-03T19:11:30.831Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1714,21 +1729,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido",
-          "title": "La largada entre Chapur y Santero: \"Recibí toques en un curvón rápido\"",
-          "summary": "El cordobés dijo que no le gustó la largada de la Serie de TC porque la ACTC se caracteriza por permitir maniobras \"y yo no pude doblar\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-Chapur-TC-San-Nicolas.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-07T14:00:38.000Z",
-          "addedAt": "2026-10-07T16:11:30.688Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-baldoni-toma-el-comando-en-el-intermitente-rally-de-entre-rios",
           "title": "Baldoni toma el comando en el intermitente Rally de Entre Ríos",
           "summary": "La competencia, válida por la séptima fecha del campeonato argentino, debió reprogramar su primera etapa por los pronósticos de lluvia y cerró con un Súper Especial que dominó el puntano.",
@@ -1757,13 +1757,7 @@
           "addedAt": "2026-10-04T20:11:31.443Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-07T16:11:38.186Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-ignacio-fain-gano-en-san-nicolas-y-logro-su-primera-victoria-en-el-turismo-carretera-id7",
           "title": "Ignacio Faín ganó en San Nicolás y logró su primera victoria en el Turismo Carretera",
@@ -1778,7 +1772,13 @@
           "addedAt": "2026-10-04T19:11:28.198Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-07T17:11:32.764Z",
+      "items": [
         {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
           "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
@@ -1808,6 +1808,21 @@
           "addedAt": "2026-10-04T16:11:30.994Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido",
+          "title": "La largada entre Chapur y Santero: \"Recibí toques en un curvón rápido\"",
+          "summary": "El cordobés dijo que no le gustó la largada de la Serie de TC porque la ACTC se caracteriza por permitir maniobras \"y yo no pude doblar\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-Chapur-TC-San-Nicolas.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-07T14:00:38.000Z",
+          "addedAt": "2026-10-07T16:11:30.688Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-ignacio-fain-logro-su-primera-pole-en-el-turismo-carretera-en-san-nicolas-id764227-html",
