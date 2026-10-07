@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-07T22:11:29.048Z",
-  "checkedAt": "2026-10-07T22:11:29.048Z",
+  "updatedAt": "2026-10-07T23:11:29.012Z",
+  "checkedAt": "2026-10-07T23:11:29.012Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
-      "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
-      "summary": "Luego de la exclusión por técnica en Balcarce y la posterior determinación de la CAF de la ACTC, el entrerriano se expresó en el micrófono de Campeones. Además se refirió a la \"Copa de Oro\", al TC, Balcarce y más.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WernerMarianob261002.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-02T17:41:06.000Z",
-      "addedAt": "2026-10-07T22:11:34.091Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
       "title": "Geely presentó su SUV de TC2000",
@@ -658,7 +643,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-07T22:11:36.144Z",
+      "createdAt": "2026-10-07T23:11:34.820Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -934,7 +919,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-07T22:11:36.144Z",
+      "createdAt": "2026-10-07T23:11:34.820Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
@@ -1210,7 +1195,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-07T22:11:36.144Z",
+      "createdAt": "2026-10-07T23:11:34.820Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
@@ -1486,7 +1471,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-07T22:11:36.144Z",
+      "createdAt": "2026-10-07T23:11:34.820Z",
       "items": [
         {
           "id": "campeones-com-ar-wec-mike-conway-anuncio-su-retiro-de-las-pistas",
@@ -1762,7 +1747,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-07T22:11:36.144Z",
+      "createdAt": "2026-10-07T23:11:34.820Z",
       "items": [
         {
           "id": "campeones-com-ar-franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina",
