@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-07T12:11:28.970Z",
-  "checkedAt": "2026-10-07T12:11:28.970Z",
+  "updatedAt": "2026-10-07T13:11:28.880Z",
+  "checkedAt": "2026-10-07T13:11:28.880Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
+      "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
+      "summary": "Luego de la exclusión por técnica en Balcarce y la posterior determinación de la CAF de la ACTC, el entrerriano se expresó en el micrófono de Campeones. Además se refirió a la \"Copa de Oro\", al TC, Balcarce y más.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WernerMarianob261002.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-02T17:41:06.000Z",
+      "addedAt": "2026-10-07T13:11:30.902Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
       "title": "Geely presentó su SUV de TC2000",
@@ -628,7 +643,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-07T12:11:33.241Z",
+      "createdAt": "2026-10-07T13:11:37.418Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -904,7 +919,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-07T12:11:33.241Z",
+      "createdAt": "2026-10-07T13:11:37.418Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
@@ -1042,21 +1057,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549-html",
-          "title": "Corrió con Schumacher en la F1 y ahora vende repuestos para colectivos",
-          "summary": "Esteban Tuero debutó en la máxima categoría a los 19 años, disputó una sola temporada y decidió volver a la Argentina. Después de retirarse, se dedicó al negocio familiar de autopartes para el transporte.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549.html",
-          "image": "https://media.tycsports.com/files/2026/10/06/993327/tuero-y-reutemann_1440x810.webp",
-          "body": "Esteban Tuero debutó en la máxima categoría a los 19 años, disputó una sola temporada y decidió volver a la Argentina. Después de retirarse, se dedicó al negocio familiar de autopartes para el transporte.\n\nTuero junto a Reutemann en la previa del GP de Buenos Aires. + Seguinos en A los 19 años, Esteban Tuero llegó a la Fórmula 1 y compartió la pista con Michael Schumacher . Era 1998 y el argentino se incorporaba a Minardi, donde disputó los 16 Grandes Premios de aquella temporada. Su recorrido en la máxima categoría duró apenas un año: aunque tenía la posibilidad de continuar, decidió regresar al país. Mucho después, cuando dejó definitivamente las carreras, su actividad pasó a concentrarse en otro sector de la industria automotriz : los repuestos para colectivos y camiones.\n\nEl vínculo viene de familia. Su padre, Eduardo “ Pirulo ” Tuero, también había sido piloto y estaba al frente del negocio al que Esteban le dedicó más tiempo después de retirarse. La empresa Porenz fabrica componentes para suspensiones neumáticas , utilizados en vehículos de transporte de pasajeros y de carga. Así, el trabajo con las autopartes se convirtió en su ocupación fuera de los circuitos.\n\nPara llegar a la F1, Tuero había construido una carrera que lo llevó muy joven al exterior. Fue campeón de la Fórmula Honda en 1994 y de la Fórmula 2000 italiana en 1995, antes de pasar por otras categorías y realizar pruebas con Minardi. La escudería de Faenza lo eligió para acompañar al japonés Shinji Nakano en 1998: debutó en Australia con 19 años y se convirtió, en aquel momento, en el tercer piloto más joven en estrenarse en la categoría .\n\nSu temporada estuvo condicionada por las limitaciones del Minardi y los abandonos. El mejor resultado llegó en el Gran Premio de San Marino, donde terminó octavo,",
-          "language": "es",
-          "publishedAt": "2026-10-06T12:33:46.000Z",
-          "addedAt": "2026-10-06T13:11:32.116Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-colapinto-sobre-el-gp-de-singapur-las-condiciones-realmente-premian-el-compromiso",
           "title": "Colapinto sobre el GP de Singapur: «Las condiciones realmente premian el compromiso»",
           "summary": "El argentino se prepara para participar en uno de los fines de semana más exigentes del calendario, aunque dijo que las características del circuito «hace que sea uno de mis favoritos del año».",
@@ -1175,12 +1175,27 @@
           "addedAt": "2026-10-02T16:23:12.895Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549-html",
+          "title": "Corrió con Schumacher en la F1 y ahora vende repuestos para colectivos",
+          "summary": "Esteban Tuero debutó en la máxima categoría a los 19 años, disputó una sola temporada y decidió volver a la Argentina. Después de retirarse, se dedicó al negocio familiar de autopartes para el transporte.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549.html",
+          "image": "https://media.tycsports.com/files/2026/10/06/993327/tuero-y-reutemann_1440x810.webp",
+          "body": "Esteban Tuero debutó en la máxima categoría a los 19 años, disputó una sola temporada y decidió volver a la Argentina. Después de retirarse, se dedicó al negocio familiar de autopartes para el transporte.\n\nTuero junto a Reutemann en la previa del GP de Buenos Aires. + Seguinos en A los 19 años, Esteban Tuero llegó a la Fórmula 1 y compartió la pista con Michael Schumacher . Era 1998 y el argentino se incorporaba a Minardi, donde disputó los 16 Grandes Premios de aquella temporada. Su recorrido en la máxima categoría duró apenas un año: aunque tenía la posibilidad de continuar, decidió regresar al país. Mucho después, cuando dejó definitivamente las carreras, su actividad pasó a concentrarse en otro sector de la industria automotriz : los repuestos para colectivos y camiones.\n\nEl vínculo viene de familia. Su padre, Eduardo “ Pirulo ” Tuero, también había sido piloto y estaba al frente del negocio al que Esteban le dedicó más tiempo después de retirarse. La empresa Porenz fabrica componentes para suspensiones neumáticas , utilizados en vehículos de transporte de pasajeros y de carga. Así, el trabajo con las autopartes se convirtió en su ocupación fuera de los circuitos.\n\nPara llegar a la F1, Tuero había construido una carrera que lo llevó muy joven al exterior. Fue campeón de la Fórmula Honda en 1994 y de la Fórmula 2000 italiana en 1995, antes de pasar por otras categorías y realizar pruebas con Minardi. La escudería de Faenza lo eligió para acompañar al japonés Shinji Nakano en 1998: debutó en Australia con 19 años y se convirtió, en aquel momento, en el tercer piloto más joven en estrenarse en la categoría .\n\nSu temporada estuvo condicionada por las limitaciones del Minardi y los abandonos. El mejor resultado llegó en el Gran Premio de San Marino, donde terminó octavo,",
+          "language": "es",
+          "publishedAt": "2026-10-06T12:33:46.000Z",
+          "addedAt": "2026-10-06T13:11:32.116Z",
+          "category": "argentino",
+          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-07T12:11:33.241Z",
+      "createdAt": "2026-10-07T13:11:37.418Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1226,6 +1241,21 @@
           "addedAt": "2026-10-02T17:57:42.858Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf",
+          "title": "Habilitación a probar en el TC y más, en un nuevo comunicado de la CAF | Campeones",
+          "summary": "Nicolás Impiombato podrá ensayar por vía de excepción en el autódromo Roberto Mouras de La Plata.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/4e81ef9a-855b-465c-9e72-7364f42b8bc0.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-07T12:36:24.000Z",
+          "addedAt": "2026-10-07T13:11:30.912Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-bottas-formula-1-bicicleta-gp-singapur-id764495-html",
@@ -1436,7 +1466,13 @@
           "addedAt": "2026-10-03T14:11:27.624Z",
           "category": "general",
           "tag": "Clima"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-07T13:11:37.418Z",
+      "items": [
         {
           "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
           "title": "TCR South America: Okulovich por Piquet Jr. como cambio de último momento",
@@ -1451,27 +1487,6 @@
           "addedAt": "2026-10-03T15:11:35.641Z",
           "category": "general",
           "tag": "Previa"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-07T12:11:33.241Z",
-      "items": [
-        {
-          "id": "campeones-com-ar-esperado-acuerdo-multianual-se-firmo-en-la-era-dorada-del-endurance-entre-el-fia-wec-y-el-aco",
-          "title": "Esperado acuerdo multianual se firmó en la era dorada del endurance entre el WEC y el ACO",
-          "summary": "El World Endurance Championship y el Automobile Club de l'Ouest dominan la escena mundial de las carreras de resistencia.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/esperado-acuerdo-multianual-se-firmo-en-la-era-dorada-del-endurance-entre-el-fia-wec-y-el-aco/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/WEC-Largada-2026-FOTO-DPPI.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-09-30T12:24:35.000Z",
-          "addedAt": "2026-10-02T17:57:47.194Z",
-          "category": "general",
-          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-como-es-un-ford-mustang-de-tc-por-dentro",
@@ -1684,21 +1699,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-atencion-argentina-ciudad-del-cabo-avanza-para-tener-la-formula-1",
-          "title": "Atención Argentina: Ciudad del Cabo avanza para tener la Fórmula 1 | Campeones",
-          "summary": "El proyecto para que dicha ciudad reciba el retorno de Sudáfrica al Mundial tuvo un importante paso adelante con la asociación de sus responsables con un grupo económico que ayudará a financiar este Gran Premio que compite con Argentina para entrar en el próximo calendario.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/atencion-argentina-ciudad-del-cabo-avanza-para-tener-la-formula-1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/cape-town-gp-layou.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-09-30T12:51:37.000Z",
-          "addedAt": "2026-10-02T17:57:42.339Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina",
           "title": "Franco Ledesma ganó en San Nicolás y descuenta puntos en la F2 Argentina | Campeones",
           "summary": "El marplatense aventajó en el giro inicial a Lautaro Videla y se llevó la cuarta victoria en el año.",
@@ -1727,13 +1727,7 @@
           "addedAt": "2026-10-04T20:11:31.443Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-07T12:11:33.241Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-ignacio-fain-gano-en-san-nicolas-y-logro-su-primera-victoria-en-el-turismo-carretera-id7",
           "title": "Ignacio Faín ganó en San Nicolás y logró su primera victoria en el Turismo Carretera",
@@ -1748,7 +1742,13 @@
           "addedAt": "2026-10-04T19:11:28.198Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-07T13:11:37.418Z",
+      "items": [
         {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
           "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
@@ -2001,6 +2001,21 @@
           "language": "es",
           "publishedAt": "2026-10-04T16:28:01.000Z",
           "addedAt": "2026-10-04T17:11:31.516Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-atencion-argentina-ciudad-del-cabo-avanza-para-tener-la-formula-1",
+          "title": "Atención Argentina: Ciudad del Cabo avanza para tener la Fórmula 1 | Campeones",
+          "summary": "El proyecto para que dicha ciudad reciba el retorno de Sudáfrica al Mundial tuvo un importante paso adelante con la asociación de sus responsables con un grupo económico que ayudará a financiar este Gran Premio que compite con Argentina para entrar en el próximo calendario.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/atencion-argentina-ciudad-del-cabo-avanza-para-tener-la-formula-1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/cape-town-gp-layou.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-09-30T12:51:37.000Z",
+          "addedAt": "2026-10-02T17:57:42.339Z",
           "category": "argentino",
           "tag": "Argentino"
         }
