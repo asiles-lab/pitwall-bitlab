@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-07T19:11:26.994Z",
-  "checkedAt": "2026-10-07T19:11:26.994Z",
+  "updatedAt": "2026-10-07T20:11:29.047Z",
+  "checkedAt": "2026-10-07T20:11:29.047Z",
   "pageSize": 18,
   "sources": [
     {
@@ -643,7 +643,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-07T19:11:29.000Z",
+      "createdAt": "2026-10-07T20:11:36.263Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -919,7 +919,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-07T19:11:29.000Z",
+      "createdAt": "2026-10-07T20:11:36.263Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
@@ -1195,7 +1195,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-07T19:11:29.000Z",
+      "createdAt": "2026-10-07T20:11:36.263Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
@@ -1423,21 +1423,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-un-mustang-cero-kilometro-se-acerca-a-la-orbita-del-tc",
-          "title": "Un Mustang cero kilómetro se acerca a la órbita del TC",
-          "summary": "El TCM Racing Team encara el armado de un nuevo vehículo para afrontar el 2027, que dividirá entre el Turismo Carretera y el TC Pista.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/un-mustang-cero-kilometro-se-acerca-a-la-orbita-del-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/CAITO-RISATTI-TCM-RACING-TEAM-e1791315177282.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-06T19:45:05.000Z",
-          "addedAt": "2026-10-06T20:11:35.533Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-andersson-y-azcona-ganaron-las-ultimas-carreras-del-tcr-en-corea",
           "title": "Andersson y Azcona ganaron las últimas carreras del TCR en Corea | Campeones",
           "summary": "El sueco mantuvo la punta desde la largada y se llevó la segunda competencia, mientras que el español repitió triunfo y lidera el certamen.",
@@ -1466,13 +1451,7 @@
           "addedAt": "2026-10-04T03:11:30.910Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-07T19:11:29.000Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
           "title": "TC: “Josito” Di Palma fue el más veloz bajo la lluvia en San Nicolás",
@@ -1487,7 +1466,13 @@
           "addedAt": "2026-10-03T14:11:27.624Z",
           "category": "general",
           "tag": "Clima"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-07T20:11:36.263Z",
+      "items": [
         {
           "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
           "title": "TCR South America: Okulovich por Piquet Jr. como cambio de último momento",
@@ -1502,6 +1487,21 @@
           "addedAt": "2026-10-03T15:11:35.641Z",
           "category": "general",
           "tag": "Previa"
+        },
+        {
+          "id": "campeones-com-ar-un-mustang-cero-kilometro-se-acerca-a-la-orbita-del-tc",
+          "title": "Un Mustang cero kilómetro se acerca a la órbita del TC",
+          "summary": "El TCM Racing Team encara el armado de un nuevo vehículo para afrontar el 2027, que dividirá entre el Turismo Carretera y el TC Pista.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/un-mustang-cero-kilometro-se-acerca-a-la-orbita-del-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/CAITO-RISATTI-TCM-RACING-TEAM-e1791315177282.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-06T19:45:05.000Z",
+          "addedAt": "2026-10-06T20:11:35.533Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-se-cumple-una-decada-del-ultimo-triunfo-de-ortelli-en-tc",
@@ -1714,21 +1714,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352-html",
-          "title": "La Copa de Oro del TC tiene nuevo líder tras la fecha de San Nicolás",
-          "summary": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992877/chapur-tomo-el-mando-de-la-copa-de-oro-tras-un-domingo-clave-en-san-nicolas_862x485.webp",
-          "body": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.\n\nEl piloto de Torino pasó a liderar el playoff después del abandono de Werner y quedó seguido de cerca por Santero y Fritzler. + Seguinos en La fecha del Turismo Carretera en San Nicolás modificó por completo el panorama de la Copa de Oro. Después de una final marcada por la primera victoria de Ignacio Faín y el abandono de Mariano Werner, Facundo Chapur pasó a ser el nuevo líder del campeonato. Chapur terminó segundo en la final detrás de su compañero Faín y alcanzó los 82,5 puntos, resultado que le permitió desplazar a Werner de la cima. El entrerriano, que había llegado a San Nicolás como puntero, abandonó en la vuelta 11 y cayó considerablemente en la tabla.\n\nMuy cerca del nuevo líder aparece Julián Santero con 81 unidades. El mendocino todavía no forma parte oficialmente de la Copa de Oro, pero está en zona de ingreso mediante el sistema de los “3 de último minuto” y sus puntos acumulados durante el playoff lo mantienen de lleno en la pelea.\n\nEl tercero es Otto Fritzler , quien finalizó cuarto en San Nicolás y llegó a los 78 puntos, apenas 4,5 por detrás de Chapur . Más atrás aparecen Josito Di Palma con 69,5 y Agustín Canapino con 63, luego de terminar 11° en la final.\n\nFaín , gracias a su victoria, alcanzó los 59 puntos, la misma cantidad que Werner . Jonatan Castellano quedó con 58,5 y Marco Dianda con 55,5.",
-          "language": "es",
-          "publishedAt": "2026-10-04T19:20:18.000Z",
-          "addedAt": "2026-10-04T20:11:31.443Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
           "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
           "summary": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué…",
@@ -1742,13 +1727,7 @@
           "addedAt": "2026-10-02T22:34:53.320Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-07T19:11:29.000Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina",
           "title": "Franco Ledesma ganó en San Nicolás y descuenta puntos en la F2 Argentina | Campeones",
@@ -1763,7 +1742,13 @@
           "addedAt": "2026-10-04T16:11:30.994Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-07T20:11:36.263Z",
+      "items": [
         {
           "id": "campeones-com-ar-la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido",
           "title": "La largada entre Chapur y Santero: \"Recibí toques en un curvón rápido\"",
@@ -1776,6 +1761,21 @@
           "language": "es",
           "publishedAt": "2026-10-07T14:00:38.000Z",
           "addedAt": "2026-10-07T16:11:30.688Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352-html",
+          "title": "La Copa de Oro del TC tiene nuevo líder tras la fecha de San Nicolás",
+          "summary": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992877/chapur-tomo-el-mando-de-la-copa-de-oro-tras-un-domingo-clave-en-san-nicolas_862x485.webp",
+          "body": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.\n\nEl piloto de Torino pasó a liderar el playoff después del abandono de Werner y quedó seguido de cerca por Santero y Fritzler. + Seguinos en La fecha del Turismo Carretera en San Nicolás modificó por completo el panorama de la Copa de Oro. Después de una final marcada por la primera victoria de Ignacio Faín y el abandono de Mariano Werner, Facundo Chapur pasó a ser el nuevo líder del campeonato. Chapur terminó segundo en la final detrás de su compañero Faín y alcanzó los 82,5 puntos, resultado que le permitió desplazar a Werner de la cima. El entrerriano, que había llegado a San Nicolás como puntero, abandonó en la vuelta 11 y cayó considerablemente en la tabla.\n\nMuy cerca del nuevo líder aparece Julián Santero con 81 unidades. El mendocino todavía no forma parte oficialmente de la Copa de Oro, pero está en zona de ingreso mediante el sistema de los “3 de último minuto” y sus puntos acumulados durante el playoff lo mantienen de lleno en la pelea.\n\nEl tercero es Otto Fritzler , quien finalizó cuarto en San Nicolás y llegó a los 78 puntos, apenas 4,5 por detrás de Chapur . Más atrás aparecen Josito Di Palma con 69,5 y Agustín Canapino con 63, luego de terminar 11° en la final.\n\nFaín , gracias a su victoria, alcanzó los 59 puntos, la misma cantidad que Werner . Jonatan Castellano quedó con 58,5 y Marco Dianda con 55,5.",
+          "language": "es",
+          "publishedAt": "2026-10-04T19:20:18.000Z",
+          "addedAt": "2026-10-04T20:11:31.443Z",
           "category": "argentino",
           "tag": "Argentino"
         },
