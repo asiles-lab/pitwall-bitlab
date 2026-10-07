@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-06T23:11:25.667Z",
-  "checkedAt": "2026-10-06T23:11:25.667Z",
+  "updatedAt": "2026-10-07T00:11:26.837Z",
+  "checkedAt": "2026-10-07T00:11:26.837Z",
   "pageSize": 18,
   "sources": [
     {
@@ -385,21 +385,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-wec-ferrari-gano-las-6-h-de-austin-en-dramatico-final-el-lexus-de-pechito-lopez-termino-13",
-      "title": "WEC: Ferrari ganó en dramático final; el Lexus GT3 de \"Pechito\" López terminó 13.°",
-      "summary": "La escuadra italiana se impuso con Nielsen, Fuoco y Molina restando quince minutos por una falla en el Toyota de Conway, de Vries y Kobayashi.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/wec-ferrari-gano-las-6-h-de-austin-en-dramatico-final-el-lexus-de-pechito-lopez-termino-13/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260906-WEC-COTA-AF-FERRARI-START.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-09-07T00:10:21.000Z",
-      "addedAt": "2026-10-06T18:11:34.658Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-agustin-canapino-gano-la-final-del-turismo-carretera-en-neuquen-en-una-carrera-accidenta",
       "title": "Agustín Canapino ganó la final del Turismo Carretera en Neuquén en una carrera accidentada",
       "summary": "El Titán de Arrecifes aprovechó el problema que tuvo Matías Rossi y se convirtió en el primer piloto en ganar dos veces en ese autódromo.",
@@ -550,6 +535,21 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-wec-ferrari-gano-las-6-h-de-austin-en-dramatico-final-el-lexus-de-pechito-lopez-termino-13",
+      "title": "WEC: Ferrari ganó en dramático final; el Lexus GT3 de \"Pechito\" López terminó 13.°",
+      "summary": "La escuadra italiana se impuso con Nielsen, Fuoco y Molina restando quince minutos por una falla en el Toyota de Conway, de Vries y Kobayashi.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/wec-ferrari-gano-las-6-h-de-austin-en-dramatico-final-el-lexus-de-pechito-lopez-termino-13/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260906-WEC-COTA-AF-FERRARI-START.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-09-07T00:10:21.000Z",
+      "addedAt": "2026-10-06T18:11:34.658Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-bohdanowicz-festejo-su-anhelada-1a-victoria-en-turismo-carretera-2000",
       "title": "Bohdanowicz festejó su anhelada 1ª victoria en Turismo Carretera 2000",
       "summary": "El chaqueño del ACRA Ambrogio Racing se impuso de punta a punta en la carrera sabatina de la 9ª fecha, que se disputa en Termas de Río Hondo. Andrés Jakos (Toyota Corolla) yMario Valle (Honda Civic) completaron el podio multimarca.",
@@ -628,7 +628,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-06T23:11:31.297Z",
+      "createdAt": "2026-10-07T00:11:33.226Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -904,7 +904,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-06T23:11:31.297Z",
+      "createdAt": "2026-10-07T00:11:33.226Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
@@ -1180,7 +1180,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-06T23:11:31.297Z",
+      "createdAt": "2026-10-07T00:11:33.226Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1243,21 +1243,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-wec-mike-conway-anuncio-su-retiro-de-las-pistas",
-          "title": "WEC: Mike Conway anunció su retiro de las pistas",
-          "summary": "El británico, bicampeón mundial en WEC y ganador en dos ediciones de las 24h de Le Mans, cerrará una exitosa campaña profesional.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/wec-mike-conway-anuncio-su-retiro-de-las-pistas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-WEC-Conway.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-06T20:27:47.000Z",
-          "addedAt": "2026-10-06T21:11:27.103Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-bottas-formula-1-bicicleta-gp-singapur-id764495-html",
           "title": "Un piloto de F1 viaja de Malasia a Singapur en bicicleta",
           "summary": "El finlandés descartó viajar en avión después de correr en Sepang y emprendió una travesía por etapas rumbo al circuito de Marina Bay, donde deberá cumplir con la actividad oficial desde el jueves.",
@@ -1299,6 +1284,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T15:01:28.000Z",
           "addedAt": "2026-10-02T16:23:12.760Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-wec-mike-conway-anuncio-su-retiro-de-las-pistas",
+          "title": "WEC: Mike Conway anunció su retiro de las pistas",
+          "summary": "El británico, bicampeón mundial en WEC y ganador en dos ediciones de las 24h de Le Mans, cerrará una exitosa campaña profesional.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/wec-mike-conway-anuncio-su-retiro-de-las-pistas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-WEC-Conway.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-06T20:27:47.000Z",
+          "addedAt": "2026-10-06T21:11:27.103Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1456,7 +1456,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-06T23:11:31.297Z",
+      "createdAt": "2026-10-07T00:11:33.226Z",
       "items": [
         {
           "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
@@ -1654,21 +1654,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-esta-noche-grandes-campeones-69",
-          "title": "Esta noche: Grandes Campeones",
-          "summary": "Martes a las 22 hs: Osvaldo «Cocho» López, Ángel Guerra, Gabriel Raies y José Luis Di Palma por El Garage TV y en simultáneo por nuestra web.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/esta-noche-grandes-campeones-69/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/02/GRANDES-CAMPEONES-2025-GUERRA-COCHO-LOPEZ-RAIES-DI-PALMA.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-06T20:50:58.000Z",
-          "addedAt": "2026-10-06T23:11:26.412Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-baldoni-toma-el-comando-en-el-intermitente-rally-de-entre-rios",
           "title": "Baldoni toma el comando en el intermitente Rally de Entre Ríos",
           "summary": "La competencia, válida por la séptima fecha del campeonato argentino, debió reprogramar su primera etapa por los pronósticos de lluvia y cerró con un Súper Especial que dominó el puntano.",
@@ -1727,13 +1712,7 @@
           "addedAt": "2026-10-04T20:11:31.443Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-06T23:11:31.297Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-ignacio-fain-gano-en-san-nicolas-y-logro-su-primera-victoria-en-el-turismo-carretera-id7",
           "title": "Ignacio Faín ganó en San Nicolás y logró su primera victoria en el Turismo Carretera",
@@ -1748,7 +1727,13 @@
           "addedAt": "2026-10-04T19:11:28.198Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-07T00:11:33.226Z",
+      "items": [
         {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
           "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
@@ -1765,17 +1750,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-tc-el-resultado-que-se-dio-por-apenas-7a-vez-en-50-anos",
-          "title": "TC: el resultado que se dio por apenas 7ª vez en 50 años",
-          "summary": "Ignacio Fain y Facundo Chapur protagonizaron el primer “1-2” de Torino en el Turismo Carretera desde el Premio Coronación 2022, que a su vez resultó el primero de los “Toros” de nueva generación.",
+          "id": "campeones-com-ar-esta-noche-grandes-campeones-69",
+          "title": "Esta noche: Grandes Campeones",
+          "summary": "Martes a las 22 hs: Osvaldo «Cocho» López, Ángel Guerra, Gabriel Raies y José Luis Di Palma por El Garage TV y en simultáneo por nuestra web.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-el-resultado-que-se-dio-por-apenas-7a-vez-en-50-anos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Chapur-Fain-Santero-Podio-TC-2026.jpg",
+          "url": "https://campeones.com.ar/esta-noche-grandes-campeones-69/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/02/GRANDES-CAMPEONES-2025-GUERRA-COCHO-LOPEZ-RAIES-DI-PALMA.jpeg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-06T12:07:30.000Z",
-          "addedAt": "2026-10-06T12:11:31.195Z",
+          "publishedAt": "2026-10-06T20:50:58.000Z",
+          "addedAt": "2026-10-06T23:11:26.412Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1836,6 +1821,21 @@
           "language": "es",
           "publishedAt": "2026-10-04T14:30:48.000Z",
           "addedAt": "2026-10-04T15:11:38.851Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-tc-el-resultado-que-se-dio-por-apenas-7a-vez-en-50-anos",
+          "title": "TC: el resultado que se dio por apenas 7ª vez en 50 años",
+          "summary": "Ignacio Fain y Facundo Chapur protagonizaron el primer “1-2” de Torino en el Turismo Carretera desde el Premio Coronación 2022, que a su vez resultó el primero de los “Toros” de nueva generación.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-el-resultado-que-se-dio-por-apenas-7a-vez-en-50-anos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Chapur-Fain-Santero-Podio-TC-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-06T12:07:30.000Z",
+          "addedAt": "2026-10-06T12:11:31.195Z",
           "category": "argentino",
           "tag": "Argentino"
         },
