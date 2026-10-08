@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T14:11:29.293Z",
-  "checkedAt": "2026-10-08T14:11:29.293Z",
+  "updatedAt": "2026-10-08T15:11:27.264Z",
+  "checkedAt": "2026-10-08T15:11:27.264Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,36 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido",
+      "title": "La largada entre Chapur y Santero: \"Recibí toques en un curvón rápido\"",
+      "summary": "El cordobés dijo que no le gustó la largada de la Serie de TC porque la ACTC se caracteriza por permitir maniobras \"y yo no pude doblar\".",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-Chapur-TC-San-Nicolas.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-07T14:00:38.000Z",
+      "addedAt": "2026-10-08T15:11:33.179Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
+      "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
+      "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-HYUNDAI-POSADAS.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-03T18:45:37.000Z",
+      "addedAt": "2026-10-08T15:11:33.650Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
       "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
@@ -658,8 +688,23 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-08T14:11:33.218Z",
+      "createdAt": "2026-10-08T15:11:42.306Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-emocion-franco-colapinto-retiro-lionel-messi-seleccion-argentina-id764889-html",
+          "title": "La emoción de Franco Colapinto por el retiro de Lionel Messi de la Selección: “Lloré un rato”",
+          "summary": "En la previa del GP de Singapur, el pilarense contó sus sensaciones por la despedida del astro rosarino. “Fue un momento emotivo para toda la Argentina”, expresó.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/emocion-franco-colapinto-retiro-lionel-messi-seleccion-argentina-id764889.html",
+          "image": "https://media.tycsports.com/files/2026/10/08/994059/franco_862x485.webp?v=1",
+          "body": "En la previa del GP de Singapur, el pilarense contó sus sensaciones por la despedida del astro rosarino. “Fue un momento emotivo para toda la Argentina”, expresó.\n\nFranco Colapinto y Lionel Messi se encontraron en la previa del Gran Premio de Miami. + Seguinos en Franco Colapinto contó sus sensaciones sobre cómo vivió la despedida de Lionel Messi de la Selección Argentina este jueves en el marco del Media Day del Gran Premio de Singapur de la Fórmula 1. “Lloré un rato” , reveló el piloto argentino.\n\n“Fue un momento muy emotivo para toda la Argentina”, comentó el corredor de Alpine en diálogo con ESPN en el paddock del circuito callejero de Marina Bay. Aunque confesó que suele ser muy sensible con este tipo de situaciones, bromeó y dijo que “el que no se emocionó con la despedida de Leo está mal”.\n\nEl pilarense catalogó el retiro del astro rosarino de la Albiceleste como “una tristeza muy grande”, pero también explicó que, luego de la victoria de los dirigidos por Lionel Scaloni 3-0 ante Benín en el Monumental, cambió rápidamente el chip: “Basta de fútbol. Ahora a enfocarse en el automovilismo y a tener un buen finde acá en Singapur”.\n\nEl mismo martes, luego del partido, el piloto de 23 años también había posteado una foto suya en sus historias de Instagram con la camiseta del conjunto nacional y el 19 en el dorso, la primera que la Pulga utilizó en la Albiceleste. “Adiós” , fue su mensaje para homenajear al mejor jugador de todos los tiempos, con quien se encontró en la previa del Gran Premio de Miami.",
+          "language": "es",
+          "publishedAt": "2026-10-08T14:30:43.000Z",
+          "addedAt": "2026-10-08T15:11:28.692Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
           "title": "Por qué Colapinto larga 21° si clasificó 15° en el GP de Malasia de la F1",
@@ -751,21 +796,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-broma-singapur-recordo-final-mundial-id764845-html",
-          "title": "La broma de Colapinto en el GP de Singapur que recordó la final del Mundial: \"Esa camiseta está mal\"",
-          "summary": "El piloto argentino de Alpine, con memoria futbolera, le soltó una frase a un hincha con la camiseta de España que no necesita explicación.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-broma-singapur-recordo-final-mundial-id764845.html",
-          "image": "https://media.tycsports.com/files/2026/10/08/993994/la-broma-de-colapinto-a-un-hincha-espanol-en-singapur-que-recordo-la-final-del-mundial-esa-camiseta-esta-mal_416x234.webp?v=1",
-          "body": "El piloto argentino de Alpine, con memoria futbolera, le soltó una frase a un hincha con la camiseta de España que no necesita explicación.\n\nLa broma de Colapinto a un hincha español en Singapur que recordó la final del Mundial: \"Esa camiseta está mal\" + Seguinos en Franco Colapinto está en Singapur para el Gran Premio, pero encontró la manera de hablar de fútbol. El piloto de Alpine se cruzó con un hincha que llevaba puesta la casaca de España y la reacción fue inmediata: \"Esa camiseta está mal.\" La frase, cargada de humor, pero con la herida de la final del Mundial 2026 todavía fresca — cuando La Rpja derrotó a Argentina por 1-0 —, desató risas y terminó con el fanático reconociendo que él también hincha por la Albiceleste.\n\nEl video lo publicó la cuenta oficial de la escudería francesa y no tardó en circular. En las imágenes se ve a Colapinto frente a un hincha que lleva puesta la camiseta de la selección española, y el piloto no necesita mucho tiempo para reaccionar. Lejos de incomodarse, el simpatizante respondió con buena onda al intercambio. El momento derivó en risas y terminó con una declaración que el piloto argentino supo capitalizar: e l español confesó que, en el fondo, también hincha por Argentina. Misión cumplida. Alpine eligió ese clip para publicarlo con una frase que ya sintetiza lo que el pilarense genera donde quiera que vaya: \"Podemos estar en Singapur, pero para Franco siempre es Argentina.\" No es la primera vez que Colapinto convierte una parada del calendario en una pequeña embajada argentina. A lo largo de la temporada, su popularidad dentro y fuera de la pista hizo que los encuentros con hinchas se volvieran una constante en cada ciudad que visita.\n\nEl GP de Singapur se disputa en el circuito urbano de Marina Bay, uno de los más exigentes del c",
-          "language": "es",
-          "publishedAt": "2026-10-08T12:00:37.000Z",
-          "addedAt": "2026-10-08T12:11:34.255Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-singapur-id764556",
           "title": "F1: hora y dónde ver en vivo la práctica libre de Colapinto en el GP de Singapur",
           "summary": "Este viernes se desarrollará la única sesión de entrenamiento de la fecha debido a que es un fin de semana que incluye carrera sprint, el último de la temporada 2026.",
@@ -796,17 +826,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur",
-          "title": "\"Es importante estar delante de los Racing Bulls\", lanza Colapinto como objetivo en Singapur",
-          "summary": "El argentino analizó las últimas carreras, donde el Alpine fue competitivo: \"Singapur es otra oportunidad para sumar puntos\"",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Singapur-foto-piloto.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-colapinto-broma-singapur-recordo-final-mundial-id764845-html",
+          "title": "La broma de Colapinto en el GP de Singapur que recordó la final del Mundial: \"Esa camiseta está mal\"",
+          "summary": "El piloto argentino de Alpine, con memoria futbolera, le soltó una frase a un hincha con la camiseta de España que no necesita explicación.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-broma-singapur-recordo-final-mundial-id764845.html",
+          "image": "https://media.tycsports.com/files/2026/10/08/993994/la-broma-de-colapinto-a-un-hincha-espanol-en-singapur-que-recordo-la-final-del-mundial-esa-camiseta-esta-mal_416x234.webp?v=1",
+          "body": "El piloto argentino de Alpine, con memoria futbolera, le soltó una frase a un hincha con la camiseta de España que no necesita explicación.\n\nLa broma de Colapinto a un hincha español en Singapur que recordó la final del Mundial: \"Esa camiseta está mal\" + Seguinos en Franco Colapinto está en Singapur para el Gran Premio, pero encontró la manera de hablar de fútbol. El piloto de Alpine se cruzó con un hincha que llevaba puesta la casaca de España y la reacción fue inmediata: \"Esa camiseta está mal.\" La frase, cargada de humor, pero con la herida de la final del Mundial 2026 todavía fresca — cuando La Rpja derrotó a Argentina por 1-0 —, desató risas y terminó con el fanático reconociendo que él también hincha por la Albiceleste.\n\nEl video lo publicó la cuenta oficial de la escudería francesa y no tardó en circular. En las imágenes se ve a Colapinto frente a un hincha que lleva puesta la camiseta de la selección española, y el piloto no necesita mucho tiempo para reaccionar. Lejos de incomodarse, el simpatizante respondió con buena onda al intercambio. El momento derivó en risas y terminó con una declaración que el piloto argentino supo capitalizar: e l español confesó que, en el fondo, también hincha por Argentina. Misión cumplida. Alpine eligió ese clip para publicarlo con una frase que ya sintetiza lo que el pilarense genera donde quiera que vaya: \"Podemos estar en Singapur, pero para Franco siempre es Argentina.\" No es la primera vez que Colapinto convierte una parada del calendario en una pequeña embajada argentina. A lo largo de la temporada, su popularidad dentro y fuera de la pista hizo que los encuentros con hinchas se volvieran una constante en cada ciudad que visita.\n\nEl GP de Singapur se disputa en el circuito urbano de Marina Bay, uno de los más exigentes del c",
           "language": "es",
-          "publishedAt": "2026-10-08T11:26:30.000Z",
-          "addedAt": "2026-10-08T12:11:33.749Z",
+          "publishedAt": "2026-10-08T12:00:37.000Z",
+          "addedAt": "2026-10-08T12:11:34.255Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -837,6 +867,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T20:37:34.000Z",
           "addedAt": "2026-10-02T21:06:55.272Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur",
+          "title": "\"Es importante estar delante de los Racing Bulls\", lanza Colapinto como objetivo en Singapur",
+          "summary": "El argentino analizó las últimas carreras, donde el Alpine fue competitivo: \"Singapur es otra oportunidad para sumar puntos\"",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Singapur-foto-piloto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T11:26:30.000Z",
+          "addedAt": "2026-10-08T12:11:33.749Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -914,7 +959,13 @@
           "addedAt": "2026-10-03T18:11:30.466Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-08T15:11:42.306Z",
+      "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y largará último en el Gran Premio de Bahrein",
@@ -929,13 +980,7 @@
           "addedAt": "2026-10-03T09:12:02.953Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-08T14:11:33.218Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
           "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
@@ -1053,21 +1098,6 @@
           "language": "es",
           "publishedAt": "2026-10-04T21:25:18.000Z",
           "addedAt": "2026-10-04T22:11:31.068Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792-h",
-          "title": "Además de Colapinto, sancionaron a otro piloto de cara al GP de Malasia",
-          "summary": "Arvid Lindblad tendrá que arrancar desde el fondo de la parrilla este fin de semana por cambios en la unidad de potencia de su monoplaza.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792.html",
-          "image": "https://media.tycsports.com/files/2026/10/01/991999/arvid-lindblad_1440x810.webp?v=1",
-          "body": "Arvid Lindblad tendrá que arrancar desde el fondo de la parrilla este fin de semana por cambios en la unidad de potencia de su monoplaza.\n\nArvid Lindblad tendrá que cumplir una sanción en el GP de Malasia (Getty Images) + Seguinos en En la antesala del Gran Premio de Bahrein de la Fórmula 1, se confirmó que, además de Franco Colapinto , Arvid Lindblad también será penalizado en la parrilla de salida. El piloto de RB Formula One Team tendrá que salir desde el fondo por cambios en la unidad de potencia de su monoplaza.\n\nMientras que Colapinto deberá cumplir una sanción de cinco posiciones por el choque que provocó en la carrera del GP de Azerbaiyán, Lindblad superará su asignación de componentes de la unidad de potencia para este fin de semana: utilizará un quinto motor de combustión interna, turbocompresor y escapes.\n\nLa escudería consideró que el GP de Malasia era la mejor oportunidad para hacer esta modificación del tren motriz y superar las sanciones aplicadas. Pese a haber usado un nuevo conjunto de \"componentes auxiliares \" de la unidad de potencia en Bakú, no había superado el límite de seis conjuntos de piezas auxiliares permitidos en una temporada . Ahora, con estos cambios sí lo harán.\n\nEl Gran Premio de Malasia se desarrollará entre el viernes 2 y el domingo 4 de octubre en el circuito de Sepang. El viernes serán las primeras prácticas libres , el sábado la FP3 y la clasificación y el domingo desde las 4, la carrera.",
-          "language": "es",
-          "publishedAt": "2026-10-01T15:10:47.000Z",
-          "addedAt": "2026-10-02T16:23:12.854Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1210,7 +1240,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-08T14:11:33.218Z",
+      "createdAt": "2026-10-08T15:11:42.306Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
@@ -1273,32 +1303,17 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc",
-          "title": "Palazzo repasó su triunfo en Balcarce con el TC Pick Up y analizó su presente en TC | Campeones",
-          "summary": "El piloto de Pinamar visitó los estudios de Campeones y contó cómo vivió la cita en el \"Juan Manuel Fangio\" de Balcarce, cercano a su Pinamar natal. Además, el reglamento del TC y cómo está Toyota, marca la cual defiende.",
+          "id": "campeones-com-ar-tc2000-en-toay-primera-experiencia-en-el-circuito-corto",
+          "title": "TC2000 en Toay: primera experiencia en el circuito corto",
+          "summary": "En su segunda visita del año al Autódromo Provincia de La Pampa, la categoría estará cumpliendo con la novena fecha del año.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/HDKDFptbQAA_rpU.jpg",
+          "url": "https://campeones.com.ar/tc2000-en-toay-primera-experiencia-en-el-circuito-corto/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261008-TC2000-Toay.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-08T12:00:40.000Z",
-          "addedAt": "2026-10-08T12:11:34.319Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-tc-2027-los-escenarios-que-se-perfilan-para-el-arranque-y-los-que-quedarian-afuera",
-          "title": "TC 2027: los escenarios que se perfilan para el arranque y los que quedarían afuera | Campeones",
-          "summary": "La ACTC comienza a delinear el campeonato próximo, que comenzaría en Rosario y luego continuaría en el sur del país.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-2027-los-escenarios-que-se-perfilan-para-el-arranque-y-los-que-quedarian-afuera/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SaveClip.App_659031295_18581409331038057_5176446201726833752_n-1-1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T11:59:45.000Z",
-          "addedAt": "2026-10-08T12:11:34.636Z",
+          "publishedAt": "2026-10-08T14:19:00.000Z",
+          "addedAt": "2026-10-08T15:11:33.418Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1361,6 +1376,36 @@
           "addedAt": "2026-10-07T14:11:30.578Z",
           "category": "general",
           "tag": "Clasificacion"
+        },
+        {
+          "id": "campeones-com-ar-palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc",
+          "title": "Palazzo repasó su triunfo en Balcarce con el TC Pick Up y analizó su presente en TC | Campeones",
+          "summary": "El piloto de Pinamar visitó los estudios de Campeones y contó cómo vivió la cita en el \"Juan Manuel Fangio\" de Balcarce, cercano a su Pinamar natal. Además, el reglamento del TC y cómo está Toyota, marca la cual defiende.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/HDKDFptbQAA_rpU.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T12:00:40.000Z",
+          "addedAt": "2026-10-08T12:11:34.319Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc-2027-los-escenarios-que-se-perfilan-para-el-arranque-y-los-que-quedarian-afuera",
+          "title": "TC 2027: los escenarios que se perfilan para el arranque y los que quedarían afuera | Campeones",
+          "summary": "La ACTC comienza a delinear el campeonato próximo, que comenzaría en Rosario y luego continuaría en el sur del país.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-2027-los-escenarios-que-se-perfilan-para-el-arranque-y-los-que-quedarian-afuera/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SaveClip.App_659031295_18581409331038057_5176446201726833752_n-1-1.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T11:59:45.000Z",
+          "addedAt": "2026-10-08T12:11:34.636Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas",
@@ -1466,7 +1511,13 @@
           "addedAt": "2026-10-03T15:11:35.641Z",
           "category": "general",
           "tag": "Previa"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-08T15:11:42.306Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -1481,13 +1532,7 @@
           "addedAt": "2026-10-02T17:54:07.788Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-08T14:11:33.218Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-f1-se-anticipa-que-ruanda-tendria-una-fecha-desde-2030",
           "title": "F1: se anticipa que Ruanda tendría una fecha desde 2030",
@@ -1560,21 +1605,6 @@
           "language": "es",
           "publishedAt": "2026-10-06T16:32:06.000Z",
           "addedAt": "2026-10-06T17:11:31.761Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-como-es-un-ford-mustang-de-tc-por-dentro",
-          "title": "¿Cómo es un Ford Mustang de TC por dentro?",
-          "summary": "Facundo Ardusso explica al detalle las características del vehículo con el que compite y que atiende el \"Gurí Martínez Competición\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/como-es-un-ford-mustang-de-tc-por-dentro/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/FORD-MUSTANG-FACUNDO-ARDUSSO-TC-SAN-NICOLAS.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-06T01:19:21.000Z",
-          "addedAt": "2026-10-05T16:11:31.670Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1744,6 +1774,27 @@
           "tag": "Argentino"
         },
         {
+          "id": "www-tycsports-com-automovilismo-ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792-h",
+          "title": "Además de Colapinto, sancionaron a otro piloto de cara al GP de Malasia",
+          "summary": "Arvid Lindblad tendrá que arrancar desde el fondo de la parrilla este fin de semana por cambios en la unidad de potencia de su monoplaza.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792.html",
+          "image": "https://media.tycsports.com/files/2026/10/01/991999/arvid-lindblad_1440x810.webp?v=1",
+          "body": "Arvid Lindblad tendrá que arrancar desde el fondo de la parrilla este fin de semana por cambios en la unidad de potencia de su monoplaza.\n\nArvid Lindblad tendrá que cumplir una sanción en el GP de Malasia (Getty Images) + Seguinos en En la antesala del Gran Premio de Bahrein de la Fórmula 1, se confirmó que, además de Franco Colapinto , Arvid Lindblad también será penalizado en la parrilla de salida. El piloto de RB Formula One Team tendrá que salir desde el fondo por cambios en la unidad de potencia de su monoplaza.\n\nMientras que Colapinto deberá cumplir una sanción de cinco posiciones por el choque que provocó en la carrera del GP de Azerbaiyán, Lindblad superará su asignación de componentes de la unidad de potencia para este fin de semana: utilizará un quinto motor de combustión interna, turbocompresor y escapes.\n\nLa escudería consideró que el GP de Malasia era la mejor oportunidad para hacer esta modificación del tren motriz y superar las sanciones aplicadas. Pese a haber usado un nuevo conjunto de \"componentes auxiliares \" de la unidad de potencia en Bakú, no había superado el límite de seis conjuntos de piezas auxiliares permitidos en una temporada . Ahora, con estos cambios sí lo harán.\n\nEl Gran Premio de Malasia se desarrollará entre el viernes 2 y el domingo 4 de octubre en el circuito de Sepang. El viernes serán las primeras prácticas libres , el sábado la FP3 y la clasificación y el domingo desde las 4, la carrera.",
+          "language": "es",
+          "publishedAt": "2026-10-01T15:10:47.000Z",
+          "addedAt": "2026-10-02T16:23:12.854Z",
+          "category": "argentino",
+          "tag": "Franco"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-08T15:11:42.306Z",
+      "items": [
+        {
           "id": "www-tycsports-com-automovilismo-asi-quedo-colapinto-en-el-campeonato-de-destructores-en-la-formula-1-tras-su-accidente-e",
           "title": "Así quedó Colapinto en el \"campeonato de destructores\" en la Fórmula 1 tras su accidente en Azerbaiyán",
           "summary": "El piloto argentino protagonizó en Bakú un choque triple con Pierre Gasly y Lando Norris. Los tres debieron abandonar y Alpine deberá desembolsar millones en arreglos.",
@@ -1757,27 +1808,6 @@
           "addedAt": "2026-10-02T16:23:12.957Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-08T14:11:33.218Z",
-      "items": [
-        {
-          "id": "campeones-com-ar-en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad",
-          "title": "En marzo se estrenaría el circuito de Buenos Aires con el Campeonato Argentino de Velocidad",
-          "summary": "En la previa del GP de Buenos Aires de MotoGP (fechado para el 11 de abril) habrá una cita del CAM, el 12, 13 y 14 de marzo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/Autodromo-Palco-Froilan-Gonzalez.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-05T14:49:55.000Z",
-          "addedAt": "2026-10-05T15:11:31.193Z",
-          "category": "argentino",
-          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-para-tener-un-camaro-con-kilos-estamos-bien-analizo-canapino-tras-el-tc-en-san-nicolas",
@@ -1791,6 +1821,21 @@
           "language": "es",
           "publishedAt": "2026-10-07T20:50:47.000Z",
           "addedAt": "2026-10-07T15:11:30.384Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad",
+          "title": "En marzo se estrenaría el circuito de Buenos Aires con el Campeonato Argentino de Velocidad",
+          "summary": "En la previa del GP de Buenos Aires de MotoGP (fechado para el 11 de abril) habrá una cita del CAM, el 12, 13 y 14 de marzo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/Autodromo-Palco-Froilan-Gonzalez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-05T14:49:55.000Z",
+          "addedAt": "2026-10-05T15:11:31.193Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -2018,21 +2063,6 @@
           "addedAt": "2026-10-03T14:11:27.611Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-los-argentinos-tienen-por-objetivo-estar-en-los-podios-del-rally-de-marruecos",
-          "title": "Los argentinos disputan por un lugar en los podios del Rally de Marruecos",
-          "summary": "En la penúltima etapa Benavides se retrasó por una caída en Motos, Andújar descuenta en Challenger y González Ferioli mantiene la vanguardia en SSV. Ekström se impone en Autos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/los-argentinos-tienen-por-objetivo-estar-en-los-podios-del-rally-de-marruecos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-W2RC-FIA-Andujar-Frini.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T18:08:30.000Z",
-          "addedAt": "2026-10-02T19:06:32.267Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     }
