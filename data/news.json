@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T02:11:29.097Z",
-  "checkedAt": "2026-10-08T02:11:29.097Z",
+  "updatedAt": "2026-10-08T03:11:29.061Z",
+  "checkedAt": "2026-10-08T03:11:29.061Z",
   "pageSize": 18,
   "sources": [
     {
@@ -643,7 +643,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-08T02:11:33.032Z",
+      "createdAt": "2026-10-08T03:11:36.337Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -919,7 +919,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-08T02:11:33.032Z",
+      "createdAt": "2026-10-08T03:11:36.337Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
@@ -1195,7 +1195,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-08T02:11:33.032Z",
+      "createdAt": "2026-10-08T03:11:36.337Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
@@ -1471,7 +1471,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-08T02:11:33.032Z",
+      "createdAt": "2026-10-08T03:11:36.337Z",
       "items": [
         {
           "id": "campeones-com-ar-wec-mike-conway-anuncio-su-retiro-de-las-pistas",
@@ -1624,21 +1624,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-para-tener-un-camaro-con-kilos-estamos-bien-analizo-canapino-tras-el-tc-en-san-nicolas",
-          "title": "“Para tener un Camaro con kilos estamos bien”, analizó Canapino tras el TC en San Nicolás",
-          "summary": "La evaluación del piloto de Arrecifes es positiva desde el punto de vista de la marca que representa, aunque no fue contundente en la carrera.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/para-tener-un-camaro-con-kilos-estamos-bien-analizo-canapino-tras-el-tc-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-ACTC-Chevrolet.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-07T14:50:47.000Z",
-          "addedAt": "2026-10-07T15:11:30.384Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-que-motivo-la-falla-en-el-bmw-de-santero-durante-la-final-de-tc-nicolena",
           "title": "¿Qué motivó la falla en el BMW de Santero en la final de TC nicoleña?",
           "summary": "El piloto mendocino lideraba la carrera de la 2.ª fecha de la \"Copa de Oro RUS\" hasta que apareció un inconveniente en el motor.",
@@ -1714,6 +1699,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-para-tener-un-camaro-con-kilos-estamos-bien-analizo-canapino-tras-el-tc-en-san-nicolas",
+          "title": "“Para tener un Camaro con kilos estamos bien”, analizó Canapino tras el TC en San Nicolás",
+          "summary": "La evaluación del piloto de Arrecifes es positiva desde el punto de vista de la marca que representa, aunque no fue contundente en la carrera.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/para-tener-un-camaro-con-kilos-estamos-bien-analizo-canapino-tras-el-tc-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-ACTC-Chevrolet.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-07T14:50:47.000Z",
+          "addedAt": "2026-10-07T15:11:30.384Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-baldoni-toma-el-comando-en-el-intermitente-rally-de-entre-rios",
           "title": "Baldoni toma el comando en el intermitente Rally de Entre Ríos",
           "summary": "La competencia, válida por la séptima fecha del campeonato argentino, debió reprogramar su primera etapa por los pronósticos de lluvia y cerró con un Súper Especial que dominó el puntano.",
@@ -1747,7 +1747,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-08T02:11:33.032Z",
+      "createdAt": "2026-10-08T03:11:36.337Z",
       "items": [
         {
           "id": "campeones-com-ar-franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina",
