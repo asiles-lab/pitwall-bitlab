@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T00:11:29.068Z",
-  "checkedAt": "2026-10-08T00:11:29.068Z",
+  "updatedAt": "2026-10-08T01:09:13.192Z",
+  "checkedAt": "2026-10-08T01:09:13.192Z",
   "pageSize": 18,
   "sources": [
     {
@@ -643,7 +643,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-08T00:11:33.047Z",
+      "createdAt": "2026-10-08T01:09:20.423Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -919,7 +919,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-08T00:11:33.047Z",
+      "createdAt": "2026-10-08T01:09:20.423Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
@@ -1195,7 +1195,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-08T00:11:33.047Z",
+      "createdAt": "2026-10-08T01:09:20.423Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
@@ -1318,21 +1318,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf",
-          "title": "Habilitación a probar en el TC y más, en un nuevo comunicado de la CAF | Campeones",
-          "summary": "Nicolás Impiombato podrá ensayar por vía de excepción en el autódromo Roberto Mouras de La Plata.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/4e81ef9a-855b-465c-9e72-7364f42b8bc0.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-07T12:36:24.000Z",
-          "addedAt": "2026-10-07T13:11:30.912Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas",
           "title": "Así quedó la Copa de Oro de TC con Chapur líder luego de San Nicolás",
           "summary": "Con el segundo puesto en el '1-2' de Torino, el cordobés se trepó a la cima del 'playoff' a falta de tres carreras para el cierre.",
@@ -1374,6 +1359,21 @@
           "language": "es",
           "publishedAt": "2026-10-03T17:19:06.000Z",
           "addedAt": "2026-10-03T18:11:30.923Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf",
+          "title": "Habilitación a probar en el TC y más, en un nuevo comunicado de la CAF | Campeones",
+          "summary": "Nicolás Impiombato podrá ensayar por vía de excepción en el autódromo Roberto Mouras de La Plata.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/4e81ef9a-855b-465c-9e72-7364f42b8bc0.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-07T12:36:24.000Z",
+          "addedAt": "2026-10-07T13:11:30.912Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1471,7 +1471,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-08T00:11:33.047Z",
+      "createdAt": "2026-10-08T01:09:20.423Z",
       "items": [
         {
           "id": "campeones-com-ar-wec-mike-conway-anuncio-su-retiro-de-las-pistas",
@@ -1747,7 +1747,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-08T00:11:33.047Z",
+      "createdAt": "2026-10-08T01:09:20.423Z",
       "items": [
         {
           "id": "campeones-com-ar-franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina",
