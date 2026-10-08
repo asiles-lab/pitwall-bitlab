@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T01:09:13.192Z",
-  "checkedAt": "2026-10-08T01:09:13.192Z",
+  "updatedAt": "2026-10-08T02:11:29.097Z",
+  "checkedAt": "2026-10-08T02:11:29.097Z",
   "pageSize": 18,
   "sources": [
     {
@@ -643,7 +643,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-08T01:09:20.423Z",
+      "createdAt": "2026-10-08T02:11:33.032Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -919,7 +919,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-08T01:09:20.423Z",
+      "createdAt": "2026-10-08T02:11:33.032Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
@@ -1195,7 +1195,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-08T01:09:20.423Z",
+      "createdAt": "2026-10-08T02:11:33.032Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
@@ -1228,21 +1228,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-motogp-introduce-un-formato-al-estilo-formula-1-a-partir-de-2027",
-          "title": "MotoGP introduce un formato al estilo Fórmula 1 a partir de 2027",
-          "summary": "Inspirado en fines de semana en que la F1 tiene carreras Sprint, el mundial de motociclismo tendrá dos clasificaciones para la clase mayor.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/motogp-introduce-un-formato-al-estilo-formula-1-a-partir-de-2027/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MotoGP-largada-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-07T13:43:48.000Z",
-          "addedAt": "2026-10-07T14:11:30.578Z",
-          "category": "general",
-          "tag": "Clasificacion"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
           "title": "Por qué se retrasó la largada del GP de Malasia de la Fórmula 1",
           "summary": "Una fuerte tormenta azotó el Circuito de Sepang y obligó a la Dirección de Carrera a postergar la salida. La intensa lluvia dejó el asfalto en condiciones impracticables y generó además una fuerte actividad eléctrica en la zona.",
@@ -1256,6 +1241,21 @@
           "addedAt": "2026-10-04T08:11:31.664Z",
           "category": "general",
           "tag": "Clima"
+        },
+        {
+          "id": "campeones-com-ar-motogp-introduce-un-formato-al-estilo-formula-1-a-partir-de-2027",
+          "title": "MotoGP introduce un formato al estilo Fórmula 1 a partir de 2027",
+          "summary": "Inspirado en fines de semana en que la F1 tiene carreras Sprint, el mundial de motociclismo tendrá dos clasificaciones para la clase mayor.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/motogp-introduce-un-formato-al-estilo-formula-1-a-partir-de-2027/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MotoGP-largada-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-07T13:43:48.000Z",
+          "addedAt": "2026-10-07T14:11:30.578Z",
+          "category": "general",
+          "tag": "Clasificacion"
         },
         {
           "id": "campeones-com-ar-el-susto-que-tuvo-rus-med-team-antes-de-la-carrera-de-tc-en-san-nicolas",
@@ -1471,7 +1471,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-08T01:09:20.423Z",
+      "createdAt": "2026-10-08T02:11:33.032Z",
       "items": [
         {
           "id": "campeones-com-ar-wec-mike-conway-anuncio-su-retiro-de-las-pistas",
@@ -1747,7 +1747,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-08T01:09:20.423Z",
+      "createdAt": "2026-10-08T02:11:33.032Z",
       "items": [
         {
           "id": "campeones-com-ar-franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina",
@@ -1763,21 +1763,6 @@
           "addedAt": "2026-10-04T16:11:30.994Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido",
-          "title": "La largada entre Chapur y Santero: \"Recibí toques en un curvón rápido\"",
-          "summary": "El cordobés dijo que no le gustó la largada de la Serie de TC porque la ACTC se caracteriza por permitir maniobras \"y yo no pude doblar\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-Chapur-TC-San-Nicolas.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-07T14:00:38.000Z",
-          "addedAt": "2026-10-07T16:11:30.688Z",
-          "category": "argentino",
-          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352-html",
@@ -1821,6 +1806,21 @@
           "language": "es",
           "publishedAt": "2026-10-03T20:12:36.000Z",
           "addedAt": "2026-10-03T21:11:31.686Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido",
+          "title": "La largada entre Chapur y Santero: \"Recibí toques en un curvón rápido\"",
+          "summary": "El cordobés dijo que no le gustó la largada de la Serie de TC porque la ACTC se caracteriza por permitir maniobras \"y yo no pude doblar\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-Chapur-TC-San-Nicolas.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-07T14:00:38.000Z",
+          "addedAt": "2026-10-07T16:11:30.688Z",
           "category": "argentino",
           "tag": "Argentino"
         },
