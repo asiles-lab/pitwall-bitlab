@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T22:11:29.203Z",
-  "checkedAt": "2026-10-08T22:11:29.203Z",
+  "updatedAt": "2026-10-08T23:11:27.351Z",
+  "checkedAt": "2026-10-08T23:11:27.351Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido",
+      "title": "La largada entre Chapur y Santero: \"Recibí toques en un curvón rápido\"",
+      "summary": "El cordobés dijo que no le gustó la largada de la Serie de TC porque la ACTC se caracteriza por permitir maniobras \"y yo no pude doblar\".",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-Chapur-TC-San-Nicolas.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-07T14:00:38.000Z",
+      "addedAt": "2026-10-08T23:11:32.318Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
       "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
@@ -703,7 +718,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-08T22:12:00.617Z",
+      "createdAt": "2026-10-08T23:11:34.281Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-emocion-franco-colapinto-retiro-lionel-messi-seleccion-argentina-id764889-html",
@@ -751,21 +766,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-singapur-id764556",
-          "title": "F1: hora y dónde ver en vivo la práctica libre de Colapinto en el GP de Singapur",
-          "summary": "Este viernes se desarrollará la única sesión de entrenamiento de la fecha debido a que es un fin de semana que incluye carrera sprint, el último de la temporada 2026.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-singapur-id764556.html",
-          "image": "https://media.tycsports.com/files/2026/10/06/993337/gp-de-singapur_862x485.webp?v=2",
-          "body": "Este viernes se desarrollará la única sesión de entrenamiento de la fecha debido a que es un fin de semana que incluye carrera sprint, el último de la temporada 2026.\n\nFranco Colapinto. + Seguinos en La temporada 2026 de la Fórmula 1, que tiene como líder a Kimi Antonelli (Mercedes), tendrá este fin de semana su decimoséptima fecha en el marco del Gran Premio de Singapur , que se corre en el circuito urbano de Marina Bay, y tendrá la presencia de Franco Colapinto a bordo de su Alpine, que viene de terminar 13º en Malasia. Este viernes se llevará a cabo la única sesión de práctica libre de la jornada debido a que es una fecha que incluye carrera sprint, la última del año. Conocé los detalles.\n\nEl circuito de Marina Bay una pista urbana con el famoso horizonte de la ciudad como espectacular telón de fondo. El diseño inicial del circuito, obra de Hernán Tilke, fue perfeccionado por KBR Inc., y el evento se consolidó rápidamente como uno de los más destacados del calendario de la Fórmula 1. En 2008, Singapur tuvo el honor de albergar la primera carrera nocturna de la historia de la categoría, con uno de los circuitos más exigentes físicamente del calendario. Su superficie irregular, junto con la humedad, obliga a los pilotos a pensar mucho. Incluso después de la modificación del trazado en 2023, que redujo el número de curvas de 23 a 19, siguen trabajando mucho el volante en las vueltas de alta velocidad.\n\nEste fin de semana se podrá seguir la Fórmula 1 en vivo a través de Disney+, la plataforma digital de ESPN, la cual se contrata previo registro a través de la página web por $24.390 final por mes. Además, vas a poder seguir el minuto a minuto de la competición en el sitio web www.tycsports.com .",
-          "language": "es",
-          "publishedAt": "2026-10-08T19:57:48.000Z",
-          "addedAt": "2026-10-08T11:11:31.372Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-gp-malasia-colapinto-esperanza-declaraciones-qualy-15-largada-21-id764169-html",
           "title": "Colapinto, entre la resignación y la esperanza: \"Era lo que esperábamos, pero se puede remontar\"",
           "summary": "El piloto argentino terminó 15° en la clasificación para la carrera del domingo pero largará 21° por las penalizaciones que arrastra.",
@@ -807,6 +807,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T23:24:40.000Z",
           "addedAt": "2026-10-03T01:03:50.878Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-singapur-id764556",
+          "title": "F1: hora y dónde ver en vivo la práctica libre de Colapinto en el GP de Singapur",
+          "summary": "Este viernes se desarrollará la única sesión de entrenamiento de la fecha debido a que es un fin de semana que incluye carrera sprint, el último de la temporada 2026.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-singapur-id764556.html",
+          "image": "https://media.tycsports.com/files/2026/10/06/993337/gp-de-singapur_862x485.webp?v=2",
+          "body": "Este viernes se desarrollará la única sesión de entrenamiento de la fecha debido a que es un fin de semana que incluye carrera sprint, el último de la temporada 2026.\n\nFranco Colapinto. + Seguinos en La temporada 2026 de la Fórmula 1, que tiene como líder a Kimi Antonelli (Mercedes), tendrá este fin de semana su decimoséptima fecha en el marco del Gran Premio de Singapur , que se corre en el circuito urbano de Marina Bay, y tendrá la presencia de Franco Colapinto a bordo de su Alpine, que viene de terminar 13º en Malasia. Este viernes se llevará a cabo la única sesión de práctica libre de la jornada debido a que es una fecha que incluye carrera sprint, la última del año. Conocé los detalles.\n\nEl circuito de Marina Bay una pista urbana con el famoso horizonte de la ciudad como espectacular telón de fondo. El diseño inicial del circuito, obra de Hernán Tilke, fue perfeccionado por KBR Inc., y el evento se consolidó rápidamente como uno de los más destacados del calendario de la Fórmula 1. En 2008, Singapur tuvo el honor de albergar la primera carrera nocturna de la historia de la categoría, con uno de los circuitos más exigentes físicamente del calendario. Su superficie irregular, junto con la humedad, obliga a los pilotos a pensar mucho. Incluso después de la modificación del trazado en 2023, que redujo el número de curvas de 23 a 19, siguen trabajando mucho el volante en las vueltas de alta velocidad.\n\nEste fin de semana se podrá seguir la Fórmula 1 en vivo a través de Disney+, la plataforma digital de ESPN, la cual se contrata previo registro a través de la página web por $24.390 final por mes. Además, vas a poder seguir el minuto a minuto de la competición en el sitio web www.tycsports.com .",
+          "language": "es",
+          "publishedAt": "2026-10-08T19:57:48.000Z",
+          "addedAt": "2026-10-08T11:11:31.372Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -979,7 +994,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-08T22:12:00.617Z",
+      "createdAt": "2026-10-08T23:11:34.281Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
@@ -1098,21 +1113,6 @@
           "language": "es",
           "publishedAt": "2026-10-02T16:04:47.000Z",
           "addedAt": "2026-10-02T16:23:12.642Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-le-respondio-a-lando-norris-y-se-quejo-de-los-ataques-en-redes-siempre-",
-          "title": "Franco Colapinto le respondió a Lando Norris y se quejó de los ataques en redes: \"Siempre se apunta a los argentinos\"",
-          "summary": "En la antesala del GP de Malasia, el piloto de Alpine se refirió a las críticas del de McLaren y habló de las especulaciones sobre su futuro en la F1.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-le-respondio-a-lando-norris-y-se-quejo-de-los-ataques-en-redes-siempre-se-apunta-a-los-argentinos-id763771.html",
-          "image": "https://media.tycsports.com/files/2026/10/01/991963/franco-colapinto_1440x810.webp",
-          "body": "En la antesala del GP de Malasia, el piloto de Alpine se refirió a las críticas del de McLaren y habló de las especulaciones sobre su futuro en la F1.\n\nFranco Colapinto se sorprendió por las declaraciones de Lando Norris en su contra (Getty Images) + Seguinos en Tras las polémicas declaraciones de Lando Norris contra Franco Colapinto luego de la carrera del Gran Premio de Azerbaiyán de la Fórmula 1, el piloto argentino le respondió al británico y habló de las críticas que recibe en las redes sociales.\n\nColapinto reveló que los dichos del piloto de McLaren lo sorprendieron y afirmó que \"se pasó tres pueblos\", pero lo justificó: \"Creo que estaba en el calor del momento. Por supuesto, sabe qué tipo de comentarios genera eso porque él mismo lo sufrió. Probablemente haya sido el piloto que más habló sobre el odio hace un par de años, apenas unas temporadas atrás. Así que me sorprendió un poco, pero después, por supuesto, se disculpó \".\n\n\" Desafortunadamente, él también recibió mucho odio por eso . Es una situación complicada con el mundo exterior. Por eso creo que tenemos que cuidarnos con las cosas que decimos . Entiendo que, en el calor del momento, uno diga cosas así\" .\n\nPese a la crítica de Norris, Colapinto tuvo el respaldo de Max Verstappen y George Russell y, ante eso, deslizó entre risas: \" Creo que está bien que Lando haya logrado que Max y George estén de acuerdo por una vez. Son simplemente diferentes tipos de reacciones. Y, por supuesto, ellos han estado en situaciones diferentes\".",
-          "language": "es",
-          "publishedAt": "2026-10-01T22:32:02.000Z",
-          "addedAt": "2026-10-02T16:23:12.799Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1250,13 +1250,43 @@
           "addedAt": "2026-10-02T16:23:13.438Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336-html",
+          "title": "F1: horarios y el cronograma completo del GP de Malasia",
+          "summary": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336.html",
+          "image": "https://media.tycsports.com/files/2026/09/28/991324/gp-de-malasia_862x485.webp?v=1",
+          "body": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nGP de Malasia + Seguinos en El Campeonato Mundial de la Fórmula 1 se trasladó a Malasia debido a los conflictos bélicos en Medio Oriente, donde se disputa el Gran Premio de Bahréin , correspondiente a la 16ª fecha, luego del triunfo de George Russell en Azerbaiyán. También contará con la presencia de Franco Colapinto a bordo de su Alpine, que viene de protagonizar un choque con Gasly y abandonar en Bakú . Conocé el cronograma completo .\n\nLas primeras sesiones de prácticas tuvieron al argentino en los puestos 19 y 22 respectivamente , con el trabajo del equipo enfocado en estudiar el comportamiento del monoplaza con una nueva unidad de potencia y otros componentes actualizados. Debido a estos cambios, la FIA le impuso una nueva penalización de 10 puestos, que se suman a los cinco recibidos por el incidente en Azerbaiyán, por lo que Franco perderá 15 lugares respecto a su clasificación y tendrá que correr de atrás el domingo .\n\nEl Circuito de Sepang es uno de los màs completos de la Fórmula 1. Su amplio trazado combina largas rectas, zonas de frenada intensa y una variedad de curvas rápidas y fluidas, lo que permite a los pilotos atacar desde múltiples trazadas. El circuito es conocido por su calor y humedad, y los repentinos aguaceros tropicales pueden cambiar las condiciones en un instante. Entre las secciones más destacadas se encuentran la larga curva que une las curvas 5 y 6, y la singular horquilla final de la curva 15 que desemboca en la recta principal.",
+          "language": "es",
+          "publishedAt": "2026-10-02T10:38:59.000Z",
+          "addedAt": "2026-10-02T16:23:12.886Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-08T22:12:00.617Z",
+      "createdAt": "2026-10-08T23:11:34.281Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
+          "title": "Lewis Hamilton señaló a los pilotos jóvenes de la Fórmula 1: ¿le tienen miedo a la lluvia?",
+          "summary": "El británico lamentó que \"las carreras en mojado ya no son lo mismo de antes\" y lo atribuyó en parte al respeto de los nuevos protagonistas a conducir en condiciones extremas. \"Prefieren no correr\", los liquidó.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020.html",
+          "image": "https://media.tycsports.com/files/2026/09/18/989073/lewis-hamilton_1440x810.webp?v=1",
+          "body": "El británico lamentó que \"las carreras en mojado ya no son lo mismo de antes\" y lo atribuyó en parte al respeto de los nuevos protagonistas a conducir en condiciones extremas. \"Prefieren no correr\", los liquidó.\n\nHamilton, sin pelos en la lengua en una declaración que promete repercusiones (Getty Images: Jayce Illman). + Seguinos en La seguridad en condiciones extremas volvió a instalarse en el centro del debate de la Fórmula 1. Ahora, Lewis Hamilton inició una polémica grieta generacional al cuestionar la postura de los pilotos más jóvenes ante las carreras con lluvia y apuntó contra el criterio conservador que, a su entender, adoptan tanto los competidores como las autoridades de la categoría.\n\nDurante el día de prensa del Gran Premio de Singapur, el siete veces campeón del mundo se refirió a lo ocurrido en Sepang, donde la lluvia primero retrasó el inicio de la carrera y luego provocó una falla de software que alteró el desarrollo de la competencia. “Las carreras en mojado ya no son lo mismo que antes, sin duda”, sostuvo en diálogo con RacingNews365 y Motorsport. El representante de Ferrari reconoció que las precipitaciones incrementan los peligros, aunque remarcó que disfruta de ese tipo de desafíos. “Creo que los organizadores son mucho más cautelosos, pero también es cierto que los jóvenes pilotos que se incorporan son cada vez más precavidos ”, señaló.\n\nEn esa línea, el británico marcó diferencias entre las distintas generaciones de la parrilla. “Los pilotos de la vieja escuela decimos: ‘¡Vamos a correr!’, mientras que los más jóvenes prefieren no correr. Así que reciben información contradictoria y, además , son extremadamente cautelosos ”, expresó.\n\nPara el experimentado piloto de 41 años, la lluvia representa una oportunidad para demostrar el talento al volant",
+          "language": "es",
+          "publishedAt": "2026-10-08T22:56:36.000Z",
+          "addedAt": "2026-10-08T23:11:32.156Z",
+          "category": "general",
+          "tag": "Clima"
+        },
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
           "title": "George Russell largará último en el GP de Singapur y se complica en la lucha por el título de la Fórmula 1",
@@ -1286,21 +1316,6 @@
           "addedAt": "2026-10-04T08:11:31.664Z",
           "category": "general",
           "tag": "Clima"
-        },
-        {
-          "id": "campeones-com-ar-si-fuera-mazzacane-haria-el-coronacion-de-tc-en-balcarce",
-          "title": "«Si fuera Mazzacane haría el Coronación de TC en Balcarce»",
-          "summary": "Uno de los campeones de Turismo Carretera, Norberto Fontana consideró que con las mejoras en el circuito de \"La Barrosa\" podría correr nuevamente la categoría.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/si-fuera-mazzacane-haria-el-coronacion-de-tc-en-balcarce/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/26108-TCPUp-Balcarce.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T20:06:24.000Z",
-          "addedAt": "2026-10-08T20:11:09.979Z",
-          "category": "general",
-          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-bottas-llego-a-singapur-en-bicicleta-f1-id764731-html",
@@ -1361,6 +1376,21 @@
           "addedAt": "2026-10-07T14:11:30.578Z",
           "category": "general",
           "tag": "Clasificacion"
+        },
+        {
+          "id": "campeones-com-ar-si-fuera-mazzacane-haria-el-coronacion-de-tc-en-balcarce",
+          "title": "«Si fuera Mazzacane haría el Coronación de TC en Balcarce»",
+          "summary": "Uno de los campeones de Turismo Carretera, Norberto Fontana consideró que con las mejoras en el circuito de \"La Barrosa\" podría correr nuevamente la categoría.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/si-fuera-mazzacane-haria-el-coronacion-de-tc-en-balcarce/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/26108-TCPUp-Balcarce.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T20:06:24.000Z",
+          "addedAt": "2026-10-08T20:11:09.979Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-facundo-aldrighetti-ante-la-nueva-experiencia-de-tc2000-en-toay",
@@ -1511,7 +1541,13 @@
           "addedAt": "2026-10-04T13:11:31.134Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-08T23:11:34.281Z",
+      "items": [
         {
           "id": "campeones-com-ar-andersson-triunfo-en-la-segunda-carrera-del-tcr-en-corea-urrutia-se-retraso",
           "title": "Andersson triunfó en la segunda carrera del TCR en Corea; Urrutia se retrasó | Campeones",
@@ -1526,13 +1562,7 @@
           "addedAt": "2026-10-04T03:11:30.910Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-08T22:12:00.617Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
           "title": "TC: “Josito” Di Palma fue el más veloz bajo la lluvia en San Nicolás",
@@ -1609,34 +1639,19 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf",
-          "title": "Habilitación a probar en el TC y más, en un nuevo comunicado de la CAF | Campeones",
-          "summary": "Nicolás Impiombato podrá ensayar por vía de excepción en el autódromo Roberto Mouras de La Plata.",
+          "id": "campeones-com-ar-los-argentinos-y-campeones-presentes-en-viterbo",
+          "title": "Los argentinos y Campeones, presentes en Viterbo | Campeones",
+          "summary": "Italia es el país elegido para la cita mundialista de la Copa Mundial de Karting de la FIA 2026 y Martín Saa, Salvador Echarri, Agustín Pizarro y Joaquín Gorlero Pizarro están presentes.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/4e81ef9a-855b-465c-9e72-7364f42b8bc0.jpeg",
+          "url": "https://campeones.com.ar/los-argentinos-y-campeones-presentes-en-viterbo/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9867.jpeg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-07T12:36:24.000Z",
-          "addedAt": "2026-10-07T13:11:30.912Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336-html",
-          "title": "F1: horarios y el cronograma completo del GP de Malasia",
-          "summary": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336.html",
-          "image": "https://media.tycsports.com/files/2026/09/28/991324/gp-de-malasia_862x485.webp?v=1",
-          "body": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nGP de Malasia + Seguinos en El Campeonato Mundial de la Fórmula 1 se trasladó a Malasia debido a los conflictos bélicos en Medio Oriente, donde se disputa el Gran Premio de Bahréin , correspondiente a la 16ª fecha, luego del triunfo de George Russell en Azerbaiyán. También contará con la presencia de Franco Colapinto a bordo de su Alpine, que viene de protagonizar un choque con Gasly y abandonar en Bakú . Conocé el cronograma completo .\n\nLas primeras sesiones de prácticas tuvieron al argentino en los puestos 19 y 22 respectivamente , con el trabajo del equipo enfocado en estudiar el comportamiento del monoplaza con una nueva unidad de potencia y otros componentes actualizados. Debido a estos cambios, la FIA le impuso una nueva penalización de 10 puestos, que se suman a los cinco recibidos por el incidente en Azerbaiyán, por lo que Franco perderá 15 lugares respecto a su clasificación y tendrá que correr de atrás el domingo .\n\nEl Circuito de Sepang es uno de los màs completos de la Fórmula 1. Su amplio trazado combina largas rectas, zonas de frenada intensa y una variedad de curvas rápidas y fluidas, lo que permite a los pilotos atacar desde múltiples trazadas. El circuito es conocido por su calor y humedad, y los repentinos aguaceros tropicales pueden cambiar las condiciones en un instante. Entre las secciones más destacadas se encuentran la larga curva que une las curvas 5 y 6, y la singular horquilla final de la curva 15 que desemboca en la recta principal.",
-          "language": "es",
-          "publishedAt": "2026-10-02T10:38:59.000Z",
-          "addedAt": "2026-10-02T16:23:12.886Z",
+          "publishedAt": "2026-10-08T22:20:00.000Z",
+          "addedAt": "2026-10-08T23:11:31.991Z",
           "category": "argentino",
-          "tag": "Franco"
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-luis-moya-en-campeones-no-se-pueden-morir-sin-ver-el-rally-mundial-en-el-condor-copina",
@@ -1680,6 +1695,21 @@
           "language": "es",
           "publishedAt": "2026-10-06T14:33:10.000Z",
           "addedAt": "2026-10-06T15:11:32.761Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-le-respondio-a-lando-norris-y-se-quejo-de-los-ataques-en-redes-siempre-",
+          "title": "Franco Colapinto le respondió a Lando Norris y se quejó de los ataques en redes: \"Siempre se apunta a los argentinos\"",
+          "summary": "En la antesala del GP de Malasia, el piloto de Alpine se refirió a las críticas del de McLaren y habló de las especulaciones sobre su futuro en la F1.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-le-respondio-a-lando-norris-y-se-quejo-de-los-ataques-en-redes-siempre-se-apunta-a-los-argentinos-id763771.html",
+          "image": "https://media.tycsports.com/files/2026/10/01/991963/franco-colapinto_1440x810.webp",
+          "body": "En la antesala del GP de Malasia, el piloto de Alpine se refirió a las críticas del de McLaren y habló de las especulaciones sobre su futuro en la F1.\n\nFranco Colapinto se sorprendió por las declaraciones de Lando Norris en su contra (Getty Images) + Seguinos en Tras las polémicas declaraciones de Lando Norris contra Franco Colapinto luego de la carrera del Gran Premio de Azerbaiyán de la Fórmula 1, el piloto argentino le respondió al británico y habló de las críticas que recibe en las redes sociales.\n\nColapinto reveló que los dichos del piloto de McLaren lo sorprendieron y afirmó que \"se pasó tres pueblos\", pero lo justificó: \"Creo que estaba en el calor del momento. Por supuesto, sabe qué tipo de comentarios genera eso porque él mismo lo sufrió. Probablemente haya sido el piloto que más habló sobre el odio hace un par de años, apenas unas temporadas atrás. Así que me sorprendió un poco, pero después, por supuesto, se disculpó \".\n\n\" Desafortunadamente, él también recibió mucho odio por eso . Es una situación complicada con el mundo exterior. Por eso creo que tenemos que cuidarnos con las cosas que decimos . Entiendo que, en el calor del momento, uno diga cosas así\" .\n\nPese a la crítica de Norris, Colapinto tuvo el respaldo de Max Verstappen y George Russell y, ante eso, deslizó entre risas: \" Creo que está bien que Lando haya logrado que Max y George estén de acuerdo por una vez. Son simplemente diferentes tipos de reacciones. Y, por supuesto, ellos han estado en situaciones diferentes\".",
+          "language": "es",
+          "publishedAt": "2026-10-01T22:32:02.000Z",
+          "addedAt": "2026-10-02T16:23:12.799Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1787,7 +1817,13 @@
           "addedAt": "2026-10-02T16:23:12.854Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-08T23:11:34.281Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-asi-quedo-colapinto-en-el-campeonato-de-destructores-en-la-formula-1-tras-su-accidente-e",
           "title": "Así quedó Colapinto en el \"campeonato de destructores\" en la Fórmula 1 tras su accidente en Azerbaiyán",
@@ -1802,27 +1838,6 @@
           "addedAt": "2026-10-02T16:23:12.957Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-08T22:12:00.617Z",
-      "items": [
-        {
-          "id": "campeones-com-ar-la-otra-copa-de-oro-los-12-cambios-de-equipo-en-el-tc",
-          "title": "La otra Copa de Oro: los 12 cambios de equipo en el TC | Campeones",
-          "summary": "Con el pase de Santiago Álvarez al TCM Racing, se llegó a la docena de cambios respecto al inicio de la temporada. Aquí los repasamos a todos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-otra-copa-de-oro-los-12-cambios-de-equipo-en-el-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Boxes-TC-San-Nicolas-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T19:36:56.000Z",
-          "addedAt": "2026-10-08T20:11:08.749Z",
-          "category": "argentino",
-          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad",
@@ -1898,6 +1913,21 @@
           "addedAt": "2026-10-04T16:11:30.994Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-la-otra-copa-de-oro-los-12-cambios-de-equipo-en-el-tc",
+          "title": "La otra Copa de Oro: los 12 cambios de equipo en el TC | Campeones",
+          "summary": "Con el pase de Santiago Álvarez al TCM Racing, se llegó a la docena de cambios respecto al inicio de la temporada. Aquí los repasamos a todos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-otra-copa-de-oro-los-12-cambios-de-equipo-en-el-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Boxes-TC-San-Nicolas-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T19:36:56.000Z",
+          "addedAt": "2026-10-08T20:11:08.749Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-leonel-pernia-se-enfoca-en-el-fin-de-semana-de-tn-y-su-futuro-en-2027",
@@ -2061,21 +2091,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T20:25:49.000Z",
           "addedAt": "2026-10-03T21:11:31.442Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-tc-en-san-nicolas-fain-logro-su-1a-pole-y-corto-una-sequia-de-3-anos-para-torino",
-          "title": "TC en San Nicolás: Fain logró su 1ª “pole” y cortó una sequía de 3 años para Torino",
-          "summary": "El piloto del Trotta Racing Team ratificó el mejor tiempo que había marcado en el segundo entrenamiento de la 2ª fecha de la Copa de Oro 2026 y puso fin a una sequía de 44 clasificaciones sin “pole positions” para el “Toro”. Fritzler, con Mercedes, y Santero, con el BMW, escoltaron al santafesino.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-en-san-nicolas-fain-logro-su-1a-pole-y-corto-una-sequia-de-3-anos-para-torino/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-TC-2026-1.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T19:57:35.000Z",
-          "addedAt": "2026-10-03T20:11:30.535Z",
           "category": "argentino",
           "tag": "Argentino"
         }
