@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T20:11:05.213Z",
-  "checkedAt": "2026-10-08T20:11:05.213Z",
+  "updatedAt": "2026-10-08T21:11:29.903Z",
+  "checkedAt": "2026-10-08T21:11:29.903Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,36 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido",
-      "title": "La largada entre Chapur y Santero: \"Recibí toques en un curvón rápido\"",
-      "summary": "El cordobés dijo que no le gustó la largada de la Serie de TC porque la ACTC se caracteriza por permitir maniobras \"y yo no pude doblar\".",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-Chapur-TC-San-Nicolas.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-07T14:00:38.000Z",
-      "addedAt": "2026-10-08T20:11:12.701Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
-      "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
-      "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-HYUNDAI-POSADAS.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-03T18:45:37.000Z",
-      "addedAt": "2026-10-08T20:11:14.753Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
       "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
@@ -188,6 +158,21 @@
       "addedAt": "2026-10-04T12:11:31.888Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-wec-mike-conway-anuncio-su-retiro-de-las-pistas",
+      "title": "WEC: Mike Conway anunció su retiro de las pistas",
+      "summary": "El británico, bicampeón mundial en WEC y ganador en dos ediciones de las 24h de Le Mans, cerrará una exitosa campaña profesional.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/wec-mike-conway-anuncio-su-retiro-de-las-pistas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-WEC-Conway.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-06T20:27:47.000Z",
+      "addedAt": "2026-10-08T21:11:35.109Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-un-mustang-cero-kilometro-se-acerca-a-la-orbita-del-tc",
@@ -703,7 +688,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-08T20:11:20.328Z",
+      "createdAt": "2026-10-08T21:11:55.743Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-emocion-franco-colapinto-retiro-lionel-messi-seleccion-argentina-id764889-html",
@@ -715,7 +700,7 @@
           "image": "https://media.tycsports.com/files/2026/10/08/994059/franco_862x485.webp?v=1",
           "body": "En la previa del GP de Singapur, el pilarense contó sus sensaciones por la despedida del astro rosarino. “Fue un momento emotivo para toda la Argentina”, expresó.\n\nFranco Colapinto y Lionel Messi se encontraron en la previa del Gran Premio de Miami. + Seguinos en Franco Colapinto contó sus sensaciones sobre cómo vivió la despedida de Lionel Messi de la Selección Argentina este jueves en el marco del Media Day del Gran Premio de Singapur de la Fórmula 1. “Lloré un rato” , reveló el piloto argentino.\n\n“Fue un momento muy emotivo para toda la Argentina”, comentó el corredor de Alpine en diálogo con ESPN en el paddock del circuito callejero de Marina Bay. Aunque confesó que suele ser muy sensible con este tipo de situaciones, bromeó y dijo que “el que no se emocionó con la despedida de Leo está mal”.\n\nEl pilarense catalogó el retiro del astro rosarino de la Albiceleste como “una tristeza muy grande”, pero también explicó que, luego de la victoria de los dirigidos por Lionel Scaloni 3-0 ante Benín en el Monumental, cambió rápidamente el chip: “Basta de fútbol. Ahora a enfocarse en el automovilismo y a tener un buen finde acá en Singapur”.\n\nEl mismo martes, luego del partido, el piloto de 23 años también había posteado una foto suya en sus historias de Instagram con la camiseta del conjunto nacional y el 19 en el dorso, la primera que la Pulga utilizó en la Albiceleste. “Adiós” , fue su mensaje para homenajear al mejor jugador de todos los tiempos, con quien se encontró en la previa del Gran Premio de Miami.",
           "language": "es",
-          "publishedAt": "2026-10-08T14:30:43.000Z",
+          "publishedAt": "2026-10-08T20:34:05.000Z",
           "addedAt": "2026-10-08T15:11:28.692Z",
           "category": "argentino",
           "tag": "Franco"
@@ -979,7 +964,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-08T20:11:20.328Z",
+      "createdAt": "2026-10-08T21:11:55.743Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
@@ -1255,7 +1240,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-08T20:11:20.328Z",
+      "createdAt": "2026-10-08T21:11:55.743Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
@@ -1531,7 +1516,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-08T20:11:20.328Z",
+      "createdAt": "2026-10-08T21:11:55.743Z",
       "items": [
         {
           "id": "campeones-com-ar-tc-josito-di-palma-fue-el-mas-veloz-bajo-la-lluvia-en-san-nicolas",
@@ -1807,7 +1792,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-08T20:11:20.328Z",
+      "createdAt": "2026-10-08T21:11:55.743Z",
       "items": [
         {
           "id": "campeones-com-ar-la-otra-copa-de-oro-los-12-cambios-de-equipo-en-el-tc",
