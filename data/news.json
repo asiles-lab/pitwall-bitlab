@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T11:11:29.100Z",
-  "checkedAt": "2026-10-08T11:11:29.100Z",
+  "updatedAt": "2026-10-08T12:11:29.313Z",
+  "checkedAt": "2026-10-08T12:11:29.313Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,36 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc",
+      "title": "Palazzo repasó su triunfo en Balcarce con el TC Pick Up y analizó su presente en TC | Campeones",
+      "summary": "El piloto de Pinamar visitó los estudios de Campeones y contó cómo vivió la cita en el \"Juan Manuel Fangio\" de Balcarce, cercano a su Pinamar natal. Además, el reglamento del TC y cómo está Toyota, marca la cual defiende.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/HDKDFptbQAA_rpU.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-08T12:00:40.000Z",
+      "addedAt": "2026-10-08T12:11:34.319Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc-2027-los-escenarios-que-se-perfilan-para-el-arranque-y-los-que-quedarian-afuera",
+      "title": "TC 2027: los escenarios que se perfilan para el arranque y los que quedarían afuera | Campeones",
+      "summary": "La ACTC comienza a delinear el campeonato próximo, que comenzaría en Rosario y luego continuaría en el sur del país.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-2027-los-escenarios-que-se-perfilan-para-el-arranque-y-los-que-quedarian-afuera/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SaveClip.App_659031295_18581409331038057_5176446201726833752_n-1-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-08T11:59:45.000Z",
+      "addedAt": "2026-10-08T12:11:34.636Z",
+      "category": "general",
+      "tag": "F1"
+    },
     {
       "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
       "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
@@ -83,21 +113,6 @@
       "addedAt": "2026-10-08T08:11:30.679Z",
       "category": "argentino",
       "tag": "Franco"
-    },
-    {
-      "id": "campeones-com-ar-tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen",
-      "title": "TN: el balance de Santero tras las pruebas en el Cabalén | Campeones",
-      "summary": "El mendocino puso en pista el VW Virtus de Clase 3 junto al Ambrogio Racing, buscando la mejor puesta a punto de cara a la fecha en Mendoza.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/IMG_0122-e1790810850482.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-01T11:15:16.000Z",
-      "addedAt": "2026-10-08T08:11:31.049Z",
-      "category": "argentino",
-      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-lema-despejo-dudas-sobre-el-futuro-de-canapino-en-el-tc-y-tn",
@@ -246,6 +261,21 @@
       "language": "es",
       "publishedAt": "2026-10-02T12:22:59.000Z",
       "addedAt": "2026-10-04T11:11:31.542Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen",
+      "title": "TN: el balance de Santero tras las pruebas en el Cabalén | Campeones",
+      "summary": "El mendocino puso en pista el VW Virtus de Clase 3 junto al Ambrogio Racing, buscando la mejor puesta a punto de cara a la fecha en Mendoza.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/IMG_0122-e1790810850482.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-01T11:15:16.000Z",
+      "addedAt": "2026-10-08T08:11:31.049Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -673,7 +703,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-08T11:11:38.071Z",
+      "createdAt": "2026-10-08T12:11:42.589Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -777,6 +807,36 @@
           "language": "es",
           "publishedAt": "2026-10-02T23:24:40.000Z",
           "addedAt": "2026-10-03T01:03:50.878Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-broma-singapur-recordo-final-mundial-id764845-html",
+          "title": "La broma de Colapinto en el GP de Singapur que recordó la final del Mundial: \"Esa camiseta está mal\"",
+          "summary": "El piloto argentino de Alpine, con memoria futbolera, le soltó una frase a un hincha con la camiseta de España que no necesita explicación.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-broma-singapur-recordo-final-mundial-id764845.html",
+          "image": "https://media.tycsports.com/files/2026/10/08/993994/la-broma-de-colapinto-a-un-hincha-espanol-en-singapur-que-recordo-la-final-del-mundial-esa-camiseta-esta-mal_416x234.webp?v=1",
+          "body": "El piloto argentino de Alpine, con memoria futbolera, le soltó una frase a un hincha con la camiseta de España que no necesita explicación.\n\nLa broma de Colapinto a un hincha español en Singapur que recordó la final del Mundial: \"Esa camiseta está mal\" + Seguinos en Franco Colapinto está en Singapur para el Gran Premio, pero encontró la manera de hablar de fútbol. El piloto de Alpine se cruzó con un hincha que llevaba puesta la casaca de España y la reacción fue inmediata: \"Esa camiseta está mal.\" La frase, cargada de humor, pero con la herida de la final del Mundial 2026 todavía fresca — cuando La Rpja derrotó a Argentina por 1-0 —, desató risas y terminó con el fanático reconociendo que él también hincha por la Albiceleste.\n\nEl video lo publicó la cuenta oficial de la escudería francesa y no tardó en circular. En las imágenes se ve a Colapinto frente a un hincha que lleva puesta la camiseta de la selección española, y el piloto no necesita mucho tiempo para reaccionar. Lejos de incomodarse, el simpatizante respondió con buena onda al intercambio. El momento derivó en risas y terminó con una declaración que el piloto argentino supo capitalizar: e l español confesó que, en el fondo, también hincha por Argentina. Misión cumplida. Alpine eligió ese clip para publicarlo con una frase que ya sintetiza lo que el pilarense genera donde quiera que vaya: \"Podemos estar en Singapur, pero para Franco siempre es Argentina.\" No es la primera vez que Colapinto convierte una parada del calendario en una pequeña embajada argentina. A lo largo de la temporada, su popularidad dentro y fuera de la pista hizo que los encuentros con hinchas se volvieran una constante en cada ciudad que visita.\n\nEl GP de Singapur se disputa en el circuito urbano de Marina Bay, uno de los más exigentes del c",
+          "language": "es",
+          "publishedAt": "2026-10-08T12:00:37.000Z",
+          "addedAt": "2026-10-08T12:11:34.255Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur",
+          "title": "\"Es importante estar delante de los Racing Bulls\", lanza Colapinto como objetivo en Singapur",
+          "summary": "El argentino analizó las últimas carreras, donde el Alpine fue competitivo: \"Singapur es otra oportunidad para sumar puntos\"",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Singapur-foto-piloto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T11:26:30.000Z",
+          "addedAt": "2026-10-08T12:11:33.749Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -914,7 +974,13 @@
           "addedAt": "2026-10-07T01:11:30.601Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-08T12:11:42.589Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-pelea-de-colapinto-en-f1-que-puede-definir-su-futuro-en-2026-id764371-html",
           "title": "La pelea de Colapinto en F1 que puede definir su futuro en 2026",
@@ -944,13 +1010,7 @@
           "addedAt": "2026-10-04T14:11:31.968Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-08T11:11:38.071Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-ahora-que-alpine-le-pida-perdon-a-colapinto-op-id764303-html",
           "title": "Ahora que Alpine le pida perdón a Colapinto",
@@ -1190,42 +1250,12 @@
           "addedAt": "2026-10-02T16:23:13.438Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336-html",
-          "title": "F1: horarios y el cronograma completo del GP de Malasia",
-          "summary": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336.html",
-          "image": "https://media.tycsports.com/files/2026/09/28/991324/gp-de-malasia_862x485.webp?v=1",
-          "body": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nGP de Malasia + Seguinos en El Campeonato Mundial de la Fórmula 1 se trasladó a Malasia debido a los conflictos bélicos en Medio Oriente, donde se disputa el Gran Premio de Bahréin , correspondiente a la 16ª fecha, luego del triunfo de George Russell en Azerbaiyán. También contará con la presencia de Franco Colapinto a bordo de su Alpine, que viene de protagonizar un choque con Gasly y abandonar en Bakú . Conocé el cronograma completo .\n\nLas primeras sesiones de prácticas tuvieron al argentino en los puestos 19 y 22 respectivamente , con el trabajo del equipo enfocado en estudiar el comportamiento del monoplaza con una nueva unidad de potencia y otros componentes actualizados. Debido a estos cambios, la FIA le impuso una nueva penalización de 10 puestos, que se suman a los cinco recibidos por el incidente en Azerbaiyán, por lo que Franco perderá 15 lugares respecto a su clasificación y tendrá que correr de atrás el domingo .\n\nEl Circuito de Sepang es uno de los màs completos de la Fórmula 1. Su amplio trazado combina largas rectas, zonas de frenada intensa y una variedad de curvas rápidas y fluidas, lo que permite a los pilotos atacar desde múltiples trazadas. El circuito es conocido por su calor y humedad, y los repentinos aguaceros tropicales pueden cambiar las condiciones en un instante. Entre las secciones más destacadas se encuentran la larga curva que une las curvas 5 y 6, y la singular horquilla final de la curva 15 que desemboca en la recta principal.",
-          "language": "es",
-          "publishedAt": "2026-10-02T10:38:59.000Z",
-          "addedAt": "2026-10-02T16:23:12.886Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-gasly-declaraciones-incidente-colapinto-f1-id763788-html",
-          "title": "Pierre Gasly dejó atrás el incidente con Franco Colapinto: “Ya está todo bien entre nosotros”",
-          "summary": "El francés explicó que no quedaron rispideces con su compañero de equipo luego del choque del último sábado en Azerbaiyán y apuntó a trabajar en conjunto para lo que viene. “Nos necesitamos mutuamente”, aseguró.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/gasly-declaraciones-incidente-colapinto-f1--id763788.html",
-          "image": "https://media.tycsports.com/files/2026/09/09/986107/colapinto-y-gasly_1440x810.webp?v=1",
-          "body": "El francés explicó que no quedaron rispideces con su compañero de equipo luego del choque del último sábado en Azerbaiyán y apuntó a trabajar en conjunto para lo que viene. “Nos necesitamos mutuamente”, aseguró.\n\nFranco Colapinto y Pierre Gasly, pilotos de Alpine. (Guenther Iby/SEPA.Media /Getty Images) + Seguinos en La furia de Pierre Gasly por el choque con Franco Colapinto el último sábado en la carrera de Azerbaiyán parece haber quedado en el pasado. Este jueves, en el marco del Media Day del Gran Premio de Bahréin de Fórmula 1, que se celebrará este fin de semana en Malasia, el francés apuntó a dejar atrás lo sucedido y dejó en claro que “ya está todo bien” entre él y el argentino.\n\n“En el calor del momento estás con mucha adrenalina, con mucha emoción, frustración, decepción, la carrera terminada. Y sí, fue un duro golpe para nosotros como equipo, pero la única manera de seguir adelante es simplemente volver a unirnos y fortalecernos como equipo. Así que sí, está todo bien” , expresó Gasly en la conferencia de prensa oficial en el Circuito de Sepang.\n\nEl piloto de 30 años también destacó la actitud de su compañero de equipo postcarrera y analizó el error del pilarense en Bakú, que los dejó a ambos fuera de carrera y sin la posibilidad de puntuar: \"Él vino a disculparse. Fue un error desafortunado porque, una vez que cruzas esa línea y frenas demasiado tarde, estás fuera de control, y simplemente fue desafortunado que yo fuera el auto contra el que terminó chocando”.\n\nAbsolute chaos at the restart ðµ #F1 #AzerbaijanGP pic.twitter.com/o4Q5MdHLnc",
-          "language": "es",
-          "publishedAt": "2026-10-01T17:59:06.000Z",
-          "addedAt": "2026-10-02T16:23:12.895Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-08T11:11:38.071Z",
+      "createdAt": "2026-10-08T12:11:42.589Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
@@ -1501,7 +1531,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-08T11:11:38.071Z",
+      "createdAt": "2026-10-08T12:11:42.589Z",
       "items": [
         {
           "id": "campeones-com-ar-wec-mike-conway-anuncio-su-retiro-de-las-pistas",
@@ -1592,6 +1622,36 @@
           "addedAt": "2026-10-04T14:11:37.933Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336-html",
+          "title": "F1: horarios y el cronograma completo del GP de Malasia",
+          "summary": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336.html",
+          "image": "https://media.tycsports.com/files/2026/09/28/991324/gp-de-malasia_862x485.webp?v=1",
+          "body": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nGP de Malasia + Seguinos en El Campeonato Mundial de la Fórmula 1 se trasladó a Malasia debido a los conflictos bélicos en Medio Oriente, donde se disputa el Gran Premio de Bahréin , correspondiente a la 16ª fecha, luego del triunfo de George Russell en Azerbaiyán. También contará con la presencia de Franco Colapinto a bordo de su Alpine, que viene de protagonizar un choque con Gasly y abandonar en Bakú . Conocé el cronograma completo .\n\nLas primeras sesiones de prácticas tuvieron al argentino en los puestos 19 y 22 respectivamente , con el trabajo del equipo enfocado en estudiar el comportamiento del monoplaza con una nueva unidad de potencia y otros componentes actualizados. Debido a estos cambios, la FIA le impuso una nueva penalización de 10 puestos, que se suman a los cinco recibidos por el incidente en Azerbaiyán, por lo que Franco perderá 15 lugares respecto a su clasificación y tendrá que correr de atrás el domingo .\n\nEl Circuito de Sepang es uno de los màs completos de la Fórmula 1. Su amplio trazado combina largas rectas, zonas de frenada intensa y una variedad de curvas rápidas y fluidas, lo que permite a los pilotos atacar desde múltiples trazadas. El circuito es conocido por su calor y humedad, y los repentinos aguaceros tropicales pueden cambiar las condiciones en un instante. Entre las secciones más destacadas se encuentran la larga curva que une las curvas 5 y 6, y la singular horquilla final de la curva 15 que desemboca en la recta principal.",
+          "language": "es",
+          "publishedAt": "2026-10-02T10:38:59.000Z",
+          "addedAt": "2026-10-02T16:23:12.886Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-gasly-declaraciones-incidente-colapinto-f1-id763788-html",
+          "title": "Pierre Gasly dejó atrás el incidente con Franco Colapinto: “Ya está todo bien entre nosotros”",
+          "summary": "El francés explicó que no quedaron rispideces con su compañero de equipo luego del choque del último sábado en Azerbaiyán y apuntó a trabajar en conjunto para lo que viene. “Nos necesitamos mutuamente”, aseguró.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/gasly-declaraciones-incidente-colapinto-f1--id763788.html",
+          "image": "https://media.tycsports.com/files/2026/09/09/986107/colapinto-y-gasly_1440x810.webp?v=1",
+          "body": "El francés explicó que no quedaron rispideces con su compañero de equipo luego del choque del último sábado en Azerbaiyán y apuntó a trabajar en conjunto para lo que viene. “Nos necesitamos mutuamente”, aseguró.\n\nFranco Colapinto y Pierre Gasly, pilotos de Alpine. (Guenther Iby/SEPA.Media /Getty Images) + Seguinos en La furia de Pierre Gasly por el choque con Franco Colapinto el último sábado en la carrera de Azerbaiyán parece haber quedado en el pasado. Este jueves, en el marco del Media Day del Gran Premio de Bahréin de Fórmula 1, que se celebrará este fin de semana en Malasia, el francés apuntó a dejar atrás lo sucedido y dejó en claro que “ya está todo bien” entre él y el argentino.\n\n“En el calor del momento estás con mucha adrenalina, con mucha emoción, frustración, decepción, la carrera terminada. Y sí, fue un duro golpe para nosotros como equipo, pero la única manera de seguir adelante es simplemente volver a unirnos y fortalecernos como equipo. Así que sí, está todo bien” , expresó Gasly en la conferencia de prensa oficial en el Circuito de Sepang.\n\nEl piloto de 30 años también destacó la actitud de su compañero de equipo postcarrera y analizó el error del pilarense en Bakú, que los dejó a ambos fuera de carrera y sin la posibilidad de puntuar: \"Él vino a disculparse. Fue un error desafortunado porque, una vez que cruzas esa línea y frenas demasiado tarde, estás fuera de control, y simplemente fue desafortunado que yo fuera el auto contra el que terminó chocando”.\n\nAbsolute chaos at the restart ðµ #F1 #AzerbaijanGP pic.twitter.com/o4Q5MdHLnc",
+          "language": "es",
+          "publishedAt": "2026-10-01T17:59:06.000Z",
+          "addedAt": "2026-10-02T16:23:12.895Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549-html",
@@ -1742,7 +1802,13 @@
           "addedAt": "2026-10-05T15:11:31.193Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-08T12:11:42.589Z",
+      "items": [
         {
           "id": "campeones-com-ar-para-tener-un-camaro-con-kilos-estamos-bien-analizo-canapino-tras-el-tc-en-san-nicolas",
           "title": "“Para tener un Camaro con kilos estamos bien”, analizó Canapino tras el TC en San Nicolás",
@@ -1753,7 +1819,7 @@
           "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-ACTC-Chevrolet.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-07T14:50:47.000Z",
+          "publishedAt": "2026-10-07T20:50:47.000Z",
           "addedAt": "2026-10-07T15:11:30.384Z",
           "category": "argentino",
           "tag": "Argentino"
@@ -1772,13 +1838,7 @@
           "addedAt": "2026-10-05T17:11:32.246Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-08T11:11:38.071Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-baldoni-toma-el-comando-en-el-intermitente-rally-de-entre-rios",
           "title": "Baldoni toma el comando en el intermitente Rally de Entre Ríos",
@@ -2016,36 +2076,6 @@
           "language": "es",
           "publishedAt": "2026-10-02T18:08:30.000Z",
           "addedAt": "2026-10-02T19:06:32.267Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-marco-morelli-lidero-en-los-ensayos-japoneses-de-moto3",
-          "title": "Marco Morelli lideró en los ensayos japoneses de Moto3",
-          "summary": "Con la KTM de Aspar Team el piloto hispano argentino consiguió superar al local Yamanaka (MSI); Valentín Perrone quedó quinto con la unidad de Tech3.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/marco-morelli-lidero-en-los-ensayos-japoneses-de-moto3/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-Moto3-Morelli.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T06:39:57.000Z",
-          "addedAt": "2026-10-02T17:57:42.221Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-pick-up-con-la-exclusion-de-werner-el-campeonato-tiene-nuevo-lider",
-          "title": "Pick Up: con la exclusión de Werner, el campeonato tiene nuevo líder | Campeones",
-          "summary": "Otto Fritzler es quien comanda el campeoanto tras la penalización al de Paraná por el exceso de compresión en el motor de la Foton.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/pick-up-con-la-exclusion-de-werner-el-campeonato-tiene-nuevo-lider/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Fritzler-TCPK-2026.png",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-09-28T13:14:59.000Z",
-          "addedAt": "2026-10-02T17:57:46.877Z",
           "category": "argentino",
           "tag": "Argentino"
         }
