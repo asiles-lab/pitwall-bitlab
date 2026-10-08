@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T12:11:29.313Z",
-  "checkedAt": "2026-10-08T12:11:29.313Z",
+  "updatedAt": "2026-10-08T13:11:29.180Z",
+  "checkedAt": "2026-10-08T13:11:29.180Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,36 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc",
-      "title": "Palazzo repasó su triunfo en Balcarce con el TC Pick Up y analizó su presente en TC | Campeones",
-      "summary": "El piloto de Pinamar visitó los estudios de Campeones y contó cómo vivió la cita en el \"Juan Manuel Fangio\" de Balcarce, cercano a su Pinamar natal. Además, el reglamento del TC y cómo está Toyota, marca la cual defiende.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/HDKDFptbQAA_rpU.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-08T12:00:40.000Z",
-      "addedAt": "2026-10-08T12:11:34.319Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-2027-los-escenarios-que-se-perfilan-para-el-arranque-y-los-que-quedarian-afuera",
-      "title": "TC 2027: los escenarios que se perfilan para el arranque y los que quedarían afuera | Campeones",
-      "summary": "La ACTC comienza a delinear el campeonato próximo, que comenzaría en Rosario y luego continuaría en el sur del país.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-2027-los-escenarios-que-se-perfilan-para-el-arranque-y-los-que-quedarian-afuera/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SaveClip.App_659031295_18581409331038057_5176446201726833752_n-1-1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-08T11:59:45.000Z",
-      "addedAt": "2026-10-08T12:11:34.636Z",
-      "category": "general",
-      "tag": "F1"
-    },
     {
       "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
       "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
@@ -231,21 +201,6 @@
       "language": "es",
       "publishedAt": "2026-10-02T17:16:58.000Z",
       "addedAt": "2026-10-05T17:11:32.267Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-horarios-e-inscriptos-para-el-tcr-south-america-en-posadas",
-      "title": "Horarios e inscriptos para el TCR South America en Posadas",
-      "summary": "La 8va fecha del campeonato de TCR South America marcará la llegada por primera vez al \"Rosamonte\" de Posadas, del 2 al 4 de octubre.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/horarios-e-inscriptos-para-el-tcr-south-america-en-posadas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/TCR-Hyundai-box.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-01T12:50:17.000Z",
-      "addedAt": "2026-10-04T12:11:31.317Z",
       "category": "general",
       "tag": "F1"
     },
@@ -490,6 +445,21 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-horarios-e-inscriptos-para-el-tcr-south-america-en-posadas",
+      "title": "Horarios e inscriptos para el TCR South America en Posadas",
+      "summary": "La 8va fecha del campeonato de TCR South America marcará la llegada por primera vez al \"Rosamonte\" de Posadas, del 2 al 4 de octubre.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/horarios-e-inscriptos-para-el-tcr-south-america-en-posadas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/TCR-Hyundai-box.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-01T12:50:17.000Z",
+      "addedAt": "2026-10-04T12:11:31.317Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "www-tycsports-com-automovilismo-fue-campeon-de-formula-1-con-ferrari-y-ahora-cambio-los-autos-por-la-mozzarella-y-los-he",
       "title": "Fue campeón de Fórmula 1 con Ferrari y ahora cambió los autos por la mozzarella y los helados",
       "summary": "El sudafricano fue campeón del mundo en 1979 con la Scuderia y, tras retirarse de la Fórmula 1, dejó atrás los circuitos para dedicarse a la producción orgánica, los búfalos y los productos lácteos.",
@@ -703,7 +673,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-08T12:11:42.589Z",
+      "createdAt": "2026-10-08T13:11:37.491Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -747,21 +717,6 @@
           "language": "es",
           "publishedAt": "2026-10-08T11:00:41.000Z",
           "addedAt": "2026-10-08T11:11:31.372Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415-html",
-          "title": "F1 | Colapinto en el GP de Singapur: horarios y el cronograma completo",
-          "summary": "Este fin de semana, el argentino disputa la decimoséptima fecha de la temporada 2026 de la Fórmula 1 en el Circuito Urbano Marina Bay. Conocé todos los detalles.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415.html",
-          "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
-          "body": "Este fin de semana, el argentino disputa la decimoséptima fecha de la temporada 2026 de la Fórmula 1 en el Circuito Urbano Marina Bay. Conocé todos los detalles.\n\nFranco Colapinto. (@AlpineF1Team) + Seguinos en Franco Colapinto se prepara para disputar el Gran Premio de Singapur de la Fórmula 1 . La 17° fecha de la temporada se correrá en el Circuito Urbano Marina Bay y el argentino buscará reencontrarse con su mejor versión, luego de finalizar 13º en Malasia en un fin de semana que terminó siendo positivo . Conocé el cronograma completo .\n\nEl Circuito Urbano de Marina Bay es uno de los trazados más exigentes de la Fórmula 1 . Su recorrido combina curvas cerradas, fuertes frenadas y sectores rápidos entre las calles de Singapur, con el agregado de un clima extremadamente húmedo. La carrera se disputa de noche y fue la primera competencia nocturna en la historia de la categoría . Desde 2023, el circuito tiene 19 curvas tras una modificación en su trazado.\n\nLa carrera de la Fórmula 1 se podrá ver únicamente de manera online a través de Disney+ Premium , la plataforma digital de ESPN, la cual se contrata previo registro a través de la página web por $24.390 final por mes .",
-          "language": "es",
-          "publishedAt": "2026-10-08T10:05:06.000Z",
-          "addedAt": "2026-10-08T10:11:31.949Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -826,6 +781,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415-html",
+          "title": "F1 | Colapinto en el GP de Singapur: horarios y el cronograma completo",
+          "summary": "Este fin de semana, el argentino disputa la decimoséptima fecha de la temporada 2026 de la Fórmula 1 en el Circuito Urbano Marina Bay. Conocé todos los detalles.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415.html",
+          "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
+          "body": "Este fin de semana, el argentino disputa la decimoséptima fecha de la temporada 2026 de la Fórmula 1 en el Circuito Urbano Marina Bay. Conocé todos los detalles.\n\nFranco Colapinto. (@AlpineF1Team) + Seguinos en Franco Colapinto se prepara para disputar el Gran Premio de Singapur de la Fórmula 1 . La 17° fecha de la temporada se correrá en el Circuito Urbano Marina Bay y el argentino buscará reencontrarse con su mejor versión, luego de finalizar 13º en Malasia en un fin de semana que terminó siendo positivo . Conocé el cronograma completo .\n\nEl Circuito Urbano de Marina Bay es uno de los trazados más exigentes de la Fórmula 1 . Su recorrido combina curvas cerradas, fuertes frenadas y sectores rápidos entre las calles de Singapur, con el agregado de un clima extremadamente húmedo. La carrera se disputa de noche y fue la primera competencia nocturna en la historia de la categoría . Desde 2023, el circuito tiene 19 curvas tras una modificación en su trazado.\n\nLa carrera de la Fórmula 1 se podrá ver únicamente de manera online a través de Disney+ Premium , la plataforma digital de ESPN, la cual se contrata previo registro a través de la página web por $24.390 final por mes .",
+          "language": "es",
+          "publishedAt": "2026-10-08T10:05:06.000Z",
+          "addedAt": "2026-10-08T10:11:31.949Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur",
           "title": "\"Es importante estar delante de los Racing Bulls\", lanza Colapinto como objetivo en Singapur",
           "summary": "El argentino analizó las últimas carreras, donde el Alpine fue competitivo: \"Singapur es otra oportunidad para sumar puntos\"",
@@ -856,21 +826,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-ma",
-          "title": "El contundente respaldo del manager de Colapinto y su agencia tras el GP de Baréin en Malasia",
-          "summary": "Bullet Sports Management destacó la actuación del piloto argentino tras una destacada recuperación y una estrategia de Alpine que condicionó su desempeño.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-malasia-id764413.html",
-          "image": "https://media.tycsports.com/files/2026/09/26/990872/franco-colapinto_1440x810.webp?v=1",
-          "body": "Bullet Sports Management destacó la actuación del piloto argentino tras una destacada recuperación y una estrategia de Alpine que condicionó su desempeño.\n\nFranco Colapinto terminó 13° en el Gran Premio de Baréin + Seguinos en Franco Colapinto terminó 13° en el Gran Premio de Baréin de Fórmula 1 , disputado en Malasia, después de remontar ocho posiciones desde el 21° lugar. El argentino no pudo sumar puntos, pero tuvo una destacada recuperación en una carrera marcada por las condiciones cambiantes de la pista y una estrategia de neumáticos de Alpine que condicionó su desempeño desde la largada.\n\nBullet Sports Management, la agencia que representa al piloto junto a Jamie Campbell-Walter y María Catarineu, destacó su actuación en redes sociales. “P13 en la bandera a cuadros no cuenta toda la historia del GP de Baréin de Franco” , publicó BSM. Campbell-Walter, por su parte, escribió: “Súper rápido este fin de semana. Hacia Singapur”.\n\nLa estrategia de Alpine fue uno de los principales problemas para Colapinto y Pierre Gasly, quienes largaron con neumáticos blandos para piso seco pese a que la pista todavía estaba mojada. “Nos quedamos todos sin agarre y patinando en la largada. Fue la decisión incorrecta” , explicó el argentino en diálogo con ESPN. “Después había que tomar muchos riesgos para ir rápido con la goma lisa y hubiésemos perdido la carrera” , agregó. En sus redes sociales, reconoció el error del equipo: “No fue el mejor día… No tomamos la decisión correcta como equipo, pero desde donde largábamos había que intentar algo” . Más allá del resultado, el piloto de Alpine rescató: “Lo más positivo fue el gran ritmo durante todo el finde en seco. Ya se viene Singapur, a volver a pelear arriba. ¡Vamos!”. En ese circuito, Colapinto ya compitió en 2024 con Williams y term",
-          "language": "es",
-          "publishedAt": "2026-10-05T12:55:21.000Z",
-          "addedAt": "2026-10-05T13:11:31.250Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-alpine-explico-por-que-decidio-tocar-el-motor-y-que-colapinto-sea-sancionado-id764083-ht",
           "title": "Alpine explicó por qué decidió \"tocar\" el motor y que Colapinto sea sancionado",
           "summary": "El director general de la escudería, Steve Nielsen, detalló la estrategia del equipo para el Gran Premio de Malasia y contó lo que los llevó a realizar cambios pese a que serían sancionados.",
@@ -897,6 +852,21 @@
           "language": "es",
           "publishedAt": "2026-10-07T21:59:23.000Z",
           "addedAt": "2026-10-07T22:11:34.431Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-ma",
+          "title": "El contundente respaldo del manager de Colapinto y su agencia tras el GP de Baréin en Malasia",
+          "summary": "Bullet Sports Management destacó la actuación del piloto argentino tras una destacada recuperación y una estrategia de Alpine que condicionó su desempeño.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-malasia-id764413.html",
+          "image": "https://media.tycsports.com/files/2026/09/26/990872/franco-colapinto_1440x810.webp?v=1",
+          "body": "Bullet Sports Management destacó la actuación del piloto argentino tras una destacada recuperación y una estrategia de Alpine que condicionó su desempeño.\n\nFranco Colapinto terminó 13° en el Gran Premio de Baréin + Seguinos en Franco Colapinto terminó 13° en el Gran Premio de Baréin de Fórmula 1 , disputado en Malasia, después de remontar ocho posiciones desde el 21° lugar. El argentino no pudo sumar puntos, pero tuvo una destacada recuperación en una carrera marcada por las condiciones cambiantes de la pista y una estrategia de neumáticos de Alpine que condicionó su desempeño desde la largada.\n\nBullet Sports Management, la agencia que representa al piloto junto a Jamie Campbell-Walter y María Catarineu, destacó su actuación en redes sociales. “P13 en la bandera a cuadros no cuenta toda la historia del GP de Baréin de Franco” , publicó BSM. Campbell-Walter, por su parte, escribió: “Súper rápido este fin de semana. Hacia Singapur”.\n\nLa estrategia de Alpine fue uno de los principales problemas para Colapinto y Pierre Gasly, quienes largaron con neumáticos blandos para piso seco pese a que la pista todavía estaba mojada. “Nos quedamos todos sin agarre y patinando en la largada. Fue la decisión incorrecta” , explicó el argentino en diálogo con ESPN. “Después había que tomar muchos riesgos para ir rápido con la goma lisa y hubiésemos perdido la carrera” , agregó. En sus redes sociales, reconoció el error del equipo: “No fue el mejor día… No tomamos la decisión correcta como equipo, pero desde donde largábamos había que intentar algo” . Más allá del resultado, el piloto de Alpine rescató: “Lo más positivo fue el gran ritmo durante todo el finde en seco. Ya se viene Singapur, a volver a pelear arriba. ¡Vamos!”. En ese circuito, Colapinto ya compitió en 2024 con Williams y term",
+          "language": "es",
+          "publishedAt": "2026-10-05T12:55:21.000Z",
+          "addedAt": "2026-10-05T13:11:31.250Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -979,7 +949,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-08T12:11:42.589Z",
+      "createdAt": "2026-10-08T13:11:37.491Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-pelea-de-colapinto-en-f1-que-puede-definir-su-futuro-en-2026-id764371-html",
@@ -1255,7 +1225,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-08T12:11:42.589Z",
+      "createdAt": "2026-10-08T13:11:37.491Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
@@ -1331,6 +1301,36 @@
           "addedAt": "2026-10-02T17:57:42.858Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc",
+          "title": "Palazzo repasó su triunfo en Balcarce con el TC Pick Up y analizó su presente en TC | Campeones",
+          "summary": "El piloto de Pinamar visitó los estudios de Campeones y contó cómo vivió la cita en el \"Juan Manuel Fangio\" de Balcarce, cercano a su Pinamar natal. Además, el reglamento del TC y cómo está Toyota, marca la cual defiende.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/HDKDFptbQAA_rpU.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T12:00:40.000Z",
+          "addedAt": "2026-10-08T12:11:34.319Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc-2027-los-escenarios-que-se-perfilan-para-el-arranque-y-los-que-quedarian-afuera",
+          "title": "TC 2027: los escenarios que se perfilan para el arranque y los que quedarían afuera | Campeones",
+          "summary": "La ACTC comienza a delinear el campeonato próximo, que comenzaría en Rosario y luego continuaría en el sur del país.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-2027-los-escenarios-que-se-perfilan-para-el-arranque-y-los-que-quedarian-afuera/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SaveClip.App_659031295_18581409331038057_5176446201726833752_n-1-1.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T11:59:45.000Z",
+          "addedAt": "2026-10-08T12:11:34.636Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-bottas-formula-1-bicicleta-gp-singapur-id764495-html",
@@ -1423,21 +1423,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf",
-          "title": "Habilitación a probar en el TC y más, en un nuevo comunicado de la CAF | Campeones",
-          "summary": "Nicolás Impiombato podrá ensayar por vía de excepción en el autódromo Roberto Mouras de La Plata.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/4e81ef9a-855b-465c-9e72-7364f42b8bc0.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-07T12:36:24.000Z",
-          "addedAt": "2026-10-07T13:11:30.912Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-andersson-y-azcona-ganaron-las-ultimas-carreras-del-tcr-en-corea",
           "title": "Andersson y Azcona ganaron las últimas carreras del TCR en Corea | Campeones",
           "summary": "El sueco mantuvo la punta desde la largada y se llevó la segunda competencia, mientras que el español repitió triunfo y lidera el certamen.",
@@ -1511,7 +1496,13 @@
           "addedAt": "2026-10-02T17:54:07.788Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-08T13:11:37.491Z",
+      "items": [
         {
           "id": "campeones-com-ar-f1-se-anticipa-que-ruanda-tendria-una-fecha-desde-2030",
           "title": "F1: se anticipa que Ruanda tendría una fecha desde 2030",
@@ -1526,13 +1517,22 @@
           "addedAt": "2026-10-06T22:11:30.582Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-08T12:11:42.589Z",
-      "items": [
+        },
+        {
+          "id": "campeones-com-ar-habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf",
+          "title": "Habilitación a probar en el TC y más, en un nuevo comunicado de la CAF | Campeones",
+          "summary": "Nicolás Impiombato podrá ensayar por vía de excepción en el autódromo Roberto Mouras de La Plata.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/4e81ef9a-855b-465c-9e72-7364f42b8bc0.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-07T12:36:24.000Z",
+          "addedAt": "2026-10-07T13:11:30.912Z",
+          "category": "general",
+          "tag": "F1"
+        },
         {
           "id": "campeones-com-ar-wec-mike-conway-anuncio-su-retiro-de-las-pistas",
           "title": "WEC: Mike Conway anunció su retiro de las pistas",
@@ -1590,36 +1590,6 @@
           "language": "es",
           "publishedAt": "2026-10-06T01:19:21.000Z",
           "addedAt": "2026-10-05T16:11:31.670Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona",
-          "title": "Thomas Pozner ganó la Final de TC Pista en San Nicolás y se ilusiona",
-          "summary": "El piloto de Ford logró su 1ª victoria en la categoría luego de doblegar en la anteúltima vuelta a Gabriel Gandulia (Ford Mustang), quien completó el “1-2” del Moriatis Competición, y se convirtió en el nuevo escolta de Bautista Damiani (Chevrolet Camaro) en la Copa de Plata.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/thomas-pozner-gano-la-final-de-tc-pista-en-san-nicolas-y-se-ilusiona/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Pozner-TCP-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T16:38:46.000Z",
-          "addedAt": "2026-10-04T17:11:31.464Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-provens-tiene-la-pole-para-la-final-del-tc-pista",
-          "title": "Provens tiene la “pole” para la Final del TC Pista",
-          "summary": "El piloto de Dodge ganó con comodidad la batería más veloz en San Nicolás y largará la Final desde la mejor posición por 3ª vez en la temporada. Gabriel Gandulia (Ford Mustang) completará la 1ª fila de la 12ª fecha del campeonato 2026.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/provens-tiene-la-pole-para-la-final-del-tc-pista/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Provens-TCP-2026-1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T13:44:47.000Z",
-          "addedAt": "2026-10-04T14:11:37.933Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1807,7 +1777,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-08T12:11:42.589Z",
+      "createdAt": "2026-10-08T13:11:37.491Z",
       "items": [
         {
           "id": "campeones-com-ar-para-tener-un-camaro-con-kilos-estamos-bien-analizo-canapino-tras-el-tc-en-san-nicolas",
