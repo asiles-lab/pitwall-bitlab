@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T07:11:29.044Z",
-  "checkedAt": "2026-10-08T07:11:29.044Z",
+  "updatedAt": "2026-10-08T08:11:29.168Z",
+  "checkedAt": "2026-10-08T08:11:29.168Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,36 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
+      "title": "Geely presentó su SUV de TC2000",
+      "summary": "El flamante equipo tendrá como pilotos a Nicolás Traut y Franco Riva. Así la categoría suma una nueva automotriz.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/geely-presento-su-suv-de-tc2000/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-12.47.43.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-02T16:28:07.000Z",
+      "addedAt": "2026-10-08T08:11:30.679Z",
+      "category": "argentino",
+      "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen",
+      "title": "TN: el balance de Santero tras las pruebas en el Cabalén | Campeones",
+      "summary": "El mendocino puso en pista el VW Virtus de Clase 3 junto al Ambrogio Racing, buscando la mejor puesta a punto de cara a la fecha en Mendoza.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/IMG_0122-e1790810850482.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-01T11:15:16.000Z",
+      "addedAt": "2026-10-08T08:11:31.049Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-lema-despejo-dudas-sobre-el-futuro-de-canapino-en-el-tc-y-tn",
       "title": "Lema despejó dudas sobre el futuro de Canapino en el TC y TN",
@@ -613,7 +643,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-08T07:11:32.811Z",
+      "createdAt": "2026-10-08T08:11:33.043Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -889,7 +919,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-08T07:11:32.811Z",
+      "createdAt": "2026-10-08T08:11:33.043Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-bahrein-horarios-y-el-cronograma-completo-id763543-html",
@@ -1165,7 +1195,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-08T07:11:32.811Z",
+      "createdAt": "2026-10-08T08:11:33.043Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
@@ -1441,7 +1471,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-08T07:11:32.811Z",
+      "createdAt": "2026-10-08T08:11:33.043Z",
       "items": [
         {
           "id": "campeones-com-ar-wec-mike-conway-anuncio-su-retiro-de-las-pistas",
@@ -1654,21 +1684,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-gran-demostracion-de-lorenzato-en-el-mundial-de-flat-track-previo-a-las-carreras-de-argentina",
-          "title": "Gran demostración de Lorenzato en el Mundial de Flat Track previo a las carreras de Argentina",
-          "summary": "Un fallo mecánico impidió que el argentino se luzca en República Checa, mientras Argentina se prepara para la doble fecha en Totoras.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/gran-demostracion-de-lorenzato-en-el-mundial-de-flat-track-previo-a-las-carreras-de-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Marius-y-Lorenzato.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-05T08:09:47.000Z",
-          "addedAt": "2026-10-05T17:11:32.246Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-para-tener-un-camaro-con-kilos-estamos-bien-analizo-canapino-tras-el-tc-en-san-nicolas",
           "title": "“Para tener un Camaro con kilos estamos bien”, analizó Canapino tras el TC en San Nicolás",
           "summary": "La evaluación del piloto de Arrecifes es positiva desde el punto de vista de la marca que representa, aunque no fue contundente en la carrera.",
@@ -1680,6 +1695,21 @@
           "language": "es",
           "publishedAt": "2026-10-07T14:50:47.000Z",
           "addedAt": "2026-10-07T15:11:30.384Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-gran-demostracion-de-lorenzato-en-el-mundial-de-flat-track-previo-a-las-carreras-de-argentina",
+          "title": "Gran demostración de Lorenzato en el Mundial de Flat Track previo a las carreras de Argentina",
+          "summary": "Un fallo mecánico impidió que el argentino se luzca en República Checa, mientras Argentina se prepara para la doble fecha en Totoras.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/gran-demostracion-de-lorenzato-en-el-mundial-de-flat-track-previo-a-las-carreras-de-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Marius-y-Lorenzato.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-05T08:09:47.000Z",
+          "addedAt": "2026-10-05T17:11:32.246Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1717,7 +1747,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-08T07:11:32.811Z",
+      "createdAt": "2026-10-08T08:11:33.043Z",
       "items": [
         {
           "id": "campeones-com-ar-franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina",
