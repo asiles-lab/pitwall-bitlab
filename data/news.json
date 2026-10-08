@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T17:11:27.124Z",
-  "checkedAt": "2026-10-08T17:11:27.124Z",
+  "updatedAt": "2026-10-08T18:11:29.243Z",
+  "checkedAt": "2026-10-08T18:11:29.243Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,36 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido",
-      "title": "La largada entre Chapur y Santero: \"Recibí toques en un curvón rápido\"",
-      "summary": "El cordobés dijo que no le gustó la largada de la Serie de TC porque la ACTC se caracteriza por permitir maniobras \"y yo no pude doblar\".",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-Chapur-TC-San-Nicolas.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-07T14:00:38.000Z",
-      "addedAt": "2026-10-08T15:11:33.179Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
-      "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
-      "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-HYUNDAI-POSADAS.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-03T18:45:37.000Z",
-      "addedAt": "2026-10-08T15:11:33.650Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
       "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
@@ -188,6 +158,21 @@
       "addedAt": "2026-10-04T12:11:31.888Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-un-mustang-cero-kilometro-se-acerca-a-la-orbita-del-tc",
+      "title": "Un Mustang cero kilómetro se acerca a la órbita del TC",
+      "summary": "El TCM Racing Team encara el armado de un nuevo vehículo para afrontar el 2027, que dividirá entre el Turismo Carretera y el TC Pista.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/un-mustang-cero-kilometro-se-acerca-a-la-orbita-del-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/CAITO-RISATTI-TCM-RACING-TEAM-e1791315177282.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-06T19:45:05.000Z",
+      "addedAt": "2026-10-08T18:11:31.857Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-camilo-trappa-llega-a-posadas-con-una-actualizacion-del-hyundai-elantra-n-tcr",
@@ -688,7 +673,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-08T17:11:37.465Z",
+      "createdAt": "2026-10-08T18:11:37.805Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-emocion-franco-colapinto-retiro-lionel-messi-seleccion-argentina-id764889-html",
@@ -964,7 +949,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-08T17:11:37.465Z",
+      "createdAt": "2026-10-08T18:11:37.805Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
@@ -1240,7 +1225,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-08T17:11:37.465Z",
+      "createdAt": "2026-10-08T18:11:37.805Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
@@ -1284,36 +1269,6 @@
           "language": "es",
           "publishedAt": "2026-10-08T15:50:02.000Z",
           "addedAt": "2026-10-08T16:11:31.952Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-el-mundial-de-motogp-en-su-sprint-final-por-el-campeonato",
-          "title": "El Mundial de MotoGP en su 'sprint' final por el campeonato",
-          "summary": "Jorge Martín (Aprilia) tiene solo dos puntos de ventaja sobre Marc Márquez (Ducati) mientras Marco Bezzecchi (Aprilia) no pierde pisada.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-mundial-de-motogp-en-su-sprint-final-por-el-campeonato/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Bezzecchi-Marquez-Martin-Sprint.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T15:00:22.000Z",
-          "addedAt": "2026-10-08T17:11:27.987Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-tc2000-en-toay-primera-experiencia-en-el-circuito-corto",
-          "title": "TC2000 en Toay: primera experiencia en el circuito corto",
-          "summary": "En su segunda visita del año al Autódromo Provincia de La Pampa, la categoría estará cumpliendo con la novena fecha del año.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc2000-en-toay-primera-experiencia-en-el-circuito-corto/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261008-TC2000-Toay.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T14:19:00.000Z",
-          "addedAt": "2026-10-08T15:11:33.418Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1391,6 +1346,36 @@
           "addedAt": "2026-10-07T14:11:30.578Z",
           "category": "general",
           "tag": "Clasificacion"
+        },
+        {
+          "id": "campeones-com-ar-el-mundial-de-motogp-en-su-sprint-final-por-el-campeonato",
+          "title": "El Mundial de MotoGP en su 'sprint' final por el campeonato",
+          "summary": "Jorge Martín (Aprilia) tiene solo dos puntos de ventaja sobre Marc Márquez (Ducati) mientras Marco Bezzecchi (Aprilia) no pierde pisada.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-mundial-de-motogp-en-su-sprint-final-por-el-campeonato/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Bezzecchi-Marquez-Martin-Sprint.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T15:00:22.000Z",
+          "addedAt": "2026-10-08T17:11:27.987Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc2000-en-toay-primera-experiencia-en-el-circuito-corto",
+          "title": "TC2000 en Toay: primera experiencia en el circuito corto",
+          "summary": "En su segunda visita del año al Autódromo Provincia de La Pampa, la categoría estará cumpliendo con la novena fecha del año.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc2000-en-toay-primera-experiencia-en-el-circuito-corto/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261008-TC2000-Toay.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T14:19:00.000Z",
+          "addedAt": "2026-10-08T15:11:33.418Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc",
@@ -1516,7 +1501,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-08T17:11:37.465Z",
+      "createdAt": "2026-10-08T18:11:37.805Z",
       "items": [
         {
           "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
@@ -1620,21 +1605,6 @@
           "language": "es",
           "publishedAt": "2026-10-02T10:38:59.000Z",
           "addedAt": "2026-10-02T16:23:12.886Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-gasly-declaraciones-incidente-colapinto-f1-id763788-html",
-          "title": "Pierre Gasly dejó atrás el incidente con Franco Colapinto: “Ya está todo bien entre nosotros”",
-          "summary": "El francés explicó que no quedaron rispideces con su compañero de equipo luego del choque del último sábado en Azerbaiyán y apuntó a trabajar en conjunto para lo que viene. “Nos necesitamos mutuamente”, aseguró.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/gasly-declaraciones-incidente-colapinto-f1--id763788.html",
-          "image": "https://media.tycsports.com/files/2026/09/09/986107/colapinto-y-gasly_1440x810.webp?v=1",
-          "body": "El francés explicó que no quedaron rispideces con su compañero de equipo luego del choque del último sábado en Azerbaiyán y apuntó a trabajar en conjunto para lo que viene. “Nos necesitamos mutuamente”, aseguró.\n\nFranco Colapinto y Pierre Gasly, pilotos de Alpine. (Guenther Iby/SEPA.Media /Getty Images) + Seguinos en La furia de Pierre Gasly por el choque con Franco Colapinto el último sábado en la carrera de Azerbaiyán parece haber quedado en el pasado. Este jueves, en el marco del Media Day del Gran Premio de Bahréin de Fórmula 1, que se celebrará este fin de semana en Malasia, el francés apuntó a dejar atrás lo sucedido y dejó en claro que “ya está todo bien” entre él y el argentino.\n\n“En el calor del momento estás con mucha adrenalina, con mucha emoción, frustración, decepción, la carrera terminada. Y sí, fue un duro golpe para nosotros como equipo, pero la única manera de seguir adelante es simplemente volver a unirnos y fortalecernos como equipo. Así que sí, está todo bien” , expresó Gasly en la conferencia de prensa oficial en el Circuito de Sepang.\n\nEl piloto de 30 años también destacó la actitud de su compañero de equipo postcarrera y analizó el error del pilarense en Bakú, que los dejó a ambos fuera de carrera y sin la posibilidad de puntuar: \"Él vino a disculparse. Fue un error desafortunado porque, una vez que cruzas esa línea y frenas demasiado tarde, estás fuera de control, y simplemente fue desafortunado que yo fuera el auto contra el que terminó chocando”.\n\nAbsolute chaos at the restart ðµ #F1 #AzerbaijanGP pic.twitter.com/o4Q5MdHLnc",
-          "language": "es",
-          "publishedAt": "2026-10-01T17:59:06.000Z",
-          "addedAt": "2026-10-02T16:23:12.895Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1787,13 +1757,7 @@
           "addedAt": "2026-10-02T16:23:12.854Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-08T17:11:37.465Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-asi-quedo-colapinto-en-el-campeonato-de-destructores-en-la-formula-1-tras-su-accidente-e",
           "title": "Así quedó Colapinto en el \"campeonato de destructores\" en la Fórmula 1 tras su accidente en Azerbaiyán",
@@ -1808,7 +1772,13 @@
           "addedAt": "2026-10-02T16:23:12.957Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-08T18:11:37.805Z",
+      "items": [
         {
           "id": "campeones-com-ar-leonel-pernia-se-enfoca-en-el-fin-de-semana-de-tn-y-su-futuro-en-2027",
           "title": "Leonel Pernía se enfoca en el fin de semana de TN y su futuro en 2027",
@@ -1849,7 +1819,7 @@
           "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-ACTC-Chevrolet.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-07T20:50:47.000Z",
+          "publishedAt": "2026-10-07T21:50:47.000Z",
           "addedAt": "2026-10-07T15:11:30.384Z",
           "category": "argentino",
           "tag": "Argentino"
@@ -1973,6 +1943,21 @@
           "addedAt": "2026-10-03T21:11:31.686Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-gasly-declaraciones-incidente-colapinto-f1-id763788-html",
+          "title": "Pierre Gasly dejó atrás el incidente con Franco Colapinto: “Ya está todo bien entre nosotros”",
+          "summary": "El francés explicó que no quedaron rispideces con su compañero de equipo luego del choque del último sábado en Azerbaiyán y apuntó a trabajar en conjunto para lo que viene. “Nos necesitamos mutuamente”, aseguró.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/gasly-declaraciones-incidente-colapinto-f1--id763788.html",
+          "image": "https://media.tycsports.com/files/2026/09/09/986107/colapinto-y-gasly_1440x810.webp?v=1",
+          "body": "El francés explicó que no quedaron rispideces con su compañero de equipo luego del choque del último sábado en Azerbaiyán y apuntó a trabajar en conjunto para lo que viene. “Nos necesitamos mutuamente”, aseguró.\n\nFranco Colapinto y Pierre Gasly, pilotos de Alpine. (Guenther Iby/SEPA.Media /Getty Images) + Seguinos en La furia de Pierre Gasly por el choque con Franco Colapinto el último sábado en la carrera de Azerbaiyán parece haber quedado en el pasado. Este jueves, en el marco del Media Day del Gran Premio de Bahréin de Fórmula 1, que se celebrará este fin de semana en Malasia, el francés apuntó a dejar atrás lo sucedido y dejó en claro que “ya está todo bien” entre él y el argentino.\n\n“En el calor del momento estás con mucha adrenalina, con mucha emoción, frustración, decepción, la carrera terminada. Y sí, fue un duro golpe para nosotros como equipo, pero la única manera de seguir adelante es simplemente volver a unirnos y fortalecernos como equipo. Así que sí, está todo bien” , expresó Gasly en la conferencia de prensa oficial en el Circuito de Sepang.\n\nEl piloto de 30 años también destacó la actitud de su compañero de equipo postcarrera y analizó el error del pilarense en Bakú, que los dejó a ambos fuera de carrera y sin la posibilidad de puntuar: \"Él vino a disculparse. Fue un error desafortunado porque, una vez que cruzas esa línea y frenas demasiado tarde, estás fuera de control, y simplemente fue desafortunado que yo fuera el auto contra el que terminó chocando”.\n\nAbsolute chaos at the restart ðµ #F1 #AzerbaijanGP pic.twitter.com/o4Q5MdHLnc",
+          "language": "es",
+          "publishedAt": "2026-10-01T17:59:06.000Z",
+          "addedAt": "2026-10-02T16:23:12.895Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-rally-de-entre-rios-federico-villagra-se-recupero-y-gano-en-diamante",
