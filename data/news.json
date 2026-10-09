@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-09T21:11:30.188Z",
-  "checkedAt": "2026-10-09T21:11:30.188Z",
+  "updatedAt": "2026-10-09T22:11:29.532Z",
+  "checkedAt": "2026-10-09T22:11:29.532Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas",
-      "title": "Hyundai y Girolami completaron un fin de semana ideal en Posadas",
-      "summary": "El \"Bebu\" se llevó también la segunda carrera en el \"Rosamonte\", alcanzando su cuarto éxito de la temporada 2026. Lo siguieron Fabián Yannantuoni y Joaquín Cafaro.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-SOUTH-AMERICA-POSADAS-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-04T17:11:39.000Z",
-      "addedAt": "2026-10-09T21:11:32.260Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
       "title": "Girolami y Hyundai siguen imbatibles en Posadas",
@@ -263,6 +248,21 @@
       "addedAt": "2026-10-04T12:11:31.888Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc",
+      "title": "Palazzo repasó su triunfo en Balcarce con el TC Pick Up y analizó su presente en TC | Campeones",
+      "summary": "El piloto de Pinamar visitó los estudios de Campeones y contó cómo vivió la cita en el \"Juan Manuel Fangio\" de Balcarce, cercano a su Pinamar natal. Además, el reglamento del TC y cómo está Toyota, marca la cual defiende.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/HDKDFptbQAA_rpU.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-08T12:00:40.000Z",
+      "addedAt": "2026-10-09T22:11:31.835Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tc-2027-los-escenarios-que-se-perfilan-para-el-arranque-y-los-que-quedarian-afuera",
@@ -853,7 +853,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-09T21:11:38.465Z",
+      "createdAt": "2026-10-09T22:11:33.732Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-post-qualy-sprint-gp-singapur-id765148-html",
@@ -1129,7 +1129,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-09T21:11:38.465Z",
+      "createdAt": "2026-10-09T22:11:33.732Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770-html",
@@ -1192,21 +1192,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur",
-          "title": "\"Es importante estar delante de los Racing Bulls\", lanza Colapinto como objetivo en Singapur",
-          "summary": "El argentino analizó las últimas carreras, donde el Alpine fue competitivo: \"Singapur es otra oportunidad para sumar puntos\"",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Singapur-foto-piloto.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T21:26:30.000Z",
-          "addedAt": "2026-10-08T12:11:33.749Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-colapinto-palpito-el-gran-premio-de-singapur-con-altas-expectativas-todo-es-posible-id76",
           "title": "Colapinto palpitó el Gran Premio de Singapur con altas expectativas: \"Todo es posible\"",
           "summary": "El piloto de Alpine se mostró confiado por la próxima carrera en Marina Bay y valoró las actualizaciones que tiene su monoplaza actualmente.",
@@ -1248,21 +1233,6 @@
           "language": "es",
           "publishedAt": "2026-10-07T21:59:23.000Z",
           "addedAt": "2026-10-07T22:11:34.431Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur",
-          "title": "F1: Colapinto quedó 19.° en la única práctica del GP de Singapur",
-          "summary": "Como la mayoría, se enfocó con el Alpine en la preparación para la carrera del domingo en las calles de Marina Bay; Russell fue el más rápido con el Mercedes. A la hora 9:30 se llevará a cabo la clasificación de la carrera Sprint .",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Singapur.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T09:35:30.000Z",
-          "addedAt": "2026-10-09T10:11:30.737Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1372,6 +1342,36 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur",
+          "title": "\"Es importante estar delante de los Racing Bulls\", lanza Colapinto como objetivo en Singapur",
+          "summary": "El argentino analizó las últimas carreras, donde el Alpine fue competitivo: \"Singapur es otra oportunidad para sumar puntos\"",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Singapur-foto-piloto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T21:26:30.000Z",
+          "addedAt": "2026-10-08T12:11:33.749Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur",
+          "title": "F1: Colapinto quedó 19.° en la única práctica del GP de Singapur",
+          "summary": "Como la mayoría, se enfocó con el Alpine en la preparación para la carrera del domingo en las calles de Marina Bay; Russell fue el más rápido con el Mercedes. A la hora 9:30 se llevará a cabo la clasificación de la carrera Sprint .",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Singapur.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T09:35:30.000Z",
+          "addedAt": "2026-10-09T10:11:30.737Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-f1-colapinto-escalo-en-sepang-hasta-el-13-puesto-y-verstappen-retorno-a-la-victoria",
           "title": "F1: Colapinto escaló en Sepang hasta el 13.° puesto y Verstappen retornó a la victoria con Red Bull",
           "summary": "Sólida labor realizó el piloto argentino con el Alpine en una carrera que se largó 1h35m más tarde y con varias dificultades en su desarrollo.",
@@ -1405,7 +1405,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-09T21:11:38.465Z",
+      "createdAt": "2026-10-09T22:11:33.732Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-carlos-sainz-exploto-contra-fia-insolito-error-gp-de-singapur-id765352-html",
@@ -1681,23 +1681,8 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-09T21:11:38.465Z",
+      "createdAt": "2026-10-09T22:11:33.732Z",
       "items": [
-        {
-          "id": "campeones-com-ar-f1-se-anticipa-que-ruanda-tendria-una-fecha-desde-2030",
-          "title": "F1: se anticipa que Ruanda tendría una fecha desde 2030",
-          "summary": "Con la incorporación de la competencia en África, el campeonato mundial repetiría su presencia en los cinco continentes como ocurrió anteriormente en 1993.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-se-anticipa-que-ruanda-tendria-una-fecha-desde-2030/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2610056-F1-Ruanda-Kigali.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-06T21:25:07.000Z",
-          "addedAt": "2026-10-06T22:11:30.582Z",
-          "category": "general",
-          "tag": "F1"
-        },
         {
           "id": "campeones-com-ar-el-susto-que-tuvo-rus-med-team-antes-de-la-carrera-de-tc-en-san-nicolas",
           "title": "El \"susto\" que tuvo RUS Med Team antes de la carrera de TCen San Nicolás",
@@ -1770,6 +1755,21 @@
           "language": "es",
           "publishedAt": "2026-10-08T14:19:00.000Z",
           "addedAt": "2026-10-08T15:11:33.418Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-f1-se-anticipa-que-ruanda-tendria-una-fecha-desde-2030",
+          "title": "F1: se anticipa que Ruanda tendría una fecha desde 2030",
+          "summary": "Con la incorporación de la competencia en África, el campeonato mundial repetiría su presencia en los cinco continentes como ocurrió anteriormente en 1993.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-se-anticipa-que-ruanda-tendria-una-fecha-desde-2030/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2610056-F1-Ruanda-Kigali.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-06T21:25:07.000Z",
+          "addedAt": "2026-10-06T22:11:30.582Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1957,7 +1957,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-09T21:11:38.465Z",
+      "createdAt": "2026-10-09T22:11:33.732Z",
       "items": [
         {
           "id": "campeones-com-ar-karting-el-importante-respaldo-de-los-pilotos-argentinos-en-el-mundial-de-viterbo",
@@ -1971,21 +1971,6 @@
           "language": "es",
           "publishedAt": "2026-10-09T10:53:51.000Z",
           "addedAt": "2026-10-09T16:11:31.195Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-argentina-ultima-detalles-para-la-historica-doble-fecha-del-mundial-de-flat-track",
-          "title": "Argentina ultima detalles para la histórica doble fecha del Mundial de Flat Track",
-          "summary": "El 24 y 25 de octubre se revolucionará la ciudad de Totoras, Santa Fe, con la fecha doble que dará cierre a la temporada 2026.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/argentina-ultima-detalles-para-la-historica-doble-fecha-del-mundial-de-flat-track/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Totoras-Flat-Track-previa.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T10:00:13.000Z",
-          "addedAt": "2026-10-09T17:11:32.058Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -2035,6 +2020,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-argentina-ultima-detalles-para-la-historica-doble-fecha-del-mundial-de-flat-track",
+          "title": "Argentina ultima detalles para la histórica doble fecha del Mundial de Flat Track",
+          "summary": "El 24 y 25 de octubre se revolucionará la ciudad de Totoras, Santa Fe, con la fecha doble que dará cierre a la temporada 2026.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/argentina-ultima-detalles-para-la-historica-doble-fecha-del-mundial-de-flat-track/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Totoras-Flat-Track-previa.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T10:00:13.000Z",
+          "addedAt": "2026-10-09T17:11:32.058Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-los-argentinos-y-campeones-presentes-en-viterbo",
           "title": "Los argentinos y Campeones, presentes en Viterbo | Campeones",
           "summary": "Italia es el país elegido para la cita mundialista de la Copa Mundial de Karting de la FIA 2026 y Martín Saa, Salvador Echarri, Agustín Pizarro y Joaquín Gorlero Pizarro están presentes.",
@@ -2046,21 +2046,6 @@
           "language": "es",
           "publishedAt": "2026-10-08T22:20:00.000Z",
           "addedAt": "2026-10-08T23:11:31.991Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-luis-moya-en-campeones-no-se-pueden-morir-sin-ver-el-rally-mundial-en-el-condor-copina",
-          "title": "Luis Moya en Campeones: \"No se pueden morir sin ver el Rally Mundial en El Cóndor - Copina\"",
-          "summary": "El histórico copiloto de Carlos Sainz habló de WRC actual y sus reglas, además de las anécdotas con Jorge Recalde y el público de Argentina.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/luis-moya-en-campeones-no-se-pueden-morir-sin-ver-el-rally-mundial-en-el-condor-copina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Sainz-Moya-Copina-1998-WRC-Toyota-Europe-v2.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T21:21:04.000Z",
-          "addedAt": "2026-10-08T22:11:33.891Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -2155,21 +2140,6 @@
           "tag": "Franco"
         },
         {
-          "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
-          "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
-          "summary": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué…",
-          "source": "Carburando",
-          "sourceLabel": "Carburando",
-          "url": "https://carburando.com.ar/blog/por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
-          "image": "https://carburando.com.ar/covers/22/por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rap-25600.webp",
-          "body": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué ocurrió realmente en esa vuelta.\n\nEl Gran Premio de Azerbaiyán volvió a dejar uno de esos momentos que generan debate en la Fórmula 1. Pierre Gasly, piloto de Alpine, acusó públicamente a Franco Colapinto de haberle arruinado su chance de quedarse con la vuelta más rápida de la carrera.\n\nEl francés, que venía con un ritmo sólido en las etapas finales, vio cómo su intento de registro rápido se frustraba tras un incidente con el Williams del argentino. Más allá de las declaraciones post-carrera, el episodio invita a revisar cómo funcionan las reglas de pista, el DRS y la gestión de tráfico en un circuito urbano estrecho como el de Bakú.\n\nBakú es un trazado de alta velocidad con zonas muy estrechas, donde el rebufo y el DRS juegan un rol decisivo. En las vueltas finales, cuando muchos pilotos ya habían completado sus paradas, varios autos se encontraban en diferentes fases de estrategia. Gasly buscaba precisamente aprovechar un claro para marcar el mejor tiempo del día, algo que además entrega un punto extra en el campeonato de constructores y puede tener peso en la clasificación general.\n\nColapinto, por su parte, estaba cumpliendo con su stint final y, según las imágenes disponibles, se encontraba en una posición defensiva natural. El contacto o la maniobra de paso generó que Gasly perdiera tracción o aerodinámica suficiente para completar la vuelta en el tiempo que buscaba. Desde la ingeniería, perder el flujo limpio sobre el alerón trasero en una zona de alta velocidad como la recta principal de Bakú es casi siempre fatal para un intento de vuelta rápida.",
-          "language": "es",
-          "publishedAt": "2026-10-02T21:35:36.000Z",
-          "addedAt": "2026-10-02T22:34:53.320Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-franco-ledesma-gano-en-san-nicolas-y-descuenta-puntos-en-la-f2-argentina",
           "title": "Franco Ledesma ganó en San Nicolás y descuenta puntos en la F2 Argentina | Campeones",
           "summary": "El marplatense aventajó en el giro inicial a Lautaro Videla y se llevó la cuarta victoria en el año.",
@@ -2226,6 +2196,36 @@
           "language": "es",
           "publishedAt": "2026-10-04T18:11:00.000Z",
           "addedAt": "2026-10-04T19:11:28.198Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-luis-moya-en-campeones-no-se-pueden-morir-sin-ver-el-rally-mundial-en-el-condor-copina",
+          "title": "Luis Moya en Campeones: \"No se pueden morir sin ver el Rally Mundial en El Cóndor - Copina\"",
+          "summary": "El histórico copiloto de Carlos Sainz habló de WRC actual y sus reglas, además de las anécdotas con Jorge Recalde y el público de Argentina.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/luis-moya-en-campeones-no-se-pueden-morir-sin-ver-el-rally-mundial-en-el-condor-copina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Sainz-Moya-Copina-1998-WRC-Toyota-Europe-v2.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T21:21:04.000Z",
+          "addedAt": "2026-10-08T22:11:33.891Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-para-tener-un-camaro-con-kilos-estamos-bien-analizo-canapino-tras-el-tc-en-san-nicolas",
+          "title": "“Para tener un Camaro con kilos estamos bien”, analizó Canapino tras el TC en San Nicolás",
+          "summary": "La evaluación del piloto de Arrecifes es positiva desde el punto de vista de la marca que representa, aunque no fue contundente en la carrera.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/para-tener-un-camaro-con-kilos-estamos-bien-analizo-canapino-tras-el-tc-en-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-ACTC-Chevrolet.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-07T21:50:47.000Z",
+          "addedAt": "2026-10-09T22:11:32.405Z",
           "category": "argentino",
           "tag": "Argentino"
         }
