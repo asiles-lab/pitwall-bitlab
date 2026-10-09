@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T23:11:27.351Z",
-  "checkedAt": "2026-10-08T23:11:27.351Z",
+  "updatedAt": "2026-10-09T00:11:29.219Z",
+  "checkedAt": "2026-10-09T00:11:29.219Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,36 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido",
-      "title": "La largada entre Chapur y Santero: \"Recibí toques en un curvón rápido\"",
-      "summary": "El cordobés dijo que no le gustó la largada de la Serie de TC porque la ACTC se caracteriza por permitir maniobras \"y yo no pude doblar\".",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-Chapur-TC-San-Nicolas.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-07T14:00:38.000Z",
-      "addedAt": "2026-10-08T23:11:32.318Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
-      "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
-      "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-HYUNDAI-POSADAS.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-03T18:45:37.000Z",
-      "addedAt": "2026-10-08T22:11:38.605Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
       "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
@@ -188,6 +158,21 @@
       "addedAt": "2026-10-04T12:11:31.888Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf",
+      "title": "Habilitación a probar en el TC y más, en un nuevo comunicado de la CAF | Campeones",
+      "summary": "Nicolás Impiombato podrá ensayar por vía de excepción en el autódromo Roberto Mouras de La Plata.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/4e81ef9a-855b-465c-9e72-7364f42b8bc0.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-07T12:36:24.000Z",
+      "addedAt": "2026-10-09T00:11:31.387Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-wec-mike-conway-anuncio-su-retiro-de-las-pistas",
@@ -718,7 +703,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-08T23:11:34.281Z",
+      "createdAt": "2026-10-09T00:11:37.585Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-emocion-franco-colapinto-retiro-lionel-messi-seleccion-argentina-id764889-html",
@@ -762,6 +747,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T15:11:24.000Z",
           "addedAt": "2026-10-02T16:23:12.821Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-singapur-id764556",
+          "title": "F1: hora y cómo ver en vivo la práctica libre de Colapinto en el GP de Singapur",
+          "summary": "Este viernes se desarrollará la única sesión de entrenamiento de la fecha debido a que es un fin de semana que incluye carrera sprint, el último de la temporada 2026.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-singapur-id764556.html",
+          "image": "https://media.tycsports.com/files/2026/10/06/993337/gp-de-singapur_862x485.webp?v=2",
+          "body": "Este viernes se desarrollará la única sesión de entrenamiento de la fecha debido a que es un fin de semana que incluye carrera sprint, el último de la temporada 2026.\n\nFranco Colapinto. + Seguinos en La temporada 2026 de la Fórmula 1, que tiene como líder a Kimi Antonelli (Mercedes), tendrá este fin de semana su decimoséptima fecha en el marco del Gran Premio de Singapur , que se corre en el circuito urbano de Marina Bay, y tendrá la presencia de Franco Colapinto a bordo de su Alpine, que viene de terminar 13º en Malasia. Este viernes se llevará a cabo la única sesión de práctica libre de la jornada debido a que es una fecha que incluye carrera sprint, la última del año. Conocé los detalles.\n\nEl circuito de Marina Bay una pista urbana con el famoso horizonte de la ciudad como espectacular telón de fondo. El diseño inicial del circuito, obra de Hernán Tilke, fue perfeccionado por KBR Inc., y el evento se consolidó rápidamente como uno de los más destacados del calendario de la Fórmula 1. En 2008, Singapur tuvo el honor de albergar la primera carrera nocturna de la historia de la categoría, con uno de los circuitos más exigentes físicamente del calendario. Su superficie irregular, junto con la humedad, obliga a los pilotos a pensar mucho. Incluso después de la modificación del trazado en 2023, que redujo el número de curvas de 23 a 19, siguen trabajando mucho el volante en las vueltas de alta velocidad.\n\nEste fin de semana se podrá seguir la Fórmula 1 en vivo a través de Disney+, la plataforma digital de ESPN, la cual se contrata previo registro a través de la página web por $24.390 final por mes. Además, vas a poder seguir el minuto a minuto de la competición en el sitio web www.tycsports.com .",
+          "language": "es",
+          "publishedAt": "2026-10-08T23:44:39.000Z",
+          "addedAt": "2026-10-08T11:11:31.372Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -811,21 +811,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-singapur-id764556",
-          "title": "F1: hora y dónde ver en vivo la práctica libre de Colapinto en el GP de Singapur",
-          "summary": "Este viernes se desarrollará la única sesión de entrenamiento de la fecha debido a que es un fin de semana que incluye carrera sprint, el último de la temporada 2026.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-singapur-id764556.html",
-          "image": "https://media.tycsports.com/files/2026/10/06/993337/gp-de-singapur_862x485.webp?v=2",
-          "body": "Este viernes se desarrollará la única sesión de entrenamiento de la fecha debido a que es un fin de semana que incluye carrera sprint, el último de la temporada 2026.\n\nFranco Colapinto. + Seguinos en La temporada 2026 de la Fórmula 1, que tiene como líder a Kimi Antonelli (Mercedes), tendrá este fin de semana su decimoséptima fecha en el marco del Gran Premio de Singapur , que se corre en el circuito urbano de Marina Bay, y tendrá la presencia de Franco Colapinto a bordo de su Alpine, que viene de terminar 13º en Malasia. Este viernes se llevará a cabo la única sesión de práctica libre de la jornada debido a que es una fecha que incluye carrera sprint, la última del año. Conocé los detalles.\n\nEl circuito de Marina Bay una pista urbana con el famoso horizonte de la ciudad como espectacular telón de fondo. El diseño inicial del circuito, obra de Hernán Tilke, fue perfeccionado por KBR Inc., y el evento se consolidó rápidamente como uno de los más destacados del calendario de la Fórmula 1. En 2008, Singapur tuvo el honor de albergar la primera carrera nocturna de la historia de la categoría, con uno de los circuitos más exigentes físicamente del calendario. Su superficie irregular, junto con la humedad, obliga a los pilotos a pensar mucho. Incluso después de la modificación del trazado en 2023, que redujo el número de curvas de 23 a 19, siguen trabajando mucho el volante en las vueltas de alta velocidad.\n\nEste fin de semana se podrá seguir la Fórmula 1 en vivo a través de Disney+, la plataforma digital de ESPN, la cual se contrata previo registro a través de la página web por $24.390 final por mes. Además, vas a poder seguir el minuto a minuto de la competición en el sitio web www.tycsports.com .",
-          "language": "es",
-          "publishedAt": "2026-10-08T19:57:48.000Z",
-          "addedAt": "2026-10-08T11:11:31.372Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415-html",
           "title": "F1 | Colapinto en el GP de Singapur: horarios y el cronograma completo",
           "summary": "Este fin de semana, el argentino disputa la decimoséptima fecha de la temporada 2026 de la Fórmula 1 en el Circuito Urbano Marina Bay. Conocé todos los detalles.",
@@ -852,21 +837,6 @@
           "language": "es",
           "publishedAt": "2026-10-08T13:32:18.000Z",
           "addedAt": "2026-10-08T14:11:31.288Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-broma-singapur-recordo-final-mundial-id764845-html",
-          "title": "La broma de Colapinto en el GP de Singapur que recordó la final del Mundial: \"Esa camiseta está mal\"",
-          "summary": "El piloto argentino de Alpine, con memoria futbolera, le soltó una frase a un hincha con la camiseta de España que no necesita explicación.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-broma-singapur-recordo-final-mundial-id764845.html",
-          "image": "https://media.tycsports.com/files/2026/10/08/993994/la-broma-de-colapinto-a-un-hincha-espanol-en-singapur-que-recordo-la-final-del-mundial-esa-camiseta-esta-mal_416x234.webp?v=1",
-          "body": "El piloto argentino de Alpine, con memoria futbolera, le soltó una frase a un hincha con la camiseta de España que no necesita explicación.\n\nLa broma de Colapinto a un hincha español en Singapur que recordó la final del Mundial: \"Esa camiseta está mal\" + Seguinos en Franco Colapinto está en Singapur para el Gran Premio, pero encontró la manera de hablar de fútbol. El piloto de Alpine se cruzó con un hincha que llevaba puesta la casaca de España y la reacción fue inmediata: \"Esa camiseta está mal.\" La frase, cargada de humor, pero con la herida de la final del Mundial 2026 todavía fresca — cuando La Rpja derrotó a Argentina por 1-0 —, desató risas y terminó con el fanático reconociendo que él también hincha por la Albiceleste.\n\nEl video lo publicó la cuenta oficial de la escudería francesa y no tardó en circular. En las imágenes se ve a Colapinto frente a un hincha que lleva puesta la camiseta de la selección española, y el piloto no necesita mucho tiempo para reaccionar. Lejos de incomodarse, el simpatizante respondió con buena onda al intercambio. El momento derivó en risas y terminó con una declaración que el piloto argentino supo capitalizar: e l español confesó que, en el fondo, también hincha por Argentina. Misión cumplida. Alpine eligió ese clip para publicarlo con una frase que ya sintetiza lo que el pilarense genera donde quiera que vaya: \"Podemos estar en Singapur, pero para Franco siempre es Argentina.\" No es la primera vez que Colapinto convierte una parada del calendario en una pequeña embajada argentina. A lo largo de la temporada, su popularidad dentro y fuera de la pista hizo que los encuentros con hinchas se volvieran una constante en cada ciudad que visita.\n\nEl GP de Singapur se disputa en el circuito urbano de Marina Bay, uno de los más exigentes del c",
-          "language": "es",
-          "publishedAt": "2026-10-08T12:00:37.000Z",
-          "addedAt": "2026-10-08T12:11:34.255Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -916,17 +886,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur",
-          "title": "\"Es importante estar delante de los Racing Bulls\", lanza Colapinto como objetivo en Singapur",
-          "summary": "El argentino analizó las últimas carreras, donde el Alpine fue competitivo: \"Singapur es otra oportunidad para sumar puntos\"",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Singapur-foto-piloto.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-colapinto-broma-singapur-recordo-final-mundial-id764845-html",
+          "title": "La broma de Colapinto en el GP de Singapur que recordó la final del Mundial: \"Esa camiseta está mal\"",
+          "summary": "El piloto argentino de Alpine, con memoria futbolera, le soltó una frase a un hincha con la camiseta de España que no necesita explicación.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-broma-singapur-recordo-final-mundial-id764845.html",
+          "image": "https://media.tycsports.com/files/2026/10/08/993994/la-broma-de-colapinto-a-un-hincha-espanol-en-singapur-que-recordo-la-final-del-mundial-esa-camiseta-esta-mal_416x234.webp?v=1",
+          "body": "El piloto argentino de Alpine, con memoria futbolera, le soltó una frase a un hincha con la camiseta de España que no necesita explicación.\n\nLa broma de Colapinto a un hincha español en Singapur que recordó la final del Mundial: \"Esa camiseta está mal\" + Seguinos en Franco Colapinto está en Singapur para el Gran Premio, pero encontró la manera de hablar de fútbol. El piloto de Alpine se cruzó con un hincha que llevaba puesta la casaca de España y la reacción fue inmediata: \"Esa camiseta está mal.\" La frase, cargada de humor, pero con la herida de la final del Mundial 2026 todavía fresca — cuando La Rpja derrotó a Argentina por 1-0 —, desató risas y terminó con el fanático reconociendo que él también hincha por la Albiceleste.\n\nEl video lo publicó la cuenta oficial de la escudería francesa y no tardó en circular. En las imágenes se ve a Colapinto frente a un hincha que lleva puesta la camiseta de la selección española, y el piloto no necesita mucho tiempo para reaccionar. Lejos de incomodarse, el simpatizante respondió con buena onda al intercambio. El momento derivó en risas y terminó con una declaración que el piloto argentino supo capitalizar: e l español confesó que, en el fondo, también hincha por Argentina. Misión cumplida. Alpine eligió ese clip para publicarlo con una frase que ya sintetiza lo que el pilarense genera donde quiera que vaya: \"Podemos estar en Singapur, pero para Franco siempre es Argentina.\" No es la primera vez que Colapinto convierte una parada del calendario en una pequeña embajada argentina. A lo largo de la temporada, su popularidad dentro y fuera de la pista hizo que los encuentros con hinchas se volvieran una constante en cada ciudad que visita.\n\nEl GP de Singapur se disputa en el circuito urbano de Marina Bay, uno de los más exigentes del c",
           "language": "es",
-          "publishedAt": "2026-10-08T11:26:30.000Z",
-          "addedAt": "2026-10-08T12:11:33.749Z",
+          "publishedAt": "2026-10-08T12:00:37.000Z",
+          "addedAt": "2026-10-08T12:11:34.255Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -989,13 +959,7 @@
           "addedAt": "2026-10-03T18:11:30.466Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-08T23:11:34.281Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y largará último en el Gran Premio de Bahrein",
@@ -1008,6 +972,27 @@
           "language": "es",
           "publishedAt": "2026-10-03T08:59:19.000Z",
           "addedAt": "2026-10-03T09:12:02.953Z",
+          "category": "argentino",
+          "tag": "Franco"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-09T00:11:37.585Z",
+      "items": [
+        {
+          "id": "campeones-com-ar-es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur",
+          "title": "\"Es importante estar delante de los Racing Bulls\", lanza Colapinto como objetivo en Singapur",
+          "summary": "El argentino analizó las últimas carreras, donde el Alpine fue competitivo: \"Singapur es otra oportunidad para sumar puntos\"",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Singapur-foto-piloto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T11:26:30.000Z",
+          "addedAt": "2026-10-08T12:11:33.749Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1270,7 +1255,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-08T23:11:34.281Z",
+      "createdAt": "2026-10-09T00:11:37.585Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
@@ -1438,36 +1423,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc",
-          "title": "Palazzo repasó su triunfo en Balcarce con el TC Pick Up y analizó su presente en TC | Campeones",
-          "summary": "El piloto de Pinamar visitó los estudios de Campeones y contó cómo vivió la cita en el \"Juan Manuel Fangio\" de Balcarce, cercano a su Pinamar natal. Además, el reglamento del TC y cómo está Toyota, marca la cual defiende.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/HDKDFptbQAA_rpU.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T12:00:40.000Z",
-          "addedAt": "2026-10-08T12:11:34.319Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-tc-2027-los-escenarios-que-se-perfilan-para-el-arranque-y-los-que-quedarian-afuera",
-          "title": "TC 2027: los escenarios que se perfilan para el arranque y los que quedarían afuera | Campeones",
-          "summary": "La ACTC comienza a delinear el campeonato próximo, que comenzaría en Rosario y luego continuaría en el sur del país.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-2027-los-escenarios-que-se-perfilan-para-el-arranque-y-los-que-quedarian-afuera/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SaveClip.App_659031295_18581409331038057_5176446201726833752_n-1-1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T11:59:45.000Z",
-          "addedAt": "2026-10-08T12:11:34.636Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-formula-1-fernando-alonso-rally-dakar-2027-id764493-html",
           "title": "Bomba: inesperada decisión de Fernando Alonso para 2027",
           "summary": "El español volverá siete años después de su primera participación. Competirá en la categoría T1+ con un antiguo Dacia Sandrider modificado por Prodrive y tendrá nuevamente a Marc Coma como copiloto.",
@@ -1513,6 +1468,36 @@
           "tag": "F1"
         },
         {
+          "id": "campeones-com-ar-palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc",
+          "title": "Palazzo repasó su triunfo en Balcarce con el TC Pick Up y analizó su presente en TC | Campeones",
+          "summary": "El piloto de Pinamar visitó los estudios de Campeones y contó cómo vivió la cita en el \"Juan Manuel Fangio\" de Balcarce, cercano a su Pinamar natal. Además, el reglamento del TC y cómo está Toyota, marca la cual defiende.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/HDKDFptbQAA_rpU.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T12:00:40.000Z",
+          "addedAt": "2026-10-08T12:11:34.319Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc-2027-los-escenarios-que-se-perfilan-para-el-arranque-y-los-que-quedarian-afuera",
+          "title": "TC 2027: los escenarios que se perfilan para el arranque y los que quedarían afuera | Campeones",
+          "summary": "La ACTC comienza a delinear el campeonato próximo, que comenzaría en Rosario y luego continuaría en el sur del país.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-2027-los-escenarios-que-se-perfilan-para-el-arranque-y-los-que-quedarian-afuera/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SaveClip.App_659031295_18581409331038057_5176446201726833752_n-1-1.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T11:59:45.000Z",
+          "addedAt": "2026-10-08T12:11:34.636Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "campeones-com-ar-asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas",
           "title": "Así quedó la Copa de Oro de TC con Chapur líder luego de San Nicolás",
           "summary": "Con el segundo puesto en el '1-2' de Torino, el cordobés se trepó a la cima del 'playoff' a falta de tres carreras para el cierre.",
@@ -1546,7 +1531,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-08T23:11:34.281Z",
+      "createdAt": "2026-10-09T00:11:37.585Z",
       "items": [
         {
           "id": "campeones-com-ar-andersson-triunfo-en-la-segunda-carrera-del-tcr-en-corea-urrutia-se-retraso",
@@ -1822,7 +1807,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-08T23:11:34.281Z",
+      "createdAt": "2026-10-09T00:11:37.585Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-asi-quedo-colapinto-en-el-campeonato-de-destructores-en-la-formula-1-tras-su-accidente-e",
