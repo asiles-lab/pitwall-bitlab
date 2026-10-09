@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-09T09:11:29.386Z",
-  "checkedAt": "2026-10-09T09:11:29.386Z",
+  "updatedAt": "2026-10-09T10:11:29.387Z",
+  "checkedAt": "2026-10-09T10:11:29.387Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
+      "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
+      "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-HYUNDAI-POSADAS.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-03T18:45:37.000Z",
+      "addedAt": "2026-10-09T10:11:36.597Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
       "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
@@ -703,7 +718,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-09T09:11:33.110Z",
+      "createdAt": "2026-10-09T10:11:44.696Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -946,6 +961,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur",
+          "title": "F1: Colapinto quedó 19.° en la única práctica del GP de Singapur",
+          "summary": "Como la mayoría, se enfocó con el Alpine en la preparación para la carrera del domingo en las calles de Marina Bay; Russell fue el más rápido con el Mercedes. A la hora 9:30 se llevará a cabo la clasificación de la carrera Sprint .",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Singapur.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T09:35:30.000Z",
+          "addedAt": "2026-10-09T10:11:30.737Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
           "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
           "summary": "Cobertura especial del GP de Singapur de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
@@ -959,7 +989,13 @@
           "addedAt": "2026-10-02T17:57:42.536Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-09T10:11:44.696Z",
+      "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
@@ -974,13 +1010,7 @@
           "addedAt": "2026-10-03T18:11:30.466Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-09T09:11:33.110Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y largará último en el Gran Premio de Bahrein",
@@ -1006,7 +1036,7 @@
           "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Singapur-foto-piloto.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-08T11:26:30.000Z",
+          "publishedAt": "2026-10-08T21:26:30.000Z",
           "addedAt": "2026-10-08T12:11:33.749Z",
           "category": "argentino",
           "tag": "Franco"
@@ -1235,27 +1265,12 @@
           "addedAt": "2026-10-02T16:23:13.438Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336-html",
-          "title": "F1: horarios y el cronograma completo del GP de Malasia",
-          "summary": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336.html",
-          "image": "https://media.tycsports.com/files/2026/09/28/991324/gp-de-malasia_862x485.webp?v=1",
-          "body": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nGP de Malasia + Seguinos en El Campeonato Mundial de la Fórmula 1 se trasladó a Malasia debido a los conflictos bélicos en Medio Oriente, donde se disputa el Gran Premio de Bahréin , correspondiente a la 16ª fecha, luego del triunfo de George Russell en Azerbaiyán. También contará con la presencia de Franco Colapinto a bordo de su Alpine, que viene de protagonizar un choque con Gasly y abandonar en Bakú . Conocé el cronograma completo .\n\nLas primeras sesiones de prácticas tuvieron al argentino en los puestos 19 y 22 respectivamente , con el trabajo del equipo enfocado en estudiar el comportamiento del monoplaza con una nueva unidad de potencia y otros componentes actualizados. Debido a estos cambios, la FIA le impuso una nueva penalización de 10 puestos, que se suman a los cinco recibidos por el incidente en Azerbaiyán, por lo que Franco perderá 15 lugares respecto a su clasificación y tendrá que correr de atrás el domingo .\n\nEl Circuito de Sepang es uno de los màs completos de la Fórmula 1. Su amplio trazado combina largas rectas, zonas de frenada intensa y una variedad de curvas rápidas y fluidas, lo que permite a los pilotos atacar desde múltiples trazadas. El circuito es conocido por su calor y humedad, y los repentinos aguaceros tropicales pueden cambiar las condiciones en un instante. Entre las secciones más destacadas se encuentran la larga curva que une las curvas 5 y 6, y la singular horquilla final de la curva 15 que desemboca en la recta principal.",
-          "language": "es",
-          "publishedAt": "2026-10-02T10:38:59.000Z",
-          "addedAt": "2026-10-02T16:23:12.886Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-09T09:11:33.110Z",
+      "createdAt": "2026-10-09T10:11:44.696Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
@@ -1531,7 +1546,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-09T09:11:33.110Z",
+      "createdAt": "2026-10-09T10:11:44.696Z",
       "items": [
         {
           "id": "campeones-com-ar-andersson-triunfo-en-la-segunda-carrera-del-tcr-en-corea-urrutia-se-retraso",
@@ -1622,6 +1637,21 @@
           "addedAt": "2026-10-02T17:57:42.858Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336-html",
+          "title": "F1: horarios y el cronograma completo del GP de Malasia",
+          "summary": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-y-el-cronograma-completo-del-gp-de-malasia-id763336.html",
+          "image": "https://media.tycsports.com/files/2026/09/28/991324/gp-de-malasia_862x485.webp?v=1",
+          "body": "Este fin de semana se disputa la decimosexta fecha de la temporada 2026 en el Circuito de Sepang y cuenta con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nGP de Malasia + Seguinos en El Campeonato Mundial de la Fórmula 1 se trasladó a Malasia debido a los conflictos bélicos en Medio Oriente, donde se disputa el Gran Premio de Bahréin , correspondiente a la 16ª fecha, luego del triunfo de George Russell en Azerbaiyán. También contará con la presencia de Franco Colapinto a bordo de su Alpine, que viene de protagonizar un choque con Gasly y abandonar en Bakú . Conocé el cronograma completo .\n\nLas primeras sesiones de prácticas tuvieron al argentino en los puestos 19 y 22 respectivamente , con el trabajo del equipo enfocado en estudiar el comportamiento del monoplaza con una nueva unidad de potencia y otros componentes actualizados. Debido a estos cambios, la FIA le impuso una nueva penalización de 10 puestos, que se suman a los cinco recibidos por el incidente en Azerbaiyán, por lo que Franco perderá 15 lugares respecto a su clasificación y tendrá que correr de atrás el domingo .\n\nEl Circuito de Sepang es uno de los màs completos de la Fórmula 1. Su amplio trazado combina largas rectas, zonas de frenada intensa y una variedad de curvas rápidas y fluidas, lo que permite a los pilotos atacar desde múltiples trazadas. El circuito es conocido por su calor y humedad, y los repentinos aguaceros tropicales pueden cambiar las condiciones en un instante. Entre las secciones más destacadas se encuentran la larga curva que une las curvas 5 y 6, y la singular horquilla final de la curva 15 que desemboca en la recta principal.",
+          "language": "es",
+          "publishedAt": "2026-10-02T10:38:59.000Z",
+          "addedAt": "2026-10-02T16:23:12.886Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549-html",
@@ -1729,21 +1759,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-luis-moya-en-campeones-no-se-pueden-morir-sin-ver-el-rally-mundial-en-el-condor-copina",
-          "title": "Luis Moya en Campeones: \"No se pueden morir sin ver el Rally Mundial en El Cóndor - Copina\"",
-          "summary": "El histórico copiloto de Carlos Sainz habló de WRC actual y sus reglas, además de las anécdotas con Jorge Recalde y el público de Argentina.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/luis-moya-en-campeones-no-se-pueden-morir-sin-ver-el-rally-mundial-en-el-condor-copina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Sainz-Moya-Copina-1998-WRC-Toyota-Europe-v2.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T21:21:04.000Z",
-          "addedAt": "2026-10-08T22:11:33.891Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-que-motivo-la-falla-en-el-bmw-de-santero-durante-la-final-de-tc-nicolena",
           "title": "¿Qué motivó la falla en el BMW de Santero en la final de TC nicoleña?",
           "summary": "El piloto mendocino lideraba la carrera de la 2.ª fecha de la \"Copa de Oro RUS\" hasta que apareció un inconveniente en el motor.",
@@ -1807,8 +1822,23 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-09T09:11:33.110Z",
+      "createdAt": "2026-10-09T10:11:44.696Z",
       "items": [
+        {
+          "id": "campeones-com-ar-luis-moya-en-campeones-no-se-pueden-morir-sin-ver-el-rally-mundial-en-el-condor-copina",
+          "title": "Luis Moya en Campeones: \"No se pueden morir sin ver el Rally Mundial en El Cóndor - Copina\"",
+          "summary": "El histórico copiloto de Carlos Sainz habló de WRC actual y sus reglas, además de las anécdotas con Jorge Recalde y el público de Argentina.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/luis-moya-en-campeones-no-se-pueden-morir-sin-ver-el-rally-mundial-en-el-condor-copina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Sainz-Moya-Copina-1998-WRC-Toyota-Europe-v2.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T21:21:04.000Z",
+          "addedAt": "2026-10-08T22:11:33.891Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
         {
           "id": "campeones-com-ar-en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad",
           "title": "En marzo se estrenaría el circuito de Buenos Aires con el Campeonato Argentino de Velocidad",
@@ -2061,21 +2091,6 @@
           "language": "es",
           "publishedAt": "2026-10-04T14:30:48.000Z",
           "addedAt": "2026-10-04T15:11:38.851Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua",
-          "title": "Girolami le dio el '1' a Hyundai en una clasificación pasada por agua",
-          "summary": "El piloto de Isla Verde fue el más rápido en el primer corte de clasificación. La lluvia torrencial no permitió el normal desarrollo de la Q2, lo que se tradujo en \"pole\" del cordobés.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-HYUNDAI-e1791058796473.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T20:25:49.000Z",
-          "addedAt": "2026-10-09T03:11:31.382Z",
           "category": "argentino",
           "tag": "Argentino"
         }
