@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-09T12:11:26.465Z",
-  "checkedAt": "2026-10-09T12:11:26.465Z",
+  "updatedAt": "2026-10-09T13:11:29.360Z",
+  "checkedAt": "2026-10-09T13:11:29.360Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
+      "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
+      "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-HYUNDAI-POSADAS.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-03T18:45:37.000Z",
+      "addedAt": "2026-10-09T13:11:36.416Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
       "title": "Mariano Werner habló tras la dura sanción en TC Pick Up | Campeones",
@@ -233,21 +248,6 @@
       "addedAt": "2026-10-05T17:11:32.267Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-los-datos-curiosos-del-tc-en-san-nicolas",
-      "title": "Los datos curiosos del TC en San Nicolás",
-      "summary": "Mariano Werner (Ford) y Agustín Canapino (Chevrolet) son los grandes referentes históricos en el circuito “Juan María Traverso”, donde las últimas 5 Finales fueron ganadas por el piloto que largó desde la 2ª posición.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/los-datos-curiosos-del-tc-en-san-nicolas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-San-Nicolas-2025.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-02T12:22:59.000Z",
-      "addedAt": "2026-10-04T11:11:31.542Z",
-      "category": "argentino",
-      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen",
@@ -610,6 +610,21 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-los-datos-curiosos-del-tc-en-san-nicolas",
+      "title": "Los datos curiosos del TC en San Nicolás",
+      "summary": "Mariano Werner (Ford) y Agustín Canapino (Chevrolet) son los grandes referentes históricos en el circuito “Juan María Traverso”, donde las últimas 5 Finales fueron ganadas por el piloto que largó desde la 2ª posición.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/los-datos-curiosos-del-tc-en-san-nicolas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-San-Nicolas-2025.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-02T12:22:59.000Z",
+      "addedAt": "2026-10-04T11:11:31.542Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-wec-ferrari-gano-las-6-h-de-austin-en-dramatico-final-el-lexus-de-pechito-lopez-termino-13",
       "title": "WEC: Ferrari ganó en dramático final; el Lexus GT3 de \"Pechito\" López terminó 13.°",
       "summary": "La escuadra italiana se impuso con Nielsen, Fuoco y Molina restando quince minutos por una falla en el Toyota de Conway, de Vries y Kobayashi.",
@@ -703,7 +718,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-09T12:11:29.485Z",
+      "createdAt": "2026-10-09T13:11:39.251Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -826,21 +841,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-singapur-franco-colapinto-cruce-futbolero-camiseta-espana-id765051",
-          "title": "Otro cruce divertido y futbolero para Colapinto en el GP de Singapur",
-          "summary": "El el inicio de otro fin de semana de actividad en la F1, un fanático con la camiseta de España le pidió un autógrafo al argentino, que no se olvidó de la final del Mundial y le contestó con una broma.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-gran-premio-singapur-franco-colapinto-cruce-futbolero-camiseta-espana-id765051.html",
-          "image": "https://media.tycsports.com/files/2026/10/08/994236/franco-colapinto_416x234.webp?v=1",
-          "body": "El el inicio de otro fin de semana de actividad en la F1, un fanático con la camiseta de España le pidió un autógrafo al argentino, que no se olvidó de la final del Mundial y le contestó con una broma.\n\nEl divertido cruce futbolero de Colapinto con un fanático en el GP de Singapur + Seguinos en En la previa del Gran Premio de Singapur de Fórmula 1, Franco Colapinto volvió a vivir un particular y \"futbolero\" momento en el paddock . Es que el piloto de Alpine se cruzó con un seguidor que llevaba puesta la camiseta de España de Lamine Yamal, el argentino no lo perdonó y le hizo una broma.\n\n“ Está mal esa camiseta ”, lanzó el argentino con una sonrisa . El fanático respondió rápidamente: “ ¡Yo apoyo a la Argentina! ”. La ocurrencia generó risas entre quienes presenciaron el momento y, tras firmarle un autógrafo , el bonaerense continuó su recorrido por el circuito callejero.\n\nEl intercambio quedó registrado en video y se viralizó en las redes sociales. La cuenta oficial de Alpine también compartió las imágenes con un mensaje que reflejó el vínculo del piloto con su país: “ Puede que estemos en Singapur, pero siempre es Argentina para Franco Colapinto ”.\n\nEn lo deportivo, Colapinto busca recuperarse de dos resultados adversos, tras abandonar en Bakú y finalizar decimotercero en Malasia . De cara a la cita asiática, destacó el potencial del auto de Alpine y la posibilidad de volver a pelear por mejores posiciones.",
-          "language": "es",
-          "publishedAt": "2026-10-09T00:51:54.000Z",
-          "addedAt": "2026-10-09T01:11:34.322Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611-h",
           "title": "F1: Verstappen logró su primera pole del año y Colapinto largará anteúltimo",
           "summary": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.",
@@ -852,6 +852,21 @@
           "language": "es",
           "publishedAt": "2026-10-03T09:19:14.000Z",
           "addedAt": "2026-10-02T16:23:12.620Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-singapur-franco-colapinto-cruce-futbolero-camiseta-espana-id765051",
+          "title": "Otro cruce divertido y futbolero para Colapinto en el GP de Singapur",
+          "summary": "El el inicio de otro fin de semana de actividad en la F1, un fanático con la camiseta de España le pidió un autógrafo al argentino, que no se olvidó de la final del Mundial y le contestó con una broma.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-gran-premio-singapur-franco-colapinto-cruce-futbolero-camiseta-espana-id765051.html",
+          "image": "https://media.tycsports.com/files/2026/10/08/994236/franco-colapinto_416x234.webp?v=1",
+          "body": "El el inicio de otro fin de semana de actividad en la F1, un fanático con la camiseta de España le pidió un autógrafo al argentino, que no se olvidó de la final del Mundial y le contestó con una broma.\n\nEl divertido cruce futbolero de Colapinto con un fanático en el GP de Singapur + Seguinos en En la previa del Gran Premio de Singapur de Fórmula 1, Franco Colapinto volvió a vivir un particular y \"futbolero\" momento en el paddock . Es que el piloto de Alpine se cruzó con un seguidor que llevaba puesta la camiseta de España de Lamine Yamal, el argentino no lo perdonó y le hizo una broma.\n\n“ Está mal esa camiseta ”, lanzó el argentino con una sonrisa . El fanático respondió rápidamente: “ ¡Yo apoyo a la Argentina! ”. La ocurrencia generó risas entre quienes presenciaron el momento y, tras firmarle un autógrafo , el bonaerense continuó su recorrido por el circuito callejero.\n\nEl intercambio quedó registrado en video y se viralizó en las redes sociales. La cuenta oficial de Alpine también compartió las imágenes con un mensaje que reflejó el vínculo del piloto con su país: “ Puede que estemos en Singapur, pero siempre es Argentina para Franco Colapinto ”.\n\nEn lo deportivo, Colapinto busca recuperarse de dos resultados adversos, tras abandonar en Bakú y finalizar decimotercero en Malasia . De cara a la cita asiática, destacó el potencial del auto de Alpine y la posibilidad de volver a pelear por mejores posiciones.",
+          "language": "es",
+          "publishedAt": "2026-10-09T00:51:54.000Z",
+          "addedAt": "2026-10-09T01:11:34.322Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -931,21 +946,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur",
-          "title": "F1: Colapinto quedó 19.° en la única práctica del GP de Singapur",
-          "summary": "Como la mayoría, se enfocó con el Alpine en la preparación para la carrera del domingo en las calles de Marina Bay; Russell fue el más rápido con el Mercedes. A la hora 9:30 se llevará a cabo la clasificación de la carrera Sprint .",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Singapur.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T09:35:30.000Z",
-          "addedAt": "2026-10-09T10:11:30.737Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
           "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
           "summary": "Cobertura especial del GP de Singapur de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
@@ -974,13 +974,7 @@
           "addedAt": "2026-10-03T18:11:30.466Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-09T12:11:29.485Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y largará último en el Gran Premio de Bahrein",
@@ -995,7 +989,13 @@
           "addedAt": "2026-10-03T09:12:02.953Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-09T13:11:39.251Z",
+      "items": [
         {
           "id": "campeones-com-ar-es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur",
           "title": "\"Es importante estar delante de los Racing Bulls\", lanza Colapinto como objetivo en Singapur",
@@ -1053,6 +1053,21 @@
           "language": "es",
           "publishedAt": "2026-10-06T20:52:30.000Z",
           "addedAt": "2026-10-07T01:11:30.601Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur",
+          "title": "F1: Colapinto quedó 19.° en la única práctica del GP de Singapur",
+          "summary": "Como la mayoría, se enfocó con el Alpine en la preparación para la carrera del domingo en las calles de Marina Bay; Russell fue el más rápido con el Mercedes. A la hora 9:30 se llevará a cabo la clasificación de la carrera Sprint .",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Singapur.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T09:35:30.000Z",
+          "addedAt": "2026-10-09T10:11:30.737Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1255,7 +1270,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-09T12:11:29.485Z",
+      "createdAt": "2026-10-09T13:11:39.251Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
@@ -1531,7 +1546,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-09T12:11:29.485Z",
+      "createdAt": "2026-10-09T13:11:39.251Z",
       "items": [
         {
           "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
@@ -1624,21 +1639,6 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549-html",
-          "title": "Corrió con Schumacher en la F1 y ahora vende repuestos para colectivos",
-          "summary": "Esteban Tuero debutó en la máxima categoría a los 19 años, disputó una sola temporada y decidió volver a la Argentina. Después de retirarse, se dedicó al negocio familiar de autopartes para el transporte.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549.html",
-          "image": "https://media.tycsports.com/files/2026/10/06/993327/tuero-y-reutemann_1440x810.webp",
-          "body": "Esteban Tuero debutó en la máxima categoría a los 19 años, disputó una sola temporada y decidió volver a la Argentina. Después de retirarse, se dedicó al negocio familiar de autopartes para el transporte.\n\nTuero junto a Reutemann en la previa del GP de Buenos Aires. + Seguinos en A los 19 años, Esteban Tuero llegó a la Fórmula 1 y compartió la pista con Michael Schumacher . Era 1998 y el argentino se incorporaba a Minardi, donde disputó los 16 Grandes Premios de aquella temporada. Su recorrido en la máxima categoría duró apenas un año: aunque tenía la posibilidad de continuar, decidió regresar al país. Mucho después, cuando dejó definitivamente las carreras, su actividad pasó a concentrarse en otro sector de la industria automotriz : los repuestos para colectivos y camiones.\n\nEl vínculo viene de familia. Su padre, Eduardo “ Pirulo ” Tuero, también había sido piloto y estaba al frente del negocio al que Esteban le dedicó más tiempo después de retirarse. La empresa Porenz fabrica componentes para suspensiones neumáticas , utilizados en vehículos de transporte de pasajeros y de carga. Así, el trabajo con las autopartes se convirtió en su ocupación fuera de los circuitos.\n\nPara llegar a la F1, Tuero había construido una carrera que lo llevó muy joven al exterior. Fue campeón de la Fórmula Honda en 1994 y de la Fórmula 2000 italiana en 1995, antes de pasar por otras categorías y realizar pruebas con Minardi. La escudería de Faenza lo eligió para acompañar al japonés Shinji Nakano en 1998: debutó en Australia con 19 años y se convirtió, en aquel momento, en el tercer piloto más joven en estrenarse en la categoría .\n\nSu temporada estuvo condicionada por las limitaciones del Minardi y los abandonos. El mejor resultado llegó en el Gran Premio de San Marino, donde terminó octavo,",
-          "language": "es",
-          "publishedAt": "2026-10-06T12:33:46.000Z",
-          "addedAt": "2026-10-06T13:11:32.116Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-colapinto-sobre-el-gp-de-singapur-las-condiciones-realmente-premian-el-compromiso",
           "title": "Colapinto sobre el GP de Singapur: «Las condiciones realmente premian el compromiso»",
           "summary": "El argentino se prepara para participar en uno de los fines de semana más exigentes del calendario, aunque dijo que las características del circuito «hace que sea uno de mis favoritos del año».",
@@ -1652,6 +1652,21 @@
           "addedAt": "2026-10-06T15:11:32.761Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549-html",
+          "title": "Corrió con Schumacher en la F1 y ahora vende repuestos para colectivos",
+          "summary": "Esteban Tuero debutó en la máxima categoría a los 19 años, disputó una sola temporada y decidió volver a la Argentina. Después de retirarse, se dedicó al negocio familiar de autopartes para el transporte.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549.html",
+          "image": "https://media.tycsports.com/files/2026/10/06/993327/tuero-y-reutemann_1440x810.webp",
+          "body": "Esteban Tuero debutó en la máxima categoría a los 19 años, disputó una sola temporada y decidió volver a la Argentina. Después de retirarse, se dedicó al negocio familiar de autopartes para el transporte.\n\nTuero junto a Reutemann en la previa del GP de Buenos Aires. + Seguinos en A los 19 años, Esteban Tuero llegó a la Fórmula 1 y compartió la pista con Michael Schumacher . Era 1998 y el argentino se incorporaba a Minardi, donde disputó los 16 Grandes Premios de aquella temporada. Su recorrido en la máxima categoría duró apenas un año: aunque tenía la posibilidad de continuar, decidió regresar al país. Mucho después, cuando dejó definitivamente las carreras, su actividad pasó a concentrarse en otro sector de la industria automotriz : los repuestos para colectivos y camiones.\n\nEl vínculo viene de familia. Su padre, Eduardo “ Pirulo ” Tuero, también había sido piloto y estaba al frente del negocio al que Esteban le dedicó más tiempo después de retirarse. La empresa Porenz fabrica componentes para suspensiones neumáticas , utilizados en vehículos de transporte de pasajeros y de carga. Así, el trabajo con las autopartes se convirtió en su ocupación fuera de los circuitos.\n\nPara llegar a la F1, Tuero había construido una carrera que lo llevó muy joven al exterior. Fue campeón de la Fórmula Honda en 1994 y de la Fórmula 2000 italiana en 1995, antes de pasar por otras categorías y realizar pruebas con Minardi. La escudería de Faenza lo eligió para acompañar al japonés Shinji Nakano en 1998: debutó en Australia con 19 años y se convirtió, en aquel momento, en el tercer piloto más joven en estrenarse en la categoría .\n\nSu temporada estuvo condicionada por las limitaciones del Minardi y los abandonos. El mejor resultado llegó en el Gran Premio de San Marino, donde terminó octavo,",
+          "language": "es",
+          "publishedAt": "2026-10-06T12:33:46.000Z",
+          "addedAt": "2026-10-06T13:11:32.116Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-le-respondio-a-lando-norris-y-se-quejo-de-los-ataques-en-redes-siempre-",
@@ -1759,6 +1774,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud",
+          "title": "TC: Ignacio Fain, la avanzada ganadora de la juventud",
+          "summary": "Con 21 años, el santafesino del Trotta Racing Team se convirtió en el ganador más joven del campeonato 2026 del Turismo Carretera. Repasamos los vencedores más veteranos y más jóvenes en cada temporada de la categoría durante la última década.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-Victoria-TC-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T12:39:02.000Z",
+          "addedAt": "2026-10-09T13:11:31.239Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-los-argentinos-y-campeones-presentes-en-viterbo",
           "title": "Los argentinos y Campeones, presentes en Viterbo | Campeones",
           "summary": "Italia es el país elegido para la cita mundialista de la Copa Mundial de Karting de la FIA 2026 y Martín Saa, Salvador Echarri, Agustín Pizarro y Joaquín Gorlero Pizarro están presentes.",
@@ -1787,7 +1817,13 @@
           "addedAt": "2026-10-08T22:11:33.891Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-09T13:11:39.251Z",
+      "items": [
         {
           "id": "campeones-com-ar-en-marzo-se-estrenaria-el-circuito-de-buenos-aires-con-el-campeonato-argentino-de-velocidad",
           "title": "En marzo se estrenaría el circuito de Buenos Aires con el Campeonato Argentino de Velocidad",
@@ -1802,13 +1838,7 @@
           "addedAt": "2026-10-05T15:11:31.193Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-09T12:11:29.485Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-gran-demostracion-de-lorenzato-en-el-mundial-de-flat-track-previo-a-las-carreras-de-argentina",
           "title": "Gran demostración de Lorenzato en el Mundial de Flat Track previo a las carreras de Argentina",
@@ -2061,21 +2091,6 @@
           "language": "es",
           "publishedAt": "2026-10-04T14:30:48.000Z",
           "addedAt": "2026-10-04T15:11:38.851Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua",
-          "title": "Girolami le dio el '1' a Hyundai en una clasificación pasada por agua",
-          "summary": "El piloto de Isla Verde fue el más rápido en el primer corte de clasificación. La lluvia torrencial no permitió el normal desarrollo de la Q2, lo que se tradujo en \"pole\" del cordobés.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-HYUNDAI-e1791058796473.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T20:25:49.000Z",
-          "addedAt": "2026-10-09T11:11:36.597Z",
           "category": "argentino",
           "tag": "Argentino"
         }
