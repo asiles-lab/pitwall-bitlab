@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-09T06:11:29.303Z",
-  "checkedAt": "2026-10-09T06:11:29.303Z",
+  "updatedAt": "2026-10-09T08:11:29.349Z",
+  "checkedAt": "2026-10-09T08:11:29.349Z",
   "pageSize": 18,
   "sources": [
     {
@@ -703,7 +703,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-09T06:11:33.109Z",
+      "createdAt": "2026-10-09T08:11:32.953Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-emocion-franco-colapinto-retiro-lionel-messi-seleccion-argentina-id764889-html",
@@ -979,7 +979,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-09T06:11:33.109Z",
+      "createdAt": "2026-10-09T08:11:32.953Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
@@ -1255,7 +1255,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-09T06:11:33.109Z",
+      "createdAt": "2026-10-09T08:11:32.953Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
@@ -1363,21 +1363,6 @@
           "tag": "Clasificacion"
         },
         {
-          "id": "campeones-com-ar-si-fuera-mazzacane-haria-el-coronacion-de-tc-en-balcarce",
-          "title": "«Si fuera Mazzacane haría el Coronación de TC en Balcarce»",
-          "summary": "Uno de los campeones de Turismo Carretera, Norberto Fontana consideró que con las mejoras en el circuito de \"La Barrosa\" podría correr nuevamente la categoría.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/si-fuera-mazzacane-haria-el-coronacion-de-tc-en-balcarce/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/26108-TCPUp-Balcarce.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T20:06:24.000Z",
-          "addedAt": "2026-10-08T20:11:09.979Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-formula-1-fernando-alonso-rally-dakar-2027-id764493-html",
           "title": "Bomba: inesperada decisión de Fernando Alonso para 2027",
           "summary": "El español volverá siete años después de su primera participación. Competirá en la categoría T1+ con un antiguo Dacia Sandrider modificado por Prodrive y tendrá nuevamente a Marc Coma como copiloto.",
@@ -1419,6 +1404,21 @@
           "language": "es",
           "publishedAt": "2026-10-03T17:19:06.000Z",
           "addedAt": "2026-10-03T18:11:30.923Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-si-fuera-mazzacane-haria-el-coronacion-de-tc-en-balcarce",
+          "title": "«Si fuera Mazzacane haría el Coronación de TC en Balcarce»",
+          "summary": "Uno de los campeones de Turismo Carretera, Norberto Fontana consideró que con las mejoras en el circuito de \"La Barrosa\" podría correr nuevamente la categoría.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/si-fuera-mazzacane-haria-el-coronacion-de-tc-en-balcarce/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/26108-TCPUp-Balcarce.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T20:06:24.000Z",
+          "addedAt": "2026-10-08T20:11:09.979Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1531,7 +1531,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-09T06:11:33.109Z",
+      "createdAt": "2026-10-09T08:11:32.953Z",
       "items": [
         {
           "id": "campeones-com-ar-andersson-triunfo-en-la-segunda-carrera-del-tcr-en-corea-urrutia-se-retraso",
@@ -1807,7 +1807,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-09T06:11:33.109Z",
+      "createdAt": "2026-10-09T08:11:32.953Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-asi-quedo-colapinto-en-el-campeonato-de-destructores-en-la-formula-1-tras-su-accidente-e",
@@ -1900,21 +1900,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-la-otra-copa-de-oro-los-12-cambios-de-equipo-en-el-tc",
-          "title": "La otra Copa de Oro: los 12 cambios de equipo en el TC | Campeones",
-          "summary": "Con el pase de Santiago Álvarez al TCM Racing, se llegó a la docena de cambios respecto al inicio de la temporada. Aquí los repasamos a todos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-otra-copa-de-oro-los-12-cambios-de-equipo-en-el-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Boxes-TC-San-Nicolas-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T19:36:56.000Z",
-          "addedAt": "2026-10-08T20:11:08.749Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-la-copa-de-oro-del-tc-tiene-nuevo-lider-tras-la-fecha-de-san-nicolas-id764352-html",
           "title": "La Copa de Oro del TC tiene nuevo líder tras la fecha de San Nicolás",
           "summary": "Facundo Chapur aprovechó el abandono de Mariano Werner y pasó al frente del playoff. Julián Santero y Otto Fritzler quedaron muy cerca.",
@@ -1986,6 +1971,21 @@
           "language": "es",
           "publishedAt": "2026-10-07T21:50:47.000Z",
           "addedAt": "2026-10-07T15:11:30.384Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-la-otra-copa-de-oro-los-12-cambios-de-equipo-en-el-tc",
+          "title": "La otra Copa de Oro: los 12 cambios de equipo en el TC | Campeones",
+          "summary": "Con el pase de Santiago Álvarez al TCM Racing, se llegó a la docena de cambios respecto al inicio de la temporada. Aquí los repasamos a todos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-otra-copa-de-oro-los-12-cambios-de-equipo-en-el-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Boxes-TC-San-Nicolas-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T19:36:56.000Z",
+          "addedAt": "2026-10-08T20:11:08.749Z",
           "category": "argentino",
           "tag": "Argentino"
         },
