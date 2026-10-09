@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-09T20:11:29.467Z",
-  "checkedAt": "2026-10-09T20:11:29.467Z",
+  "updatedAt": "2026-10-09T21:11:30.188Z",
+  "checkedAt": "2026-10-09T21:11:30.188Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas",
+      "title": "Hyundai y Girolami completaron un fin de semana ideal en Posadas",
+      "summary": "El \"Bebu\" se llevó también la segunda carrera en el \"Rosamonte\", alcanzando su cuarto éxito de la temporada 2026. Lo siguieron Fabián Yannantuoni y Joaquín Cafaro.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-SOUTH-AMERICA-POSADAS-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-04T17:11:39.000Z",
+      "addedAt": "2026-10-09T21:11:32.260Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
       "title": "Girolami y Hyundai siguen imbatibles en Posadas",
@@ -838,8 +853,23 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-09T20:11:38.255Z",
+      "createdAt": "2026-10-09T21:11:38.465Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-post-qualy-sprint-gp-singapur-id765148-html",
+          "title": "Colapinto, optimista tras la qualy Sprint del Gran Premio de Singapur: “Vamos a estar mejor mañana”",
+          "summary": "El argentino largará 11° en la minicarrera del sábado. A pesar de que explicó las dificultades que tuvo en su monoplaza en la jornada del viernes, se mostró entusiasta para lo que viene. “No estamos lejos”, aseguró.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-post-qualy-sprint-gp-singapur-id765148.html",
+          "image": "https://media.tycsports.com/files/2026/10/09/994382/fracno_1440x810.webp?v=1",
+          "body": "El argentino largará 11° en la minicarrera del sábado. A pesar de que explicó las dificultades que tuvo en su monoplaza en la jornada del viernes, se mostró entusiasta para lo que viene. “No estamos lejos”, aseguró.\n\nColapinto se mostró optimista de cara a la Sprint del GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto , piloto argentino de Alpine, se mostró optimista de cara a la continuidad del Gran Premio de Singapur tras finalizar 11° este viernes en la clasificación para la carrera Sprint : “No estamos lejos y estoy seguro de que vamos a estar mejor mañana”.\n\n“Estuvimos muy cerca” , valoró el pilarense, quien en la SQ2 se ubicó a +0.094 de su compañero de equipo, Pierre Gasly, quien clasificó 10°, y por esa mínima diferencia no pudo meterse entre los diez mejores de la sesión.\n\nAunque destacó que su vuelta rápida de 1:33.249 en la qualy fue “buena” , el #43 acusó dificultades en su monoplaza en el inicio del giro. “No me siento cómodo con los frenos y las gomas para arrancar y tener el grip que quiero y debería tener” , comentó.\n\nEl argentino también analizó su rendimiento en la práctica libre, en la cual finalizó 19°, y explicó los problemas que tuvo en su A526: “ Me costó todo el día porque el auto se sentía desconectado en la entrada y mitad de curva, se me iba de trompa. Tenemos bastante por mejorar para mañana”.",
+          "language": "es",
+          "publishedAt": "2026-10-09T20:41:38.000Z",
+          "addedAt": "2026-10-09T16:11:31.455Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748-html",
           "title": "F1: hora y dónde ver la carrera sprint de Colapinto en el GP de Singapur",
@@ -852,21 +882,6 @@
           "language": "es",
           "publishedAt": "2026-10-09T13:45:36.000Z",
           "addedAt": "2026-10-09T14:11:31.910Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-post-qualy-sprint-gp-singapur-id765148-html",
-          "title": "Colapinto, optimista tras la qualy Sprint del Gran Premio de Singapur: “Vamos a estar mejor mañana”",
-          "summary": "El argentino largará 11° en la minicarrera del sábado. A pesar de que explicó las dificultades que tuvo en su monoplaza en la jornada del viernes, se mostró entusiasta para lo que viene. “No estamos lejos”, aseguró.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-post-qualy-sprint-gp-singapur-id765148.html",
-          "image": "https://media.tycsports.com/files/2026/10/09/994382/fracno_1440x810.webp?v=1",
-          "body": "El argentino largará 11° en la minicarrera del sábado. A pesar de que explicó las dificultades que tuvo en su monoplaza en la jornada del viernes, se mostró entusiasta para lo que viene. “No estamos lejos”, aseguró.\n\nColapinto se mostró optimista de cara a la Sprint del GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto , piloto argentino de Alpine, se mostró optimista de cara a la continuidad del Gran Premio de Singapur tras finalizar 11° este viernes en la clasificación para la carrera Sprint : “No estamos lejos y estoy seguro de que vamos a estar mejor mañana”.\n\n“Estuvimos muy cerca” , valoró el pilarense, quien en la SQ2 se ubicó a +0.094 de su compañero de equipo, Pierre Gasly, quien clasificó 10°, y por esa mínima diferencia no pudo meterse entre los diez mejores de la sesión.\n\nAunque destacó que su vuelta rápida de 1:33.249 en la qualy fue “buena” , el #43 acusó dificultades en su monoplaza en el inicio del giro. “No me siento cómodo con los frenos y las gomas para arrancar y tener el grip que quiero y debería tener” , comentó.\n\nEl argentino también analizó su rendimiento en la práctica libre, en la cual finalizó 19°, y explicó los problemas que tuvo en su A526: “ Me costó todo el día porque el auto se sentía desconectado en la entrada y mitad de curva, se me iba de trompa. Tenemos bastante por mejorar para mañana”.",
-          "language": "es",
-          "publishedAt": "2026-10-09T15:47:31.000Z",
-          "addedAt": "2026-10-09T16:11:31.455Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -946,21 +961,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-emocion-franco-colapinto-retiro-lionel-messi-seleccion-argentina-id764889-html",
-          "title": "La emoción de Franco Colapinto por el retiro de Lionel Messi de la Selección: “Lloré un rato”",
-          "summary": "En la previa del GP de Singapur, el pilarense contó sus sensaciones por la despedida del astro rosarino. “Fue un momento emotivo para toda la Argentina”, expresó.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/emocion-franco-colapinto-retiro-lionel-messi-seleccion-argentina-id764889.html",
-          "image": "https://media.tycsports.com/files/2026/10/08/994059/franco_862x485.webp?v=1",
-          "body": "En la previa del GP de Singapur, el pilarense contó sus sensaciones por la despedida del astro rosarino. “Fue un momento emotivo para toda la Argentina”, expresó.\n\nFranco Colapinto y Lionel Messi se encontraron en la previa del Gran Premio de Miami. + Seguinos en Franco Colapinto contó sus sensaciones sobre cómo vivió la despedida de Lionel Messi de la Selección Argentina este jueves en el marco del Media Day del Gran Premio de Singapur de la Fórmula 1. “Lloré un rato” , reveló el piloto argentino.\n\n“Fue un momento muy emotivo para toda la Argentina”, comentó el corredor de Alpine en diálogo con ESPN en el paddock del circuito callejero de Marina Bay. Aunque confesó que suele ser muy sensible con este tipo de situaciones, bromeó y dijo que “el que no se emocionó con la despedida de Leo está mal”.\n\nEl pilarense catalogó el retiro del astro rosarino de la Albiceleste como “una tristeza muy grande”, pero también explicó que, luego de la victoria de los dirigidos por Lionel Scaloni 3-0 ante Benín en el Monumental, cambió rápidamente el chip: “Basta de fútbol. Ahora a enfocarse en el automovilismo y a tener un buen finde acá en Singapur”.\n\nEl mismo martes, luego del partido, el piloto de 23 años también había posteado una foto suya en sus historias de Instagram con la camiseta del conjunto nacional y el 19 en el dorso, la primera que la Pulga utilizó en la Albiceleste. “Adiós” , fue su mensaje para homenajear al mejor jugador de todos los tiempos, con quien se encontró en la previa del Gran Premio de Miami.",
-          "language": "es",
-          "publishedAt": "2026-10-08T20:34:05.000Z",
-          "addedAt": "2026-10-08T15:11:28.692Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-la-sprint-de-colapinto-en-el-gp-de-singa",
           "title": "F1: Verstappen hizo pole y Colapinto largará 11° en el GP de Singapur",
           "summary": "El piloto argentino de Alpine fue 0.094 más lento que su compañero Pierre Gasly, quedó eliminado en la SQ2 y partirá undécimo este sábado.",
@@ -1021,6 +1021,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-emocion-franco-colapinto-retiro-lionel-messi-seleccion-argentina-id764889-html",
+          "title": "La emoción de Franco Colapinto por el retiro de Lionel Messi de la Selección: “Lloré un rato”",
+          "summary": "En la previa del GP de Singapur, el pilarense contó sus sensaciones por la despedida del astro rosarino. “Fue un momento emotivo para toda la Argentina”, expresó.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/emocion-franco-colapinto-retiro-lionel-messi-seleccion-argentina-id764889.html",
+          "image": "https://media.tycsports.com/files/2026/10/08/994059/franco_862x485.webp?v=1",
+          "body": "En la previa del GP de Singapur, el pilarense contó sus sensaciones por la despedida del astro rosarino. “Fue un momento emotivo para toda la Argentina”, expresó.\n\nFranco Colapinto y Lionel Messi se encontraron en la previa del Gran Premio de Miami. + Seguinos en Franco Colapinto contó sus sensaciones sobre cómo vivió la despedida de Lionel Messi de la Selección Argentina este jueves en el marco del Media Day del Gran Premio de Singapur de la Fórmula 1. “Lloré un rato” , reveló el piloto argentino.\n\n“Fue un momento muy emotivo para toda la Argentina”, comentó el corredor de Alpine en diálogo con ESPN en el paddock del circuito callejero de Marina Bay. Aunque confesó que suele ser muy sensible con este tipo de situaciones, bromeó y dijo que “el que no se emocionó con la despedida de Leo está mal”.\n\nEl pilarense catalogó el retiro del astro rosarino de la Albiceleste como “una tristeza muy grande”, pero también explicó que, luego de la victoria de los dirigidos por Lionel Scaloni 3-0 ante Benín en el Monumental, cambió rápidamente el chip: “Basta de fútbol. Ahora a enfocarse en el automovilismo y a tener un buen finde acá en Singapur”.\n\nEl mismo martes, luego del partido, el piloto de 23 años también había posteado una foto suya en sus historias de Instagram con la camiseta del conjunto nacional y el 19 en el dorso, la primera que la Pulga utilizó en la Albiceleste. “Adiós” , fue su mensaje para homenajear al mejor jugador de todos los tiempos, con quien se encontró en la previa del Gran Premio de Miami.",
+          "language": "es",
+          "publishedAt": "2026-10-08T20:34:05.000Z",
+          "addedAt": "2026-10-08T15:11:28.692Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-colapinto-clasifico-11-para-la-carrera-sprint-de-singapur-de-f1",
           "title": "Colapinto clasificó 11.° para la carrera Sprint de F1 en Singapur",
           "summary": "En el circuito de Marina Bay, el piloto argentino no pudo superar el segundo corte con el Alpine y quedó cerca del Top10 en donde sí ingresó su compañero Gasly. La \"pole\" quedó en manos de Vestappen.",
@@ -1047,21 +1062,6 @@
           "language": "es",
           "publishedAt": "2026-10-09T00:51:54.000Z",
           "addedAt": "2026-10-09T01:11:34.322Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-alpine-explico-por-que-decidio-tocar-el-motor-y-que-colapinto-sea-sancionado-id764083-ht",
-          "title": "Alpine explicó por qué decidió \"tocar\" el motor y que Colapinto sea sancionado",
-          "summary": "El director general de la escudería, Steve Nielsen, detalló la estrategia del equipo para el Gran Premio de Malasia y contó lo que los llevó a realizar cambios pese a que serían sancionados.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/alpine-explico-por-que-decidio-tocar-el-motor-y-que-colapinto-sea-sancionado-id764083.html",
-          "image": "https://media.tycsports.com/files/2026/09/26/990872/franco-colapinto_1440x810.webp?v=1",
-          "body": "El director general de la escudería, Steve Nielsen, detalló la estrategia del equipo para el Gran Premio de Malasia y contó lo que los llevó a realizar cambios pese a que serían sancionados.\n\nCuál fue la sanción de la FIA a Colapinto tras su accidente en el GP de Azerbaiyán. + Seguinos en El piloto argentino Franco Colapinto largará desde el fondo en el Gran Premio de Malasia debido a una penalización de 15 puestos. A los cinco lugares por el accidente en Bakú se sumaron otros diez por el cambio del motor de combustión interna, decisión que tomaron desde Alpine y cuyos motivos explicó recientemente Steve Nielsen, director general de la escudería .\n\nDesde el equipo del pilarense explicaron que aprovecharon la sanción previa para realizar el reemplazo y consideraron que el circuito era una buena oportunidad para recuperar posiciones durante la carrera, debido a sus posibilidades de adelantamiento.\n\nRespecto a la actuación del argentino en las prácticas, Nielsen indicó: \" Franco corrió con el tanque lleno en ambas sesiones con la vista puesta en la preparación para la carrera del domingo. Sabíamos que en algún momento tendríamos que aceptar una penalización por componentes de la unidad de potencia, como algunos de nuestros rivales, y sentimos que esta pista podría ser óptima para adelantar y permite una mayor oportunidad para que Franco avance en la parrilla, como lo vimos hacer en Monza en su camino hacia los puntos \" .\n\nEl argentino terminó 19° y 22° en las dos prácticas y de esta manera descartó trabajar pensando en la clasificación . \"El ritmo en la FP2 fue bastante bueno y hay que intentar avanzar. El sábado está medio perdido por la penalización, así que intentaremos enfocarnos en el domingo \" , sostuvo el piloto bonaerense.",
-          "language": "es",
-          "publishedAt": "2026-10-02T20:37:34.000Z",
-          "addedAt": "2026-10-02T21:06:55.272Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1109,13 +1109,7 @@
           "addedAt": "2026-10-05T13:11:31.250Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-09T20:11:38.255Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-la-furiosa-reaccion-de-colapinto-por-la-estrategia-de-alpine-en-el-gp-de-malasia-de-la-f",
           "title": "La furiosa reacción de Colapinto por la estrategia de Alpine en el GP de Bahréin en Malasia",
@@ -1130,7 +1124,13 @@
           "addedAt": "2026-10-04T12:11:31.035Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-09T21:11:38.465Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770-html",
           "title": "Max Verstappen se quedó con el GP de Malasia: Colapinto finalizó 13&ordm;",
@@ -1252,21 +1252,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
-          "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
-          "summary": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-palpito-gp-singapur-formula-1-id764619.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
-          "body": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.\n\nFranco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Luego de escalar ocho posiciones y finalizar 13° en Malasia, Franco Colapinto, piloto argentino de Alpine, palpitó el GP de Singapur de la Fórmula 1, que se correrá el fin de semana próximo en el circuito callejero Marina Bay, uno de los escenarios más desafiantes para los pilotos desde el punto de vista físico.\n\n\"Después de nuestra carrera en Malasia, estamos haciendo el corto viaje a Singapur para uno de los fines de semana más extremos de la temporada. El calor y la humedad fueron todo un desafío en Sepang y no serán diferente este fin de semana, solo que con la naturaleza añadida de que es un circuito urbano\" , sostuvo el argentino\n\nSiguiendo esa línea, su compañero de equipo, Pierre Gasly agregó: \"Ya estamos bastante acostumbrados a las condiciones, dado que competimos en Malasia el fin de semana pasado, donde hizo calor, humedad y, por supuesto, llovió mucho el día de la carrera\".\n\nSobre la pista, Colapinto destacó: “La pista es implacable y muy divertida de conducir. La mezcla de curvas técnicas, superficie llena de baches y paredes cerradas, además de estar bajo las luces, lo convierte en uno de mis favoritos del año”.",
-          "language": "es",
-          "publishedAt": "2026-10-06T20:52:30.000Z",
-          "addedAt": "2026-10-07T01:11:30.601Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur",
           "title": "F1: Colapinto quedó 19.° en la única práctica del GP de Singapur",
           "summary": "Como la mayoría, se enfocó con el Alpine en la preparación para la carrera del domingo en las calles de Marina Bay; Russell fue el más rápido con el Mercedes. A la hora 9:30 se llevará a cabo la clasificación de la carrera Sprint .",
@@ -1342,6 +1327,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
+          "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
+          "summary": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-palpito-gp-singapur-formula-1-id764619.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
+          "body": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.\n\nFranco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Luego de escalar ocho posiciones y finalizar 13° en Malasia, Franco Colapinto, piloto argentino de Alpine, palpitó el GP de Singapur de la Fórmula 1, que se correrá el fin de semana próximo en el circuito callejero Marina Bay, uno de los escenarios más desafiantes para los pilotos desde el punto de vista físico.\n\n\"Después de nuestra carrera en Malasia, estamos haciendo el corto viaje a Singapur para uno de los fines de semana más extremos de la temporada. El calor y la humedad fueron todo un desafío en Sepang y no serán diferente este fin de semana, solo que con la naturaleza añadida de que es un circuito urbano\" , sostuvo el argentino\n\nSiguiendo esa línea, su compañero de equipo, Pierre Gasly agregó: \"Ya estamos bastante acostumbrados a las condiciones, dado que competimos en Malasia el fin de semana pasado, donde hizo calor, humedad y, por supuesto, llovió mucho el día de la carrera\".\n\nSobre la pista, Colapinto destacó: “La pista es implacable y muy divertida de conducir. La mezcla de curvas técnicas, superficie llena de baches y paredes cerradas, además de estar bajo las luces, lo convierte en uno de mis favoritos del año”.",
+          "language": "es",
+          "publishedAt": "2026-10-06T20:52:30.000Z",
+          "addedAt": "2026-10-07T01:11:30.601Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-",
           "title": "La cruda autocrítica de Briatore tras el enojo de Colapinto con Alpine",
           "summary": "El asesor ejecutivo admitió que el equipo “no tomó las decisiones acertadas” en el Gran Premio de Malasia de la Fórmula 1.",
@@ -1385,13 +1385,43 @@
           "addedAt": "2026-10-04T11:11:30.712Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang",
+          "title": "F1: Top10 de Colapinto, tras otra práctica de preparación en Sepang",
+          "summary": "Durante la última sesión de entrenamientos del GP de Bahrein, el argentino centró su foco en el rendimiento y consumo de neumáticos para la carrera.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-Alpine-Blandos.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T05:32:37.000Z",
+          "addedAt": "2026-10-03T06:54:55.719Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-09T20:11:38.255Z",
+      "createdAt": "2026-10-09T21:11:38.465Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-carlos-sainz-exploto-contra-fia-insolito-error-gp-de-singapur-id765352-html",
+          "title": "Un piloto de la F1 explotó contra la FIA tras un insólito error en el GP de Singapur",
+          "summary": "El piloto de Williams disparó luego de que un inconveniente generara que algunos pilotos contaran con mayor potencia que otros en la qualy para la Sprint. “Por alguna razón decidió no actuar ante una desigualdad deportiva”, disparó contra la entidad.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/carlos-sainz-exploto-contra-fia-insolito-error-gp-de-singapur-id765352.html",
+          "image": "https://media.tycsports.com/files/2026/10/09/994476/carlos-sainz_416x234.webp",
+          "body": "El piloto de Williams disparó luego de que un inconveniente generara que algunos pilotos contaran con mayor potencia que otros en la qualy para la Sprint. “Por alguna razón decidió no actuar ante una desigualdad deportiva”, disparó contra la entidad.\n\nCarlos Sainz, explotó contra la FIA tras los incidentes en Singapur (X) + Seguinos en La nueva reglamentación que introdujo la Fórmula 1 en 2026 volvió a generar polémica. Después de los incidentes registrados en la largada del Gran Premio de Malasia, el de Singapur volvió a quedar en el ojo de la tormenta por un problema en la gestión eléctrica de los monoplazas. En este contexto, Carlos Sainz, piloto de Williams, explotó tras quedar último en la qualy para la Sprint y disparó directamente contra la FIA.\n\n\"Por alguna razón, la FIA, al igual que en Malasia, no decidió actuar ante una desigualdad deportiva\", expresó el español, quien aseguró en declaraciones a F1 TV que algunos de sus rivales contaron con una ventaja de aproximadamente medio segundo por vuelta debido a las diferencias de potencia.\n\nSainz recordó los inconvenientes registrados el fin de semana pasado en Malasia, cuando una falla de software afectó a varios monoplazas durante el procedimiento de largada y obligó a interrumpir el inicio de la carrera. Para Sainz, ambos episodios dejaron en evidencia diferencias deportivas que no fueron corregidas por la FIA y cuestionó el criterio del organismo a la hora de intervenir ante este tipo de situaciones.\n\nPor su parte, la Federación Internacional del Automóvil reconoció que en Singapur se produjo un error humano que impidió habilitar correctamente el Modo Adelantamiento después de la bandera roja que provocó Sergio Pérez. Según explicó la entidad, el sistema estuvo activado durante apenas 27 segundos antes de volver",
+          "language": "es",
+          "publishedAt": "2026-10-09T21:03:26.000Z",
+          "addedAt": "2026-10-09T21:11:32.589Z",
+          "category": "general",
+          "tag": "Reglamento"
+        },
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
           "title": "Lewis Hamilton señaló a los pilotos jóvenes de la Fórmula 1: ¿le tienen miedo a la lluvia?",
@@ -1646,7 +1676,13 @@
           "addedAt": "2026-10-02T17:54:07.788Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-09T21:11:38.465Z",
+      "items": [
         {
           "id": "campeones-com-ar-f1-se-anticipa-que-ruanda-tendria-una-fecha-desde-2030",
           "title": "F1: se anticipa que Ruanda tendría una fecha desde 2030",
@@ -1661,13 +1697,7 @@
           "addedAt": "2026-10-06T22:11:30.582Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-09T20:11:38.255Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-el-susto-que-tuvo-rus-med-team-antes-de-la-carrera-de-tc-en-san-nicolas",
           "title": "El \"susto\" que tuvo RUS Med Team antes de la carrera de TCen San Nicolás",
@@ -1744,36 +1774,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc",
-          "title": "Palazzo repasó su triunfo en Balcarce con el TC Pick Up y analizó su presente en TC | Campeones",
-          "summary": "El piloto de Pinamar visitó los estudios de Campeones y contó cómo vivió la cita en el \"Juan Manuel Fangio\" de Balcarce, cercano a su Pinamar natal. Además, el reglamento del TC y cómo está Toyota, marca la cual defiende.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/palazzo-repaso-su-triunfo-en-balcarce-con-el-tc-pick-up-y-analizo-su-presente-en-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/HDKDFptbQAA_rpU.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T12:00:40.000Z",
-          "addedAt": "2026-10-08T12:11:34.319Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang",
-          "title": "F1: Top10 de Colapinto, tras otra práctica de preparación en Sepang",
-          "summary": "Durante la última sesión de entrenamientos del GP de Bahrein, el argentino centró su foco en el rendimiento y consumo de neumáticos para la carrera.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-Alpine-Blandos.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T05:32:37.000Z",
-          "addedAt": "2026-10-03T06:54:55.719Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21",
           "title": "GP de Bahrein: Verstappen larga en \"pole\", Hamilton lo escolta y Colapinto empieza 21.° | Campeones",
           "summary": "A la hora 4:00 de la madrugada argentina se pondrá en marcha la 16.ª carrera de Fórmula 1 en el circuito de Sepang, sobre 56 vueltas.",
@@ -1789,17 +1789,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-franco-colapinto-en-sepang-estamos-enfocados-en-la-carrera",
-          "title": "Franco Colapinto en Sepang: «Estamos enfocados en la carrera»",
-          "summary": "El piloto argentino repasó su labor con el Alpine en las dos prácticas que realizó en su primera visita a la pista de Sepang, y su objetivo para remontar posiciones el domingo en el GP de Bahrein.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/franco-colapinto-en-sepang-estamos-enfocados-en-la-carrera/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-F1-Colapinto-paddock.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-alpine-explico-por-que-decidio-tocar-el-motor-y-que-colapinto-sea-sancionado-id764083-ht",
+          "title": "Alpine explicó por qué decidió \"tocar\" el motor y que Colapinto sea sancionado",
+          "summary": "El director general de la escudería, Steve Nielsen, detalló la estrategia del equipo para el Gran Premio de Malasia y contó lo que los llevó a realizar cambios pese a que serían sancionados.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/alpine-explico-por-que-decidio-tocar-el-motor-y-que-colapinto-sea-sancionado-id764083.html",
+          "image": "https://media.tycsports.com/files/2026/09/26/990872/franco-colapinto_1440x810.webp?v=1",
+          "body": "El director general de la escudería, Steve Nielsen, detalló la estrategia del equipo para el Gran Premio de Malasia y contó lo que los llevó a realizar cambios pese a que serían sancionados.\n\nCuál fue la sanción de la FIA a Colapinto tras su accidente en el GP de Azerbaiyán. + Seguinos en El piloto argentino Franco Colapinto largará desde el fondo en el Gran Premio de Malasia debido a una penalización de 15 puestos. A los cinco lugares por el accidente en Bakú se sumaron otros diez por el cambio del motor de combustión interna, decisión que tomaron desde Alpine y cuyos motivos explicó recientemente Steve Nielsen, director general de la escudería .\n\nDesde el equipo del pilarense explicaron que aprovecharon la sanción previa para realizar el reemplazo y consideraron que el circuito era una buena oportunidad para recuperar posiciones durante la carrera, debido a sus posibilidades de adelantamiento.\n\nRespecto a la actuación del argentino en las prácticas, Nielsen indicó: \" Franco corrió con el tanque lleno en ambas sesiones con la vista puesta en la preparación para la carrera del domingo. Sabíamos que en algún momento tendríamos que aceptar una penalización por componentes de la unidad de potencia, como algunos de nuestros rivales, y sentimos que esta pista podría ser óptima para adelantar y permite una mayor oportunidad para que Franco avance en la parrilla, como lo vimos hacer en Monza en su camino hacia los puntos \" .\n\nEl argentino terminó 19° y 22° en las dos prácticas y de esta manera descartó trabajar pensando en la clasificación . \"El ritmo en la FP2 fue bastante bueno y hay que intentar avanzar. El sábado está medio perdido por la penalización, así que intentaremos enfocarnos en el domingo \" , sostuvo el piloto bonaerense.",
           "language": "es",
-          "publishedAt": "2026-10-02T20:15:49.000Z",
-          "addedAt": "2026-10-02T17:57:42.281Z",
+          "publishedAt": "2026-10-02T20:37:34.000Z",
+          "addedAt": "2026-10-02T21:06:55.272Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1937,13 +1937,7 @@
           "addedAt": "2026-10-04T13:11:30.995Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-09T20:11:38.255Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
           "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
@@ -1958,7 +1952,13 @@
           "addedAt": "2026-10-03T19:11:31.321Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-09T21:11:38.465Z",
+      "items": [
         {
           "id": "campeones-com-ar-karting-el-importante-respaldo-de-los-pilotos-argentinos-en-el-mundial-de-viterbo",
           "title": "Karting: el importante respaldo de los pilotos argentinos en el mundial de Viterbo",
@@ -2108,6 +2108,21 @@
           "addedAt": "2026-10-03T21:11:31.488Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-franco-colapinto-en-sepang-estamos-enfocados-en-la-carrera",
+          "title": "Franco Colapinto en Sepang: «Estamos enfocados en la carrera»",
+          "summary": "El piloto argentino repasó su labor con el Alpine en las dos prácticas que realizó en su primera visita a la pista de Sepang, y su objetivo para remontar posiciones el domingo en el GP de Bahrein.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/franco-colapinto-en-sepang-estamos-enfocados-en-la-carrera/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-F1-Colapinto-paddock.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-02T20:15:49.000Z",
+          "addedAt": "2026-10-02T17:57:42.281Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-colapinto-completo-la-segunda-tanda-planificando-la-carrera-del-gp-de-bahrein",
