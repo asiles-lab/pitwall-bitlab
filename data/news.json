@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-09T16:11:29.308Z",
-  "checkedAt": "2026-10-09T16:11:29.308Z",
+  "updatedAt": "2026-10-09T17:11:30.254Z",
+  "checkedAt": "2026-10-09T17:11:30.254Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,17 +40,17 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-karting-el-importante-respaldo-de-los-pilotos-argentinos-en-el-mundial-de-viterbo",
-      "title": "Karting: el importante respaldo de los pilotos argentinos en el mundial de Viterbo",
-      "summary": "Desde las divisiones promocionales del karting, los participantes cuentan con el apoyo de la familia que los acompaña y contiene.",
+      "id": "campeones-com-ar-argentina-ultima-detalles-para-la-historica-doble-fecha-del-mundial-de-flat-track",
+      "title": "Argentina ultima detalles para la histórica doble fecha del Mundial de Flat Track",
+      "summary": "El 24 y 25 de octubre se revolucionará la ciudad de Totoras, Santa Fe, con la fecha doble que dará cierre a la temporada 2026.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/karting-el-importante-respaldo-de-los-pilotos-argentinos-en-el-mundial-de-viterbo/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-Karting-Viterbo-familia.jpeg",
+      "url": "https://campeones.com.ar/argentina-ultima-detalles-para-la-historica-doble-fecha-del-mundial-de-flat-track/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Totoras-Flat-Track-previa.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-09T10:53:51.000Z",
-      "addedAt": "2026-10-09T16:11:31.195Z",
+      "publishedAt": "2026-10-09T10:00:13.000Z",
+      "addedAt": "2026-10-09T17:11:32.058Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -68,6 +68,36 @@
       "addedAt": "2026-10-09T16:11:31.196Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
+      "title": "F1 en Singapur: un \"error humano\" alteró el cronometraje oficial",
+      "summary": "La FIA lo informó \"al mismo tiempo\" que decidió suspender la reunión de pilotos; Williams y Aston Martin protestaron y sugirieron impugnar los resultados.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Race-control.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-09T17:07:30.000Z",
+      "addedAt": "2026-10-09T17:11:32.069Z",
+      "category": "general",
+      "tag": "Reglamento"
+    },
+    {
+      "id": "campeones-com-ar-la-otra-copa-de-oro-los-12-cambios-de-equipo-en-el-tc",
+      "title": "La otra Copa de Oro: los 12 cambios de equipo en el TC | Campeones",
+      "summary": "Con el pase de Santiago Álvarez al TCM Racing, se llegó a la docena de cambios respecto al inicio de la temporada. Aquí los repasamos a todos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/la-otra-copa-de-oro-los-12-cambios-de-equipo-en-el-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Boxes-TC-San-Nicolas-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-08T19:36:56.000Z",
+      "addedAt": "2026-10-09T17:11:32.041Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas",
@@ -130,6 +160,21 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-leonel-pernia-se-enfoca-en-el-fin-de-semana-de-tn-y-su-futuro-en-2027",
+      "title": "Leonel Pernía se enfoca en el fin de semana de TN y su futuro en 2027",
+      "summary": "En viaje a San Martín, Mendoza, en donde correrá en Clase 3, el tandilense habló con Campeones sobre su presente en TCR South America y a qué categoría apunta el año que viene.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/leonel-pernia-se-enfoca-en-el-fin-de-semana-de-tn-y-su-futuro-en-2027/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261008-TN-Pernia.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-08T17:07:37.000Z",
+      "addedAt": "2026-10-09T17:11:41.967Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-santiago-alvarez-cambia-de-equipo-en-el-turismo-carretera",
       "title": "Santiago Álvarez cambia de equipo en el Turismo Carretera | Campeones",
       "summary": "El piloto de Ferré llega al TCM Racing conducido por Javier Ciabattari y deja la escudería del \"Chispa\" Uranga.",
@@ -188,21 +233,6 @@
       "addedAt": "2026-10-08T10:11:31.085Z",
       "category": "argentino",
       "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
-      "title": "Geely presentó su SUV de TC2000",
-      "summary": "El flamante equipo tendrá como pilotos a Nicolás Traut y Franco Riva. Así la categoría suma una nueva automotriz.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/geely-presento-su-suv-de-tc2000/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-12.47.43.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-02T16:28:07.000Z",
-      "addedAt": "2026-10-08T08:11:30.679Z",
-      "category": "argentino",
-      "tag": "Franco"
     },
     {
       "id": "campeones-com-ar-lema-despejo-dudas-sobre-el-futuro-de-canapino-en-el-tc-y-tn",
@@ -368,6 +398,21 @@
       "addedAt": "2026-10-05T17:11:32.267Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-geely-presento-su-suv-de-tc2000",
+      "title": "Geely presentó su SUV de TC2000",
+      "summary": "El flamante equipo tendrá como pilotos a Nicolás Traut y Franco Riva. Así la categoría suma una nueva automotriz.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/geely-presento-su-suv-de-tc2000/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-12.47.43.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-02T16:28:07.000Z",
+      "addedAt": "2026-10-08T08:11:30.679Z",
+      "category": "argentino",
+      "tag": "Franco"
     },
     {
       "id": "campeones-com-ar-tn-el-balance-de-santero-tras-las-pruebas-en-el-cabalen",
@@ -838,23 +883,8 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-09T16:11:38.605Z",
+      "createdAt": "2026-10-09T17:11:43.452Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748-html",
-          "title": "F1: hora y dónde ver la carrera sprint de Colapinto en el GP de Singapur",
-          "summary": "El piloto argentino estará a bordo de su Alpine en una nueva carrera corta, en el marco de la decimoséptima fecha del campeonato 2026 de la Fórmula 1.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748.html",
-          "image": "https://media.tycsports.com/files/2026/10/01/991962/franco-colapinto_862x485.webp?v=1",
-          "body": "El piloto argentino estará a bordo de su Alpine en una nueva carrera corta, en el marco de la decimoséptima fecha del campeonato 2026 de la Fórmula 1.\n\nFranco Colapinto. + Seguinos en La Fórmula 1 afronta un fin de semana especial en el Gran Premio de Singapur , ya que la 17° fecha de la temporada 2026 contará con una carrera Sprint . La actividad en el Circuito Urbano Marina Bay será intensa y exigente para los equipos, que buscarán sumar puntos en la carrera corta y tendrán menos tiempo para preparar la competencia del domingo. Franco Colapinto, que no pudo superar la SQ2, largará 11º, mientras que la pole quedó para Max Verstappen (Red Bull) .\n\nEl Circuito Urbano de Marina Bay es uno de los trazados más exigentes de la Fórmula 1. Su recorrido combina curvas cerradas, fuertes frenadas y sectores rápidos entre las calles de Singapur, con el agregado de un clima extremadamente húmedo. La carrera se disputa de noche y fue la primera competencia nocturna en la historia de la categoría. Desde 2023, el circuito tiene 19 curvas tras una modificación en su trazado.\n\nEl evento se podrá ver en vivo en la Argentina a través de Disney+, el servicio de streaming que ofrece ESPN por $24.390 final por mes. También se podrá seguir el minuto a minuto desde la web de www.tycsports.com.",
-          "language": "es",
-          "publishedAt": "2026-10-09T13:45:36.000Z",
-          "addedAt": "2026-10-09T14:11:31.910Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-post-qualy-sprint-gp-singapur-id765148-html",
           "title": "Colapinto, optimista tras la qualy Sprint del Gran Premio de Singapur: “Vamos a estar mejor mañana”",
@@ -882,6 +912,21 @@
           "language": "es",
           "publishedAt": "2026-10-09T14:57:33.000Z",
           "addedAt": "2026-10-09T15:11:28.740Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748-html",
+          "title": "F1: hora y dónde ver la carrera sprint de Colapinto en el GP de Singapur",
+          "summary": "El piloto argentino estará a bordo de su Alpine en una nueva carrera corta, en el marco de la decimoséptima fecha del campeonato 2026 de la Fórmula 1.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748.html",
+          "image": "https://media.tycsports.com/files/2026/10/01/991962/franco-colapinto_862x485.webp?v=1",
+          "body": "El piloto argentino estará a bordo de su Alpine en una nueva carrera corta, en el marco de la decimoséptima fecha del campeonato 2026 de la Fórmula 1.\n\nFranco Colapinto. + Seguinos en La Fórmula 1 afronta un fin de semana especial en el Gran Premio de Singapur , ya que la 17° fecha de la temporada 2026 contará con una carrera Sprint . La actividad en el Circuito Urbano Marina Bay será intensa y exigente para los equipos, que buscarán sumar puntos en la carrera corta y tendrán menos tiempo para preparar la competencia del domingo. Franco Colapinto, que no pudo superar la SQ2, largará 11º, mientras que la pole quedó para Max Verstappen (Red Bull) .\n\nEl Circuito Urbano de Marina Bay es uno de los trazados más exigentes de la Fórmula 1. Su recorrido combina curvas cerradas, fuertes frenadas y sectores rápidos entre las calles de Singapur, con el agregado de un clima extremadamente húmedo. La carrera se disputa de noche y fue la primera competencia nocturna en la historia de la categoría. Desde 2023, el circuito tiene 19 curvas tras una modificación en su trazado.\n\nEl evento se podrá ver en vivo en la Argentina a través de Disney+, el servicio de streaming que ofrece ESPN por $24.390 final por mes. También se podrá seguir el minuto a minuto desde la web de www.tycsports.com.",
+          "language": "es",
+          "publishedAt": "2026-10-09T13:45:36.000Z",
+          "addedAt": "2026-10-09T14:11:31.910Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -991,19 +1036,19 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-colapinto-clasifico-11-para-la-carrera-sprint-de-singapur-de-f1",
-          "title": "Colapinto clasificó 11.° para la carrera Sprint de F1 en Singapur",
-          "summary": "En el circuito de Marina Bay, el piloto argentino no pudo superar el segundo corte con el Alpine y quedó cerca del Top10 en donde sí ingresó su compañero Gasly. La \"pole\" quedó en manos de Vestappen.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-clasifico-11-para-la-carrera-sprint-de-singapur-de-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-A526-Singapur.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255-html",
+          "title": "Cómo quedó la grilla para el Sprint del Gran Premio de Singapur de la F1",
+          "summary": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255.html",
+          "image": "https://media.tycsports.com/files/2026/10/09/994388/colapinto-en-singapur-photo-by-daniel-cenganadolu-via-getty-images_1440x810.webp?v=1",
+          "body": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.\n\nColapinto en Singapur (Photo by Daniel Ceng/Anadolu via Getty Images) + Seguinos en El fin de semana traerá consigo acción en la Fórmula 1, con lo que será tanto la carrera principal del domingo como el Sprint del sábado en el Gran Premio de Singapur . Así, de cara a lo que será el evento de mañana, la clasificación determinó que Max Verstappen sea el dueño de la pole, en tanto que Franco Colapinto quedó cerca de la zona de puntos .\n\nCon un tiempo final de 1:31.156s, el neerlandés de Red Bull se hizo dueño de la pole para la carrera corta del circuito de Marina Bay . Apenas por detrás, con un mejor tiempo de 1:31.276s, apareció George Russell, de Mercedes . En tanto, el tercer puesto de la grilla fue para Charles Leclerc, de Ferrari, con un registro de 1:31.399s.\n\nComplicado por una tempranera bandera roja provocada por un accidente de Sergio Pérez en la curva 4, Colapinto vio demorada su salida a pista, algo que también le sucedió a su compañero, Pierre Gasly. De todas maneras, con un registro de 1:35.048s, el pilarense logró meterse en SQ2, instancia en la que marcó un mejor tiempo de 1:33.249s, para quedarse con el 11° puesto de la grilla. De esta manera, si bien no logró avanzar a la SQ3, quedó cerca de los primeros ocho puestos del Sprint, con chances de sumar puntos .",
           "language": "es",
-          "publishedAt": "2026-10-09T13:31:47.000Z",
-          "addedAt": "2026-10-09T14:11:30.865Z",
+          "publishedAt": "2026-10-09T16:47:52.000Z",
+          "addedAt": "2026-10-09T17:11:32.303Z",
           "category": "argentino",
-          "tag": "Franco"
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-a-pesar-de-algunos-inconvenientes-en-singapur-colapinto-confia-no-estamos-lejos",
@@ -1051,6 +1096,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-colapinto-clasifico-11-para-la-carrera-sprint-de-singapur-de-f1",
+          "title": "Colapinto clasificó 11.° para la carrera Sprint de F1 en Singapur",
+          "summary": "En el circuito de Marina Bay, el piloto argentino no pudo superar el segundo corte con el Alpine y quedó cerca del Top10 en donde sí ingresó su compañero Gasly. La \"pole\" quedó en manos de Vestappen.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-clasifico-11-para-la-carrera-sprint-de-singapur-de-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-A526-Singapur.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T13:31:47.000Z",
+          "addedAt": "2026-10-09T14:11:30.865Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-singapur-franco-colapinto-cruce-futbolero-camiseta-espana-id765051",
           "title": "Otro cruce divertido y futbolero para Colapinto en el GP de Singapur",
           "summary": "El el inicio de otro fin de semana de actividad en la F1, un fanático con la camiseta de España le pidió un autógrafo al argentino, que no se olvidó de la final del Mundial y le contestó con una broma.",
@@ -1094,7 +1154,13 @@
           "addedAt": "2026-10-05T13:11:31.250Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-09T17:11:43.452Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-furiosa-reaccion-de-colapinto-por-la-estrategia-de-alpine-en-el-gp-de-malasia-de-la-f",
           "title": "La furiosa reacción de Colapinto por la estrategia de Alpine en el GP de Bahréin en Malasia",
@@ -1109,13 +1175,7 @@
           "addedAt": "2026-10-04T12:11:31.035Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-09T16:11:38.605Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770-html",
           "title": "Max Verstappen se quedó con el GP de Malasia: Colapinto finalizó 13&ordm;",
@@ -1143,21 +1203,6 @@
           "language": "es",
           "publishedAt": "2026-10-02T15:11:24.000Z",
           "addedAt": "2026-10-02T16:23:12.821Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
-          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
-          "summary": "Cobertura especial del GP de Singapur de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T17:00:17.000Z",
-          "addedAt": "2026-10-02T17:57:42.536Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1342,6 +1387,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
+          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
+          "summary": "Cobertura especial del GP de Singapur de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T17:00:17.000Z",
+          "addedAt": "2026-10-02T17:57:42.536Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-",
           "title": "La cruda autocrítica de Briatore tras el enojo de Colapinto con Alpine",
           "summary": "El asesor ejecutivo admitió que el equipo “no tomó las decisiones acertadas” en el Gran Premio de Malasia de la Fórmula 1.",
@@ -1370,27 +1430,12 @@
           "addedAt": "2026-10-03T11:20:54.389Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-f1-colapinto-escalo-en-sepang-hasta-el-13-puesto-y-verstappen-retorno-a-la-victoria",
-          "title": "F1: Colapinto escaló en Sepang hasta el 13.° puesto y Verstappen retornó a la victoria con Red Bull",
-          "summary": "Sólida labor realizó el piloto argentino con el Alpine en una carrera que se largó 1h35m más tarde y con varias dificultades en su desarrollo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-colapinto-escalo-en-sepang-hasta-el-13-puesto-y-verstappen-retorno-a-la-victoria/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-F1-Colapinto-Alpine.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T10:28:21.000Z",
-          "addedAt": "2026-10-04T11:11:30.712Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-09T16:11:38.605Z",
+      "createdAt": "2026-10-09T17:11:43.452Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
@@ -1666,7 +1711,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-09T16:11:38.605Z",
+      "createdAt": "2026-10-09T17:11:43.452Z",
       "items": [
         {
           "id": "campeones-com-ar-facundo-aldrighetti-ante-la-nueva-experiencia-de-tc2000-en-toay",
@@ -1757,6 +1802,21 @@
           "addedAt": "2026-10-02T16:23:12.760Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-f1-colapinto-escalo-en-sepang-hasta-el-13-puesto-y-verstappen-retorno-a-la-victoria",
+          "title": "F1: Colapinto escaló en Sepang hasta el 13.° puesto y Verstappen retornó a la victoria con Red Bull",
+          "summary": "Sólida labor realizó el piloto argentino con el Alpine en una carrera que se largó 1h35m más tarde y con varias dificultades en su desarrollo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-colapinto-escalo-en-sepang-hasta-el-13-puesto-y-verstappen-retorno-a-la-victoria/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261004-F1-Colapinto-Alpine.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T10:28:21.000Z",
+          "addedAt": "2026-10-04T11:11:30.712Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang",
@@ -1922,7 +1982,13 @@
           "addedAt": "2026-10-04T13:11:30.995Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-09T17:11:43.452Z",
+      "items": [
         {
           "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
           "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
@@ -1937,13 +2003,22 @@
           "addedAt": "2026-10-03T19:11:31.321Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-09T16:11:38.605Z",
-      "items": [
+        },
+        {
+          "id": "campeones-com-ar-karting-el-importante-respaldo-de-los-pilotos-argentinos-en-el-mundial-de-viterbo",
+          "title": "Karting: el importante respaldo de los pilotos argentinos en el mundial de Viterbo",
+          "summary": "Desde las divisiones promocionales del karting, los participantes cuentan con el apoyo de la familia que los acompaña y contiene.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/karting-el-importante-respaldo-de-los-pilotos-argentinos-en-el-mundial-de-viterbo/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-Karting-Viterbo-familia.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T10:53:51.000Z",
+          "addedAt": "2026-10-09T16:11:31.195Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
         {
           "id": "www-tycsports-com-automovilismo-ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792-h",
           "title": "Además de Colapinto, sancionaron a otro piloto de cara al GP de Malasia",
@@ -2181,36 +2256,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T20:12:36.000Z",
           "addedAt": "2026-10-03T21:11:31.686Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-gasly-declaraciones-incidente-colapinto-f1-id763788-html",
-          "title": "Pierre Gasly dejó atrás el incidente con Franco Colapinto: “Ya está todo bien entre nosotros”",
-          "summary": "El francés explicó que no quedaron rispideces con su compañero de equipo luego del choque del último sábado en Azerbaiyán y apuntó a trabajar en conjunto para lo que viene. “Nos necesitamos mutuamente”, aseguró.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/gasly-declaraciones-incidente-colapinto-f1--id763788.html",
-          "image": "https://media.tycsports.com/files/2026/09/09/986107/colapinto-y-gasly_1440x810.webp?v=1",
-          "body": "El francés explicó que no quedaron rispideces con su compañero de equipo luego del choque del último sábado en Azerbaiyán y apuntó a trabajar en conjunto para lo que viene. “Nos necesitamos mutuamente”, aseguró.\n\nFranco Colapinto y Pierre Gasly, pilotos de Alpine. (Guenther Iby/SEPA.Media /Getty Images) + Seguinos en La furia de Pierre Gasly por el choque con Franco Colapinto el último sábado en la carrera de Azerbaiyán parece haber quedado en el pasado. Este jueves, en el marco del Media Day del Gran Premio de Bahréin de Fórmula 1, que se celebrará este fin de semana en Malasia, el francés apuntó a dejar atrás lo sucedido y dejó en claro que “ya está todo bien” entre él y el argentino.\n\n“En el calor del momento estás con mucha adrenalina, con mucha emoción, frustración, decepción, la carrera terminada. Y sí, fue un duro golpe para nosotros como equipo, pero la única manera de seguir adelante es simplemente volver a unirnos y fortalecernos como equipo. Así que sí, está todo bien” , expresó Gasly en la conferencia de prensa oficial en el Circuito de Sepang.\n\nEl piloto de 30 años también destacó la actitud de su compañero de equipo postcarrera y analizó el error del pilarense en Bakú, que los dejó a ambos fuera de carrera y sin la posibilidad de puntuar: \"Él vino a disculparse. Fue un error desafortunado porque, una vez que cruzas esa línea y frenas demasiado tarde, estás fuera de control, y simplemente fue desafortunado que yo fuera el auto contra el que terminó chocando”.\n\nAbsolute chaos at the restart ðµ #F1 #AzerbaijanGP pic.twitter.com/o4Q5MdHLnc",
-          "language": "es",
-          "publishedAt": "2026-10-01T17:59:06.000Z",
-          "addedAt": "2026-10-02T16:23:12.895Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-para-tener-un-camaro-con-kilos-estamos-bien-analizo-canapino-tras-el-tc-en-san-nicolas",
-          "title": "“Para tener un Camaro con kilos estamos bien”, analizó Canapino tras el TC en San Nicolás",
-          "summary": "La evaluación del piloto de Arrecifes es positiva desde el punto de vista de la marca que representa, aunque no fue contundente en la carrera.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/para-tener-un-camaro-con-kilos-estamos-bien-analizo-canapino-tras-el-tc-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-ACTC-Chevrolet.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-07T21:50:47.000Z",
-          "addedAt": "2026-10-07T15:11:30.384Z",
           "category": "argentino",
           "tag": "Argentino"
         }
