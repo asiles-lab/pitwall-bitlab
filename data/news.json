@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T05:11:29.397Z",
-  "checkedAt": "2026-10-10T05:11:29.397Z",
+  "updatedAt": "2026-10-10T06:11:29.481Z",
+  "checkedAt": "2026-10-10T06:11:29.481Z",
   "pageSize": 18,
   "sources": [
     {
@@ -883,7 +883,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-10T05:11:36.246Z",
+      "createdAt": "2026-10-10T06:11:34.452Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748-html",
@@ -1159,7 +1159,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-10T05:11:36.246Z",
+      "createdAt": "2026-10-10T06:11:34.452Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
@@ -1435,7 +1435,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-10T05:11:36.246Z",
+      "createdAt": "2026-10-10T06:11:34.452Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-fallo-en-la-f1-en-singapur-los-errores-humanos-que-la-fia-tuvo-que-admitir-id765387-",
@@ -1711,7 +1711,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-10T05:11:36.246Z",
+      "createdAt": "2026-10-10T06:11:34.452Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -1802,21 +1802,6 @@
           "addedAt": "2026-10-08T15:11:33.418Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang",
-          "title": "F1: Top10 de Colapinto, tras otra práctica de preparación en Sepang",
-          "summary": "Durante la última sesión de entrenamientos del GP de Bahrein, el argentino centró su foco en el rendimiento y consumo de neumáticos para la carrera.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-Alpine-Blandos.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T05:32:37.000Z",
-          "addedAt": "2026-10-03T06:54:55.719Z",
-          "category": "argentino",
-          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21",
@@ -1982,13 +1967,7 @@
           "addedAt": "2026-10-04T13:11:30.995Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-10T05:11:36.246Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
           "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
@@ -2003,7 +1982,13 @@
           "addedAt": "2026-10-03T19:11:31.321Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-10T06:11:34.452Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792-h",
           "title": "Además de Colapinto, sancionaron a otro piloto de cara al GP de Malasia",
@@ -2031,6 +2016,21 @@
           "language": "es",
           "publishedAt": "2026-09-29T16:59:01.000Z",
           "addedAt": "2026-10-02T16:23:12.957Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang",
+          "title": "F1: Top10 de Colapinto, tras otra práctica de preparación en Sepang",
+          "summary": "Durante la última sesión de entrenamientos del GP de Bahrein, el argentino centró su foco en el rendimiento y consumo de neumáticos para la carrera.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Colapinto-Alpine-Blandos.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-03T05:32:37.000Z",
+          "addedAt": "2026-10-03T06:54:55.719Z",
           "category": "argentino",
           "tag": "Franco"
         },
