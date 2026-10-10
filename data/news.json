@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T21:11:29.630Z",
-  "checkedAt": "2026-10-10T21:11:29.630Z",
+  "updatedAt": "2026-10-10T22:11:30.547Z",
+  "checkedAt": "2026-10-10T22:11:30.547Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
-      "title": "Girolami y Hyundai siguen imbatibles en Posadas",
-      "summary": "El cordobés debió pelearla al principio, pero se impuso en la primera carrera del TCR South America. Leonel Pernía y Raphael Reis completaron el podio.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/girolami-y-hyundai-siguen-imbatibles-en-posadas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-04T14:30:48.000Z",
-      "addedAt": "2026-10-10T21:11:35.204Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-tc2000-traut-con-su-primera-pole-en-el-cierre-de-la-clasificacion-pampeana",
       "title": "TC2000: Traut, con su primera \"pole\" en el cierre de la clasificación pampeana",
@@ -958,7 +943,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-10T21:11:40.905Z",
+      "createdAt": "2026-10-10T22:11:39.100Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1234,7 +1219,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-10T21:11:40.905Z",
+      "createdAt": "2026-10-10T22:11:39.100Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-la-sprint-de-colapinto-en-el-gp-de-singa",
@@ -1372,21 +1357,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-mensaje-colapinto-messi-seleccion-argentina-formula-1-id764776-html",
-          "title": "Una foto especial y un clásico musical: las elecciones de Colapinto para homenajear a Messi",
-          "summary": "El piloto subió una historia en su cuenta de Instagram para saludar a la Pulga. Ya se había pronunciado en redes con el anuncio del futbolista de retirarse del combinado nacional. Habían estado juntos en el Gran Premio de Miami de Fórmula 1.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/mensaje-colapinto-messi-seleccion-argentina-formula-1-id764776.html",
-          "image": "https://media.tycsports.com/files/2026/10/07/993850/messi-y-colapinto_1440x810.webp?v=1",
-          "body": "El piloto subió una historia en su cuenta de Instagram para saludar a la Pulga. Ya se había pronunciado en redes con el anuncio del futbolista de retirarse del combinado nacional. Habían estado juntos en el Gran Premio de Miami de Fórmula 1.\n\nLionel Messi y Franco Colapinto, juntos en el Gran Premio de Miami. + Seguinos en Franco Colapinto publicó una historia en su cuenta de instagram para saludar a Lionel Messi en su despedida de la Selección Argentina. “Adiós” , escribió con un corazón en lugar de la letra “a”, el número 10 en reemplazo de la “i” y la “o”, y el emoji de una cara llorando y un infinitito como cierre.\n\nLa foto elegida por el piloto de Alpine fue una suya con la camiseta del conjunto nacional y el 19 en el dorso , la primera que la Pulga utilizó en la Albiceleste. Con ese número incluso debutó en un Mundial (Alemania 2006) en lo que fue el inicio de un camino que tuvo seis Copas del Mundo y un título.\n\nComo fondo en la publicación sonó la canción Stop crying your heart out , un clásico de Oasis que Colapinto incluyó para darle música a su mensaje. Ambos habían estado juntos en el Gran Premio de Miami, cuando la Pulga presenció la carrera de Fórmula 1 y visitó al conductor argentino.\n\nLa historia de Franco Colapinto para despedir a Messi El propio Colapinto ya había hecho una publicación tras el anuncio de Messi sobre su salida del seleccionado nacional. “No existen palabras de agradecimiento que jamás vayan a alcanzar. Somos unos afortunados de haberte tenido y disfrutado durante tanto tiempo. Sos ejemplo de todos” , escribió.",
-          "language": "es",
-          "publishedAt": "2026-10-07T21:59:23.000Z",
-          "addedAt": "2026-10-07T22:11:34.431Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-la-pelea-de-colapinto-en-f1-que-puede-definir-su-futuro-en-2026-id764371-html",
           "title": "La pelea de Colapinto en F1 que puede definir su futuro en 2026",
           "summary": "Tras no sumar puntos en Malasia, el argentino se mantiene 12° en el Campeonato de Pilotos, pero tiene varios rivales, entre ellos Gasly, en su lucha por meterse en el top 10.",
@@ -1505,12 +1475,27 @@
           "addedAt": "2026-10-02T17:57:42.536Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-mensaje-colapinto-messi-seleccion-argentina-formula-1-id764776-html",
+          "title": "Una foto especial y un clásico musical: las elecciones de Colapinto para homenajear a Messi",
+          "summary": "El piloto subió una historia en su cuenta de Instagram para saludar a la Pulga. Ya se había pronunciado en redes con el anuncio del futbolista de retirarse del combinado nacional. Habían estado juntos en el Gran Premio de Miami de Fórmula 1.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/mensaje-colapinto-messi-seleccion-argentina-formula-1-id764776.html",
+          "image": "https://media.tycsports.com/files/2026/10/07/993850/messi-y-colapinto_1440x810.webp?v=1",
+          "body": "El piloto subió una historia en su cuenta de Instagram para saludar a la Pulga. Ya se había pronunciado en redes con el anuncio del futbolista de retirarse del combinado nacional. Habían estado juntos en el Gran Premio de Miami de Fórmula 1.\n\nLionel Messi y Franco Colapinto, juntos en el Gran Premio de Miami. + Seguinos en Franco Colapinto publicó una historia en su cuenta de instagram para saludar a Lionel Messi en su despedida de la Selección Argentina. “Adiós” , escribió con un corazón en lugar de la letra “a”, el número 10 en reemplazo de la “i” y la “o”, y el emoji de una cara llorando y un infinitito como cierre.\n\nLa foto elegida por el piloto de Alpine fue una suya con la camiseta del conjunto nacional y el 19 en el dorso , la primera que la Pulga utilizó en la Albiceleste. Con ese número incluso debutó en un Mundial (Alemania 2006) en lo que fue el inicio de un camino que tuvo seis Copas del Mundo y un título.\n\nComo fondo en la publicación sonó la canción Stop crying your heart out , un clásico de Oasis que Colapinto incluyó para darle música a su mensaje. Ambos habían estado juntos en el Gran Premio de Miami, cuando la Pulga presenció la carrera de Fórmula 1 y visitó al conductor argentino.\n\nLa historia de Franco Colapinto para despedir a Messi El propio Colapinto ya había hecho una publicación tras el anuncio de Messi sobre su salida del seleccionado nacional. “No existen palabras de agradecimiento que jamás vayan a alcanzar. Somos unos afortunados de haberte tenido y disfrutado durante tanto tiempo. Sos ejemplo de todos” , escribió.",
+          "language": "es",
+          "publishedAt": "2026-10-07T21:59:23.000Z",
+          "addedAt": "2026-10-07T22:11:34.431Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-10T21:11:40.905Z",
+      "createdAt": "2026-10-10T22:11:39.100Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-fallo-en-la-f1-en-singapur-los-errores-humanos-que-la-fia-tuvo-que-admitir-id765387-",
@@ -1786,7 +1771,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-10T21:11:40.905Z",
+      "createdAt": "2026-10-10T22:11:39.100Z",
       "items": [
         {
           "id": "campeones-com-ar-si-fuera-mazzacane-haria-el-coronacion-de-tc-en-balcarce",
@@ -2062,7 +2047,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-10T21:11:40.905Z",
+      "createdAt": "2026-10-10T22:11:39.100Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
@@ -2093,6 +2078,21 @@
           "addedAt": "2026-10-03T09:12:02.953Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-en-viterbo-los-argentinos-completaron-un-extenuante-segundo-dia",
+          "title": "En Viterbo, los argentinos completaron un extenuante segundo día | Campeones",
+          "summary": "Se disputaron los Heat para decidir los clasificados a las Prefinales, que se desarrollaran mañana en las tres divisionales.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/en-viterbo-los-argentinos-completaron-un-extenuante-segundo-dia/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9895.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-10T21:00:00.000Z",
+          "addedAt": "2026-10-10T17:11:31.860Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549-html",
@@ -2198,21 +2198,6 @@
           "addedAt": "2026-10-04T13:11:30.995Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-en-viterbo-los-argentinos-completaron-un-extenuante-segundo-dia",
-          "title": "En Viterbo, los argentinos completaron un extenuante segundo día | Campeones",
-          "summary": "Se disputaron los Heat para decidir los clasificados a las Prefinales, que se desarrollaran mañana en las tres divisionales.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/en-viterbo-los-argentinos-completaron-un-extenuante-segundo-dia/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9895.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-10T17:00:00.000Z",
-          "addedAt": "2026-10-10T17:11:31.860Z",
-          "category": "argentino",
-          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792-h",
