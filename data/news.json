@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T09:03:54.985Z",
-  "checkedAt": "2026-10-10T09:03:54.985Z",
+  "updatedAt": "2026-10-10T10:11:29.644Z",
+  "checkedAt": "2026-10-10T10:11:29.644Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,36 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud",
+      "title": "TC: Ignacio Fain, la avanzada ganadora de la juventud",
+      "summary": "Con 21 años, el santafesino del Trotta Racing Team se convirtió en el ganador más joven del campeonato 2026 del Turismo Carretera. Repasamos los vencedores más veteranos y más jóvenes en cada temporada de la categoría durante la última década.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-Victoria-TC-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-09T12:39:02.000Z",
+      "addedAt": "2026-10-10T10:11:31.769Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas",
+      "title": "Hyundai y Girolami completaron un fin de semana ideal en Posadas",
+      "summary": "El \"Bebu\" se llevó también la segunda carrera en el \"Rosamonte\", alcanzando su cuarto éxito de la temporada 2026. Lo siguieron Fabián Yannantuoni y Joaquín Cafaro.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-SOUTH-AMERICA-POSADAS-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-04T17:11:39.000Z",
+      "addedAt": "2026-10-10T10:11:36.743Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
       "title": "Girolami y Hyundai siguen imbatibles en Posadas",
@@ -883,35 +913,20 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-10T09:04:04.313Z",
+      "createdAt": "2026-10-10T10:11:42.719Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748-html",
-          "title": "F1: seguí en vivo la carrera sprint de Colapinto en el GP de Singapur",
+          "title": "F1: seguí en vivo la carrera sprint de Colapinto en el GP de Singapur, minuto a minuto",
           "summary": "El piloto argentino estará a bordo de su Alpine en una nueva carrera corta, en el marco de la decimoséptima fecha del campeonato 2026 de la Fórmula 1.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
           "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748.html",
-          "image": "https://media.tycsports.com/files/2026/10/01/991962/franco-colapinto_862x485.webp?v=1",
-          "body": "El piloto argentino estará a bordo de su Alpine en una nueva carrera corta, en el marco de la decimoséptima fecha del campeonato 2026 de la Fórmula 1.\n\nColapinto finalizó 19º en la práctica libre del GP de Singapur Verstappen hizo pole y Colapinto largará 11° en la Sprint del GP de Singapur 10/10/2026 06:02 am Franco Colapinto. + Seguinos en La Fórmula 1 afronta un fin de semana especial en el Gran Premio de Singapur , ya que la 17° fecha de la temporada 2026 contará con una carrera Sprint . La actividad en el Circuito Urbano Marina Bay será intensa y exigente para los equipos, que buscarán sumar puntos en la carrera corta y tendrán menos tiempo para preparar la competencia del domingo. Franco Colapinto, que no pudo superar la SQ2, largará 11º, mientras que la pole quedó para Max Verstappen (Red Bull) .\n\nLos pilotos están en pista a la espera de que autoricen el comienzo de la carrera. Sin embargo, en una parte del circuito no llueve, por lo que podría comenzar pronto.\n\nEl evento se podrá ver en vivo en la Argentina a través de Disney+, el servicio de streaming que ofrece ESPN por $24.390 final por mes. También se podrá seguir el minuto a minuto desde la web de www.tycsports.com .\n\nEl Circuito Urbano de Marina Bay es uno de los trazados más exigentes de la Fórmula 1. Su recorrido combina curvas cerradas, fuertes frenadas y sectores rápidos entre las calles de Singapur, con el agregado de un clima extremadamente húmedo. La carrera se disputa de noche y fue la primera competencia nocturna en la historia de la categoría. Desde 2023, el circuito tiene 19 curvas tras una modificación en su trazado. Longitud del circuito : 4,927 km Primer Gran Premio: 2008 Número de vueltas: 62 Distancia de carrera: 305,337 km Récord de vuelta : Lewis Hamilton (2025), 1:33.808",
+          "image": "https://media.tycsports.com/files/2026/10/10/994642/colapinto_1440x810.webp",
+          "body": "El piloto argentino estará a bordo de su Alpine en una nueva carrera corta, en el marco de la decimoséptima fecha del campeonato 2026 de la Fórmula 1.\n\nColapinto finalizó 19º en la práctica libre del GP de Singapur Verstappen hizo pole y Colapinto largará 11° en la Sprint del GP de Singapur 10/10/2026 07:10 am El argentino no sufrió ningún accidente en la sprint del GP de Singapur, pero tras un trompo dejó la carrera. + Seguinos en La Fórmula 1 afronta un fin de semana especial en el Gran Premio de Singapur , ya que la 17° fecha de la temporada 2026 contará con una carrera Sprint . La actividad en el Circuito Urbano Marina Bay será intensa y exigente para los equipos, que buscan sumar puntos en la carrera corta y tienen menos tiempo para preparar la competencia del domingo. Franco Colapinto, que no pudo superar la SQ2, largará 11º, mientras que la pole quedó para Max Verstappen (Red Bull) .\n\nAntonelli se esfuerza por mantener frescos los neumáticos; busca activamente todos los charcos de la pista. Los neumáticos intermedios pueden aguantar.\n\nVa sexto y empieza a recortar distancias con Norris y Piastri, que ruedan por delante. Para el italiano, hoy se trata de mantener el coche intacto.\n\nAhora sí. El neerlandés ya le sacó 2.7 segundos al escolta Lewis Hamilton. En tanto, tampoco hay disputa en el segundo y tercer lugar, debido a que Leclerc está a casi dos segundos de su compañero de escudería, y lentamente aumenta la diferencia.",
           "language": "es",
-          "publishedAt": "2026-10-10T09:00:00.000Z",
+          "publishedAt": "2026-10-10T10:08:00.000Z",
           "addedAt": "2026-10-09T14:11:31.910Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
-          "title": "Por qué Colapinto larga 21° si clasificó 15° en el GP de Malasia de la F1",
-          "summary": "El piloto argentino penalizó quince puestos por un cambio de motor y por una sanción previa de la carrera en Bakú.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167.html",
-          "image": "https://media.tycsports.com/files/2026/10/03/992532/colapinto_1440x810.webp",
-          "body": "El piloto argentino penalizó quince puestos por un cambio de motor y por una sanción previa de la carrera en Bakú.\n\nColapinto largará 21 en el Gran Premio de Malasia (Foto: @@AlpineF1Team). + Seguinos en El piloto argentino Franco Colapinto (Alpine) largará este domingo en la vigésimo primera posición del Gran Premio de Malasia de Fórmula 1 en el circuito de Sepang, a pesar de haber finalizado decimoquinto en la sesión de clasificación disputada este sábado, debido a la acumulación de quince puestos en penalizaciones por el cambio de componentes en su unidad de potencia y sanciones previas.\n\nLa sesión oficial de ordenamiento, correspondiente a la temporada 2026 de la máxima categoría del automovilismo, dejó al neerlandés Max Verstappen (Red Bull) en la primera posición de partida tras marcar el mejor tiempo en la última tanda (Q3), escoltado por el británico Lewis Hamilton (Mercedes) . En tanto, Colapinto logró superar el primer corte clasificatorio al finalizar décimo en la Q1, pero quedó eliminado en la Q2 tras registrar el decimoquinto tiempo y optar por abortar su intento final con neumáticos usados.\n\nEl retroceso en la grilla de partida se originó por dos sanciones reglamentarias acumuladas. Por un lado, el equipo Alpine decidió instalar el quinto motor de combustión interna Mercedes en el monoplaza del pilarense, superando el límite de cuatro permitidos por el reglamento técnico anual, lo que derivó en una penalización de diez posiciones. Por el otro, el argentino arrastraba una sanción de cinco lugares impuesta por los comisarios deportivos tras un incidente en la competencia anterior disputada en Bakú, donde protagonizó un toque con el británico Lando Norris (McLaren) y su compañero de escudería, el francés Pierre Gasly.\n\nCon estas penalizaciones aplicadas, la g",
-          "language": "es",
-          "publishedAt": "2026-10-03T09:44:29.000Z",
-          "addedAt": "2026-10-03T10:16:38.999Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -961,17 +976,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611-h",
-          "title": "F1: Verstappen logró su primera pole del año y Colapinto largará anteúltimo",
-          "summary": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611.html",
-          "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
-          "body": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.\n\nAfectado por una nueva penalización, Colapinto terminó 19°, 22° y 9° en las prácticas libres en Malasia 03/10/2026 06:19 am El argentino no pudo pasar de la Q2, en la cual no marcó tiempo (Foto: @AlpineF1Team) + Seguinos en Max Verstappen consiguió este sábado la pole position del Gran Premio de Malasia de Fórmula 1, correspondiente a la temporada 2026, al marcar el mejor tiempo en la clasificación disputada en el circuito de Sepang. El piloto de Red Bull superó a Lewis Hamilton por casi tres décimas y se aseguró por primera vez en el año el primer lugar de partida, mientras que Franco Colapinto finalizó 15° y largará anteúltimo en la carrera del domingo.\n\nVerstappen dominó buena parte de la clasificación y confirmó su rendimiento en la Q3, donde mejoró nuevamente su registro para quedarse con la primera posición. Hamilton terminó segundo y completará la primera fila, mientras que Isack Hadjar había terminado tercero, aunque deberá retroceder por una penalización . De esta manera, Kimi Antonelli heredará el tercer puesto y Charles Leclerc ocupará el cuarto lugar. Detrás partirán Lando Norris y Oscar Piastri, mientras que George Russell será séptimo y Hadjar, finalmente, octavo.\n\nColapinto, por su parte, logró avanzar a la Q2 después de finalizar décimo en la primera tanda, en la que Verstappen, Hamilton y Leclerc ocuparon los primeros lugares . Sin embargo, el piloto argentino no consiguió meterse entre los diez mejores y quedó eliminado en el 15° puesto, por delante únicamente de Arvid Lindblad entre los pilotos que llegaron a la Q2. En su último intento, Colapinto salió con neumáticos usados y finalmente abortó la vuelta cuando restaban po",
+          "id": "campeones-com-ar-f1-colapinto-abandono-en-el-inicio-de-la-carrera-sprint-de-singapur",
+          "title": "Colapinto abandonó en el inicio de la carrera Sprint de Singapur",
+          "summary": "Tras una espera de media hora se desarrolló la competencia en el circuito callejero de Marina Bay, en donde el argentino solo pudo dar dos giros.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-colapinto-abandono-en-el-inicio-de-la-carrera-sprint-de-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-F1-Colapinto-Singapur-out.jpg",
+          "body": "",
           "language": "es",
-          "publishedAt": "2026-10-03T09:19:14.000Z",
-          "addedAt": "2026-10-02T16:23:12.620Z",
+          "publishedAt": "2026-10-10T09:55:13.000Z",
+          "addedAt": "2026-10-10T10:11:31.380Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1111,6 +1126,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
+          "title": "Por qué Colapinto larga 21° si clasificó 15° en el GP de Malasia de la F1",
+          "summary": "El piloto argentino penalizó quince puestos por un cambio de motor y por una sanción previa de la carrera en Bakú.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167.html",
+          "image": "https://media.tycsports.com/files/2026/10/03/992532/colapinto_1440x810.webp",
+          "body": "El piloto argentino penalizó quince puestos por un cambio de motor y por una sanción previa de la carrera en Bakú.\n\nColapinto largará 21 en el Gran Premio de Malasia (Foto: @@AlpineF1Team). + Seguinos en El piloto argentino Franco Colapinto (Alpine) largará este domingo en la vigésimo primera posición del Gran Premio de Malasia de Fórmula 1 en el circuito de Sepang, a pesar de haber finalizado decimoquinto en la sesión de clasificación disputada este sábado, debido a la acumulación de quince puestos en penalizaciones por el cambio de componentes en su unidad de potencia y sanciones previas.\n\nLa sesión oficial de ordenamiento, correspondiente a la temporada 2026 de la máxima categoría del automovilismo, dejó al neerlandés Max Verstappen (Red Bull) en la primera posición de partida tras marcar el mejor tiempo en la última tanda (Q3), escoltado por el británico Lewis Hamilton (Mercedes) . En tanto, Colapinto logró superar el primer corte clasificatorio al finalizar décimo en la Q1, pero quedó eliminado en la Q2 tras registrar el decimoquinto tiempo y optar por abortar su intento final con neumáticos usados.\n\nEl retroceso en la grilla de partida se originó por dos sanciones reglamentarias acumuladas. Por un lado, el equipo Alpine decidió instalar el quinto motor de combustión interna Mercedes en el monoplaza del pilarense, superando el límite de cuatro permitidos por el reglamento técnico anual, lo que derivó en una penalización de diez posiciones. Por el otro, el argentino arrastraba una sanción de cinco lugares impuesta por los comisarios deportivos tras un incidente en la competencia anterior disputada en Bakú, donde protagonizó un toque con el británico Lando Norris (McLaren) y su compañero de escudería, el francés Pierre Gasly.\n\nCon estas penalizaciones aplicadas, la g",
+          "language": "es",
+          "publishedAt": "2026-10-03T09:44:29.000Z",
+          "addedAt": "2026-10-03T10:16:38.999Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-i",
           "title": "Franco Colapinto recibió otra penalización en el GP de Malasia de la F1: \"Largaré...\"",
           "summary": "El píloto argentino fue sancionado con diez posiciones porque Alpine cambió nuevamente el propulsor antes de la carrera del domingo. Esto se suma al castigo por el incidente en Bakú.",
@@ -1159,7 +1189,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-10T09:04:04.313Z",
+      "createdAt": "2026-10-10T10:11:42.719Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-singapur-franco-colapinto-cruce-futbolero-camiseta-espana-id765051",
@@ -1387,21 +1417,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur",
-          "title": "F1: Colapinto quedó 19.° en la única práctica del GP de Singapur",
-          "summary": "Como la mayoría, se enfocó con el Alpine en la preparación para la carrera del domingo en las calles de Marina Bay; Russell fue el más rápido con el Mercedes. A la hora 9:30 se llevará a cabo la clasificación de la carrera Sprint .",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Singapur.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T09:35:30.000Z",
-          "addedAt": "2026-10-09T10:11:30.737Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-f1-colapinto-escalo-en-sepang-hasta-el-13-puesto-y-verstappen-retorno-a-la-victoria",
           "title": "F1: Colapinto escaló en Sepang hasta el 13.° puesto y Verstappen retornó a la victoria con Red Bull",
           "summary": "Sólida labor realizó el piloto argentino con el Alpine en una carrera que se largó 1h35m más tarde y con varias dificultades en su desarrollo.",
@@ -1413,6 +1428,21 @@
           "language": "es",
           "publishedAt": "2026-10-04T10:28:21.000Z",
           "addedAt": "2026-10-04T11:11:30.712Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611-h",
+          "title": "F1: Verstappen logró su primera pole del año y Colapinto largará anteúltimo",
+          "summary": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611.html",
+          "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
+          "body": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.\n\nAfectado por una nueva penalización, Colapinto terminó 19°, 22° y 9° en las prácticas libres en Malasia 03/10/2026 06:19 am El argentino no pudo pasar de la Q2, en la cual no marcó tiempo (Foto: @AlpineF1Team) + Seguinos en Max Verstappen consiguió este sábado la pole position del Gran Premio de Malasia de Fórmula 1, correspondiente a la temporada 2026, al marcar el mejor tiempo en la clasificación disputada en el circuito de Sepang. El piloto de Red Bull superó a Lewis Hamilton por casi tres décimas y se aseguró por primera vez en el año el primer lugar de partida, mientras que Franco Colapinto finalizó 15° y largará anteúltimo en la carrera del domingo.\n\nVerstappen dominó buena parte de la clasificación y confirmó su rendimiento en la Q3, donde mejoró nuevamente su registro para quedarse con la primera posición. Hamilton terminó segundo y completará la primera fila, mientras que Isack Hadjar había terminado tercero, aunque deberá retroceder por una penalización . De esta manera, Kimi Antonelli heredará el tercer puesto y Charles Leclerc ocupará el cuarto lugar. Detrás partirán Lando Norris y Oscar Piastri, mientras que George Russell será séptimo y Hadjar, finalmente, octavo.\n\nColapinto, por su parte, logró avanzar a la Q2 después de finalizar décimo en la primera tanda, en la que Verstappen, Hamilton y Leclerc ocuparon los primeros lugares . Sin embargo, el piloto argentino no consiguió meterse entre los diez mejores y quedó eliminado en el 15° puesto, por delante únicamente de Arvid Lindblad entre los pilotos que llegaron a la Q2. En su último intento, Colapinto salió con neumáticos usados y finalmente abortó la vuelta cuando restaban po",
+          "language": "es",
+          "publishedAt": "2026-10-03T09:19:14.000Z",
+          "addedAt": "2026-10-02T16:23:12.620Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1435,7 +1465,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-10T09:04:04.313Z",
+      "createdAt": "2026-10-10T10:11:42.719Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-fallo-en-la-f1-en-singapur-los-errores-humanos-que-la-fia-tuvo-que-admitir-id765387-",
@@ -1449,6 +1479,21 @@
           "language": "es",
           "publishedAt": "2026-10-09T22:31:46.000Z",
           "addedAt": "2026-10-09T23:11:31.960Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-marc-marquez-y-la-presion-son-los-determinantes-rivales-de-martin-en-el-campeonato-de-motogp",
+          "title": "Marc Márquez y la presión son los determinantes rivales de Martín en el campeonato de MotoGP",
+          "summary": "Con la Ducati, el piloto de Cervera se impuso en la carrera Sprint del Gran Premio de Indonesia y recuperó el liderazgo del certamen, en tanto el madrileño relegó chances con inconvenientes en sus neumáticos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/marc-marquez-y-la-presion-son-los-determinantes-rivales-de-martin-en-el-campeonato-de-motogp/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-MotoGP-Martin-Marc-Indonesia.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-10T09:06:37.000Z",
+          "addedAt": "2026-10-10T10:11:31.504Z",
           "category": "general",
           "tag": "Carrera"
         },
@@ -1691,7 +1736,13 @@
           "addedAt": "2026-10-03T14:11:27.624Z",
           "category": "general",
           "tag": "Clima"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-10T10:11:42.719Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -1706,13 +1757,7 @@
           "addedAt": "2026-10-02T17:54:07.788Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-10T09:04:04.313Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-el-susto-que-tuvo-rus-med-team-antes-de-la-carrera-de-tc-en-san-nicolas",
           "title": "El \"susto\" que tuvo RUS Med Team antes de la carrera de TCen San Nicolás",
@@ -1789,21 +1834,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi",
-          "title": "El cierre del campeonato de F1 será en Qatar y Abu Dhabi",
-          "summary": "Stefano Domenicali confirmó que la temporada culminará en las carreras de Medio Oriente, en donde dispone de \"garantías\" para desarrollar ambos Grandes Premios.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-F1-Qatar-e1791015491652.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T08:16:57.000Z",
-          "addedAt": "2026-10-03T09:12:03.399Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-alpine-explico-por-que-decidio-tocar-el-motor-y-que-colapinto-sea-sancionado-id764083-ht",
           "title": "Alpine explicó por qué decidió \"tocar\" el motor y que Colapinto sea sancionado",
           "summary": "El director general de la escudería, Steve Nielsen, detalló la estrategia del equipo para el Gran Premio de Malasia y contó lo que los llevó a realizar cambios pese a que serían sancionados.",
@@ -1830,6 +1860,21 @@
           "language": "es",
           "publishedAt": "2026-09-29T15:05:13.000Z",
           "addedAt": "2026-10-02T16:23:13.438Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur",
+          "title": "F1: Colapinto quedó 19.° en la única práctica del GP de Singapur",
+          "summary": "Como la mayoría, se enfocó con el Alpine en la preparación para la carrera del domingo en las calles de Marina Bay; Russell fue el más rápido con el Mercedes. A la hora 9:30 se llevará a cabo la clasificación de la carrera Sprint .",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Singapur.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T09:35:30.000Z",
+          "addedAt": "2026-10-09T10:11:30.737Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1967,7 +2012,13 @@
           "addedAt": "2026-10-04T13:11:30.995Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-10T10:11:42.719Z",
+      "items": [
         {
           "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
           "title": "Lautaro Videla, dominador del sábado y cómodo líder del campeonato de F2 Argentina | Campeones",
@@ -1982,13 +2033,7 @@
           "addedAt": "2026-10-03T19:11:31.321Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-10T09:04:04.313Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792-h",
           "title": "Además de Colapinto, sancionaron a otro piloto de cara al GP de Malasia",
@@ -2061,21 +2106,6 @@
           "language": "es",
           "publishedAt": "2026-10-09T10:53:51.000Z",
           "addedAt": "2026-10-09T16:11:31.195Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-argentina-ultima-detalles-para-la-historica-doble-fecha-del-mundial-de-flat-track",
-          "title": "Argentina ultima detalles para la histórica doble fecha del Mundial de Flat Track",
-          "summary": "El 24 y 25 de octubre se revolucionará la ciudad de Totoras, Santa Fe, con la fecha doble que dará cierre a la temporada 2026.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/argentina-ultima-detalles-para-la-historica-doble-fecha-del-mundial-de-flat-track/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Totoras-Flat-Track-previa.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T10:00:13.000Z",
-          "addedAt": "2026-10-09T17:11:32.058Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -2215,6 +2245,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-argentina-ultima-detalles-para-la-historica-doble-fecha-del-mundial-de-flat-track",
+          "title": "Argentina ultima detalles para la histórica doble fecha del Mundial de Flat Track",
+          "summary": "El 24 y 25 de octubre se revolucionará la ciudad de Totoras, Santa Fe, con la fecha doble que dará cierre a la temporada 2026.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/argentina-ultima-detalles-para-la-historica-doble-fecha-del-mundial-de-flat-track/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Totoras-Flat-Track-previa.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T10:00:13.000Z",
+          "addedAt": "2026-10-09T17:11:32.058Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-los-argentinos-y-campeones-presentes-en-viterbo",
           "title": "Los argentinos y Campeones, presentes en Viterbo | Campeones",
           "summary": "Italia es el país elegido para la cita mundialista de la Copa Mundial de Karting de la FIA 2026 y Martín Saa, Salvador Echarri, Agustín Pizarro y Joaquín Gorlero Pizarro están presentes.",
@@ -2241,21 +2286,6 @@
           "language": "es",
           "publishedAt": "2026-10-08T21:21:04.000Z",
           "addedAt": "2026-10-08T22:11:33.891Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-para-tener-un-camaro-con-kilos-estamos-bien-analizo-canapino-tras-el-tc-en-san-nicolas",
-          "title": "“Para tener un Camaro con kilos estamos bien”, analizó Canapino tras el TC en San Nicolás",
-          "summary": "La evaluación del piloto de Arrecifes es positiva desde el punto de vista de la marca que representa, aunque no fue contundente en la carrera.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/para-tener-un-camaro-con-kilos-estamos-bien-analizo-canapino-tras-el-tc-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-ACTC-Chevrolet.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-07T21:50:47.000Z",
-          "addedAt": "2026-10-10T01:11:32.055Z",
           "category": "argentino",
           "tag": "Argentino"
         }
