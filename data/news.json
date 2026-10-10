@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T04:11:30.365Z",
-  "checkedAt": "2026-10-10T04:11:30.365Z",
+  "updatedAt": "2026-10-10T05:11:29.397Z",
+  "checkedAt": "2026-10-10T05:11:29.397Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas",
-      "title": "Hyundai y Girolami completaron un fin de semana ideal en Posadas",
-      "summary": "El \"Bebu\" se llevó también la segunda carrera en el \"Rosamonte\", alcanzando su cuarto éxito de la temporada 2026. Lo siguieron Fabián Yannantuoni y Joaquín Cafaro.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-SOUTH-AMERICA-POSADAS-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-04T17:11:39.000Z",
-      "addedAt": "2026-10-10T04:11:35.804Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
       "title": "Girolami y Hyundai siguen imbatibles en Posadas",
@@ -565,6 +550,21 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
+      "title": "TCR South America: Okulovich por Piquet Jr. como cambio de último momento",
+      "summary": "El brasileño se ausenta de la competencia en Misiones \"por compromisos asumidos previamente en su calendario deportivo\" según explicó el equipo.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NELSON-PIQUET-JR.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-03T02:40:19.000Z",
+      "addedAt": "2026-10-10T05:11:31.470Z",
+      "category": "general",
+      "tag": "Previa"
+    },
+    {
       "id": "campeones-com-ar-esperado-acuerdo-multianual-se-firmo-en-la-era-dorada-del-endurance-entre-el-fia-wec-y-el-aco",
       "title": "Esperado acuerdo multianual se firmó en la era dorada del endurance entre el WEC y el ACO",
       "summary": "El World Endurance Championship y el Automobile Club de l'Ouest dominan la escena mundial de las carreras de resistencia.",
@@ -883,7 +883,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-10T04:11:39.229Z",
+      "createdAt": "2026-10-10T05:11:36.246Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748-html",
@@ -1051,21 +1051,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255-html",
-          "title": "Cómo quedó la grilla para el Sprint del Gran Premio de Singapur de la F1",
-          "summary": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255.html",
-          "image": "https://media.tycsports.com/files/2026/10/09/994388/colapinto-en-singapur-photo-by-daniel-cenganadolu-via-getty-images_1440x810.webp?v=1",
-          "body": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.\n\nColapinto en Singapur (Photo by Daniel Ceng/Anadolu via Getty Images) + Seguinos en El fin de semana traerá consigo acción en la Fórmula 1, con lo que será tanto la carrera principal del domingo como el Sprint del sábado en el Gran Premio de Singapur . Así, de cara a lo que será el evento de mañana, la clasificación determinó que Max Verstappen sea el dueño de la pole, en tanto que Franco Colapinto quedó cerca de la zona de puntos .\n\nCon un tiempo final de 1:31.156s, el neerlandés de Red Bull se hizo dueño de la pole para la carrera corta del circuito de Marina Bay . Apenas por detrás, con un mejor tiempo de 1:31.276s, apareció George Russell, de Mercedes . En tanto, el tercer puesto de la grilla fue para Charles Leclerc, de Ferrari, con un registro de 1:31.399s.\n\nComplicado por una tempranera bandera roja provocada por un accidente de Sergio Pérez en la curva 4, Colapinto vio demorada su salida a pista, algo que también le sucedió a su compañero, Pierre Gasly. De todas maneras, con un registro de 1:35.048s, el pilarense logró meterse en SQ2, instancia en la que marcó un mejor tiempo de 1:33.249s, para quedarse con el 11° puesto de la grilla. De esta manera, si bien no logró avanzar a la SQ3, quedó cerca de los primeros ocho puestos del Sprint, con chances de sumar puntos .",
-          "language": "es",
-          "publishedAt": "2026-10-09T16:47:52.000Z",
-          "addedAt": "2026-10-09T17:11:32.303Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint",
           "title": "En Marina Bay y desde el 11.° puesto, Colapinto buscará sumar con el Alpine en la carrera Sprint",
           "summary": "A partir de la hora 6:00 de Argentina, el piloto pilarense pretende escalar posiciones en la competencia sabatina del GP de Singapur.",
@@ -1154,13 +1139,7 @@
           "addedAt": "2026-10-02T16:23:12.821Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-10T04:11:39.229Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
@@ -1175,7 +1154,13 @@
           "addedAt": "2026-10-03T18:11:30.466Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-10T05:11:36.246Z",
+      "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y largará último en el Gran Premio de Bahrein",
@@ -1190,6 +1175,21 @@
           "addedAt": "2026-10-03T09:12:02.953Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255-html",
+          "title": "Cómo quedó la grilla para el Sprint del Gran Premio de Singapur de la F1",
+          "summary": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255.html",
+          "image": "https://media.tycsports.com/files/2026/10/09/994388/colapinto-en-singapur-photo-by-daniel-cenganadolu-via-getty-images_1440x810.webp?v=1",
+          "body": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.\n\nColapinto en Singapur (Photo by Daniel Ceng/Anadolu via Getty Images) + Seguinos en El fin de semana traerá consigo acción en la Fórmula 1, con lo que será tanto la carrera principal del domingo como el Sprint del sábado en el Gran Premio de Singapur . Así, de cara a lo que será el evento de mañana, la clasificación determinó que Max Verstappen sea el dueño de la pole, en tanto que Franco Colapinto quedó cerca de la zona de puntos .\n\nCon un tiempo final de 1:31.156s, el neerlandés de Red Bull se hizo dueño de la pole para la carrera corta del circuito de Marina Bay . Apenas por detrás, con un mejor tiempo de 1:31.276s, apareció George Russell, de Mercedes . En tanto, el tercer puesto de la grilla fue para Charles Leclerc, de Ferrari, con un registro de 1:31.399s.\n\nComplicado por una tempranera bandera roja provocada por un accidente de Sergio Pérez en la curva 4, Colapinto vio demorada su salida a pista, algo que también le sucedió a su compañero, Pierre Gasly. De todas maneras, con un registro de 1:35.048s, el pilarense logró meterse en SQ2, instancia en la que marcó un mejor tiempo de 1:33.249s, para quedarse con el 11° puesto de la grilla. De esta manera, si bien no logró avanzar a la SQ3, quedó cerca de los primeros ocho puestos del Sprint, con chances de sumar puntos .",
+          "language": "es",
+          "publishedAt": "2026-10-09T16:47:52.000Z",
+          "addedAt": "2026-10-09T17:11:32.303Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-singapur-franco-colapinto-cruce-futbolero-camiseta-espana-id765051",
@@ -1435,7 +1435,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-10T04:11:39.229Z",
+      "createdAt": "2026-10-10T05:11:36.246Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-fallo-en-la-f1-en-singapur-los-errores-humanos-que-la-fia-tuvo-que-admitir-id765387-",
@@ -1558,21 +1558,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
-          "title": "F1 en Singapur: un \"error humano\" alteró el cronometraje oficial",
-          "summary": "La FIA lo informó \"al mismo tiempo\" que decidió suspender la reunión de pilotos; Williams y Aston Martin protestaron y sugirieron impugnar los resultados.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Race-control.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T17:07:30.000Z",
-          "addedAt": "2026-10-09T17:11:32.069Z",
-          "category": "general",
-          "tag": "Reglamento"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-bottas-formula-1-bicicleta-gp-singapur-id764495-html",
           "title": "Un piloto de F1 viaja de Malasia a Singapur en bicicleta",
           "summary": "El finlandés descartó viajar en avión después de correr en Sepang y emprendió una travesía por etapas rumbo al circuito de Marina Bay, donde deberá cumplir con la actividad oficial desde el jueves.",
@@ -1616,6 +1601,21 @@
           "addedAt": "2026-10-05T22:11:32.311Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
+          "title": "F1 en Singapur: un \"error humano\" alteró el cronometraje oficial",
+          "summary": "La FIA lo informó \"al mismo tiempo\" que decidió suspender la reunión de pilotos; Williams y Aston Martin protestaron y sugirieron impugnar los resultados.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Race-control.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T17:07:30.000Z",
+          "addedAt": "2026-10-09T17:11:32.069Z",
+          "category": "general",
+          "tag": "Reglamento"
         },
         {
           "id": "campeones-com-ar-el-cierre-del-campeonato-de-f1-sera-en-qatar-y-abu-dhabi",
@@ -1711,7 +1711,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-10T04:11:39.229Z",
+      "createdAt": "2026-10-10T05:11:36.246Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -1987,7 +1987,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-10T04:11:39.229Z",
+      "createdAt": "2026-10-10T05:11:36.246Z",
       "items": [
         {
           "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
