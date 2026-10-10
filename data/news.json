@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T12:11:29.506Z",
-  "checkedAt": "2026-10-10T12:11:29.506Z",
+  "updatedAt": "2026-10-10T13:11:29.546Z",
+  "checkedAt": "2026-10-10T13:11:29.546Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,36 +40,6 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud",
-      "title": "TC: Ignacio Fain, la avanzada ganadora de la juventud",
-      "summary": "Con 21 años, el santafesino del Trotta Racing Team se convirtió en el ganador más joven del campeonato 2026 del Turismo Carretera. Repasamos los vencedores más veteranos y más jóvenes en cada temporada de la categoría durante la última década.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-Victoria-TC-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-09T12:39:02.000Z",
-      "addedAt": "2026-10-10T10:11:31.769Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas",
-      "title": "Hyundai y Girolami completaron un fin de semana ideal en Posadas",
-      "summary": "El \"Bebu\" se llevó también la segunda carrera en el \"Rosamonte\", alcanzando su cuarto éxito de la temporada 2026. Lo siguieron Fabián Yannantuoni y Joaquín Cafaro.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-SOUTH-AMERICA-POSADAS-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-04T17:11:39.000Z",
-      "addedAt": "2026-10-10T10:11:36.743Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
       "title": "Girolami y Hyundai siguen imbatibles en Posadas",
       "summary": "El cordobés debió pelearla al principio, pero se impuso en la primera carrera del TCR South America. Leonel Pernía y Raphael Reis completaron el podio.",
@@ -96,6 +66,21 @@
       "language": "es",
       "publishedAt": "2026-10-03T20:25:49.000Z",
       "addedAt": "2026-10-09T14:11:38.465Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud",
+      "title": "TC: Ignacio Fain, la avanzada ganadora de la juventud",
+      "summary": "Con 21 años, el santafesino del Trotta Racing Team se convirtió en el ganador más joven del campeonato 2026 del Turismo Carretera. Repasamos los vencedores más veteranos y más jóvenes en cada temporada de la categoría durante la última década.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-Victoria-TC-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-09T12:39:02.000Z",
+      "addedAt": "2026-10-10T10:11:31.769Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -913,19 +898,19 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-10T12:11:46.396Z",
+      "createdAt": "2026-10-10T13:11:41.457Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-franco-colapinto-abandono-sprint-gran-premio-singapur-que-se-sabe-id765474-htm",
           "title": "\"Un problema del auto, ajeno a nosotros\": qué se sabe del abandono de Colapinto en la F1 de Singapur",
-          "summary": "El Alpine del argentino se detuvo repentinamente durante el cuarto giro y mientras la carrera estaba bajo Safety Car por el accidente de George Russell.",
+          "summary": "Como consecuencia de lo que fue determinado como \"un problema en el sistema de almacenamiento de energía\", el Alpine del argentino se detuvo repentinamente durante el cuarto giro y mientras la carrera estaba bajo Safety Car por el accidente de George Russell. Así, el equipo cambió las partes necesarias y no penalizará de cara a la clasificación para la carrera principal.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
           "url": "https://www.tycsports.com/automovilismo/formula-1-franco-colapinto-abandono-sprint-gran-premio-singapur-que-se-sabe-id765474.html",
           "image": "https://media.tycsports.com/files/2026/10/10/994645/colapinto-singapur_862x485.webp",
-          "body": "El Alpine del argentino se detuvo repentinamente durante el cuarto giro y mientras la carrera estaba bajo Safety Car por el accidente de George Russell.\n\nApenas en el cuarto giro y como consecuencia de un problema eléctrico, Colapinto abandonó en el sprint de Singapur (Rudy Carezzevoli/Getty Images) + Seguinos en El sábado de Franco Colapinto en Singapur terminó antes de tiempo. Es que, apenas en el cuarto giro de la carrera Sprint en Marina Bay, su Alpine perdió potencia de manera repentina y quedó detenido en la curva 14 , cuando transitaba detrás del auto de seguridad.\n\nSegún evidenciaron los primeros videos de la situación, el monoplaza también habría perdido el control del volante y dejó de transmitir datos al equipo , por lo que los ingenieros deberán recuperar la información para establecer con precisión qué originó la falla. La cámara onboard, en tanto, muestra como el argentino \"cabecea\", algo que claramente se causó por la pérdida repentina de potencia en el motor . Así, todas las señales apuntan hacia un problema eléctrico .\n\n“ Una lástima obviamente... U n problema del auto ajeno a nosotros, veremos exactamente qué es. Una lástima porque era una buena oportunidad. Ahora intentaremos arreglarlo y volver en la qualy, sin las vueltas de la Sprint Race. Ojalá podamos hacer un par de cambios buenos ”, planteó el corredor argentino en la rueda de prensa posterior.\n\nColapinto abandonó la sprint del GP de Singapur El abandono llegó después de una largada en la que había conseguido mantenerse fuera de problemas sobre una pista mojada por la lluvia . En la pelea por la posición con Pierre Gasly, decidió dejar distancia para evitar un nuevo incidente y luego perdió dos lugares más, hasta caer al 13° puesto.",
+          "body": "Como consecuencia de lo que fue determinado como \"un problema en el sistema de almacenamiento de energía\", el Alpine del argentino se detuvo repentinamente durante el cuarto giro y mientras la carrera estaba bajo Safety Car por el accidente de George Russell. Así, el equipo cambió las partes necesarias y no penalizará de cara a la clasificación para la carrera principal.\n\nApenas en el cuarto giro y como consecuencia de un problema eléctrico, Colapinto abandonó en el sprint de Singapur (Rudy Carezzevoli/Getty Images) + Seguinos en El sábado de Franco Colapinto en Singapur terminó antes de tiempo. Es que, apenas en el cuarto giro de la carrera Sprint en Marina Bay, su Alpine perdió potencia de manera repentina y quedó detenido en la curva 14 , cuando transitaba detrás del auto de seguridad.\n\nSegún evidenciaron los primeros videos de la situación, el monoplaza también habría perdido el control del volante y dejó de transmitir datos al equipo , por lo que los ingenieros deberán recuperar la información para establecer con precisión qué originó la falla. La cámara onboard, en tanto, muestra como el argentino \"cabecea\", algo que claramente se causó por la pérdida repentina de potencia en el motor . Así, todas las señales apuntan hacia un problema eléctrico .\n\n“ Una lástima obviamente... Un problema del auto ajeno a nosotros, veremos exactamente qué es. Una lástima porque era una buena oportunidad. Ahora intentaremos arreglarlo y volver en la qualy, sin las vueltas de la Sprint Race. Ojalá podamos hacer un par de cambios buenos ”, planteó el corredor argentino en la rueda de prensa posterior. Lo cierto es que el retraso del inicio de la clasificación para la carrera principal por cuestiones climáticas jugó en favor del argentino y, así, su equipo pudo realizar modificaciones a",
           "language": "es",
-          "publishedAt": "2026-10-10T10:35:52.000Z",
+          "publishedAt": "2026-10-10T13:04:13.000Z",
           "addedAt": "2026-10-10T11:11:31.839Z",
           "category": "argentino",
           "tag": "Franco"
@@ -991,21 +976,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-f1-colapinto-abandono-en-el-inicio-de-la-carrera-sprint-de-singapur",
-          "title": "F1: Colapinto abandonó en el inicio de la carrera Sprint de Singapur y Verstappen ganó otra vez",
-          "summary": "Tras una espera de media hora se desarrolló la competencia en el circuito callejero de Marina Bay, en donde el argentino solo pudo dar dos giros. En tanto, el neerlandés consiguió imponerse con el Red Bull.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-colapinto-abandono-en-el-inicio-de-la-carrera-sprint-de-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-F1-Colapinto-Singapur-out.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-10T09:55:13.000Z",
-          "addedAt": "2026-10-10T10:11:31.380Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-emocion-franco-colapinto-retiro-lionel-messi-seleccion-argentina-id764889-html",
           "title": "La emoción de Franco Colapinto por el retiro de Lionel Messi de la Selección: “Lloré un rato”",
           "summary": "En la previa del GP de Singapur, el pilarense contó sus sensaciones por la despedida del astro rosarino. “Fue un momento emotivo para toda la Argentina”, expresó.",
@@ -1017,6 +987,21 @@
           "language": "es",
           "publishedAt": "2026-10-08T20:34:05.000Z",
           "addedAt": "2026-10-08T15:11:28.692Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-f1-colapinto-abandono-en-el-inicio-de-la-carrera-sprint-de-singapur",
+          "title": "F1: Colapinto abandonó en el inicio de la carrera Sprint de Singapur y Verstappen ganó otra vez",
+          "summary": "Tras una espera de media hora se desarrolló la competencia en el circuito callejero de Marina Bay, en donde el argentino solo pudo dar dos giros. En tanto, el neerlandés consiguió imponerse con el Red Bull.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-colapinto-abandono-en-el-inicio-de-la-carrera-sprint-de-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-F1-Colapinto-Singapur-out.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-10T09:55:13.000Z",
+          "addedAt": "2026-10-10T10:11:31.380Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1189,7 +1174,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-10T12:11:46.396Z",
+      "createdAt": "2026-10-10T13:11:41.457Z",
       "items": [
         {
           "id": "campeones-com-ar-en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint",
@@ -1465,7 +1450,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-10T12:11:46.396Z",
+      "createdAt": "2026-10-10T13:11:41.457Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-fallo-en-la-f1-en-singapur-los-errores-humanos-que-la-fia-tuvo-que-admitir-id765387-",
@@ -1588,21 +1573,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal",
-          "title": "Vivian y su panorama en TC2000: \"Los milagros ocurrieron pero soy más terrenal\"",
-          "summary": "Haber estado fuera de carrera en las primeras fechas del año condicionó su abanico de posibilidades para pelear el campeonato.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Vivian-Chevrolet-TC2000.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T13:00:30.000Z",
-          "addedAt": "2026-10-09T16:11:31.196Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-bottas-formula-1-bicicleta-gp-singapur-id764495-html",
           "title": "Un piloto de F1 viaja de Malasia a Singapur en bicicleta",
           "summary": "El finlandés descartó viajar en avión después de correr en Sepang y emprendió una travesía por etapas rumbo al circuito de Marina Bay, donde deberá cumplir con la actividad oficial desde el jueves.",
@@ -1646,6 +1616,21 @@
           "addedAt": "2026-10-05T22:11:32.311Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal",
+          "title": "Vivian y su panorama en TC2000: \"Los milagros ocurrieron pero soy más terrenal\"",
+          "summary": "Haber estado fuera de carrera en las primeras fechas del año condicionó su abanico de posibilidades para pelear el campeonato.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Vivian-Chevrolet-TC2000.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T13:00:30.000Z",
+          "addedAt": "2026-10-09T16:11:31.196Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
@@ -1741,7 +1726,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-10T12:11:46.396Z",
+      "createdAt": "2026-10-10T13:11:41.457Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -2017,7 +2002,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-10T12:11:46.396Z",
+      "createdAt": "2026-10-10T13:11:41.457Z",
       "items": [
         {
           "id": "campeones-com-ar-la-decision-de-alpine-que-condiciono-a-franco-colapinto-en-sepang",
