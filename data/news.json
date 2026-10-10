@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T03:11:29.412Z",
-  "checkedAt": "2026-10-10T03:11:29.412Z",
+  "updatedAt": "2026-10-10T04:11:30.365Z",
+  "checkedAt": "2026-10-10T04:11:30.365Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas",
+      "title": "Hyundai y Girolami completaron un fin de semana ideal en Posadas",
+      "summary": "El \"Bebu\" se llevó también la segunda carrera en el \"Rosamonte\", alcanzando su cuarto éxito de la temporada 2026. Lo siguieron Fabián Yannantuoni y Joaquín Cafaro.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-SOUTH-AMERICA-POSADAS-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-04T17:11:39.000Z",
+      "addedAt": "2026-10-10T04:11:35.804Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
       "title": "Girolami y Hyundai siguen imbatibles en Posadas",
@@ -868,7 +883,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-10T03:11:34.031Z",
+      "createdAt": "2026-10-10T04:11:39.229Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748-html",
@@ -961,36 +976,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-la-sprint-de-colapinto-en-el-gp-de-singa",
-          "title": "F1: Verstappen hizo pole y Colapinto largará 11° en el GP de Singapur",
-          "summary": "El piloto argentino de Alpine fue 0.094 más lento que su compañero Pierre Gasly, quedó eliminado en la SQ2 y partirá undécimo este sábado.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-la-sprint-de-colapinto-en-el-gp-de-singapur-id764675.html",
-          "image": "https://media.tycsports.com/files/2026/10/09/994337/franco-colapinto-en-el-gp-de-singapur_1440x810.webp?v=1",
-          "body": "El piloto argentino de Alpine fue 0.094 más lento que su compañero Pierre Gasly, quedó eliminado en la SQ2 y partirá undécimo este sábado.\n\nFranco Colapinto en el GP de Singapur + Seguinos en Max Verstappen consiguió la pole position del Gran Premio de Singapur de la Fórmula 1 , correspondiente a la temporada 2026, al marcar el mejor tiempo en la clasificación sprint disputada en el circuito de Marina Bay. El piloto de Red Bull superó a Charles Leclerc y se aseguró el primer lugar de partida, mientras que Franco Colapinto finalizó 11° y largará desde allí en la Sprint de este sábbado.\n\nTras la tempranera bandera roja provocada por el accidente en la curva 4 donde Sergio Checo Pérez perdió parte del alerón delantero, los pilotos de Alpine fueron los últimos en meterse a la pista, cuando quedaban menos de tres minutos para el final de la SQ1 . Dicha estrategia complicó tanto a Gasly como a Colapinto, ya que que tuvieron que hacer dos vueltas para poder meter un tiempo competitivo. 1:35.048 fue el registro del piloto argentino, que terminó 16° para meterse a SQ2.\n\nYa en la segunda clasificación sprint, el pilarense registró una marca de 1:33.249 que lo puso noveno momentàneamnete hasta que lo pasaron Gasly, por menos de una décima, y George Russell, para saltar al cuarto lugar y dejarlo decimoprimero, afuera de la SQ3.\n\nEn la instancia decisiva, Max Verstappen se adueñó de la pole position con una gran vuelta en los segundos finales. El piloto de Red Bull Racing marcó 1:31.156 para superar a George Russell (1:31.276) y Charles Leclerc (1:31.399). El neerlandés aventajó por 0.892 segundos a su compañero de equipo, Isack Hadjar, quien largará desde la novena posición.",
-          "language": "es",
-          "publishedAt": "2026-10-09T15:46:41.000Z",
-          "addedAt": "2026-10-09T16:11:31.172Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415-html",
-          "title": "F1 | Colapinto en el GP de Singapur: horarios y el cronograma completo",
-          "summary": "Este fin de semana, el argentino disputa la decimoséptima fecha de la temporada 2026 de la Fórmula 1 en el Circuito Urbano Marina Bay. Conocé todos los detalles.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415.html",
-          "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
-          "body": "Este fin de semana, el argentino disputa la decimoséptima fecha de la temporada 2026 de la Fórmula 1 en el Circuito Urbano Marina Bay. Conocé todos los detalles.\n\nFranco Colapinto. (@AlpineF1Team) + Seguinos en Franco Colapinto se prepara para disputar el Gran Premio de Singapur de la Fórmula 1 . La 17° fecha de la temporada se correrá en el Circuito Urbano Marina Bay y el argentino buscará reencontrarse con su mejor versión, luego de finalizar 13º en Malasia en un fin de semana que terminó siendo positivo . Conocé el cronograma completo .\n\nColapinto arrancó el fin de semana con un 19° puesto en las Prácticas Libres gracias a un tiempo de 1:34.983, y quedó por delante de algunos rivales en una tanda marcada por las distintas estrategias con los neumáticos. Horas más tarde, corrió la clasificación de la carrera sprint y allí logró avanzar a SQ2, por lo que largará decimoprimero en el primer turno del sábado .\n\nEl Circuito Urbano de Marina Bay es uno de los trazados más exigentes de la Fórmula 1 . Su recorrido combina curvas cerradas, fuertes frenadas y sectores rápidos entre las calles de Singapur, con el agregado de un clima extremadamente húmedo. La carrera se disputa de noche y fue la primera competencia nocturna en la historia de la categoría . Desde 2023, el circuito tiene 19 curvas tras una modificación en su trazado.\n\nLa carrera de la Fórmula 1 se podrá ver únicamente de manera online a través de Disney+ Premium , la plataforma digital de ESPN, la cual se contrata previo registro a través de la página web por $24.390 final por mes .",
-          "language": "es",
-          "publishedAt": "2026-10-09T15:11:48.000Z",
-          "addedAt": "2026-10-08T10:11:31.949Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611-h",
           "title": "F1: Verstappen logró su primera pole del año y Colapinto largará anteúltimo",
           "summary": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.",
@@ -1032,6 +1017,36 @@
           "language": "es",
           "publishedAt": "2026-10-09T19:31:47.000Z",
           "addedAt": "2026-10-09T14:11:30.865Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-la-sprint-de-colapinto-en-el-gp-de-singa",
+          "title": "F1: Verstappen hizo pole y Colapinto largará 11° en el GP de Singapur",
+          "summary": "El piloto argentino de Alpine fue 0.094 más lento que su compañero Pierre Gasly, quedó eliminado en la SQ2 y partirá undécimo este sábado.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-la-sprint-de-colapinto-en-el-gp-de-singapur-id764675.html",
+          "image": "https://media.tycsports.com/files/2026/10/09/994337/franco-colapinto-en-el-gp-de-singapur_1440x810.webp?v=1",
+          "body": "El piloto argentino de Alpine fue 0.094 más lento que su compañero Pierre Gasly, quedó eliminado en la SQ2 y partirá undécimo este sábado.\n\nFranco Colapinto en el GP de Singapur + Seguinos en Max Verstappen consiguió la pole position del Gran Premio de Singapur de la Fórmula 1 , correspondiente a la temporada 2026, al marcar el mejor tiempo en la clasificación sprint disputada en el circuito de Marina Bay. El piloto de Red Bull superó a Charles Leclerc y se aseguró el primer lugar de partida, mientras que Franco Colapinto finalizó 11° y largará desde allí en la Sprint de este sábbado.\n\nTras la tempranera bandera roja provocada por el accidente en la curva 4 donde Sergio Checo Pérez perdió parte del alerón delantero, los pilotos de Alpine fueron los últimos en meterse a la pista, cuando quedaban menos de tres minutos para el final de la SQ1 . Dicha estrategia complicó tanto a Gasly como a Colapinto, ya que que tuvieron que hacer dos vueltas para poder meter un tiempo competitivo. 1:35.048 fue el registro del piloto argentino, que terminó 16° para meterse a SQ2.\n\nYa en la segunda clasificación sprint, el pilarense registró una marca de 1:33.249 que lo puso noveno momentàneamnete hasta que lo pasaron Gasly, por menos de una décima, y George Russell, para saltar al cuarto lugar y dejarlo decimoprimero, afuera de la SQ3.\n\nEn la instancia decisiva, Max Verstappen se adueñó de la pole position con una gran vuelta en los segundos finales. El piloto de Red Bull Racing marcó 1:31.156 para superar a George Russell (1:31.276) y Charles Leclerc (1:31.399). El neerlandés aventajó por 0.892 segundos a su compañero de equipo, Isack Hadjar, quien largará desde la novena posición.",
+          "language": "es",
+          "publishedAt": "2026-10-09T15:46:41.000Z",
+          "addedAt": "2026-10-09T16:11:31.172Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415-html",
+          "title": "F1 | Colapinto en el GP de Singapur: horarios y el cronograma completo",
+          "summary": "Este fin de semana, el argentino disputa la decimoséptima fecha de la temporada 2026 de la Fórmula 1 en el Circuito Urbano Marina Bay. Conocé todos los detalles.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415.html",
+          "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
+          "body": "Este fin de semana, el argentino disputa la decimoséptima fecha de la temporada 2026 de la Fórmula 1 en el Circuito Urbano Marina Bay. Conocé todos los detalles.\n\nFranco Colapinto. (@AlpineF1Team) + Seguinos en Franco Colapinto se prepara para disputar el Gran Premio de Singapur de la Fórmula 1 . La 17° fecha de la temporada se correrá en el Circuito Urbano Marina Bay y el argentino buscará reencontrarse con su mejor versión, luego de finalizar 13º en Malasia en un fin de semana que terminó siendo positivo . Conocé el cronograma completo .\n\nColapinto arrancó el fin de semana con un 19° puesto en las Prácticas Libres gracias a un tiempo de 1:34.983, y quedó por delante de algunos rivales en una tanda marcada por las distintas estrategias con los neumáticos. Horas más tarde, corrió la clasificación de la carrera sprint y allí logró avanzar a SQ2, por lo que largará decimoprimero en el primer turno del sábado .\n\nEl Circuito Urbano de Marina Bay es uno de los trazados más exigentes de la Fórmula 1 . Su recorrido combina curvas cerradas, fuertes frenadas y sectores rápidos entre las calles de Singapur, con el agregado de un clima extremadamente húmedo. La carrera se disputa de noche y fue la primera competencia nocturna en la historia de la categoría . Desde 2023, el circuito tiene 19 curvas tras una modificación en su trazado.\n\nLa carrera de la Fórmula 1 se podrá ver únicamente de manera online a través de Disney+ Premium , la plataforma digital de ESPN, la cual se contrata previo registro a través de la página web por $24.390 final por mes .",
+          "language": "es",
+          "publishedAt": "2026-10-09T15:11:48.000Z",
+          "addedAt": "2026-10-08T10:11:31.949Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1144,7 +1159,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-10T03:11:34.031Z",
+      "createdAt": "2026-10-10T04:11:39.229Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
@@ -1420,7 +1435,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-10T03:11:34.031Z",
+      "createdAt": "2026-10-10T04:11:39.229Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-fallo-en-la-f1-en-singapur-los-errores-humanos-que-la-fia-tuvo-que-admitir-id765387-",
@@ -1451,6 +1466,21 @@
           "addedAt": "2026-10-09T21:11:32.589Z",
           "category": "general",
           "tag": "Reglamento"
+        },
+        {
+          "id": "campeones-com-ar-motogp-raul-fernandez-logro-su-primera-pole-en-indonesia",
+          "title": "MotoGP: Raúl Fernández logró su primera \"pole\" en Indonesia",
+          "summary": "Con la Aprilia de Trackhouse, el español encabezará la grilla de las carreras del fin de semana en el circuito de Mandalika. Marc Márquez y Jorge Martin clasificaron 4.° y 5.°, respectivamente.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/motogp-raul-fernandez-logro-su-primera-pole-en-indonesia/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-MotoGP-Raul-Fernandez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-10T03:56:26.000Z",
+          "addedAt": "2026-10-10T04:11:32.918Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
@@ -1676,7 +1706,13 @@
           "addedAt": "2026-10-03T14:11:27.624Z",
           "category": "general",
           "tag": "Clima"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-10T04:11:39.229Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -1691,13 +1727,7 @@
           "addedAt": "2026-10-02T17:54:07.788Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-10T03:11:34.031Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-el-susto-que-tuvo-rus-med-team-antes-de-la-carrera-de-tc-en-san-nicolas",
           "title": "El \"susto\" que tuvo RUS Med Team antes de la carrera de TCen San Nicolás",
@@ -1772,21 +1802,6 @@
           "addedAt": "2026-10-08T15:11:33.418Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento",
-          "title": "TCR South America: Okulovich por Piquet Jr. como cambio de último momento",
-          "summary": "El brasileño se ausenta de la competencia en Misiones \"por compromisos asumidos previamente en su calendario deportivo\" según explicó el equipo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tcr-south-america-okulovich-por-piquet-jr-como-cambio-de-ultimo-momento/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NELSON-PIQUET-JR.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T02:40:19.000Z",
-          "addedAt": "2026-10-03T15:11:35.641Z",
-          "category": "general",
-          "tag": "Previa"
         },
         {
           "id": "campeones-com-ar-f1-top10-de-colapinto-tras-otra-practica-de-preparacion-en-sepang",
@@ -1972,7 +1987,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-10T03:11:34.031Z",
+      "createdAt": "2026-10-10T04:11:39.229Z",
       "items": [
         {
           "id": "campeones-com-ar-lautaro-videla-dominador-del-sabado-y-comodo-lider-del-campeonato-de-f2-argentina",
