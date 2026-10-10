@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T20:11:30.519Z",
-  "checkedAt": "2026-10-10T20:11:30.519Z",
+  "updatedAt": "2026-10-10T21:11:29.630Z",
+  "checkedAt": "2026-10-10T21:11:29.630Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,17 +40,17 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua",
-      "title": "Girolami le dio el '1' a Hyundai en una clasificación pasada por agua",
-      "summary": "El piloto de Isla Verde fue el más rápido en el primer corte de clasificación. La lluvia torrencial no permitió el normal desarrollo de la Q2, lo que se tradujo en \"pole\" del cordobés.",
+      "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
+      "title": "Girolami y Hyundai siguen imbatibles en Posadas",
+      "summary": "El cordobés debió pelearla al principio, pero se impuso en la primera carrera del TCR South America. Leonel Pernía y Raphael Reis completaron el podio.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-HYUNDAI-e1791058796473.jpg",
+      "url": "https://campeones.com.ar/girolami-y-hyundai-siguen-imbatibles-en-posadas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-03T20:25:49.000Z",
-      "addedAt": "2026-10-09T14:11:38.465Z",
+      "publishedAt": "2026-10-04T14:30:48.000Z",
+      "addedAt": "2026-10-10T21:11:35.204Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -216,6 +216,21 @@
       "language": "es",
       "publishedAt": "2026-09-22T15:59:59.000Z",
       "addedAt": "2026-10-04T15:11:36.725Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua",
+      "title": "Girolami le dio el '1' a Hyundai en una clasificación pasada por agua",
+      "summary": "El piloto de Isla Verde fue el más rápido en el primer corte de clasificación. La lluvia torrencial no permitió el normal desarrollo de la Q2, lo que se tradujo en \"pole\" del cordobés.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/girolami-le-dio-el-1-a-hyundai-en-una-clasificacion-pasada-por-agua/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-HYUNDAI-e1791058796473.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-03T20:25:49.000Z",
+      "addedAt": "2026-10-09T14:11:38.465Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -943,7 +958,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-10T20:11:44.461Z",
+      "createdAt": "2026-10-10T21:11:40.905Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -983,10 +998,25 @@
           "sourceLabel": "TyC Sports",
           "url": "https://www.tycsports.com/automovilismo/colapinto-beneficiado-grilla-penalizacion-russell-gp-de-singapur-id765520.html",
           "image": "https://media.tycsports.com/files/2026/10/10/994729/verstappen-hamilton-y-leclerca_862x485.webp?v=2",
-          "body": "El piloto británico de Mercedes fue sancionado por el cambio del motor de su monoplaza, motivo por el que deberá largar desde el fondo en Singapur; y Colapinto, que clasificó 16°, largará un puesto más arriba\n\nVerstappen se quedó con la pole. Leclerc y Hamilton largarán segundo y tercero respectivamente + Seguinos en El GP de Singapur de la Fórmula 1 ya tiene establecido el orden de largada para la carrera principal. Max Verstappen se quedó con una nueva pole; mientras que Franco Colapinto, piloto argentino de Alpine, que clasificó deicimosexto, subirá un puesto en la salida por una penalización a George Russell, quien largará desde el anteúltimo puesto ya que Fernando Alonso, también será sancionado por cambiar de motor, y partirá desde el fondo de la parrilla.\n\nEl cuatro veces campeón del mundo se quedó con el primer lugar tras cerrar una vuelta de 1:31.373. Charles Leclerc y Lewis Hamilton, ambos corredores de Ferrari, fueron segundo y tercero respectivamente; Andrea Kimi Antonelli, de Mercedes, y Lando Norris, de McLaren, completaron el top 5. Por su parte, Pierre Gasly avanzó a la Q3 y concluyó octavo.",
+          "body": "El piloto británico de Mercedes fue sancionado por el cambio del motor de su monoplaza, motivo por el que deberá largar desde el fondo en Singapur; y Colapinto, que clasificó 16°, largará un puesto más arriba\n\nEl pedido de Alpine a Colapinto tras una complicada clasificación en Singapur 10/10/2026 06:02 pm Verstappen se quedó con la pole. Leclerc y Hamilton largarán segundo y tercero respectivamente + Seguinos en El GP de Singapur de la Fórmula 1 ya tiene establecido el orden de largada para la carrera principal. Max Verstappen se quedó con una nueva pole; mientras que Franco Colapinto, piloto argentino de Alpine, que clasificó deicimosexto, subirá un puesto en la salida por una penalización a George Russell, quien largará desde el anteúltimo puesto ya que Fernando Alonso, también será sancionado por cambiar de motor, y partirá desde el fondo de la parrilla.\n\nEl cuatro veces campeón del mundo se quedó con el primer lugar tras cerrar una vuelta de 1:31.373. Charles Leclerc y Lewis Hamilton, ambos corredores de Ferrari, fueron segundo y tercero respectivamente; Andrea Kimi Antonelli, de Mercedes, y Lando Norris, de McLaren, completaron el top 5. Por su parte, Pierre Gasly avanzó a la Q3 y concluyó octavo.",
           "language": "es",
-          "publishedAt": "2026-10-10T18:50:18.000Z",
+          "publishedAt": "2026-10-10T21:02:03.000Z",
           "addedAt": "2026-10-10T16:11:31.771Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id76",
+          "title": "El pedido de Alpine a Colapinto tras una complicada clasificación en Singapur: \"Mantené...\"",
+          "summary": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id765589.html",
+          "image": "https://media.tycsports.com/files/2026/10/10/994806/colapinto_862x485.webp?v=1",
+          "body": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.\n\nLa foto que eligió Alpine para manifestarle su apoyo a Colapinto. + Seguinos en El fin de semana de Franco Colapinto en el Gran Premio de Singapur sumó otro capítulo difícil. Luego del abandono en la carrera Sprint por un problema en el sistema de almacenamiento de energía de su monoplaza, el piloto tampoco encontró las respuestas que buscaba en la clasificación y terminó en el 16° puesto, lejos de los lugares que pretendía ocupar. Sin embargo, rápidamente recibió la banca de su escudería de la Fórmula 1.\n\nEn ese contexto complicado, Alpine publicó un mensaje de apoyo dirigido al argentino . La escudería eligió una foto de Colapinto de espaldas, con la cabeza gacha, y acompañó la imagen con una frase que buscó levantarle el ánimo de cara a la carrera principal: “Mantené la cabeza en alto, @FranColapinto. Habrá muchas más oportunidades mañana”.\n\nEsa suerte de \"pedido\" y empujón anímico llegó después de una jornada en la que los problemas mecánicos y las dificultades para encontrar un buen balance condicionaron el rendimiento del piloto de 21 años en el GP de Singapur.\n\nEl doble toque de Colapinto con el muro en el GP de Singapur La frustración quedó reflejada en sus propias palabras una vez finalizada la sesión . “De los peores balances que tuve en mucho tiempo” , reconoció Colapinto, disconforme con el comportamiento del auto en un circuito tan exigente como el de Marina Bay.",
+          "language": "es",
+          "publishedAt": "2026-10-10T20:18:27.000Z",
+          "addedAt": "2026-10-10T21:11:30.468Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1021,21 +1051,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-post-qualy-sprint-gp-singapur-id765148-html",
-          "title": "Colapinto, optimista tras la qualy Sprint del Gran Premio de Singapur: “Vamos a estar mejor mañana”",
-          "summary": "El argentino largará 11° en la minicarrera del sábado. A pesar de que explicó las dificultades que tuvo en su monoplaza en la jornada del viernes, se mostró entusiasta para lo que viene. “No estamos lejos”, aseguró.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-post-qualy-sprint-gp-singapur-id765148.html",
-          "image": "https://media.tycsports.com/files/2026/10/09/994382/fracno_1440x810.webp?v=1",
-          "body": "El argentino largará 11° en la minicarrera del sábado. A pesar de que explicó las dificultades que tuvo en su monoplaza en la jornada del viernes, se mostró entusiasta para lo que viene. “No estamos lejos”, aseguró.\n\nColapinto se mostró optimista de cara a la Sprint del GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto , piloto argentino de Alpine, se mostró optimista de cara a la continuidad del Gran Premio de Singapur tras finalizar 11° este viernes en la clasificación para la carrera Sprint : “No estamos lejos y estoy seguro de que vamos a estar mejor mañana”.\n\n“Estuvimos muy cerca” , valoró el pilarense, quien en la SQ2 se ubicó a +0.094 de su compañero de equipo, Pierre Gasly, quien clasificó 10°, y por esa mínima diferencia no pudo meterse entre los diez mejores de la sesión.\n\nAunque destacó que su vuelta rápida de 1:33.249 en la qualy fue “buena” , el #43 acusó dificultades en su monoplaza en el inicio del giro. “No me siento cómodo con los frenos y las gomas para arrancar y tener el grip que quiero y debería tener” , comentó.\n\nEl argentino también analizó su rendimiento en la práctica libre, en la cual finalizó 19°, y explicó los problemas que tuvo en su A526: “ Me costó todo el día porque el auto se sentía desconectado en la entrada y mitad de curva, se me iba de trompa. Tenemos bastante por mejorar para mañana”.",
-          "language": "es",
-          "publishedAt": "2026-10-09T20:41:38.000Z",
-          "addedAt": "2026-10-09T16:11:31.455Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415-html",
           "title": "F1 | Colapinto en el GP de Singapur: horarios y el cronograma completo",
           "summary": "Este fin de semana, el argentino disputa la decimoséptima fecha de la temporada 2026 de la Fórmula 1 en el Circuito Urbano Marina Bay. Conocé todos los detalles.",
@@ -1062,6 +1077,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T10:37:14.000Z",
           "addedAt": "2026-10-09T14:11:31.910Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-post-qualy-sprint-gp-singapur-id765148-html",
+          "title": "Colapinto, optimista tras la qualy Sprint del Gran Premio de Singapur: “Vamos a estar mejor mañana”",
+          "summary": "El argentino largará 11° en la minicarrera del sábado. A pesar de que explicó las dificultades que tuvo en su monoplaza en la jornada del viernes, se mostró entusiasta para lo que viene. “No estamos lejos”, aseguró.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-post-qualy-sprint-gp-singapur-id765148.html",
+          "image": "https://media.tycsports.com/files/2026/10/09/994382/fracno_1440x810.webp?v=1",
+          "body": "El argentino largará 11° en la minicarrera del sábado. A pesar de que explicó las dificultades que tuvo en su monoplaza en la jornada del viernes, se mostró entusiasta para lo que viene. “No estamos lejos”, aseguró.\n\nColapinto se mostró optimista de cara a la Sprint del GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto , piloto argentino de Alpine, se mostró optimista de cara a la continuidad del Gran Premio de Singapur tras finalizar 11° este viernes en la clasificación para la carrera Sprint : “No estamos lejos y estoy seguro de que vamos a estar mejor mañana”.\n\n“Estuvimos muy cerca” , valoró el pilarense, quien en la SQ2 se ubicó a +0.094 de su compañero de equipo, Pierre Gasly, quien clasificó 10°, y por esa mínima diferencia no pudo meterse entre los diez mejores de la sesión.\n\nAunque destacó que su vuelta rápida de 1:33.249 en la qualy fue “buena” , el #43 acusó dificultades en su monoplaza en el inicio del giro. “No me siento cómodo con los frenos y las gomas para arrancar y tener el grip que quiero y debería tener” , comentó.\n\nEl argentino también analizó su rendimiento en la práctica libre, en la cual finalizó 19°, y explicó los problemas que tuvo en su A526: “ Me costó todo el día porque el auto se sentía desconectado en la entrada y mitad de curva, se me iba de trompa. Tenemos bastante por mejorar para mañana”.",
+          "language": "es",
+          "publishedAt": "2026-10-09T20:41:38.000Z",
+          "addedAt": "2026-10-09T16:11:31.455Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1199,7 +1229,13 @@
           "addedAt": "2026-10-02T16:23:12.821Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-10T21:11:40.905Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-la-sprint-de-colapinto-en-el-gp-de-singa",
           "title": "F1: Verstappen hizo pole y Colapinto largará 11° en el GP de Singapur",
@@ -1214,13 +1250,7 @@
           "addedAt": "2026-10-09T16:11:31.172Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-10T20:11:44.461Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-singapur-franco-colapinto-cruce-futbolero-camiseta-espana-id765051",
           "title": "Otro cruce divertido y futbolero para Colapinto en el GP de Singapur",
@@ -1475,27 +1505,12 @@
           "addedAt": "2026-10-02T17:57:42.536Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
-          "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
-          "summary": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-palpito-gp-singapur-formula-1-id764619.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
-          "body": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.\n\nFranco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Luego de escalar ocho posiciones y finalizar 13° en Malasia, Franco Colapinto, piloto argentino de Alpine, palpitó el GP de Singapur de la Fórmula 1, que se correrá el fin de semana próximo en el circuito callejero Marina Bay, uno de los escenarios más desafiantes para los pilotos desde el punto de vista físico.\n\n\"Después de nuestra carrera en Malasia, estamos haciendo el corto viaje a Singapur para uno de los fines de semana más extremos de la temporada. El calor y la humedad fueron todo un desafío en Sepang y no serán diferente este fin de semana, solo que con la naturaleza añadida de que es un circuito urbano\" , sostuvo el argentino\n\nSiguiendo esa línea, su compañero de equipo, Pierre Gasly agregó: \"Ya estamos bastante acostumbrados a las condiciones, dado que competimos en Malasia el fin de semana pasado, donde hizo calor, humedad y, por supuesto, llovió mucho el día de la carrera\".\n\nSobre la pista, Colapinto destacó: “La pista es implacable y muy divertida de conducir. La mezcla de curvas técnicas, superficie llena de baches y paredes cerradas, además de estar bajo las luces, lo convierte en uno de mis favoritos del año”.",
-          "language": "es",
-          "publishedAt": "2026-10-06T20:52:30.000Z",
-          "addedAt": "2026-10-07T01:11:30.601Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-10T20:11:44.461Z",
+      "createdAt": "2026-10-10T21:11:40.905Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-fallo-en-la-f1-en-singapur-los-errores-humanos-que-la-fia-tuvo-que-admitir-id765387-",
@@ -1528,36 +1543,6 @@
           "tag": "Clima"
         },
         {
-          "id": "www-tycsports-com-automovilismo-carlos-sainz-exploto-contra-fia-insolito-error-gp-de-singapur-id765352-html",
-          "title": "Un piloto de la F1 explotó contra la FIA tras un insólito error en el GP de Singapur",
-          "summary": "El piloto de Williams disparó luego de que un inconveniente generara que algunos pilotos contaran con mayor potencia que otros en la qualy para la Sprint. “Por alguna razón decidió no actuar ante una desigualdad deportiva”, disparó contra la entidad.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/carlos-sainz-exploto-contra-fia-insolito-error-gp-de-singapur-id765352.html",
-          "image": "https://media.tycsports.com/files/2026/10/09/994476/carlos-sainz_416x234.webp",
-          "body": "El piloto de Williams disparó luego de que un inconveniente generara que algunos pilotos contaran con mayor potencia que otros en la qualy para la Sprint. “Por alguna razón decidió no actuar ante una desigualdad deportiva”, disparó contra la entidad.\n\nCarlos Sainz, explotó contra la FIA tras los incidentes en Singapur (X) + Seguinos en La nueva reglamentación que introdujo la Fórmula 1 en 2026 volvió a generar polémica. Después de los incidentes registrados en la largada del Gran Premio de Malasia, el de Singapur volvió a quedar en el ojo de la tormenta por un problema en la gestión eléctrica de los monoplazas. En este contexto, Carlos Sainz, piloto de Williams, explotó tras quedar último en la qualy para la Sprint y disparó directamente contra la FIA.\n\n\"Por alguna razón, la FIA, al igual que en Malasia, no decidió actuar ante una desigualdad deportiva\", expresó el español, quien aseguró en declaraciones a F1 TV que algunos de sus rivales contaron con una ventaja de aproximadamente medio segundo por vuelta debido a las diferencias de potencia.\n\nSainz recordó los inconvenientes registrados el fin de semana pasado en Malasia, cuando una falla de software afectó a varios monoplazas durante el procedimiento de largada y obligó a interrumpir el inicio de la carrera. Para Sainz, ambos episodios dejaron en evidencia diferencias deportivas que no fueron corregidas por la FIA y cuestionó el criterio del organismo a la hora de intervenir ante este tipo de situaciones.\n\nPor su parte, la Federación Internacional del Automóvil reconoció que en Singapur se produjo un error humano que impidió habilitar correctamente el Modo Adelantamiento después de la bandera roja que provocó Sergio Pérez. Según explicó la entidad, el sistema estuvo activado durante apenas 27 segundos antes de volver",
-          "language": "es",
-          "publishedAt": "2026-10-09T21:03:26.000Z",
-          "addedAt": "2026-10-09T21:11:32.589Z",
-          "category": "general",
-          "tag": "Reglamento"
-        },
-        {
-          "id": "campeones-com-ar-marc-marquez-y-la-presion-son-los-determinantes-rivales-de-martin-en-el-campeonato-de-motogp",
-          "title": "Marc Márquez y la presión son los determinantes rivales de Martín en el campeonato de MotoGP",
-          "summary": "Con la Ducati, el piloto de Cervera se impuso en la carrera Sprint del Gran Premio de Indonesia y recuperó el liderazgo del certamen, en tanto el madrileño relegó chances con inconvenientes en sus neumáticos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/marc-marquez-y-la-presion-son-los-determinantes-rivales-de-martin-en-el-campeonato-de-motogp/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-MotoGP-Martin-Marc-Indonesia.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-10T09:06:37.000Z",
-          "addedAt": "2026-10-10T10:11:31.504Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
           "title": "George Russell largará último en el GP de Singapur y se complica en la lucha por el título de la Fórmula 1",
           "summary": "Luego de que su monoplaza quede varado a cinco vueltas del final en el GP de Malasia; el piloto británico será sancionado por un cambio en la unidad de potencia para la carrera en Singapur.",
@@ -1586,6 +1571,36 @@
           "addedAt": "2026-10-04T08:11:31.664Z",
           "category": "general",
           "tag": "Clima"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-carlos-sainz-exploto-contra-fia-insolito-error-gp-de-singapur-id765352-html",
+          "title": "Un piloto de la F1 explotó contra la FIA tras un insólito error en el GP de Singapur",
+          "summary": "El piloto de Williams disparó luego de que un inconveniente generara que algunos pilotos contaran con mayor potencia que otros en la qualy para la Sprint. “Por alguna razón decidió no actuar ante una desigualdad deportiva”, disparó contra la entidad.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/carlos-sainz-exploto-contra-fia-insolito-error-gp-de-singapur-id765352.html",
+          "image": "https://media.tycsports.com/files/2026/10/09/994476/carlos-sainz_416x234.webp",
+          "body": "El piloto de Williams disparó luego de que un inconveniente generara que algunos pilotos contaran con mayor potencia que otros en la qualy para la Sprint. “Por alguna razón decidió no actuar ante una desigualdad deportiva”, disparó contra la entidad.\n\nCarlos Sainz, explotó contra la FIA tras los incidentes en Singapur (X) + Seguinos en La nueva reglamentación que introdujo la Fórmula 1 en 2026 volvió a generar polémica. Después de los incidentes registrados en la largada del Gran Premio de Malasia, el de Singapur volvió a quedar en el ojo de la tormenta por un problema en la gestión eléctrica de los monoplazas. En este contexto, Carlos Sainz, piloto de Williams, explotó tras quedar último en la qualy para la Sprint y disparó directamente contra la FIA.\n\n\"Por alguna razón, la FIA, al igual que en Malasia, no decidió actuar ante una desigualdad deportiva\", expresó el español, quien aseguró en declaraciones a F1 TV que algunos de sus rivales contaron con una ventaja de aproximadamente medio segundo por vuelta debido a las diferencias de potencia.\n\nSainz recordó los inconvenientes registrados el fin de semana pasado en Malasia, cuando una falla de software afectó a varios monoplazas durante el procedimiento de largada y obligó a interrumpir el inicio de la carrera. Para Sainz, ambos episodios dejaron en evidencia diferencias deportivas que no fueron corregidas por la FIA y cuestionó el criterio del organismo a la hora de intervenir ante este tipo de situaciones.\n\nPor su parte, la Federación Internacional del Automóvil reconoció que en Singapur se produjo un error humano que impidió habilitar correctamente el Modo Adelantamiento después de la bandera roja que provocó Sergio Pérez. Según explicó la entidad, el sistema estuvo activado durante apenas 27 segundos antes de volver",
+          "language": "es",
+          "publishedAt": "2026-10-09T21:03:26.000Z",
+          "addedAt": "2026-10-09T21:11:32.589Z",
+          "category": "general",
+          "tag": "Reglamento"
+        },
+        {
+          "id": "campeones-com-ar-marc-marquez-y-la-presion-son-los-determinantes-rivales-de-martin-en-el-campeonato-de-motogp",
+          "title": "Marc Márquez y la presión son los determinantes rivales de Martín en el campeonato de MotoGP",
+          "summary": "Con la Ducati, el piloto de Cervera se impuso en la carrera Sprint del Gran Premio de Indonesia y recuperó el liderazgo del certamen, en tanto el madrileño relegó chances con inconvenientes en sus neumáticos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/marc-marquez-y-la-presion-son-los-determinantes-rivales-de-martin-en-el-campeonato-de-motogp/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-MotoGP-Martin-Marc-Indonesia.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-10T09:06:37.000Z",
+          "addedAt": "2026-10-10T10:11:31.504Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-motogp-raul-fernandez-logro-su-primera-pole-en-indonesia",
@@ -1771,7 +1786,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-10T20:11:44.461Z",
+      "createdAt": "2026-10-10T21:11:40.905Z",
       "items": [
         {
           "id": "campeones-com-ar-si-fuera-mazzacane-haria-el-coronacion-de-tc-en-balcarce",
@@ -1862,6 +1877,21 @@
           "addedAt": "2026-10-03T14:11:27.624Z",
           "category": "general",
           "tag": "Clima"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
+          "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
+          "summary": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-palpito-gp-singapur-formula-1-id764619.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
+          "body": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.\n\nFranco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Luego de escalar ocho posiciones y finalizar 13° en Malasia, Franco Colapinto, piloto argentino de Alpine, palpitó el GP de Singapur de la Fórmula 1, que se correrá el fin de semana próximo en el circuito callejero Marina Bay, uno de los escenarios más desafiantes para los pilotos desde el punto de vista físico.\n\n\"Después de nuestra carrera en Malasia, estamos haciendo el corto viaje a Singapur para uno de los fines de semana más extremos de la temporada. El calor y la humedad fueron todo un desafío en Sepang y no serán diferente este fin de semana, solo que con la naturaleza añadida de que es un circuito urbano\" , sostuvo el argentino\n\nSiguiendo esa línea, su compañero de equipo, Pierre Gasly agregó: \"Ya estamos bastante acostumbrados a las condiciones, dado que competimos en Malasia el fin de semana pasado, donde hizo calor, humedad y, por supuesto, llovió mucho el día de la carrera\".\n\nSobre la pista, Colapinto destacó: “La pista es implacable y muy divertida de conducir. La mezcla de curvas técnicas, superficie llena de baches y paredes cerradas, además de estar bajo las luces, lo convierte en uno de mis favoritos del año”.",
+          "language": "es",
+          "publishedAt": "2026-10-06T20:52:30.000Z",
+          "addedAt": "2026-10-07T01:11:30.601Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-",
@@ -2027,7 +2057,13 @@
           "addedAt": "2026-10-06T15:11:32.799Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-10T21:11:40.905Z",
+      "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
@@ -2042,13 +2078,7 @@
           "addedAt": "2026-10-03T18:11:30.466Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-10T20:11:44.461Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y largará último en el Gran Premio de Bahrein",
@@ -2286,21 +2316,6 @@
           "language": "es",
           "publishedAt": "2026-10-05T08:09:47.000Z",
           "addedAt": "2026-10-05T17:11:32.246Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-baldoni-toma-el-comando-en-el-intermitente-rally-de-entre-rios",
-          "title": "Baldoni toma el comando en el intermitente Rally de Entre Ríos",
-          "summary": "La competencia, válida por la séptima fecha del campeonato argentino, debió reprogramar su primera etapa por los pronósticos de lluvia y cerró con un Súper Especial que dominó el puntano.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/baldoni-toma-el-comando-en-el-intermitente-rally-de-entre-rios/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261003-RallyArg-Baldoni.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T20:42:36.000Z",
-          "addedAt": "2026-10-03T21:11:31.488Z",
           "category": "argentino",
           "tag": "Argentino"
         },
