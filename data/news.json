@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T06:11:29.481Z",
-  "checkedAt": "2026-10-10T06:11:29.481Z",
+  "updatedAt": "2026-10-10T07:11:29.480Z",
+  "checkedAt": "2026-10-10T07:11:29.480Z",
   "pageSize": 18,
   "sources": [
     {
@@ -883,7 +883,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-10T06:11:34.452Z",
+      "createdAt": "2026-10-10T07:11:32.834Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748-html",
@@ -1159,7 +1159,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-10T06:11:34.452Z",
+      "createdAt": "2026-10-10T07:11:32.834Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
@@ -1435,7 +1435,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-10T06:11:34.452Z",
+      "createdAt": "2026-10-10T07:11:32.834Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-fallo-en-la-f1-en-singapur-los-errores-humanos-que-la-fia-tuvo-que-admitir-id765387-",
@@ -1468,21 +1468,6 @@
           "tag": "Reglamento"
         },
         {
-          "id": "campeones-com-ar-motogp-raul-fernandez-logro-su-primera-pole-en-indonesia",
-          "title": "MotoGP: Raúl Fernández logró su primera \"pole\" en Indonesia",
-          "summary": "Con la Aprilia de Trackhouse, el español encabezará la grilla de las carreras del fin de semana en el circuito de Mandalika. Marc Márquez y Jorge Martin clasificaron 4.° y 5.°, respectivamente.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/motogp-raul-fernandez-logro-su-primera-pole-en-indonesia/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-MotoGP-Raul-Fernandez.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-10T03:56:26.000Z",
-          "addedAt": "2026-10-10T04:11:32.918Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
           "title": "Lewis Hamilton señaló a los pilotos jóvenes de la Fórmula 1: ¿le tienen miedo a la lluvia?",
           "summary": "El británico lamentó que \"las carreras en mojado ya no son lo mismo de antes\" y lo atribuyó en parte al respeto de los nuevos protagonistas a conducir en condiciones extremas. \"Prefieren no correr\", los liquidó.",
@@ -1509,6 +1494,21 @@
           "language": "es",
           "publishedAt": "2026-10-07T16:46:12.000Z",
           "addedAt": "2026-10-07T17:11:31.241Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-motogp-raul-fernandez-logro-su-primera-pole-en-indonesia",
+          "title": "MotoGP: Raúl Fernández logró su primera \"pole\" en Indonesia",
+          "summary": "Con la Aprilia de Trackhouse, el español encabezará la grilla de las carreras del fin de semana en el circuito de Mandalika. Marc Márquez y Jorge Martin clasificaron 4.° y 5.°, respectivamente.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/motogp-raul-fernandez-logro-su-primera-pole-en-indonesia/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-MotoGP-Raul-Fernandez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-10T03:56:26.000Z",
+          "addedAt": "2026-10-10T04:11:32.918Z",
           "category": "general",
           "tag": "Carrera"
         },
@@ -1711,7 +1711,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-10T06:11:34.452Z",
+      "createdAt": "2026-10-10T07:11:32.834Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -1987,7 +1987,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-10T06:11:34.452Z",
+      "createdAt": "2026-10-10T07:11:32.834Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792-h",
