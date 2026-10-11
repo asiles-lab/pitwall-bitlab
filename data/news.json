@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-11T01:11:29.694Z",
-  "checkedAt": "2026-10-11T01:11:29.694Z",
+  "updatedAt": "2026-10-11T02:11:29.705Z",
+  "checkedAt": "2026-10-11T02:11:29.705Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
+      "title": "Girolami y Hyundai siguen imbatibles en Posadas",
+      "summary": "El cordobés debió pelearla al principio, pero se impuso en la primera carrera del TCR South America. Leonel Pernía y Raphael Reis completaron el podio.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/girolami-y-hyundai-siguen-imbatibles-en-posadas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-04T14:30:48.000Z",
+      "addedAt": "2026-10-11T02:11:31.488Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-tc2000-traut-con-su-primera-pole-en-el-cierre-de-la-clasificacion-pampeana",
       "title": "TC2000: Traut, con su primera \"pole\" en el cierre de la clasificación pampeana",
@@ -943,7 +958,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-11T01:11:36.430Z",
+      "createdAt": "2026-10-11T02:11:32.854Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1047,6 +1062,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T20:18:27.000Z",
           "addedAt": "2026-10-10T21:11:30.468Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-defensa-pierre-gasly-franco-colapinto-tras-decision-fia-no-sancionar-lando-norris-id7656",
+          "title": "La defensa de Pierre Gasly a Franco Colapinto tras la decisión de la FIA de no sancionar a Lando Norris",
+          "summary": "El francés cuestionó los criterios de los comisarios de la Fórmula 1 tras la polémica en Singapur y recordó el castigo que recibió el argentino en Bakú por una situación similar.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/defensa-pierre-gasly-franco-colapinto-tras-decision-fia-no-sancionar-lando-norris-id765643.html",
+          "image": "https://media.tycsports.com/files/2026/08/20/980244/franco-colapinto-y-pierre-gasly_1440x810.webp",
+          "body": "El francés cuestionó los criterios de los comisarios de la Fórmula 1 tras la polémica en Singapur y recordó el castigo que recibió el argentino en Bakú por una situación similar.\n\nFranco Colapinto y Pierre Gasly (Photo by Jayce Illman/Getty Images) + Seguinos en La polémica en la Fórmula 1 volvió a instalarse tras la Sprint del Gran Premio de Singapur. Lando Norris y Oscar Piastri protagonizaron un choque en la última vuelta entre compañeros de equipo, cuando el británico intentó superar al australiano en una maniobra que perjudicó a ambos y terminó con el oceánico fuera de carrera. Los comisarios analizaron lo ocurrido y resolvieron no aplicar sanciones.\n\nTras conocerse el fallo, Pierre Gasly se refirió a la diferencia de criterios respecto de otros incidentes recientes y recordó lo sucedido con su compañero de Alpine Franco Colapinto en Azerbaiyán en una situación similar. “Desafortunadamente, Franco recibió una sanción bastante dura en Bakú. Estoy seguro de que lo discutiremos con los comisarios”, señaló el piloto de Alpine. El francés terminó noveno en la carrera corta, justo detrás de Norris, y quedó a las puertas de sumar un punto. Sobre la maniobra entre los pilotos de McLaren, fue contundente: “Habría sumado un punto si Lando hubiera sido penalizado. No deberías chocar contra tu compañero de equipo”.\n\nEl antecedente que mencionó Gasly ocurrió en el Gran Premio de Azerbaiyán, cuando Colapinto bloqueó las ruedas durante el reinicio de la carrera y llegó pasado a la primera curva. El argentino chocó contra su compañero, quien a su vez impactó contra Norris. Los tres autos debieron abandonar y, luego, el británico le tiró munición gruesa al argentino (\"algunos no deberían estar en la F1\" ) con palabras que muy recordadas al provocar él mismo el incidente de este sáb",
+          "language": "es",
+          "publishedAt": "2026-10-11T01:43:20.000Z",
+          "addedAt": "2026-10-11T02:11:31.656Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1199,7 +1229,13 @@
           "addedAt": "2026-10-10T10:11:31.380Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-11T02:11:32.854Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
           "title": "Por qué Colapinto larga 21° si clasificó 15° en el GP de Malasia de la F1",
@@ -1214,13 +1250,7 @@
           "addedAt": "2026-10-03T10:16:38.999Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-11T01:11:36.430Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-i",
           "title": "Franco Colapinto recibió otra penalización en el GP de Malasia de la F1: \"Largaré...\"",
@@ -1475,27 +1505,12 @@
           "addedAt": "2026-10-07T22:11:34.431Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
-          "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
-          "summary": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-palpito-gp-singapur-formula-1-id764619.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
-          "body": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.\n\nFranco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Luego de escalar ocho posiciones y finalizar 13° en Malasia, Franco Colapinto, piloto argentino de Alpine, palpitó el GP de Singapur de la Fórmula 1, que se correrá el fin de semana próximo en el circuito callejero Marina Bay, uno de los escenarios más desafiantes para los pilotos desde el punto de vista físico.\n\n\"Después de nuestra carrera en Malasia, estamos haciendo el corto viaje a Singapur para uno de los fines de semana más extremos de la temporada. El calor y la humedad fueron todo un desafío en Sepang y no serán diferente este fin de semana, solo que con la naturaleza añadida de que es un circuito urbano\" , sostuvo el argentino\n\nSiguiendo esa línea, su compañero de equipo, Pierre Gasly agregó: \"Ya estamos bastante acostumbrados a las condiciones, dado que competimos en Malasia el fin de semana pasado, donde hizo calor, humedad y, por supuesto, llovió mucho el día de la carrera\".\n\nSobre la pista, Colapinto destacó: “La pista es implacable y muy divertida de conducir. La mezcla de curvas técnicas, superficie llena de baches y paredes cerradas, además de estar bajo las luces, lo convierte en uno de mis favoritos del año”.",
-          "language": "es",
-          "publishedAt": "2026-10-06T20:52:30.000Z",
-          "addedAt": "2026-10-07T01:11:30.601Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-11T01:11:36.430Z",
+      "createdAt": "2026-10-11T02:11:32.854Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-fallo-en-la-f1-en-singapur-los-errores-humanos-que-la-fia-tuvo-que-admitir-id765387-",
@@ -1771,7 +1786,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-11T01:11:36.430Z",
+      "createdAt": "2026-10-11T02:11:32.854Z",
       "items": [
         {
           "id": "campeones-com-ar-si-fuera-mazzacane-haria-el-coronacion-de-tc-en-balcarce",
@@ -1862,6 +1877,21 @@
           "addedAt": "2026-10-03T14:11:27.624Z",
           "category": "general",
           "tag": "Clima"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
+          "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
+          "summary": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-palpito-gp-singapur-formula-1-id764619.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
+          "body": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.\n\nFranco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Luego de escalar ocho posiciones y finalizar 13° en Malasia, Franco Colapinto, piloto argentino de Alpine, palpitó el GP de Singapur de la Fórmula 1, que se correrá el fin de semana próximo en el circuito callejero Marina Bay, uno de los escenarios más desafiantes para los pilotos desde el punto de vista físico.\n\n\"Después de nuestra carrera en Malasia, estamos haciendo el corto viaje a Singapur para uno de los fines de semana más extremos de la temporada. El calor y la humedad fueron todo un desafío en Sepang y no serán diferente este fin de semana, solo que con la naturaleza añadida de que es un circuito urbano\" , sostuvo el argentino\n\nSiguiendo esa línea, su compañero de equipo, Pierre Gasly agregó: \"Ya estamos bastante acostumbrados a las condiciones, dado que competimos en Malasia el fin de semana pasado, donde hizo calor, humedad y, por supuesto, llovió mucho el día de la carrera\".\n\nSobre la pista, Colapinto destacó: “La pista es implacable y muy divertida de conducir. La mezcla de curvas técnicas, superficie llena de baches y paredes cerradas, además de estar bajo las luces, lo convierte en uno de mis favoritos del año”.",
+          "language": "es",
+          "publishedAt": "2026-10-06T20:52:30.000Z",
+          "addedAt": "2026-10-07T01:11:30.601Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-",
@@ -2027,7 +2057,13 @@
           "addedAt": "2026-10-09T10:11:30.737Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-11T02:11:32.854Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-canapino-colapinto-advertencia-odio-redes-sociales-id764567-html",
           "title": "La advertencia de Canapino a Colapinto sobre el odio en redes sociales: \"Yo tuve muchos problemas y hoy...\"",
@@ -2042,13 +2078,7 @@
           "addedAt": "2026-10-06T15:11:32.799Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-11T01:11:36.430Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
@@ -2303,21 +2333,6 @@
           "addedAt": "2026-10-05T17:11:32.246Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21",
-          "title": "GP de Bahrein: Verstappen larga en \"pole\", Hamilton lo escolta y Colapinto empieza 21.° | Campeones",
-          "summary": "A la hora 4:00 de la madrugada argentina se pondrá en marcha la 16.ª carrera de Fórmula 1 en el circuito de Sepang, sobre 56 vueltas.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/gp-de-bahrein-verstappen-larga-en-pole-hamilton-lo-escolta-y-colapinto-empieza-21/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-F1-Colapinto-Alpine-A526.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T23:00:39.000Z",
-          "addedAt": "2026-10-03T23:11:31.151Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     }
