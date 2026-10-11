@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-11T18:11:28.840Z",
-  "checkedAt": "2026-10-11T18:11:28.840Z",
+  "updatedAt": "2026-10-11T19:03:47.110Z",
+  "checkedAt": "2026-10-11T19:03:47.110Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-vivian-resistio-y-se-llevo-la-carrera-del-tc2000-en-la-pampa",
-      "title": "Vivian resistió y se llevó la carrera del TC2000 en La Pampa",
-      "summary": "El piloto de la Ciudad de Buenos Aires largó adelante luego de clasificar sexto por inversión de grilla, y se sostuvo al frente para seguir recortando distancias en el certamen.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/vivian-resistio-y-se-llevo-la-carrera-del-tc2000-en-la-pampa/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/FRANCO-VIVIAN-TC2000-LA-PAMPA.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-11T16:48:58.000Z",
-      "addedAt": "2026-10-11T17:11:40.465Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
     {
       "id": "campeones-com-ar-tn-clase-3-canapino-aprovecho-las-peleas-ajenas-para-ganar-la-2a-bateria-en-san-martin",
       "title": "TN Clase 3: Canapino aprovechó las peleas ajenas para ganar la 2ª batería en San Martín",
@@ -1003,7 +988,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-11T18:11:37.836Z",
+      "createdAt": "2026-10-11T19:04:01.091Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1092,21 +1077,6 @@
           "language": "es",
           "publishedAt": "2026-10-10T20:18:27.000Z",
           "addedAt": "2026-10-10T21:11:30.468Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-el-balance-de-franco-colapinto-tras-su-abandono-fueron-las-peores-tres-carreras-que-tuve-en-f1",
-          "title": "El balance de Franco Colapinto tras su abandono: «Fueron las peores tres carreras que tuve en F1",
-          "summary": "Cerrando un fin de semana complejo en Singapur, el piloto argentino se refirió a la magra cosecha de resultados con el Alpine en esta fecha, como también en Baku y Sepang.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-balance-de-franco-colapinto-tras-su-abandono-fueron-las-peores-tres-carreras-que-tuve-en-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261011-F1-Franco-Colapinto.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-11T15:14:14.000Z",
-          "addedAt": "2026-10-11T16:11:30.723Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1216,6 +1186,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-el-balance-de-franco-colapinto-tras-su-abandono-fueron-las-peores-tres-carreras-que-tuve-en-f1",
+          "title": "El balance de Franco Colapinto tras su abandono: «Fueron las peores tres carreras que tuve en F1",
+          "summary": "Cerrando un fin de semana complejo en Singapur, el piloto argentino se refirió a la magra cosecha de resultados con el Alpine en esta fecha, como también en Baku y Sepang.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-balance-de-franco-colapinto-tras-su-abandono-fueron-las-peores-tres-carreras-que-tuve-en-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261011-F1-Franco-Colapinto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-11T15:14:14.000Z",
+          "addedAt": "2026-10-11T16:11:30.723Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur",
           "title": "Otra falla en el Alpine le impidió terminar a Colapinto en Singapur",
           "summary": "Antes de cumplirse la mitad de carrera, el argentino debió abandonar por un inconveniente técnico en el A526. Verstappen consiguió ganar en este trazado por primera vez.",
@@ -1279,7 +1264,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-11T18:11:37.836Z",
+      "createdAt": "2026-10-11T19:04:01.091Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-singapur-id764617-html",
@@ -1555,22 +1540,37 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-11T18:11:37.836Z",
+      "createdAt": "2026-10-11T19:04:01.091Z",
       "items": [
         {
-          "id": "www-tycsports-com-automovilismo-antonelli-puede-ser-campeon-de-la-formula-1-en-austin-que-necesita-para-asegurar-el-titu",
-          "title": "Antonelli puede ser campeón de la Fórmula 1 en Austin: qué necesita para asegurar el título",
-          "summary": "El piloto italiano terminó 3° en el GP de Singapur y estiró su liderazgo con 340 puntos y aventaja por 102 a su compañero de equipo, George Russell",
+          "id": "www-tycsports-com-automovilismo-fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703-h",
+          "title": "Fuerte autocrítica del director de Alpine tras otra carrera sin puntos en la F1: \"El resultado habla por sí solo\"",
+          "summary": "Tras el GP de Singapur, el director de la escudería reconoció el mal momento del equipo tras el tercer fin de semana consecutivo sin sumar y anticipó cambios en los autos.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/antonelli-puede-ser-campeon-de-la-formula-1-en-austin-que-necesita-para-asegurar-el-titulo-id765681.html",
-          "image": "https://media.tycsports.com/files/2026/10/11/995002/antonelli-_862x485.webp?v=1",
-          "body": "El piloto italiano terminó 3° en el GP de Singapur y estiró su liderazgo con 340 puntos y aventaja por 102 a su compañero de equipo, George Russell\n\nAntonelli podría convertirse en el piloto campeón más joven en la Fórmula 1 + Seguinos en Kimi Antonelli quedó cerca de consagrarse campeón de la Fórmula 1 y podría asegurar el título en el Gran Premio de Austin. El italiano, que terminó tercero en Singapur detrás de Max Verstappen y Charles Leclerc, amplió su ventaja sobre George Russell y depende de una combinación de resultados para sellar la consagración.\n\nEl piloto de Mercedes suma 340 puntos y aventaja por 102 a su compañero de equipo, que ocupa el segundo lugar con 238 unidades. Con 150 puntos todavía en juego en el campeonato, Antonelli tendrá la primera oportunidad de cerrar la pelea en la próxima fecha, siempre que consiga ampliar la diferencia hasta los 125 puntos.\n\nPara lograrlo en Austin, el italiano deberá ganar la carrera y esperar que Russell termine décimo o peor. Si se da esa combinación, la diferencia entre ambos llegará a 126 puntos, con solo 125 en disputa después de esa fecha en las seis próximas carreras. También deberá tener en cuenta a Lewis Hamilton y Max Verstappen. El británico está a 111 puntos del líder y necesitará terminar quinto o peor para que el italiano pueda asegurarse el campeonato , siempre que se cumpla el resto de las condiciones necesarias.\n\nMás allá de la posibilidad de coronarse en la próxima fecha, Antonelli también está cerca de convertirse en el campeón más joven de la historia de la categoría. Actualmente, ese registro pertenece a Sebastian Vettel, quien obtuvo su primer título en 2010 con 23 años y 134 días.",
+          "url": "https://www.tycsports.com/automovilismo/fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703.html",
+          "image": "https://media.tycsports.com/files/2026/10/11/995038/steve-nielsen_862x485.webp?v=1",
+          "body": "Tras el GP de Singapur, el director de la escudería reconoció el mal momento del equipo tras el tercer fin de semana consecutivo sin sumar y anticipó cambios en los autos.\n\nSteve Nielsen, director general de Alpine + Seguinos en Alpine completó su tercer Gran Premio consecutivo sin sumar puntos en Singapur y Steve Nielsen, su director general, reconoció la necesidad de mejorar tanto el rendimiento como la confiabilidad de los autos. Franco Colapinto sufrió dos abandonos durante el fin de semana , mientras que Pierre Gasly terminó 11° tras haber clasificado en el séptimo puesto.\n\n“El resultado habla por sí solo y lamentablemente no tenemos nada para mostrar en términos de puntos. Naturalmente, eso hace más difícil nuestro trabajo en el campeonato” , expresó Nielsen, en una autocrítica sobre el presente de la escudería francesa.\n\nPese a los resultados, el dirigente destacó el ritmo que mostró el equipo y se mostró confiado de cara a las próximas carreras. “Lo que nos hace optimistas es que mostramos un buen ritmo y que, en general, el auto funciona bien en la mayoría de los circuitos” , señaló. En esa línea, Nielsen sostuvo que Alpine buscará aprovechar ese rendimiento para volver a pelear por puntos y achicar la diferencia con sus rivales. Además, confirmó que el equipo trabaja en nuevas piezas para mejorar el funcionamiento de ambos monoplazas.\n\nSin embargo, el director general remarcó que también deben resolver los problemas de confiabilidad que quedaron expuestos en Singapur. “Necesitamos entender qué provocó que tuviéramos que detenernos dos veces en la pista este fin de semana” , explicó.",
           "language": "es",
-          "publishedAt": "2026-10-11T15:18:59.000Z",
-          "addedAt": "2026-10-11T16:11:31.178Z",
+          "publishedAt": "2026-10-11T18:12:49.000Z",
+          "addedAt": "2026-10-11T19:03:48.315Z",
           "category": "general",
-          "tag": "F1"
+          "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-vivian-resistio-y-se-llevo-la-carrera-del-tc2000-en-la-pampa",
+          "title": "Vivian resistió y se llevó la carrera del TC2000 en La Pampa",
+          "summary": "El piloto de la Ciudad de Buenos Aires largó adelante luego de clasificar sexto por inversión de grilla, y se sostuvo al frente para seguir recortando distancias en el certamen.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/vivian-resistio-y-se-llevo-la-carrera-del-tc2000-en-la-pampa/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/FRANCO-VIVIAN-TC2000-LA-PAMPA.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-11T16:48:58.000Z",
+          "addedAt": "2026-10-11T17:11:40.465Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "www-tycsports-com-automovilismo-que-fallo-en-la-f1-en-singapur-los-errores-humanos-que-la-fia-tuvo-que-admitir-id765387-",
@@ -1586,6 +1586,21 @@
           "addedAt": "2026-10-09T23:11:31.960Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-antonelli-puede-ser-campeon-de-la-formula-1-en-austin-que-necesita-para-asegurar-el-titu",
+          "title": "Antonelli puede ser campeón de la Fórmula 1 en Austin: qué necesita para asegurar el título",
+          "summary": "El piloto italiano terminó 3° en el GP de Singapur y estiró su liderazgo con 340 puntos y aventaja por 102 a su compañero de equipo, George Russell",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/antonelli-puede-ser-campeon-de-la-formula-1-en-austin-que-necesita-para-asegurar-el-titulo-id765681.html",
+          "image": "https://media.tycsports.com/files/2026/10/11/995002/antonelli-_862x485.webp?v=1",
+          "body": "El piloto italiano terminó 3° en el GP de Singapur y estiró su liderazgo con 340 puntos y aventaja por 102 a su compañero de equipo, George Russell\n\nAntonelli podría convertirse en el piloto campeón más joven en la Fórmula 1 + Seguinos en Kimi Antonelli quedó cerca de consagrarse campeón de la Fórmula 1 y podría asegurar el título en el Gran Premio de Austin. El italiano, que terminó tercero en Singapur detrás de Max Verstappen y Charles Leclerc, amplió su ventaja sobre George Russell y depende de una combinación de resultados para sellar la consagración.\n\nEl piloto de Mercedes suma 340 puntos y aventaja por 102 a su compañero de equipo, que ocupa el segundo lugar con 238 unidades. Con 150 puntos todavía en juego en el campeonato, Antonelli tendrá la primera oportunidad de cerrar la pelea en la próxima fecha, siempre que consiga ampliar la diferencia hasta los 125 puntos.\n\nPara lograrlo en Austin, el italiano deberá ganar la carrera y esperar que Russell termine décimo o peor. Si se da esa combinación, la diferencia entre ambos llegará a 126 puntos, con solo 125 en disputa después de esa fecha en las seis próximas carreras. También deberá tener en cuenta a Lewis Hamilton y Max Verstappen. El británico está a 111 puntos del líder y necesitará terminar quinto o peor para que el italiano pueda asegurarse el campeonato , siempre que se cumpla el resto de las condiciones necesarias.\n\nMás allá de la posibilidad de coronarse en la próxima fecha, Antonelli también está cerca de convertirse en el campeón más joven de la historia de la categoría. Actualmente, ese registro pertenece a Sebastian Vettel, quien obtuvo su primer título en 2010 con 23 años y 134 días.",
+          "language": "es",
+          "publishedAt": "2026-10-11T15:18:59.000Z",
+          "addedAt": "2026-10-11T16:11:31.178Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
@@ -1796,7 +1811,13 @@
           "addedAt": "2026-10-02T17:54:07.788Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-11T19:04:01.091Z",
+      "items": [
         {
           "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
           "title": "F1 en Singapur: un \"error humano\" alteró el cronometraje oficial",
@@ -1826,13 +1847,7 @@
           "addedAt": "2026-10-02T17:57:42.858Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-11T18:11:37.836Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-si-fuera-mazzacane-haria-el-coronacion-de-tc-en-balcarce",
           "title": "«Si fuera Mazzacane haría el Coronación de TC en Balcarce»",
@@ -1892,36 +1907,6 @@
           "addedAt": "2026-10-08T15:11:33.418Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas",
-          "title": "TC Pista: Maceira se quedó con el ensayo final en San Nicolás",
-          "summary": "El piloto del Catalán Magni Motorsport, que no pudo largar la Final en San Luis y llegó a poner en duda su presencia en esta 2ª fecha de la Copa de Plata 2026, marcó el mejor tiempo en una pista en la que se bajaron los tiempos en casi 13 segundos respecto de la primera práctica.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-pista-maceira-se-quedo-con-el-ensayo-final-en-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Maceira-TCP-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-03T17:19:06.000Z",
-          "addedAt": "2026-10-03T18:11:30.923Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-andersson-y-azcona-ganaron-las-ultimas-carreras-del-tcr-en-corea",
-          "title": "Andersson y Azcona ganaron las últimas carreras del TCR en Corea | Campeones",
-          "summary": "El sueco mantuvo la punta desde la largada y se llevó la segunda competencia, mientras que el español repitió triunfo y lidera el certamen.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/andersson-y-azcona-ganaron-las-ultimas-carreras-del-tcr-en-corea/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9801.png",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-04T11:04:58.000Z",
-          "addedAt": "2026-10-04T13:11:31.134Z",
-          "category": "general",
-          "tag": "Carrera"
         },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
@@ -2107,7 +2092,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-11T18:11:37.836Z",
+      "createdAt": "2026-10-11T19:04:01.091Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
