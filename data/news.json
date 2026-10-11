@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-11T21:11:28.856Z",
-  "checkedAt": "2026-10-11T21:11:28.856Z",
+  "updatedAt": "2026-10-11T22:11:29.762Z",
+  "checkedAt": "2026-10-11T22:11:29.762Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud",
-      "title": "TC: Ignacio Fain, la avanzada ganadora de la juventud",
-      "summary": "Con 21 años, el santafesino del Trotta Racing Team se convirtió en el ganador más joven del campeonato 2026 del Turismo Carretera. Repasamos los vencedores más veteranos y más jóvenes en cada temporada de la categoría durante la última década.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-Victoria-TC-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-09T12:39:02.000Z",
-      "addedAt": "2026-10-11T21:11:30.725Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-la-otra-copa-de-oro-los-12-cambios-de-equipo-en-el-tc",
       "title": "La otra Copa de Oro: los 12 cambios de equipo en el TC | Campeones",
@@ -216,21 +201,6 @@
       "language": "es",
       "publishedAt": "2026-09-25T15:42:45.000Z",
       "addedAt": "2026-10-05T18:11:37.605Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "carburando-com-ar-blog-el-plan-de-juan-angel-rosso-para-afianzarse-en-el-tcr-south-america",
-      "title": "El plan de Juan Ángel Rosso para afianzarse en el TCR South America",
-      "summary": "El piloto argentino detalla cómo busca consolidar su vínculo con la marca y escalar en la categoría sudamericana de turismos. Un proyecto técnico…",
-      "source": "Carburando",
-      "sourceLabel": "Carburando",
-      "url": "https://carburando.com.ar/blog/el-plan-de-juan-angel-rosso-para-afianzarse-en-el-tcr-south-america",
-      "image": "https://carburando.com.ar/covers/22/el-plan-de-juan-angel-rosso-para-afianzarse-en-el-tcr-south-23087.webp",
-      "body": "El piloto argentino detalla cómo busca consolidar su vínculo con la marca y escalar en la categoría sudamericana de turismos. Un proyecto técnico y estratégico que apunta a crecer de forma sostenida.\n\nJuan Ángel Rosso encara la temporada 2026 del TCR South America con un objetivo claro: afianzarse definitivamente con la marca que representa y transformar su presencia en la categoría en un proyecto sólido y a largo plazo.\n\nEl cordobés, que ya acumula experiencia en diferentes categorías del automovilismo nacional e internacional, entiende que el TCR es un escalón clave para proyectarse. \"Estamos tratando de afianzarnos con la marca\", explica con la franqueza que lo caracteriza. Esa frase resume una estrategia que va más allá de correr una o dos fechas: se trata de construir una relación técnica y comercial duradera con el equipo y el fabricante.\n\nEn el TCR South America los autos compiten bajo un reglamento técnico basado en el TCR International, con motores turbo de 2.0 litros, tracción delantera y un peso mínimo que ronda los 1.280 kilos según la balanza de performance. Esto obliga a los pilotos y equipos a trabajar muy cerca del fabricante para lograr el setup ideal en cada circuito. Rosso sabe que solo con continuidad se pueden extraer los datos necesarios para evolucionar el paquete.\n\nEl plan pasa por varias patas. Primero, la parte técnica: lograr que el auto se adapte mejor a los trazados sudamericanos, que tienen características muy distintas a los europeos. Segundo, la deportiva: sumar kilómetros y resultados consistentes que permitan pelear por podios y victorias de manera regular. Y tercero, la comercial: fortalecer la imagen de la marca en el mercado argentino y regional, algo que los sponsors valoran especialmente en un contexto económico complejo.",
-      "language": "es",
-      "publishedAt": "2026-09-11T21:20:22.000Z",
-      "addedAt": "2026-10-04T14:11:32.689Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -805,6 +775,21 @@
       "tag": "Argentino"
     },
     {
+      "id": "carburando-com-ar-blog-el-plan-de-juan-angel-rosso-para-afianzarse-en-el-tcr-south-america",
+      "title": "El plan de Juan Ángel Rosso para afianzarse en el TCR South America",
+      "summary": "El piloto argentino detalla cómo busca consolidar su vínculo con la marca y escalar en la categoría sudamericana de turismos. Un proyecto técnico…",
+      "source": "Carburando",
+      "sourceLabel": "Carburando",
+      "url": "https://carburando.com.ar/blog/el-plan-de-juan-angel-rosso-para-afianzarse-en-el-tcr-south-america",
+      "image": "https://carburando.com.ar/covers/22/el-plan-de-juan-angel-rosso-para-afianzarse-en-el-tcr-south-23087.webp",
+      "body": "El piloto argentino detalla cómo busca consolidar su vínculo con la marca y escalar en la categoría sudamericana de turismos. Un proyecto técnico y estratégico que apunta a crecer de forma sostenida.\n\nJuan Ángel Rosso encara la temporada 2026 del TCR South America con un objetivo claro: afianzarse definitivamente con la marca que representa y transformar su presencia en la categoría en un proyecto sólido y a largo plazo.\n\nEl cordobés, que ya acumula experiencia en diferentes categorías del automovilismo nacional e internacional, entiende que el TCR es un escalón clave para proyectarse. \"Estamos tratando de afianzarnos con la marca\", explica con la franqueza que lo caracteriza. Esa frase resume una estrategia que va más allá de correr una o dos fechas: se trata de construir una relación técnica y comercial duradera con el equipo y el fabricante.\n\nEn el TCR South America los autos compiten bajo un reglamento técnico basado en el TCR International, con motores turbo de 2.0 litros, tracción delantera y un peso mínimo que ronda los 1.280 kilos según la balanza de performance. Esto obliga a los pilotos y equipos a trabajar muy cerca del fabricante para lograr el setup ideal en cada circuito. Rosso sabe que solo con continuidad se pueden extraer los datos necesarios para evolucionar el paquete.\n\nEl plan pasa por varias patas. Primero, la parte técnica: lograr que el auto se adapte mejor a los trazados sudamericanos, que tienen características muy distintas a los europeos. Segundo, la deportiva: sumar kilómetros y resultados consistentes que permitan pelear por podios y victorias de manera regular. Y tercero, la comercial: fortalecer la imagen de la marca en el mercado argentino y regional, algo que los sponsors valoran especialmente en un contexto económico complejo.",
+      "language": "es",
+      "publishedAt": "2026-09-11T21:20:22.000Z",
+      "addedAt": "2026-10-04T14:11:32.689Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "carburando-com-ar-blog-la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-encara-a-todo",
       "title": "La mentalidad de Ignacio Faín: “Estas cinco carreras uno las encara a todo o nada”",
       "summary": "El piloto de Junín debuta en la Copa de Oro del Turismo Carretera y explica cómo cambia el chip cuando llega la fase decisiva del campeonato. Análisis…",
@@ -973,7 +958,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-11T21:11:33.886Z",
+      "createdAt": "2026-10-11T22:11:34.067Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-reaccion-de-colapinto-antes-de-su-abandono-en-la-f1-formula-1-singapur-gp-gran-premio",
@@ -1249,7 +1234,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-11T21:11:33.886Z",
+      "createdAt": "2026-10-11T22:11:34.067Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561-html",
@@ -1525,7 +1510,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-11T21:11:33.886Z",
+      "createdAt": "2026-10-11T22:11:34.067Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703-h",
@@ -1801,7 +1786,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-11T21:11:33.886Z",
+      "createdAt": "2026-10-11T22:11:34.067Z",
       "items": [
         {
           "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
@@ -1924,21 +1909,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-",
-          "title": "La cruda autocrítica de Briatore tras el enojo de Colapinto con Alpine",
-          "summary": "El asesor ejecutivo admitió que el equipo “no tomó las decisiones acertadas” en el Gran Premio de Malasia de la Fórmula 1.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-altura-id764360.html",
-          "image": "https://media.tycsports.com/files/2026/09/26/990875/briatore_862x485.webp?v=2",
-          "body": "El asesor ejecutivo admitió que el equipo “no tomó las decisiones acertadas” en el Gran Premio de Malasia de la Fórmula 1.\n\nFlavio Briatore se mostró decepcionado tras el GP de Azerbaiyán + Seguinos en Flavio Briatore se hizo cargo del error de Alpine en el Gran Premio de Malasia de la Fórmula 1 . El asesor ejecutivo reconoció que la escudería no estuvo a la altura tras la decisión de salir con neumáticos slick con la pista de Sepang todavía húmeda, una apuesta que le costó la carrera y terreno en la pelea por el quinto puesto en el Campeonato de Constructores, y desató el enojo del argentino Franco Colapinto.\n\nBriatore expresó: “ No ha sido el resultado que esperábamos hoy, teniendo en cuenta nuestra posición de salida, especialmente considerando que nuestros rivales han sumado puntos y la diferencia actual en el campeonato . Habíamos rendido bien durante todo el fin de semana hasta ese momento; sin embargo, a la vista de lo ocurrido en la carrera, no tomamos las decisiones acertadas ni estuvimos a la altura como equipo\" .\n\nY agregó: \"Nosotros, al igual que otras escuderías, probamos una estrategia distinta con los neumáticos y, posteriormente, hicimos todo lo posible por remontar, pero no dio resultado. No obstante, el ritmo en seco parecía prometedor y aún quedan muchas carreras para luchar por la quinta plaza del campeonato”.\n\nColapinto largó desde el puesto 21, terminó 13° y pasó buena parte de la carrera sin grip sobre el asfalto mojado. Pierre Gasly corrió con el mismo problema. Mientras tanto, Racing Bulls sumó siete puntos y amplió la diferencia en el campeonato.",
-          "language": "es",
-          "publishedAt": "2026-10-04T21:25:18.000Z",
-          "addedAt": "2026-10-04T22:11:31.068Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255-html",
           "title": "Cómo quedó la grilla para el Sprint del Gran Premio de Singapur de la F1",
           "summary": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.",
@@ -1984,21 +1954,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur",
-          "title": "\"Es importante estar delante de los Racing Bulls\", lanza Colapinto como objetivo en Singapur",
-          "summary": "El argentino analizó las últimas carreras, donde el Alpine fue competitivo: \"Singapur es otra oportunidad para sumar puntos\"",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Singapur-foto-piloto.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T21:26:30.000Z",
-          "addedAt": "2026-10-08T12:11:33.749Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611-h",
           "title": "F1: Verstappen logró su primera pole del año y Colapinto largará anteúltimo",
           "summary": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.",
@@ -2025,6 +1980,21 @@
           "language": "es",
           "publishedAt": "2026-10-08T17:00:17.000Z",
           "addedAt": "2026-10-02T17:57:42.536Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur",
+          "title": "\"Es importante estar delante de los Racing Bulls\", lanza Colapinto como objetivo en Singapur",
+          "summary": "El argentino analizó las últimas carreras, donde el Alpine fue competitivo: \"Singapur es otra oportunidad para sumar puntos\"",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/es-importante-estar-delante-de-los-racing-bulls-lanza-colapinto-como-objetivo-en-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Singapur-foto-piloto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T21:26:30.000Z",
+          "addedAt": "2026-10-08T12:11:33.749Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2072,13 +2042,7 @@
           "addedAt": "2026-10-03T10:16:39.500Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-11T21:11:33.886Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
           "title": "Después de la accidentada carrera, Colapinto estableció sus objetivos para Malasia",
@@ -2093,7 +2057,13 @@
           "addedAt": "2026-10-02T16:23:13.438Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-11T22:11:34.067Z",
+      "items": [
         {
           "id": "campeones-com-ar-f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur",
           "title": "F1: Colapinto quedó 19.° en la única práctica del GP de Singapur",
@@ -2348,6 +2318,21 @@
           "addedAt": "2026-10-11T17:11:40.005Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-",
+          "title": "La cruda autocrítica de Briatore tras el enojo de Colapinto con Alpine",
+          "summary": "El asesor ejecutivo admitió que el equipo “no tomó las decisiones acertadas” en el Gran Premio de Malasia de la Fórmula 1.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-altura-id764360.html",
+          "image": "https://media.tycsports.com/files/2026/09/26/990875/briatore_862x485.webp?v=2",
+          "body": "El asesor ejecutivo admitió que el equipo “no tomó las decisiones acertadas” en el Gran Premio de Malasia de la Fórmula 1.\n\nFlavio Briatore se mostró decepcionado tras el GP de Azerbaiyán + Seguinos en Flavio Briatore se hizo cargo del error de Alpine en el Gran Premio de Malasia de la Fórmula 1 . El asesor ejecutivo reconoció que la escudería no estuvo a la altura tras la decisión de salir con neumáticos slick con la pista de Sepang todavía húmeda, una apuesta que le costó la carrera y terreno en la pelea por el quinto puesto en el Campeonato de Constructores, y desató el enojo del argentino Franco Colapinto.\n\nBriatore expresó: “ No ha sido el resultado que esperábamos hoy, teniendo en cuenta nuestra posición de salida, especialmente considerando que nuestros rivales han sumado puntos y la diferencia actual en el campeonato . Habíamos rendido bien durante todo el fin de semana hasta ese momento; sin embargo, a la vista de lo ocurrido en la carrera, no tomamos las decisiones acertadas ni estuvimos a la altura como equipo\" .\n\nY agregó: \"Nosotros, al igual que otras escuderías, probamos una estrategia distinta con los neumáticos y, posteriormente, hicimos todo lo posible por remontar, pero no dio resultado. No obstante, el ritmo en seco parecía prometedor y aún quedan muchas carreras para luchar por la quinta plaza del campeonato”.\n\nColapinto largó desde el puesto 21, terminó 13° y pasó buena parte de la carrera sin grip sobre el asfalto mojado. Pierre Gasly corrió con el mismo problema. Mientras tanto, Racing Bulls sumó siete puntos y amplió la diferencia en el campeonato.",
+          "language": "es",
+          "publishedAt": "2026-10-04T21:25:18.000Z",
+          "addedAt": "2026-10-04T22:11:31.068Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     }
