@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-11T07:11:29.786Z",
-  "checkedAt": "2026-10-11T07:11:29.786Z",
+  "updatedAt": "2026-10-11T08:11:30.602Z",
+  "checkedAt": "2026-10-11T08:11:30.602Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-tc2000-traut-con-su-primera-pole-en-el-cierre-de-la-clasificacion-pampeana",
-      "title": "TC2000: Traut, con su primera \"pole\" en el cierre de la clasificación pampeana",
-      "summary": "El piloto de Las Flores se adueñó del '1' en el segundo corte clasificatorio con el Chevrolet Cruze. Lo siguieron Lucas Carabajal y Francisco Monarca.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc2000-traut-con-su-primera-pole-en-el-cierre-de-la-clasificacion-pampeana/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NICOLAS-TRAUT-POLE-POSITION-TC2000-e1791661324181.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-10T19:46:23.000Z",
-      "addedAt": "2026-10-10T20:11:32.474Z",
-      "category": "general",
-      "tag": "F1"
-    },
     {
       "id": "campeones-com-ar-tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud",
       "title": "TC: Ignacio Fain, la avanzada ganadora de la juventud",
@@ -143,6 +128,21 @@
       "addedAt": "2026-10-09T23:11:32.571Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-tc2000-traut-con-su-primera-pole-en-el-cierre-de-la-clasificacion-pampeana",
+      "title": "TC2000: Traut, con su primera \"pole\" en el cierre de la clasificación pampeana",
+      "summary": "El piloto de Las Flores se adueñó del '1' en el segundo corte clasificatorio con el Chevrolet Cruze. Lo siguieron Lucas Carabajal y Francisco Monarca.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc2000-traut-con-su-primera-pole-en-el-cierre-de-la-clasificacion-pampeana/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NICOLAS-TRAUT-POLE-POSITION-TC2000-e1791661324181.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-10T19:46:23.000Z",
+      "addedAt": "2026-10-10T20:11:32.474Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tc-a-50-anos-del-record-historico-del-7-de-oro-de-roberto-mouras",
@@ -943,7 +943,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-11T07:11:32.750Z",
+      "createdAt": "2026-10-11T08:11:34.975Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1219,7 +1219,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-11T07:11:32.750Z",
+      "createdAt": "2026-10-11T08:11:34.975Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-i",
@@ -1495,7 +1495,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-11T07:11:32.750Z",
+      "createdAt": "2026-10-11T08:11:34.975Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-fallo-en-la-f1-en-singapur-los-errores-humanos-que-la-fia-tuvo-que-admitir-id765387-",
@@ -1541,21 +1541,6 @@
           "addedAt": "2026-10-07T17:11:31.241Z",
           "category": "general",
           "tag": "Carrera"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
-          "title": "Por qué se retrasó la largada del GP de Malasia de la Fórmula 1",
-          "summary": "Una fuerte tormenta azotó el Circuito de Sepang y obligó a la Dirección de Carrera a postergar la salida. La intensa lluvia dejó el asfalto en condiciones impracticables y generó además una fuerte actividad eléctrica en la zona.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992782/gp-de-malasia_1440x810.webp",
-          "body": "Una fuerte tormenta azotó el Circuito de Sepang y obligó a la Dirección de Carrera a postergar la salida. La intensa lluvia dejó el asfalto en condiciones impracticables y generó además una fuerte actividad eléctrica en la zona.\n\nLa lluvia, protagonista en la previa del Gran Premio (@f1). + Seguinos en A menos de una hora de volver a ver a Franco Colapinto en la pista a bordo de su Alpine, una incesante lluvia cayó sobre el Circuito de Sepang y obligó a la Dirección de Carrera de la FIA a postergar la largada del Gran Premio de Malasia de la Fórmula 1 hasta que el asfalto fuera seguro para los pilotos.\n\nEl clima había sido una amenaza durante toda la semana, aunque viernes y sábado se desarrollaron con el trazado seco. Todo indicaba que la jornada principal seguiría el mismo camino, pero el panorama cambió poco más de 40 minutos antes de la salida.\n\nLa precipitación comenzó en la zona de las curvas 6 y 7 y rápidamente se extendió por toda la pista. Lo que parecía ser un chaparrón breve terminó convirtiéndose en un aguacero de gran intensidad, justo cuando los equipos se preparaban para llevar los autos a la grilla.\n\nCon los pilotos y el personal ya ubicados en la recta principal para el protocolo previo, la tormenta se intensificó y estuvo acompañada por rayos . El coche médico salió a comprobar el estado del circuito, aunque las condiciones de la pista no permitían iniciar la competencia con seguridad.",
-          "language": "es",
-          "publishedAt": "2026-10-04T07:42:57.000Z",
-          "addedAt": "2026-10-04T08:11:31.664Z",
-          "category": "general",
-          "tag": "Clima"
         },
         {
           "id": "www-tycsports-com-automovilismo-carlos-sainz-exploto-contra-fia-insolito-error-gp-de-singapur-id765352-html",
@@ -1708,6 +1693,21 @@
           "tag": "Carrera"
         },
         {
+          "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
+          "title": "Por qué se retrasó la largada del GP de Malasia de la Fórmula 1",
+          "summary": "Una fuerte tormenta azotó el Circuito de Sepang y obligó a la Dirección de Carrera a postergar la salida. La intensa lluvia dejó el asfalto en condiciones impracticables y generó además una fuerte actividad eléctrica en la zona.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992782/gp-de-malasia_1440x810.webp",
+          "body": "Una fuerte tormenta azotó el Circuito de Sepang y obligó a la Dirección de Carrera a postergar la salida. La intensa lluvia dejó el asfalto en condiciones impracticables y generó además una fuerte actividad eléctrica en la zona.\n\nLa lluvia, protagonista en la previa del Gran Premio (@f1). + Seguinos en A menos de una hora de volver a ver a Franco Colapinto en la pista a bordo de su Alpine, una incesante lluvia cayó sobre el Circuito de Sepang y obligó a la Dirección de Carrera de la FIA a postergar la largada del Gran Premio de Malasia de la Fórmula 1 hasta que el asfalto fuera seguro para los pilotos.\n\nEl clima había sido una amenaza durante toda la semana, aunque viernes y sábado se desarrollaron con el trazado seco. Todo indicaba que la jornada principal seguiría el mismo camino, pero el panorama cambió poco más de 40 minutos antes de la salida.\n\nLa precipitación comenzó en la zona de las curvas 6 y 7 y rápidamente se extendió por toda la pista. Lo que parecía ser un chaparrón breve terminó convirtiéndose en un aguacero de gran intensidad, justo cuando los equipos se preparaban para llevar los autos a la grilla.\n\nCon los pilotos y el personal ya ubicados en la recta principal para el protocolo previo, la tormenta se intensificó y estuvo acompañada por rayos . El coche médico salió a comprobar el estado del circuito, aunque las condiciones de la pista no permitían iniciar la competencia con seguridad.",
+          "language": "es",
+          "publishedAt": "2026-10-04T07:42:57.000Z",
+          "addedAt": "2026-10-04T08:11:31.664Z",
+          "category": "general",
+          "tag": "Clima"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
           "summary": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.",
@@ -1771,7 +1771,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-11T07:11:32.750Z",
+      "createdAt": "2026-10-11T08:11:34.975Z",
       "items": [
         {
           "id": "campeones-com-ar-facundo-aldrighetti-ante-la-nueva-experiencia-de-tc2000-en-toay",
@@ -2047,7 +2047,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-11T07:11:32.750Z",
+      "createdAt": "2026-10-11T08:11:34.975Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-canapino-colapinto-advertencia-odio-redes-sociales-id764567-html",
