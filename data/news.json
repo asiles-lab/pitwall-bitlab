@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T23:11:29.741Z",
-  "checkedAt": "2026-10-10T23:11:29.741Z",
+  "updatedAt": "2026-10-11T00:11:27.705Z",
+  "checkedAt": "2026-10-11T00:11:27.705Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
+      "title": "Girolami y Hyundai siguen imbatibles en Posadas",
+      "summary": "El cordobés debió pelearla al principio, pero se impuso en la primera carrera del TCR South America. Leonel Pernía y Raphael Reis completaron el podio.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/girolami-y-hyundai-siguen-imbatibles-en-posadas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-04T14:30:48.000Z",
+      "addedAt": "2026-10-11T00:11:37.620Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-tc2000-traut-con-su-primera-pole-en-el-cierre-de-la-clasificacion-pampeana",
       "title": "TC2000: Traut, con su primera \"pole\" en el cierre de la clasificación pampeana",
@@ -943,7 +958,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-10T23:11:39.849Z",
+      "createdAt": "2026-10-11T00:11:39.046Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -991,17 +1006,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id76",
-          "title": "El pedido de Alpine a Colapinto tras una complicada clasificación en Singapur: \"Mantené...\"",
-          "summary": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id765589.html",
-          "image": "https://media.tycsports.com/files/2026/10/10/994806/colapinto_862x485.webp?v=1",
-          "body": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.\n\nLa foto que eligió Alpine para manifestarle su apoyo a Colapinto. + Seguinos en El fin de semana de Franco Colapinto en el Gran Premio de Singapur sumó otro capítulo difícil. Luego del abandono en la carrera Sprint por un problema en el sistema de almacenamiento de energía de su monoplaza, el piloto tampoco encontró las respuestas que buscaba en la clasificación y terminó en el 16° puesto, lejos de los lugares que pretendía ocupar. Sin embargo, rápidamente recibió la banca de su escudería de la Fórmula 1.\n\nEn ese contexto complicado, Alpine publicó un mensaje de apoyo dirigido al argentino . La escudería eligió una foto de Colapinto de espaldas, con la cabeza gacha, y acompañó la imagen con una frase que buscó levantarle el ánimo de cara a la carrera principal: “Mantené la cabeza en alto, @FranColapinto. Habrá muchas más oportunidades mañana”.\n\nEsa suerte de \"pedido\" y empujón anímico llegó después de una jornada en la que los problemas mecánicos y las dificultades para encontrar un buen balance condicionaron el rendimiento del piloto de 21 años en el GP de Singapur.\n\nEl doble toque de Colapinto con el muro en el GP de Singapur La frustración quedó reflejada en sus propias palabras una vez finalizada la sesión . “De los peores balances que tuve en mucho tiempo” , reconoció Colapinto, disconforme con el comportamiento del auto en un circuito tan exigente como el de Marina Bay.",
+          "id": "campeones-com-ar-gran-premio-de-singapur-por-cambios-en-la-grilla-colapinto-largara-desde-el-15-puesto",
+          "title": "Gran Premio de Singapur: por cambios en la grilla, Colapinto largará desde el 15.° puesto",
+          "summary": "La penalización que debe cumplir George Russell por cambios en la Unidad de Potencia de su Mercedes, benefició al argentino quien espera contar con mejor rendimiento del Alpine.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/gran-premio-de-singapur-por-cambios-en-la-grilla-colapinto-largara-desde-el-15-puesto/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-F1-Singapur-Colapinto-Grilla.jpg",
+          "body": "",
           "language": "es",
-          "publishedAt": "2026-10-10T20:18:27.000Z",
-          "addedAt": "2026-10-10T21:11:30.468Z",
+          "publishedAt": "2026-10-10T23:58:07.000Z",
+          "addedAt": "2026-10-11T00:11:32.946Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1032,6 +1047,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T15:22:18.000Z",
           "addedAt": "2026-10-10T16:11:31.653Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id76",
+          "title": "El pedido de Alpine a Colapinto tras una complicada clasificación en Singapur: \"Mantené...\"",
+          "summary": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id765589.html",
+          "image": "https://media.tycsports.com/files/2026/10/10/994806/colapinto_862x485.webp?v=1",
+          "body": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.\n\nLa foto que eligió Alpine para manifestarle su apoyo a Colapinto. + Seguinos en El fin de semana de Franco Colapinto en el Gran Premio de Singapur sumó otro capítulo difícil. Luego del abandono en la carrera Sprint por un problema en el sistema de almacenamiento de energía de su monoplaza, el piloto tampoco encontró las respuestas que buscaba en la clasificación y terminó en el 16° puesto, lejos de los lugares que pretendía ocupar. Sin embargo, rápidamente recibió la banca de su escudería de la Fórmula 1.\n\nEn ese contexto complicado, Alpine publicó un mensaje de apoyo dirigido al argentino . La escudería eligió una foto de Colapinto de espaldas, con la cabeza gacha, y acompañó la imagen con una frase que buscó levantarle el ánimo de cara a la carrera principal: “Mantené la cabeza en alto, @FranColapinto. Habrá muchas más oportunidades mañana”.\n\nEsa suerte de \"pedido\" y empujón anímico llegó después de una jornada en la que los problemas mecánicos y las dificultades para encontrar un buen balance condicionaron el rendimiento del piloto de 21 años en el GP de Singapur.\n\nEl doble toque de Colapinto con el muro en el GP de Singapur La frustración quedó reflejada en sus propias palabras una vez finalizada la sesión . “De los peores balances que tuve en mucho tiempo” , reconoció Colapinto, disconforme con el comportamiento del auto en un circuito tan exigente como el de Marina Bay.",
+          "language": "es",
+          "publishedAt": "2026-10-10T20:18:27.000Z",
+          "addedAt": "2026-10-10T21:11:30.468Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1199,7 +1229,13 @@
           "addedAt": "2026-10-03T10:16:38.999Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-11T00:11:39.046Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-i",
           "title": "Franco Colapinto recibió otra penalización en el GP de Malasia de la F1: \"Largaré...\"",
@@ -1214,13 +1250,7 @@
           "addedAt": "2026-10-02T16:23:12.821Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-10T23:11:39.849Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-la-sprint-de-colapinto-en-el-gp-de-singa",
           "title": "F1: Verstappen hizo pole y Colapinto largará 11° en el GP de Singapur",
@@ -1248,21 +1278,6 @@
           "language": "es",
           "publishedAt": "2026-10-09T00:51:54.000Z",
           "addedAt": "2026-10-09T01:11:34.322Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint",
-          "title": "En Marina Bay y desde el 11.° puesto, Colapinto buscará sumar con el Alpine en la carrera Sprint",
-          "summary": "A partir de la hora 6:00 de Argentina, el piloto pilarense pretende escalar posiciones en la competencia sabatina del GP de Singapur.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Alpine-Singapur.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T23:57:48.000Z",
-          "addedAt": "2026-10-10T00:11:30.816Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1447,21 +1462,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-colapinto-y-la-incognita-sobre-el-inconveniente-que-lo-hizo-abandonar-en-marina-bay",
-          "title": "Colapinto y la incógnita sobre el inconveniente que lo hizo abandonar en Marina Bay",
-          "summary": "A contrarreloj, el equipo de Enstone debe enfocarse en encontrar el origen del problema técnico en el Alpine 526 del argentino y alistarlo para la clasificación de la hora 10:00 de nuestro país.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-y-la-incognita-sobre-el-inconveniente-que-lo-hizo-abandonar-en-marina-bay/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-F1-Colapinto-Singapur-rain.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-10T11:35:37.000Z",
-          "addedAt": "2026-10-10T12:11:35.528Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
           "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
           "summary": "Cobertura especial del GP de Singapur de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
@@ -1490,12 +1490,27 @@
           "addedAt": "2026-10-07T22:11:34.431Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
+          "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
+          "summary": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-palpito-gp-singapur-formula-1-id764619.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
+          "body": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.\n\nFranco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Luego de escalar ocho posiciones y finalizar 13° en Malasia, Franco Colapinto, piloto argentino de Alpine, palpitó el GP de Singapur de la Fórmula 1, que se correrá el fin de semana próximo en el circuito callejero Marina Bay, uno de los escenarios más desafiantes para los pilotos desde el punto de vista físico.\n\n\"Después de nuestra carrera en Malasia, estamos haciendo el corto viaje a Singapur para uno de los fines de semana más extremos de la temporada. El calor y la humedad fueron todo un desafío en Sepang y no serán diferente este fin de semana, solo que con la naturaleza añadida de que es un circuito urbano\" , sostuvo el argentino\n\nSiguiendo esa línea, su compañero de equipo, Pierre Gasly agregó: \"Ya estamos bastante acostumbrados a las condiciones, dado que competimos en Malasia el fin de semana pasado, donde hizo calor, humedad y, por supuesto, llovió mucho el día de la carrera\".\n\nSobre la pista, Colapinto destacó: “La pista es implacable y muy divertida de conducir. La mezcla de curvas técnicas, superficie llena de baches y paredes cerradas, además de estar bajo las luces, lo convierte en uno de mis favoritos del año”.",
+          "language": "es",
+          "publishedAt": "2026-10-06T20:52:30.000Z",
+          "addedAt": "2026-10-07T01:11:30.601Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-10T23:11:39.849Z",
+      "createdAt": "2026-10-11T00:11:39.046Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-fallo-en-la-f1-en-singapur-los-errores-humanos-que-la-fia-tuvo-que-admitir-id765387-",
@@ -1771,7 +1786,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-10T23:11:39.849Z",
+      "createdAt": "2026-10-11T00:11:39.046Z",
       "items": [
         {
           "id": "campeones-com-ar-si-fuera-mazzacane-haria-el-coronacion-de-tc-en-balcarce",
@@ -1864,21 +1879,6 @@
           "tag": "Clima"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
-          "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
-          "summary": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-palpito-gp-singapur-formula-1-id764619.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
-          "body": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.\n\nFranco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Luego de escalar ocho posiciones y finalizar 13° en Malasia, Franco Colapinto, piloto argentino de Alpine, palpitó el GP de Singapur de la Fórmula 1, que se correrá el fin de semana próximo en el circuito callejero Marina Bay, uno de los escenarios más desafiantes para los pilotos desde el punto de vista físico.\n\n\"Después de nuestra carrera en Malasia, estamos haciendo el corto viaje a Singapur para uno de los fines de semana más extremos de la temporada. El calor y la humedad fueron todo un desafío en Sepang y no serán diferente este fin de semana, solo que con la naturaleza añadida de que es un circuito urbano\" , sostuvo el argentino\n\nSiguiendo esa línea, su compañero de equipo, Pierre Gasly agregó: \"Ya estamos bastante acostumbrados a las condiciones, dado que competimos en Malasia el fin de semana pasado, donde hizo calor, humedad y, por supuesto, llovió mucho el día de la carrera\".\n\nSobre la pista, Colapinto destacó: “La pista es implacable y muy divertida de conducir. La mezcla de curvas técnicas, superficie llena de baches y paredes cerradas, además de estar bajo las luces, lo convierte en uno de mis favoritos del año”.",
-          "language": "es",
-          "publishedAt": "2026-10-06T20:52:30.000Z",
-          "addedAt": "2026-10-07T01:11:30.601Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-",
           "title": "La cruda autocrítica de Briatore tras el enojo de Colapinto con Alpine",
           "summary": "El asesor ejecutivo admitió que el equipo “no tomó las decisiones acertadas” en el Gran Premio de Malasia de la Fórmula 1.",
@@ -1907,6 +1907,21 @@
           "addedAt": "2026-10-09T17:11:32.303Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint",
+          "title": "En Marina Bay y desde el 11.° puesto, Colapinto buscará sumar con el Alpine en la carrera Sprint",
+          "summary": "A partir de la hora 6:00 de Argentina, el piloto pilarense pretende escalar posiciones en la competencia sabatina del GP de Singapur.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Alpine-Singapur.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T23:57:48.000Z",
+          "addedAt": "2026-10-10T00:11:30.816Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-a-pesar-de-algunos-inconvenientes-en-singapur-colapinto-confia-no-estamos-lejos",
@@ -1969,6 +1984,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-colapinto-y-la-incognita-sobre-el-inconveniente-que-lo-hizo-abandonar-en-marina-bay",
+          "title": "Colapinto y la incógnita sobre el inconveniente que lo hizo abandonar en Marina Bay",
+          "summary": "A contrarreloj, el equipo de Enstone debe enfocarse en encontrar el origen del problema técnico en el Alpine 526 del argentino y alistarlo para la clasificación de la hora 10:00 de nuestro país.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-y-la-incognita-sobre-el-inconveniente-que-lo-hizo-abandonar-en-marina-bay/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-F1-Colapinto-Singapur-rain.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-10T11:35:37.000Z",
+          "addedAt": "2026-10-10T12:11:35.528Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-alpine-explico-por-que-decidio-tocar-el-motor-y-que-colapinto-sea-sancionado-id764083-ht",
           "title": "Alpine explicó por qué decidió \"tocar\" el motor y que Colapinto sea sancionado",
           "summary": "El director general de la escudería, Steve Nielsen, detalló la estrategia del equipo para el Gran Premio de Malasia y contó lo que los llevó a realizar cambios pese a que serían sancionados.",
@@ -2027,7 +2057,13 @@
           "addedAt": "2026-10-06T15:11:32.799Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-11T00:11:39.046Z",
+      "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
@@ -2042,13 +2078,7 @@
           "addedAt": "2026-10-03T18:11:30.466Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-10T23:11:39.849Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y largará último en el Gran Premio de Bahrein",
@@ -2063,21 +2093,6 @@
           "addedAt": "2026-10-03T09:12:02.953Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-en-viterbo-los-argentinos-completaron-un-extenuante-segundo-dia",
-          "title": "En Viterbo, los argentinos completaron un extenuante segundo día | Campeones",
-          "summary": "Se disputaron los Heat para decidir los clasificados a las Prefinales, que se desarrollaran mañana en las tres divisionales.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/en-viterbo-los-argentinos-completaron-un-extenuante-segundo-dia/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9895.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-10T21:00:00.000Z",
-          "addedAt": "2026-10-10T17:11:31.860Z",
-          "category": "argentino",
-          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-corrio-con-schumacher-en-la-f1-y-ahora-vende-repuestos-para-colectivos-id764549-html",
@@ -2183,6 +2198,21 @@
           "addedAt": "2026-10-04T13:11:30.995Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-en-viterbo-los-argentinos-completaron-un-extenuante-segundo-dia",
+          "title": "En Viterbo, los argentinos completaron un extenuante segundo día | Campeones",
+          "summary": "Se disputaron los Heat para decidir los clasificados a las Prefinales, que se desarrollaran mañana en las tres divisionales.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/en-viterbo-los-argentinos-completaron-un-extenuante-segundo-dia/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9895.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-10T21:00:00.000Z",
+          "addedAt": "2026-10-10T17:11:31.860Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-ademas-de-franco-colapinto-sancionaron-a-otro-piloto-de-cara-al-gp-de-malasia-id763792-h",
@@ -2301,21 +2331,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T23:00:39.000Z",
           "addedAt": "2026-10-03T23:11:31.151Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-franco-colapinto-en-sepang-estamos-enfocados-en-la-carrera",
-          "title": "Franco Colapinto en Sepang: «Estamos enfocados en la carrera»",
-          "summary": "El piloto argentino repasó su labor con el Alpine en las dos prácticas que realizó en su primera visita a la pista de Sepang, y su objetivo para remontar posiciones el domingo en el GP de Bahrein.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/franco-colapinto-en-sepang-estamos-enfocados-en-la-carrera/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261002-F1-Colapinto-paddock.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-02T20:15:49.000Z",
-          "addedAt": "2026-10-02T17:57:42.281Z",
           "category": "argentino",
           "tag": "Franco"
         }
