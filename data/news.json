@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-11T03:11:29.779Z",
-  "checkedAt": "2026-10-11T03:11:29.779Z",
+  "updatedAt": "2026-10-11T04:11:30.607Z",
+  "checkedAt": "2026-10-11T04:11:30.607Z",
   "pageSize": 18,
   "sources": [
     {
@@ -66,21 +66,6 @@
       "language": "es",
       "publishedAt": "2026-10-10T18:01:45.000Z",
       "addedAt": "2026-10-10T18:11:28.570Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc2000-lucas-carabajal-marco-el-ritmo-antes-de-clasificar",
-      "title": "TC2000: Lucas Carabajal marca el ritmo antes de clasificar | Campeones",
-      "summary": "El chaqueño, último ganador, se quedó con el segundo entrenamiento y el mejor tiempo del día con la VW Nivus, aventajando en más de medio segundo a Valentín Yankelevich (Toyota).",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc2000-lucas-carabajal-marco-el-ritmo-antes-de-clasificar/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/PHOTO-2026-10-10-12-30-15.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-10T15:34:38.000Z",
-      "addedAt": "2026-10-10T16:11:31.325Z",
       "category": "general",
       "tag": "F1"
     },
@@ -173,6 +158,21 @@
       "addedAt": "2026-10-09T23:11:32.571Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-tc2000-lucas-carabajal-marco-el-ritmo-antes-de-clasificar",
+      "title": "TC2000: Lucas Carabajal marca el ritmo antes de clasificar | Campeones",
+      "summary": "El chaqueño, último ganador, se quedó con el segundo entrenamiento y el mejor tiempo del día con la VW Nivus, aventajando en más de medio segundo a Valentín Yankelevich (Toyota).",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc2000-lucas-carabajal-marco-el-ritmo-antes-de-clasificar/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/PHOTO-2026-10-10-12-30-15.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-10T15:34:38.000Z",
+      "addedAt": "2026-10-10T16:11:31.325Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-emiliano-stang-comenzo-arriba-en-la-primera-practica-de-tc2000",
@@ -943,7 +943,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-11T03:11:33.455Z",
+      "createdAt": "2026-10-11T04:11:34.347Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -991,6 +991,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id76",
+          "title": "El pedido de Alpine a Colapinto tras una complicada clasificación en Singapur: \"Mantené...\"",
+          "summary": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id765589.html",
+          "image": "https://media.tycsports.com/files/2026/10/10/994806/colapinto_862x485.webp?v=1",
+          "body": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.\n\nLa foto que eligió Alpine para manifestarle su apoyo a Colapinto. + Seguinos en El fin de semana de Franco Colapinto en el Gran Premio de Singapur sumó otro capítulo difícil. Luego del abandono en la carrera Sprint por un problema en el sistema de almacenamiento de energía de su monoplaza, el piloto tampoco encontró las respuestas que buscaba en la clasificación y terminó en el 16° puesto, lejos de los lugares que pretendía ocupar. Sin embargo, rápidamente recibió la banca de su escudería de la Fórmula 1.\n\nEn ese contexto complicado, Alpine publicó un mensaje de apoyo dirigido al argentino . La escudería eligió una foto de Colapinto de espaldas, con la cabeza gacha, y acompañó la imagen con una frase que buscó levantarle el ánimo de cara a la carrera principal: “Mantené la cabeza en alto, @FranColapinto. Habrá muchas más oportunidades mañana”.\n\nEsa suerte de \"pedido\" y empujón anímico llegó después de una jornada en la que los problemas mecánicos y las dificultades para encontrar un buen balance condicionaron el rendimiento del piloto de 21 años en el GP de Singapur.\n\nEl doble toque de Colapinto con el muro en el GP de Singapur La frustración quedó reflejada en sus propias palabras una vez finalizada la sesión . “De los peores balances que tuve en mucho tiempo” , reconoció Colapinto, disconforme con el comportamiento del auto en un circuito tan exigente como el de Marina Bay.",
+          "language": "es",
+          "publishedAt": "2026-10-10T20:18:27.000Z",
+          "addedAt": "2026-10-10T21:11:30.468Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-singapur-id764676-",
           "title": "F1: Colapinto largará 15° y Verstappen será el poleman en el GP de Singapur",
           "summary": "El piloto argentino no logró meterse entre los 10 mejores de la clasificación y ya conoce su posición para la carrera de este domingo.",
@@ -1017,21 +1032,6 @@
           "language": "es",
           "publishedAt": "2026-10-10T15:22:18.000Z",
           "addedAt": "2026-10-10T16:11:31.653Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id76",
-          "title": "El pedido de Alpine a Colapinto tras una complicada clasificación en Singapur: \"Mantené...\"",
-          "summary": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id765589.html",
-          "image": "https://media.tycsports.com/files/2026/10/10/994806/colapinto_862x485.webp?v=1",
-          "body": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.\n\nLa foto que eligió Alpine para manifestarle su apoyo a Colapinto. + Seguinos en El fin de semana de Franco Colapinto en el Gran Premio de Singapur sumó otro capítulo difícil. Luego del abandono en la carrera Sprint por un problema en el sistema de almacenamiento de energía de su monoplaza, el piloto tampoco encontró las respuestas que buscaba en la clasificación y terminó en el 16° puesto, lejos de los lugares que pretendía ocupar. Sin embargo, rápidamente recibió la banca de su escudería de la Fórmula 1.\n\nEn ese contexto complicado, Alpine publicó un mensaje de apoyo dirigido al argentino . La escudería eligió una foto de Colapinto de espaldas, con la cabeza gacha, y acompañó la imagen con una frase que buscó levantarle el ánimo de cara a la carrera principal: “Mantené la cabeza en alto, @FranColapinto. Habrá muchas más oportunidades mañana”.\n\nEsa suerte de \"pedido\" y empujón anímico llegó después de una jornada en la que los problemas mecánicos y las dificultades para encontrar un buen balance condicionaron el rendimiento del piloto de 21 años en el GP de Singapur.\n\nEl doble toque de Colapinto con el muro en el GP de Singapur La frustración quedó reflejada en sus propias palabras una vez finalizada la sesión . “De los peores balances que tuve en mucho tiempo” , reconoció Colapinto, disconforme con el comportamiento del auto en un circuito tan exigente como el de Marina Bay.",
-          "language": "es",
-          "publishedAt": "2026-10-10T20:18:27.000Z",
-          "addedAt": "2026-10-10T21:11:30.468Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1186,21 +1186,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-singapur-id764617-html",
-          "title": "F1: horarios y cronograma completo del GP de Singapur",
-          "summary": "La Fórmula 1 tiene su decimoséptima fecha de la temporada 2026 este fin de semana en el Circuito Urbano Marina Bay con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-y-el-cronograma-completo-del-gp-de-singapur-id764617.html",
-          "image": "https://media.tycsports.com/files/2026/09/28/991324/gp-de-malasia_862x485.webp?v=1",
-          "body": "La Fórmula 1 tiene su decimoséptima fecha de la temporada 2026 este fin de semana en el Circuito Urbano Marina Bay con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nColapinto finalizó 19º en la práctica libre del GP de Singapur Verstappen hizo pole y Colapinto largará 11° en la Sprint del GP de Singapur Colapinto largará 15° y Verstappen será el poleman en el GP de Singapur Lluvia y caos en el Sprint: abandonó Colapinto, chocó Russell y ganó Verstappen 10/10/2026 12:27 pm GP de Malasia + Seguinos en La Fórmula 1 tiene su decimoséptima fecha de la temporada 2026 este fin de semana con el Gran Premio de Singapur , tras la victoria de Max Verstappen en Malasia. El piloto argentino Franco Colapinto está presente en el Circuito Urbano Marina Bay a bordo de su monoplaza de Alpine. Conocé el cronograma completo.\n\nDurante la única sesión de prácticas de la jornada, el más rápido fue George Russell (Mercedes) que registró un tiempo de 1:32.274, seguido por Charles Leclerc (Ferrari) y Lando Norris (McLaren). Colapinto, por su parte, finalizó 19º en un entrenamiento enfocado en la prueba de los neumáticos medios para evaluar el ritmo de carrera . Pierre Gasly, su compañero en Alpine, fue 9º.\n\nLa actividad del viernes continuó con la clasificación para la carrera sprint del sábado. La pole quedó en manos de Max Verstappen (Red Bull) , que completó la SQ3 con un tiempo de 1:31.156,. Colapinto no logró superar la SQ2 y comenzó en la 11ª posición , mientras que Gasly lo hizo desde el 10º lugar.\n\nEste sábado Max Verstappen ganó la carrera Sprint, en una competencia disputada bajo condiciones de pista mojada que tuvo varios abandonos, mientras que Franco Colapinto debió retirarse en la cuarta vuelta por un problema en su Alpine. El piloto de Red Bull ma",
-          "language": "es",
-          "publishedAt": "2026-10-10T15:27:18.000Z",
-          "addedAt": "2026-10-10T16:11:32.512Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-f1-colapinto-abandono-en-el-inicio-de-la-carrera-sprint-de-singapur",
           "title": "F1: Colapinto abandonó en el inicio de la carrera Sprint de Singapur y Verstappen ganó otra vez",
           "summary": "Tras una espera de media hora se desarrolló la competencia en el circuito callejero de Marina Bay, en donde el argentino solo pudo dar dos giros. En tanto, el neerlandés consiguió imponerse con el Red Bull.",
@@ -1214,13 +1199,7 @@
           "addedAt": "2026-10-10T10:11:31.380Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-11T03:11:33.455Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
           "title": "Por qué Colapinto larga 21° si clasificó 15° en el GP de Malasia de la F1",
@@ -1235,7 +1214,13 @@
           "addedAt": "2026-10-03T10:16:38.999Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-11T04:11:34.347Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-i",
           "title": "Franco Colapinto recibió otra penalización en el GP de Malasia de la F1: \"Largaré...\"",
@@ -1372,6 +1357,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-singapur-id764617-html",
+          "title": "F1: horarios y cronograma completo del GP de Singapur",
+          "summary": "La Fórmula 1 tiene su decimoséptima fecha de la temporada 2026 este fin de semana en el Circuito Urbano Marina Bay con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-y-el-cronograma-completo-del-gp-de-singapur-id764617.html",
+          "image": "https://media.tycsports.com/files/2026/09/28/991324/gp-de-malasia_862x485.webp?v=1",
+          "body": "La Fórmula 1 tiene su decimoséptima fecha de la temporada 2026 este fin de semana en el Circuito Urbano Marina Bay con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nColapinto finalizó 19º en la práctica libre del GP de Singapur Verstappen hizo pole y Colapinto largará 11° en la Sprint del GP de Singapur Colapinto largará 15° y Verstappen será el poleman en el GP de Singapur Lluvia y caos en el Sprint: abandonó Colapinto, chocó Russell y ganó Verstappen 10/10/2026 12:27 pm GP de Malasia + Seguinos en La Fórmula 1 tiene su decimoséptima fecha de la temporada 2026 este fin de semana con el Gran Premio de Singapur , tras la victoria de Max Verstappen en Malasia. El piloto argentino Franco Colapinto está presente en el Circuito Urbano Marina Bay a bordo de su monoplaza de Alpine. Conocé el cronograma completo.\n\nDurante la única sesión de prácticas de la jornada, el más rápido fue George Russell (Mercedes) que registró un tiempo de 1:32.274, seguido por Charles Leclerc (Ferrari) y Lando Norris (McLaren). Colapinto, por su parte, finalizó 19º en un entrenamiento enfocado en la prueba de los neumáticos medios para evaluar el ritmo de carrera . Pierre Gasly, su compañero en Alpine, fue 9º.\n\nLa actividad del viernes continuó con la clasificación para la carrera sprint del sábado. La pole quedó en manos de Max Verstappen (Red Bull) , que completó la SQ3 con un tiempo de 1:31.156,. Colapinto no logró superar la SQ2 y comenzó en la 11ª posición , mientras que Gasly lo hizo desde el 10º lugar.\n\nEste sábado Max Verstappen ganó la carrera Sprint, en una competencia disputada bajo condiciones de pista mojada que tuvo varios abandonos, mientras que Franco Colapinto debió retirarse en la cuarta vuelta por un problema en su Alpine. El piloto de Red Bull ma",
+          "language": "es",
+          "publishedAt": "2026-10-10T15:27:18.000Z",
+          "addedAt": "2026-10-10T16:11:32.512Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-la-pelea-de-colapinto-en-f1-que-puede-definir-su-futuro-en-2026-id764371-html",
           "title": "La pelea de Colapinto en F1 que puede definir su futuro en 2026",
           "summary": "Tras no sumar puntos en Malasia, el argentino se mantiene 12° en el Campeonato de Pilotos, pero tiene varios rivales, entre ellos Gasly, en su lucha por meterse en el top 10.",
@@ -1432,21 +1432,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-la-frustracion-de-colapinto-por-el-magro-rendimiento-del-alpine-en-singapur",
-          "title": "La frustración de Colapinto por el magro rendimiento del Alpine en Singapur",
-          "summary": "Al concluir la ronda clasificatoria, en donde fue 16.°, el argentino manifestó su disconformidad por la prestación del A526 en Marina Bay.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-frustracion-de-colapinto-por-el-magro-rendimiento-del-alpine-en-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-Colapinto-paddock-box-Singapur.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-10T15:50:19.000Z",
-          "addedAt": "2026-10-10T16:11:31.352Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
           "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
           "summary": "Cobertura especial del GP de Singapur de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
@@ -1490,12 +1475,27 @@
           "addedAt": "2026-10-07T01:11:30.601Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-",
+          "title": "La cruda autocrítica de Briatore tras el enojo de Colapinto con Alpine",
+          "summary": "El asesor ejecutivo admitió que el equipo “no tomó las decisiones acertadas” en el Gran Premio de Malasia de la Fórmula 1.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-altura-id764360.html",
+          "image": "https://media.tycsports.com/files/2026/09/26/990875/briatore_862x485.webp?v=2",
+          "body": "El asesor ejecutivo admitió que el equipo “no tomó las decisiones acertadas” en el Gran Premio de Malasia de la Fórmula 1.\n\nFlavio Briatore se mostró decepcionado tras el GP de Azerbaiyán + Seguinos en Flavio Briatore se hizo cargo del error de Alpine en el Gran Premio de Malasia de la Fórmula 1 . El asesor ejecutivo reconoció que la escudería no estuvo a la altura tras la decisión de salir con neumáticos slick con la pista de Sepang todavía húmeda, una apuesta que le costó la carrera y terreno en la pelea por el quinto puesto en el Campeonato de Constructores, y desató el enojo del argentino Franco Colapinto.\n\nBriatore expresó: “ No ha sido el resultado que esperábamos hoy, teniendo en cuenta nuestra posición de salida, especialmente considerando que nuestros rivales han sumado puntos y la diferencia actual en el campeonato . Habíamos rendido bien durante todo el fin de semana hasta ese momento; sin embargo, a la vista de lo ocurrido en la carrera, no tomamos las decisiones acertadas ni estuvimos a la altura como equipo\" .\n\nY agregó: \"Nosotros, al igual que otras escuderías, probamos una estrategia distinta con los neumáticos y, posteriormente, hicimos todo lo posible por remontar, pero no dio resultado. No obstante, el ritmo en seco parecía prometedor y aún quedan muchas carreras para luchar por la quinta plaza del campeonato”.\n\nColapinto largó desde el puesto 21, terminó 13° y pasó buena parte de la carrera sin grip sobre el asfalto mojado. Pierre Gasly corrió con el mismo problema. Mientras tanto, Racing Bulls sumó siete puntos y amplió la diferencia en el campeonato.",
+          "language": "es",
+          "publishedAt": "2026-10-04T21:25:18.000Z",
+          "addedAt": "2026-10-04T22:11:31.068Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-11T03:11:33.455Z",
+      "createdAt": "2026-10-11T04:11:34.347Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-fallo-en-la-f1-en-singapur-los-errores-humanos-que-la-fia-tuvo-que-admitir-id765387-",
@@ -1588,21 +1588,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-motogp-raul-fernandez-logro-su-primera-pole-en-indonesia",
-          "title": "MotoGP: Raúl Fernández logró su primera \"pole\" en Indonesia",
-          "summary": "Con la Aprilia de Trackhouse, el español encabezará la grilla de las carreras del fin de semana en el circuito de Mandalika. Marc Márquez y Jorge Martin clasificaron 4.° y 5.°, respectivamente.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/motogp-raul-fernandez-logro-su-primera-pole-en-indonesia/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-MotoGP-Raul-Fernandez.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-10T03:56:26.000Z",
-          "addedAt": "2026-10-10T04:11:32.918Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-bottas-llego-a-singapur-en-bicicleta-f1-id764731-html",
           "title": "Un piloto de F1 cumplió su reto viral y llegó al GP de Singapur en bicicleta",
           "summary": "Valtteri Bottas arribó este miércoles al circuito callejero de Marina Bay tras pedalear más de 400 kilómetros desde Malasia.",
@@ -1646,6 +1631,21 @@
           "addedAt": "2026-10-05T22:11:32.311Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-motogp-raul-fernandez-logro-su-primera-pole-en-indonesia",
+          "title": "MotoGP: Raúl Fernández logró su primera \"pole\" en Indonesia",
+          "summary": "Con la Aprilia de Trackhouse, el español encabezará la grilla de las carreras del fin de semana en el circuito de Mandalika. Marc Márquez y Jorge Martin clasificaron 4.° y 5.°, respectivamente.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/motogp-raul-fernandez-logro-su-primera-pole-en-indonesia/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-MotoGP-Raul-Fernandez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-10T03:56:26.000Z",
+          "addedAt": "2026-10-10T04:11:32.918Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal",
@@ -1771,7 +1771,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-11T03:11:33.455Z",
+      "createdAt": "2026-10-11T04:11:34.347Z",
       "items": [
         {
           "id": "campeones-com-ar-facundo-aldrighetti-ante-la-nueva-experiencia-de-tc2000-en-toay",
@@ -1864,21 +1864,6 @@
           "tag": "Clima"
         },
         {
-          "id": "www-tycsports-com-automovilismo-flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-",
-          "title": "La cruda autocrítica de Briatore tras el enojo de Colapinto con Alpine",
-          "summary": "El asesor ejecutivo admitió que el equipo “no tomó las decisiones acertadas” en el Gran Premio de Malasia de la Fórmula 1.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/flavio-briatore-fue-autocritico-tras-el-enojo-de-colapinto-con-alpine-no-estuvimos-a-la-altura-id764360.html",
-          "image": "https://media.tycsports.com/files/2026/09/26/990875/briatore_862x485.webp?v=2",
-          "body": "El asesor ejecutivo admitió que el equipo “no tomó las decisiones acertadas” en el Gran Premio de Malasia de la Fórmula 1.\n\nFlavio Briatore se mostró decepcionado tras el GP de Azerbaiyán + Seguinos en Flavio Briatore se hizo cargo del error de Alpine en el Gran Premio de Malasia de la Fórmula 1 . El asesor ejecutivo reconoció que la escudería no estuvo a la altura tras la decisión de salir con neumáticos slick con la pista de Sepang todavía húmeda, una apuesta que le costó la carrera y terreno en la pelea por el quinto puesto en el Campeonato de Constructores, y desató el enojo del argentino Franco Colapinto.\n\nBriatore expresó: “ No ha sido el resultado que esperábamos hoy, teniendo en cuenta nuestra posición de salida, especialmente considerando que nuestros rivales han sumado puntos y la diferencia actual en el campeonato . Habíamos rendido bien durante todo el fin de semana hasta ese momento; sin embargo, a la vista de lo ocurrido en la carrera, no tomamos las decisiones acertadas ni estuvimos a la altura como equipo\" .\n\nY agregó: \"Nosotros, al igual que otras escuderías, probamos una estrategia distinta con los neumáticos y, posteriormente, hicimos todo lo posible por remontar, pero no dio resultado. No obstante, el ritmo en seco parecía prometedor y aún quedan muchas carreras para luchar por la quinta plaza del campeonato”.\n\nColapinto largó desde el puesto 21, terminó 13° y pasó buena parte de la carrera sin grip sobre el asfalto mojado. Pierre Gasly corrió con el mismo problema. Mientras tanto, Racing Bulls sumó siete puntos y amplió la diferencia en el campeonato.",
-          "language": "es",
-          "publishedAt": "2026-10-04T21:25:18.000Z",
-          "addedAt": "2026-10-04T22:11:31.068Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255-html",
           "title": "Cómo quedó la grilla para el Sprint del Gran Premio de Singapur de la F1",
           "summary": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.",
@@ -1969,6 +1954,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-la-frustracion-de-colapinto-por-el-magro-rendimiento-del-alpine-en-singapur",
+          "title": "La frustración de Colapinto por el magro rendimiento del Alpine en Singapur",
+          "summary": "Al concluir la ronda clasificatoria, en donde fue 16.°, el argentino manifestó su disconformidad por la prestación del A526 en Marina Bay.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-frustracion-de-colapinto-por-el-magro-rendimiento-del-alpine-en-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-Colapinto-paddock-box-Singapur.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-10T15:50:19.000Z",
+          "addedAt": "2026-10-10T16:11:31.352Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-dificil-clasificacion-de-colapinto-en-el-gp-de-singapur-quedo-16",
           "title": "Difícil clasificación de Colapinto en el GP de Singapur: quedó 16.°",
           "summary": "Merma de potencia, junto a la inestabilidad del Alpine y un roce con el muro, afectaron el rendimiento del argentino en las calles de Marina Bay. La \"pole\" la consiguió Max Verstappen, quien celebró la 50.ª con Red Bull en su GP 250.",
@@ -2047,7 +2047,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-11T03:11:33.455Z",
+      "createdAt": "2026-10-11T04:11:34.347Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-canapino-colapinto-advertencia-odio-redes-sociales-id764567-html",
