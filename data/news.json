@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-12T12:11:26.895Z",
-  "checkedAt": "2026-10-12T12:11:26.895Z",
+  "updatedAt": "2026-10-12T13:11:26.970Z",
+  "checkedAt": "2026-10-12T13:11:26.970Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-tn-clase-3-canapino-aprovecho-las-peleas-ajenas-para-ganar-la-2a-bateria-en-san-martin",
+      "title": "TN Clase 3: Canapino aprovechó las peleas ajenas para ganar la 2ª batería en San Martín",
+      "summary": "El “Titán”, que largó 2º y llegó a estar 4º, superó en la última vuelta y en una misma maniobra a Barrio y Chapur, quienes protagonizaron una áspera lucha en la que perdieron los dos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tn-clase-3-canapino-aprovecho-las-peleas-ajenas-para-ganar-la-2a-bateria-en-san-martin/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TN-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-11T14:38:48.000Z",
+      "addedAt": "2026-10-12T13:11:35.861Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud",
       "title": "TC: Ignacio Fain, la avanzada ganadora de la juventud",
@@ -973,7 +988,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-12T12:11:35.000Z",
+      "createdAt": "2026-10-12T13:11:37.714Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1216,21 +1231,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-ma",
-          "title": "El contundente respaldo del manager de Colapinto y su agencia tras el GP de Baréin en Malasia",
-          "summary": "Bullet Sports Management destacó la actuación del piloto argentino tras una destacada recuperación y una estrategia de Alpine que condicionó su desempeño.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-malasia-id764413.html",
-          "image": "https://media.tycsports.com/files/2026/09/26/990872/franco-colapinto_1440x810.webp?v=1",
-          "body": "Bullet Sports Management destacó la actuación del piloto argentino tras una destacada recuperación y una estrategia de Alpine que condicionó su desempeño.\n\nFranco Colapinto terminó 13° en el Gran Premio de Baréin + Seguinos en Franco Colapinto terminó 13° en el Gran Premio de Baréin de Fórmula 1 , disputado en Malasia, después de remontar ocho posiciones desde el 21° lugar. El argentino no pudo sumar puntos, pero tuvo una destacada recuperación en una carrera marcada por las condiciones cambiantes de la pista y una estrategia de neumáticos de Alpine que condicionó su desempeño desde la largada.\n\nBullet Sports Management, la agencia que representa al piloto junto a Jamie Campbell-Walter y María Catarineu, destacó su actuación en redes sociales. “P13 en la bandera a cuadros no cuenta toda la historia del GP de Baréin de Franco” , publicó BSM. Campbell-Walter, por su parte, escribió: “Súper rápido este fin de semana. Hacia Singapur”.\n\nLa estrategia de Alpine fue uno de los principales problemas para Colapinto y Pierre Gasly, quienes largaron con neumáticos blandos para piso seco pese a que la pista todavía estaba mojada. “Nos quedamos todos sin agarre y patinando en la largada. Fue la decisión incorrecta” , explicó el argentino en diálogo con ESPN. “Después había que tomar muchos riesgos para ir rápido con la goma lisa y hubiésemos perdido la carrera” , agregó. En sus redes sociales, reconoció el error del equipo: “No fue el mejor día… No tomamos la decisión correcta como equipo, pero desde donde largábamos había que intentar algo” . Más allá del resultado, el piloto de Alpine rescató: “Lo más positivo fue el gran ritmo durante todo el finde en seco. Ya se viene Singapur, a volver a pelear arriba. ¡Vamos!”. En ese circuito, Colapinto ya compitió en 2024 con Williams y term",
-          "language": "es",
-          "publishedAt": "2026-10-05T12:55:21.000Z",
-          "addedAt": "2026-10-05T13:11:31.250Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-el-balance-de-franco-colapinto-tras-su-abandono-fueron-las-peores-tres-carreras-que-tuve-en-f1",
           "title": "El balance de Franco Colapinto tras su abandono: «Fueron las peores tres carreras que tuve en F1",
           "summary": "Cerrando un fin de semana complejo en Singapur, el piloto argentino se refirió a la magra cosecha de resultados con el Alpine en esta fecha, como también en Baku y Sepang.",
@@ -1240,17 +1240,11 @@
           "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261011-F1-Franco-Colapinto.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-11T15:14:14.000Z",
+          "publishedAt": "2026-10-11T19:14:14.000Z",
           "addedAt": "2026-10-11T16:11:30.723Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-12T12:11:35.000Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
           "title": "Por qué Colapinto larga 21° si clasificó 15° en el GP de Malasia de la F1",
@@ -1265,7 +1259,13 @@
           "addedAt": "2026-10-03T10:16:38.999Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-12T13:11:37.714Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-i",
           "title": "Franco Colapinto recibió otra penalización en el GP de Malasia de la F1: \"Largaré...\"",
@@ -1278,6 +1278,21 @@
           "language": "es",
           "publishedAt": "2026-10-02T15:11:24.000Z",
           "addedAt": "2026-10-02T16:23:12.821Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1",
+          "title": "El director deportivo de Alpine, autocrítico tras los últimos GP de Fórmula 1 | Campeones",
+          "summary": "Steve Nielsen fue categórico sobre la trilogía de carreras que incluyó Bakú, Malasia y Singapur, donde la cosecha de puntos para Franco Colapinto y Pierre Gasly fue muy nula.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/11/Nielsen.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-12T12:15:04.000Z",
+          "addedAt": "2026-10-12T13:11:27.729Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1323,21 +1338,6 @@
           "language": "es",
           "publishedAt": "2026-10-09T15:46:41.000Z",
           "addedAt": "2026-10-09T16:11:31.172Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur",
-          "title": "Otra falla en el Alpine le impidió terminar a Colapinto en Singapur",
-          "summary": "Antes de cumplirse la mitad de carrera, el argentino debió abandonar por un inconveniente técnico en el A526. Verstappen consiguió ganar en este trazado por primera vez.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261011-F1-Colapinto-Alpine-Singapur.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-11T13:07:54.000Z",
-          "addedAt": "2026-10-11T13:11:26.435Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1520,12 +1520,27 @@
           "addedAt": "2026-10-07T22:11:34.431Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
+          "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
+          "summary": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-palpito-gp-singapur-formula-1-id764619.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
+          "body": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.\n\nFranco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Luego de escalar ocho posiciones y finalizar 13° en Malasia, Franco Colapinto, piloto argentino de Alpine, palpitó el GP de Singapur de la Fórmula 1, que se correrá el fin de semana próximo en el circuito callejero Marina Bay, uno de los escenarios más desafiantes para los pilotos desde el punto de vista físico.\n\n\"Después de nuestra carrera en Malasia, estamos haciendo el corto viaje a Singapur para uno de los fines de semana más extremos de la temporada. El calor y la humedad fueron todo un desafío en Sepang y no serán diferente este fin de semana, solo que con la naturaleza añadida de que es un circuito urbano\" , sostuvo el argentino\n\nSiguiendo esa línea, su compañero de equipo, Pierre Gasly agregó: \"Ya estamos bastante acostumbrados a las condiciones, dado que competimos en Malasia el fin de semana pasado, donde hizo calor, humedad y, por supuesto, llovió mucho el día de la carrera\".\n\nSobre la pista, Colapinto destacó: “La pista es implacable y muy divertida de conducir. La mezcla de curvas técnicas, superficie llena de baches y paredes cerradas, además de estar bajo las luces, lo convierte en uno de mis favoritos del año”.",
+          "language": "es",
+          "publishedAt": "2026-10-06T20:52:30.000Z",
+          "addedAt": "2026-10-07T01:11:30.601Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-12T12:11:35.000Z",
+      "createdAt": "2026-10-12T13:11:37.714Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703-h",
@@ -1723,21 +1738,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal",
-          "title": "Vivian y su panorama en TC2000: \"Los milagros ocurrieron pero soy más terrenal\"",
-          "summary": "Haber estado fuera de carrera en las primeras fechas del año condicionó su abanico de posibilidades para pelear el campeonato.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Vivian-Chevrolet-TC2000.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T13:00:30.000Z",
-          "addedAt": "2026-10-09T16:11:31.196Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "campeones-com-ar-motogp-introduce-un-formato-al-estilo-formula-1-a-partir-de-2027",
           "title": "MotoGP introduce un formato al estilo Fórmula 1 a partir de 2027",
           "summary": "Inspirado en fines de semana en que la F1 tiene carreras Sprint, el mundial de motociclismo tendrá dos clasificaciones para la clase mayor.",
@@ -1751,6 +1751,21 @@
           "addedAt": "2026-10-07T14:11:30.578Z",
           "category": "general",
           "tag": "Clasificacion"
+        },
+        {
+          "id": "campeones-com-ar-vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal",
+          "title": "Vivian y su panorama en TC2000: \"Los milagros ocurrieron pero soy más terrenal\"",
+          "summary": "Haber estado fuera de carrera en las primeras fechas del año condicionó su abanico de posibilidades para pelear el campeonato.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Vivian-Chevrolet-TC2000.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T13:00:30.000Z",
+          "addedAt": "2026-10-09T16:11:31.196Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas",
@@ -1801,7 +1816,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-12T12:11:35.000Z",
+      "createdAt": "2026-10-12T13:11:37.714Z",
       "items": [
         {
           "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
@@ -1894,21 +1909,6 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
-          "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
-          "summary": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-palpito-gp-singapur-formula-1-id764619.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
-          "body": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.\n\nFranco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Luego de escalar ocho posiciones y finalizar 13° en Malasia, Franco Colapinto, piloto argentino de Alpine, palpitó el GP de Singapur de la Fórmula 1, que se correrá el fin de semana próximo en el circuito callejero Marina Bay, uno de los escenarios más desafiantes para los pilotos desde el punto de vista físico.\n\n\"Después de nuestra carrera en Malasia, estamos haciendo el corto viaje a Singapur para uno de los fines de semana más extremos de la temporada. El calor y la humedad fueron todo un desafío en Sepang y no serán diferente este fin de semana, solo que con la naturaleza añadida de que es un circuito urbano\" , sostuvo el argentino\n\nSiguiendo esa línea, su compañero de equipo, Pierre Gasly agregó: \"Ya estamos bastante acostumbrados a las condiciones, dado que competimos en Malasia el fin de semana pasado, donde hizo calor, humedad y, por supuesto, llovió mucho el día de la carrera\".\n\nSobre la pista, Colapinto destacó: “La pista es implacable y muy divertida de conducir. La mezcla de curvas técnicas, superficie llena de baches y paredes cerradas, además de estar bajo las luces, lo convierte en uno de mis favoritos del año”.",
-          "language": "es",
-          "publishedAt": "2026-10-06T20:52:30.000Z",
-          "addedAt": "2026-10-07T01:11:30.601Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255-html",
           "title": "Cómo quedó la grilla para el Sprint del Gran Premio de Singapur de la F1",
           "summary": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.",
@@ -1922,6 +1922,21 @@
           "addedAt": "2026-10-09T17:11:32.303Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur",
+          "title": "Otra falla en el Alpine le impidió terminar a Colapinto en Singapur",
+          "summary": "Antes de cumplirse la mitad de carrera, el argentino debió abandonar por un inconveniente técnico en el A526. Verstappen consiguió ganar en este trazado por primera vez.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261011-F1-Colapinto-Alpine-Singapur.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-11T13:07:54.000Z",
+          "addedAt": "2026-10-11T13:11:26.435Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint",
@@ -2029,6 +2044,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-ma",
+          "title": "El contundente respaldo del manager de Colapinto y su agencia tras el GP de Baréin en Malasia",
+          "summary": "Bullet Sports Management destacó la actuación del piloto argentino tras una destacada recuperación y una estrategia de Alpine que condicionó su desempeño.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-malasia-id764413.html",
+          "image": "https://media.tycsports.com/files/2026/09/26/990872/franco-colapinto_1440x810.webp?v=1",
+          "body": "Bullet Sports Management destacó la actuación del piloto argentino tras una destacada recuperación y una estrategia de Alpine que condicionó su desempeño.\n\nFranco Colapinto terminó 13° en el Gran Premio de Baréin + Seguinos en Franco Colapinto terminó 13° en el Gran Premio de Baréin de Fórmula 1 , disputado en Malasia, después de remontar ocho posiciones desde el 21° lugar. El argentino no pudo sumar puntos, pero tuvo una destacada recuperación en una carrera marcada por las condiciones cambiantes de la pista y una estrategia de neumáticos de Alpine que condicionó su desempeño desde la largada.\n\nBullet Sports Management, la agencia que representa al piloto junto a Jamie Campbell-Walter y María Catarineu, destacó su actuación en redes sociales. “P13 en la bandera a cuadros no cuenta toda la historia del GP de Baréin de Franco” , publicó BSM. Campbell-Walter, por su parte, escribió: “Súper rápido este fin de semana. Hacia Singapur”.\n\nLa estrategia de Alpine fue uno de los principales problemas para Colapinto y Pierre Gasly, quienes largaron con neumáticos blandos para piso seco pese a que la pista todavía estaba mojada. “Nos quedamos todos sin agarre y patinando en la largada. Fue la decisión incorrecta” , explicó el argentino en diálogo con ESPN. “Después había que tomar muchos riesgos para ir rápido con la goma lisa y hubiésemos perdido la carrera” , agregó. En sus redes sociales, reconoció el error del equipo: “No fue el mejor día… No tomamos la decisión correcta como equipo, pero desde donde largábamos había que intentar algo” . Más allá del resultado, el piloto de Alpine rescató: “Lo más positivo fue el gran ritmo durante todo el finde en seco. Ya se viene Singapur, a volver a pelear arriba. ¡Vamos!”. En ese circuito, Colapinto ya compitió en 2024 con Williams y term",
+          "language": "es",
+          "publishedAt": "2026-10-05T12:55:21.000Z",
+          "addedAt": "2026-10-05T13:11:31.250Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-la-furiosa-reaccion-de-colapinto-por-la-estrategia-de-alpine-en-el-gp-de-malasia-de-la-f",
           "title": "La furiosa reacción de Colapinto por la estrategia de Alpine en el GP de Bahréin en Malasia",
           "summary": "El piloto argentino dejó de lado su remontada del 21° al 13° puesto y no pudo ocultar su enojo por el plan de la escudería, que decidió que largara con gomas blandas sobre un Circuito de Sepang azotado por la lluvia.",
@@ -2057,7 +2087,13 @@
           "addedAt": "2026-10-03T10:16:39.500Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-12T13:11:37.714Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
           "title": "Después de la accidentada carrera, Colapinto estableció sus objetivos para Malasia",
@@ -2072,13 +2108,7 @@
           "addedAt": "2026-10-02T16:23:13.438Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-12T12:11:35.000Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-canapino-colapinto-advertencia-odio-redes-sociales-id764567-html",
           "title": "La advertencia de Canapino a Colapinto sobre el odio en redes sociales: \"Yo tuve muchos problemas y hoy...\"",
@@ -2331,21 +2361,6 @@
           "language": "es",
           "publishedAt": "2026-10-11T16:38:40.000Z",
           "addedAt": "2026-10-11T17:11:34.241Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
-          "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
-          "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Canapino-Santero-Podio-TN-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-12T12:01:47.000Z",
-          "addedAt": "2026-10-12T12:11:27.860Z",
           "category": "argentino",
           "tag": "Argentino"
         }
