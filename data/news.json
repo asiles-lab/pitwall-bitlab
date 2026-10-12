@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-12T16:11:28.972Z",
-  "checkedAt": "2026-10-12T16:11:28.972Z",
+  "updatedAt": "2026-10-12T17:11:29.065Z",
+  "checkedAt": "2026-10-12T17:11:29.065Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
+      "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
+      "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Canapino-Santero-Podio-TN-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-12T12:01:47.000Z",
+      "addedAt": "2026-10-12T17:11:31.351Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-antonelli-puede-coronarse-campeon-de-la-formula-1-en-austin",
       "title": "Antonelli puede coronarse campeón de la Fórmula 1 en Austin",
@@ -1003,8 +1018,23 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-12T16:11:43.525Z",
+      "createdAt": "2026-10-12T17:11:36.728Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
+          "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
+          "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-ranking-peor-f1-gp-singapur-id765831.html",
+          "image": "https://media.tycsports.com/files/2026/10/12/995348/franco_1440x810.webp?v=1",
+          "body": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.\n\nFranco Colapinto tuvo que abandonar en el GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto tuvo un fin de semana para el olvido en el Gran Premio de Singapur de Fórmula 1 . El piloto argentino sufrió dos abandonos, tanto en la Sprint como en la carrera principal, debido a problemas de fiabilidad en su Alpine y no pudo volver a sumar puntos. Ante este panorama, un medio inglés ubicó al #43 entre los peores de su ranking.\n\nSe trata de The Race , un medio especializado que confecciona un ranking luego de cada carrera en el que pondera la actuación de cada corredor. En Singapur, Colapinto ocupó el puesto 19, solo por delante de Alex Albon, Valtteri Bottas y Lance Stroll , quienes también sufrieron complicaciones con sus monoplazas.\n\n“El ritmo subyacente era mejor de lo que parecía, pero la clasificación no se optimizó al máximo” , fue el veredicto final del portal inglés respecto a la performance del #43.\n\n“En la clasificación al sprint, mantuvo un ritmo similar al de su compañero de equipo en Alpine, Gasly. Su eliminación en la segunda ronda de clasificación se debió exclusivamente al tiempo perdido por los frenos y a que los neumáticos no estaban a la temperatura adecuada para la primera curva. Llegó a ocupar brevemente el duodécimo puesto en la carrera al sprint antes de detenerse por un problema en la reserva de energía”, analizó The Race.",
+          "language": "es",
+          "publishedAt": "2026-10-12T17:02:38.000Z",
+          "addedAt": "2026-10-12T17:11:31.468Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
           "title": "La frustración de Colapinto por el \"peor balance en mucho tiempo\" y su toque a la pared en Singapur",
@@ -1259,7 +1289,13 @@
           "addedAt": "2026-10-02T16:23:12.821Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-12T17:11:36.728Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415-html",
           "title": "F1 | Colapinto en el GP de Singapur: horarios y el cronograma completo",
@@ -1274,13 +1310,7 @@
           "addedAt": "2026-10-08T10:11:31.949Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-12T16:11:43.526Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748-html",
           "title": "F1: abandonó Colapinto y ganó Verstappen en una sprint en Singapur con la lluvia como protagonista",
@@ -1535,27 +1565,12 @@
           "addedAt": "2026-10-07T01:11:30.601Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255-html",
-          "title": "Cómo quedó la grilla para el Sprint del Gran Premio de Singapur de la F1",
-          "summary": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255.html",
-          "image": "https://media.tycsports.com/files/2026/10/09/994388/colapinto-en-singapur-photo-by-daniel-cenganadolu-via-getty-images_1440x810.webp?v=1",
-          "body": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.\n\nColapinto en Singapur (Photo by Daniel Ceng/Anadolu via Getty Images) + Seguinos en El fin de semana traerá consigo acción en la Fórmula 1, con lo que será tanto la carrera principal del domingo como el Sprint del sábado en el Gran Premio de Singapur . Así, de cara a lo que será el evento de mañana, la clasificación determinó que Max Verstappen sea el dueño de la pole, en tanto que Franco Colapinto quedó cerca de la zona de puntos .\n\nCon un tiempo final de 1:31.156s, el neerlandés de Red Bull se hizo dueño de la pole para la carrera corta del circuito de Marina Bay . Apenas por detrás, con un mejor tiempo de 1:31.276s, apareció George Russell, de Mercedes . En tanto, el tercer puesto de la grilla fue para Charles Leclerc, de Ferrari, con un registro de 1:31.399s.\n\nComplicado por una tempranera bandera roja provocada por un accidente de Sergio Pérez en la curva 4, Colapinto vio demorada su salida a pista, algo que también le sucedió a su compañero, Pierre Gasly. De todas maneras, con un registro de 1:35.048s, el pilarense logró meterse en SQ2, instancia en la que marcó un mejor tiempo de 1:33.249s, para quedarse con el 11° puesto de la grilla. De esta manera, si bien no logró avanzar a la SQ3, quedó cerca de los primeros ocho puestos del Sprint, con chances de sumar puntos .",
-          "language": "es",
-          "publishedAt": "2026-10-09T16:47:52.000Z",
-          "addedAt": "2026-10-09T17:11:32.303Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-12T16:11:43.526Z",
+      "createdAt": "2026-10-12T17:11:36.728Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703-h",
@@ -1831,23 +1846,8 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-12T16:11:43.526Z",
+      "createdAt": "2026-10-12T17:11:36.728Z",
       "items": [
-        {
-          "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
-          "title": "F1 en Singapur: un \"error humano\" alteró el cronometraje oficial",
-          "summary": "La FIA lo informó \"al mismo tiempo\" que decidió suspender la reunión de pilotos; Williams y Aston Martin protestaron y sugirieron impugnar los resultados.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Race-control.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T17:07:30.000Z",
-          "addedAt": "2026-10-09T17:11:32.069Z",
-          "category": "general",
-          "tag": "Reglamento"
-        },
         {
           "id": "campeones-com-ar-el-susto-que-tuvo-rus-med-team-antes-de-la-carrera-de-tc-en-san-nicolas",
           "title": "El \"susto\" que tuvo RUS Med Team antes de la carrera de TCen San Nicolás",
@@ -1862,6 +1862,21 @@
           "addedAt": "2026-10-02T17:57:42.858Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
+          "title": "F1 en Singapur: un \"error humano\" alteró el cronometraje oficial",
+          "summary": "La FIA lo informó \"al mismo tiempo\" que decidió suspender la reunión de pilotos; Williams y Aston Martin protestaron y sugirieron impugnar los resultados.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Race-control.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T17:07:30.000Z",
+          "addedAt": "2026-10-09T17:11:32.069Z",
+          "category": "general",
+          "tag": "Reglamento"
         },
         {
           "id": "campeones-com-ar-si-fuera-mazzacane-haria-el-coronacion-de-tc-en-balcarce",
@@ -1999,6 +2014,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255-html",
+          "title": "Cómo quedó la grilla para el Sprint del Gran Premio de Singapur de la F1",
+          "summary": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255.html",
+          "image": "https://media.tycsports.com/files/2026/10/09/994388/colapinto-en-singapur-photo-by-daniel-cenganadolu-via-getty-images_1440x810.webp?v=1",
+          "body": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.\n\nColapinto en Singapur (Photo by Daniel Ceng/Anadolu via Getty Images) + Seguinos en El fin de semana traerá consigo acción en la Fórmula 1, con lo que será tanto la carrera principal del domingo como el Sprint del sábado en el Gran Premio de Singapur . Así, de cara a lo que será el evento de mañana, la clasificación determinó que Max Verstappen sea el dueño de la pole, en tanto que Franco Colapinto quedó cerca de la zona de puntos .\n\nCon un tiempo final de 1:31.156s, el neerlandés de Red Bull se hizo dueño de la pole para la carrera corta del circuito de Marina Bay . Apenas por detrás, con un mejor tiempo de 1:31.276s, apareció George Russell, de Mercedes . En tanto, el tercer puesto de la grilla fue para Charles Leclerc, de Ferrari, con un registro de 1:31.399s.\n\nComplicado por una tempranera bandera roja provocada por un accidente de Sergio Pérez en la curva 4, Colapinto vio demorada su salida a pista, algo que también le sucedió a su compañero, Pierre Gasly. De todas maneras, con un registro de 1:35.048s, el pilarense logró meterse en SQ2, instancia en la que marcó un mejor tiempo de 1:33.249s, para quedarse con el 11° puesto de la grilla. De esta manera, si bien no logró avanzar a la SQ3, quedó cerca de los primeros ocho puestos del Sprint, con chances de sumar puntos .",
+          "language": "es",
+          "publishedAt": "2026-10-09T16:47:52.000Z",
+          "addedAt": "2026-10-09T17:11:32.303Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-a-pesar-de-algunos-inconvenientes-en-singapur-colapinto-confia-no-estamos-lejos",
           "title": "A pesar de algunos inconvenientes en Singapur, Colapinto confía: «No estamos lejos»",
           "summary": "Tras concluir su labor y clasificar 11.° con el Alpine para la carrera Sprint, el piloto argentino señaló los puntos a mejorar en el auto para continuar evolucionando en Marina Bay.",
@@ -2087,7 +2117,13 @@
           "addedAt": "2026-10-04T12:11:31.035Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-12T17:11:36.728Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770-html",
           "title": "Max Verstappen se quedó con el GP de Malasia: Colapinto finalizó 13&ordm;",
@@ -2102,13 +2138,7 @@
           "addedAt": "2026-10-03T10:16:39.500Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-12T16:11:43.526Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
           "title": "Después de la accidentada carrera, Colapinto estableció sus objetivos para Malasia",
@@ -2363,21 +2393,6 @@
           "addedAt": "2026-10-06T15:11:32.761Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-agustin-canapino-tn-barrio-chapur-pelea-id765691-html",
-          "title": "Canapino ganó una impactante serie en el TN tras una feroz pelea contra Barrio y Chapur",
-          "summary": "El Titán de Arrecifes sacó provecho de una última vuelta cargada de roces, sobrepasos y polémica para quedarse con la victoria en la Clase 3.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/agustin-canapino-tn-barrio-chapur-pelea-id765691.html",
-          "image": "https://media.tycsports.com/files/2026/10/11/995014/canapino-gano-una-impactante-serie-en-el-tn-la-feroz-pelea-contra-barrio-y-chapus_416x234.webp?v=4",
-          "body": "El Titán de Arrecifes sacó provecho de una última vuelta cargada de roces, sobrepasos y polémica para quedarse con la victoria en la Clase 3.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur + Seguinos en Un desenlace espectacular tuvo la segunda serie de la Clase 3 del TN APAT en Mendoza porque Agustín Canapino protagonizó una maniobra decisiva en la última vuelta , superó a sus rivales en plena disputa por el liderazgo y consiguió un triunfo valioso.\n\nLa definición estuvo marcada por una intensa batalla entre Facundo Chapur, Jorge Barrio y Facundo Marques , quienes intercambiaron posiciones y protagonizaron varios roces. En medio de ese escenario, el Titán encontró el espacio para ejecutar un brillante 3x1 y cruzar primero la bandera a cuadros. Después de la carrera, Barrio expresó su bronca por haber dejado escapar la victoria y cuestionó las maniobras de sus adversarios: \"Caliente por no ganar, hice todo para ganar. Mis rivales se equivocaron todos y yo no tuve ningún error. Vengo poniéndolo todo arriba del auto\".\n\nY luego se refirió a la maniobra con Chapur en detalle: \"Me entra fuerte a la puerta en la uno, eso hace que se amontone todo el pelotón, después me hace una buena maniobra en la tres, me empuja Marques, me deja a la par y en el quiebre rápido obvio que no le iba a regalar la posición pero temía que esto pasara y da bronca que las cosas se den para el puntero del campeonato, parece que todos corremos para él, o por lo menos los de atrás mío. Yo intenté ganar la serie y defendí la punta como pude\".\n\nPor su parte, Canapino explicó cómo logró recuperarse de un incidente y sacar ventaja del enfrentamiento: \"Se me complica la serie cuando Chapur entra en trompo, lo saca. Primero me cierra la línea, después me choca y se me co",
-          "language": "es",
-          "publishedAt": "2026-10-11T16:38:40.000Z",
-          "addedAt": "2026-10-11T17:11:34.241Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     }
