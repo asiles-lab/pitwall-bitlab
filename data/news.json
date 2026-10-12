@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-12T09:04:15.008Z",
-  "checkedAt": "2026-10-12T09:04:15.008Z",
+  "updatedAt": "2026-10-12T10:11:29.995Z",
+  "checkedAt": "2026-10-12T10:11:29.995Z",
   "pageSize": 18,
   "sources": [
     {
@@ -958,7 +958,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-12T09:04:22.316Z",
+      "createdAt": "2026-10-12T10:11:34.064Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1234,7 +1234,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-12T09:04:22.316Z",
+      "createdAt": "2026-10-12T10:11:34.064Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-recibio-otra-penalizacion-y-largara-aun-mas-atras-en-el-gp-de-malasia-i",
@@ -1510,7 +1510,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-12T09:04:22.316Z",
+      "createdAt": "2026-10-12T10:11:34.064Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703-h",
@@ -1786,7 +1786,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-12T09:04:22.316Z",
+      "createdAt": "2026-10-12T10:11:34.064Z",
       "items": [
         {
           "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
@@ -2062,7 +2062,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-12T09:04:22.316Z",
+      "createdAt": "2026-10-12T10:11:34.064Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
@@ -2076,21 +2076,6 @@
           "language": "es",
           "publishedAt": "2026-09-29T15:05:13.000Z",
           "addedAt": "2026-10-02T16:23:13.438Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur",
-          "title": "F1: Colapinto quedó 19.° en la única práctica del GP de Singapur",
-          "summary": "Como la mayoría, se enfocó con el Alpine en la preparación para la carrera del domingo en las calles de Marina Bay; Russell fue el más rápido con el Mercedes. A la hora 9:30 se llevará a cabo la clasificación de la carrera Sprint .",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Singapur.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T09:35:30.000Z",
-          "addedAt": "2026-10-09T10:11:30.737Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2181,6 +2166,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T11:35:37.000Z",
           "addedAt": "2026-10-10T12:11:35.528Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur",
+          "title": "F1: Colapinto quedó 19.° en la única práctica del GP de Singapur",
+          "summary": "Como la mayoría, se enfocó con el Alpine en la preparación para la carrera del domingo en las calles de Marina Bay; Russell fue el más rápido con el Mercedes. A la hora 9:30 se llevará a cabo la clasificación de la carrera Sprint .",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Singapur.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T09:35:30.000Z",
+          "addedAt": "2026-10-09T10:11:30.737Z",
           "category": "argentino",
           "tag": "Franco"
         },
