@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-11T23:11:28.852Z",
-  "checkedAt": "2026-10-11T23:11:28.852Z",
+  "updatedAt": "2026-10-12T00:11:29.677Z",
+  "checkedAt": "2026-10-12T00:11:29.677Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud",
-      "title": "TC: Ignacio Fain, la avanzada ganadora de la juventud",
-      "summary": "Con 21 años, el santafesino del Trotta Racing Team se convirtió en el ganador más joven del campeonato 2026 del Turismo Carretera. Repasamos los vencedores más veteranos y más jóvenes en cada temporada de la categoría durante la última década.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-Victoria-TC-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-09T12:39:02.000Z",
-      "addedAt": "2026-10-11T23:11:30.505Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-la-otra-copa-de-oro-los-12-cambios-de-equipo-en-el-tc",
       "title": "La otra Copa de Oro: los 12 cambios de equipo en el TC | Campeones",
@@ -973,7 +958,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-11T23:11:32.496Z",
+      "createdAt": "2026-10-12T00:11:41.397Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-reaccion-de-colapinto-antes-de-su-abandono-en-la-f1-formula-1-singapur-gp-gran-premio",
@@ -1077,21 +1062,6 @@
           "language": "es",
           "publishedAt": "2026-10-10T21:02:03.000Z",
           "addedAt": "2026-10-10T16:11:31.771Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-gran-premio-de-singapur-por-cambios-en-la-grilla-colapinto-largara-desde-el-15-puesto",
-          "title": "Gran Premio de Singapur: por cambios en la grilla, Colapinto largará desde el 15.° puesto",
-          "summary": "La penalización que debe cumplir George Russell por cambios en la Unidad de Potencia de su Mercedes, benefició al argentino quien espera contar con mejor rendimiento del Alpine.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/gran-premio-de-singapur-por-cambios-en-la-grilla-colapinto-largara-desde-el-15-puesto/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-F1-Singapur-Colapinto-Grilla.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-10T23:58:07.000Z",
-          "addedAt": "2026-10-11T00:11:32.946Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1231,6 +1201,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-gran-premio-de-singapur-por-cambios-en-la-grilla-colapinto-largara-desde-el-15-puesto",
+          "title": "Gran Premio de Singapur: por cambios en la grilla, Colapinto largará desde el 15.° puesto",
+          "summary": "La penalización que debe cumplir George Russell por cambios en la Unidad de Potencia de su Mercedes, benefició al argentino quien espera contar con mejor rendimiento del Alpine.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/gran-premio-de-singapur-por-cambios-en-la-grilla-colapinto-largara-desde-el-15-puesto/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-F1-Singapur-Colapinto-Grilla.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-10T23:58:07.000Z",
+          "addedAt": "2026-10-11T00:11:32.946Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-emocion-franco-colapinto-retiro-lionel-messi-seleccion-argentina-id764889-html",
           "title": "La emoción de Franco Colapinto por el retiro de Lionel Messi de la Selección: “Lloré un rato”",
           "summary": "En la previa del GP de Singapur, el pilarense contó sus sensaciones por la despedida del astro rosarino. “Fue un momento emotivo para toda la Argentina”, expresó.",
@@ -1249,7 +1234,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-11T23:11:32.496Z",
+      "createdAt": "2026-10-12T00:11:41.397Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-ma",
@@ -1525,7 +1510,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-11T23:11:32.496Z",
+      "createdAt": "2026-10-12T00:11:41.397Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703-h",
@@ -1801,7 +1786,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-11T23:11:32.496Z",
+      "createdAt": "2026-10-12T00:11:41.397Z",
       "items": [
         {
           "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
@@ -2077,7 +2062,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-11T23:11:32.496Z",
+      "createdAt": "2026-10-12T00:11:41.397Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
