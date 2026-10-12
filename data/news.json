@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-12T17:11:29.065Z",
-  "checkedAt": "2026-10-12T17:11:29.065Z",
+  "updatedAt": "2026-10-12T18:11:29.022Z",
+  "checkedAt": "2026-10-12T18:11:29.022Z",
   "pageSize": 18,
   "sources": [
     {
@@ -805,21 +805,6 @@
       "tag": "Reglamento"
     },
     {
-      "id": "campeones-com-ar-tcr-south-america-piquet-jr-marco-el-ritmo-antes-de-clasificar-en-concordia",
-      "title": "TCR South America: Piquet Jr. marcó el ritmo antes de clasificar en Concordia",
-      "summary": "Con el Honda del equipo oficial, el piloto brasileño fue el más veloz en el acumulado de los entrenamientos del TCR South America luego de marcar un tiempo de 1m42s739 en la segunda salida a pista.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-south-america-piquet-jr-marco-el-ritmo-antes-de-clasificar-en-concordia/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/NELSON-PIQUET-HONDA-CONCORDIA-TCR-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-09-12T17:12:59.000Z",
-      "addedAt": "2026-10-02T17:57:46.005Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-los-datos-curiosos-del-tc-en-san-nicolas",
       "title": "Los datos curiosos del TC en San Nicolás",
       "summary": "Mariano Werner (Ford) y Agustín Canapino (Chevrolet) son los grandes referentes históricos en el circuito “Juan María Traverso”, donde las últimas 5 Finales fueron ganadas por el piloto que largó desde la 2ª posición.",
@@ -925,6 +910,21 @@
       "tag": "Carrera"
     },
     {
+      "id": "campeones-com-ar-tcr-south-america-piquet-jr-marco-el-ritmo-antes-de-clasificar-en-concordia",
+      "title": "TCR South America: Piquet Jr. marcó el ritmo antes de clasificar en Concordia",
+      "summary": "Con el Honda del equipo oficial, el piloto brasileño fue el más veloz en el acumulado de los entrenamientos del TCR South America luego de marcar un tiempo de 1m42s739 en la segunda salida a pista.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-south-america-piquet-jr-marco-el-ritmo-antes-de-clasificar-en-concordia/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/NELSON-PIQUET-HONDA-CONCORDIA-TCR-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-09-12T17:12:59.000Z",
+      "addedAt": "2026-10-02T17:57:46.005Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "carburando-com-ar-blog-turismo-carretera-copara-la-ediro-con-exhibicion-y-cortes-de-transito",
       "title": "Turismo Carretera copará la EDIRO con exhibición y cortes de tránsito en San Luis",
       "summary": "La máxima categoría del automovilismo nacional se presentará este fin de semana en la Exposición del Interior con una exhibición de autos y pilotos. Habrá…",
@@ -1018,7 +1018,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-12T17:11:36.728Z",
+      "createdAt": "2026-10-12T18:11:33.049Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
@@ -1294,7 +1294,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-12T17:11:36.728Z",
+      "createdAt": "2026-10-12T18:11:33.049Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415-html",
@@ -1570,7 +1570,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-12T17:11:36.728Z",
+      "createdAt": "2026-10-12T18:11:33.049Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703-h",
@@ -1588,21 +1588,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-el-tc2000-vuelve-a-general-roca-junto-al-top-race-y-la-formula-nacional",
-          "title": "El TC2000 vuelve a General Roca junto al Top Race y la Fórmula Nacional",
-          "summary": "La plaza rionegrina vuelve a formar parte del calendario de la categoría por segundo año consecutivo. Será los próximos 31 de octubre y 1 de noviembre.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-tc2000-vuelve-a-general-roca-junto-al-top-race-y-la-formula-nacional/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC2000-GENERAL-ROCA-2025-CIANTINI.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-12T15:04:41.000Z",
-          "addedAt": "2026-10-12T15:11:27.379Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-que-fallo-en-la-f1-en-singapur-los-errores-humanos-que-la-fia-tuvo-que-admitir-id765387-",
           "title": "Qué falló en la F1 en Singapur: los \"errores humanos\" que la FIA tuvo que admitir",
           "summary": "El ente regulador del automovilismo a nivel mundial se expidió sobre la gran polémica en la sesión de clasificación para la carrera sprint.",
@@ -1614,6 +1599,21 @@
           "language": "es",
           "publishedAt": "2026-10-09T22:31:46.000Z",
           "addedAt": "2026-10-09T23:11:31.960Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-el-tc2000-vuelve-a-general-roca-junto-al-top-race-y-la-formula-nacional",
+          "title": "El TC2000 vuelve a General Roca junto al Top Race y la Fórmula Nacional",
+          "summary": "La plaza rionegrina vuelve a formar parte del calendario de la categoría por segundo año consecutivo. Será los próximos 31 de octubre y 1 de noviembre.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-tc2000-vuelve-a-general-roca-junto-al-top-race-y-la-formula-nacional/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC2000-GENERAL-ROCA-2025-CIANTINI.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-12T15:04:41.000Z",
+          "addedAt": "2026-10-12T15:11:27.379Z",
           "category": "general",
           "tag": "Carrera"
         },
@@ -1846,7 +1846,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-12T17:11:36.728Z",
+      "createdAt": "2026-10-12T18:11:33.049Z",
       "items": [
         {
           "id": "campeones-com-ar-el-susto-que-tuvo-rus-med-team-antes-de-la-carrera-de-tc-en-san-nicolas",
@@ -2122,7 +2122,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-12T17:11:36.728Z",
+      "createdAt": "2026-10-12T18:11:33.049Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770-html",
