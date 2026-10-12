@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-12T11:11:28.960Z",
-  "checkedAt": "2026-10-12T11:11:28.960Z",
+  "updatedAt": "2026-10-12T12:11:26.895Z",
+  "checkedAt": "2026-10-12T12:11:26.895Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud",
+      "title": "TC: Ignacio Fain, la avanzada ganadora de la juventud",
+      "summary": "Con 21 años, el santafesino del Trotta Racing Team se convirtió en el ganador más joven del campeonato 2026 del Turismo Carretera. Repasamos los vencedores más veteranos y más jóvenes en cada temporada de la categoría durante la última década.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-Victoria-TC-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-09T12:39:02.000Z",
+      "addedAt": "2026-10-12T12:11:27.933Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-la-otra-copa-de-oro-los-12-cambios-de-equipo-en-el-tc",
       "title": "La otra Copa de Oro: los 12 cambios de equipo en el TC | Campeones",
@@ -958,7 +973,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-12T11:11:37.837Z",
+      "createdAt": "2026-10-12T12:11:35.000Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1234,7 +1249,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-12T11:11:37.837Z",
+      "createdAt": "2026-10-12T12:11:35.000Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
@@ -1510,7 +1525,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-12T11:11:37.837Z",
+      "createdAt": "2026-10-12T12:11:35.000Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703-h",
@@ -1786,7 +1801,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-12T11:11:37.837Z",
+      "createdAt": "2026-10-12T12:11:35.000Z",
       "items": [
         {
           "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
@@ -2062,7 +2077,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-12T11:11:37.837Z",
+      "createdAt": "2026-10-12T12:11:35.000Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-canapino-colapinto-advertencia-odio-redes-sociales-id764567-html",
@@ -2320,17 +2335,17 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-los-pilotos-argentinos-cerraron-su-actividad-en-viterbo",
-          "title": "Los pilotos argentinos cerraron su actividad en Viterbo | Campeones",
-          "summary": "Joaquín Gorlero Pizarro, Agustín Pizarro y Valentino Manassero dialogaron con Campeones tras la actividad del domingo.",
+          "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
+          "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
+          "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/los-pilotos-argentinos-cerraron-su-actividad-en-viterbo/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9895.jpeg",
+          "url": "https://campeones.com.ar/santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Canapino-Santero-Podio-TN-2026.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-11T16:55:49.000Z",
-          "addedAt": "2026-10-11T17:11:40.005Z",
+          "publishedAt": "2026-10-12T12:01:47.000Z",
+          "addedAt": "2026-10-12T12:11:27.860Z",
           "category": "argentino",
           "tag": "Argentino"
         }
