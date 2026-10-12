@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-12T15:11:26.992Z",
-  "checkedAt": "2026-10-12T15:11:26.992Z",
+  "updatedAt": "2026-10-12T16:11:28.972Z",
+  "checkedAt": "2026-10-12T16:11:28.972Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,19 +40,19 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
-      "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
-      "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
+      "id": "campeones-com-ar-antonelli-puede-coronarse-campeon-de-la-formula-1-en-austin",
+      "title": "Antonelli puede coronarse campeón de la Fórmula 1 en Austin",
+      "summary": "El italiano llega a la próxima cita con 102 puntos de ventaja sobre George Russell y 111 sobre Lewis Hamilton. Para asegurar el título en Estados Unidos, deberá ganar y esperar que sus principales rivales queden relegados en la clasificación.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Canapino-Santero-Podio-TN-2026.jpg",
+      "url": "https://campeones.com.ar/antonelli-puede-coronarse-campeon-de-la-formula-1-en-austin/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/andrea-kimi-antonelli-mercedes-5.webp",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-12T12:01:47.000Z",
-      "addedAt": "2026-10-12T15:11:27.329Z",
-      "category": "argentino",
-      "tag": "Argentino"
+      "publishedAt": "2026-10-12T15:15:48.000Z",
+      "addedAt": "2026-10-12T16:11:31.495Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tn-clase-3-canapino-aprovecho-las-peleas-ajenas-para-ganar-la-2a-bateria-en-san-martin",
@@ -1003,7 +1003,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-12T15:11:39.617Z",
+      "createdAt": "2026-10-12T16:11:43.525Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1261,27 +1261,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1",
-          "title": "El director deportivo de Alpine, autocrítico tras los últimos GP de Fórmula 1 | Campeones",
-          "summary": "Steve Nielsen fue categórico sobre la trilogía de carreras que incluyó Bakú, Malasia y Singapur, donde la cosecha de puntos para Franco Colapinto y Pierre Gasly fue muy nula.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/11/Nielsen.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-12T12:15:04.000Z",
-          "addedAt": "2026-10-12T13:11:27.729Z",
-          "category": "argentino",
-          "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-12T15:11:39.617Z",
-      "items": [
-        {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415-html",
           "title": "F1 | Colapinto en el GP de Singapur: horarios y el cronograma completo",
           "summary": "Este fin de semana, el argentino disputa la decimoséptima fecha de la temporada 2026 de la Fórmula 1 en el Circuito Urbano Marina Bay. Conocé todos los detalles.",
@@ -1295,7 +1274,13 @@
           "addedAt": "2026-10-08T10:11:31.949Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-12T16:11:43.526Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748-html",
           "title": "F1: abandonó Colapinto y ganó Verstappen en una sprint en Singapur con la lluvia como protagonista",
@@ -1308,21 +1293,6 @@
           "language": "es",
           "publishedAt": "2026-10-10T10:37:14.000Z",
           "addedAt": "2026-10-09T14:11:31.910Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-la-sprint-de-colapinto-en-el-gp-de-singa",
-          "title": "F1: Verstappen hizo pole y Colapinto largará 11° en el GP de Singapur",
-          "summary": "El piloto argentino de Alpine fue 0.094 más lento que su compañero Pierre Gasly, quedó eliminado en la SQ2 y partirá undécimo este sábado.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-la-sprint-de-colapinto-en-el-gp-de-singapur-id764675.html",
-          "image": "https://media.tycsports.com/files/2026/10/09/994337/franco-colapinto-en-el-gp-de-singapur_1440x810.webp?v=1",
-          "body": "El piloto argentino de Alpine fue 0.094 más lento que su compañero Pierre Gasly, quedó eliminado en la SQ2 y partirá undécimo este sábado.\n\nFranco Colapinto en el GP de Singapur + Seguinos en Max Verstappen consiguió la pole position del Gran Premio de Singapur de la Fórmula 1 , correspondiente a la temporada 2026, al marcar el mejor tiempo en la clasificación sprint disputada en el circuito de Marina Bay. El piloto de Red Bull superó a Charles Leclerc y se aseguró el primer lugar de partida, mientras que Franco Colapinto finalizó 11° y largará desde allí en la Sprint de este sábbado.\n\nTras la tempranera bandera roja provocada por el accidente en la curva 4 donde Sergio Checo Pérez perdió parte del alerón delantero, los pilotos de Alpine fueron los últimos en meterse a la pista, cuando quedaban menos de tres minutos para el final de la SQ1 . Dicha estrategia complicó tanto a Gasly como a Colapinto, ya que que tuvieron que hacer dos vueltas para poder meter un tiempo competitivo. 1:35.048 fue el registro del piloto argentino, que terminó 16° para meterse a SQ2.\n\nYa en la segunda clasificación sprint, el pilarense registró una marca de 1:33.249 que lo puso noveno momentàneamnete hasta que lo pasaron Gasly, por menos de una décima, y George Russell, para saltar al cuarto lugar y dejarlo decimoprimero, afuera de la SQ3.\n\nEn la instancia decisiva, Max Verstappen se adueñó de la pole position con una gran vuelta en los segundos finales. El piloto de Red Bull Racing marcó 1:31.156 para superar a George Russell (1:31.276) y Charles Leclerc (1:31.399). El neerlandés aventajó por 0.892 segundos a su compañero de equipo, Isack Hadjar, quien largará desde la novena posición.",
-          "language": "es",
-          "publishedAt": "2026-10-09T15:46:41.000Z",
-          "addedAt": "2026-10-09T16:11:31.172Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1417,6 +1387,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-la-sprint-de-colapinto-en-el-gp-de-singa",
+          "title": "F1: Verstappen hizo pole y Colapinto largará 11° en el GP de Singapur",
+          "summary": "El piloto argentino de Alpine fue 0.094 más lento que su compañero Pierre Gasly, quedó eliminado en la SQ2 y partirá undécimo este sábado.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-la-sprint-de-colapinto-en-el-gp-de-singapur-id764675.html",
+          "image": "https://media.tycsports.com/files/2026/10/09/994337/franco-colapinto-en-el-gp-de-singapur_1440x810.webp?v=1",
+          "body": "El piloto argentino de Alpine fue 0.094 más lento que su compañero Pierre Gasly, quedó eliminado en la SQ2 y partirá undécimo este sábado.\n\nFranco Colapinto en el GP de Singapur + Seguinos en Max Verstappen consiguió la pole position del Gran Premio de Singapur de la Fórmula 1 , correspondiente a la temporada 2026, al marcar el mejor tiempo en la clasificación sprint disputada en el circuito de Marina Bay. El piloto de Red Bull superó a Charles Leclerc y se aseguró el primer lugar de partida, mientras que Franco Colapinto finalizó 11° y largará desde allí en la Sprint de este sábbado.\n\nTras la tempranera bandera roja provocada por el accidente en la curva 4 donde Sergio Checo Pérez perdió parte del alerón delantero, los pilotos de Alpine fueron los últimos en meterse a la pista, cuando quedaban menos de tres minutos para el final de la SQ1 . Dicha estrategia complicó tanto a Gasly como a Colapinto, ya que que tuvieron que hacer dos vueltas para poder meter un tiempo competitivo. 1:35.048 fue el registro del piloto argentino, que terminó 16° para meterse a SQ2.\n\nYa en la segunda clasificación sprint, el pilarense registró una marca de 1:33.249 que lo puso noveno momentàneamnete hasta que lo pasaron Gasly, por menos de una décima, y George Russell, para saltar al cuarto lugar y dejarlo decimoprimero, afuera de la SQ3.\n\nEn la instancia decisiva, Max Verstappen se adueñó de la pole position con una gran vuelta en los segundos finales. El piloto de Red Bull Racing marcó 1:31.156 para superar a George Russell (1:31.276) y Charles Leclerc (1:31.399). El neerlandés aventajó por 0.892 segundos a su compañero de equipo, Isack Hadjar, quien largará desde la novena posición.",
+          "language": "es",
+          "publishedAt": "2026-10-09T15:46:41.000Z",
+          "addedAt": "2026-10-09T16:11:31.172Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-singapur-franco-colapinto-cruce-futbolero-camiseta-espana-id765051",
           "title": "Otro cruce divertido y futbolero para Colapinto en el GP de Singapur",
           "summary": "El el inicio de otro fin de semana de actividad en la F1, un fanático con la camiseta de España le pidió un autógrafo al argentino, que no se olvidó de la final del Mundial y le contestó con una broma.",
@@ -1458,6 +1443,21 @@
           "language": "es",
           "publishedAt": "2026-10-09T19:31:47.000Z",
           "addedAt": "2026-10-09T14:11:30.865Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1",
+          "title": "El director deportivo de Alpine, autocrítico tras los últimos GP de Fórmula 1 | Campeones",
+          "summary": "Steve Nielsen fue categórico sobre la trilogía de carreras que incluyó Bakú, Malasia y Singapur, donde la cosecha de puntos para Franco Colapinto y Pierre Gasly fue muy nula.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/11/Nielsen.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-12T12:15:04.000Z",
+          "addedAt": "2026-10-12T13:11:27.729Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1555,7 +1555,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-12T15:11:39.617Z",
+      "createdAt": "2026-10-12T16:11:43.526Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703-h",
@@ -1601,21 +1601,6 @@
           "addedAt": "2026-10-09T23:11:31.960Z",
           "category": "general",
           "tag": "Carrera"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-antonelli-puede-ser-campeon-de-la-formula-1-en-austin-que-necesita-para-asegurar-el-titu",
-          "title": "Antonelli puede ser campeón de la Fórmula 1 en Austin: qué necesita para asegurar el título",
-          "summary": "El piloto italiano terminó 3° en el GP de Singapur y estiró su liderazgo con 340 puntos y aventaja por 102 a su compañero de equipo, George Russell",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/antonelli-puede-ser-campeon-de-la-formula-1-en-austin-que-necesita-para-asegurar-el-titulo-id765681.html",
-          "image": "https://media.tycsports.com/files/2026/10/11/995002/antonelli-_862x485.webp?v=1",
-          "body": "El piloto italiano terminó 3° en el GP de Singapur y estiró su liderazgo con 340 puntos y aventaja por 102 a su compañero de equipo, George Russell\n\nAntonelli podría convertirse en el piloto campeón más joven en la Fórmula 1 + Seguinos en Kimi Antonelli quedó cerca de consagrarse campeón de la Fórmula 1 y podría asegurar el título en el Gran Premio de Austin. El italiano, que terminó tercero en Singapur detrás de Max Verstappen y Charles Leclerc, amplió su ventaja sobre George Russell y depende de una combinación de resultados para sellar la consagración.\n\nEl piloto de Mercedes suma 340 puntos y aventaja por 102 a su compañero de equipo, que ocupa el segundo lugar con 238 unidades. Con 150 puntos todavía en juego en el campeonato, Antonelli tendrá la primera oportunidad de cerrar la pelea en la próxima fecha, siempre que consiga ampliar la diferencia hasta los 125 puntos.\n\nPara lograrlo en Austin, el italiano deberá ganar la carrera y esperar que Russell termine décimo o peor. Si se da esa combinación, la diferencia entre ambos llegará a 126 puntos, con solo 125 en disputa después de esa fecha en las seis próximas carreras. También deberá tener en cuenta a Lewis Hamilton y Max Verstappen. El británico está a 111 puntos del líder y necesitará terminar quinto o peor para que el italiano pueda asegurarse el campeonato , siempre que se cumpla el resto de las condiciones necesarias.\n\nMás allá de la posibilidad de coronarse en la próxima fecha, Antonelli también está cerca de convertirse en el campeón más joven de la historia de la categoría. Actualmente, ese registro pertenece a Sebastian Vettel, quien obtuvo su primer título en 2010 con 23 años y 134 días.",
-          "language": "es",
-          "publishedAt": "2026-10-11T15:18:59.000Z",
-          "addedAt": "2026-10-11T16:11:31.178Z",
-          "category": "general",
-          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
@@ -1676,6 +1661,21 @@
           "addedAt": "2026-10-11T17:11:40.465Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-antonelli-puede-ser-campeon-de-la-formula-1-en-austin-que-necesita-para-asegurar-el-titu",
+          "title": "Antonelli puede ser campeón de la Fórmula 1 en Austin: qué necesita para asegurar el título",
+          "summary": "El piloto italiano terminó 3° en el GP de Singapur y estiró su liderazgo con 340 puntos y aventaja por 102 a su compañero de equipo, George Russell",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/antonelli-puede-ser-campeon-de-la-formula-1-en-austin-que-necesita-para-asegurar-el-titulo-id765681.html",
+          "image": "https://media.tycsports.com/files/2026/10/11/995002/antonelli-_862x485.webp?v=1",
+          "body": "El piloto italiano terminó 3° en el GP de Singapur y estiró su liderazgo con 340 puntos y aventaja por 102 a su compañero de equipo, George Russell\n\nAntonelli podría convertirse en el piloto campeón más joven en la Fórmula 1 + Seguinos en Kimi Antonelli quedó cerca de consagrarse campeón de la Fórmula 1 y podría asegurar el título en el Gran Premio de Austin. El italiano, que terminó tercero en Singapur detrás de Max Verstappen y Charles Leclerc, amplió su ventaja sobre George Russell y depende de una combinación de resultados para sellar la consagración.\n\nEl piloto de Mercedes suma 340 puntos y aventaja por 102 a su compañero de equipo, que ocupa el segundo lugar con 238 unidades. Con 150 puntos todavía en juego en el campeonato, Antonelli tendrá la primera oportunidad de cerrar la pelea en la próxima fecha, siempre que consiga ampliar la diferencia hasta los 125 puntos.\n\nPara lograrlo en Austin, el italiano deberá ganar la carrera y esperar que Russell termine décimo o peor. Si se da esa combinación, la diferencia entre ambos llegará a 126 puntos, con solo 125 en disputa después de esa fecha en las seis próximas carreras. También deberá tener en cuenta a Lewis Hamilton y Max Verstappen. El británico está a 111 puntos del líder y necesitará terminar quinto o peor para que el italiano pueda asegurarse el campeonato , siempre que se cumpla el resto de las condiciones necesarias.\n\nMás allá de la posibilidad de coronarse en la próxima fecha, Antonelli también está cerca de convertirse en el campeón más joven de la historia de la categoría. Actualmente, ese registro pertenece a Sebastian Vettel, quien obtuvo su primer título en 2010 con 23 años y 134 días.",
+          "language": "es",
+          "publishedAt": "2026-10-11T15:18:59.000Z",
+          "addedAt": "2026-10-11T16:11:31.178Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-bottas-llego-a-singapur-en-bicicleta-f1-id764731-html",
@@ -1798,21 +1798,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas",
-          "title": "Así quedó la Copa de Oro de TC con Chapur líder luego de San Nicolás",
-          "summary": "Con el segundo puesto en el '1-2' de Torino, el cordobés se trepó a la cima del 'playoff' a falta de tres carreras para el cierre.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/FACUNDO-CHAPUR-TC-FOTO-DARIO-GALLARDO.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-05T15:49:04.000Z",
-          "addedAt": "2026-10-05T16:11:30.907Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
           "title": "Por qué se retrasó la largada del GP de Malasia de la Fórmula 1",
           "summary": "Una fuerte tormenta azotó el Circuito de Sepang y obligó a la Dirección de Carrera a postergar la salida. La intensa lluvia dejó el asfalto en condiciones impracticables y generó además una fuerte actividad eléctrica en la zona.",
@@ -1826,13 +1811,7 @@
           "addedAt": "2026-10-04T08:11:31.664Z",
           "category": "general",
           "tag": "Clima"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-12T15:11:39.617Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -1847,7 +1826,13 @@
           "addedAt": "2026-10-02T17:54:07.788Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-12T16:11:43.526Z",
+      "items": [
         {
           "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
           "title": "F1 en Singapur: un \"error humano\" alteró el cronometraje oficial",
@@ -1922,6 +1907,21 @@
           "addedAt": "2026-10-08T17:11:27.987Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas",
+          "title": "Así quedó la Copa de Oro de TC con Chapur líder luego de San Nicolás",
+          "summary": "Con el segundo puesto en el '1-2' de Torino, el cordobés se trepó a la cima del 'playoff' a falta de tres carreras para el cierre.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/FACUNDO-CHAPUR-TC-FOTO-DARIO-GALLARDO.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-05T15:49:04.000Z",
+          "addedAt": "2026-10-05T16:11:30.907Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur",
@@ -2107,7 +2107,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-12T15:11:39.617Z",
+      "createdAt": "2026-10-12T16:11:43.526Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
