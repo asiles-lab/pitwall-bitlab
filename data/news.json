@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-13T10:11:29.189Z",
-  "checkedAt": "2026-10-13T10:11:29.189Z",
+  "updatedAt": "2026-10-13T11:11:29.154Z",
+  "checkedAt": "2026-10-13T11:11:29.154Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
+      "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
+      "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Canapino-Santero-Podio-TN-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-12T12:01:47.000Z",
+      "addedAt": "2026-10-13T11:11:35.257Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-tn-clase-3-canapino-aprovecho-las-peleas-ajenas-para-ganar-la-2a-bateria-en-san-martin",
       "title": "TN Clase 3: Canapino aprovechó las peleas ajenas para ganar la 2ª batería en San Martín",
@@ -1003,7 +1018,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-13T10:11:32.613Z",
+      "createdAt": "2026-10-13T11:11:37.079Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1092,6 +1107,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T15:23:11.000Z",
           "addedAt": "2026-10-10T19:11:31.928Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561-html",
+          "title": "F1: los horarios y el cronograma del GP de Estados Unidos",
+          "summary": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561.html",
+          "image": "https://media.tycsports.com/files/2026/10/06/993348/gp-de-estados-unidos_862x485.webp?v=1",
+          "body": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nColapinto tuvo que abandonar y Verstappen ganó el GP de Singapur 13/10/2026 07:37 am Franco Colapinto. + Seguinos en Tras la victoria de XXXX y el XXº puesto de Colapinto en Singapur, la Fórmula 1 se prepara para el Gran Premio de Estados Unidos , que se desarrollará del 23 al 25 de octubre en el Circuito de las Américas. Conocé el cronograma completo .\n\nLa Fórmula 1 corrió por primera vez en el Circuito de las Américas (COTA) en 2012, en el Gran Premio de Estados Unidos, y como era de esperar, más del 100.000 espectadores llenaron el circuito y presenciaron el último triunfo de Lewis Hamilton con McLaren antes de su fichaje por Mercedes en 2013. Las curvas del COTA tienen similitudes con las de otras pistas: las 3 y 6 se parecen a la recta de alta velocidad de Silverstone o las curvas S de Suzuka, mientras que las 12 a 15 imitan la sección del estadio de Hockenheim. Por otro lado, la subida que desemboca en la ancha curva 1 siempre ofrece emocionantes adelantamientos.",
+          "language": "es",
+          "publishedAt": "2026-10-13T10:37:30.000Z",
+          "addedAt": "2026-10-11T15:11:31.629Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1246,21 +1276,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748-html",
-          "title": "F1: abandonó Colapinto y ganó Verstappen en una sprint en Singapur con la lluvia como protagonista",
-          "summary": "El neerlandés se impuso en una carrera marcada por la lluvia y los abandonos, con Lewis Hamilton y Charles Leclerc completando el podio. Franco Colapinto, que había largado undécimo debió retirar su Alpine.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748.html",
-          "image": "https://media.tycsports.com/files/2026/10/10/994642/colapinto_1440x810.webp",
-          "body": "El neerlandés se impuso en una carrera marcada por la lluvia y los abandonos, con Lewis Hamilton y Charles Leclerc completando el podio. Franco Colapinto, que había largado undécimo debió retirar su Alpine.\n\nColapinto finalizó 19º en la práctica libre del GP de Singapur Verstappen hizo pole y Colapinto largará 11° en la Sprint del GP de Singapur 10/10/2026 07:37 am El argentino no sufrió ningún accidente en la sprint del GP de Singapur, pero tras un trompo dejó la carrera. + Seguinos en Max Verstappen ganó este sábado la carrera Sprint del Gran Premio de Singapur de Fórmula 1 , en una competencia disputada bajo condiciones de pista mojada que tuvo varios abandonos, mientras que Franco Colapinto debió retirarse en la cuarta vuelta por un problema en su Alpine. El piloto de Red Bull mantuvo el primer puesto hasta la bandera a cuadros y terminó por delante de Lewis Hamilton y Charles Leclerc, quienes completaron el podio.\n\nLa carrera comenzó con dos vueltas de formación detrás del Safety Car, debido a la lluvia y la presencia de sectores con charcos y otros más secos. Una vez habilitada la largada en movimiento, George Russell, que había partido segundo, superó a Verstappen y tomó el liderazgo, pero quedó fuera de competencia poco después al realizar un trompo a la salida de una curva. El incidente provocó el ingreso del auto de seguridad y devolvió al neerlandés al primer lugar.\n\nLa pista volvió a generar problemas durante las primeras vueltas. Lance Stroll y Sergio Pérez también hicieron trompos y abandonaron, mientras que Isack Hadjar quedó fuera de carrera. Colapinto, que había largado undécimo, perdió una posición en el comienzo y fue superado por Nico Hülkenberg y Oliver Bearman. En la cuarta vuelta, el argentino dejó la pista por un problema eléctrico mientras el Sa",
-          "language": "es",
-          "publishedAt": "2026-10-10T10:37:14.000Z",
-          "addedAt": "2026-10-09T14:11:31.910Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-gp-malasia-colapinto-esperanza-declaraciones-qualy-15-largada-21-id764169-html",
           "title": "Colapinto, entre la resignación y la esperanza: \"Era lo que esperábamos, pero se puede remontar\"",
           "summary": "El piloto argentino terminó 15° en la clasificación para la carrera del domingo pero largará 21° por las penalizaciones que arrastra.",
@@ -1279,7 +1294,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-13T10:11:32.613Z",
+      "createdAt": "2026-10-13T11:11:37.079Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-malasia-id763660-",
@@ -1372,17 +1387,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561-html",
-          "title": "F1: los horarios y el cronograma completo del GP de Estados Unidos",
-          "summary": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748-html",
+          "title": "F1: abandonó Colapinto y ganó Verstappen en una sprint en Singapur con la lluvia como protagonista",
+          "summary": "El neerlandés se impuso en una carrera marcada por la lluvia y los abandonos, con Lewis Hamilton y Charles Leclerc completando el podio. Franco Colapinto, que había largado undécimo debió retirar su Alpine.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561.html",
-          "image": "https://media.tycsports.com/files/2026/10/06/993348/gp-de-estados-unidos_862x485.webp?v=1",
-          "body": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nColapinto tuvo que abandonar y Verstappen ganó el GP de Singapur 12/10/2026 07:30 am Franco Colapinto. + Seguinos en Tras la victoria de XXXX y el XXº puesto de Colapinto en Singapur, la Fórmula 1 se prepara para el Gran Premio de Estados Unidos , que se desarrollará del 23 al 25 de octubre en el Circuito de las Américas. Conocé el cronograma completo .\n\nLa Fórmula 1 corrió por primera vez en el Circuito de las Américas (COTA) en 2012, en el Gran Premio de Estados Unidos, y como era de esperar, más del 100.000 espectadores llenaron el circuito y presenciaron el último triunfo de Lewis Hamilton con McLaren antes de su fichaje por Mercedes en 2013. Las curvas del COTA tienen similitudes con las de otras pistas: las 3 y 6 se parecen a la recta de alta velocidad de Silverstone o las curvas S de Suzuka, mientras que las 12 a 15 imitan la sección del estadio de Hockenheim. Por otro lado, la subida que desemboca en la ancha curva 1 siempre ofrece emocionantes adelantamientos.",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-la-carrera-sprint-de-colapinto-en-el-gp-de-singapur-id764748.html",
+          "image": "https://media.tycsports.com/files/2026/10/10/994642/colapinto_1440x810.webp",
+          "body": "El neerlandés se impuso en una carrera marcada por la lluvia y los abandonos, con Lewis Hamilton y Charles Leclerc completando el podio. Franco Colapinto, que había largado undécimo debió retirar su Alpine.\n\nColapinto finalizó 19º en la práctica libre del GP de Singapur Verstappen hizo pole y Colapinto largará 11° en la Sprint del GP de Singapur 10/10/2026 07:37 am El argentino no sufrió ningún accidente en la sprint del GP de Singapur, pero tras un trompo dejó la carrera. + Seguinos en Max Verstappen ganó este sábado la carrera Sprint del Gran Premio de Singapur de Fórmula 1 , en una competencia disputada bajo condiciones de pista mojada que tuvo varios abandonos, mientras que Franco Colapinto debió retirarse en la cuarta vuelta por un problema en su Alpine. El piloto de Red Bull mantuvo el primer puesto hasta la bandera a cuadros y terminó por delante de Lewis Hamilton y Charles Leclerc, quienes completaron el podio.\n\nLa carrera comenzó con dos vueltas de formación detrás del Safety Car, debido a la lluvia y la presencia de sectores con charcos y otros más secos. Una vez habilitada la largada en movimiento, George Russell, que había partido segundo, superó a Verstappen y tomó el liderazgo, pero quedó fuera de competencia poco después al realizar un trompo a la salida de una curva. El incidente provocó el ingreso del auto de seguridad y devolvió al neerlandés al primer lugar.\n\nLa pista volvió a generar problemas durante las primeras vueltas. Lance Stroll y Sergio Pérez también hicieron trompos y abandonaron, mientras que Isack Hadjar quedó fuera de carrera. Colapinto, que había largado undécimo, perdió una posición en el comienzo y fue superado por Nico Hülkenberg y Oliver Bearman. En la cuarta vuelta, el argentino dejó la pista por un problema eléctrico mientras el Sa",
           "language": "es",
-          "publishedAt": "2026-10-12T10:30:38.000Z",
-          "addedAt": "2026-10-11T15:11:31.629Z",
+          "publishedAt": "2026-10-10T10:37:14.000Z",
+          "addedAt": "2026-10-09T14:11:31.910Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1555,8 +1570,23 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-13T10:11:32.613Z",
+      "createdAt": "2026-10-13T11:11:37.079Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-formula-1-africa-ruanda-id765901-html",
+          "title": "La Fórmula 1 confirmó que vuelve a África: dónde se correrá y desde cuándo",
+          "summary": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-africa-ruanda--id765901.html",
+          "image": "https://media.tycsports.com/files/2026/10/13/995490/circuito-de-kigali_1440x810.webp",
+          "body": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.\n\nEl nuevo circuito de Kigali, en Ruanda, albergará la Fórmula 1 por, al menos, diez años. + Seguinos en La Fórmula 1 confirmó este martes su regreso a África en 2030 , con Ruanda como sede de un Gran Premio durante, al menos, diez temporadas. La última carrera del Mundial en ese continente se disputó en 1993, cuando Alain Prost se impuso en Sudáfrica con Williams-Renault.\n\nEl escenario elegido será un circuito completamente nuevo en Bugesera, una localidad situada a unos 40 kilómetros de Kigali, la capital del país . El trazado estará junto al futuro aeropuerto internacional y formará parte de un ambicioso proyecto que combinará deporte, turismo y desarrollo comercial. Por ahora, no se informó la fecha de la primera competencia. La llegada de la Máxima permitirá que el campeonato tenga presencia en todos los continentes habitados . Stefano Domenicali, presidente y director ejecutivo de la categoría, destacó el alcance de la iniciativa : “Con Ruanda incorporándose al calendario desde la próxima década, nuestro deporte competirá en todos los continentes habitados y acercará el Campeonato Mundial más que nunca a los aficionados de todo el mundo ” .\n\nMás allá de la actividad en pista, el complejo estará preparado para funcionar durante todo el año. Sus instalaciones podrán albergar otras competencias internacionales, conferencias y espectáculos. Además, las autoridades locales esperan que la inversión genere puestos de trabajo, capacitación profesional y nuevas oportunidades económicas.\n\nEn ese sentido, el presidente ruandés, Paul Kagame, remarcó que el objetivo trasciende lo deportivo: “La meta",
+          "language": "es",
+          "publishedAt": "2026-10-13T10:38:07.000Z",
+          "addedAt": "2026-10-13T11:11:35.290Z",
+          "category": "general",
+          "tag": "F1"
+        },
         {
           "id": "www-tycsports-com-automovilismo-fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703-h",
           "title": "Fuerte autocrítica del director de Alpine tras otra carrera sin puntos en la F1: \"El resultado habla por sí solo\"",
@@ -1811,7 +1841,13 @@
           "addedAt": "2026-10-02T17:57:42.858Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-13T11:11:37.079Z",
+      "items": [
         {
           "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
           "title": "F1 en Singapur: un \"error humano\" alteró el cronometraje oficial",
@@ -1826,13 +1862,7 @@
           "addedAt": "2026-10-09T17:11:32.069Z",
           "category": "general",
           "tag": "Reglamento"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-13T10:11:32.613Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-bottas-formula-1-bicicleta-gp-singapur-id764495-html",
           "title": "Un piloto de F1 viaja de Malasia a Singapur en bicicleta",
@@ -1907,21 +1937,6 @@
           "addedAt": "2026-10-05T22:11:32.311Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas",
-          "title": "Así quedó la Copa de Oro de TC con Chapur líder luego de San Nicolás",
-          "summary": "Con el segundo puesto en el '1-2' de Torino, el cordobés se trepó a la cima del 'playoff' a falta de tres carreras para el cierre.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/asi-quedo-la-copa-de-oro-de-tc-con-chapur-lider-luego-de-san-nicolas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/FACUNDO-CHAPUR-TC-FOTO-DARIO-GALLARDO.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-05T15:49:04.000Z",
-          "addedAt": "2026-10-05T16:11:30.907Z",
-          "category": "general",
-          "tag": "Carrera"
         },
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611-h",
@@ -2107,7 +2122,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-13T10:11:32.613Z",
+      "createdAt": "2026-10-13T11:11:37.079Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770-html",
