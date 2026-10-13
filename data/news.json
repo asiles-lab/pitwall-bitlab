@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-13T08:11:29.094Z",
-  "checkedAt": "2026-10-13T08:11:29.094Z",
+  "updatedAt": "2026-10-13T09:11:29.167Z",
+  "checkedAt": "2026-10-13T09:11:29.167Z",
   "pageSize": 18,
   "sources": [
     {
@@ -1003,7 +1003,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-13T08:11:34.120Z",
+      "createdAt": "2026-10-13T09:11:32.436Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1279,7 +1279,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-13T08:11:34.120Z",
+      "createdAt": "2026-10-13T09:11:32.436Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-malasia-id763660-",
@@ -1555,7 +1555,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-13T08:11:34.120Z",
+      "createdAt": "2026-10-13T09:11:32.436Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703-h",
@@ -1708,21 +1708,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-marc-marquez-y-la-presion-son-los-determinantes-rivales-de-martin-en-el-campeonato-de-motogp",
-          "title": "Marc Márquez y la presión son los determinantes rivales de Martín en el campeonato de MotoGP",
-          "summary": "Con la Ducati, el piloto de Cervera se impuso en la carrera Sprint del Gran Premio de Indonesia y recuperó el liderazgo del certamen, en tanto el madrileño relegó chances con inconvenientes en sus neumáticos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/marc-marquez-y-la-presion-son-los-determinantes-rivales-de-martin-en-el-campeonato-de-motogp/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-MotoGP-Martin-Marc-Indonesia.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-10T09:06:37.000Z",
-          "addedAt": "2026-10-10T10:11:31.504Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "campeones-com-ar-motogp-introduce-un-formato-al-estilo-formula-1-a-partir-de-2027",
           "title": "MotoGP introduce un formato al estilo Fórmula 1 a partir de 2027",
           "summary": "Inspirado en fines de semana en que la F1 tiene carreras Sprint, el mundial de motociclismo tendrá dos clasificaciones para la clase mayor.",
@@ -1736,6 +1721,21 @@
           "addedAt": "2026-10-07T14:11:30.578Z",
           "category": "general",
           "tag": "Clasificacion"
+        },
+        {
+          "id": "campeones-com-ar-marc-marquez-y-la-presion-son-los-determinantes-rivales-de-martin-en-el-campeonato-de-motogp",
+          "title": "Marc Márquez y la presión son los determinantes rivales de Martín en el campeonato de MotoGP",
+          "summary": "Con la Ducati, el piloto de Cervera se impuso en la carrera Sprint del Gran Premio de Indonesia y recuperó el liderazgo del certamen, en tanto el madrileño relegó chances con inconvenientes en sus neumáticos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/marc-marquez-y-la-presion-son-los-determinantes-rivales-de-martin-en-el-campeonato-de-motogp/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-MotoGP-Martin-Marc-Indonesia.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-10T09:06:37.000Z",
+          "addedAt": "2026-10-10T10:11:31.504Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-motogp-raul-fernandez-logro-su-primera-pole-en-indonesia",
@@ -1831,7 +1831,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-13T08:11:34.120Z",
+      "createdAt": "2026-10-13T09:11:32.436Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-bottas-formula-1-bicicleta-gp-singapur-id764495-html",
@@ -2107,7 +2107,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-13T08:11:34.120Z",
+      "createdAt": "2026-10-13T09:11:32.436Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770-html",
