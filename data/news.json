@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-13T00:11:29.063Z",
-  "checkedAt": "2026-10-13T00:11:29.063Z",
+  "updatedAt": "2026-10-13T01:11:29.106Z",
+  "checkedAt": "2026-10-13T01:11:29.106Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
-      "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
-      "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Canapino-Santero-Podio-TN-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-12T12:01:47.000Z",
-      "addedAt": "2026-10-13T00:11:30.613Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-antonelli-puede-coronarse-campeon-de-la-formula-1-en-austin",
       "title": "Antonelli puede coronarse campeón de la Fórmula 1 en Austin",
@@ -1018,23 +1003,8 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-13T00:11:32.686Z",
+      "createdAt": "2026-10-13T01:11:33.213Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
-          "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
-          "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-ranking-peor-f1-gp-singapur-id765831.html",
-          "image": "https://media.tycsports.com/files/2026/10/12/995348/franco_1440x810.webp?v=1",
-          "body": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.\n\nFranco Colapinto tuvo que abandonar en el GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto tuvo un fin de semana para el olvido en el Gran Premio de Singapur de Fórmula 1 . El piloto argentino sufrió dos abandonos, tanto en la Sprint como en la carrera principal, debido a problemas de fiabilidad en su Alpine y no pudo volver a sumar puntos. Ante este panorama, un medio inglés ubicó al #43 entre los peores de su ranking.\n\nSe trata de The Race , un medio especializado que confecciona un ranking luego de cada carrera en el que pondera la actuación de cada corredor. En Singapur, Colapinto ocupó el puesto 19, solo por delante de Alex Albon, Valtteri Bottas y Lance Stroll , quienes también sufrieron complicaciones con sus monoplazas.\n\n“El ritmo subyacente era mejor de lo que parecía, pero la clasificación no se optimizó al máximo” , fue el veredicto final del portal inglés respecto a la performance del #43.\n\n“En la clasificación al sprint, mantuvo un ritmo similar al de su compañero de equipo en Alpine, Gasly. Su eliminación en la segunda ronda de clasificación se debió exclusivamente al tiempo perdido por los frenos y a que los neumáticos no estaban a la temperatura adecuada para la primera curva. Llegó a ocupar brevemente el duodécimo puesto en la carrera al sprint antes de detenerse por un problema en la reserva de energía”, analizó The Race.",
-          "language": "es",
-          "publishedAt": "2026-10-12T21:27:52.000Z",
-          "addedAt": "2026-10-12T17:11:31.468Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
           "title": "La frustración de Colapinto por el \"peor balance en mucho tiempo\" y su toque a la pared en Singapur",
@@ -1062,6 +1032,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T13:04:13.000Z",
           "addedAt": "2026-10-10T11:11:31.839Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
+          "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
+          "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-ranking-peor-f1-gp-singapur-id765831.html",
+          "image": "https://media.tycsports.com/files/2026/10/12/995348/franco_1440x810.webp?v=1",
+          "body": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.\n\nFranco Colapinto tuvo que abandonar en el GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto tuvo un fin de semana para el olvido en el Gran Premio de Singapur de Fórmula 1 . El piloto argentino sufrió dos abandonos, tanto en la Sprint como en la carrera principal, debido a problemas de fiabilidad en su Alpine y no pudo volver a sumar puntos. Ante este panorama, un medio inglés ubicó al #43 entre los peores de su ranking.\n\nSe trata de The Race , un medio especializado que confecciona un ranking luego de cada carrera en el que pondera la actuación de cada corredor. En Singapur, Colapinto ocupó el puesto 19, solo por delante de Alex Albon, Valtteri Bottas y Lance Stroll , quienes también sufrieron complicaciones con sus monoplazas.\n\n“El ritmo subyacente era mejor de lo que parecía, pero la clasificación no se optimizó al máximo” , fue el veredicto final del portal inglés respecto a la performance del #43.\n\n“En la clasificación al sprint, mantuvo un ritmo similar al de su compañero de equipo en Alpine, Gasly. Su eliminación en la segunda ronda de clasificación se debió exclusivamente al tiempo perdido por los frenos y a que los neumáticos no estaban a la temperatura adecuada para la primera curva. Llegó a ocupar brevemente el duodécimo puesto en la carrera al sprint antes de detenerse por un problema en la reserva de energía”, analizó The Race.",
+          "language": "es",
+          "publishedAt": "2026-10-12T21:27:52.000Z",
+          "addedAt": "2026-10-12T17:11:31.468Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1294,7 +1279,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-13T00:11:32.686Z",
+      "createdAt": "2026-10-13T01:11:33.213Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-malasia-id763660-",
@@ -1462,21 +1447,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1",
-          "title": "El director deportivo de Alpine, autocrítico tras los últimos GP de Fórmula 1 | Campeones",
-          "summary": "Steve Nielsen fue categórico sobre la trilogía de carreras que incluyó Bakú, Malasia y Singapur, donde la cosecha de puntos para Franco Colapinto y Pierre Gasly fue muy nula.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/11/Nielsen.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-12T12:15:04.000Z",
-          "addedAt": "2026-10-12T13:11:27.729Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-singapur-id764556",
           "title": "Franco Colapinto finalizó 19&ordm; en la práctica libre del GP de Singapur",
           "summary": "George Russell marcó el mejor tiempo en el circuito urbano de Marina Bay, mientras que el piloto argentino terminó en la parte baja del clasificador con neumáticos medios",
@@ -1565,12 +1535,27 @@
           "addedAt": "2026-10-11T13:11:26.435Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-clasifico-11-para-la-carrera-sprint-de-singapur-de-f1",
+          "title": "Colapinto clasificó 11.° para la carrera Sprint de F1 en Singapur",
+          "summary": "En el circuito de Marina Bay, el piloto argentino no pudo superar el segundo corte con el Alpine y quedó cerca del Top10 en donde sí ingresó su compañero Gasly. La \"pole\" quedó en manos de Vestappen.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-clasifico-11-para-la-carrera-sprint-de-singapur-de-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-A526-Singapur.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T19:31:47.000Z",
+          "addedAt": "2026-10-09T14:11:30.865Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-13T00:11:32.686Z",
+      "createdAt": "2026-10-13T01:11:33.213Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703-h",
@@ -1846,7 +1831,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-13T00:11:32.686Z",
+      "createdAt": "2026-10-13T01:11:33.213Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-bottas-formula-1-bicicleta-gp-singapur-id764495-html",
@@ -1939,21 +1924,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-colapinto-clasifico-11-para-la-carrera-sprint-de-singapur-de-f1",
-          "title": "Colapinto clasificó 11.° para la carrera Sprint de F1 en Singapur",
-          "summary": "En el circuito de Marina Bay, el piloto argentino no pudo superar el segundo corte con el Alpine y quedó cerca del Top10 en donde sí ingresó su compañero Gasly. La \"pole\" quedó en manos de Vestappen.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-clasifico-11-para-la-carrera-sprint-de-singapur-de-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-A526-Singapur.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T19:31:47.000Z",
-          "addedAt": "2026-10-09T14:11:30.865Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611-h",
           "title": "F1: Verstappen logró su primera pole del año y Colapinto largará anteúltimo",
           "summary": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.",
@@ -2012,6 +1982,21 @@
           "addedAt": "2026-10-09T17:11:32.303Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1",
+          "title": "El director deportivo de Alpine, autocrítico tras los últimos GP de Fórmula 1 | Campeones",
+          "summary": "Steve Nielsen fue categórico sobre la trilogía de carreras que incluyó Bakú, Malasia y Singapur, donde la cosecha de puntos para Franco Colapinto y Pierre Gasly fue muy nula.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/11/Nielsen.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-12T12:15:04.000Z",
+          "addedAt": "2026-10-12T13:11:27.729Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint",
@@ -2122,7 +2107,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-13T00:11:32.686Z",
+      "createdAt": "2026-10-13T01:11:33.213Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770-html",
