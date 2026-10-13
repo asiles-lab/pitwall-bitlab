@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-13T11:11:29.154Z",
-  "checkedAt": "2026-10-13T11:11:29.154Z",
+  "updatedAt": "2026-10-13T12:11:29.222Z",
+  "checkedAt": "2026-10-13T12:11:29.222Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
-      "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
-      "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Canapino-Santero-Podio-TN-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-12T12:01:47.000Z",
-      "addedAt": "2026-10-13T11:11:35.257Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-tn-clase-3-canapino-aprovecho-las-peleas-ajenas-para-ganar-la-2a-bateria-en-san-martin",
       "title": "TN Clase 3: Canapino aprovechó las peleas ajenas para ganar la 2ª batería en San Martín",
@@ -1018,7 +1003,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-13T11:11:37.079Z",
+      "createdAt": "2026-10-13T12:11:32.169Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1294,7 +1279,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-13T11:11:37.079Z",
+      "createdAt": "2026-10-13T12:11:32.169Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-malasia-id763660-",
@@ -1570,7 +1555,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-13T11:11:37.079Z",
+      "createdAt": "2026-10-13T12:11:32.169Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-africa-ruanda-id765901-html",
@@ -1846,7 +1831,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-13T11:11:37.079Z",
+      "createdAt": "2026-10-13T12:11:32.169Z",
       "items": [
         {
           "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
@@ -2122,7 +2107,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-13T11:11:37.079Z",
+      "createdAt": "2026-10-13T12:11:32.169Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-malasia-id763770-html",
@@ -2226,21 +2211,6 @@
           "language": "es",
           "publishedAt": "2026-10-10T14:23:10.000Z",
           "addedAt": "2026-10-10T15:11:31.840Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-colapinto-y-la-incognita-sobre-el-inconveniente-que-lo-hizo-abandonar-en-marina-bay",
-          "title": "Colapinto y la incógnita sobre el inconveniente que lo hizo abandonar en Marina Bay",
-          "summary": "A contrarreloj, el equipo de Enstone debe enfocarse en encontrar el origen del problema técnico en el Alpine 526 del argentino y alistarlo para la clasificación de la hora 10:00 de nuestro país.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-y-la-incognita-sobre-el-inconveniente-que-lo-hizo-abandonar-en-marina-bay/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-F1-Colapinto-Singapur-rain.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-10T11:35:37.000Z",
-          "addedAt": "2026-10-10T12:11:35.528Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2376,6 +2346,21 @@
           "language": "es",
           "publishedAt": "2026-10-01T13:54:31.000Z",
           "addedAt": "2026-10-02T16:23:12.797Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-y-la-incognita-sobre-el-inconveniente-que-lo-hizo-abandonar-en-marina-bay",
+          "title": "Colapinto y la incógnita sobre el inconveniente que lo hizo abandonar en Marina Bay",
+          "summary": "A contrarreloj, el equipo de Enstone debe enfocarse en encontrar el origen del problema técnico en el Alpine 526 del argentino y alistarlo para la clasificación de la hora 10:00 de nuestro país.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-y-la-incognita-sobre-el-inconveniente-que-lo-hizo-abandonar-en-marina-bay/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-F1-Colapinto-Singapur-rain.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-10T11:35:37.000Z",
+          "addedAt": "2026-10-10T12:11:35.528Z",
           "category": "argentino",
           "tag": "Franco"
         },
