@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-13T21:11:08.054Z",
-  "checkedAt": "2026-10-13T21:11:08.054Z",
+  "updatedAt": "2026-10-13T22:11:29.232Z",
+  "checkedAt": "2026-10-13T22:11:29.232Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,51 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "www-tycsports-com-automovilismo-agustin-canapino-tn-barrio-chapur-pelea-id765691-html",
+      "title": "Canapino ganó una impactante serie en el TN tras una feroz pelea contra Barrio y Chapur",
+      "summary": "El Titán de Arrecifes sacó provecho de una última vuelta cargada de roces, sobrepasos y polémica para quedarse con la victoria en la Clase 3.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/agustin-canapino-tn-barrio-chapur-pelea-id765691.html",
+      "image": "https://media.tycsports.com/files/2026/10/11/995014/canapino-gano-una-impactante-serie-en-el-tn-la-feroz-pelea-contra-barrio-y-chapus_416x234.webp?v=4",
+      "body": "El Titán de Arrecifes sacó provecho de una última vuelta cargada de roces, sobrepasos y polémica para quedarse con la victoria en la Clase 3.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur + Seguinos en Un desenlace espectacular tuvo la segunda serie de la Clase 3 del TN APAT en Mendoza porque Agustín Canapino protagonizó una maniobra decisiva en la última vuelta , superó a sus rivales en plena disputa por el liderazgo y consiguió un triunfo valioso.\n\nLa definición estuvo marcada por una intensa batalla entre Facundo Chapur, Jorge Barrio y Facundo Marques , quienes intercambiaron posiciones y protagonizaron varios roces. En medio de ese escenario, el Titán encontró el espacio para ejecutar un brillante 3x1 y cruzar primero la bandera a cuadros. Después de la carrera, Barrio expresó su bronca por haber dejado escapar la victoria y cuestionó las maniobras de sus adversarios: \"Caliente por no ganar, hice todo para ganar. Mis rivales se equivocaron todos y yo no tuve ningún error. Vengo poniéndolo todo arriba del auto\".\n\nY luego se refirió a la maniobra con Chapur en detalle: \"Me entra fuerte a la puerta en la uno, eso hace que se amontone todo el pelotón, después me hace una buena maniobra en la tres, me empuja Marques, me deja a la par y en el quiebre rápido obvio que no le iba a regalar la posición pero temía que esto pasara y da bronca que las cosas se den para el puntero del campeonato, parece que todos corremos para él, o por lo menos los de atrás mío. Yo intenté ganar la serie y defendí la punta como pude\".\n\nPor su parte, Canapino explicó cómo logró recuperarse de un incidente y sacar ventaja del enfrentamiento: \"Se me complica la serie cuando Chapur entra en trompo, lo saca. Primero me cierra la línea, después me choca y se me co",
+      "language": "es",
+      "publishedAt": "2026-10-11T16:38:40.000Z",
+      "addedAt": "2026-10-13T22:11:31.532Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia",
+      "title": "TN: Canapino se aseguró llegar al Coronación como líder y podría consagrarse en Concordia",
+      "summary": "A falta de dos fechas para la culminación del campeonato, el “Titán” debería incrementar su ventaja en 20 puntos para festejar en forma anticipada. En la Clase 2, en cambio, el título se definirá sí o sí en Viedma.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TN-2026-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-13T12:15:35.000Z",
+      "addedAt": "2026-10-13T22:11:31.563Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-turismo-carretera-2000-concepcion-del-uruguay-es-el-nuevo-desafio-del-certamen",
+      "title": "Turismo Carretera 2000: Concepción del Uruguay es el nuevo desafío del certamen",
+      "summary": "La penúltima ronda del calendario 2026 se centra en la pista entrerriana, adonde el mendocino Llaver buscará ampliar la ventaja sobre Di Palma, Valle y Krujoski.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/turismo-carretera-2000-concepcion-del-uruguay-es-el-nuevo-desafio-del-certamen/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261013-TurCar2000-Llaver.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-13T21:32:15.000Z",
+      "addedAt": "2026-10-13T22:11:31.106Z",
+      "category": "general",
+      "tag": "F1"
+    },
     {
       "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
       "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
@@ -1018,7 +1063,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-13T21:11:15.795Z",
+      "createdAt": "2026-10-13T22:11:38.458Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1051,21 +1096,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
-          "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
-          "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-ranking-peor-f1-gp-singapur-id765831.html",
-          "image": "https://media.tycsports.com/files/2026/10/12/995348/franco_1440x810.webp?v=1",
-          "body": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.\n\nFranco Colapinto tuvo que abandonar en el GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto tuvo un fin de semana para el olvido en el Gran Premio de Singapur de Fórmula 1 . El piloto argentino sufrió dos abandonos, tanto en la Sprint como en la carrera principal, debido a problemas de fiabilidad en su Alpine y no pudo volver a sumar puntos. Ante este panorama, un medio inglés ubicó al #43 entre los peores de su ranking.\n\nSe trata de The Race , un medio especializado que confecciona un ranking luego de cada carrera en el que pondera la actuación de cada corredor. En Singapur, Colapinto ocupó el puesto 19, solo por delante de Alex Albon, Valtteri Bottas y Lance Stroll , quienes también sufrieron complicaciones con sus monoplazas.\n\n“El ritmo subyacente era mejor de lo que parecía, pero la clasificación no se optimizó al máximo” , fue el veredicto final del portal inglés respecto a la performance del #43.\n\n“En la clasificación al sprint, mantuvo un ritmo similar al de su compañero de equipo en Alpine, Gasly. Su eliminación en la segunda ronda de clasificación se debió exclusivamente al tiempo perdido por los frenos y a que los neumáticos no estaban a la temperatura adecuada para la primera curva. Llegó a ocupar brevemente el duodécimo puesto en la carrera al sprint antes de detenerse por un problema en la reserva de energía”, analizó The Race.",
-          "language": "es",
-          "publishedAt": "2026-10-12T21:27:52.000Z",
-          "addedAt": "2026-10-12T17:11:31.468Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-la-reaccion-de-colapinto-antes-de-su-abandono-en-la-f1-formula-1-singapur-gp-gran-premio",
           "title": "\"¿Qué está pasando?\": la reacción de Colapinto antes de su abandono en el GP de Singapur de la F1",
           "summary": "El piloto argentino tuvo dos retiros en el fin de semana por fallas en su monoplaza de Alpine y no terminó la carrera del GP de Singapur.",
@@ -1092,6 +1122,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T21:02:03.000Z",
           "addedAt": "2026-10-10T16:11:31.771Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
+          "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
+          "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-ranking-peor-f1-gp-singapur-id765831.html",
+          "image": "https://media.tycsports.com/files/2026/10/12/995348/franco_1440x810.webp?v=1",
+          "body": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.\n\nFranco Colapinto tuvo que abandonar en el GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto tuvo un fin de semana para el olvido en el Gran Premio de Singapur de Fórmula 1 . El piloto argentino sufrió dos abandonos, tanto en la Sprint como en la carrera principal, debido a problemas de fiabilidad en su Alpine y no pudo volver a sumar puntos. Ante este panorama, un medio inglés ubicó al #43 entre los peores de su ranking.\n\nSe trata de The Race , un medio especializado que confecciona un ranking luego de cada carrera en el que pondera la actuación de cada corredor. En Singapur, Colapinto ocupó el puesto 19, solo por delante de Alex Albon, Valtteri Bottas y Lance Stroll , quienes también sufrieron complicaciones con sus monoplazas.\n\n“El ritmo subyacente era mejor de lo que parecía, pero la clasificación no se optimizó al máximo” , fue el veredicto final del portal inglés respecto a la performance del #43.\n\n“En la clasificación al sprint, mantuvo un ritmo similar al de su compañero de equipo en Alpine, Gasly. Su eliminación en la segunda ronda de clasificación se debió exclusivamente al tiempo perdido por los frenos y a que los neumáticos no estaban a la temperatura adecuada para la primera curva. Llegó a ocupar brevemente el duodécimo puesto en la carrera al sprint antes de detenerse por un problema en la reserva de energía”, analizó The Race.",
+          "language": "es",
+          "publishedAt": "2026-10-12T21:27:52.000Z",
+          "addedAt": "2026-10-12T17:11:31.468Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1294,7 +1339,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-13T21:11:15.795Z",
+      "createdAt": "2026-10-13T22:11:38.458Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
@@ -1570,8 +1615,23 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-13T21:11:15.795Z",
+      "createdAt": "2026-10-13T22:11:38.458Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-valtteri-bottas-auto-f1-living-de-la-casa-id766041-html",
+          "title": "&iexcl;Insólito! Un piloto de F1 reveló que tiene un auto en el living de su casa",
+          "summary": "Se trata del Williams FW36, con el cual el finlandés corrió durante la temporada 2014 y con el que obtuvo su primer podio en el Gran Premio de Austria de aquel año.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/valtteri-bottas-auto-f1-living-de-la-casa-id766041.html",
+          "image": "https://media.tycsports.com/files/2026/10/13/995683/bottas_862x485.webp?v=1",
+          "body": "Se trata del Williams FW36, con el cual el finlandés corrió durante la temporada 2014 y con el que obtuvo su primer podio en el Gran Premio de Austria de aquel año.\n\nValtteri Bottas mostró que tiene un auto F1 dentro de su casa + Seguinos en Luego de su insólita travesía en bicicleta , en la que recorrió más de 400 kilómetros para trasladarse desde Sepang hasta Singapur, Valtteri Bottas , actual piloto de Cadillac, volvió a ser noticia por su vida fuera de las pistas. Esta vez, salió a la luz que el subcampeón de la Fórmula 1 en 2019 y 2020 tiene un monoplaza en el living de su casa.\n\nSi bien él nunca lo había revelado, la insólita situación se dio a conocer por un video que posteó el influencer Average Rob, quien visitó el hogar del corredor de 37 años y, apenas ingresó, se encontró con el Williams FW36 , con el cual el finlandés corrió en la temporada 2014 de la Máxima.\n\nLas imágenes no tardaron en viralizarse en redes sociales y sorprendieron a todos los fanáticos, pero el propio Bottas se encargó de esclarecer la situación: \"¿Por qué no, verdad? Recibí este auto como presente de Williams, después de 2014... Porque este lugar se construyó en 2014; al mismo tiempo que lo levantábamos, básicamente tuvimos que poner el auto ahí y construir la casa alrededor de él\".\n\nLo cierto es que ese monoplaza tiene un valor especial para él, ya que fue con el que logró su primer podio en la F1 , en el Gran Premio de Austria de 2014. No solo eso, sino que en aquella temporada, el finlandés se subió seis veces al podio con dos segundos lugares y cuatro terceros puestos.",
+          "language": "es",
+          "publishedAt": "2026-10-13T21:58:28.000Z",
+          "addedAt": "2026-10-13T22:11:31.400Z",
+          "category": "general",
+          "tag": "F1"
+        },
         {
           "id": "www-tycsports-com-automovilismo-fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703-h",
           "title": "Fuerte autocrítica del director de Alpine tras otra carrera sin puntos en la F1: \"El resultado habla por sí solo\"",
@@ -1826,7 +1886,13 @@
           "addedAt": "2026-10-04T08:11:31.664Z",
           "category": "general",
           "tag": "Clima"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-13T22:11:38.458Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -1841,13 +1907,7 @@
           "addedAt": "2026-10-02T17:54:07.788Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-13T21:11:15.795Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-el-susto-que-tuvo-rus-med-team-antes-de-la-carrera-de-tc-en-san-nicolas",
           "title": "El \"susto\" que tuvo RUS Med Team antes de la carrera de TCen San Nicolás",
@@ -1920,21 +1980,6 @@
           "language": "es",
           "publishedAt": "2026-10-08T15:50:02.000Z",
           "addedAt": "2026-10-08T16:11:31.952Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-el-mundial-de-motogp-en-su-sprint-final-por-el-campeonato",
-          "title": "El Mundial de MotoGP en su 'sprint' final por el campeonato",
-          "summary": "Jorge Martín (Aprilia) tiene solo dos puntos de ventaja sobre Marc Márquez (Ducati) mientras Marco Bezzecchi (Aprilia) no pierde pisada.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-mundial-de-motogp-en-su-sprint-final-por-el-campeonato/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Bezzecchi-Marquez-Martin-Sprint.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T15:00:22.000Z",
-          "addedAt": "2026-10-08T17:11:27.987Z",
           "category": "general",
           "tag": "F1"
         },
@@ -2122,7 +2167,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-13T21:11:15.795Z",
+      "createdAt": "2026-10-13T22:11:38.458Z",
       "items": [
         {
           "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
@@ -2168,21 +2213,6 @@
           "addedAt": "2026-10-03T09:12:02.953Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec",
-          "title": "\"Pechito\" López espera por las 6 horas de Barcelona de WEC",
-          "summary": "El fin de semana se disputará la penúltima ronda del campeonato en la pista catalana, en donde el argentino conducirá el Lexus de Akkodis ASP Team.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261013-WEC-Pechito-Lopez.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-13T18:24:52.000Z",
-          "addedAt": "2026-10-13T19:11:31.213Z",
-          "category": "argentino",
-          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1",
@@ -2365,6 +2395,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec",
+          "title": "\"Pechito\" López espera por las 6 horas de Barcelona de WEC",
+          "summary": "El fin de semana se disputará la penúltima ronda del campeonato en la pista catalana, en donde el argentino conducirá el Lexus de Akkodis ASP Team.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261013-WEC-Pechito-Lopez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-13T18:24:52.000Z",
+          "addedAt": "2026-10-13T19:11:31.213Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
           "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
           "summary": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.",
@@ -2380,17 +2425,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-los-argentinos-anotados-para-el-mundial-de-flat-track",
-          "title": "Los argentinos anotados para el Mundial de Flat Track",
-          "summary": "El Campeonato Mundial FIM de Flat Track llega a Totoras, Santa Fe, para definir monarcas con 28 pilotos anotados para el 24 y 25 de octubre.",
+          "id": "campeones-com-ar-esta-noche-grandes-campeones-69",
+          "title": "Esta noche: Grandes Campeones",
+          "summary": "Martes a las 22 hs: Osvaldo «Cocho» López, Ángel Guerra, Gabriel Raies y José Luis Di Palma por El Garage TV y en simultáneo por nuestra web.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/los-argentinos-anotados-para-el-mundial-de-flat-track/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Flat-Track-Pilotos.jpg",
+          "url": "https://campeones.com.ar/esta-noche-grandes-campeones-69/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/02/GRANDES-CAMPEONES-2025-GUERRA-COCHO-LOPEZ-RAIES-DI-PALMA.jpeg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-13T08:00:31.000Z",
-          "addedAt": "2026-10-13T21:11:10.507Z",
+          "publishedAt": "2026-10-13T20:50:58.000Z",
+          "addedAt": "2026-10-13T22:11:31.118Z",
           "category": "argentino",
           "tag": "Argentino"
         }
