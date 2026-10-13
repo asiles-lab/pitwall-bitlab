@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-13T18:11:29.419Z",
-  "checkedAt": "2026-10-13T18:11:29.419Z",
+  "updatedAt": "2026-10-13T19:11:29.402Z",
+  "checkedAt": "2026-10-13T19:11:29.402Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-tn-clase-3-canapino-aprovecho-las-peleas-ajenas-para-ganar-la-2a-bateria-en-san-martin",
+      "title": "TN Clase 3: Canapino aprovechó las peleas ajenas para ganar la 2ª batería en San Martín",
+      "summary": "El “Titán”, que largó 2º y llegó a estar 4º, superó en la última vuelta y en una misma maniobra a Barrio y Chapur, quienes protagonizaron una áspera lucha en la que perdieron los dos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tn-clase-3-canapino-aprovecho-las-peleas-ajenas-para-ganar-la-2a-bateria-en-san-martin/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TN-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-11T14:38:48.000Z",
+      "addedAt": "2026-10-13T19:11:30.926Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud",
       "title": "TC: Ignacio Fain, la avanzada ganadora de la juventud",
@@ -988,7 +1003,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-13T18:11:35.938Z",
+      "createdAt": "2026-10-13T19:11:32.840Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1264,7 +1279,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-13T18:11:35.938Z",
+      "createdAt": "2026-10-13T19:11:32.840Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
@@ -1540,7 +1555,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-13T18:11:35.938Z",
+      "createdAt": "2026-10-13T19:11:32.840Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703-h",
@@ -1816,7 +1831,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-13T18:11:35.938Z",
+      "createdAt": "2026-10-13T19:11:32.840Z",
       "items": [
         {
           "id": "campeones-com-ar-el-susto-que-tuvo-rus-med-team-antes-de-la-carrera-de-tc-en-san-nicolas",
@@ -2092,7 +2107,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-13T18:11:35.938Z",
+      "createdAt": "2026-10-13T19:11:32.840Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
@@ -2153,6 +2168,21 @@
           "addedAt": "2026-10-03T09:12:02.953Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec",
+          "title": "\"Pechito\" López espera por las 6 horas de Barcelona de WEC",
+          "summary": "El fin de semana se disputará la penúltima ronda del campeonato en la pista catalana, en donde el argentino conducirá el Lexus de Akkodis ASP Team.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261013-WEC-Pechito-Lopez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-13T18:24:52.000Z",
+          "addedAt": "2026-10-13T19:11:31.213Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1",
@@ -2346,21 +2376,6 @@
           "language": "es",
           "publishedAt": "2026-10-11T16:38:40.000Z",
           "addedAt": "2026-10-13T15:11:30.873Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia",
-          "title": "TN: Canapino se aseguró llegar al Coronación como líder y podría consagrarse en Concordia",
-          "summary": "A falta de dos fechas para la culminación del campeonato, el “Titán” debería incrementar su ventaja en 20 puntos para festejar en forma anticipada. En la Clase 2, en cambio, el título se definirá sí o sí en Viedma.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TN-2026-1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-13T12:15:35.000Z",
-          "addedAt": "2026-10-13T15:11:31.090Z",
           "category": "argentino",
           "tag": "Argentino"
         }
