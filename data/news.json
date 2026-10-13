@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-13T20:11:29.965Z",
-  "checkedAt": "2026-10-13T20:11:29.965Z",
+  "updatedAt": "2026-10-13T21:11:08.054Z",
+  "checkedAt": "2026-10-13T21:11:08.054Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
+      "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
+      "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Canapino-Santero-Podio-TN-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-12T12:01:47.000Z",
+      "addedAt": "2026-10-13T21:11:13.337Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-tn-clase-3-canapino-aprovecho-las-peleas-ajenas-para-ganar-la-2a-bateria-en-san-martin",
       "title": "TN Clase 3: Canapino aprovechó las peleas ajenas para ganar la 2ª batería en San Martín",
@@ -370,21 +385,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-wec-mike-conway-anuncio-su-retiro-de-las-pistas",
-      "title": "WEC: Mike Conway anunció su retiro de las pistas",
-      "summary": "El británico, bicampeón mundial en WEC y ganador en dos ediciones de las 24h de Le Mans, cerrará una exitosa campaña profesional.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/wec-mike-conway-anuncio-su-retiro-de-las-pistas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-WEC-Conway.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-06T20:27:47.000Z",
-      "addedAt": "2026-10-08T21:11:35.109Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
       "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
       "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
@@ -638,6 +638,21 @@
       "addedAt": "2026-10-04T01:11:31.647Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-wec-mike-conway-anuncio-su-retiro-de-las-pistas",
+      "title": "WEC: Mike Conway anunció su retiro de las pistas",
+      "summary": "El británico, bicampeón mundial en WEC y ganador en dos ediciones de las 24h de Le Mans, cerrará una exitosa campaña profesional.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/wec-mike-conway-anuncio-su-retiro-de-las-pistas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261006-WEC-Conway.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-06T20:27:47.000Z",
+      "addedAt": "2026-10-08T21:11:35.109Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-un-mustang-cero-kilometro-se-acerca-a-la-orbita-del-tc",
@@ -1003,7 +1018,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-13T20:11:36.190Z",
+      "createdAt": "2026-10-13T21:11:15.795Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1051,21 +1066,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-beneficiado-grilla-penalizacion-russell-gp-de-singapur-id765520-html",
-          "title": "Así quedó la grilla del Gran Premio de Singapur de la F1",
-          "summary": "El piloto británico de Mercedes fue sancionado por el cambio del motor de su monoplaza, motivo por el que deberá largar desde el fondo en Singapur; y Colapinto, que clasificó 16°, largará un puesto más arriba",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-beneficiado-grilla-penalizacion-russell-gp-de-singapur-id765520.html",
-          "image": "https://media.tycsports.com/files/2026/10/10/994729/verstappen-hamilton-y-leclerca_862x485.webp?v=2",
-          "body": "El piloto británico de Mercedes fue sancionado por el cambio del motor de su monoplaza, motivo por el que deberá largar desde el fondo en Singapur; y Colapinto, que clasificó 16°, largará un puesto más arriba\n\nEl pedido de Alpine a Colapinto tras una complicada clasificación en Singapur 10/10/2026 06:02 pm Verstappen se quedó con la pole. Leclerc y Hamilton largarán segundo y tercero respectivamente + Seguinos en El GP de Singapur de la Fórmula 1 ya tiene establecido el orden de largada para la carrera principal. Max Verstappen se quedó con una nueva pole; mientras que Franco Colapinto, piloto argentino de Alpine, que clasificó deicimosexto, subirá un puesto en la salida por una penalización a George Russell, quien largará desde el anteúltimo puesto ya que Fernando Alonso, también será sancionado por cambiar de motor, y partirá desde el fondo de la parrilla.\n\nEl cuatro veces campeón del mundo se quedó con el primer lugar tras cerrar una vuelta de 1:31.373. Charles Leclerc y Lewis Hamilton, ambos corredores de Ferrari, fueron segundo y tercero respectivamente; Andrea Kimi Antonelli, de Mercedes, y Lando Norris, de McLaren, completaron el top 5. Por su parte, Pierre Gasly avanzó a la Q3 y concluyó octavo.",
-          "language": "es",
-          "publishedAt": "2026-10-10T21:02:03.000Z",
-          "addedAt": "2026-10-10T16:11:31.771Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-la-reaccion-de-colapinto-antes-de-su-abandono-en-la-f1-formula-1-singapur-gp-gran-premio",
           "title": "\"¿Qué está pasando?\": la reacción de Colapinto antes de su abandono en el GP de Singapur de la F1",
           "summary": "El piloto argentino tuvo dos retiros en el fin de semana por fallas en su monoplaza de Alpine y no terminó la carrera del GP de Singapur.",
@@ -1077,6 +1077,21 @@
           "language": "es",
           "publishedAt": "2026-10-11T20:20:50.000Z",
           "addedAt": "2026-10-11T21:11:31.028Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-beneficiado-grilla-penalizacion-russell-gp-de-singapur-id765520-html",
+          "title": "Así quedó la grilla del Gran Premio de Singapur de la F1",
+          "summary": "El piloto británico de Mercedes fue sancionado por el cambio del motor de su monoplaza, motivo por el que deberá largar desde el fondo en Singapur; y Colapinto, que clasificó 16°, largará un puesto más arriba",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-beneficiado-grilla-penalizacion-russell-gp-de-singapur-id765520.html",
+          "image": "https://media.tycsports.com/files/2026/10/10/994729/verstappen-hamilton-y-leclerca_862x485.webp?v=2",
+          "body": "El piloto británico de Mercedes fue sancionado por el cambio del motor de su monoplaza, motivo por el que deberá largar desde el fondo en Singapur; y Colapinto, que clasificó 16°, largará un puesto más arriba\n\nEl pedido de Alpine a Colapinto tras una complicada clasificación en Singapur 10/10/2026 06:02 pm Verstappen se quedó con la pole. Leclerc y Hamilton largarán segundo y tercero respectivamente + Seguinos en El GP de Singapur de la Fórmula 1 ya tiene establecido el orden de largada para la carrera principal. Max Verstappen se quedó con una nueva pole; mientras que Franco Colapinto, piloto argentino de Alpine, que clasificó deicimosexto, subirá un puesto en la salida por una penalización a George Russell, quien largará desde el anteúltimo puesto ya que Fernando Alonso, también será sancionado por cambiar de motor, y partirá desde el fondo de la parrilla.\n\nEl cuatro veces campeón del mundo se quedó con el primer lugar tras cerrar una vuelta de 1:31.373. Charles Leclerc y Lewis Hamilton, ambos corredores de Ferrari, fueron segundo y tercero respectivamente; Andrea Kimi Antonelli, de Mercedes, y Lando Norris, de McLaren, completaron el top 5. Por su parte, Pierre Gasly avanzó a la Q3 y concluyó octavo.",
+          "language": "es",
+          "publishedAt": "2026-10-10T21:02:03.000Z",
+          "addedAt": "2026-10-10T16:11:31.771Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1111,21 +1126,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id76",
-          "title": "El pedido de Alpine a Colapinto tras una complicada clasificación en Singapur: \"Mantené...\"",
-          "summary": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id765589.html",
-          "image": "https://media.tycsports.com/files/2026/10/10/994806/colapinto_862x485.webp?v=1",
-          "body": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.\n\nLa foto que eligió Alpine para manifestarle su apoyo a Colapinto. + Seguinos en El fin de semana de Franco Colapinto en el Gran Premio de Singapur sumó otro capítulo difícil. Luego del abandono en la carrera Sprint por un problema en el sistema de almacenamiento de energía de su monoplaza, el piloto tampoco encontró las respuestas que buscaba en la clasificación y terminó en el 16° puesto, lejos de los lugares que pretendía ocupar. Sin embargo, rápidamente recibió la banca de su escudería de la Fórmula 1.\n\nEn ese contexto complicado, Alpine publicó un mensaje de apoyo dirigido al argentino . La escudería eligió una foto de Colapinto de espaldas, con la cabeza gacha, y acompañó la imagen con una frase que buscó levantarle el ánimo de cara a la carrera principal: “Mantené la cabeza en alto, @FranColapinto. Habrá muchas más oportunidades mañana”.\n\nEsa suerte de \"pedido\" y empujón anímico llegó después de una jornada en la que los problemas mecánicos y las dificultades para encontrar un buen balance condicionaron el rendimiento del piloto de 21 años en el GP de Singapur.\n\nEl doble toque de Colapinto con el muro en el GP de Singapur La frustración quedó reflejada en sus propias palabras una vez finalizada la sesión . “De los peores balances que tuve en mucho tiempo” , reconoció Colapinto, disconforme con el comportamiento del auto en un circuito tan exigente como el de Marina Bay.",
-          "language": "es",
-          "publishedAt": "2026-10-10T20:18:27.000Z",
-          "addedAt": "2026-10-10T21:11:30.468Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-singapur-id764676-",
           "title": "F1: Colapinto largará 15° y Verstappen será el poleman en el GP de Singapur",
           "summary": "El piloto argentino no logró meterse entre los 10 mejores de la clasificación y ya conoce su posición para la carrera de este domingo.",
@@ -1152,6 +1152,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T23:58:07.000Z",
           "addedAt": "2026-10-11T00:11:32.946Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id76",
+          "title": "El pedido de Alpine a Colapinto tras una complicada clasificación en Singapur: \"Mantené...\"",
+          "summary": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id765589.html",
+          "image": "https://media.tycsports.com/files/2026/10/10/994806/colapinto_862x485.webp?v=1",
+          "body": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.\n\nLa foto que eligió Alpine para manifestarle su apoyo a Colapinto. + Seguinos en El fin de semana de Franco Colapinto en el Gran Premio de Singapur sumó otro capítulo difícil. Luego del abandono en la carrera Sprint por un problema en el sistema de almacenamiento de energía de su monoplaza, el piloto tampoco encontró las respuestas que buscaba en la clasificación y terminó en el 16° puesto, lejos de los lugares que pretendía ocupar. Sin embargo, rápidamente recibió la banca de su escudería de la Fórmula 1.\n\nEn ese contexto complicado, Alpine publicó un mensaje de apoyo dirigido al argentino . La escudería eligió una foto de Colapinto de espaldas, con la cabeza gacha, y acompañó la imagen con una frase que buscó levantarle el ánimo de cara a la carrera principal: “Mantené la cabeza en alto, @FranColapinto. Habrá muchas más oportunidades mañana”.\n\nEsa suerte de \"pedido\" y empujón anímico llegó después de una jornada en la que los problemas mecánicos y las dificultades para encontrar un buen balance condicionaron el rendimiento del piloto de 21 años en el GP de Singapur.\n\nEl doble toque de Colapinto con el muro en el GP de Singapur La frustración quedó reflejada en sus propias palabras una vez finalizada la sesión . “De los peores balances que tuve en mucho tiempo” , reconoció Colapinto, disconforme con el comportamiento del auto en un circuito tan exigente como el de Marina Bay.",
+          "language": "es",
+          "publishedAt": "2026-10-10T20:18:27.000Z",
+          "addedAt": "2026-10-10T21:11:30.468Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1279,7 +1294,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-13T20:11:36.190Z",
+      "createdAt": "2026-10-13T21:11:15.795Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
@@ -1492,21 +1507,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
-          "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
-          "summary": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-palpito-gp-singapur-formula-1-id764619.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
-          "body": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.\n\nFranco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Luego de escalar ocho posiciones y finalizar 13° en Malasia, Franco Colapinto, piloto argentino de Alpine, palpitó el GP de Singapur de la Fórmula 1, que se correrá el fin de semana próximo en el circuito callejero Marina Bay, uno de los escenarios más desafiantes para los pilotos desde el punto de vista físico.\n\n\"Después de nuestra carrera en Malasia, estamos haciendo el corto viaje a Singapur para uno de los fines de semana más extremos de la temporada. El calor y la humedad fueron todo un desafío en Sepang y no serán diferente este fin de semana, solo que con la naturaleza añadida de que es un circuito urbano\" , sostuvo el argentino\n\nSiguiendo esa línea, su compañero de equipo, Pierre Gasly agregó: \"Ya estamos bastante acostumbrados a las condiciones, dado que competimos en Malasia el fin de semana pasado, donde hizo calor, humedad y, por supuesto, llovió mucho el día de la carrera\".\n\nSobre la pista, Colapinto destacó: “La pista es implacable y muy divertida de conducir. La mezcla de curvas técnicas, superficie llena de baches y paredes cerradas, además de estar bajo las luces, lo convierte en uno de mis favoritos del año”.",
-          "language": "es",
-          "publishedAt": "2026-10-06T20:52:30.000Z",
-          "addedAt": "2026-10-07T01:11:30.601Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur",
           "title": "Otra falla en el Alpine le impidió terminar a Colapinto en Singapur",
           "summary": "Antes de cumplirse la mitad de carrera, el argentino debió abandonar por un inconveniente técnico en el A526. Verstappen consiguió ganar en este trazado por primera vez.",
@@ -1550,12 +1550,27 @@
           "addedAt": "2026-10-09T14:11:30.865Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611-h",
+          "title": "F1: Verstappen logró su primera pole del año y Colapinto largará anteúltimo",
+          "summary": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611.html",
+          "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
+          "body": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.\n\nAfectado por una nueva penalización, Colapinto terminó 19°, 22° y 9° en las prácticas libres en Malasia 03/10/2026 06:19 am El argentino no pudo pasar de la Q2, en la cual no marcó tiempo (Foto: @AlpineF1Team) + Seguinos en Max Verstappen consiguió este sábado la pole position del Gran Premio de Malasia de Fórmula 1, correspondiente a la temporada 2026, al marcar el mejor tiempo en la clasificación disputada en el circuito de Sepang. El piloto de Red Bull superó a Lewis Hamilton por casi tres décimas y se aseguró por primera vez en el año el primer lugar de partida, mientras que Franco Colapinto finalizó 15° y largará anteúltimo en la carrera del domingo.\n\nVerstappen dominó buena parte de la clasificación y confirmó su rendimiento en la Q3, donde mejoró nuevamente su registro para quedarse con la primera posición. Hamilton terminó segundo y completará la primera fila, mientras que Isack Hadjar había terminado tercero, aunque deberá retroceder por una penalización . De esta manera, Kimi Antonelli heredará el tercer puesto y Charles Leclerc ocupará el cuarto lugar. Detrás partirán Lando Norris y Oscar Piastri, mientras que George Russell será séptimo y Hadjar, finalmente, octavo.\n\nColapinto, por su parte, logró avanzar a la Q2 después de finalizar décimo en la primera tanda, en la que Verstappen, Hamilton y Leclerc ocuparon los primeros lugares . Sin embargo, el piloto argentino no consiguió meterse entre los diez mejores y quedó eliminado en el 15° puesto, por delante únicamente de Arvid Lindblad entre los pilotos que llegaron a la Q2. En su último intento, Colapinto salió con neumáticos usados y finalmente abortó la vuelta cuando restaban po",
+          "language": "es",
+          "publishedAt": "2026-10-03T09:19:14.000Z",
+          "addedAt": "2026-10-02T16:23:12.620Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-13T20:11:36.190Z",
+      "createdAt": "2026-10-13T21:11:15.795Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-fuerte-autocritica-de-nielsen-en-alpine-tras-otra-carrera-sin-puntos-en-la-f1-id765703-h",
@@ -1831,7 +1846,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-13T20:11:36.190Z",
+      "createdAt": "2026-10-13T21:11:15.795Z",
       "items": [
         {
           "id": "campeones-com-ar-el-susto-que-tuvo-rus-med-team-antes-de-la-carrera-de-tc-en-san-nicolas",
@@ -1922,21 +1937,6 @@
           "addedAt": "2026-10-08T17:11:27.987Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611-h",
-          "title": "F1: Verstappen logró su primera pole del año y Colapinto largará anteúltimo",
-          "summary": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611.html",
-          "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
-          "body": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.\n\nAfectado por una nueva penalización, Colapinto terminó 19°, 22° y 9° en las prácticas libres en Malasia 03/10/2026 06:19 am El argentino no pudo pasar de la Q2, en la cual no marcó tiempo (Foto: @AlpineF1Team) + Seguinos en Max Verstappen consiguió este sábado la pole position del Gran Premio de Malasia de Fórmula 1, correspondiente a la temporada 2026, al marcar el mejor tiempo en la clasificación disputada en el circuito de Sepang. El piloto de Red Bull superó a Lewis Hamilton por casi tres décimas y se aseguró por primera vez en el año el primer lugar de partida, mientras que Franco Colapinto finalizó 15° y largará anteúltimo en la carrera del domingo.\n\nVerstappen dominó buena parte de la clasificación y confirmó su rendimiento en la Q3, donde mejoró nuevamente su registro para quedarse con la primera posición. Hamilton terminó segundo y completará la primera fila, mientras que Isack Hadjar había terminado tercero, aunque deberá retroceder por una penalización . De esta manera, Kimi Antonelli heredará el tercer puesto y Charles Leclerc ocupará el cuarto lugar. Detrás partirán Lando Norris y Oscar Piastri, mientras que George Russell será séptimo y Hadjar, finalmente, octavo.\n\nColapinto, por su parte, logró avanzar a la Q2 después de finalizar décimo en la primera tanda, en la que Verstappen, Hamilton y Leclerc ocuparon los primeros lugares . Sin embargo, el piloto argentino no consiguió meterse entre los diez mejores y quedó eliminado en el 15° puesto, por delante únicamente de Arvid Lindblad entre los pilotos que llegaron a la Q2. En su último intento, Colapinto salió con neumáticos usados y finalmente abortó la vuelta cuando restaban po",
-          "language": "es",
-          "publishedAt": "2026-10-03T09:19:14.000Z",
-          "addedAt": "2026-10-02T16:23:12.620Z",
-          "category": "argentino",
-          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
@@ -2102,13 +2102,7 @@
           "addedAt": "2026-10-03T10:16:39.500Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-13T20:11:36.190Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
           "title": "Después de la accidentada carrera, Colapinto estableció sus objetivos para Malasia",
@@ -2123,7 +2117,13 @@
           "addedAt": "2026-10-02T16:23:13.438Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-13T21:11:15.795Z",
+      "items": [
         {
           "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
           "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
@@ -2365,17 +2365,32 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-agustin-canapino-tn-barrio-chapur-pelea-id765691-html",
-          "title": "Canapino ganó una impactante serie en el TN tras una feroz pelea contra Barrio y Chapur",
-          "summary": "El Titán de Arrecifes sacó provecho de una última vuelta cargada de roces, sobrepasos y polémica para quedarse con la victoria en la Clase 3.",
+          "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
+          "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
+          "summary": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/agustin-canapino-tn-barrio-chapur-pelea-id765691.html",
-          "image": "https://media.tycsports.com/files/2026/10/11/995014/canapino-gano-una-impactante-serie-en-el-tn-la-feroz-pelea-contra-barrio-y-chapus_416x234.webp?v=4",
-          "body": "El Titán de Arrecifes sacó provecho de una última vuelta cargada de roces, sobrepasos y polémica para quedarse con la victoria en la Clase 3.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur + Seguinos en Un desenlace espectacular tuvo la segunda serie de la Clase 3 del TN APAT en Mendoza porque Agustín Canapino protagonizó una maniobra decisiva en la última vuelta , superó a sus rivales en plena disputa por el liderazgo y consiguió un triunfo valioso.\n\nLa definición estuvo marcada por una intensa batalla entre Facundo Chapur, Jorge Barrio y Facundo Marques , quienes intercambiaron posiciones y protagonizaron varios roces. En medio de ese escenario, el Titán encontró el espacio para ejecutar un brillante 3x1 y cruzar primero la bandera a cuadros. Después de la carrera, Barrio expresó su bronca por haber dejado escapar la victoria y cuestionó las maniobras de sus adversarios: \"Caliente por no ganar, hice todo para ganar. Mis rivales se equivocaron todos y yo no tuve ningún error. Vengo poniéndolo todo arriba del auto\".\n\nY luego se refirió a la maniobra con Chapur en detalle: \"Me entra fuerte a la puerta en la uno, eso hace que se amontone todo el pelotón, después me hace una buena maniobra en la tres, me empuja Marques, me deja a la par y en el quiebre rápido obvio que no le iba a regalar la posición pero temía que esto pasara y da bronca que las cosas se den para el puntero del campeonato, parece que todos corremos para él, o por lo menos los de atrás mío. Yo intenté ganar la serie y defendí la punta como pude\".\n\nPor su parte, Canapino explicó cómo logró recuperarse de un incidente y sacar ventaja del enfrentamiento: \"Se me complica la serie cuando Chapur entra en trompo, lo saca. Primero me cierra la línea, después me choca y se me co",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-palpito-gp-singapur-formula-1-id764619.html",
+          "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
+          "body": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.\n\nFranco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Luego de escalar ocho posiciones y finalizar 13° en Malasia, Franco Colapinto, piloto argentino de Alpine, palpitó el GP de Singapur de la Fórmula 1, que se correrá el fin de semana próximo en el circuito callejero Marina Bay, uno de los escenarios más desafiantes para los pilotos desde el punto de vista físico.\n\n\"Después de nuestra carrera en Malasia, estamos haciendo el corto viaje a Singapur para uno de los fines de semana más extremos de la temporada. El calor y la humedad fueron todo un desafío en Sepang y no serán diferente este fin de semana, solo que con la naturaleza añadida de que es un circuito urbano\" , sostuvo el argentino\n\nSiguiendo esa línea, su compañero de equipo, Pierre Gasly agregó: \"Ya estamos bastante acostumbrados a las condiciones, dado que competimos en Malasia el fin de semana pasado, donde hizo calor, humedad y, por supuesto, llovió mucho el día de la carrera\".\n\nSobre la pista, Colapinto destacó: “La pista es implacable y muy divertida de conducir. La mezcla de curvas técnicas, superficie llena de baches y paredes cerradas, además de estar bajo las luces, lo convierte en uno de mis favoritos del año”.",
           "language": "es",
-          "publishedAt": "2026-10-11T16:38:40.000Z",
-          "addedAt": "2026-10-13T15:11:30.873Z",
+          "publishedAt": "2026-10-06T20:52:30.000Z",
+          "addedAt": "2026-10-07T01:11:30.601Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-los-argentinos-anotados-para-el-mundial-de-flat-track",
+          "title": "Los argentinos anotados para el Mundial de Flat Track",
+          "summary": "El Campeonato Mundial FIM de Flat Track llega a Totoras, Santa Fe, para definir monarcas con 28 pilotos anotados para el 24 y 25 de octubre.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/los-argentinos-anotados-para-el-mundial-de-flat-track/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Flat-Track-Pilotos.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-13T08:00:31.000Z",
+          "addedAt": "2026-10-13T21:11:10.507Z",
           "category": "argentino",
           "tag": "Argentino"
         }
