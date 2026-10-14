@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T17:11:27.377Z",
-  "checkedAt": "2026-10-14T17:11:27.377Z",
+  "updatedAt": "2026-10-14T18:11:27.268Z",
+  "checkedAt": "2026-10-14T18:11:27.268Z",
   "pageSize": 18,
   "sources": [
     {
@@ -1093,7 +1093,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-14T17:11:36.158Z",
+      "createdAt": "2026-10-14T18:11:35.539Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1152,21 +1152,6 @@
           "language": "es",
           "publishedAt": "2026-10-10T21:02:03.000Z",
           "addedAt": "2026-10-10T16:11:31.771Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561-html",
-          "title": "F1: los horarios y el cronograma del GP de Estados Unidos",
-          "summary": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561.html",
-          "image": "https://media.tycsports.com/files/2026/10/06/993348/gp-de-estados-unidos_862x485.webp?v=1",
-          "body": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nFranco Colapinto. + Seguinos en Tras la victoria de Max Verstappen y el abandono de Colapinto en Singapur, la Fórmula 1 se prepara para el Gran Premio de Estados Unidos , que se desarrollará del 23 al 25 de octubre en el Circuito de las Américas. Conocé el cronograma completo .\n\nLa Fórmula 1 corrió por primera vez en el Circuito de las Américas (COTA) en 2012, en el Gran Premio de Estados Unidos, y como era de esperar, más del 100.000 espectadores llenaron el circuito y presenciaron el último triunfo de Lewis Hamilton con McLaren antes de su fichaje por Mercedes en 2013. Las curvas del COTA tienen similitudes con las de otras pistas: las 3 y 6 se parecen a la recta de alta velocidad de Silverstone o las curvas S de Suzuka, mientras que las 12 a 15 imitan la sección del estadio de Hockenheim. Por otro lado, la subida que desemboca en la ancha curva 1 siempre ofrece emocionantes adelantamientos.",
-          "language": "es",
-          "publishedAt": "2026-10-14T14:22:58.000Z",
-          "addedAt": "2026-10-11T15:11:31.629Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1291,6 +1276,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561-html",
+          "title": "F1: los horarios y el cronograma del GP de Estados Unidos",
+          "summary": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561.html",
+          "image": "https://media.tycsports.com/files/2026/10/06/993348/gp-de-estados-unidos_862x485.webp?v=1",
+          "body": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nFranco Colapinto. + Seguinos en Tras la victoria de Max Verstappen y el abandono de Colapinto en Singapur, la Fórmula 1 se prepara para el Gran Premio de Estados Unidos , que se desarrollará del 23 al 25 de octubre en el Circuito de las Américas. Conocé el cronograma completo .\n\nLa Fórmula 1 corrió por primera vez en el Circuito de las Américas (COTA) en 2012, en el Gran Premio de Estados Unidos, y como era de esperar, más del 100.000 espectadores llenaron el circuito y presenciaron el último triunfo de Lewis Hamilton con McLaren antes de su fichaje por Mercedes en 2013. Las curvas del COTA tienen similitudes con las de otras pistas: las 3 y 6 se parecen a la recta de alta velocidad de Silverstone o las curvas S de Suzuka, mientras que las 12 a 15 imitan la sección del estadio de Hockenheim. Por otro lado, la subida que desemboca en la ancha curva 1 siempre ofrece emocionantes adelantamientos.",
+          "language": "es",
+          "publishedAt": "2026-10-14T14:22:58.000Z",
+          "addedAt": "2026-10-11T15:11:31.629Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
           "title": "Por qué Colapinto larga 21° si clasificó 15° en el GP de Malasia de la F1",
           "summary": "El piloto argentino penalizó quince puestos por un cambio de motor y por una sanción previa de la carrera en Bakú.",
@@ -1369,7 +1369,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-14T17:11:36.158Z",
+      "createdAt": "2026-10-14T18:11:35.539Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
@@ -1645,7 +1645,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-14T17:11:36.158Z",
+      "createdAt": "2026-10-14T18:11:35.539Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1921,7 +1921,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-14T17:11:36.158Z",
+      "createdAt": "2026-10-14T18:11:35.539Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -2197,7 +2197,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-14T17:11:36.158Z",
+      "createdAt": "2026-10-14T18:11:35.539Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-gran-derrota-de-alpine-en-el-gp-de-singapur-id765680-html",
