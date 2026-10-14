@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T22:11:27.232Z",
-  "checkedAt": "2026-10-14T22:11:27.232Z",
+  "updatedAt": "2026-10-14T23:11:27.179Z",
+  "checkedAt": "2026-10-14T23:11:27.179Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,19 +40,19 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-tc-mouras-y-f3-metropolitana-tambien-con-actividad-en-la-plata",
-      "title": "TC Mouras y F3 Metropolitana, también con actividad en La Plata | Campeones",
-      "summary": "Las categorías vuelven al Mouras luego de su visita a Rosario y en etapas decisivas del playoff. Habrá 13 TC Mouras, 12 Pista Mouras y 27 Fórmula 3 Metropolitana.",
+      "id": "campeones-com-ar-julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana",
+      "title": "Julián Santero retorna a las Pick Up el próximo fin de semana | Campeones",
+      "summary": "El piloto mendocino es el inscripto N°14, retornando con la Ford Ranger del Magnoluz Racing desde el fin de semana.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-mouras-y-f3-metropolitana-tambien-con-actividad-en-la-plata/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/80611_big.jpg",
+      "url": "https://campeones.com.ar/julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/79254_big.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-14T20:30:42.000Z",
-      "addedAt": "2026-10-14T21:11:27.647Z",
-      "category": "general",
-      "tag": "F1"
+      "publishedAt": "2026-10-14T19:27:49.000Z",
+      "addedAt": "2026-10-14T23:11:27.988Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet",
@@ -1183,7 +1183,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-14T22:11:30.175Z",
+      "createdAt": "2026-10-14T23:11:29.439Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1441,27 +1441,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
-          "title": "Colapinto y los mensajes de odio en redes: \"No me ayudan a mí ni a mi futuro\"",
-          "summary": "El piloto argentino se expresó a través de su cuenta de Instagram. \"Sé que piensan que me están defendiendo, pero están generando lo contrario\" afirmó.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260926-F1-Colapinto-e1792008537913.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-14T20:07:37.000Z",
-          "addedAt": "2026-10-14T20:11:28.426Z",
-          "category": "argentino",
-          "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-14T22:11:30.175Z",
-      "items": [
-        {
           "id": "www-tycsports-com-automovilismo-f1-gp-malasia-colapinto-esperanza-declaraciones-qualy-15-largada-21-id764169-html",
           "title": "Colapinto, entre la resignación y la esperanza: \"Era lo que esperábamos, pero se puede remontar\"",
           "summary": "El piloto argentino terminó 15° en la clasificación para la carrera del domingo pero largará 21° por las penalizaciones que arrastra.",
@@ -1475,7 +1454,13 @@
           "addedAt": "2026-10-03T11:20:54.572Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-14T23:11:29.439Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-malasia-id763660-",
           "title": "Afectado por una nueva penalización, Colapinto terminó 19°, 22° y 9° en las prácticas libres en Malasia",
@@ -1503,21 +1488,6 @@
           "language": "es",
           "publishedAt": "2026-10-02T23:24:40.000Z",
           "addedAt": "2026-10-03T01:03:50.878Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-hadjar-exabrupto-dolor-culo-no-poder-pasar-colapinto-f1-gp-singapur-id765737-html",
-          "title": "\"Dolor en el culo\": el exabrupto de Hadjar tras no poder pasar a Colapinto en el GP de Singapur",
-          "summary": "El piloto francés quedó atrapado detrás del Alpine del argentino durante varias vueltas y no encontró la manera de atacar. La furia que trasladó a su ingeniero terminó en una frase que quedó registrada para la historia.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/hadjar-exabrupto-dolor-culo-no-poder-pasar-colapinto-f1-gp-singapur-id765737.html",
-          "image": "https://media.tycsports.com/files/2026/10/11/995155/isack-hadjar_1440x810.webp",
-          "body": "El piloto francés quedó atrapado detrás del Alpine del argentino durante varias vueltas y no encontró la manera de atacar. La furia que trasladó a su ingeniero terminó en una frase que quedó registrada para la historia.\n\n\"Dolor en el culo\": el exabrupto de Hadjar tras no poder pasar a Colapinto + Seguinos en Isack Hadjar necesitaba pasar, pero Franco Colapinto no lo dejaba. El piloto francés de Red Bull Racing fue acumulando tensión vuelta tras vuelta hasta que su bronca explotó por radio en una frase que resumió todo: “Sabía que este tipo iba a ser un dolor en el culo” . El Gran Premio de Singapur dejó ese audio como uno de los momentos más llamativos del fin de semana, y como una muestra involuntaria del nivel de la defensa del argentino al volante de su Alpine A526.\n\nLa situación se produjo cuando Colapinto defendía la 12ª posición y Hadjar quedó trabado detrás. El francés intentó encontrar por radio las claves para superar al argentino y consultó a su ingeniero sobre las opciones disponibles. “¿Cuánta potencia puedo sacar?” , preguntó. También quiso saber si podía atacar en la curva siete. La respuesta fue que podía pisar a fondo en toda la recta, o bien entre las curvas 13 y 16. La búsqueda de la trazada ideal tampoco resolvió el problema. “¿Cuál es la mejor trazada para eso?”, volvió a preguntar Hadjar. Su ingeniero respondió: “Trazada ocho” . El Alpine de Colapinto se mantenía delante .\n\nCon el paso de las vueltas, la paciencia del francés se agotó. “Madre mía. Sí, por el interior. Necesito un respiro. Madre mía”, dijo Hadjar, mientras su ingeniero le pedía que controlara la situación en ese tramo. El piloto de Red Bull no encontraba el hueco y su bronca fue en aumento hasta la frase final: “Sabía que este tipo iba a ser un dolor en el culo.”\n\nLo irónico de la hi",
-          "language": "es",
-          "publishedAt": "2026-10-11T22:48:29.000Z",
-          "addedAt": "2026-10-11T23:11:30.707Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1578,6 +1548,36 @@
           "language": "es",
           "publishedAt": "2026-10-09T00:51:54.000Z",
           "addedAt": "2026-10-09T01:11:34.322Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
+          "title": "Colapinto y los mensajes de odio en redes: \"No me ayudan a mí ni a mi futuro\"",
+          "summary": "El piloto argentino se expresó a través de su cuenta de Instagram. \"Sé que piensan que me están defendiendo, pero están generando lo contrario\" afirmó.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260926-F1-Colapinto-e1792008537913.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-14T20:07:37.000Z",
+          "addedAt": "2026-10-14T20:11:28.426Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-hadjar-exabrupto-dolor-culo-no-poder-pasar-colapinto-f1-gp-singapur-id765737-html",
+          "title": "\"Dolor en el culo\": el exabrupto de Hadjar tras no poder pasar a Colapinto en el GP de Singapur",
+          "summary": "El piloto francés quedó atrapado detrás del Alpine del argentino durante varias vueltas y no encontró la manera de atacar. La furia que trasladó a su ingeniero terminó en una frase que quedó registrada para la historia.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/hadjar-exabrupto-dolor-culo-no-poder-pasar-colapinto-f1-gp-singapur-id765737.html",
+          "image": "https://media.tycsports.com/files/2026/10/11/995155/isack-hadjar_1440x810.webp",
+          "body": "El piloto francés quedó atrapado detrás del Alpine del argentino durante varias vueltas y no encontró la manera de atacar. La furia que trasladó a su ingeniero terminó en una frase que quedó registrada para la historia.\n\n\"Dolor en el culo\": el exabrupto de Hadjar tras no poder pasar a Colapinto + Seguinos en Isack Hadjar necesitaba pasar, pero Franco Colapinto no lo dejaba. El piloto francés de Red Bull Racing fue acumulando tensión vuelta tras vuelta hasta que su bronca explotó por radio en una frase que resumió todo: “Sabía que este tipo iba a ser un dolor en el culo” . El Gran Premio de Singapur dejó ese audio como uno de los momentos más llamativos del fin de semana, y como una muestra involuntaria del nivel de la defensa del argentino al volante de su Alpine A526.\n\nLa situación se produjo cuando Colapinto defendía la 12ª posición y Hadjar quedó trabado detrás. El francés intentó encontrar por radio las claves para superar al argentino y consultó a su ingeniero sobre las opciones disponibles. “¿Cuánta potencia puedo sacar?” , preguntó. También quiso saber si podía atacar en la curva siete. La respuesta fue que podía pisar a fondo en toda la recta, o bien entre las curvas 13 y 16. La búsqueda de la trazada ideal tampoco resolvió el problema. “¿Cuál es la mejor trazada para eso?”, volvió a preguntar Hadjar. Su ingeniero respondió: “Trazada ocho” . El Alpine de Colapinto se mantenía delante .\n\nCon el paso de las vueltas, la paciencia del francés se agotó. “Madre mía. Sí, por el interior. Necesito un respiro. Madre mía”, dijo Hadjar, mientras su ingeniero le pedía que controlara la situación en ese tramo. El piloto de Red Bull no encontraba el hueco y su bronca fue en aumento hasta la frase final: “Sabía que este tipo iba a ser un dolor en el culo.”\n\nLo irónico de la hi",
+          "language": "es",
+          "publishedAt": "2026-10-11T22:48:29.000Z",
+          "addedAt": "2026-10-11T23:11:30.707Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1735,7 +1735,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-14T22:11:30.175Z",
+      "createdAt": "2026-10-14T23:11:29.439Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1826,6 +1826,21 @@
           "addedAt": "2026-10-09T23:11:31.960Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-tc-mouras-y-f3-metropolitana-tambien-con-actividad-en-la-plata",
+          "title": "TC Mouras y F3 Metropolitana, también con actividad en La Plata | Campeones",
+          "summary": "Las categorías vuelven al Mouras luego de su visita a Rosario y en etapas decisivas del playoff. Habrá 13 TC Mouras, 12 Pista Mouras y 27 Fórmula 3 Metropolitana.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-mouras-y-f3-metropolitana-tambien-con-actividad-en-la-plata/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/80611_big.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-14T20:30:42.000Z",
+          "addedAt": "2026-10-14T21:11:27.647Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
@@ -1991,7 +2006,13 @@
           "addedAt": "2026-10-09T16:11:31.196Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-14T23:11:29.439Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
           "title": "George Russell largará último en el GP de Singapur y se complica en la lucha por el título de la Fórmula 1",
@@ -2006,13 +2027,7 @@
           "addedAt": "2026-10-07T17:11:31.241Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-14T22:11:30.175Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
           "title": "Por qué se retrasó la largada del GP de Malasia de la Fórmula 1",
@@ -2085,21 +2100,6 @@
           "language": "es",
           "publishedAt": "2026-10-07T17:03:02.000Z",
           "addedAt": "2026-10-07T17:11:31.764Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-bottas-formula-1-bicicleta-gp-singapur-id764495-html",
-          "title": "Un piloto de F1 viaja de Malasia a Singapur en bicicleta",
-          "summary": "El finlandés descartó viajar en avión después de correr en Sepang y emprendió una travesía por etapas rumbo al circuito de Marina Bay, donde deberá cumplir con la actividad oficial desde el jueves.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/bottas-formula-1-bicicleta-gp-singapur-id764495.html",
-          "image": "https://media.tycsports.com/files/2026/10/05/993185/bottas-bicicleta_1440x810.webp?v=1",
-          "body": "El finlandés descartó viajar en avión después de correr en Sepang y emprendió una travesía por etapas rumbo al circuito de Marina Bay, donde deberá cumplir con la actividad oficial desde el jueves.\n\nWalter Bottas y su bicicleta, en una dura travesía para llegar a la próxima carrera. + Seguinos en Mientras buena parte del paddock eligió el avión para trasladarse hacia la próxima fecha, Valtteri Bottas tomó una decisión completamente diferente: recorrer en bicicleta los cerca de 350 kilómetros que separan Sepang de Singapur . El piloto de Cadillac inició el desafío luego del Gran Premio de Baréin disputado en Malasia.\n\nLa particular travesía comenzó el domingo por la noche y tendrá varias etapas . El objetivo del finlandés es arribar a tiempo al Marina Bay Street Circuit, donde el jueves deberá participar de los compromisos obligatorios con la prensa antes del siguiente fin de semana de Fórmula 1.\n\nLa aventura llegó después de una jornada complicada en la pista . Bottas apostó por largar con neumáticos slick sobre un asfalto que todavía presentaba condiciones difíciles, perdió el control, terminó en la grava y abandonó nueve vueltas después , situación que además provocó el ingreso del auto de seguridad.\n\nLa elección de cambiar el avión por la bicicleta generó rápidamente repercusión entre los fanáticos de la categoría. \"El hecho de que esté haciendo esto entre fines de semana de carrera reales y no solo como una maniobra publicitaria es lo más Bottas de la historia \" , escribió un usuario en una publicación compartida por Autosport.",
-          "language": "es",
-          "publishedAt": "2026-10-05T22:27:21.000Z",
-          "addedAt": "2026-10-05T23:11:31.977Z",
           "category": "general",
           "tag": "F1"
         },
@@ -2287,7 +2287,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-14T22:11:30.175Z",
+      "createdAt": "2026-10-14T23:11:29.439Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-singapur-id764617-html",
