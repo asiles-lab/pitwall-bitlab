@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T18:11:27.268Z",
-  "checkedAt": "2026-10-14T18:11:27.268Z",
+  "updatedAt": "2026-10-14T19:11:26.264Z",
+  "checkedAt": "2026-10-14T19:11:26.264Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,6 +40,21 @@
   },
   "backlog": [
     {
+      "id": "campeones-com-ar-pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec",
+      "title": "\"Pechito\" López espera por las 6 horas de Barcelona de WEC",
+      "summary": "El fin de semana se disputará la penúltima ronda del campeonato en la pista catalana, en donde el argentino conducirá el Lexus de Akkodis ASP Team.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261013-WEC-Pechito-Lopez.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-13T18:24:52.000Z",
+      "addedAt": "2026-10-14T19:11:26.926Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-los-argentinos-anotados-para-el-mundial-de-flat-track",
       "title": "Los argentinos anotados para el Mundial de Flat Track",
       "summary": "El Campeonato Mundial FIM de Flat Track llega a Totoras, Santa Fe, para definir monarcas con 28 pilotos anotados para el 24 y 25 de octubre.",
@@ -68,6 +83,21 @@
       "addedAt": "2026-10-14T09:11:28.080Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-a-la-venta-las-entradas-para-el-tc-en-rosario",
+      "title": "A la venta las entradas para el TC en Rosario",
+      "summary": "Comenzó la venta anticipada para la decimotercera presentación del año en el autódromo «Juan Manuel Fangio» los próximos 24 y 25 de octubre.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/a-la-venta-las-entradas-para-el-tc-en-rosario/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2022/08/rosario-autodromo.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-14T18:38:13.000Z",
+      "addedAt": "2026-10-14T19:11:26.628Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tc-pick-up-vuelve-a-la-plata-con-13-camionetas",
@@ -1093,7 +1123,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-14T18:11:35.539Z",
+      "createdAt": "2026-10-14T19:11:34.109Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1369,7 +1399,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-14T18:11:35.539Z",
+      "createdAt": "2026-10-14T19:11:34.109Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
@@ -1645,7 +1675,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-14T18:11:35.539Z",
+      "createdAt": "2026-10-14T19:11:34.109Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1921,7 +1951,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-14T18:11:35.539Z",
+      "createdAt": "2026-10-14T19:11:34.109Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -2197,7 +2227,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-14T18:11:35.539Z",
+      "createdAt": "2026-10-14T19:11:34.109Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-gran-derrota-de-alpine-en-el-gp-de-singapur-id765680-html",
