@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T16:11:28.015Z",
-  "checkedAt": "2026-10-14T16:11:28.015Z",
+  "updatedAt": "2026-10-14T17:11:27.377Z",
+  "checkedAt": "2026-10-14T17:11:27.377Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,6 +40,21 @@
   },
   "backlog": [
     {
+      "id": "campeones-com-ar-los-argentinos-anotados-para-el-mundial-de-flat-track",
+      "title": "Los argentinos anotados para el Mundial de Flat Track",
+      "summary": "El Campeonato Mundial FIM de Flat Track llega a Totoras, Santa Fe, para definir monarcas con 28 pilotos anotados para el 24 y 25 de octubre.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/los-argentinos-anotados-para-el-mundial-de-flat-track/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Flat-Track-Pilotos.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-13T08:00:31.000Z",
+      "addedAt": "2026-10-14T17:11:28.023Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-esta-noche-grandes-campeones-69",
       "title": "Esta noche: Grandes Campeones",
       "summary": "Martes a las 22 hs: Osvaldo «Cocho» López, Ángel Guerra, Gabriel Raies y José Luis Di Palma por El Garage TV y en simultáneo por nuestra web.",
@@ -53,6 +68,21 @@
       "addedAt": "2026-10-14T09:11:28.080Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tc-pick-up-vuelve-a-la-plata-con-13-camionetas",
+      "title": "TC Pick Up vuelve a La Plata con 13 camionetas | Campeones",
+      "summary": "La categoría se presenta en el autódromo Mouras con el TC Mouras, la Fórmula 3 Metropolitana y el Turismo 4000 Argebtino.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-pick-up-vuelve-a-la-plata-con-13-camionetas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/06/TC-PICK-UP-LA-PLATA.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-14T17:00:22.000Z",
+      "addedAt": "2026-10-14T17:11:27.829Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia",
@@ -1063,7 +1093,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-14T16:11:38.156Z",
+      "createdAt": "2026-10-14T17:11:36.158Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1339,7 +1369,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-14T16:11:38.156Z",
+      "createdAt": "2026-10-14T17:11:36.158Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
@@ -1430,6 +1460,21 @@
           "addedAt": "2026-10-09T01:11:34.322Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
+          "title": "Revista Campeones: Fain lideró un histórico 1-2 de Torino en el TC",
+          "summary": "Avanza la Copa de Oro del Turismo Carretera y se mezclan las marcas en la batalla por la corona más buscada del deporte motor argentino.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-Resvista-Fain-Chapur-Dos-Toros-Audaces.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-14T16:15:47.000Z",
+          "addedAt": "2026-10-14T17:11:27.828Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-el-balance-de-franco-colapinto-tras-su-abandono-fueron-las-peores-tres-carreras-que-tuve-en-f1",
@@ -1595,27 +1640,12 @@
           "addedAt": "2026-10-02T16:23:12.620Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
-          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
-          "summary": "Cobertura especial del GP de Singapur de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T17:00:17.000Z",
-          "addedAt": "2026-10-02T17:57:42.536Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-14T16:11:38.156Z",
+      "createdAt": "2026-10-14T17:11:36.158Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1708,21 +1738,6 @@
           "tag": "Clima"
         },
         {
-          "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
-          "title": "George Russell largará último en el GP de Singapur y se complica en la lucha por el título de la Fórmula 1",
-          "summary": "Luego de que su monoplaza quede varado a cinco vueltas del final en el GP de Malasia; el piloto británico será sancionado por un cambio en la unidad de potencia para la carrera en Singapur.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id764729.html",
-          "image": "https://media.tycsports.com/files/2026/10/07/993716/george-russell_1440x810.webp",
-          "body": "Luego de que su monoplaza quede varado a cinco vueltas del final en el GP de Malasia; el piloto británico será sancionado por un cambio en la unidad de potencia para la carrera en Singapur.\n\nGeorge Russell durante el GP de Bahrein en Malasia (Photo by Jayce Illman/Getty Images) + Seguinos en Mercedes atraviesa un presente brillante en la Fórmula 1, líder del campeonato de constructores y con Kimi Antonelli, uno de sus pilotos, en lo más alto del Mundial individual. Sin embargo, la actualidad de George Russell, el otro corredor de la escudería, presenta ciertas complicaciones: en el GP de Malasia su monoplaza quedó varado cuando marchaba tercero, a solo cinco vueltas del final; a esto se suma la penalización que afrontará para la jornada en Singapur .\n\nEl británico deberá largar desde el último puesto de la parrilla debido a un cambio en la unidad de potencia de su auto y superó el límite de componentes permitidos para modificar. Esta situación complica todavía más sus posibilidades de acercarse a su compañero en la pelea por el Campeonato de Pilotos, que marcha líder con 84 puntos de ventaja.\n\n“George tiene la dificultad añadida de una penalización por problemas en la unidad de potencia, lo que significa que saldrá desde la última posición de la parrilla el domingo, tras el problema de motor en Malasia. Es especialmente frustrante teniendo en cuenta cómo manejó el fin de semana pasado y el resultado por el que merecía luchar”, explicó Toto Wolff, director de Mercedes.\n\nEl accidente que sufrió en Malasia no fue el único traspié que atravesó el británico durante la temporada: en el GP de China una falla en el sistema eléctrico de su monoplaza durante la clasificación; en Japón tuvo problemas de energía durante la carrera y se vio perjudicado por la estrategia del safety c",
-          "language": "es",
-          "publishedAt": "2026-10-07T16:46:12.000Z",
-          "addedAt": "2026-10-07T17:11:31.241Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "campeones-com-ar-la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa",
           "title": "La Fórmula 1 confirma el acuerdo con Ruanda para regresar a África",
           "summary": "La F1 presentó un acuerdo de 10 años con Ruanda para el Gran Premio de África, pensado para principios de la década de 2030.",
@@ -1766,21 +1781,6 @@
           "addedAt": "2026-10-09T21:11:32.589Z",
           "category": "general",
           "tag": "Reglamento"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-bottas-llego-a-singapur-en-bicicleta-f1-id764731-html",
-          "title": "Un piloto de F1 cumplió su reto viral y llegó al GP de Singapur en bicicleta",
-          "summary": "Valtteri Bottas arribó este miércoles al circuito callejero de Marina Bay tras pedalear más de 400 kilómetros desde Malasia.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/bottas-llego-a-singapur-en-bicicleta-f1-id764731.html",
-          "image": "https://media.tycsports.com/files/2026/10/07/993742/botas_862x485.webp?v=1",
-          "body": "Valtteri Bottas arribó este miércoles al circuito callejero de Marina Bay tras pedalear más de 400 kilómetros desde Malasia.\n\nValtteri Bottas completó más de 400 kilómetros arriba de su bicicleta desde Malasia hasta Singapur. + Seguinos en La exótica travesía de Valtteri Bottas previa al Gran Premio de Singapur de la Fórmula 1 tuvo un final feliz. El piloto finlandés llegó este miércoles al país asiático tras recorrer en bicicleta los más de 400 kilómetros que separan Marina Bay de Sepang , sede de la última cita de la Máxima el fin de semana pasado.\n\nEl piloto de 37 años cumplió su objetivo de llegar a Singapur antes del Media Day que se desarrollará este jueves en el circuito callejero de Marina Bay. Vale la pena recordar que optó por afrontar este reto luego de la carrera en Malasia el último domingo. Mientras el resto de los pilotos se trasladaron en avión, él decidió hacerlo en su bicicleta.\n\nLo cierto es que, además de su habilidad al volante de un monoplaza de F1, Bottas también sumó experiencia en el Campeonato Mundial de Ciclismo en Grava . De hecho, su novia, Tiffany Cromwell, es una ciclista profesional australiana.\n\nImágenes captadas por Bottas durante su travesía > A través de sus redes sociales, el piloto de Cadillac fue compartiendo su travesía con sus seguidores. En las imágenes que posteó se puede apreciar que recorrió caminos de tierra, otros de asfalto y superó obstáculos difíciles como los avisos por cocodrilos. Tras tres días de aventura, completó su reto este miércoles y recibió un certificado que lo avala.",
-          "language": "es",
-          "publishedAt": "2026-10-07T17:03:02.000Z",
-          "addedAt": "2026-10-07T17:11:31.764Z",
-          "category": "general",
-          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-antonelli-puede-ser-campeon-de-la-formula-1-en-austin-que-necesita-para-asegurar-el-titu",
@@ -1886,13 +1886,22 @@
           "addedAt": "2026-10-09T16:11:31.196Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-14T16:11:38.156Z",
-      "items": [
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
+          "title": "George Russell largará último en el GP de Singapur y se complica en la lucha por el título de la Fórmula 1",
+          "summary": "Luego de que su monoplaza quede varado a cinco vueltas del final en el GP de Malasia; el piloto británico será sancionado por un cambio en la unidad de potencia para la carrera en Singapur.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id764729.html",
+          "image": "https://media.tycsports.com/files/2026/10/07/993716/george-russell_1440x810.webp",
+          "body": "Luego de que su monoplaza quede varado a cinco vueltas del final en el GP de Malasia; el piloto británico será sancionado por un cambio en la unidad de potencia para la carrera en Singapur.\n\nGeorge Russell durante el GP de Bahrein en Malasia (Photo by Jayce Illman/Getty Images) + Seguinos en Mercedes atraviesa un presente brillante en la Fórmula 1, líder del campeonato de constructores y con Kimi Antonelli, uno de sus pilotos, en lo más alto del Mundial individual. Sin embargo, la actualidad de George Russell, el otro corredor de la escudería, presenta ciertas complicaciones: en el GP de Malasia su monoplaza quedó varado cuando marchaba tercero, a solo cinco vueltas del final; a esto se suma la penalización que afrontará para la jornada en Singapur .\n\nEl británico deberá largar desde el último puesto de la parrilla debido a un cambio en la unidad de potencia de su auto y superó el límite de componentes permitidos para modificar. Esta situación complica todavía más sus posibilidades de acercarse a su compañero en la pelea por el Campeonato de Pilotos, que marcha líder con 84 puntos de ventaja.\n\n“George tiene la dificultad añadida de una penalización por problemas en la unidad de potencia, lo que significa que saldrá desde la última posición de la parrilla el domingo, tras el problema de motor en Malasia. Es especialmente frustrante teniendo en cuenta cómo manejó el fin de semana pasado y el resultado por el que merecía luchar”, explicó Toto Wolff, director de Mercedes.\n\nEl accidente que sufrió en Malasia no fue el único traspié que atravesó el británico durante la temporada: en el GP de China una falla en el sistema eléctrico de su monoplaza durante la clasificación; en Japón tuvo problemas de energía durante la carrera y se vio perjudicado por la estrategia del safety c",
+          "language": "es",
+          "publishedAt": "2026-10-07T16:46:12.000Z",
+          "addedAt": "2026-10-07T17:11:31.241Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
           "title": "Por qué se retrasó la largada del GP de Malasia de la Fórmula 1",
@@ -1907,7 +1916,13 @@
           "addedAt": "2026-10-04T08:11:31.664Z",
           "category": "general",
           "tag": "Clima"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-14T17:11:36.158Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -1954,6 +1969,21 @@
           "tag": "Reglamento"
         },
         {
+          "id": "www-tycsports-com-automovilismo-bottas-llego-a-singapur-en-bicicleta-f1-id764731-html",
+          "title": "Un piloto de F1 cumplió su reto viral y llegó al GP de Singapur en bicicleta",
+          "summary": "Valtteri Bottas arribó este miércoles al circuito callejero de Marina Bay tras pedalear más de 400 kilómetros desde Malasia.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/bottas-llego-a-singapur-en-bicicleta-f1-id764731.html",
+          "image": "https://media.tycsports.com/files/2026/10/07/993742/botas_862x485.webp?v=1",
+          "body": "Valtteri Bottas arribó este miércoles al circuito callejero de Marina Bay tras pedalear más de 400 kilómetros desde Malasia.\n\nValtteri Bottas completó más de 400 kilómetros arriba de su bicicleta desde Malasia hasta Singapur. + Seguinos en La exótica travesía de Valtteri Bottas previa al Gran Premio de Singapur de la Fórmula 1 tuvo un final feliz. El piloto finlandés llegó este miércoles al país asiático tras recorrer en bicicleta los más de 400 kilómetros que separan Marina Bay de Sepang , sede de la última cita de la Máxima el fin de semana pasado.\n\nEl piloto de 37 años cumplió su objetivo de llegar a Singapur antes del Media Day que se desarrollará este jueves en el circuito callejero de Marina Bay. Vale la pena recordar que optó por afrontar este reto luego de la carrera en Malasia el último domingo. Mientras el resto de los pilotos se trasladaron en avión, él decidió hacerlo en su bicicleta.\n\nLo cierto es que, además de su habilidad al volante de un monoplaza de F1, Bottas también sumó experiencia en el Campeonato Mundial de Ciclismo en Grava . De hecho, su novia, Tiffany Cromwell, es una ciclista profesional australiana.\n\nImágenes captadas por Bottas durante su travesía > A través de sus redes sociales, el piloto de Cadillac fue compartiendo su travesía con sus seguidores. En las imágenes que posteó se puede apreciar que recorrió caminos de tierra, otros de asfalto y superó obstáculos difíciles como los avisos por cocodrilos. Tras tres días de aventura, completó su reto este miércoles y recibió un certificado que lo avala.",
+          "language": "es",
+          "publishedAt": "2026-10-07T17:03:02.000Z",
+          "addedAt": "2026-10-07T17:11:31.764Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-bottas-formula-1-bicicleta-gp-singapur-id764495-html",
           "title": "Un piloto de F1 viaja de Malasia a Singapur en bicicleta",
           "summary": "El finlandés descartó viajar en avión después de correr en Sepang y emprendió una travesía por etapas rumbo al circuito de Marina Bay, donde deberá cumplir con la actividad oficial desde el jueves.",
@@ -1982,6 +2012,21 @@
           "addedAt": "2026-10-08T20:11:09.979Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
+          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
+          "summary": "Cobertura especial del GP de Singapur de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T17:00:17.000Z",
+          "addedAt": "2026-10-02T17:57:42.536Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255-html",
@@ -2147,7 +2192,13 @@
           "addedAt": "2026-10-10T16:11:32.512Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-14T17:11:36.158Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-gran-derrota-de-alpine-en-el-gp-de-singapur-id765680-html",
           "title": "La gran derrota de Alpine en el GP de Singapur",
@@ -2162,13 +2213,7 @@
           "addedAt": "2026-10-11T15:11:31.271Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-14T16:11:38.156Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
@@ -2423,21 +2468,6 @@
           "addedAt": "2026-10-13T14:11:31.643Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec",
-          "title": "\"Pechito\" López espera por las 6 horas de Barcelona de WEC",
-          "summary": "El fin de semana se disputará la penúltima ronda del campeonato en la pista catalana, en donde el argentino conducirá el Lexus de Akkodis ASP Team.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261013-WEC-Pechito-Lopez.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-13T18:24:52.000Z",
-          "addedAt": "2026-10-13T19:11:31.213Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     }
