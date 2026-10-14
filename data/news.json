@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T06:11:27.192Z",
-  "checkedAt": "2026-10-14T06:11:27.192Z",
+  "updatedAt": "2026-10-14T07:11:27.754Z",
+  "checkedAt": "2026-10-14T07:11:27.754Z",
   "pageSize": 18,
   "sources": [
     {
@@ -1063,7 +1063,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-14T06:11:30.473Z",
+      "createdAt": "2026-10-14T07:11:30.427Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1339,7 +1339,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-14T06:11:30.473Z",
+      "createdAt": "2026-10-14T07:11:30.427Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-hadjar-exabrupto-dolor-culo-no-poder-pasar-colapinto-f1-gp-singapur-id765737-html",
@@ -1615,7 +1615,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-14T06:11:30.473Z",
+      "createdAt": "2026-10-14T07:11:30.427Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1891,7 +1891,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-14T06:11:30.473Z",
+      "createdAt": "2026-10-14T07:11:30.427Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -2167,7 +2167,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-14T06:11:30.473Z",
+      "createdAt": "2026-10-14T07:11:30.427Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
@@ -2410,21 +2410,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec",
-          "title": "\"Pechito\" López espera por las 6 horas de Barcelona de WEC",
-          "summary": "El fin de semana se disputará la penúltima ronda del campeonato en la pista catalana, en donde el argentino conducirá el Lexus de Akkodis ASP Team.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261013-WEC-Pechito-Lopez.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-13T18:24:52.000Z",
-          "addedAt": "2026-10-13T19:11:31.213Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
           "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
           "summary": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.",
@@ -2438,6 +2423,21 @@
           "addedAt": "2026-10-07T01:11:30.601Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec",
+          "title": "\"Pechito\" López espera por las 6 horas de Barcelona de WEC",
+          "summary": "El fin de semana se disputará la penúltima ronda del campeonato en la pista catalana, en donde el argentino conducirá el Lexus de Akkodis ASP Team.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261013-WEC-Pechito-Lopez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-13T18:24:52.000Z",
+          "addedAt": "2026-10-13T19:11:31.213Z",
+          "category": "argentino",
+          "tag": "Argentino"
         }
       ]
     }
