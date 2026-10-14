@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T15:11:27.200Z",
-  "checkedAt": "2026-10-14T15:11:27.200Z",
+  "updatedAt": "2026-10-14T16:11:28.015Z",
+  "checkedAt": "2026-10-14T16:11:28.015Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-los-argentinos-anotados-para-el-mundial-de-flat-track",
-      "title": "Los argentinos anotados para el Mundial de Flat Track",
-      "summary": "El Campeonato Mundial FIM de Flat Track llega a Totoras, Santa Fe, para definir monarcas con 28 pilotos anotados para el 24 y 25 de octubre.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/los-argentinos-anotados-para-el-mundial-de-flat-track/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Flat-Track-Pilotos.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-13T08:00:31.000Z",
-      "addedAt": "2026-10-14T15:11:27.570Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-esta-noche-grandes-campeones-69",
       "title": "Esta noche: Grandes Campeones",
@@ -1078,7 +1063,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-14T15:11:29.844Z",
+      "createdAt": "2026-10-14T16:11:38.156Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1354,7 +1339,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-14T15:11:29.844Z",
+      "createdAt": "2026-10-14T16:11:38.156Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
@@ -1630,7 +1615,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-14T15:11:29.844Z",
+      "createdAt": "2026-10-14T16:11:38.156Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1738,6 +1723,21 @@
           "tag": "Carrera"
         },
         {
+          "id": "campeones-com-ar-la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa",
+          "title": "La Fórmula 1 confirma el acuerdo con Ruanda para regresar a África",
+          "summary": "La F1 presentó un acuerdo de 10 años con Ruanda para el Gran Premio de África, pensado para principios de la década de 2030.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-Ruanda-Tilke-Diseno.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-13T19:55:59.000Z",
+          "addedAt": "2026-10-13T13:11:30.576Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-formula-1-africa-ruanda-id765901-html",
           "title": "La Fórmula 1 confirmó que vuelve a África: dónde se correrá y desde cuándo",
           "summary": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.",
@@ -1749,21 +1749,6 @@
           "language": "es",
           "publishedAt": "2026-10-13T12:41:41.000Z",
           "addedAt": "2026-10-13T11:11:35.290Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-antonelli-puede-ser-campeon-de-la-formula-1-en-austin-que-necesita-para-asegurar-el-titu",
-          "title": "Antonelli puede ser campeón de la Fórmula 1 en Austin: qué necesita para asegurar el título",
-          "summary": "El piloto italiano terminó 3° en el GP de Singapur y estiró su liderazgo con 340 puntos y aventaja por 102 a su compañero de equipo, George Russell",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/antonelli-puede-ser-campeon-de-la-formula-1-en-austin-que-necesita-para-asegurar-el-titulo-id765681.html",
-          "image": "https://media.tycsports.com/files/2026/10/11/995002/antonelli-_862x485.webp?v=1",
-          "body": "El piloto italiano terminó 3° en el GP de Singapur y estiró su liderazgo con 340 puntos y aventaja por 102 a su compañero de equipo, George Russell\n\nAntonelli podría convertirse en el piloto campeón más joven en la Fórmula 1 + Seguinos en Kimi Antonelli quedó cerca de consagrarse campeón de la Fórmula 1 y podría asegurar el título en el Gran Premio de Austin. El italiano, que terminó tercero en Singapur detrás de Max Verstappen y Charles Leclerc, amplió su ventaja sobre George Russell y depende de una combinación de resultados para sellar la consagración.\n\nEl piloto de Mercedes suma 340 puntos y aventaja por 102 a su compañero de equipo, que ocupa el segundo lugar con 238 unidades. Con 150 puntos todavía en juego en el campeonato, Antonelli tendrá la primera oportunidad de cerrar la pelea en la próxima fecha, siempre que consiga ampliar la diferencia hasta los 125 puntos.\n\nPara lograrlo en Austin, el italiano deberá ganar la carrera y esperar que Russell termine décimo o peor. Si se da esa combinación, la diferencia entre ambos llegará a 126 puntos, con solo 125 en disputa después de esa fecha en las seis próximas carreras. También deberá tener en cuenta a Lewis Hamilton y Max Verstappen. El británico está a 111 puntos del líder y necesitará terminar quinto o peor para que el italiano pueda asegurarse el campeonato , siempre que se cumpla el resto de las condiciones necesarias.\n\nMás allá de la posibilidad de coronarse en la próxima fecha, Antonelli también está cerca de convertirse en el campeón más joven de la historia de la categoría. Actualmente, ese registro pertenece a Sebastian Vettel, quien obtuvo su primer título en 2010 con 23 años y 134 días.",
-          "language": "es",
-          "publishedAt": "2026-10-11T15:18:59.000Z",
-          "addedAt": "2026-10-11T16:11:31.178Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1798,17 +1783,17 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa",
-          "title": "La Fórmula 1 confirma el acuerdo con Ruanda para regresar a África",
-          "summary": "La F1 presentó un acuerdo de 10 años con Ruanda para el Gran Premio de África, pensado para principios de la década de 2030.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-Ruanda-Tilke-Diseno.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-antonelli-puede-ser-campeon-de-la-formula-1-en-austin-que-necesita-para-asegurar-el-titu",
+          "title": "Antonelli puede ser campeón de la Fórmula 1 en Austin: qué necesita para asegurar el título",
+          "summary": "El piloto italiano terminó 3° en el GP de Singapur y estiró su liderazgo con 340 puntos y aventaja por 102 a su compañero de equipo, George Russell",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/antonelli-puede-ser-campeon-de-la-formula-1-en-austin-que-necesita-para-asegurar-el-titulo-id765681.html",
+          "image": "https://media.tycsports.com/files/2026/10/11/995002/antonelli-_862x485.webp?v=1",
+          "body": "El piloto italiano terminó 3° en el GP de Singapur y estiró su liderazgo con 340 puntos y aventaja por 102 a su compañero de equipo, George Russell\n\nAntonelli podría convertirse en el piloto campeón más joven en la Fórmula 1 + Seguinos en Kimi Antonelli quedó cerca de consagrarse campeón de la Fórmula 1 y podría asegurar el título en el Gran Premio de Austin. El italiano, que terminó tercero en Singapur detrás de Max Verstappen y Charles Leclerc, amplió su ventaja sobre George Russell y depende de una combinación de resultados para sellar la consagración.\n\nEl piloto de Mercedes suma 340 puntos y aventaja por 102 a su compañero de equipo, que ocupa el segundo lugar con 238 unidades. Con 150 puntos todavía en juego en el campeonato, Antonelli tendrá la primera oportunidad de cerrar la pelea en la próxima fecha, siempre que consiga ampliar la diferencia hasta los 125 puntos.\n\nPara lograrlo en Austin, el italiano deberá ganar la carrera y esperar que Russell termine décimo o peor. Si se da esa combinación, la diferencia entre ambos llegará a 126 puntos, con solo 125 en disputa después de esa fecha en las seis próximas carreras. También deberá tener en cuenta a Lewis Hamilton y Max Verstappen. El británico está a 111 puntos del líder y necesitará terminar quinto o peor para que el italiano pueda asegurarse el campeonato , siempre que se cumpla el resto de las condiciones necesarias.\n\nMás allá de la posibilidad de coronarse en la próxima fecha, Antonelli también está cerca de convertirse en el campeón más joven de la historia de la categoría. Actualmente, ese registro pertenece a Sebastian Vettel, quien obtuvo su primer título en 2010 con 23 años y 134 días.",
           "language": "es",
-          "publishedAt": "2026-10-13T12:55:59.000Z",
-          "addedAt": "2026-10-13T13:11:30.576Z",
+          "publishedAt": "2026-10-11T15:18:59.000Z",
+          "addedAt": "2026-10-11T16:11:31.178Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1906,7 +1891,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-14T15:11:29.844Z",
+      "createdAt": "2026-10-14T16:11:38.156Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -2182,7 +2167,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-14T15:11:29.844Z",
+      "createdAt": "2026-10-14T16:11:38.156Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
