@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T12:11:28.223Z",
-  "checkedAt": "2026-10-14T12:11:28.223Z",
+  "updatedAt": "2026-10-14T13:11:28.021Z",
+  "checkedAt": "2026-10-14T13:11:28.021Z",
   "pageSize": 18,
   "sources": [
     {
@@ -415,21 +415,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf",
-      "title": "Habilitación a probar en el TC y más, en un nuevo comunicado de la CAF | Campeones",
-      "summary": "Nicolás Impiombato podrá ensayar por vía de excepción en el autódromo Roberto Mouras de La Plata.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/4e81ef9a-855b-465c-9e72-7364f42b8bc0.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-07T12:36:24.000Z",
-      "addedAt": "2026-10-09T00:11:31.387Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
       "title": "TCR: Dominio de Hyundai y Girolami en Posadas antes de la clasificación",
       "summary": "El de Isla Verde se llevó el segundo entrenamiento, el más veloz de los dos que albergó el Rosamonte. Joaquín Cafaro lideró la primera salida a pista.",
@@ -683,6 +668,21 @@
       "addedAt": "2026-10-04T01:11:31.647Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf",
+      "title": "Habilitación a probar en el TC y más, en un nuevo comunicado de la CAF | Campeones",
+      "summary": "Nicolás Impiombato podrá ensayar por vía de excepción en el autódromo Roberto Mouras de La Plata.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/habilitacion-a-probar-en-el-tc-y-mas-en-un-nuevo-comunicado-de-la-caf/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/4e81ef9a-855b-465c-9e72-7364f42b8bc0.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-07T12:36:24.000Z",
+      "addedAt": "2026-10-09T00:11:31.387Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-wec-mike-conway-anuncio-su-retiro-de-las-pistas",
@@ -1063,7 +1063,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-14T12:11:30.377Z",
+      "createdAt": "2026-10-14T13:11:31.274Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1339,7 +1339,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-14T12:11:30.377Z",
+      "createdAt": "2026-10-14T13:11:31.274Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-hadjar-exabrupto-dolor-culo-no-poder-pasar-colapinto-f1-gp-singapur-id765737-html",
@@ -1552,21 +1552,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur",
-          "title": "Otra falla en el Alpine le impidió terminar a Colapinto en Singapur",
-          "summary": "Antes de cumplirse la mitad de carrera, el argentino debió abandonar por un inconveniente técnico en el A526. Verstappen consiguió ganar en este trazado por primera vez.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261011-F1-Colapinto-Alpine-Singapur.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-11T13:07:54.000Z",
-          "addedAt": "2026-10-11T13:11:26.435Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-f1-colapinto-abandono-en-el-inicio-de-la-carrera-sprint-de-singapur",
           "title": "F1: Colapinto abandonó en el inicio de la carrera Sprint de Singapur y Verstappen ganó otra vez",
           "summary": "Tras una espera de media hora se desarrolló la competencia en el circuito callejero de Marina Bay, en donde el argentino solo pudo dar dos giros. En tanto, el neerlandés consiguió imponerse con el Red Bull.",
@@ -1610,12 +1595,27 @@
           "addedAt": "2026-10-02T16:23:12.620Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
+          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
+          "summary": "Cobertura especial del GP de Singapur de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T17:00:17.000Z",
+          "addedAt": "2026-10-02T17:57:42.536Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-14T12:11:30.377Z",
+      "createdAt": "2026-10-14T13:11:31.274Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1678,21 +1678,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "www-tycsports-com-automovilismo-formula-1-africa-ruanda-id765901-html",
-          "title": "La Fórmula 1 confirmó que vuelve a África: dónde se correrá y desde cuándo",
-          "summary": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-africa-ruanda--id765901.html",
-          "image": "https://media.tycsports.com/files/2026/10/13/995490/circuito-de-kigali_1440x810.webp",
-          "body": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.\n\nEl nuevo circuito de Kigali, en Ruanda, albergará la Fórmula 1 por, al menos, diez años. + Seguinos en La Fórmula 1 confirmó este martes su regreso a África apartir de 2030, pero sin fecha exacta. De esta manera, Ruanda será sede de un Gran Premio durante, al menos, diez temporadas. La última carrera del Mundial en ese continente se disputó en 1993, cuando Alain Prost se impuso en Sudáfrica con Williams-Renault.\n\nEl escenario elegido será un circuito completamente nuevo en Bugesera, una localidad situada a unos 40 kilómetros de Kigali, la capital del país . El trazado estará junto al futuro aeropuerto internacional y formará parte de un ambicioso proyecto que combinará deporte, turismo y desarrollo comercial. Por ahora, no se informó la fecha de la primera competencia. La llegada de la Máxima permitirá que el campeonato tenga presencia en todos los continentes habitados . Stefano Domenicali, presidente y director ejecutivo de la categoría, destacó el alcance de la iniciativa : “Con Ruanda incorporándose al calendario desde la próxima década, nuestro deporte competirá en todos los continentes habitados y acercará el Campeonato Mundial más que nunca a los aficionados de todo el mundo ” .\n\nMás allá de la actividad en pista, el complejo estará preparado para funcionar durante todo el año. Sus instalaciones podrán albergar otras competencias internacionales, conferencias y espectáculos. Además, las autoridades locales esperan que la inversión genere puestos de trabajo, capacitación profesional y nuevas oportunidades económicas.\n\nEn ese sentido, el presidente ruandés, Paul Kagame, remarcó que el ",
-          "language": "es",
-          "publishedAt": "2026-10-13T12:41:41.000Z",
-          "addedAt": "2026-10-13T11:11:35.290Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
           "title": "Lewis Hamilton señaló a los pilotos jóvenes de la Fórmula 1: ¿le tienen miedo a la lluvia?",
           "summary": "El británico lamentó que \"las carreras en mojado ya no son lo mismo de antes\" y lo atribuyó en parte al respeto de los nuevos protagonistas a conducir en condiciones extremas. \"Prefieren no correr\", los liquidó.",
@@ -1723,17 +1708,17 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa",
-          "title": "La Fórmula 1 confirma el acuerdo con Ruanda para regresar a África",
-          "summary": "La F1 presentó un acuerdo de 10 años con Ruanda para el Gran Premio de África, pensado para principios de la década de 2030.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-Ruanda-Tilke-Diseno.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-formula-1-africa-ruanda-id765901-html",
+          "title": "La Fórmula 1 confirmó que vuelve a África: dónde se correrá y desde cuándo",
+          "summary": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-africa-ruanda--id765901.html",
+          "image": "https://media.tycsports.com/files/2026/10/13/995490/circuito-de-kigali_1440x810.webp",
+          "body": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.\n\nEl nuevo circuito de Kigali, en Ruanda, albergará la Fórmula 1 por, al menos, diez años. + Seguinos en La Fórmula 1 confirmó este martes su regreso a África apartir de 2030, pero sin fecha exacta. De esta manera, Ruanda será sede de un Gran Premio durante, al menos, diez temporadas. La última carrera del Mundial en ese continente se disputó en 1993, cuando Alain Prost se impuso en Sudáfrica con Williams-Renault.\n\nEl escenario elegido será un circuito completamente nuevo en Bugesera, una localidad situada a unos 40 kilómetros de Kigali, la capital del país . El trazado estará junto al futuro aeropuerto internacional y formará parte de un ambicioso proyecto que combinará deporte, turismo y desarrollo comercial. Por ahora, no se informó la fecha de la primera competencia. La llegada de la Máxima permitirá que el campeonato tenga presencia en todos los continentes habitados . Stefano Domenicali, presidente y director ejecutivo de la categoría, destacó el alcance de la iniciativa : “Con Ruanda incorporándose al calendario desde la próxima década, nuestro deporte competirá en todos los continentes habitados y acercará el Campeonato Mundial más que nunca a los aficionados de todo el mundo ” .\n\nMás allá de la actividad en pista, el complejo estará preparado para funcionar durante todo el año. Sus instalaciones podrán albergar otras competencias internacionales, conferencias y espectáculos. Además, las autoridades locales esperan que la inversión genere puestos de trabajo, capacitación profesional y nuevas oportunidades económicas.\n\nEn ese sentido, el presidente ruandés, Paul Kagame, remarcó que el ",
           "language": "es",
-          "publishedAt": "2026-10-13T12:55:59.000Z",
-          "addedAt": "2026-10-13T13:11:30.576Z",
+          "publishedAt": "2026-10-13T12:41:41.000Z",
+          "addedAt": "2026-10-13T11:11:35.290Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1779,6 +1764,21 @@
           "language": "es",
           "publishedAt": "2026-10-07T17:03:02.000Z",
           "addedAt": "2026-10-07T17:11:31.764Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa",
+          "title": "La Fórmula 1 confirma el acuerdo con Ruanda para regresar a África",
+          "summary": "La F1 presentó un acuerdo de 10 años con Ruanda para el Gran Premio de África, pensado para principios de la década de 2030.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-Ruanda-Tilke-Diseno.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-13T12:55:59.000Z",
+          "addedAt": "2026-10-13T13:11:30.576Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1891,7 +1891,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-14T12:11:30.377Z",
+      "createdAt": "2026-10-14T13:11:31.274Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -1984,21 +1984,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
-          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
-          "summary": "Cobertura especial del GP de Singapur de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T17:00:17.000Z",
-          "addedAt": "2026-10-02T17:57:42.536Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255-html",
           "title": "Cómo quedó la grilla para el Sprint del Gran Premio de Singapur de la F1",
           "summary": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.",
@@ -2012,6 +1997,21 @@
           "addedAt": "2026-10-09T17:11:32.303Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur",
+          "title": "Otra falla en el Alpine le impidió terminar a Colapinto en Singapur",
+          "summary": "Antes de cumplirse la mitad de carrera, el argentino debió abandonar por un inconveniente técnico en el A526. Verstappen consiguió ganar en este trazado por primera vez.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261011-F1-Colapinto-Alpine-Singapur.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-11T13:07:54.000Z",
+          "addedAt": "2026-10-11T13:11:26.435Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint",
@@ -2167,7 +2167,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-14T12:11:30.377Z",
+      "createdAt": "2026-10-14T13:11:31.274Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
@@ -2198,21 +2198,6 @@
           "addedAt": "2026-10-03T09:12:02.953Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
-          "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
-          "summary": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/canapino-maniobra-viral-tn-id766078.html",
-          "image": "https://media.tycsports.com/files/2026/10/13/995713/foto_1440x810.webp?v=1",
-          "body": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.\n\nLa cámara on board de Canapino y su sobresaliente maniobra + Seguinos en La extraordinaria maniobra de Agustín Canapino, en la que pasó a tres autos en la última vuelta, sigue dando que hablar. El piloto de 36 años posteó un video en su cuenta de Instagram con la cámara a bordo de su destacada acción , que le permitió quedarse con la victoria en la segunda serie de la Clase 3 del Turismo Nacional en el Autódromo Ciudad de San Martín, en Mendoza, el último domingo.\n\n“¡La maniobra desde adentro! Aplausos para Facu Chapur, Jorge Barrio y Facu Marques por poner todo y el nivel conductivo. La calidad del automovilismo argentino reflejada en su máxima expresión”, fue el mensaje del oriundo de Arrecifes que acompañó las imágenes desde el interior de su Chevrolet Cruze.\n\nLa publicación rápidamente se viralizó en redes sociales y ya cuenta con más de 75.000 me gusta y alrededor de 1500 comentarios. Entre tantas reacciones, se destaca la de Ale Martínez, el hermano del Dibu, quien respondió: “Qué locura”. No solo eso, sino que las imágenes alcanzaron repercusión internacional y diversos medios sudamericanos, europeos y asiáticos se rindieron ante la habilidad de Canapino al volante.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur Lo cierto es que la secuencia no tiene desperdicio. En la última vuelta de la carrera en Mendoza, Jorge Barrio y Facundo Chapur venían compitiendo cabeza a cabeza por el primer lugar, con Facundo Marques en el tercero y Canapino detrás de ellos.",
-          "language": "es",
-          "publishedAt": "2026-10-14T00:47:43.000Z",
-          "addedAt": "2026-10-14T01:11:34.744Z",
-          "category": "argentino",
-          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1",
@@ -2408,6 +2393,21 @@
           "addedAt": "2026-10-10T12:11:35.528Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
+          "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
+          "summary": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/canapino-maniobra-viral-tn-id766078.html",
+          "image": "https://media.tycsports.com/files/2026/10/13/995713/foto_1440x810.webp?v=1",
+          "body": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.\n\nLa cámara on board de Canapino y su sobresaliente maniobra + Seguinos en La extraordinaria maniobra de Agustín Canapino, en la que pasó a tres autos en la última vuelta, sigue dando que hablar. El piloto de 36 años posteó un video en su cuenta de Instagram con la cámara a bordo de su destacada acción , que le permitió quedarse con la victoria en la segunda serie de la Clase 3 del Turismo Nacional en el Autódromo Ciudad de San Martín, en Mendoza, el último domingo.\n\n“¡La maniobra desde adentro! Aplausos para Facu Chapur, Jorge Barrio y Facu Marques por poner todo y el nivel conductivo. La calidad del automovilismo argentino reflejada en su máxima expresión”, fue el mensaje del oriundo de Arrecifes que acompañó las imágenes desde el interior de su Chevrolet Cruze.\n\nLa publicación rápidamente se viralizó en redes sociales y ya cuenta con más de 75.000 me gusta y alrededor de 1500 comentarios. Entre tantas reacciones, se destaca la de Ale Martínez, el hermano del Dibu, quien respondió: “Qué locura”. No solo eso, sino que las imágenes alcanzaron repercusión internacional y diversos medios sudamericanos, europeos y asiáticos se rindieron ante la habilidad de Canapino al volante.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur Lo cierto es que la secuencia no tiene desperdicio. En la última vuelta de la carrera en Mendoza, Jorge Barrio y Facundo Chapur venían compitiendo cabeza a cabeza por el primer lugar, con Facundo Marques en el tercero y Canapino detrás de ellos.",
+          "language": "es",
+          "publishedAt": "2026-10-14T00:47:43.000Z",
+          "addedAt": "2026-10-14T01:11:34.744Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
