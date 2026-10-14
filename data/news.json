@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T13:11:28.021Z",
-  "checkedAt": "2026-10-14T13:11:28.021Z",
+  "updatedAt": "2026-10-14T14:11:28.845Z",
+  "checkedAt": "2026-10-14T14:11:28.845Z",
   "pageSize": 18,
   "sources": [
     {
@@ -156,21 +156,6 @@
       "language": "es",
       "publishedAt": "2026-10-08T16:06:58.000Z",
       "addedAt": "2026-10-09T16:11:31.535Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido",
-      "title": "La largada entre Chapur y Santero: \"Recibí toques en un curvón rápido\"",
-      "summary": "El cordobés dijo que no le gustó la largada de la Serie de TC porque la ACTC se caracteriza por permitir maniobras \"y yo no pude doblar\".",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-Chapur-TC-San-Nicolas.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-07T14:00:38.000Z",
-      "addedAt": "2026-10-09T14:11:40.800Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -413,6 +398,21 @@
       "addedAt": "2026-10-09T20:11:31.866Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido",
+      "title": "La largada entre Chapur y Santero: \"Recibí toques en un curvón rápido\"",
+      "summary": "El cordobés dijo que no le gustó la largada de la Serie de TC porque la ACTC se caracteriza por permitir maniobras \"y yo no pude doblar\".",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-Chapur-TC-San-Nicolas.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-07T14:00:38.000Z",
+      "addedAt": "2026-10-09T14:11:40.800Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-tcr-dominio-de-hyundai-y-girolami-en-posadas-antes-de-la-clasificacion",
@@ -1063,7 +1063,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-14T13:11:31.274Z",
+      "createdAt": "2026-10-14T14:11:31.183Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1156,21 +1156,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-por-que-abandono-colapinto-en-el-gp-de-singapur-id765671-html",
-          "title": "Por qué abandonó Colapinto en el GP de Singapur",
-          "summary": "El piloto argentino sufrió complicaciones con su Alpine y se retiró de la carrera en la vuelta 31. Ya había abandonado en la Sprint por una falla técnica el día anterior.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/por-que-abandono-colapinto-en-el-gp-de-singapur-id765671.html",
-          "image": "https://media.tycsports.com/files/2026/10/11/994979/franco-colapinto_862x485.webp",
-          "body": "El piloto argentino sufrió complicaciones con su Alpine y se retiró de la carrera en la vuelta 31. Ya había abandonado en la Sprint por una falla técnica el día anterior.\n\nFranco Colapinto abandonó en la vuelta 31 del GP de Singapur. + Seguinos en Franco Colapinto, piloto argentino de Alpine, abandonó en el GP de Singapur de la Fórmula 1. Es la segunda vez en la temporada en la que no termina una carrera: la anterior fue en Azerbaiyán, cuando chocó con su compañero Pierre Gasly.\n\nEl pilarense, quien había largado 15°, marchaba 14° hasta la vuelta 31, cuando su monoplaza sufrió complicaciones. El auto directamente se quedó parado y tuvo que abandonar.\n\n\"Algo anda mal ahí. Apagá el auto. Perdón por eso, amigo\" , expresó Stuart Barlow, su ingeniero de pista, en diálogo con el piloto argentino en radio. \"Franco se ha retirado con un problema sospechado en la línea de transmisión. Tendremos que esperar el regreso del coche para investigar completamente la causa\", expresaron desde la escudería en un comunicado.\n\nFranco Colapinto ya había sufrido con su vehículo a lo largo del fin de semana: el sábado abandonó en la Sprint por \"un problema en el sistema de almacenamiento de energía\", en el cuarto giro, mientras la carrera estaba bajo Safety Car.",
-          "language": "es",
-          "publishedAt": "2026-10-11T13:30:38.000Z",
-          "addedAt": "2026-10-11T13:11:26.951Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-singapur-id764676-",
           "title": "F1: Colapinto largará 15° y Verstappen será el poleman en el GP de Singapur",
           "summary": "El piloto argentino no logró meterse entre los 10 mejores de la clasificación y ya conoce su posición para la carrera de este domingo.",
@@ -1182,6 +1167,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T15:23:11.000Z",
           "addedAt": "2026-10-10T19:11:31.928Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-por-que-abandono-colapinto-en-el-gp-de-singapur-id765671-html",
+          "title": "Por qué abandonó Colapinto en el GP de Singapur",
+          "summary": "El piloto argentino sufrió complicaciones con su Alpine y se retiró de la carrera en la vuelta 31. Ya había abandonado en la Sprint por una falla técnica el día anterior.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/por-que-abandono-colapinto-en-el-gp-de-singapur-id765671.html",
+          "image": "https://media.tycsports.com/files/2026/10/11/994979/franco-colapinto_862x485.webp",
+          "body": "El piloto argentino sufrió complicaciones con su Alpine y se retiró de la carrera en la vuelta 31. Ya había abandonado en la Sprint por una falla técnica el día anterior.\n\nFranco Colapinto abandonó en la vuelta 31 del GP de Singapur. + Seguinos en Franco Colapinto, piloto argentino de Alpine, abandonó en el GP de Singapur de la Fórmula 1. Es la segunda vez en la temporada en la que no termina una carrera: la anterior fue en Azerbaiyán, cuando chocó con su compañero Pierre Gasly.\n\nEl pilarense, quien había largado 15°, marchaba 14° hasta la vuelta 31, cuando su monoplaza sufrió complicaciones. El auto directamente se quedó parado y tuvo que abandonar.\n\n\"Algo anda mal ahí. Apagá el auto. Perdón por eso, amigo\" , expresó Stuart Barlow, su ingeniero de pista, en diálogo con el piloto argentino en radio. \"Franco se ha retirado con un problema sospechado en la línea de transmisión. Tendremos que esperar el regreso del coche para investigar completamente la causa\", expresaron desde la escudería en un comunicado.\n\nFranco Colapinto ya había sufrido con su vehículo a lo largo del fin de semana: el sábado abandonó en la Sprint por \"un problema en el sistema de almacenamiento de energía\", en el cuarto giro, mientras la carrera estaba bajo Safety Car.",
+          "language": "es",
+          "publishedAt": "2026-10-11T13:30:38.000Z",
+          "addedAt": "2026-10-11T13:11:26.951Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1339,7 +1339,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-14T13:11:31.274Z",
+      "createdAt": "2026-10-14T14:11:31.183Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-hadjar-exabrupto-dolor-culo-no-poder-pasar-colapinto-f1-gp-singapur-id765737-html",
@@ -1368,36 +1368,6 @@
           "language": "es",
           "publishedAt": "2026-10-11T14:45:46.000Z",
           "addedAt": "2026-10-10T16:11:31.653Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-volvio-a-verse-con-fantasmas-del-pasado-op-id765677-html",
-          "title": "Colapinto volvió a verse con fantasmas del pasado",
-          "summary": "Uno de los peores fines de semana para el argentino en la Fórmula 1: doble abandono en Singapur por fallas en el Alpine.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-volvio-a-verse-con-fantasmas-del-pasado-op-id765677.html",
-          "image": "https://media.tycsports.com/files/2026/10/11/994989/colapinto_1440x810.webp?v=2",
-          "body": "Uno de los peores fines de semana para el argentino en la Fórmula 1: doble abandono en Singapur por fallas en el Alpine.\n\nFin de semana de terror para Colapinto: doble abandono en Singapur. (Alpine) + Seguinos en Otra vez no tuvo la culpa, pero el Alpine lo dejó a pie dos veces y Franco Colapinto se fue del Gran Premio de Singapur con un doble abandono que, en resultados, se traduce a uno de sus peores fines de semana desde que corre en la Fórmula 1.\n\nEl paso del argentino por el callejero nocturno fue una pesadilla . Además de que estuvo lejos de su compañero Pierre Gasly e incómodo en ambas clasificaciones, el sábado se quedó tirado en el Sprint por un problema eléctrico, luego le pegó a la pared en busca de los límites en la Q2 y el domingo le falló la transmisión.\n\nLos problemas de confiabilidad son inéditos este año , para el que Alpine adoptó a Mercedes como proveedor de motor y caja. Hay que remontarse hasta 2025 para la desesperante falla que no le permitió ni siquiera largar en Silverstone.\n\nAl margen, Colapinto no había logrado sentirse cómodo con el A526 en un circuito tan rico en infraestructura como pobre para el espectáculo, sin lugares que beneficien los sobrepasos, ni siquiera los artificiales que provoca este reglamento espantoso.",
-          "language": "es",
-          "publishedAt": "2026-10-11T14:05:57.000Z",
-          "addedAt": "2026-10-11T14:11:30.903Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561-html",
-          "title": "F1: horarios y el cronograma del GP de Estados Unidos",
-          "summary": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561.html",
-          "image": "https://media.tycsports.com/files/2026/10/06/993348/gp-de-estados-unidos_862x485.webp?v=1",
-          "body": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nFranco Colapinto. + Seguinos en Tras la victoria de Max Verstappen y el abandono de Colapinto en Singapur, la Fórmula 1 se prepara para el Gran Premio de Estados Unidos , que se desarrollará del 23 al 25 de octubre en el Circuito de las Américas. Conocé el cronograma completo .\n\nLa Fórmula 1 corrió por primera vez en el Circuito de las Américas (COTA) en 2012, en el Gran Premio de Estados Unidos, y como era de esperar, más del 100.000 espectadores llenaron el circuito y presenciaron el último triunfo de Lewis Hamilton con McLaren antes de su fichaje por Mercedes en 2013. Las curvas del COTA tienen similitudes con las de otras pistas: las 3 y 6 se parecen a la recta de alta velocidad de Silverstone o las curvas S de Suzuka, mientras que las 12 a 15 imitan la sección del estadio de Hockenheim. Por otro lado, la subida que desemboca en la ancha curva 1 siempre ofrece emocionantes adelantamientos.",
-          "language": "es",
-          "publishedAt": "2026-10-13T13:31:16.000Z",
-          "addedAt": "2026-10-11T15:11:31.629Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1473,6 +1443,21 @@
           "language": "es",
           "publishedAt": "2026-10-11T19:14:14.000Z",
           "addedAt": "2026-10-11T16:11:30.723Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-volvio-a-verse-con-fantasmas-del-pasado-op-id765677-html",
+          "title": "Colapinto volvió a verse con fantasmas del pasado",
+          "summary": "Uno de los peores fines de semana para el argentino en la Fórmula 1: doble abandono en Singapur por fallas en el Alpine.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-volvio-a-verse-con-fantasmas-del-pasado-op-id765677.html",
+          "image": "https://media.tycsports.com/files/2026/10/11/994989/colapinto_1440x810.webp?v=2",
+          "body": "Uno de los peores fines de semana para el argentino en la Fórmula 1: doble abandono en Singapur por fallas en el Alpine.\n\nFin de semana de terror para Colapinto: doble abandono en Singapur. (Alpine) + Seguinos en Otra vez no tuvo la culpa, pero el Alpine lo dejó a pie dos veces y Franco Colapinto se fue del Gran Premio de Singapur con un doble abandono que, en resultados, se traduce a uno de sus peores fines de semana desde que corre en la Fórmula 1.\n\nEl paso del argentino por el callejero nocturno fue una pesadilla . Además de que estuvo lejos de su compañero Pierre Gasly e incómodo en ambas clasificaciones, el sábado se quedó tirado en el Sprint por un problema eléctrico, luego le pegó a la pared en busca de los límites en la Q2 y el domingo le falló la transmisión.\n\nLos problemas de confiabilidad son inéditos este año , para el que Alpine adoptó a Mercedes como proveedor de motor y caja. Hay que remontarse hasta 2025 para la desesperante falla que no le permitió ni siquiera largar en Silverstone.\n\nAl margen, Colapinto no había logrado sentirse cómodo con el A526 en un circuito tan rico en infraestructura como pobre para el espectáculo, sin lugares que beneficien los sobrepasos, ni siquiera los artificiales que provoca este reglamento espantoso.",
+          "language": "es",
+          "publishedAt": "2026-10-11T14:05:57.000Z",
+          "addedAt": "2026-10-11T14:11:30.903Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1610,12 +1595,27 @@
           "addedAt": "2026-10-02T17:57:42.536Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561-html",
+          "title": "F1: horarios y el cronograma del GP de Estados Unidos",
+          "summary": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561.html",
+          "image": "https://media.tycsports.com/files/2026/10/06/993348/gp-de-estados-unidos_862x485.webp?v=1",
+          "body": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nFranco Colapinto. + Seguinos en Tras la victoria de Max Verstappen y el abandono de Colapinto en Singapur, la Fórmula 1 se prepara para el Gran Premio de Estados Unidos , que se desarrollará del 23 al 25 de octubre en el Circuito de las Américas. Conocé el cronograma completo .\n\nLa Fórmula 1 corrió por primera vez en el Circuito de las Américas (COTA) en 2012, en el Gran Premio de Estados Unidos, y como era de esperar, más del 100.000 espectadores llenaron el circuito y presenciaron el último triunfo de Lewis Hamilton con McLaren antes de su fichaje por Mercedes en 2013. Las curvas del COTA tienen similitudes con las de otras pistas: las 3 y 6 se parecen a la recta de alta velocidad de Silverstone o las curvas S de Suzuka, mientras que las 12 a 15 imitan la sección del estadio de Hockenheim. Por otro lado, la subida que desemboca en la ancha curva 1 siempre ofrece emocionantes adelantamientos.",
+          "language": "es",
+          "publishedAt": "2026-10-13T13:31:16.000Z",
+          "addedAt": "2026-10-11T15:11:31.629Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-14T13:11:31.274Z",
+      "createdAt": "2026-10-14T14:11:31.183Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1828,21 +1828,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-motogp-introduce-un-formato-al-estilo-formula-1-a-partir-de-2027",
-          "title": "MotoGP introduce un formato al estilo Fórmula 1 a partir de 2027",
-          "summary": "Inspirado en fines de semana en que la F1 tiene carreras Sprint, el mundial de motociclismo tendrá dos clasificaciones para la clase mayor.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/motogp-introduce-un-formato-al-estilo-formula-1-a-partir-de-2027/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MotoGP-largada-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-07T13:43:48.000Z",
-          "addedAt": "2026-10-07T14:11:30.578Z",
-          "category": "general",
-          "tag": "Clasificacion"
-        },
-        {
           "id": "campeones-com-ar-marc-marquez-y-la-presion-son-los-determinantes-rivales-de-martin-en-el-campeonato-de-motogp",
           "title": "Marc Márquez y la presión son los determinantes rivales de Martín en el campeonato de MotoGP",
           "summary": "Con la Ducati, el piloto de Cervera se impuso en la carrera Sprint del Gran Premio de Indonesia y recuperó el liderazgo del certamen, en tanto el madrileño relegó chances con inconvenientes en sus neumáticos.",
@@ -1886,13 +1871,7 @@
           "addedAt": "2026-10-09T16:11:31.196Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-14T13:11:31.274Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
           "title": "Por qué se retrasó la largada del GP de Malasia de la Fórmula 1",
@@ -1907,7 +1886,13 @@
           "addedAt": "2026-10-04T08:11:31.664Z",
           "category": "general",
           "tag": "Clima"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-14T14:11:31.183Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -1982,6 +1967,21 @@
           "addedAt": "2026-10-08T20:11:09.979Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-motogp-introduce-un-formato-al-estilo-formula-1-a-partir-de-2027",
+          "title": "MotoGP introduce un formato al estilo Fórmula 1 a partir de 2027",
+          "summary": "Inspirado en fines de semana en que la F1 tiene carreras Sprint, el mundial de motociclismo tendrá dos clasificaciones para la clase mayor.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/motogp-introduce-un-formato-al-estilo-formula-1-a-partir-de-2027/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MotoGP-largada-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-07T13:43:48.000Z",
+          "addedAt": "2026-10-07T14:11:30.578Z",
+          "category": "general",
+          "tag": "Clasificacion"
         },
         {
           "id": "www-tycsports-com-automovilismo-formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255-html",
@@ -2167,7 +2167,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-14T13:11:31.274Z",
+      "createdAt": "2026-10-14T14:11:31.183Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
@@ -2211,21 +2211,6 @@
           "language": "es",
           "publishedAt": "2026-10-12T12:15:04.000Z",
           "addedAt": "2026-10-12T13:11:27.729Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
-          "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
-          "summary": "Canapino es un fanático de toda expresión de la velocidad y ve a Colapinto \"muy asentado, firme, andando rápido y está consiguiendo puntos\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-y-Colapinto-imagen.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-13T13:48:02.000Z",
-          "addedAt": "2026-10-13T14:11:31.643Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2421,6 +2406,21 @@
           "language": "es",
           "publishedAt": "2026-10-06T20:52:30.000Z",
           "addedAt": "2026-10-07T01:11:30.601Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
+          "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
+          "summary": "Canapino es un fanático de toda expresión de la velocidad y ve a Colapinto \"muy asentado, firme, andando rápido y está consiguiendo puntos\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-y-Colapinto-imagen.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-13T13:48:02.000Z",
+          "addedAt": "2026-10-13T14:11:31.643Z",
           "category": "argentino",
           "tag": "Franco"
         },
