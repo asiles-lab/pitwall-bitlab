@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T14:11:28.845Z",
-  "checkedAt": "2026-10-14T14:11:28.845Z",
+  "updatedAt": "2026-10-14T15:11:27.200Z",
+  "checkedAt": "2026-10-14T15:11:27.200Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-los-argentinos-anotados-para-el-mundial-de-flat-track",
+      "title": "Los argentinos anotados para el Mundial de Flat Track",
+      "summary": "El Campeonato Mundial FIM de Flat Track llega a Totoras, Santa Fe, para definir monarcas con 28 pilotos anotados para el 24 y 25 de octubre.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/los-argentinos-anotados-para-el-mundial-de-flat-track/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Flat-Track-Pilotos.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-13T08:00:31.000Z",
+      "addedAt": "2026-10-14T15:11:27.570Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-esta-noche-grandes-campeones-69",
       "title": "Esta noche: Grandes Campeones",
@@ -1063,7 +1078,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-14T14:11:31.183Z",
+      "createdAt": "2026-10-14T15:11:29.844Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1126,6 +1141,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561-html",
+          "title": "F1: los horarios y el cronograma del GP de Estados Unidos",
+          "summary": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561.html",
+          "image": "https://media.tycsports.com/files/2026/10/06/993348/gp-de-estados-unidos_862x485.webp?v=1",
+          "body": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nFranco Colapinto. + Seguinos en Tras la victoria de Max Verstappen y el abandono de Colapinto en Singapur, la Fórmula 1 se prepara para el Gran Premio de Estados Unidos , que se desarrollará del 23 al 25 de octubre en el Circuito de las Américas. Conocé el cronograma completo .\n\nLa Fórmula 1 corrió por primera vez en el Circuito de las Américas (COTA) en 2012, en el Gran Premio de Estados Unidos, y como era de esperar, más del 100.000 espectadores llenaron el circuito y presenciaron el último triunfo de Lewis Hamilton con McLaren antes de su fichaje por Mercedes en 2013. Las curvas del COTA tienen similitudes con las de otras pistas: las 3 y 6 se parecen a la recta de alta velocidad de Silverstone o las curvas S de Suzuka, mientras que las 12 a 15 imitan la sección del estadio de Hockenheim. Por otro lado, la subida que desemboca en la ancha curva 1 siempre ofrece emocionantes adelantamientos.",
+          "language": "es",
+          "publishedAt": "2026-10-14T14:22:58.000Z",
+          "addedAt": "2026-10-11T15:11:31.629Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
           "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
           "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
@@ -1141,21 +1171,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-espera-pasar-rapido-de-pagina-tras-su-abandono-en-singapur-tengo-que-hacer-un-",
-          "title": "Colapinto espera pasar rápido de página tras su abandono en Singapur: \"Tengo que hacer un reset\"",
-          "summary": "El piloto argentino aseguró que su Alpine sufrió \"un problema de transmisión\" y reconoció que viene de fines de semana \"muy duros\". Sin embargo, se enfoca en las próximas carreras: \"Se viene la parte del año que más me gusta\".",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-espera-pasar-rapido-de-pagina-tras-su-abandono-en-singapur-tengo-que-hacer-un-reset-id765678.html",
-          "image": "https://media.tycsports.com/files/2026/10/11/994992/franco-colapinto_1440x810.webp",
-          "body": "El piloto argentino aseguró que su Alpine sufrió \"un problema de transmisión\" y reconoció que viene de fines de semana \"muy duros\". Sin embargo, se enfoca en las próximas carreras: \"Se viene la parte del año que más me gusta\".\n\nFranco Colapinto abandonó en el GP de Singapur. (Rudy Carezzevoli/Getty Images) + Seguinos en Franco Colapinto, piloto argentino de Alpine , expresó su frustración por su abandono en el GP de Singapur y dejó en claro que espera pasar rápido de página: \"Se viene la parte del año que más me gusta\".\n\nEl pilarense marchaba 14° cuando su monoplaza se quedó parado en la vuelta 31. \"Un problema de transmisión. Hay que esperar a que el auto vuelva. No iba para atrás el auto, y para adelante, poquito. Hay que entender qué pasó\", expresó en una entrevista con ESPN. Colapinto expresó su frustración tras su segundo consecutivo abandono en Singapur (también lo sufrió en la Sprint el sábado). \"Una pena. Dos problemas en dos carreras el fin de semana. Hay que volver con el equipo, trabajar\" , lamentó.\n\nABANDONÃ COLAPINTO: EL ALPINE DEL ARGENTINO SE QUEDÃ PARADO EN LA VUELTA 31 DEL GRAN PREMIO DE SINGAPUR. ðº #SingaporeGP | Toda la temporada de #F1 por ESPN en el Plan Premium de #DisneyPlus https://t.co/tmKPquuaxx\n\nDe todas formas, el pilarense ya se enfoca en sus próximos desafíos. \"Se viene la parte del año que más me gusta, que más espero yo: Estados Unidos, México y Brasil. Tengo que hacer un reset ahora y volver a empezar\" , afirmó. \"Fueron fines de semanas muy duros. No estuve teniendo el mejor de los momentos últimamente. Creo que fue, definitivamente, la peor triple header de mi carrera\", aseguró. Y sentenció: \"Hay muchas oportunidades. Espero revertir este momento malo\".",
-          "language": "es",
-          "publishedAt": "2026-10-11T14:13:24.000Z",
-          "addedAt": "2026-10-11T15:11:31.072Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-singapur-id764676-",
           "title": "F1: Colapinto largará 15° y Verstappen será el poleman en el GP de Singapur",
           "summary": "El piloto argentino no logró meterse entre los 10 mejores de la clasificación y ya conoce su posición para la carrera de este domingo.",
@@ -1167,6 +1182,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T15:23:11.000Z",
           "addedAt": "2026-10-10T19:11:31.928Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-espera-pasar-rapido-de-pagina-tras-su-abandono-en-singapur-tengo-que-hacer-un-",
+          "title": "Colapinto espera pasar rápido de página tras su abandono en Singapur: \"Tengo que hacer un reset\"",
+          "summary": "El piloto argentino aseguró que su Alpine sufrió \"un problema de transmisión\" y reconoció que viene de fines de semana \"muy duros\". Sin embargo, se enfoca en las próximas carreras: \"Se viene la parte del año que más me gusta\".",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-espera-pasar-rapido-de-pagina-tras-su-abandono-en-singapur-tengo-que-hacer-un-reset-id765678.html",
+          "image": "https://media.tycsports.com/files/2026/10/11/994992/franco-colapinto_1440x810.webp",
+          "body": "El piloto argentino aseguró que su Alpine sufrió \"un problema de transmisión\" y reconoció que viene de fines de semana \"muy duros\". Sin embargo, se enfoca en las próximas carreras: \"Se viene la parte del año que más me gusta\".\n\nFranco Colapinto abandonó en el GP de Singapur. (Rudy Carezzevoli/Getty Images) + Seguinos en Franco Colapinto, piloto argentino de Alpine , expresó su frustración por su abandono en el GP de Singapur y dejó en claro que espera pasar rápido de página: \"Se viene la parte del año que más me gusta\".\n\nEl pilarense marchaba 14° cuando su monoplaza se quedó parado en la vuelta 31. \"Un problema de transmisión. Hay que esperar a que el auto vuelva. No iba para atrás el auto, y para adelante, poquito. Hay que entender qué pasó\", expresó en una entrevista con ESPN. Colapinto expresó su frustración tras su segundo consecutivo abandono en Singapur (también lo sufrió en la Sprint el sábado). \"Una pena. Dos problemas en dos carreras el fin de semana. Hay que volver con el equipo, trabajar\" , lamentó.\n\nABANDONÃ COLAPINTO: EL ALPINE DEL ARGENTINO SE QUEDÃ PARADO EN LA VUELTA 31 DEL GRAN PREMIO DE SINGAPUR. ðº #SingaporeGP | Toda la temporada de #F1 por ESPN en el Plan Premium de #DisneyPlus https://t.co/tmKPquuaxx\n\nDe todas formas, el pilarense ya se enfoca en sus próximos desafíos. \"Se viene la parte del año que más me gusta, que más espero yo: Estados Unidos, México y Brasil. Tengo que hacer un reset ahora y volver a empezar\" , afirmó. \"Fueron fines de semanas muy duros. No estuve teniendo el mejor de los momentos últimamente. Creo que fue, definitivamente, la peor triple header de mi carrera\", aseguró. Y sentenció: \"Hay muchas oportunidades. Espero revertir este momento malo\".",
+          "language": "es",
+          "publishedAt": "2026-10-11T14:13:24.000Z",
+          "addedAt": "2026-10-11T15:11:31.072Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1319,7 +1349,13 @@
           "addedAt": "2026-10-02T16:23:12.608Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-14T15:11:29.844Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
           "title": "El director de Alpine reveló por qué Colapinto penalizará en Malasia",
@@ -1334,13 +1370,7 @@
           "addedAt": "2026-10-03T01:03:50.878Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-14T14:11:31.183Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-hadjar-exabrupto-dolor-culo-no-poder-pasar-colapinto-f1-gp-singapur-id765737-html",
           "title": "\"Dolor en el culo\": el exabrupto de Hadjar tras no poder pasar a Colapinto en el GP de Singapur",
@@ -1353,21 +1383,6 @@
           "language": "es",
           "publishedAt": "2026-10-11T22:48:29.000Z",
           "addedAt": "2026-10-11T23:11:30.707Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-singapur-id765153-html",
-          "title": "Colapinto tuvo que abandonar y Verstappen ganó el GP de Singapur",
-          "summary": "El piloto argentino largó 15° y logró supera a Lindblad para ganar una posición, pero el Alpine se quedó en la vuelta 31 por un problema mecánico. Por su parte, el neerlandés, con su Red Bull, dominó de principio a fin.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-singapur-id765153.html",
-          "image": "https://media.tycsports.com/files/2026/10/11/994978/colapinto-en-el-gp-de-singapur-photo-by-james-suttonlat-images_1440x810.webp",
-          "body": "El piloto argentino largó 15° y logró supera a Lindblad para ganar una posición, pero el Alpine se quedó en la vuelta 31 por un problema mecánico. Por su parte, el neerlandés, con su Red Bull, dominó de principio a fin.\n\nPor qué abandonó Colapinto en el GP de Singapur Colapinto espera pasar rápido de página tras su abandono en Singapur: \"Tengo que hacer un reset\" 11/10/2026 11:45 am Colapinto en el GP de Singapur (Photo by James Sutton/LAT Images) + Seguinos en Franco Colapinto tuvo que abandonar por un problema mecánico de su Alpine en la vuelta 31 del Gran Premio de Singapur de Fórmula 1 y cerró un fin de semana para el olvido en el circuito urbano de Marina Bay , donde tampoco pudo terminar la carrera Sprint por inconvenientes en la batería y le pegó al muro en el tercer sector del circuito en la Q2 de la clasificación. “Creo que fue, definitivamente, el peor triple header de mi carrera ”, sentenció el argentino, que venía golpeado de Azerbaiyán y Bahréin. Max Verstappen ganó con su Red Bull de punta a punta, mientras que Charles Leclerc (Ferrari) fue segundo y Kimi Antonelli (Mercedes), líder del campeonato, culminó tercero.\n\n“ Fue un problema de transmisión . Hay que esperar a que el auto vuelva. No iba para atrás el auto, y para adelante, poquito. Hay que entender qué pasó. Una pena. Dos problemas en dos carreras el fin de semana”, subrayó Franco una vez concluida la carrera. Y añadió: “Hay que volver con el equipo, trabajar. Se viene la parte del año que más me gusta, que más espero yo: Estados Unidos, México y Brasil. Tengo que hacer un reset ahora y volver a empezar. Fueron fin de semanas muy duros. No estuve teniendo el mejor de los momentos últimamente ”.\n\nColapinto largó en la 15° posición y ganó un lugar, pero perdió la decimocuarta colocación en manos de G",
-          "language": "es",
-          "publishedAt": "2026-10-11T14:45:46.000Z",
-          "addedAt": "2026-10-10T16:11:31.653Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1443,6 +1458,21 @@
           "language": "es",
           "publishedAt": "2026-10-11T19:14:14.000Z",
           "addedAt": "2026-10-11T16:11:30.723Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-singapur-id765153-html",
+          "title": "Colapinto tuvo que abandonar y Verstappen ganó el GP de Singapur",
+          "summary": "El piloto argentino largó 15° y logró supera a Lindblad para ganar una posición, pero el Alpine se quedó en la vuelta 31 por un problema mecánico. Por su parte, el neerlandés, con su Red Bull, dominó de principio a fin.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-singapur-id765153.html",
+          "image": "https://media.tycsports.com/files/2026/10/11/994978/colapinto-en-el-gp-de-singapur-photo-by-james-suttonlat-images_1440x810.webp",
+          "body": "El piloto argentino largó 15° y logró supera a Lindblad para ganar una posición, pero el Alpine se quedó en la vuelta 31 por un problema mecánico. Por su parte, el neerlandés, con su Red Bull, dominó de principio a fin.\n\nPor qué abandonó Colapinto en el GP de Singapur Colapinto espera pasar rápido de página tras su abandono en Singapur: \"Tengo que hacer un reset\" 11/10/2026 11:45 am Colapinto en el GP de Singapur (Photo by James Sutton/LAT Images) + Seguinos en Franco Colapinto tuvo que abandonar por un problema mecánico de su Alpine en la vuelta 31 del Gran Premio de Singapur de Fórmula 1 y cerró un fin de semana para el olvido en el circuito urbano de Marina Bay , donde tampoco pudo terminar la carrera Sprint por inconvenientes en la batería y le pegó al muro en el tercer sector del circuito en la Q2 de la clasificación. “Creo que fue, definitivamente, el peor triple header de mi carrera ”, sentenció el argentino, que venía golpeado de Azerbaiyán y Bahréin. Max Verstappen ganó con su Red Bull de punta a punta, mientras que Charles Leclerc (Ferrari) fue segundo y Kimi Antonelli (Mercedes), líder del campeonato, culminó tercero.\n\n“ Fue un problema de transmisión . Hay que esperar a que el auto vuelva. No iba para atrás el auto, y para adelante, poquito. Hay que entender qué pasó. Una pena. Dos problemas en dos carreras el fin de semana”, subrayó Franco una vez concluida la carrera. Y añadió: “Hay que volver con el equipo, trabajar. Se viene la parte del año que más me gusta, que más espero yo: Estados Unidos, México y Brasil. Tengo que hacer un reset ahora y volver a empezar. Fueron fin de semanas muy duros. No estuve teniendo el mejor de los momentos últimamente ”.\n\nColapinto largó en la 15° posición y ganó un lugar, pero perdió la decimocuarta colocación en manos de G",
+          "language": "es",
+          "publishedAt": "2026-10-11T14:45:46.000Z",
+          "addedAt": "2026-10-10T16:11:31.653Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1595,27 +1625,12 @@
           "addedAt": "2026-10-02T17:57:42.536Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561-html",
-          "title": "F1: horarios y el cronograma del GP de Estados Unidos",
-          "summary": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id764561.html",
-          "image": "https://media.tycsports.com/files/2026/10/06/993348/gp-de-estados-unidos_862x485.webp?v=1",
-          "body": "La Fórmula 1 tendrá continuidad el fin de semana del 23 al 25 de octubre en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nFranco Colapinto. + Seguinos en Tras la victoria de Max Verstappen y el abandono de Colapinto en Singapur, la Fórmula 1 se prepara para el Gran Premio de Estados Unidos , que se desarrollará del 23 al 25 de octubre en el Circuito de las Américas. Conocé el cronograma completo .\n\nLa Fórmula 1 corrió por primera vez en el Circuito de las Américas (COTA) en 2012, en el Gran Premio de Estados Unidos, y como era de esperar, más del 100.000 espectadores llenaron el circuito y presenciaron el último triunfo de Lewis Hamilton con McLaren antes de su fichaje por Mercedes en 2013. Las curvas del COTA tienen similitudes con las de otras pistas: las 3 y 6 se parecen a la recta de alta velocidad de Silverstone o las curvas S de Suzuka, mientras que las 12 a 15 imitan la sección del estadio de Hockenheim. Por otro lado, la subida que desemboca en la ancha curva 1 siempre ofrece emocionantes adelantamientos.",
-          "language": "es",
-          "publishedAt": "2026-10-13T13:31:16.000Z",
-          "addedAt": "2026-10-11T15:11:31.629Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-14T14:11:31.183Z",
+      "createdAt": "2026-10-14T15:11:29.844Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1629,6 +1644,21 @@
           "language": "es",
           "publishedAt": "2026-10-14T01:34:46.000Z",
           "addedAt": "2026-10-14T02:11:31.944Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-corrio-en-el-tc-fue-campeon-del-tc-pista-y-ahora-atiende-un-minimercado-en-san-juan-id76",
+          "title": "Corrió en el TC, fue campeón del TC Pista y ahora atiende un minimercado en San Juan",
+          "summary": "El cuyano tuvo una carrera ligada al automovilismo desde su debut en 1992. En el 98 hizo su estreno en el Turismo Carretera y un año después fue campeón en Pista. Hoy está alejado, aunque nunca de manera definitiva, y se dedica a un emprendimiento personal.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/corrio-en-el-tc-fue-campeon-del-tc-pista-y-ahora-atiende-un-minimercado-en-san-juan-id765830.html",
+          "image": "https://media.tycsports.com/files/2026/10/12/995355/benedetti_862x485.webp",
+          "body": "El cuyano tuvo una carrera ligada al automovilismo desde su debut en 1992. En el 98 hizo su estreno en el Turismo Carretera y un año después fue campeón en Pista. Hoy está alejado, aunque nunca de manera definitiva, y se dedica a un emprendimiento personal.\n\nEl piloto sanjuanino pasó una vida ligado al volante y, aunque ya no lo hace en las categorías de élite, sigue vinculado mientras reparte su tiempo atendiendo un negocio familiar + Seguinos en Fabrizio Benedetti pasó toda una vida ligada al automovilismo. Parte de una familia fierrera, su padre era un seguidor del deporte y, aunque de chico no lo dejó correr hasta los 20 años, cuando se subió a un auto no se bajó más . Hermano de Franco, también piloto, el sanjuanino hizo un larguísimo recorrido por las distintas categorías principales del país y a los 53 años vive alejado del volante -aunque nunca definitivo- y enfocado en gestionar y atender un mini market que tiene en San Juan .\n\nEl ex corredor nacido el 23 de abril de 1973 en la provincia cuyana supo protagonizar el Turismo Carretera, el TC Pista y hasta el Zonal Cuyano , pero ahora esa etapa parece haber quedado atrás, porque Benedetti, a los 53 años, se enfocó en el local familiar que tiene donde además disfruta de atender él mismo a los clientes y las charlas que surgen, según le contó hace un año a Tiempo de San Juan .\n\nDespués de haber lidiado en la adolescencia con su familia para que lo dejaran correr, Benedetti considera que su debut llegó en 1992 cuando condujo un Fiat 128 en el Zonal Cuyano , pero su nombre apareció en primera plana cuando desembarcó en el TC en el autódromo Oscar Gálvez de Buenos Aires el 3 de mayo de 1998 con el número 158 .\n\nAunque aquella temporada no le fue bien -disputó 13 carreras-, al año siguiente la ACTC decidió que los últim",
+          "language": "es",
+          "publishedAt": "2026-10-14T14:30:28.000Z",
+          "addedAt": "2026-10-14T15:11:28.233Z",
           "category": "general",
           "tag": "Carrera"
         },
@@ -1871,7 +1901,13 @@
           "addedAt": "2026-10-09T16:11:31.196Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-14T15:11:29.844Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
           "title": "Por qué se retrasó la largada del GP de Malasia de la Fórmula 1",
@@ -1886,13 +1922,7 @@
           "addedAt": "2026-10-04T08:11:31.664Z",
           "category": "general",
           "tag": "Clima"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-14T14:11:31.183Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -1967,21 +1997,6 @@
           "addedAt": "2026-10-08T20:11:09.979Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-motogp-introduce-un-formato-al-estilo-formula-1-a-partir-de-2027",
-          "title": "MotoGP introduce un formato al estilo Fórmula 1 a partir de 2027",
-          "summary": "Inspirado en fines de semana en que la F1 tiene carreras Sprint, el mundial de motociclismo tendrá dos clasificaciones para la clase mayor.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/motogp-introduce-un-formato-al-estilo-formula-1-a-partir-de-2027/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MotoGP-largada-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-07T13:43:48.000Z",
-          "addedAt": "2026-10-07T14:11:30.578Z",
-          "category": "general",
-          "tag": "Clasificacion"
         },
         {
           "id": "www-tycsports-com-automovilismo-formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255-html",
@@ -2074,21 +2089,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-gran-derrota-de-alpine-en-el-gp-de-singapur-id765680-html",
-          "title": "La gran derrota de Alpine en el GP de Singapur",
-          "summary": "Colapinto abandonó y Gasly finalizó 11°. Racing Bulls se escapa y afianza como quinto en el Campeonato de Constructores...",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-gran-derrota-de-alpine-en-el-gp-de-singapur-id765680.html",
-          "image": "https://media.tycsports.com/files/2026/09/27/991053/colapinto-y-briatore_862x485.webp",
-          "body": "Colapinto abandonó y Gasly finalizó 11°. Racing Bulls se escapa y afianza como quinto en el Campeonato de Constructores...\n\nFranco Colapinto y Flavio Briatore (Getty Images) + Seguinos en Alpine tuvo un GP de Singapur prácticamente para el olvido: Franco Colapinto abandonó y Pierre Gasly finalizó 11° . Mientras, Racing Bulls le sacó más diferencia y se afianza en el quinto puesto en el Campeonato de Constructores...\n\nEl piloto argentino sufrió complicaciones con su monoplaza en la vuelta 31: El auto directamente se quedó parado y tuvo que abandonar. Según informó la escudería, sospechan de un problema \"en la línea de transmisión\". Por otra parte , Pierre Gasly perdió la décima posición a manos de Isack Hadjar (Red Bull) faltando dos vueltas: terminó 11° y tampoco sumó unidades este domingo.\n\nDe esta manera, Alpine redondeó un GP de Singapur complicado. La escudería francesa se había planteado el objetivo de luchar por el quinto lugar en el Campeonato de Constructores, pero Racing Bulls se aleja y se afianza en esa posición, con seis carreras aún por disputar. Alpine marcha sexto en esa tabla, con 68 puntos. Racing Bulls está quinto con 100 (Liam Lawson terminó séptimo y sumó seis unidades este domingo). Mientras, delante quedaron Red Bull (4° con 332), McLaren (3° con 339), Ferrari (2° con 444) y Mercedes (líder con 578).\n\nEl próximo desafío para Alpine será en el GP de Estados Unidos, en el Circuito de las Américas en Austin, el fin de semana del 25 de octubre. Allí, Colapinto buscará dejar atrás la mala seguidilla (con dos abandonos en sus últimas tres carreras).",
-          "language": "es",
-          "publishedAt": "2026-10-11T15:05:15.000Z",
-          "addedAt": "2026-10-11T15:11:31.271Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-ma",
           "title": "El contundente respaldo del manager de Colapinto y su agencia tras el GP de Baréin en Malasia",
           "summary": "Bullet Sports Management destacó la actuación del piloto argentino tras una destacada recuperación y una estrategia de Alpine que condicionó su desempeño.",
@@ -2162,12 +2162,27 @@
           "addedAt": "2026-10-10T16:11:32.512Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-la-gran-derrota-de-alpine-en-el-gp-de-singapur-id765680-html",
+          "title": "La gran derrota de Alpine en el GP de Singapur",
+          "summary": "Colapinto abandonó y Gasly finalizó 11°. Racing Bulls se escapa y afianza como quinto en el Campeonato de Constructores...",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-gran-derrota-de-alpine-en-el-gp-de-singapur-id765680.html",
+          "image": "https://media.tycsports.com/files/2026/09/27/991053/colapinto-y-briatore_862x485.webp",
+          "body": "Colapinto abandonó y Gasly finalizó 11°. Racing Bulls se escapa y afianza como quinto en el Campeonato de Constructores...\n\nFranco Colapinto y Flavio Briatore (Getty Images) + Seguinos en Alpine tuvo un GP de Singapur prácticamente para el olvido: Franco Colapinto abandonó y Pierre Gasly finalizó 11° . Mientras, Racing Bulls le sacó más diferencia y se afianza en el quinto puesto en el Campeonato de Constructores...\n\nEl piloto argentino sufrió complicaciones con su monoplaza en la vuelta 31: El auto directamente se quedó parado y tuvo que abandonar. Según informó la escudería, sospechan de un problema \"en la línea de transmisión\". Por otra parte , Pierre Gasly perdió la décima posición a manos de Isack Hadjar (Red Bull) faltando dos vueltas: terminó 11° y tampoco sumó unidades este domingo.\n\nDe esta manera, Alpine redondeó un GP de Singapur complicado. La escudería francesa se había planteado el objetivo de luchar por el quinto lugar en el Campeonato de Constructores, pero Racing Bulls se aleja y se afianza en esa posición, con seis carreras aún por disputar. Alpine marcha sexto en esa tabla, con 68 puntos. Racing Bulls está quinto con 100 (Liam Lawson terminó séptimo y sumó seis unidades este domingo). Mientras, delante quedaron Red Bull (4° con 332), McLaren (3° con 339), Ferrari (2° con 444) y Mercedes (líder con 578).\n\nEl próximo desafío para Alpine será en el GP de Estados Unidos, en el Circuito de las Américas en Austin, el fin de semana del 25 de octubre. Allí, Colapinto buscará dejar atrás la mala seguidilla (con dos abandonos en sus últimas tres carreras).",
+          "language": "es",
+          "publishedAt": "2026-10-11T15:05:15.000Z",
+          "addedAt": "2026-10-11T15:11:31.271Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 5,
-      "createdAt": "2026-10-14T14:11:31.183Z",
+      "createdAt": "2026-10-14T15:11:29.844Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
