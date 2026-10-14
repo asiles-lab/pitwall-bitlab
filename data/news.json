@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T19:11:26.264Z",
-  "checkedAt": "2026-10-14T19:11:26.264Z",
+  "updatedAt": "2026-10-14T20:11:28.135Z",
+  "checkedAt": "2026-10-14T20:11:28.135Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,51 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana",
+      "title": "Julián Santero retorna a las Pick Up el próximo fin de semana | Campeones",
+      "summary": "El piloto mendocino es el inscripto N°14, retornando con la Ford Ranger del Magnoluz Racing desde el fin de semana.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/79254_big.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-14T19:27:49.000Z",
+      "addedAt": "2026-10-14T20:11:28.676Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet",
+      "title": "Agustín Canapino y el mensaje para los hinchas de Chevrolet",
+      "summary": "El “Titán” fue consultado por Campeones acerca de la definición de TC que se aproxima y su relación con la marca, la cual defiende en tres frentes distintos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9952.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-14T18:50:10.000Z",
+      "addedAt": "2026-10-14T20:11:28.598Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-agustin-canapino-tn-barrio-chapur-pelea-id765691-html",
+      "title": "Canapino ganó una impactante serie en el TN tras una feroz pelea contra Barrio y Chapur",
+      "summary": "El Titán de Arrecifes sacó provecho de una última vuelta cargada de roces, sobrepasos y polémica para quedarse con la victoria en la Clase 3.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/agustin-canapino-tn-barrio-chapur-pelea-id765691.html",
+      "image": "https://media.tycsports.com/files/2026/10/11/995014/canapino-gano-una-impactante-serie-en-el-tn-la-feroz-pelea-contra-barrio-y-chapus_416x234.webp?v=4",
+      "body": "El Titán de Arrecifes sacó provecho de una última vuelta cargada de roces, sobrepasos y polémica para quedarse con la victoria en la Clase 3.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur + Seguinos en Un desenlace espectacular tuvo la segunda serie de la Clase 3 del TN APAT en Mendoza porque Agustín Canapino protagonizó una maniobra decisiva en la última vuelta , superó a sus rivales en plena disputa por el liderazgo y consiguió un triunfo valioso.\n\nLa definición estuvo marcada por una intensa batalla entre Facundo Chapur, Jorge Barrio y Facundo Marques , quienes intercambiaron posiciones y protagonizaron varios roces. En medio de ese escenario, el Titán encontró el espacio para ejecutar un brillante 3x1 y cruzar primero la bandera a cuadros. Después de la carrera, Barrio expresó su bronca por haber dejado escapar la victoria y cuestionó las maniobras de sus adversarios: \"Caliente por no ganar, hice todo para ganar. Mis rivales se equivocaron todos y yo no tuve ningún error. Vengo poniéndolo todo arriba del auto\".\n\nY luego se refirió a la maniobra con Chapur en detalle: \"Me entra fuerte a la puerta en la uno, eso hace que se amontone todo el pelotón, después me hace una buena maniobra en la tres, me empuja Marques, me deja a la par y en el quiebre rápido obvio que no le iba a regalar la posición pero temía que esto pasara y da bronca que las cosas se den para el puntero del campeonato, parece que todos corremos para él, o por lo menos los de atrás mío. Yo intenté ganar la serie y defendí la punta como pude\".\n\nPor su parte, Canapino explicó cómo logró recuperarse de un incidente y sacar ventaja del enfrentamiento: \"Se me complica la serie cuando Chapur entra en trompo, lo saca. Primero me cierra la línea, después me choca y se me co",
+      "language": "es",
+      "publishedAt": "2026-10-11T16:38:40.000Z",
+      "addedAt": "2026-10-14T20:11:29.496Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec",
       "title": "\"Pechito\" López espera por las 6 horas de Barcelona de WEC",
@@ -1123,7 +1168,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-14T19:11:34.109Z",
+      "createdAt": "2026-10-14T20:11:38.492Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1152,6 +1197,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T13:04:13.000Z",
           "addedAt": "2026-10-10T11:11:31.839Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-formula-1-franco-colapinto-alpine-mensaje-fans-criticas-redes-sociales-id766239-html",
+          "title": "\"Juntos\": el especial pedido de Colapinto a sus fans por las críticas en las redes sociales",
+          "summary": "El piloto argentino recurrió a sus redes sociales para implorarle a sus seguidores que cesen con las hostilidades hacia otros pilotos y hasta a su propio equipo: \"Sé que creen que me defienden, pero generan lo contrario\".",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-franco-colapinto-alpine-mensaje-fans-criticas-redes-sociales-id766239.html",
+          "image": "https://media.tycsports.com/files/2026/10/11/994992/franco-colapinto_1440x810.webp",
+          "body": "El piloto argentino recurrió a sus redes sociales para implorarle a sus seguidores que cesen con las hostilidades hacia otros pilotos y hasta a su propio equipo: \"Sé que creen que me defienden, pero generan lo contrario\".\n\nFranco Colapinto abandonó en el GP de Singapur. (Rudy Carezzevoli/Getty Images) + Seguinos en En un video especial publicado a través de sus redes sociales, el piloto argentino Franco Colapinto imploró a sus fanáticos que cesen con las hostilidades hacia otros pilotos y hasta a su propio equipo , una situación recurrente que ya le trajo inconvenientes desde su desembarco en la categoría: \" Sé que piensan que me defienden, pero generan lo contrario \".\n\nVisiblemente golpeado por la situación y lejos del histrionismo que suele presentar cada vez que aparece ante una cámara, el pilarense imploró a sus fanáticos que cesen con los mensajes de odio en las redes : \" Hay veces que nos pasamos de la raya. En vez de apoyarme, terminamos criticando, atacando a otros pilotos, colegas, compañeros de equipo, mecánicos, ingenieros, gente con la que trabajo día a día... Sé que están pensando que me están defendiendo, pero están generando lo contrario. No me ayudan ni a mi ni a mi futuro \".\n\nEl pedido de Colapinto por los mensajes de odio en redes \" Tenemos que cambiar todos juntos y mejorar como sociedad. Para ayudarme a tener la mejor performance y conseguir mis sueños, necesito que me ayuden a parar esto todos juntos. Es algo necesario, que tenemos que cambiar y mejorar. Siempre voy a ser un agradecido, me siento un afortunado de todo el apoyo que me dan y de cómo me ayudan a ir por más siempre \", añadió en su mensaje. El piloto de Alpine incluso remarcó que hace tiempo tomó la decisión de alejarse de las redes para intentar aplacar estas situaciones , pero esta vez",
+          "language": "es",
+          "publishedAt": "2026-10-14T20:07:26.000Z",
+          "addedAt": "2026-10-14T20:11:29.224Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1366,6 +1426,27 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
+          "title": "Colapinto y los mensajes de odio en redes: \"No me ayudan a mí ni a mi futuro\"",
+          "summary": "El piloto argentino se expresó a través de su cuenta de Instagram. \"Sé que piensan que me están defendiendo, pero están generando lo contrario\" afirmó.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260926-F1-Colapinto-e1792008537913.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-14T20:07:37.000Z",
+          "addedAt": "2026-10-14T20:11:28.426Z",
+          "category": "argentino",
+          "tag": "Franco"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-14T20:11:38.492Z",
+      "items": [
+        {
           "id": "www-tycsports-com-automovilismo-f1-gp-malasia-colapinto-esperanza-declaraciones-qualy-15-largada-21-id764169-html",
           "title": "Colapinto, entre la resignación y la esperanza: \"Era lo que esperábamos, pero se puede remontar\"",
           "summary": "El piloto argentino terminó 15° en la clasificación para la carrera del domingo pero largará 21° por las penalizaciones que arrastra.",
@@ -1394,13 +1475,7 @@
           "addedAt": "2026-10-02T16:23:12.608Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-14T19:11:34.109Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
           "title": "El director de Alpine reveló por qué Colapinto penalizará en Malasia",
@@ -1488,36 +1563,6 @@
           "language": "es",
           "publishedAt": "2026-10-09T00:51:54.000Z",
           "addedAt": "2026-10-09T01:11:34.322Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
-          "title": "Revista Campeones: Fain lideró un histórico 1-2 de Torino en el TC",
-          "summary": "Avanza la Copa de Oro del Turismo Carretera y se mezclan las marcas en la batalla por la corona más buscada del deporte motor argentino.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-Resvista-Fain-Chapur-Dos-Toros-Audaces.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-14T16:15:47.000Z",
-          "addedAt": "2026-10-14T17:11:27.828Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-el-balance-de-franco-colapinto-tras-su-abandono-fueron-las-peores-tres-carreras-que-tuve-en-f1",
-          "title": "El balance de Franco Colapinto tras su abandono: «Fueron las peores tres carreras que tuve en F1",
-          "summary": "Cerrando un fin de semana complejo en Singapur, el piloto argentino se refirió a la magra cosecha de resultados con el Alpine en esta fecha, como también en Baku y Sepang.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-balance-de-franco-colapinto-tras-su-abandono-fueron-las-peores-tres-carreras-que-tuve-en-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261011-F1-Franco-Colapinto.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-11T19:14:14.000Z",
-          "addedAt": "2026-10-11T16:11:30.723Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1627,6 +1672,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-el-balance-de-franco-colapinto-tras-su-abandono-fueron-las-peores-tres-carreras-que-tuve-en-f1",
+          "title": "El balance de Franco Colapinto tras su abandono: «Fueron las peores tres carreras que tuve en F1",
+          "summary": "Cerrando un fin de semana complejo en Singapur, el piloto argentino se refirió a la magra cosecha de resultados con el Alpine en esta fecha, como también en Baku y Sepang.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-balance-de-franco-colapinto-tras-su-abandono-fueron-las-peores-tres-carreras-que-tuve-en-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261011-F1-Franco-Colapinto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-11T19:14:14.000Z",
+          "addedAt": "2026-10-11T16:11:30.723Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-f1-colapinto-abandono-en-el-inicio-de-la-carrera-sprint-de-singapur",
           "title": "F1: Colapinto abandonó en el inicio de la carrera Sprint de Singapur y Verstappen ganó otra vez",
           "summary": "Tras una espera de media hora se desarrolló la competencia en el circuito callejero de Marina Bay, en donde el argentino solo pudo dar dos giros. En tanto, el neerlandés consiguió imponerse con el Red Bull.",
@@ -1655,27 +1715,12 @@
           "addedAt": "2026-10-09T14:11:30.865Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611-h",
-          "title": "F1: Verstappen logró su primera pole del año y Colapinto largará anteúltimo",
-          "summary": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611.html",
-          "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
-          "body": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.\n\nAfectado por una nueva penalización, Colapinto terminó 19°, 22° y 9° en las prácticas libres en Malasia 03/10/2026 06:19 am El argentino no pudo pasar de la Q2, en la cual no marcó tiempo (Foto: @AlpineF1Team) + Seguinos en Max Verstappen consiguió este sábado la pole position del Gran Premio de Malasia de Fórmula 1, correspondiente a la temporada 2026, al marcar el mejor tiempo en la clasificación disputada en el circuito de Sepang. El piloto de Red Bull superó a Lewis Hamilton por casi tres décimas y se aseguró por primera vez en el año el primer lugar de partida, mientras que Franco Colapinto finalizó 15° y largará anteúltimo en la carrera del domingo.\n\nVerstappen dominó buena parte de la clasificación y confirmó su rendimiento en la Q3, donde mejoró nuevamente su registro para quedarse con la primera posición. Hamilton terminó segundo y completará la primera fila, mientras que Isack Hadjar había terminado tercero, aunque deberá retroceder por una penalización . De esta manera, Kimi Antonelli heredará el tercer puesto y Charles Leclerc ocupará el cuarto lugar. Detrás partirán Lando Norris y Oscar Piastri, mientras que George Russell será séptimo y Hadjar, finalmente, octavo.\n\nColapinto, por su parte, logró avanzar a la Q2 después de finalizar décimo en la primera tanda, en la que Verstappen, Hamilton y Leclerc ocuparon los primeros lugares . Sin embargo, el piloto argentino no consiguió meterse entre los diez mejores y quedó eliminado en el 15° puesto, por delante únicamente de Arvid Lindblad entre los pilotos que llegaron a la Q2. En su último intento, Colapinto salió con neumáticos usados y finalmente abortó la vuelta cuando restaban po",
-          "language": "es",
-          "publishedAt": "2026-10-03T09:19:14.000Z",
-          "addedAt": "2026-10-02T16:23:12.620Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-14T19:11:34.109Z",
+      "createdAt": "2026-10-14T20:11:38.492Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1768,21 +1813,6 @@
           "tag": "Clima"
         },
         {
-          "id": "campeones-com-ar-la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa",
-          "title": "La Fórmula 1 confirma el acuerdo con Ruanda para regresar a África",
-          "summary": "La F1 presentó un acuerdo de 10 años con Ruanda para el Gran Premio de África, pensado para principios de la década de 2030.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-Ruanda-Tilke-Diseno.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-13T19:55:59.000Z",
-          "addedAt": "2026-10-13T13:11:30.576Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-formula-1-africa-ruanda-id765901-html",
           "title": "La Fórmula 1 confirmó que vuelve a África: dónde se correrá y desde cuándo",
           "summary": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.",
@@ -1811,6 +1841,21 @@
           "addedAt": "2026-10-09T21:11:32.589Z",
           "category": "general",
           "tag": "Reglamento"
+        },
+        {
+          "id": "campeones-com-ar-la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa",
+          "title": "La Fórmula 1 confirma el acuerdo con Ruanda para regresar a África",
+          "summary": "La F1 presentó un acuerdo de 10 años con Ruanda para el Gran Premio de África, pensado para principios de la década de 2030.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-Ruanda-Tilke-Diseno.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-13T19:55:59.000Z",
+          "addedAt": "2026-10-13T13:11:30.576Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-antonelli-puede-ser-campeon-de-la-formula-1-en-austin-que-necesita-para-asegurar-el-titu",
@@ -1951,7 +1996,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-14T19:11:34.109Z",
+      "createdAt": "2026-10-14T20:11:38.492Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -2044,6 +2089,21 @@
           "tag": "F1"
         },
         {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611-h",
+          "title": "F1: Verstappen logró su primera pole del año y Colapinto largará anteúltimo",
+          "summary": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-malasia-id763611.html",
+          "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
+          "body": "Franco Colapinto quedó eliminado en la Q2, terminó 15° y partirá desde el fondo de la grilla por las penalizaciones que arrastra.\n\nAfectado por una nueva penalización, Colapinto terminó 19°, 22° y 9° en las prácticas libres en Malasia 03/10/2026 06:19 am El argentino no pudo pasar de la Q2, en la cual no marcó tiempo (Foto: @AlpineF1Team) + Seguinos en Max Verstappen consiguió este sábado la pole position del Gran Premio de Malasia de Fórmula 1, correspondiente a la temporada 2026, al marcar el mejor tiempo en la clasificación disputada en el circuito de Sepang. El piloto de Red Bull superó a Lewis Hamilton por casi tres décimas y se aseguró por primera vez en el año el primer lugar de partida, mientras que Franco Colapinto finalizó 15° y largará anteúltimo en la carrera del domingo.\n\nVerstappen dominó buena parte de la clasificación y confirmó su rendimiento en la Q3, donde mejoró nuevamente su registro para quedarse con la primera posición. Hamilton terminó segundo y completará la primera fila, mientras que Isack Hadjar había terminado tercero, aunque deberá retroceder por una penalización . De esta manera, Kimi Antonelli heredará el tercer puesto y Charles Leclerc ocupará el cuarto lugar. Detrás partirán Lando Norris y Oscar Piastri, mientras que George Russell será séptimo y Hadjar, finalmente, octavo.\n\nColapinto, por su parte, logró avanzar a la Q2 después de finalizar décimo en la primera tanda, en la que Verstappen, Hamilton y Leclerc ocuparon los primeros lugares . Sin embargo, el piloto argentino no consiguió meterse entre los diez mejores y quedó eliminado en el 15° puesto, por delante únicamente de Arvid Lindblad entre los pilotos que llegaron a la Q2. En su último intento, Colapinto salió con neumáticos usados y finalmente abortó la vuelta cuando restaban po",
+          "language": "es",
+          "publishedAt": "2026-10-03T09:19:14.000Z",
+          "addedAt": "2026-10-02T16:23:12.620Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
           "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
           "summary": "Cobertura especial del GP de Singapur de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
@@ -2070,6 +2130,21 @@
           "language": "es",
           "publishedAt": "2026-10-09T16:47:52.000Z",
           "addedAt": "2026-10-09T17:11:32.303Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
+          "title": "Revista Campeones: Fain lideró un histórico 1-2 de Torino en el TC",
+          "summary": "Avanza la Copa de Oro del Turismo Carretera y se mezclan las marcas en la batalla por la corona más buscada del deporte motor argentino.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-Resvista-Fain-Chapur-Dos-Toros-Audaces.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-14T16:15:47.000Z",
+          "addedAt": "2026-10-14T17:11:27.828Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -2192,7 +2267,13 @@
           "addedAt": "2026-10-03T10:16:39.500Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-14T20:11:38.492Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
           "title": "Después de la accidentada carrera, Colapinto estableció sus objetivos para Malasia",
@@ -2222,13 +2303,7 @@
           "addedAt": "2026-10-10T16:11:32.512Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-14T19:11:34.109Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-la-gran-derrota-de-alpine-en-el-gp-de-singapur-id765680-html",
           "title": "La gran derrota de Alpine en el GP de Singapur",
@@ -2468,36 +2543,6 @@
           "addedAt": "2026-10-14T01:11:34.744Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-palpito-gp-singapur-formula-1-id764619-html",
-          "title": "Colapinto palpitó el GP de Singapur: “Será uno de los más extremos de la temporada”",
-          "summary": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-palpito-gp-singapur-formula-1-id764619.html",
-          "image": "https://media.tycsports.com/files/2026/10/04/992824/franco-colapinto_1440x810.webp",
-          "body": "Luego de finalizar 13° en Malasia, el piloto argentino anticipó la nueva jornada de la Máxima y enfatizó en el desafío físico que representarán las condiciones climáticas en el circuito callejero Marina Bay.\n\nFranco Colapinto terminó enojado por la estrategia de Alpine en Malasia. (Jayce Illman/Getty Images) + Seguinos en Luego de escalar ocho posiciones y finalizar 13° en Malasia, Franco Colapinto, piloto argentino de Alpine, palpitó el GP de Singapur de la Fórmula 1, que se correrá el fin de semana próximo en el circuito callejero Marina Bay, uno de los escenarios más desafiantes para los pilotos desde el punto de vista físico.\n\n\"Después de nuestra carrera en Malasia, estamos haciendo el corto viaje a Singapur para uno de los fines de semana más extremos de la temporada. El calor y la humedad fueron todo un desafío en Sepang y no serán diferente este fin de semana, solo que con la naturaleza añadida de que es un circuito urbano\" , sostuvo el argentino\n\nSiguiendo esa línea, su compañero de equipo, Pierre Gasly agregó: \"Ya estamos bastante acostumbrados a las condiciones, dado que competimos en Malasia el fin de semana pasado, donde hizo calor, humedad y, por supuesto, llovió mucho el día de la carrera\".\n\nSobre la pista, Colapinto destacó: “La pista es implacable y muy divertida de conducir. La mezcla de curvas técnicas, superficie llena de baches y paredes cerradas, además de estar bajo las luces, lo convierte en uno de mis favoritos del año”.",
-          "language": "es",
-          "publishedAt": "2026-10-06T20:52:30.000Z",
-          "addedAt": "2026-10-07T01:11:30.601Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
-          "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
-          "summary": "Canapino es un fanático de toda expresión de la velocidad y ve a Colapinto \"muy asentado, firme, andando rápido y está consiguiendo puntos\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-y-Colapinto-imagen.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-13T13:48:02.000Z",
-          "addedAt": "2026-10-13T14:11:31.643Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     }
