@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T03:11:30.878Z",
-  "checkedAt": "2026-10-14T03:11:30.878Z",
+  "updatedAt": "2026-10-14T04:11:31.807Z",
+  "checkedAt": "2026-10-14T04:11:31.807Z",
   "pageSize": 18,
   "sources": [
     {
@@ -1063,7 +1063,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-14T03:11:34.416Z",
+      "createdAt": "2026-10-14T04:11:34.729Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1339,7 +1339,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-14T03:11:34.416Z",
+      "createdAt": "2026-10-14T04:11:34.729Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-hadjar-exabrupto-dolor-culo-no-poder-pasar-colapinto-f1-gp-singapur-id765737-html",
@@ -1615,7 +1615,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-14T03:11:34.416Z",
+      "createdAt": "2026-10-14T04:11:34.729Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1891,7 +1891,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-14T03:11:34.416Z",
+      "createdAt": "2026-10-14T04:11:34.729Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -2089,21 +2089,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
-          "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
-          "summary": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/canapino-maniobra-viral-tn-id766078.html",
-          "image": "https://media.tycsports.com/files/2026/10/13/995713/foto_1440x810.webp?v=1",
-          "body": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.\n\nLa cámara on board de Canapino y su sobresaliente maniobra + Seguinos en La extraordinaria maniobra de Agustín Canapino, en la que pasó a tres autos en la última vuelta, sigue dando que hablar. El piloto de 36 años posteó un video en su cuenta de Instagram con la cámara a bordo de su destacada acción , que le permitió quedarse con la victoria en la segunda serie de la Clase 3 del Turismo Nacional en el Autódromo Ciudad de San Martín, en Mendoza, el último domingo.\n\n“¡La maniobra desde adentro! Aplausos para Facu Chapur, Jorge Barrio y Facu Marques por poner todo y el nivel conductivo. La calidad del automovilismo argentino reflejada en su máxima expresión”, fue el mensaje del oriundo de Arrecifes que acompañó las imágenes desde el interior de su Chevrolet Cruze.\n\nLa publicación rápidamente se viralizó en redes sociales y ya cuenta con más de 75.000 me gusta y alrededor de 1500 comentarios. Entre tantas reacciones, se destaca la de Ale Martínez, el hermano del Dibu, quien respondió: “Qué locura”. No solo eso, sino que las imágenes alcanzaron repercusión internacional y diversos medios sudamericanos, europeos y asiáticos se rindieron ante la habilidad de Canapino al volante.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur Lo cierto es que la secuencia no tiene desperdicio. En la última vuelta de la carrera en Mendoza, Jorge Barrio y Facundo Chapur venían compitiendo cabeza a cabeza por el primer lugar, con Facundo Marques en el tercero y Canapino detrás de ellos.",
-          "language": "es",
-          "publishedAt": "2026-10-14T00:47:43.000Z",
-          "addedAt": "2026-10-14T01:11:34.744Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-la-gran-derrota-de-alpine-en-el-gp-de-singapur-id765680-html",
           "title": "La gran derrota de Alpine en el GP de Singapur",
           "summary": "Colapinto abandonó y Gasly finalizó 11°. Racing Bulls se escapa y afianza como quinto en el Campeonato de Constructores...",
@@ -2162,13 +2147,7 @@
           "addedAt": "2026-10-03T10:16:39.500Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-14T03:11:34.416Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
           "title": "Después de la accidentada carrera, Colapinto estableció sus objetivos para Malasia",
@@ -2183,7 +2162,13 @@
           "addedAt": "2026-10-02T16:23:13.438Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-14T04:11:34.729Z",
+      "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
@@ -2213,6 +2198,21 @@
           "addedAt": "2026-10-03T09:12:02.953Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
+          "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
+          "summary": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/canapino-maniobra-viral-tn-id766078.html",
+          "image": "https://media.tycsports.com/files/2026/10/13/995713/foto_1440x810.webp?v=1",
+          "body": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.\n\nLa cámara on board de Canapino y su sobresaliente maniobra + Seguinos en La extraordinaria maniobra de Agustín Canapino, en la que pasó a tres autos en la última vuelta, sigue dando que hablar. El piloto de 36 años posteó un video en su cuenta de Instagram con la cámara a bordo de su destacada acción , que le permitió quedarse con la victoria en la segunda serie de la Clase 3 del Turismo Nacional en el Autódromo Ciudad de San Martín, en Mendoza, el último domingo.\n\n“¡La maniobra desde adentro! Aplausos para Facu Chapur, Jorge Barrio y Facu Marques por poner todo y el nivel conductivo. La calidad del automovilismo argentino reflejada en su máxima expresión”, fue el mensaje del oriundo de Arrecifes que acompañó las imágenes desde el interior de su Chevrolet Cruze.\n\nLa publicación rápidamente se viralizó en redes sociales y ya cuenta con más de 75.000 me gusta y alrededor de 1500 comentarios. Entre tantas reacciones, se destaca la de Ale Martínez, el hermano del Dibu, quien respondió: “Qué locura”. No solo eso, sino que las imágenes alcanzaron repercusión internacional y diversos medios sudamericanos, europeos y asiáticos se rindieron ante la habilidad de Canapino al volante.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur Lo cierto es que la secuencia no tiene desperdicio. En la última vuelta de la carrera en Mendoza, Jorge Barrio y Facundo Chapur venían compitiendo cabeza a cabeza por el primer lugar, con Facundo Marques en el tercero y Canapino detrás de ellos.",
+          "language": "es",
+          "publishedAt": "2026-10-14T00:47:43.000Z",
+          "addedAt": "2026-10-14T01:11:34.744Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1",
