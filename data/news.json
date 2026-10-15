@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-15T04:11:26.349Z",
-  "checkedAt": "2026-10-15T04:11:26.349Z",
+  "updatedAt": "2026-10-15T05:11:27.293Z",
+  "checkedAt": "2026-10-15T05:11:27.293Z",
   "pageSize": 18,
   "sources": [
     {
@@ -111,21 +111,6 @@
       "language": "es",
       "publishedAt": "2026-10-14T18:38:13.000Z",
       "addedAt": "2026-10-14T19:11:26.628Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-pick-up-vuelve-a-la-plata-con-13-camionetas",
-      "title": "TC Pick Up vuelve a La Plata con 13 camionetas | Campeones",
-      "summary": "La categoría se presenta en el autódromo Mouras con el TC Mouras, la Fórmula 3 Metropolitana y el Turismo 4000 Argebtino.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-pick-up-vuelve-a-la-plata-con-13-camionetas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/06/TC-PICK-UP-LA-PLATA.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-14T17:00:22.000Z",
-      "addedAt": "2026-10-14T17:11:27.829Z",
       "category": "general",
       "tag": "F1"
     },
@@ -263,6 +248,21 @@
       "addedAt": "2026-10-09T23:11:32.571Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-tc-pick-up-vuelve-a-la-plata-con-13-camionetas",
+      "title": "TC Pick Up vuelve a La Plata con 13 camionetas | Campeones",
+      "summary": "La categoría se presenta en el autódromo Mouras con el TC Mouras, la Fórmula 3 Metropolitana y el Turismo 4000 Argebtino.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-pick-up-vuelve-a-la-plata-con-13-camionetas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/06/TC-PICK-UP-LA-PLATA.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-14T17:00:22.000Z",
+      "addedAt": "2026-10-14T17:11:27.829Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-lema-despejo-dudas-sobre-el-futuro-de-canapino-en-el-tc-y-tn",
@@ -1168,7 +1168,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-15T04:11:29.112Z",
+      "createdAt": "2026-10-15T05:11:29.478Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1444,7 +1444,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-15T04:11:29.112Z",
+      "createdAt": "2026-10-15T05:11:29.478Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
@@ -1720,7 +1720,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-15T04:11:29.112Z",
+      "createdAt": "2026-10-15T05:11:29.478Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1996,7 +1996,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-15T04:11:29.112Z",
+      "createdAt": "2026-10-15T05:11:29.478Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
@@ -2115,21 +2115,6 @@
           "language": "es",
           "publishedAt": "2026-10-09T16:47:52.000Z",
           "addedAt": "2026-10-09T17:11:32.303Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
-          "title": "Revista Campeones: Fain lideró un histórico 1-2 de Torino en el TC",
-          "summary": "Avanza la Copa de Oro del Turismo Carretera y se mezclan las marcas en la batalla por la corona más buscada del deporte motor argentino.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-Resvista-Fain-Chapur-Dos-Toros-Audaces.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-14T16:15:47.000Z",
-          "addedAt": "2026-10-14T17:11:27.828Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -2267,13 +2252,7 @@
           "addedAt": "2026-10-02T16:23:13.438Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-15T04:11:29.112Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-singapur-id764617-html",
           "title": "F1: horarios y cronograma completo del GP de Singapur",
@@ -2288,6 +2267,27 @@
           "addedAt": "2026-10-10T16:11:32.512Z",
           "category": "argentino",
           "tag": "Franco"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-15T05:11:29.478Z",
+      "items": [
+        {
+          "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
+          "title": "Revista Campeones: Fain lideró un histórico 1-2 de Torino en el TC",
+          "summary": "Avanza la Copa de Oro del Turismo Carretera y se mezclan las marcas en la batalla por la corona más buscada del deporte motor argentino.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-Resvista-Fain-Chapur-Dos-Toros-Audaces.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-14T16:15:47.000Z",
+          "addedAt": "2026-10-14T17:11:27.828Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-la-gran-derrota-de-alpine-en-el-gp-de-singapur-id765680-html",
