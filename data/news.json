@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-15T14:11:26.456Z",
-  "checkedAt": "2026-10-15T14:11:26.456Z",
+  "updatedAt": "2026-10-15T15:11:27.204Z",
+  "checkedAt": "2026-10-15T15:11:27.204Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-canapino-sobre-balcarce-estuvo-espectacular",
+      "title": "Canapino sobre Balcarce: \"Estuvo espectacular\" | Campeones",
+      "summary": "El autódromo \"Juan Manuel Fangio\" ubicado en el Cerro La Barrosa volvió a tener actividad con el TC Pick Up y allí estuvo el \"Titán\", que le brindó a Campeones su apreciación sobre cómo quedó el histórico trazado.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/canapino-sobre-balcarce-estuvo-espectacular/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/gui8158-1790536724815-29540246-e1792069083834.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-15T12:58:11.000Z",
+      "addedAt": "2026-10-15T15:11:27.634Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
       "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
@@ -1213,7 +1228,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-15T14:11:28.820Z",
+      "createdAt": "2026-10-15T15:11:32.216Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1302,6 +1317,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T15:23:11.000Z",
           "addedAt": "2026-10-10T19:11:31.928Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-alpine-mike-elliott-mercedes-franco-colapinto-formula-1-briatore-gasly-id766358-html",
+          "title": "La incorporación de Alpine para potencial a Colapinto y Gasly en la Fórmula 1",
+          "summary": "La escudería francesa oficializó la llegada del experimentado ingeniero británico, quien asumirá la conducción técnica del equipo con el objetivo de mejorar su rendimiento en pista.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/alpine-mike-elliott-mercedes-franco-colapinto-formula-1-briatore-gasly-id766358.html",
+          "image": "https://media.tycsports.com/files/2026/10/15/996206/mike-elliott_1440x810.webp?v=1",
+          "body": "La escudería francesa oficializó la llegada del experimentado ingeniero británico, quien asumirá la conducción técnica del equipo con el objetivo de mejorar su rendimiento en pista.\n\nMike Elliott, nueva incorporación de Alpine (Qian Jun/MB Media/Getty Images). + Seguinos en Alpine apuesta a una renovación técnica para dar un salto de calidad en la Fórmula 1. Con Franco Colapinto y Pierre Gasly como protagonistas de su proyecto deportivo, la escudería francesa realizó la presentación oficial de Mike Elliott , exdirector técnico de Mercedes, quien tendrá la responsabilidad de impulsar el desarrollo del equipo.\n\nAunque su incorporación había sido anunciada un mes atrás, el ingeniero británico recibió ahora la bienvenida frente al personal de la fábrica de Enstone. Flavio Briatore, asesor ejecutivo de la estructura, encabezó el acto y compartió un video en sus redes sociales con un mensaje contundente: \"Estoy seguro de que con Mike llevaremos al equipo a un nivel diferente\" .\n\nDurante su primera intervención ante los trabajadores, el nuevo director de tecnología (CTO) puso el foco en la importancia del capital humano para conseguir mejores resultados. \"Probablemente has tenido muchos cambios, has tenido mucha gente parada aquí y te dicen cómo podría ser el futuro y cómo podría avanzar; y por mucho que fuera bueno lo que dijo Flavio, mi creencia es muy simple: si miras la Fórmula 1 un poco como un economista, nuestro trabajo es convertir los recursos en rendimiento en la pista \" , afirmó.\n\nEn esa misma línea, Elliott destacó el papel fundamental de los integrantes de la escudería para alcanzar los objetivos deportivos. \"Y si miras cuáles son nuestros recursos clave en la empresa son todos ustedes . Saben que son las personas que pueden marcar la diferencia; saben que podemos",
+          "language": "es",
+          "publishedAt": "2026-10-15T14:50:46.000Z",
+          "addedAt": "2026-10-15T15:11:29.313Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1469,7 +1499,13 @@
           "addedAt": "2026-10-11T00:11:32.946Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-15T15:11:32.216Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-companero-colapinto-alpine-podria-perder-licencia-conducir-insolita-razon-id766309-html",
           "title": "El compañero de Colapinto en Alpine que podría perder su licencia de conducir por una insólita razón",
@@ -1484,13 +1520,7 @@
           "addedAt": "2026-10-15T11:11:27.412Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-15T14:11:28.820Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-f1-gp-malasia-colapinto-esperanza-declaraciones-qualy-15-largada-21-id764169-html",
           "title": "Colapinto, entre la resignación y la esperanza: \"Era lo que esperábamos, pero se puede remontar\"",
@@ -1745,27 +1775,12 @@
           "addedAt": "2026-10-02T17:57:42.536Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255-html",
-          "title": "Cómo quedó la grilla para el Sprint del Gran Premio de Singapur de la F1",
-          "summary": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255.html",
-          "image": "https://media.tycsports.com/files/2026/10/09/994388/colapinto-en-singapur-photo-by-daniel-cenganadolu-via-getty-images_1440x810.webp?v=1",
-          "body": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.\n\nColapinto en Singapur (Photo by Daniel Ceng/Anadolu via Getty Images) + Seguinos en El fin de semana traerá consigo acción en la Fórmula 1, con lo que será tanto la carrera principal del domingo como el Sprint del sábado en el Gran Premio de Singapur . Así, de cara a lo que será el evento de mañana, la clasificación determinó que Max Verstappen sea el dueño de la pole, en tanto que Franco Colapinto quedó cerca de la zona de puntos .\n\nCon un tiempo final de 1:31.156s, el neerlandés de Red Bull se hizo dueño de la pole para la carrera corta del circuito de Marina Bay . Apenas por detrás, con un mejor tiempo de 1:31.276s, apareció George Russell, de Mercedes . En tanto, el tercer puesto de la grilla fue para Charles Leclerc, de Ferrari, con un registro de 1:31.399s.\n\nComplicado por una tempranera bandera roja provocada por un accidente de Sergio Pérez en la curva 4, Colapinto vio demorada su salida a pista, algo que también le sucedió a su compañero, Pierre Gasly. De todas maneras, con un registro de 1:35.048s, el pilarense logró meterse en SQ2, instancia en la que marcó un mejor tiempo de 1:33.249s, para quedarse con el 11° puesto de la grilla. De esta manera, si bien no logró avanzar a la SQ3, quedó cerca de los primeros ocho puestos del Sprint, con chances de sumar puntos .",
-          "language": "es",
-          "publishedAt": "2026-10-09T16:47:52.000Z",
-          "addedAt": "2026-10-09T17:11:32.303Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-15T14:11:28.820Z",
+      "createdAt": "2026-10-15T15:11:32.216Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1779,21 +1794,6 @@
           "language": "es",
           "publishedAt": "2026-10-14T01:34:46.000Z",
           "addedAt": "2026-10-14T02:11:31.944Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-corrio-en-el-tc-fue-campeon-del-tc-pista-y-ahora-atiende-un-minimercado-en-san-juan-id76",
-          "title": "Corrió en el TC, fue campeón del TC Pista y ahora atiende un minimercado en San Juan",
-          "summary": "El cuyano tuvo una carrera ligada al automovilismo desde su debut en 1992. En el 98 hizo su estreno en el Turismo Carretera y un año después fue campeón en Pista. Hoy está alejado, aunque nunca de manera definitiva, y se dedica a un emprendimiento personal.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/corrio-en-el-tc-fue-campeon-del-tc-pista-y-ahora-atiende-un-minimercado-en-san-juan-id765830.html",
-          "image": "https://media.tycsports.com/files/2026/10/12/995355/benedetti_862x485.webp",
-          "body": "El cuyano tuvo una carrera ligada al automovilismo desde su debut en 1992. En el 98 hizo su estreno en el Turismo Carretera y un año después fue campeón en Pista. Hoy está alejado, aunque nunca de manera definitiva, y se dedica a un emprendimiento personal.\n\nEl piloto sanjuanino pasó una vida ligado al volante y, aunque ya no lo hace en las categorías de élite, sigue vinculado mientras reparte su tiempo atendiendo un negocio familiar + Seguinos en Fabrizio Benedetti pasó toda una vida ligada al automovilismo. Parte de una familia fierrera, su padre era un seguidor del deporte y, aunque de chico no lo dejó correr hasta los 20 años, cuando se subió a un auto no se bajó más . Hermano de Franco, también piloto, el sanjuanino hizo un larguísimo recorrido por las distintas categorías principales del país y a los 53 años vive alejado del volante -aunque nunca definitivo- y enfocado en gestionar y atender un mini market que tiene en San Juan .\n\nEl ex corredor nacido el 23 de abril de 1973 en la provincia cuyana supo protagonizar el Turismo Carretera, el TC Pista y hasta el Zonal Cuyano , pero ahora esa etapa parece haber quedado atrás, porque Benedetti, a los 53 años, se enfocó en el local familiar que tiene donde además disfruta de atender él mismo a los clientes y las charlas que surgen, según le contó hace un año a Tiempo de San Juan .\n\nDespués de haber lidiado en la adolescencia con su familia para que lo dejaran correr, Benedetti considera que su debut llegó en 1992 cuando condujo un Fiat 128 en el Zonal Cuyano , pero su nombre apareció en primera plana cuando desembarcó en el TC en el autódromo Oscar Gálvez de Buenos Aires el 3 de mayo de 1998 con el número 158 .\n\nAunque aquella temporada no le fue bien -disputó 13 carreras-, al año siguiente la ACTC decidió que los últim",
-          "language": "es",
-          "publishedAt": "2026-10-14T14:30:28.000Z",
-          "addedAt": "2026-10-14T15:11:28.233Z",
           "category": "general",
           "tag": "Carrera"
         },
@@ -1826,6 +1826,21 @@
           "addedAt": "2026-10-13T22:11:31.400Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-corrio-en-el-tc-fue-campeon-del-tc-pista-y-ahora-atiende-un-minimercado-en-san-juan-id76",
+          "title": "Corrió en el TC, fue campeón del TC Pista y ahora atiende un minimercado en San Juan",
+          "summary": "El cuyano tuvo una carrera ligada al automovilismo desde su debut en 1992. En el 98 hizo su estreno en el Turismo Carretera y un año después fue campeón en Pista. Hoy está alejado, aunque nunca de manera definitiva, y se dedica a un emprendimiento personal.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/corrio-en-el-tc-fue-campeon-del-tc-pista-y-ahora-atiende-un-minimercado-en-san-juan-id765830.html",
+          "image": "https://media.tycsports.com/files/2026/10/12/995355/benedetti_862x485.webp",
+          "body": "El cuyano tuvo una carrera ligada al automovilismo desde su debut en 1992. En el 98 hizo su estreno en el Turismo Carretera y un año después fue campeón en Pista. Hoy está alejado, aunque nunca de manera definitiva, y se dedica a un emprendimiento personal.\n\nEl piloto sanjuanino pasó una vida ligado al volante y, aunque ya no lo hace en las categorías de élite, sigue vinculado mientras reparte su tiempo atendiendo un negocio familiar + Seguinos en Fabrizio Benedetti pasó toda una vida ligada al automovilismo. Parte de una familia fierrera, su padre era un seguidor del deporte y, aunque de chico no lo dejó correr hasta los 20 años, cuando se subió a un auto no se bajó más . Hermano de Franco, también piloto, el sanjuanino hizo un larguísimo recorrido por las distintas categorías principales del país y a los 53 años vive alejado del volante -aunque nunca definitivo- y enfocado en gestionar y atender un mini market que tiene en San Juan .\n\nEl ex corredor nacido el 23 de abril de 1973 en la provincia cuyana supo protagonizar el Turismo Carretera, el TC Pista y hasta el Zonal Cuyano , pero ahora esa etapa parece haber quedado atrás, porque Benedetti, a los 53 años, se enfocó en el local familiar que tiene donde además disfruta de atender él mismo a los clientes y las charlas que surgen, según le contó hace un año a Tiempo de San Juan .\n\nDespués de haber lidiado en la adolescencia con su familia para que lo dejaran correr, Benedetti considera que su debut llegó en 1992 cuando condujo un Fiat 128 en el Zonal Cuyano , pero su nombre apareció en primera plana cuando desembarcó en el TC en el autódromo Oscar Gálvez de Buenos Aires el 3 de mayo de 1998 con el número 158 .\n\nAunque aquella temporada no le fue bien -disputó 13 carreras-, al año siguiente la ACTC decidió que los últim",
+          "language": "es",
+          "publishedAt": "2026-10-14T14:30:28.000Z",
+          "addedAt": "2026-10-14T15:11:28.233Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "www-tycsports-com-automovilismo-el-nuevo-autodromo-de-buenos-aires-avanza-con-las-pruebas-de-asfalto-y-se-prepara-para-e",
@@ -2041,7 +2056,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-15T14:11:28.820Z",
+      "createdAt": "2026-10-15T15:11:32.216Z",
       "items": [
         {
           "id": "campeones-com-ar-vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal",
@@ -2132,6 +2147,21 @@
           "addedAt": "2026-10-09T17:11:32.069Z",
           "category": "general",
           "tag": "Reglamento"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255-html",
+          "title": "Cómo quedó la grilla para el Sprint del Gran Premio de Singapur de la F1",
+          "summary": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255.html",
+          "image": "https://media.tycsports.com/files/2026/10/09/994388/colapinto-en-singapur-photo-by-daniel-cenganadolu-via-getty-images_1440x810.webp?v=1",
+          "body": "El argentino partirá desde el 11° puesto, en tanto que el neerlandés será el dueño de la pole, seguido de cerca por George Russell y Charles Leclerc.\n\nColapinto en Singapur (Photo by Daniel Ceng/Anadolu via Getty Images) + Seguinos en El fin de semana traerá consigo acción en la Fórmula 1, con lo que será tanto la carrera principal del domingo como el Sprint del sábado en el Gran Premio de Singapur . Así, de cara a lo que será el evento de mañana, la clasificación determinó que Max Verstappen sea el dueño de la pole, en tanto que Franco Colapinto quedó cerca de la zona de puntos .\n\nCon un tiempo final de 1:31.156s, el neerlandés de Red Bull se hizo dueño de la pole para la carrera corta del circuito de Marina Bay . Apenas por detrás, con un mejor tiempo de 1:31.276s, apareció George Russell, de Mercedes . En tanto, el tercer puesto de la grilla fue para Charles Leclerc, de Ferrari, con un registro de 1:31.399s.\n\nComplicado por una tempranera bandera roja provocada por un accidente de Sergio Pérez en la curva 4, Colapinto vio demorada su salida a pista, algo que también le sucedió a su compañero, Pierre Gasly. De todas maneras, con un registro de 1:35.048s, el pilarense logró meterse en SQ2, instancia en la que marcó un mejor tiempo de 1:33.249s, para quedarse con el 11° puesto de la grilla. De esta manera, si bien no logró avanzar a la SQ3, quedó cerca de los primeros ocho puestos del Sprint, con chances de sumar puntos .",
+          "language": "es",
+          "publishedAt": "2026-10-09T16:47:52.000Z",
+          "addedAt": "2026-10-09T17:11:32.303Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
@@ -2297,7 +2327,13 @@
           "addedAt": "2026-10-10T16:11:32.512Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-15T15:11:32.216Z",
+      "items": [
         {
           "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
           "title": "Revista Campeones: Fain lideró un histórico 1-2 de Torino en el TC",
@@ -2312,13 +2348,7 @@
           "addedAt": "2026-10-14T17:11:27.828Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-15T14:11:28.820Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-la-gran-derrota-de-alpine-en-el-gp-de-singapur-id765680-html",
           "title": "La gran derrota de Alpine en el GP de Singapur",
@@ -2571,21 +2601,6 @@
           "language": "es",
           "publishedAt": "2026-10-08T12:00:37.000Z",
           "addedAt": "2026-10-08T12:11:34.255Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-mensaje-colapinto-messi-seleccion-argentina-formula-1-id764776-html",
-          "title": "Una foto especial y un clásico musical: las elecciones de Colapinto para homenajear a Messi",
-          "summary": "El piloto subió una historia en su cuenta de Instagram para saludar a la Pulga. Ya se había pronunciado en redes con el anuncio del futbolista de retirarse del combinado nacional. Habían estado juntos en el Gran Premio de Miami de Fórmula 1.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/mensaje-colapinto-messi-seleccion-argentina-formula-1-id764776.html",
-          "image": "https://media.tycsports.com/files/2026/10/07/993850/messi-y-colapinto_1440x810.webp?v=1",
-          "body": "El piloto subió una historia en su cuenta de Instagram para saludar a la Pulga. Ya se había pronunciado en redes con el anuncio del futbolista de retirarse del combinado nacional. Habían estado juntos en el Gran Premio de Miami de Fórmula 1.\n\nLionel Messi y Franco Colapinto, juntos en el Gran Premio de Miami. + Seguinos en Franco Colapinto publicó una historia en su cuenta de instagram para saludar a Lionel Messi en su despedida de la Selección Argentina. “Adiós” , escribió con un corazón en lugar de la letra “a”, el número 10 en reemplazo de la “i” y la “o”, y el emoji de una cara llorando y un infinitito como cierre.\n\nLa foto elegida por el piloto de Alpine fue una suya con la camiseta del conjunto nacional y el 19 en el dorso , la primera que la Pulga utilizó en la Albiceleste. Con ese número incluso debutó en un Mundial (Alemania 2006) en lo que fue el inicio de un camino que tuvo seis Copas del Mundo y un título.\n\nComo fondo en la publicación sonó la canción Stop crying your heart out , un clásico de Oasis que Colapinto incluyó para darle música a su mensaje. Ambos habían estado juntos en el Gran Premio de Miami, cuando la Pulga presenció la carrera de Fórmula 1 y visitó al conductor argentino.\n\nLa historia de Franco Colapinto para despedir a Messi El propio Colapinto ya había hecho una publicación tras el anuncio de Messi sobre su salida del seleccionado nacional. “No existen palabras de agradecimiento que jamás vayan a alcanzar. Somos unos afortunados de haberte tenido y disfrutado durante tanto tiempo. Sos ejemplo de todos” , escribió.",
-          "language": "es",
-          "publishedAt": "2026-10-07T21:59:23.000Z",
-          "addedAt": "2026-10-07T22:11:34.431Z",
           "category": "argentino",
           "tag": "Franco"
         }
