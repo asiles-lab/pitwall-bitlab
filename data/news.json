@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-15T17:11:26.492Z",
-  "checkedAt": "2026-10-15T17:11:26.492Z",
+  "updatedAt": "2026-10-15T18:11:26.418Z",
+  "checkedAt": "2026-10-15T18:11:26.418Z",
   "pageSize": 18,
   "sources": [
     {
@@ -143,6 +143,21 @@
       "addedAt": "2026-10-14T20:11:28.598Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-urcera-y-su-cambio-de-marca-en-tc-fue-acertada-la-decision-de-correr-con-mercedes-benz",
+      "title": "Urcera y su cambio de marca en TC: «Fue acertada la decisión de correr con Mercedes-Benz»",
+      "summary": "El campeón 2022 de Turismo Carretera hizo un alto de una actividad promocional con el equipo Maquin Parts en el autódromo de 9 de Julio y repasó en Campeones sus sensaciones con el coche de la marca alemana.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/urcera-y-su-cambio-de-marca-en-tc-fue-acertada-la-decision-de-correr-con-mercedes-benz/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261015-TC-Urcera-MBenz.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-15T17:22:45.000Z",
+      "addedAt": "2026-10-15T18:11:27.254Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
@@ -1228,7 +1243,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-15T17:11:34.209Z",
+      "createdAt": "2026-10-15T18:11:33.208Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1332,21 +1347,6 @@
           "language": "es",
           "publishedAt": "2026-10-10T15:23:11.000Z",
           "addedAt": "2026-10-10T19:11:31.928Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-alpine-mike-elliott-mercedes-franco-colapinto-formula-1-briatore-gasly-id766358-html",
-          "title": "La incorporación de Alpine para potencial a Colapinto y Gasly en la Fórmula 1",
-          "summary": "La escudería francesa oficializó la llegada del experimentado ingeniero británico, quien asumirá la conducción técnica del equipo con el objetivo de mejorar su rendimiento en pista.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/alpine-mike-elliott-mercedes-franco-colapinto-formula-1-briatore-gasly-id766358.html",
-          "image": "https://media.tycsports.com/files/2026/10/15/996206/mike-elliott_1440x810.webp?v=1",
-          "body": "La escudería francesa oficializó la llegada del experimentado ingeniero británico, quien asumirá la conducción técnica del equipo con el objetivo de mejorar su rendimiento en pista.\n\nMike Elliott, nueva incorporación de Alpine (Qian Jun/MB Media/Getty Images). + Seguinos en Alpine apuesta a una renovación técnica para dar un salto de calidad en la Fórmula 1. Con Franco Colapinto y Pierre Gasly como protagonistas de su proyecto deportivo, la escudería francesa realizó la presentación oficial de Mike Elliott , exdirector técnico de Mercedes, quien tendrá la responsabilidad de impulsar el desarrollo del equipo.\n\nAunque su incorporación había sido anunciada un mes atrás, el ingeniero británico recibió ahora la bienvenida frente al personal de la fábrica de Enstone. Flavio Briatore, asesor ejecutivo de la estructura, encabezó el acto y compartió un video en sus redes sociales con un mensaje contundente: \"Estoy seguro de que con Mike llevaremos al equipo a un nivel diferente\" .\n\nDurante su primera intervención ante los trabajadores, el nuevo director de tecnología (CTO) puso el foco en la importancia del capital humano para conseguir mejores resultados. \"Probablemente has tenido muchos cambios, has tenido mucha gente parada aquí y te dicen cómo podría ser el futuro y cómo podría avanzar; y por mucho que fuera bueno lo que dijo Flavio, mi creencia es muy simple: si miras la Fórmula 1 un poco como un economista, nuestro trabajo es convertir los recursos en rendimiento en la pista \" , afirmó.\n\nEn esa misma línea, Elliott destacó el papel fundamental de los integrantes de la escudería para alcanzar los objetivos deportivos. \"Y si miras cuáles son nuestros recursos clave en la empresa son todos ustedes . Saben que son las personas que pueden marcar la diferencia; saben que podemos",
-          "language": "es",
-          "publishedAt": "2026-10-15T14:50:46.000Z",
-          "addedAt": "2026-10-15T15:11:29.313Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1499,13 +1499,7 @@
           "addedAt": "2026-10-02T16:23:12.821Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-15T17:11:34.209Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-gran-premio-de-singapur-por-cambios-en-la-grilla-colapinto-largara-desde-el-15-puesto",
           "title": "Gran Premio de Singapur: por cambios en la grilla, Colapinto largará desde el 15.° puesto",
@@ -1518,6 +1512,27 @@
           "language": "es",
           "publishedAt": "2026-10-10T23:58:07.000Z",
           "addedAt": "2026-10-11T00:11:32.946Z",
+          "category": "argentino",
+          "tag": "Franco"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-15T18:11:33.208Z",
+      "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-alpine-mike-elliott-mercedes-franco-colapinto-formula-1-briatore-gasly-id766358-html",
+          "title": "La incorporación de Alpine para potencial a Colapinto y Gasly en la Fórmula 1",
+          "summary": "La escudería francesa oficializó la llegada del experimentado ingeniero británico, quien asumirá la conducción técnica del equipo con el objetivo de mejorar su rendimiento en pista.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/alpine-mike-elliott-mercedes-franco-colapinto-formula-1-briatore-gasly-id766358.html",
+          "image": "https://media.tycsports.com/files/2026/10/15/996206/mike-elliott_1440x810.webp?v=1",
+          "body": "La escudería francesa oficializó la llegada del experimentado ingeniero británico, quien asumirá la conducción técnica del equipo con el objetivo de mejorar su rendimiento en pista.\n\nMike Elliott, nueva incorporación de Alpine (Qian Jun/MB Media/Getty Images). + Seguinos en Alpine apuesta a una renovación técnica para dar un salto de calidad en la Fórmula 1. Con Franco Colapinto y Pierre Gasly como protagonistas de su proyecto deportivo, la escudería francesa realizó la presentación oficial de Mike Elliott , exdirector técnico de Mercedes, quien tendrá la responsabilidad de impulsar el desarrollo del equipo.\n\nAunque su incorporación había sido anunciada un mes atrás, el ingeniero británico recibió ahora la bienvenida frente al personal de la fábrica de Enstone. Flavio Briatore, asesor ejecutivo de la estructura, encabezó el acto y compartió un video en sus redes sociales con un mensaje contundente: \"Estoy seguro de que con Mike llevaremos al equipo a un nivel diferente\" .\n\nDurante su primera intervención ante los trabajadores, el nuevo director de tecnología (CTO) puso el foco en la importancia del capital humano para conseguir mejores resultados. \"Probablemente has tenido muchos cambios, has tenido mucha gente parada aquí y te dicen cómo podría ser el futuro y cómo podría avanzar; y por mucho que fuera bueno lo que dijo Flavio, mi creencia es muy simple: si miras la Fórmula 1 un poco como un economista, nuestro trabajo es convertir los recursos en rendimiento en la pista \" , afirmó.\n\nEn esa misma línea, Elliott destacó el papel fundamental de los integrantes de la escudería para alcanzar los objetivos deportivos. \"Y si miras cuáles son nuestros recursos clave en la empresa son todos ustedes . Saben que son las personas que pueden marcar la diferencia; saben que podemos",
+          "language": "es",
+          "publishedAt": "2026-10-15T14:50:46.000Z",
+          "addedAt": "2026-10-15T15:11:29.313Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1780,7 +1795,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-15T17:11:34.209Z",
+      "createdAt": "2026-10-15T18:11:33.208Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2056,7 +2071,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-15T17:11:34.209Z",
+      "createdAt": "2026-10-15T18:11:33.208Z",
       "items": [
         {
           "id": "campeones-com-ar-vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal",
@@ -2332,7 +2347,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-15T17:11:34.209Z",
+      "createdAt": "2026-10-15T18:11:33.208Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-gran-derrota-de-alpine-en-el-gp-de-singapur-id765680-html",
@@ -2378,6 +2393,21 @@
           "addedAt": "2026-10-03T09:12:02.953Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-la-sorpresa-del-estilo-argentino-en-las-bajas-norteamericanas",
+          "title": "La sorpresa del estilo argentino en las bajas norteamericanas | Campeones",
+          "summary": "El podio de Alfredo Olmedo y Dani López detrás de Max y Robby Gordon: \"Nos ven con sorpresa y admiran la adaptación de los argentinos\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-sorpresa-del-estilo-argentino-en-las-bajas-norteamericanas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Alfredo-Olmedo-Baja-Norra-Equipo-Podio-Dani-Lopez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-15T17:42:42.000Z",
+          "addedAt": "2026-10-15T18:11:26.932Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur",
@@ -2586,21 +2616,6 @@
           "language": "es",
           "publishedAt": "2026-10-08T13:32:18.000Z",
           "addedAt": "2026-10-08T14:11:31.288Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
-          "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
-          "summary": "Canapino es un fanático de toda expresión de la velocidad y ve a Colapinto \"muy asentado, firme, andando rápido y está consiguiendo puntos\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-y-Colapinto-imagen.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-13T13:48:02.000Z",
-          "addedAt": "2026-10-15T17:11:27.249Z",
           "category": "argentino",
           "tag": "Franco"
         }
