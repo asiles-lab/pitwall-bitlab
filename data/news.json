@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-15T15:11:27.204Z",
-  "checkedAt": "2026-10-15T15:11:27.204Z",
+  "updatedAt": "2026-10-15T16:11:26.402Z",
+  "checkedAt": "2026-10-15T16:11:26.402Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,21 +40,6 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-canapino-sobre-balcarce-estuvo-espectacular",
-      "title": "Canapino sobre Balcarce: \"Estuvo espectacular\" | Campeones",
-      "summary": "El autódromo \"Juan Manuel Fangio\" ubicado en el Cerro La Barrosa volvió a tener actividad con el TC Pick Up y allí estuvo el \"Titán\", que le brindó a Campeones su apreciación sobre cómo quedó el histórico trazado.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/canapino-sobre-balcarce-estuvo-espectacular/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/gui8158-1790536724815-29540246-e1792069083834.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-15T12:58:11.000Z",
-      "addedAt": "2026-10-15T15:11:27.634Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
       "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
       "summary": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.",
@@ -66,6 +51,36 @@
       "language": "es",
       "publishedAt": "2026-10-14T00:47:43.000Z",
       "addedAt": "2026-10-15T13:11:27.161Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-el-piloto-brasileno-que-reemplazara-a-esteban-ocon-en-haas-y-debutara-en-la-f1-en-2027-i",
+      "title": "Quién es el piloto que reemplazará a Esteban Ocon en Haas y debutará en la F1 en 2027",
+      "summary": "Rafael Camara, el joven de 21 años que hoy lidera la F2, firmó un contrato plurianual y se espera que sea compañero de Oliver Bearman la próxima temporada.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/el-piloto-brasileno-que-reemplazara-a-esteban-ocon-en-haas-y-debutara-en-la-f1-en-2027-id766366.html",
+      "image": "https://media.tycsports.com/files/2026/10/15/996218/rafael-camara_1440x810.webp?v=1",
+      "body": "Rafael Camara, el joven de 21 años que hoy lidera la F2, firmó un contrato plurianual y se espera que sea compañero de Oliver Bearman la próxima temporada.\n\nRafael Camara, el brasileño de 21 años que será piloto de Haas a partir de 2027 + Seguinos en Rafael Camara será piloto de Haas en la Fórmula 1 en 2027. El líder del campeonato de F2 firmó un contrato plurianual con la escudería estadounidense y se espera que comparta equipo con Oliver Bearman. Ocupará el lugar de Esteban Ocon , que se irá a fines de 2026, tras dos temporadas en el equipo.\n\nEl brasileño escaló fugazmente a la F1. Ganó la FRECA en 2024 y la F3 en 2025 , ambos títulos de manera contundente. Hoy pelea la F2 con Invicta, donde es líder por una diferencia de siete puntos sobre Nikola Tsolov. Si se queda con el campeonato, será el único piloto en ganar FRECA, F3 y F2 en temporadas consecutivas. Camara expresó: “Estoy muy contento de incorporarme a TGR Haas F1 como piloto de Fórmula 1. Es un paso importante en mi carrera y quiero agradecer a Gene Haas y a Ayao Komatsu por la confianza que depositaron en mí”.\n\nY agregó: “También estoy muy agradecido a la Ferrari Driver Academy por su apoyo y por todo lo que aportó a mi desarrollo a lo largo de los años , y a mi familia por estar siempre a mi lado durante este viaje. Ahora mi objetivo es prepararme de la mejor manera posible para este nuevo desafío. Habrá mucho por aprender y tengo muchas ganas de trabajar codo a codo con el equipo, entender el auto y seguir creciendo como piloto”.\n\nPor su parte, Haas se tomó su tiempo para oficializar la decisión. Camara era el que más sonaba aunque competía con Leonardo Fornaroli, actual campeón de F2 , y con el piloto de reserva Ryo Hirakawa . Los tres pasaron por los programas TPC (pruebas con autos de temporadas anterio",
+      "language": "es",
+      "publishedAt": "2026-10-15T15:15:51.000Z",
+      "addedAt": "2026-10-15T16:11:27.731Z",
+      "category": "general",
+      "tag": "Mercado"
+    },
+    {
+      "id": "campeones-com-ar-canapino-sobre-balcarce-estuvo-espectacular",
+      "title": "Canapino sobre Balcarce: \"Estuvo espectacular\" | Campeones",
+      "summary": "El autódromo \"Juan Manuel Fangio\" ubicado en el Cerro La Barrosa volvió a tener actividad con el TC Pick Up y allí estuvo el \"Titán\", que le brindó a Campeones su apreciación sobre cómo quedó el histórico trazado.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/canapino-sobre-balcarce-estuvo-espectacular/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/gui8158-1790536724815-29540246-e1792069083834.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-15T12:58:11.000Z",
+      "addedAt": "2026-10-15T15:11:27.634Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -115,21 +130,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
-      "title": "¿Qué esperar del nuevo jefe técnico de Alpine F1 Team?",
-      "summary": "Mike Elliott cuenta con experiencia como director técnico y de tecnología en Mercedes y un pasado por Renault y McLaren.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Elliott-Alpine-Jefe-nuevo-v2.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-15T12:55:12.000Z",
-      "addedAt": "2026-10-15T13:11:27.174Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana",
       "title": "Julián Santero retorna a las Pick Up el próximo fin de semana | Campeones",
       "summary": "El piloto mendocino es el inscripto N°14, retornando con la Ford Ranger del Magnoluz Racing desde el fin de semana.",
@@ -158,6 +158,21 @@
       "addedAt": "2026-10-14T20:11:28.598Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
+      "title": "¿Qué esperar del nuevo jefe técnico de Alpine F1 Team?",
+      "summary": "Mike Elliott cuenta con experiencia como director técnico y de tecnología en Mercedes y un pasado por Renault y McLaren.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Elliott-Alpine-Jefe-nuevo-v2.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-15T12:55:12.000Z",
+      "addedAt": "2026-10-15T13:11:27.174Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-esta-noche-grandes-campeones-69",
@@ -261,21 +276,6 @@
       "language": "es",
       "publishedAt": "2026-10-08T17:07:37.000Z",
       "addedAt": "2026-10-09T17:11:41.967Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-santiago-alvarez-cambia-de-equipo-en-el-turismo-carretera",
-      "title": "Santiago Álvarez cambia de equipo en el Turismo Carretera | Campeones",
-      "summary": "El piloto de Ferré llega al TCM Racing conducido por Javier Ciabattari y deja la escudería del \"Chispa\" Uranga.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/santiago-alvarez-cambia-de-equipo-en-el-turismo-carretera/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2025/11/Santiago-Alvarez-Canning-e1791475609537.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-08T16:06:58.000Z",
-      "addedAt": "2026-10-09T16:11:31.535Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -533,6 +533,21 @@
       "addedAt": "2026-10-14T22:11:27.996Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-santiago-alvarez-cambia-de-equipo-en-el-turismo-carretera",
+      "title": "Santiago Álvarez cambia de equipo en el Turismo Carretera | Campeones",
+      "summary": "El piloto de Ferré llega al TCM Racing conducido por Javier Ciabattari y deja la escudería del \"Chispa\" Uranga.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/santiago-alvarez-cambia-de-equipo-en-el-turismo-carretera/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2025/11/Santiago-Alvarez-Canning-e1791475609537.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-08T16:06:58.000Z",
+      "addedAt": "2026-10-09T16:11:31.535Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-la-largada-entre-chapur-y-santero-recibi-toques-en-un-curvon-rapido",
@@ -1228,7 +1243,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-15T15:11:32.216Z",
+      "createdAt": "2026-10-15T16:11:28.602Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1257,6 +1272,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T13:04:13.000Z",
           "addedAt": "2026-10-10T11:11:31.839Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-briatore-colapinto-formula-1-id766372-html",
+          "title": "La reacción de Briatore al video de Colapinto por los mensajes de odio en redes sociales",
+          "summary": "El asesor de Alpine comentó la publicación del argentino, quien reclamó terminar con las agresiones hacia pilotos, mecánicos y compañeros de equipo.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/briatore-colapinto-formula-1-id766372.html",
+          "image": "https://media.tycsports.com/files/2026/10/15/996230/colapinto-briatore_1440x810.webp?v=1",
+          "body": "El asesor de Alpine comentó la publicación del argentino, quien reclamó terminar con las agresiones hacia pilotos, mecánicos y compañeros de equipo.\n\nFranco Colapinto junto a Flavio Briatore (Kym Illman/Getty Images). + Seguinos en El contundente descargo de Franco Colapinto contra los ataques de sus seguidores en redes sociales tuvo una respuesta especial dentro de Alpine. Flavio Briatore , asesor ejecutivo de la escudería francesa, respaldó públicamente al argentino con dos emojis de aplausos , en una intervención que superó los cinco mil likes.\n\nEl gesto del dirigente italiano llegó después de que el piloto de Pilar pidiera frenar el hostigamiento hacia sus colegas y trabajadores de la Fórmula 1. Su publicación generó más de 33 mil comentarios y abrió un debate sobre los límites del fanatismo en el automovilismo.\n\n“Hay algo muy importante de lo que necesito hablarles hace un tiempo. Es algo necesario que tenemos que cambiar, que tenemos que mejorar ” , expresó el corredor de 23 años, quien reconoció el cariño que recibe desde sus primeros pasos en el deporte. Sin embargo, su principal preocupación apunta a las consecuencias de las agresiones contra otros integrantes de la categoría. “Sé que están pensando que me están defendiendo, pero están generando lo contrario . No me ayudan ni a mí ni a mi futuro” , advirtió.\n\nLa postura del argentino también encontró respaldo fuera de Alpine. Facundo Ardusso acompañó la publicación con aplausos , mientras que el Automóvil Club Argentino (ACA) manifestó: \" La pasión por el automovilismo también se demuestra con respeto, dentro y fuera de la pista . Acompañamos tus palabras, Franco. ¡Siempre alentando!\" .",
+          "language": "es",
+          "publishedAt": "2026-10-15T15:35:47.000Z",
+          "addedAt": "2026-10-15T16:11:28.222Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1484,7 +1514,13 @@
           "addedAt": "2026-10-02T16:23:12.821Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-15T16:11:28.602Z",
+      "items": [
         {
           "id": "campeones-com-ar-gran-premio-de-singapur-por-cambios-en-la-grilla-colapinto-largara-desde-el-15-puesto",
           "title": "Gran Premio de Singapur: por cambios en la grilla, Colapinto largará desde el 15.° puesto",
@@ -1499,13 +1535,7 @@
           "addedAt": "2026-10-11T00:11:32.946Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-15T15:11:32.216Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-companero-colapinto-alpine-podria-perder-licencia-conducir-insolita-razon-id766309-html",
           "title": "El compañero de Colapinto en Alpine que podría perder su licencia de conducir por una insólita razón",
@@ -1760,27 +1790,12 @@
           "addedAt": "2026-10-02T16:23:12.620Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
-          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
-          "summary": "Cobertura especial del GP de Singapur de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-08T17:00:17.000Z",
-          "addedAt": "2026-10-02T17:57:42.536Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-15T15:11:32.216Z",
+      "createdAt": "2026-10-15T16:11:28.602Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2056,7 +2071,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-15T15:11:32.216Z",
+      "createdAt": "2026-10-15T16:11:28.602Z",
       "items": [
         {
           "id": "campeones-com-ar-vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal",
@@ -2147,6 +2162,21 @@
           "addedAt": "2026-10-09T17:11:32.069Z",
           "category": "general",
           "tag": "Reglamento"
+        },
+        {
+          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
+          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
+          "summary": "Cobertura especial del GP de Singapur de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-08T17:00:17.000Z",
+          "addedAt": "2026-10-02T17:57:42.536Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-formula-1-como-quedo-la-grilla-sprint-gran-premio-singapur-id765255-html",
@@ -2312,7 +2342,13 @@
           "addedAt": "2026-10-02T16:23:13.438Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-15T16:11:28.602Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-singapur-id764617-html",
           "title": "F1: horarios y cronograma completo del GP de Singapur",
@@ -2327,13 +2363,7 @@
           "addedAt": "2026-10-10T16:11:32.512Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-15T15:11:32.216Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
           "title": "Revista Campeones: Fain lideró un histórico 1-2 de Torino en el TC",
@@ -2586,21 +2616,6 @@
           "language": "es",
           "publishedAt": "2026-10-08T13:32:18.000Z",
           "addedAt": "2026-10-08T14:11:31.288Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-broma-singapur-recordo-final-mundial-id764845-html",
-          "title": "La broma de Colapinto en el GP de Singapur que recordó la final del Mundial: \"Esa camiseta está mal\"",
-          "summary": "El piloto argentino de Alpine, con memoria futbolera, le soltó una frase a un hincha con la camiseta de España que no necesita explicación.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-broma-singapur-recordo-final-mundial-id764845.html",
-          "image": "https://media.tycsports.com/files/2026/10/08/993994/la-broma-de-colapinto-a-un-hincha-espanol-en-singapur-que-recordo-la-final-del-mundial-esa-camiseta-esta-mal_416x234.webp?v=1",
-          "body": "El piloto argentino de Alpine, con memoria futbolera, le soltó una frase a un hincha con la camiseta de España que no necesita explicación.\n\nLa broma de Colapinto a un hincha español en Singapur que recordó la final del Mundial: \"Esa camiseta está mal\" + Seguinos en Franco Colapinto está en Singapur para el Gran Premio, pero encontró la manera de hablar de fútbol. El piloto de Alpine se cruzó con un hincha que llevaba puesta la casaca de España y la reacción fue inmediata: \"Esa camiseta está mal.\" La frase, cargada de humor, pero con la herida de la final del Mundial 2026 todavía fresca — cuando La Rpja derrotó a Argentina por 1-0 —, desató risas y terminó con el fanático reconociendo que él también hincha por la Albiceleste.\n\nEl video lo publicó la cuenta oficial de la escudería francesa y no tardó en circular. En las imágenes se ve a Colapinto frente a un hincha que lleva puesta la camiseta de la selección española, y el piloto no necesita mucho tiempo para reaccionar. Lejos de incomodarse, el simpatizante respondió con buena onda al intercambio. El momento derivó en risas y terminó con una declaración que el piloto argentino supo capitalizar: e l español confesó que, en el fondo, también hincha por Argentina. Misión cumplida. Alpine eligió ese clip para publicarlo con una frase que ya sintetiza lo que el pilarense genera donde quiera que vaya: \"Podemos estar en Singapur, pero para Franco siempre es Argentina.\" No es la primera vez que Colapinto convierte una parada del calendario en una pequeña embajada argentina. A lo largo de la temporada, su popularidad dentro y fuera de la pista hizo que los encuentros con hinchas se volvieran una constante en cada ciudad que visita.\n\nEl GP de Singapur se disputa en el circuito urbano de Marina Bay, uno de los más exigentes del c",
-          "language": "es",
-          "publishedAt": "2026-10-08T12:00:37.000Z",
-          "addedAt": "2026-10-08T12:11:34.255Z",
           "category": "argentino",
           "tag": "Franco"
         }
