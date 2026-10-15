@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-15T06:11:26.391Z",
-  "checkedAt": "2026-10-15T06:11:26.391Z",
+  "updatedAt": "2026-10-15T07:11:26.390Z",
+  "checkedAt": "2026-10-15T07:11:26.390Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet",
-      "title": "Agustín Canapino y el mensaje para los hinchas de Chevrolet",
-      "summary": "El “Titán” fue consultado por Campeones acerca de la definición de TC que se aproxima y su relación con la marca, la cual defiende en tres frentes distintos.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9952.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-14T18:50:10.000Z",
-      "addedAt": "2026-10-14T20:11:28.598Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "www-tycsports-com-automovilismo-agustin-canapino-tn-barrio-chapur-pelea-id765691-html",
       "title": "Canapino ganó una impactante serie en el TN tras una feroz pelea contra Barrio y Chapur",
@@ -100,19 +85,19 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-a-la-venta-las-entradas-para-el-tc-en-rosario",
-      "title": "A la venta las entradas para el TC en Rosario",
-      "summary": "Comenzó la venta anticipada para la decimotercera presentación del año en el autódromo «Juan Manuel Fangio» los próximos 24 y 25 de octubre.",
+      "id": "campeones-com-ar-agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet",
+      "title": "Agustín Canapino y el mensaje para los hinchas de Chevrolet",
+      "summary": "El “Titán” fue consultado por Campeones acerca de la definición de TC que se aproxima y su relación con la marca, la cual defiende en tres frentes distintos.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/a-la-venta-las-entradas-para-el-tc-en-rosario/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2022/08/rosario-autodromo.jpg",
+      "url": "https://campeones.com.ar/agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9952.jpeg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-14T18:38:13.000Z",
-      "addedAt": "2026-10-14T19:11:26.628Z",
-      "category": "general",
-      "tag": "F1"
+      "publishedAt": "2026-10-14T18:50:10.000Z",
+      "addedAt": "2026-10-14T20:11:28.598Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-esta-noche-grandes-campeones-69",
@@ -248,6 +233,21 @@
       "addedAt": "2026-10-09T23:11:32.571Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-a-la-venta-las-entradas-para-el-tc-en-rosario",
+      "title": "A la venta las entradas para el TC en Rosario",
+      "summary": "Comenzó la venta anticipada para la decimotercera presentación del año en el autódromo «Juan Manuel Fangio» los próximos 24 y 25 de octubre.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/a-la-venta-las-entradas-para-el-tc-en-rosario/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2022/08/rosario-autodromo.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-14T18:38:13.000Z",
+      "addedAt": "2026-10-14T19:11:26.628Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tc-pick-up-vuelve-a-la-plata-con-13-camionetas",
@@ -1168,7 +1168,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-15T06:11:28.507Z",
+      "createdAt": "2026-10-15T07:11:28.257Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1444,7 +1444,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-15T06:11:28.507Z",
+      "createdAt": "2026-10-15T07:11:28.257Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
@@ -1720,7 +1720,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-15T06:11:28.507Z",
+      "createdAt": "2026-10-15T07:11:28.257Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1996,7 +1996,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-15T06:11:28.507Z",
+      "createdAt": "2026-10-15T07:11:28.257Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
@@ -2272,7 +2272,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-15T06:11:28.507Z",
+      "createdAt": "2026-10-15T07:11:28.257Z",
       "items": [
         {
           "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
