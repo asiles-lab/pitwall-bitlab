@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-16T13:11:26.636Z",
-  "checkedAt": "2026-10-16T13:11:26.636Z",
+  "updatedAt": "2026-10-16T14:11:26.631Z",
+  "checkedAt": "2026-10-16T14:11:26.631Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,51 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026",
+      "title": "Hyundai anuncia a Camilo Trappa en su lista de TCR World Tour en Macao 2026",
+      "summary": "El piloto argentino se destaca en la lista de buena fe de la mano del equipo Hyundai MSA para la icónica pista urbana de Macao.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Camilo-Trappa-Hyundai-Macao-Previo-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-16T14:01:54.000Z",
+      "addedAt": "2026-10-16T14:11:32.274Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-la-sorpresa-del-estilo-argentino-en-las-bajas-norteamericanas",
+      "title": "La sorpresa del estilo argentino en las bajas norteamericanas | Campeones",
+      "summary": "El podio de Alfredo Olmedo y Dani López detrás de Max y Robby Gordon: \"Nos ven con sorpresa y admiran la adaptación de los argentinos\".",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/la-sorpresa-del-estilo-argentino-en-las-bajas-norteamericanas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Alfredo-Olmedo-Baja-Norra-Equipo-Podio-Dani-Lopez.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-15T17:42:42.000Z",
+      "addedAt": "2026-10-16T14:11:31.612Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
+      "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
+      "summary": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/canapino-maniobra-viral-tn-id766078.html",
+      "image": "https://media.tycsports.com/files/2026/10/13/995713/foto_1440x810.webp?v=1",
+      "body": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.\n\nLa cámara on board de Canapino y su sobresaliente maniobra + Seguinos en La extraordinaria maniobra de Agustín Canapino, en la que pasó a tres autos en la última vuelta, sigue dando que hablar. El piloto de 36 años posteó un video en su cuenta de Instagram con la cámara a bordo de su destacada acción , que le permitió quedarse con la victoria en la segunda serie de la Clase 3 del Turismo Nacional en el Autódromo Ciudad de San Martín, en Mendoza, el último domingo.\n\n“¡La maniobra desde adentro! Aplausos para Facu Chapur, Jorge Barrio y Facu Marques por poner todo y el nivel conductivo. La calidad del automovilismo argentino reflejada en su máxima expresión”, fue el mensaje del oriundo de Arrecifes que acompañó las imágenes desde el interior de su Chevrolet Cruze.\n\nLa publicación rápidamente se viralizó en redes sociales y ya cuenta con más de 75.000 me gusta y alrededor de 1500 comentarios. Entre tantas reacciones, se destaca la de Ale Martínez, el hermano del Dibu, quien respondió: “Qué locura”. No solo eso, sino que las imágenes alcanzaron repercusión internacional y diversos medios sudamericanos, europeos y asiáticos se rindieron ante la habilidad de Canapino al volante.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur Lo cierto es que la secuencia no tiene desperdicio. En la última vuelta de la carrera en Mendoza, Jorge Barrio y Facundo Chapur venían compitiendo cabeza a cabeza por el primer lugar, con Facundo Marques en el tercero y Canapino detrás de ellos.",
+      "language": "es",
+      "publishedAt": "2026-10-14T00:47:43.000Z",
+      "addedAt": "2026-10-16T14:11:27.510Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "www-tycsports-com-automovilismo-agustin-canapino-tn-barrio-chapur-pelea-id765691-html",
       "title": "Canapino ganó una impactante serie en el TN tras una feroz pelea contra Barrio y Chapur",
@@ -1243,7 +1288,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-16T13:11:33.237Z",
+      "createdAt": "2026-10-16T14:11:36.816Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1519,8 +1564,23 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-16T13:11:33.237Z",
+      "createdAt": "2026-10-16T14:11:36.816Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-un-argentino-se-toco-con-verstappen-y-lo-expuso-a-una-sancion-en-el-gt-world-challenge-i",
+          "title": "Un argentino se tocó con Verstappen y lo expuso a una sanción en el GT World Challenge",
+          "summary": "El incidente ocurrió en la curva 3 de Portimao durante los primeros minutos de la práctica. Los comisarios determinaron que el piloto de la Fórmula 1 fue el único responsable de la colisión.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/un-argentino-se-toco-con-verstappen-y-lo-expuso-a-una-sancion-en-el-gt-world-challenge-id766693.html",
+          "image": "https://media.tycsports.com/files/2026/10/16/996548/el-momento-del-toque-entre-verstappen-y-perez-companc-_862x485.webp",
+          "body": "El incidente ocurrió en la curva 3 de Portimao durante los primeros minutos de la práctica. Los comisarios determinaron que el piloto de la Fórmula 1 fue el único responsable de la colisión.\n\nVerstappen tocó al argentino Pérez Companc en el GT World Challenge y se salvó de una sanción + Seguinos en Max Verstappen aprovechó la pausa de la Fórmula 1 pero no se tomó descanso, sino que volvió a subirse a un auto para competir en el GT World Challenge Europe . Si bien llegaba en un gran momento (había logrado dos victorias consecutivas en los GP de Baréin y Singapur), no fue una buena jornada para el piloto neerlandés, que protagonizó un incidente con el argentino Ezequiel Pérez Companc durante la primera práctica en Portimao.\n\nLa maniobra se produjo en la curva 3, cuando el Mercedes-AMG número 3 de Team Verstappen Racing tocó con su trompa la parte trasera del Audi número 25. El auto del argentino perdió estabilidad, hizo un trompo y debió salir de los límites de la pista para regresar , mientras el tetracampeón de la F1 hacía gestos de disconformidad desde su habitáculo. Ambos pudieron continuar en la sesión.\n\nLuego de revisar las imágenes y escuchar las explicaciones de los protagonistas, los comisarios deportivos sancionaron a Verstappen con una amonestación y un punto de penalización . El informe oficial detalló las versiones de ambos corredores sobre lo ocurrido en el comienzo de los entrenamientos.\n\n“El piloto del coche 25 declaró que estaba concentrado en los coches que tenía delante y que no pudo ver al coche 3 a su derecha. Consideró el suceso como un incidente de carrera desafortunado. El piloto del coche 3 explicó que intentó realizar un adelantamiento, esperando que el coche 25 se mantuviera hacia el exterior de la curva, y que se vio sorprendido cuando el coche",
+          "language": "es",
+          "publishedAt": "2026-10-16T14:05:52.000Z",
+          "addedAt": "2026-10-16T14:11:27.616Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
         {
           "id": "www-tycsports-com-automovilismo-formula-1-franco-colapinto-alpine-mensaje-fans-criticas-redes-sociales-id766239-html",
           "title": "El especial pedido de Colapinto para que cesen los mensajes de odio en redes: \"Piensan que me defienden, pero generan lo contrario\"",
@@ -1762,40 +1822,25 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur",
-          "title": "Otra falla en el Alpine le impidió terminar a Colapinto en Singapur",
-          "summary": "Antes de cumplirse la mitad de carrera, el argentino debió abandonar por un inconveniente técnico en el A526. Verstappen consiguió ganar en este trazado por primera vez.",
+          "id": "campeones-com-ar-el-italo-argentino-mattia-colnaghi-confirmado-para-el-clasico-gp-de-macao",
+          "title": "El ítalo argentino Mattia Colnaghi confirmado para el clásico GP de Macao",
+          "summary": "Se prepara la 73ra edición del GP de Macao y el equipo MP Motorsport confirmó a Colnaghi para estar del 19 al 22 de noviembre allí.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261011-F1-Colapinto-Alpine-Singapur.jpg",
+          "url": "https://campeones.com.ar/el-italo-argentino-mattia-colnaghi-confirmado-para-el-clasico-gp-de-macao/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/07/PHOTO-2026-07-02-11-31-54-e1787156686222.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-11T13:07:54.000Z",
-          "addedAt": "2026-10-11T13:11:26.435Z",
+          "publishedAt": "2026-10-16T11:04:21.000Z",
+          "addedAt": "2026-10-16T14:11:27.142Z",
           "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint",
-          "title": "En Marina Bay y desde el 11.° puesto, Colapinto buscará sumar con el Alpine en la carrera Sprint",
-          "summary": "A partir de la hora 6:00 de Argentina, el piloto pilarense pretende escalar posiciones en la competencia sabatina del GP de Singapur.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Alpine-Singapur.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T23:57:48.000Z",
-          "addedAt": "2026-10-10T00:11:30.816Z",
-          "category": "argentino",
-          "tag": "Franco"
+          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-16T13:11:33.237Z",
+      "createdAt": "2026-10-16T14:11:36.816Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2071,7 +2116,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-16T13:11:33.237Z",
+      "createdAt": "2026-10-16T14:11:36.816Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
@@ -2162,6 +2207,36 @@
           "addedAt": "2026-10-09T16:11:31.196Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur",
+          "title": "Otra falla en el Alpine le impidió terminar a Colapinto en Singapur",
+          "summary": "Antes de cumplirse la mitad de carrera, el argentino debió abandonar por un inconveniente técnico en el A526. Verstappen consiguió ganar en este trazado por primera vez.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261011-F1-Colapinto-Alpine-Singapur.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-11T13:07:54.000Z",
+          "addedAt": "2026-10-11T13:11:26.435Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint",
+          "title": "En Marina Bay y desde el 11.° puesto, Colapinto buscará sumar con el Alpine en la carrera Sprint",
+          "summary": "A partir de la hora 6:00 de Argentina, el piloto pilarense pretende escalar posiciones en la competencia sabatina del GP de Singapur.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Alpine-Singapur.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T23:57:48.000Z",
+          "addedAt": "2026-10-10T00:11:30.816Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-a-pesar-de-algunos-inconvenientes-en-singapur-colapinto-confia-no-estamos-lejos",
@@ -2312,7 +2387,13 @@
           "addedAt": "2026-10-11T15:11:31.271Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-16T14:11:36.816Z",
+      "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
@@ -2342,13 +2423,7 @@
           "addedAt": "2026-10-03T09:12:02.953Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-16T13:11:33.237Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
           "title": "Colapinto y los mensajes de odio en redes: \"No me ayudan a mí ni a mi futuro\"",
@@ -2575,21 +2650,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
-          "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
-          "summary": "Canapino es un fanático de toda expresión de la velocidad y ve a Colapinto \"muy asentado, firme, andando rápido y está consiguiendo puntos\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-y-Colapinto-imagen.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-13T13:48:02.000Z",
-          "addedAt": "2026-10-16T06:11:27.505Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido",
           "title": "TC: Ford y Chevrolet, de la convivencia prohibida a compartir taller cada vez más seguido",
           "summary": "La llegada de Santiago Álvarez y su Camaro al TCM Racing, donde tendrá como compañero a Ricardo Risatti (Mustang), reafirma una tendencia que no es nueva pero que ha ganado fuerza en la última década.",
@@ -2601,21 +2661,6 @@
           "language": "es",
           "publishedAt": "2026-10-16T12:26:41.000Z",
           "addedAt": "2026-10-16T13:11:27.293Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada",
-          "title": "Baltazar Frezze piloto RVM oficial en el Dakar: \"Una marca argentina de gente buena y apasionada\"",
-          "summary": "El sueño de un salteño que fue a mirar el Dakar de pequeño y hoy entrena con los Benavides, con el respaldo oficial de una marca argentina.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Baltazar-RVM-Portada-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-15T20:53:49.000Z",
-          "addedAt": "2026-10-15T21:11:27.092Z",
           "category": "argentino",
           "tag": "Argentino"
         }
