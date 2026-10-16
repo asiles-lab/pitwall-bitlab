@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-16T07:11:26.731Z",
-  "checkedAt": "2026-10-16T07:11:26.731Z",
+  "updatedAt": "2026-10-16T08:11:26.776Z",
+  "checkedAt": "2026-10-16T08:11:26.776Z",
   "pageSize": 18,
   "sources": [
     {
@@ -70,21 +70,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-los-argentinos-anotados-para-el-mundial-de-flat-track",
-      "title": "Los argentinos anotados para el Mundial de Flat Track",
-      "summary": "El Campeonato Mundial FIM de Flat Track llega a Totoras, Santa Fe, para definir monarcas con 28 pilotos anotados para el 24 y 25 de octubre.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/los-argentinos-anotados-para-el-mundial-de-flat-track/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Flat-Track-Pilotos.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-13T08:00:31.000Z",
-      "addedAt": "2026-10-14T17:11:28.023Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-canapino-sobre-balcarce-estuvo-espectacular",
       "title": "Canapino sobre Balcarce: \"Estuvo espectacular\" | Campeones",
       "summary": "El autódromo \"Juan Manuel Fangio\" ubicado en el Cerro La Barrosa volvió a tener actividad con el TC Pick Up y allí estuvo el \"Titán\", que le brindó a Campeones su apreciación sobre cómo quedó el histórico trazado.",
@@ -96,6 +81,21 @@
       "language": "es",
       "publishedAt": "2026-10-15T12:58:11.000Z",
       "addedAt": "2026-10-15T15:11:27.634Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-los-argentinos-anotados-para-el-mundial-de-flat-track",
+      "title": "Los argentinos anotados para el Mundial de Flat Track",
+      "summary": "El Campeonato Mundial FIM de Flat Track llega a Totoras, Santa Fe, para definir monarcas con 28 pilotos anotados para el 24 y 25 de octubre.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/los-argentinos-anotados-para-el-mundial-de-flat-track/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Flat-Track-Pilotos.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-13T08:00:31.000Z",
+      "addedAt": "2026-10-14T17:11:28.023Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -1243,7 +1243,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-16T07:11:28.553Z",
+      "createdAt": "2026-10-16T08:11:29.194Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1519,7 +1519,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-16T07:11:28.553Z",
+      "createdAt": "2026-10-16T08:11:29.194Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
@@ -1795,7 +1795,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-16T07:11:28.553Z",
+      "createdAt": "2026-10-16T08:11:29.194Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2071,7 +2071,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-16T07:11:28.553Z",
+      "createdAt": "2026-10-16T08:11:29.194Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
@@ -2347,7 +2347,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-16T07:11:28.553Z",
+      "createdAt": "2026-10-16T08:11:29.194Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
