@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-16T09:11:26.766Z",
-  "checkedAt": "2026-10-16T09:11:26.766Z",
+  "updatedAt": "2026-10-16T10:11:26.618Z",
+  "checkedAt": "2026-10-16T10:11:26.618Z",
   "pageSize": 18,
   "sources": [
     {
@@ -1243,7 +1243,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-16T09:11:29.377Z",
+      "createdAt": "2026-10-16T10:11:30.055Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1519,7 +1519,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-16T09:11:29.377Z",
+      "createdAt": "2026-10-16T10:11:30.055Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
@@ -1795,7 +1795,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-16T09:11:29.377Z",
+      "createdAt": "2026-10-16T10:11:30.055Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2071,7 +2071,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-16T09:11:29.377Z",
+      "createdAt": "2026-10-16T10:11:30.055Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
@@ -2347,7 +2347,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-16T09:11:29.377Z",
+      "createdAt": "2026-10-16T10:11:30.055Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
@@ -2376,21 +2376,6 @@
           "language": "es",
           "publishedAt": "2026-10-14T20:07:37.000Z",
           "addedAt": "2026-10-14T20:11:28.426Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur",
-          "title": "F1: Colapinto quedó 19.° en la única práctica del GP de Singapur",
-          "summary": "Como la mayoría, se enfocó con el Alpine en la preparación para la carrera del domingo en las calles de Marina Bay; Russell fue el más rápido con el Mercedes. A la hora 9:30 se llevará a cabo la clasificación de la carrera Sprint .",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-colapinto-quedo-19-en-la-unica-practica-del-gp-de-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Singapur.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T09:35:30.000Z",
-          "addedAt": "2026-10-09T10:11:30.737Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2616,6 +2601,21 @@
           "language": "es",
           "publishedAt": "2026-10-15T20:53:49.000Z",
           "addedAt": "2026-10-15T21:11:27.092Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-la-sorpresa-del-estilo-argentino-en-las-bajas-norteamericanas",
+          "title": "La sorpresa del estilo argentino en las bajas norteamericanas | Campeones",
+          "summary": "El podio de Alfredo Olmedo y Dani López detrás de Max y Robby Gordon: \"Nos ven con sorpresa y admiran la adaptación de los argentinos\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-sorpresa-del-estilo-argentino-en-las-bajas-norteamericanas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Alfredo-Olmedo-Baja-Norra-Equipo-Podio-Dani-Lopez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-15T17:42:42.000Z",
+          "addedAt": "2026-10-16T10:11:27.247Z",
           "category": "argentino",
           "tag": "Argentino"
         }
