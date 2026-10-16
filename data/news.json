@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-16T05:08:59.863Z",
-  "checkedAt": "2026-10-16T05:08:59.863Z",
+  "updatedAt": "2026-10-16T06:11:26.951Z",
+  "checkedAt": "2026-10-16T06:11:26.951Z",
   "pageSize": 18,
   "sources": [
     {
@@ -113,21 +113,6 @@
       "addedAt": "2026-10-15T16:11:27.731Z",
       "category": "general",
       "tag": "Mercado"
-    },
-    {
-      "id": "campeones-com-ar-urcera-y-su-cambio-de-marca-en-tc-fue-acertada-la-decision-de-correr-con-mercedes-benz",
-      "title": "Urcera y su cambio de marca en TC: «Fue acertada la decisión de correr con Mercedes-Benz»",
-      "summary": "El campeón 2022 de Turismo Carretera hizo un alto de una actividad promocional con el equipo Maquin Parts en el autódromo de 9 de Julio y repasó en Campeones sus sensaciones con el coche de la marca alemana.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/urcera-y-su-cambio-de-marca-en-tc-fue-acertada-la-decision-de-correr-con-mercedes-benz/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261015-TC-Urcera-MBenz.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-15T17:22:45.000Z",
-      "addedAt": "2026-10-15T18:11:27.254Z",
-      "category": "general",
-      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana",
@@ -263,6 +248,21 @@
       "addedAt": "2026-10-09T23:11:32.571Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-urcera-y-su-cambio-de-marca-en-tc-fue-acertada-la-decision-de-correr-con-mercedes-benz",
+      "title": "Urcera y su cambio de marca en TC: «Fue acertada la decisión de correr con Mercedes-Benz»",
+      "summary": "El campeón 2022 de Turismo Carretera hizo un alto de una actividad promocional con el equipo Maquin Parts en el autódromo de 9 de Julio y repasó en Campeones sus sensaciones con el coche de la marca alemana.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/urcera-y-su-cambio-de-marca-en-tc-fue-acertada-la-decision-de-correr-con-mercedes-benz/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261015-TC-Urcera-MBenz.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-15T17:22:45.000Z",
+      "addedAt": "2026-10-15T18:11:27.254Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-lema-despejo-dudas-sobre-el-futuro-de-canapino-en-el-tc-y-tn",
@@ -1243,7 +1243,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-16T05:09:09.866Z",
+      "createdAt": "2026-10-16T06:11:29.313Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1519,7 +1519,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-16T05:09:09.866Z",
+      "createdAt": "2026-10-16T06:11:29.313Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
@@ -1795,7 +1795,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-16T05:09:09.866Z",
+      "createdAt": "2026-10-16T06:11:29.313Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2071,7 +2071,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-16T05:09:09.866Z",
+      "createdAt": "2026-10-16T06:11:29.313Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
@@ -2347,7 +2347,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-16T05:09:09.866Z",
+      "createdAt": "2026-10-16T06:11:29.313Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
@@ -2590,21 +2590,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-la-sorpresa-del-estilo-argentino-en-las-bajas-norteamericanas",
-          "title": "La sorpresa del estilo argentino en las bajas norteamericanas | Campeones",
-          "summary": "El podio de Alfredo Olmedo y Dani López detrás de Max y Robby Gordon: \"Nos ven con sorpresa y admiran la adaptación de los argentinos\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-sorpresa-del-estilo-argentino-en-las-bajas-norteamericanas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Alfredo-Olmedo-Baja-Norra-Equipo-Podio-Dani-Lopez.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-15T17:42:42.000Z",
-          "addedAt": "2026-10-15T18:11:26.932Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
           "title": "Revista Campeones: Fain lideró un histórico 1-2 de Torino en el TC",
           "summary": "Avanza la Copa de Oro del Turismo Carretera y se mezclan las marcas en la batalla por la corona más buscada del deporte motor argentino.",
@@ -2618,6 +2603,21 @@
           "addedAt": "2026-10-14T17:11:27.828Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
+          "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
+          "summary": "Canapino es un fanático de toda expresión de la velocidad y ve a Colapinto \"muy asentado, firme, andando rápido y está consiguiendo puntos\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-y-Colapinto-imagen.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-13T13:48:02.000Z",
+          "addedAt": "2026-10-16T06:11:27.505Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     }
