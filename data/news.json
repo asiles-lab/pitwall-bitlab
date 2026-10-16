@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-16T14:11:26.631Z",
-  "checkedAt": "2026-10-16T14:11:26.631Z",
+  "updatedAt": "2026-10-16T15:11:26.711Z",
+  "checkedAt": "2026-10-16T15:11:26.711Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,17 +40,17 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026",
-      "title": "Hyundai anuncia a Camilo Trappa en su lista de TCR World Tour en Macao 2026",
-      "summary": "El piloto argentino se destaca en la lista de buena fe de la mano del equipo Hyundai MSA para la icónica pista urbana de Macao.",
+      "id": "campeones-com-ar-baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada",
+      "title": "Baltazar Frezze piloto RVM oficial en el Dakar: \"Una marca argentina de gente buena y apasionada\"",
+      "summary": "El sueño de un salteño que fue a mirar el Dakar de pequeño y hoy entrena con los Benavides, con el respaldo oficial de una marca argentina.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Camilo-Trappa-Hyundai-Macao-Previo-2026.jpg",
+      "url": "https://campeones.com.ar/baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Baltazar-RVM-Portada-2026.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-16T14:01:54.000Z",
-      "addedAt": "2026-10-16T14:11:32.274Z",
+      "publishedAt": "2026-10-15T20:53:49.000Z",
+      "addedAt": "2026-10-16T15:11:27.193Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -68,6 +68,21 @@
       "addedAt": "2026-10-16T14:11:31.612Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
+      "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
+      "summary": "Canapino es un fanático de toda expresión de la velocidad y ve a Colapinto \"muy asentado, firme, andando rápido y está consiguiendo puntos\".",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-y-Colapinto-imagen.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-13T13:48:02.000Z",
+      "addedAt": "2026-10-16T15:11:31.258Z",
+      "category": "argentino",
+      "tag": "Franco"
     },
     {
       "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
@@ -505,21 +520,6 @@
       "tag": "Reglamento"
     },
     {
-      "id": "campeones-com-ar-por-segunda-vez-en-el-ano-el-tc2000-llega-a-toay",
-      "title": "Por segunda vez en el año, el TC2000 llega a Toay | Campeones",
-      "summary": "Luego del triunfo de Lucas Carabajal en El Zonda sanjuanino, la categoría se presenta con 16 autos en el trazado pampenao junto a la Fórmula Nacional.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/por-segunda-vez-en-el-ano-el-tc2000-llega-a-toay/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NIC-0128.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-09T14:27:28.000Z",
-      "addedAt": "2026-10-09T15:11:32.766Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud",
       "title": "TC: Ignacio Fain, la avanzada ganadora de la juventud",
       "summary": "Con 21 años, el santafesino del Trotta Racing Team se convirtió en el ganador más joven del campeonato 2026 del Turismo Carretera. Repasamos los vencedores más veteranos y más jóvenes en cada temporada de la categoría durante la última década.",
@@ -848,6 +848,21 @@
       "addedAt": "2026-10-04T01:11:31.647Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-por-segunda-vez-en-el-ano-el-tc2000-llega-a-toay",
+      "title": "Por segunda vez en el año, el TC2000 llega a Toay | Campeones",
+      "summary": "Luego del triunfo de Lucas Carabajal en El Zonda sanjuanino, la categoría se presenta con 16 autos en el trazado pampenao junto a la Fórmula Nacional.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/por-segunda-vez-en-el-ano-el-tc2000-llega-a-toay/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NIC-0128.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-09T14:27:28.000Z",
+      "addedAt": "2026-10-09T15:11:32.766Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-si-fuera-mazzacane-haria-el-coronacion-de-tc-en-balcarce",
@@ -1288,7 +1303,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-16T14:11:36.816Z",
+      "createdAt": "2026-10-16T15:11:35.085Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1456,21 +1471,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-y-gasly-juego-viral-alpine-id765138-html",
-          "title": "Alpine puso a prueba a Colapinto y Gasly en un juego viral: \"Qué hijo de p...\"",
-          "summary": "En la previa del Gran Premio de Singapur, el argentino y el francés se sumaron a una tendencia en redes sociales y protagonizaron un momento lúdico y muy divertido.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-y-gasly-juego-viral-alpine-id765138.html",
-          "image": "https://media.tycsports.com/files/2026/10/09/994364/franco_1440x810.webp?v=2",
-          "body": "En la previa del Gran Premio de Singapur, el argentino y el francés se sumaron a una tendencia en redes sociales y protagonizaron un momento lúdico y muy divertido.\n\nAlpine puso a prueba a Colapinto y a Gasly en un juego viral + Seguinos en En la previa del Gran Premio de Singapur , Alpine puso a prueba a Franco Colapinto y a Pierre Gasly en un juego que es viral en redes sociales . El equipo francés publicó el video de sus pilotos divirtiéndose y, entre risas, al argentino se lo notó un poco perdido con esta dinámica.\n\nSe trata del ‘¿Quién soy?’, un popular juego de adivinanzas en el que cada jugador se coloca una tarjeta en la frente con el nombre de una persona famosa, animal u objeto (en este caso utilizaron sus teléfonos y tuvieron como temática a pilotos de la Fórmula 1) y deben hacer preguntas que se respondan con “sí” o “no” para descubrir su identidad.\n\nLo cierto es que al francés se lo notó más hábil y certero con sus preguntas a la hora de adivinar, lo cual provocó una simpática reacción del argentino. “Qué hijo de p…” , esbozó el #43, cuando su compañero dio en el blanco con su primer interrogante en la segunda ronda al consultar si se trataba de un campeón mundial de la categoría y, justamente, su personaje era Michael Schumacher, el máximo ganador de la Máxima con siete títulos junto a Lewis Hamilton.\n\nOtro momento curioso ocurrió al final, cuando Colapinto se “olvidó” de su excompañero en Williams, Alex Albon . “Ah, Pierrezinho” , soltó el argentino en referencia a Gasly, cuando le dijeron que su personaje había compartido equipo con él. Pero en realidad se trataba del tailandés, con quien el pilarense estuvo en la escudería británica.",
-          "language": "es",
-          "publishedAt": "2026-10-09T14:57:33.000Z",
-          "addedAt": "2026-10-09T15:11:28.740Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-larga-21-si-clasifico-15-en-el-gp-de-malasia-de-la-f1-id764167-html",
           "title": "Por qué Colapinto larga 21° si clasificó 15° en el GP de Malasia de la F1",
           "summary": "El piloto argentino penalizó quince puestos por un cambio de motor y por una sanción previa de la carrera en Bakú.",
@@ -1559,13 +1559,7 @@
           "addedAt": "2026-10-03T01:03:50.878Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-16T14:11:36.816Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-un-argentino-se-toco-con-verstappen-y-lo-expuso-a-una-sancion-en-el-gt-world-challenge-i",
           "title": "Un argentino se tocó con Verstappen y lo expuso a una sanción en el GT World Challenge",
@@ -1580,7 +1574,13 @@
           "addedAt": "2026-10-16T14:11:27.616Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-16T15:11:35.085Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-franco-colapinto-alpine-mensaje-fans-criticas-redes-sociales-id766239-html",
           "title": "El especial pedido de Colapinto para que cesen los mensajes de odio en redes: \"Piensan que me defienden, pero generan lo contrario\"",
@@ -1653,21 +1653,6 @@
           "language": "es",
           "publishedAt": "2026-10-15T23:07:18.000Z",
           "addedAt": "2026-10-15T23:11:27.668Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-alpine-mike-elliott-mercedes-franco-colapinto-formula-1-briatore-gasly-id766358-html",
-          "title": "La incorporación de Alpine para potencial a Colapinto y Gasly en la Fórmula 1",
-          "summary": "La escudería francesa oficializó la llegada del experimentado ingeniero británico, quien asumirá la conducción técnica del equipo con el objetivo de mejorar su rendimiento en pista.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/alpine-mike-elliott-mercedes-franco-colapinto-formula-1-briatore-gasly-id766358.html",
-          "image": "https://media.tycsports.com/files/2026/10/15/996206/mike-elliott_1440x810.webp?v=1",
-          "body": "La escudería francesa oficializó la llegada del experimentado ingeniero británico, quien asumirá la conducción técnica del equipo con el objetivo de mejorar su rendimiento en pista.\n\nMike Elliott, nueva incorporación de Alpine (Qian Jun/MB Media/Getty Images). + Seguinos en Alpine apuesta a una renovación técnica para dar un salto de calidad en la Fórmula 1. Con Franco Colapinto y Pierre Gasly como protagonistas de su proyecto deportivo, la escudería francesa realizó la presentación oficial de Mike Elliott , exdirector técnico de Mercedes, quien tendrá la responsabilidad de impulsar el desarrollo del equipo.\n\nAunque su incorporación había sido anunciada un mes atrás, el ingeniero británico recibió ahora la bienvenida frente al personal de la fábrica de Enstone. Flavio Briatore, asesor ejecutivo de la estructura, encabezó el acto y compartió un video en sus redes sociales con un mensaje contundente: \"Estoy seguro de que con Mike llevaremos al equipo a un nivel diferente\" .\n\nDurante su primera intervención ante los trabajadores, el nuevo director de tecnología (CTO) puso el foco en la importancia del capital humano para conseguir mejores resultados. \"Probablemente has tenido muchos cambios, has tenido mucha gente parada aquí y te dicen cómo podría ser el futuro y cómo podría avanzar; y por mucho que fuera bueno lo que dijo Flavio, mi creencia es muy simple: si miras la Fórmula 1 un poco como un economista, nuestro trabajo es convertir los recursos en rendimiento en la pista \" , afirmó.\n\nEn esa misma línea, Elliott destacó el papel fundamental de los integrantes de la escudería para alcanzar los objetivos deportivos. \"Y si miras cuáles son nuestros recursos clave en la empresa son todos ustedes . Saben que son las personas que pueden marcar la diferencia; saben que podemos",
-          "language": "es",
-          "publishedAt": "2026-10-15T14:50:46.000Z",
-          "addedAt": "2026-10-15T15:11:29.313Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1835,12 +1820,42 @@
           "addedAt": "2026-10-16T14:11:27.142Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur",
+          "title": "Otra falla en el Alpine le impidió terminar a Colapinto en Singapur",
+          "summary": "Antes de cumplirse la mitad de carrera, el argentino debió abandonar por un inconveniente técnico en el A526. Verstappen consiguió ganar en este trazado por primera vez.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261011-F1-Colapinto-Alpine-Singapur.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-11T13:07:54.000Z",
+          "addedAt": "2026-10-11T13:11:26.435Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint",
+          "title": "En Marina Bay y desde el 11.° puesto, Colapinto buscará sumar con el Alpine en la carrera Sprint",
+          "summary": "A partir de la hora 6:00 de Argentina, el piloto pilarense pretende escalar posiciones en la competencia sabatina del GP de Singapur.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Alpine-Singapur.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T23:57:48.000Z",
+          "addedAt": "2026-10-10T00:11:30.816Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-16T14:11:36.816Z",
+      "createdAt": "2026-10-16T15:11:35.085Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2116,7 +2131,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-16T14:11:36.816Z",
+      "createdAt": "2026-10-16T15:11:35.085Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
@@ -2209,51 +2224,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur",
-          "title": "Otra falla en el Alpine le impidió terminar a Colapinto en Singapur",
-          "summary": "Antes de cumplirse la mitad de carrera, el argentino debió abandonar por un inconveniente técnico en el A526. Verstappen consiguió ganar en este trazado por primera vez.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/otra-falla-en-el-alpine-le-impidio-terminar-a-colapinto-en-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261011-F1-Colapinto-Alpine-Singapur.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-11T13:07:54.000Z",
-          "addedAt": "2026-10-11T13:11:26.435Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint",
-          "title": "En Marina Bay y desde el 11.° puesto, Colapinto buscará sumar con el Alpine en la carrera Sprint",
-          "summary": "A partir de la hora 6:00 de Argentina, el piloto pilarense pretende escalar posiciones en la competencia sabatina del GP de Singapur.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-Alpine-Singapur.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T23:57:48.000Z",
-          "addedAt": "2026-10-10T00:11:30.816Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-a-pesar-de-algunos-inconvenientes-en-singapur-colapinto-confia-no-estamos-lejos",
-          "title": "A pesar de algunos inconvenientes en Singapur, Colapinto confía: «No estamos lejos»",
-          "summary": "Tras concluir su labor y clasificar 11.° con el Alpine para la carrera Sprint, el piloto argentino señaló los puntos a mejorar en el auto para continuar evolucionando en Marina Bay.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/a-pesar-de-algunos-inconvenientes-en-singapur-colapinto-confia-no-estamos-lejos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Colapinto-box-Singapur.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T14:58:14.000Z",
-          "addedAt": "2026-10-09T15:11:28.031Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-alpine-explico-por-que-decidio-tocar-el-motor-y-que-colapinto-sea-sancionado-id764083-ht",
           "title": "Alpine explicó por qué decidió \"tocar\" el motor y que Colapinto sea sancionado",
           "summary": "El director general de la escudería, Steve Nielsen, detalló la estrategia del equipo para el Gran Premio de Malasia y contó lo que los llevó a realizar cambios pese a que serían sancionados.",
@@ -2269,6 +2239,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-alpine-mike-elliott-mercedes-franco-colapinto-formula-1-briatore-gasly-id766358-html",
+          "title": "La incorporación de Alpine para potencial a Colapinto y Gasly en la Fórmula 1",
+          "summary": "La escudería francesa oficializó la llegada del experimentado ingeniero británico, quien asumirá la conducción técnica del equipo con el objetivo de mejorar su rendimiento en pista.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/alpine-mike-elliott-mercedes-franco-colapinto-formula-1-briatore-gasly-id766358.html",
+          "image": "https://media.tycsports.com/files/2026/10/15/996206/mike-elliott_1440x810.webp?v=1",
+          "body": "La escudería francesa oficializó la llegada del experimentado ingeniero británico, quien asumirá la conducción técnica del equipo con el objetivo de mejorar su rendimiento en pista.\n\nMike Elliott, nueva incorporación de Alpine (Qian Jun/MB Media/Getty Images). + Seguinos en Alpine apuesta a una renovación técnica para dar un salto de calidad en la Fórmula 1. Con Franco Colapinto y Pierre Gasly como protagonistas de su proyecto deportivo, la escudería francesa realizó la presentación oficial de Mike Elliott , exdirector técnico de Mercedes, quien tendrá la responsabilidad de impulsar el desarrollo del equipo.\n\nAunque su incorporación había sido anunciada un mes atrás, el ingeniero británico recibió ahora la bienvenida frente al personal de la fábrica de Enstone. Flavio Briatore, asesor ejecutivo de la estructura, encabezó el acto y compartió un video en sus redes sociales con un mensaje contundente: \"Estoy seguro de que con Mike llevaremos al equipo a un nivel diferente\" .\n\nDurante su primera intervención ante los trabajadores, el nuevo director de tecnología (CTO) puso el foco en la importancia del capital humano para conseguir mejores resultados. \"Probablemente has tenido muchos cambios, has tenido mucha gente parada aquí y te dicen cómo podría ser el futuro y cómo podría avanzar; y por mucho que fuera bueno lo que dijo Flavio, mi creencia es muy simple: si miras la Fórmula 1 un poco como un economista, nuestro trabajo es convertir los recursos en rendimiento en la pista \" , afirmó.\n\nEn esa misma línea, Elliott destacó el papel fundamental de los integrantes de la escudería para alcanzar los objetivos deportivos. \"Y si miras cuáles son nuestros recursos clave en la empresa son todos ustedes . Saben que son las personas que pueden marcar la diferencia; saben que podemos",
+          "language": "es",
+          "publishedAt": "2026-10-15T14:50:46.000Z",
+          "addedAt": "2026-10-15T15:11:29.313Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-companero-colapinto-alpine-podria-perder-licencia-conducir-insolita-razon-id766309-html",
           "title": "El compañero de Colapinto en Alpine que podría perder su licencia de conducir por una insólita razón",
           "summary": "El piloto estonio recibió un ultimátum judicial tras incumplir siete citaciones médicas vinculadas al servicio militar obligatorio. Tiene plazo hasta el 13 de noviembre para regularizar su situación",
@@ -2280,6 +2265,21 @@
           "language": "es",
           "publishedAt": "2026-10-15T11:05:27.000Z",
           "addedAt": "2026-10-15T11:11:27.412Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-y-gasly-juego-viral-alpine-id765138-html",
+          "title": "Alpine puso a prueba a Colapinto y Gasly en un juego viral: \"Qué hijo de p...\"",
+          "summary": "En la previa del Gran Premio de Singapur, el argentino y el francés se sumaron a una tendencia en redes sociales y protagonizaron un momento lúdico y muy divertido.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-y-gasly-juego-viral-alpine-id765138.html",
+          "image": "https://media.tycsports.com/files/2026/10/09/994364/franco_1440x810.webp?v=2",
+          "body": "En la previa del Gran Premio de Singapur, el argentino y el francés se sumaron a una tendencia en redes sociales y protagonizaron un momento lúdico y muy divertido.\n\nAlpine puso a prueba a Colapinto y a Gasly en un juego viral + Seguinos en En la previa del Gran Premio de Singapur , Alpine puso a prueba a Franco Colapinto y a Pierre Gasly en un juego que es viral en redes sociales . El equipo francés publicó el video de sus pilotos divirtiéndose y, entre risas, al argentino se lo notó un poco perdido con esta dinámica.\n\nSe trata del ‘¿Quién soy?’, un popular juego de adivinanzas en el que cada jugador se coloca una tarjeta en la frente con el nombre de una persona famosa, animal u objeto (en este caso utilizaron sus teléfonos y tuvieron como temática a pilotos de la Fórmula 1) y deben hacer preguntas que se respondan con “sí” o “no” para descubrir su identidad.\n\nLo cierto es que al francés se lo notó más hábil y certero con sus preguntas a la hora de adivinar, lo cual provocó una simpática reacción del argentino. “Qué hijo de p…” , esbozó el #43, cuando su compañero dio en el blanco con su primer interrogante en la segunda ronda al consultar si se trataba de un campeón mundial de la categoría y, justamente, su personaje era Michael Schumacher, el máximo ganador de la Máxima con siete títulos junto a Lewis Hamilton.\n\nOtro momento curioso ocurrió al final, cuando Colapinto se “olvidó” de su excompañero en Williams, Alex Albon . “Ah, Pierrezinho” , soltó el argentino en referencia a Gasly, cuando le dijeron que su personaje había compartido equipo con él. Pero en realidad se trataba del tailandés, con quien el pilarense estuvo en la escudería británica.",
+          "language": "es",
+          "publishedAt": "2026-10-09T14:57:33.000Z",
+          "addedAt": "2026-10-09T15:11:28.740Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2387,13 +2387,7 @@
           "addedAt": "2026-10-11T15:11:31.271Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-16T14:11:36.816Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y debe largar 21.° en el Gran Premio de Bahrein",
@@ -2408,7 +2402,13 @@
           "addedAt": "2026-10-03T18:11:30.466Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-16T15:11:35.085Z",
+      "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
           "title": "Colapinto clasificó 15.° y largará último en el Gran Premio de Bahrein",
@@ -2423,6 +2423,21 @@
           "addedAt": "2026-10-03T09:12:02.953Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026",
+          "title": "Hyundai anuncia a Camilo Trappa en su lista de TCR World Tour en Macao 2026",
+          "summary": "El piloto argentino se destaca en la lista de buena fe de la mano del equipo Hyundai MSA para la icónica pista urbana de Macao.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Camilo-Trappa-Hyundai-Macao-Previo-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-16T14:01:54.000Z",
+          "addedAt": "2026-10-16T14:11:32.274Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
@@ -2650,17 +2665,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido",
-          "title": "TC: Ford y Chevrolet, de la convivencia prohibida a compartir taller cada vez más seguido",
-          "summary": "La llegada de Santiago Álvarez y su Camaro al TCM Racing, donde tendrá como compañero a Ricardo Risatti (Mustang), reafirma una tendencia que no es nueva pero que ha ganado fuerza en la última década.",
+          "id": "campeones-com-ar-wec-en-barcelona-ferrari-pisa-fuerte-en-hypercar-y-lmgt3-pechito-fue-14",
+          "title": "WEC en Barcelona: Ferrari pisa fuerte en Hypercar y LMGT3 en la cual \"Pechito\" fue 14.° | Campeones",
+          "summary": "La penúltima ronda del Campeonato Mundial de Resistencia se desarrolla en Montmeló, en donde la actividad tuvo el primero de los dos ensayos del día.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/De-Benedictis-Tobias-Martinez-TC-2026.jpg",
+          "url": "https://campeones.com.ar/wec-en-barcelona-ferrari-pisa-fuerte-en-hypercar-y-lmgt3-pechito-fue-14/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-WEC-Pechito.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-16T12:26:41.000Z",
-          "addedAt": "2026-10-16T13:11:27.293Z",
+          "publishedAt": "2026-10-16T14:49:53.000Z",
+          "addedAt": "2026-10-16T15:11:27.327Z",
           "category": "argentino",
           "tag": "Argentino"
         }
