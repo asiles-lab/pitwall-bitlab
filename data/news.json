@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-16T08:11:26.776Z",
-  "checkedAt": "2026-10-16T08:11:26.776Z",
+  "updatedAt": "2026-10-16T09:11:26.766Z",
+  "checkedAt": "2026-10-16T09:11:26.766Z",
   "pageSize": 18,
   "sources": [
     {
@@ -1243,7 +1243,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-16T08:11:29.194Z",
+      "createdAt": "2026-10-16T09:11:29.377Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1519,7 +1519,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-16T08:11:29.194Z",
+      "createdAt": "2026-10-16T09:11:29.377Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-director-alpine-revelo-colapinto-penalizara-malasia-id764118-html",
@@ -1795,7 +1795,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-16T08:11:29.194Z",
+      "createdAt": "2026-10-16T09:11:29.377Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2071,7 +2071,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-16T08:11:29.194Z",
+      "createdAt": "2026-10-16T09:11:29.377Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
@@ -2347,7 +2347,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-16T08:11:29.194Z",
+      "createdAt": "2026-10-16T09:11:29.377Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-ultima-posicion-en-el-gran-premio-de-bahrein",
@@ -2575,21 +2575,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada",
-          "title": "Baltazar Frezze piloto RVM oficial en el Dakar: \"Una marca argentina de gente buena y apasionada\"",
-          "summary": "El sueño de un salteño que fue a mirar el Dakar de pequeño y hoy entrena con los Benavides, con el respaldo oficial de una marca argentina.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Baltazar-RVM-Portada-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-15T20:53:49.000Z",
-          "addedAt": "2026-10-15T21:11:27.092Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
           "title": "Revista Campeones: Fain lideró un histórico 1-2 de Torino en el TC",
           "summary": "Avanza la Copa de Oro del Turismo Carretera y se mezclan las marcas en la batalla por la corona más buscada del deporte motor argentino.",
@@ -2618,6 +2603,21 @@
           "addedAt": "2026-10-16T06:11:27.505Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada",
+          "title": "Baltazar Frezze piloto RVM oficial en el Dakar: \"Una marca argentina de gente buena y apasionada\"",
+          "summary": "El sueño de un salteño que fue a mirar el Dakar de pequeño y hoy entrena con los Benavides, con el respaldo oficial de una marca argentina.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Baltazar-RVM-Portada-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-15T20:53:49.000Z",
+          "addedAt": "2026-10-15T21:11:27.092Z",
+          "category": "argentino",
+          "tag": "Argentino"
         }
       ]
     }
