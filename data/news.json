@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-15T23:11:26.561Z",
-  "checkedAt": "2026-10-15T23:11:26.561Z",
+  "updatedAt": "2026-10-16T00:11:26.503Z",
+  "checkedAt": "2026-10-16T00:11:26.503Z",
   "pageSize": 18,
   "sources": [
     {
@@ -1243,7 +1243,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-15T23:11:28.875Z",
+      "createdAt": "2026-10-16T00:11:28.992Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1519,7 +1519,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-15T23:11:28.875Z",
+      "createdAt": "2026-10-16T00:11:28.992Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-malasia-id763660-",
@@ -1795,7 +1795,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-15T23:11:28.875Z",
+      "createdAt": "2026-10-16T00:11:28.992Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2071,7 +2071,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-15T23:11:28.875Z",
+      "createdAt": "2026-10-16T00:11:28.992Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
@@ -2347,7 +2347,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-15T23:11:28.875Z",
+      "createdAt": "2026-10-16T00:11:28.992Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-clasifico-15-pero-debera-largar-desde-la-21-posicion-en-el-gran-premio-de-bahrein",
@@ -2378,21 +2378,6 @@
           "addedAt": "2026-10-03T09:12:02.953Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada",
-          "title": "Baltazar Frezze piloto RVM oficial en el Dakar: \"Una marca argentina de gente buena y apasionada\"",
-          "summary": "El sueño de un salteño que fue a mirar el Dakar de pequeño y hoy entrena con los Benavides, con el respaldo oficial de una marca argentina.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Baltazar-RVM-Portada-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-15T20:53:49.000Z",
-          "addedAt": "2026-10-15T21:11:27.092Z",
-          "category": "argentino",
-          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
@@ -2588,6 +2573,21 @@
           "addedAt": "2026-10-10T12:11:35.528Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada",
+          "title": "Baltazar Frezze piloto RVM oficial en el Dakar: \"Una marca argentina de gente buena y apasionada\"",
+          "summary": "El sueño de un salteño que fue a mirar el Dakar de pequeño y hoy entrena con los Benavides, con el respaldo oficial de una marca argentina.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Baltazar-RVM-Portada-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-15T20:53:49.000Z",
+          "addedAt": "2026-10-15T21:11:27.092Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-la-sorpresa-del-estilo-argentino-en-las-bajas-norteamericanas",
