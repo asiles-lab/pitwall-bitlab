@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-16T12:11:27.012Z",
-  "checkedAt": "2026-10-16T12:11:27.012Z",
+  "updatedAt": "2026-10-16T13:11:26.636Z",
+  "checkedAt": "2026-10-16T13:11:26.636Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,6 +40,21 @@
   },
   "backlog": [
     {
+      "id": "www-tycsports-com-automovilismo-agustin-canapino-tn-barrio-chapur-pelea-id765691-html",
+      "title": "Canapino ganó una impactante serie en el TN tras una feroz pelea contra Barrio y Chapur",
+      "summary": "El Titán de Arrecifes sacó provecho de una última vuelta cargada de roces, sobrepasos y polémica para quedarse con la victoria en la Clase 3.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/agustin-canapino-tn-barrio-chapur-pelea-id765691.html",
+      "image": "https://media.tycsports.com/files/2026/10/11/995014/canapino-gano-una-impactante-serie-en-el-tn-la-feroz-pelea-contra-barrio-y-chapus_416x234.webp?v=4",
+      "body": "El Titán de Arrecifes sacó provecho de una última vuelta cargada de roces, sobrepasos y polémica para quedarse con la victoria en la Clase 3.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur + Seguinos en Un desenlace espectacular tuvo la segunda serie de la Clase 3 del TN APAT en Mendoza porque Agustín Canapino protagonizó una maniobra decisiva en la última vuelta , superó a sus rivales en plena disputa por el liderazgo y consiguió un triunfo valioso.\n\nLa definición estuvo marcada por una intensa batalla entre Facundo Chapur, Jorge Barrio y Facundo Marques , quienes intercambiaron posiciones y protagonizaron varios roces. En medio de ese escenario, el Titán encontró el espacio para ejecutar un brillante 3x1 y cruzar primero la bandera a cuadros. Después de la carrera, Barrio expresó su bronca por haber dejado escapar la victoria y cuestionó las maniobras de sus adversarios: \"Caliente por no ganar, hice todo para ganar. Mis rivales se equivocaron todos y yo no tuve ningún error. Vengo poniéndolo todo arriba del auto\".\n\nY luego se refirió a la maniobra con Chapur en detalle: \"Me entra fuerte a la puerta en la uno, eso hace que se amontone todo el pelotón, después me hace una buena maniobra en la tres, me empuja Marques, me deja a la par y en el quiebre rápido obvio que no le iba a regalar la posición pero temía que esto pasara y da bronca que las cosas se den para el puntero del campeonato, parece que todos corremos para él, o por lo menos los de atrás mío. Yo intenté ganar la serie y defendí la punta como pude\".\n\nPor su parte, Canapino explicó cómo logró recuperarse de un incidente y sacar ventaja del enfrentamiento: \"Se me complica la serie cuando Chapur entra en trompo, lo saca. Primero me cierra la línea, después me choca y se me co",
+      "language": "es",
+      "publishedAt": "2026-10-11T16:38:40.000Z",
+      "addedAt": "2026-10-16T13:11:27.696Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec",
       "title": "\"Pechito\" López espera por las 6 horas de Barcelona de WEC",
       "summary": "El fin de semana se disputará la penúltima ronda del campeonato en la pista catalana, en donde el argentino conducirá el Lexus de Akkodis ASP Team.",
@@ -51,21 +66,6 @@
       "language": "es",
       "publishedAt": "2026-10-13T18:24:52.000Z",
       "addedAt": "2026-10-14T19:11:26.926Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-canapino-sobre-balcarce-estuvo-espectacular",
-      "title": "Canapino sobre Balcarce: \"Estuvo espectacular\" | Campeones",
-      "summary": "El autódromo \"Juan Manuel Fangio\" ubicado en el Cerro La Barrosa volvió a tener actividad con el TC Pick Up y allí estuvo el \"Titán\", que le brindó a Campeones su apreciación sobre cómo quedó el histórico trazado.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/canapino-sobre-balcarce-estuvo-espectacular/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/gui8158-1790536724815-29540246-e1792069083834.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-15T12:58:11.000Z",
-      "addedAt": "2026-10-15T15:11:27.634Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -98,6 +98,21 @@
       "addedAt": "2026-10-15T16:11:27.731Z",
       "category": "general",
       "tag": "Mercado"
+    },
+    {
+      "id": "campeones-com-ar-canapino-sobre-balcarce-estuvo-espectacular",
+      "title": "Canapino sobre Balcarce: \"Estuvo espectacular\" | Campeones",
+      "summary": "El autódromo \"Juan Manuel Fangio\" ubicado en el Cerro La Barrosa volvió a tener actividad con el TC Pick Up y allí estuvo el \"Titán\", que le brindó a Campeones su apreciación sobre cómo quedó el histórico trazado.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/canapino-sobre-balcarce-estuvo-espectacular/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/gui8158-1790536724815-29540246-e1792069083834.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-15T12:58:11.000Z",
+      "addedAt": "2026-10-15T15:11:27.634Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana",
@@ -160,21 +175,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
-      "title": "¿Qué esperar del nuevo jefe técnico de Alpine F1 Team?",
-      "summary": "Mike Elliott cuenta con experiencia como director técnico y de tecnología en Mercedes y un pasado por Renault y McLaren.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Elliott-Alpine-Jefe-nuevo-v2.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-15T12:55:12.000Z",
-      "addedAt": "2026-10-15T13:11:27.174Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
       "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
       "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
@@ -201,21 +201,6 @@
       "language": "es",
       "publishedAt": "2026-10-11T14:38:48.000Z",
       "addedAt": "2026-10-13T19:11:30.926Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud",
-      "title": "TC: Ignacio Fain, la avanzada ganadora de la juventud",
-      "summary": "Con 21 años, el santafesino del Trotta Racing Team se convirtió en el ganador más joven del campeonato 2026 del Turismo Carretera. Repasamos los vencedores más veteranos y más jóvenes en cada temporada de la categoría durante la última década.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-Victoria-TC-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-09T12:39:02.000Z",
-      "addedAt": "2026-10-12T12:11:27.933Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -263,6 +248,21 @@
       "addedAt": "2026-10-04T15:11:36.725Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
+      "title": "¿Qué esperar del nuevo jefe técnico de Alpine F1 Team?",
+      "summary": "Mike Elliott cuenta con experiencia como director técnico y de tecnología en Mercedes y un pasado por Renault y McLaren.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Elliott-Alpine-Jefe-nuevo-v2.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-15T12:55:12.000Z",
+      "addedAt": "2026-10-15T13:11:27.174Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas",
@@ -473,6 +473,21 @@
       "addedAt": "2026-10-09T15:11:32.766Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud",
+      "title": "TC: Ignacio Fain, la avanzada ganadora de la juventud",
+      "summary": "Con 21 años, el santafesino del Trotta Racing Team se convirtió en el ganador más joven del campeonato 2026 del Turismo Carretera. Repasamos los vencedores más veteranos y más jóvenes en cada temporada de la categoría durante la última década.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-ignacio-fain-la-avanzada-ganadora-de-la-juventud/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fain-Victoria-TC-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-09T12:39:02.000Z",
+      "addedAt": "2026-10-12T12:11:27.933Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-la-otra-copa-de-oro-los-12-cambios-de-equipo-en-el-tc",
@@ -1228,7 +1243,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-16T12:11:30.515Z",
+      "createdAt": "2026-10-16T13:11:33.237Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1504,7 +1519,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-16T12:11:30.515Z",
+      "createdAt": "2026-10-16T13:11:33.237Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-franco-colapinto-alpine-mensaje-fans-criticas-redes-sociales-id766239-html",
@@ -1780,7 +1795,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-16T12:11:30.515Z",
+      "createdAt": "2026-10-16T13:11:33.237Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1888,21 +1903,6 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-formula-1-africa-ruanda-id765901-html",
-          "title": "La Fórmula 1 confirmó que vuelve a África: dónde se correrá y desde cuándo",
-          "summary": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-africa-ruanda--id765901.html",
-          "image": "https://media.tycsports.com/files/2026/10/13/995490/circuito-de-kigali_1440x810.webp",
-          "body": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.\n\nEl nuevo circuito de Kigali, en Ruanda, albergará la Fórmula 1 por, al menos, diez años. + Seguinos en La Fórmula 1 confirmó este martes su regreso a África apartir de 2030, pero sin fecha exacta. De esta manera, Ruanda será sede de un Gran Premio durante, al menos, diez temporadas. La última carrera del Mundial en ese continente se disputó en 1993, cuando Alain Prost se impuso en Sudáfrica con Williams-Renault.\n\nEl escenario elegido será un circuito completamente nuevo en Bugesera, una localidad situada a unos 40 kilómetros de Kigali, la capital del país . El trazado estará junto al futuro aeropuerto internacional y formará parte de un ambicioso proyecto que combinará deporte, turismo y desarrollo comercial. Por ahora, no se informó la fecha de la primera competencia. La llegada de la Máxima permitirá que el campeonato tenga presencia en todos los continentes habitados . Stefano Domenicali, presidente y director ejecutivo de la categoría, destacó el alcance de la iniciativa : “Con Ruanda incorporándose al calendario desde la próxima década, nuestro deporte competirá en todos los continentes habitados y acercará el Campeonato Mundial más que nunca a los aficionados de todo el mundo ” .\n\nMás allá de la actividad en pista, el complejo estará preparado para funcionar durante todo el año. Sus instalaciones podrán albergar otras competencias internacionales, conferencias y espectáculos. Además, las autoridades locales esperan que la inversión genere puestos de trabajo, capacitación profesional y nuevas oportunidades económicas.\n\nEn ese sentido, el presidente ruandés, Paul Kagame, remarcó que el ",
-          "language": "es",
-          "publishedAt": "2026-10-13T12:41:41.000Z",
-          "addedAt": "2026-10-13T11:11:35.290Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-carlos-sainz-exploto-contra-fia-insolito-error-gp-de-singapur-id765352-html",
           "title": "Un piloto de la F1 explotó contra la FIA tras un insólito error en el GP de Singapur",
           "summary": "El piloto de Williams disparó luego de que un inconveniente generara que algunos pilotos contaran con mayor potencia que otros en la qualy para la Sprint. “Por alguna razón decidió no actuar ante una desigualdad deportiva”, disparó contra la entidad.",
@@ -1929,6 +1929,21 @@
           "language": "es",
           "publishedAt": "2026-10-13T19:55:59.000Z",
           "addedAt": "2026-10-13T13:11:30.576Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-formula-1-africa-ruanda-id765901-html",
+          "title": "La Fórmula 1 confirmó que vuelve a África: dónde se correrá y desde cuándo",
+          "summary": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-africa-ruanda--id765901.html",
+          "image": "https://media.tycsports.com/files/2026/10/13/995490/circuito-de-kigali_1440x810.webp",
+          "body": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.\n\nEl nuevo circuito de Kigali, en Ruanda, albergará la Fórmula 1 por, al menos, diez años. + Seguinos en La Fórmula 1 confirmó este martes su regreso a África apartir de 2030, pero sin fecha exacta. De esta manera, Ruanda será sede de un Gran Premio durante, al menos, diez temporadas. La última carrera del Mundial en ese continente se disputó en 1993, cuando Alain Prost se impuso en Sudáfrica con Williams-Renault.\n\nEl escenario elegido será un circuito completamente nuevo en Bugesera, una localidad situada a unos 40 kilómetros de Kigali, la capital del país . El trazado estará junto al futuro aeropuerto internacional y formará parte de un ambicioso proyecto que combinará deporte, turismo y desarrollo comercial. Por ahora, no se informó la fecha de la primera competencia. La llegada de la Máxima permitirá que el campeonato tenga presencia en todos los continentes habitados . Stefano Domenicali, presidente y director ejecutivo de la categoría, destacó el alcance de la iniciativa : “Con Ruanda incorporándose al calendario desde la próxima década, nuestro deporte competirá en todos los continentes habitados y acercará el Campeonato Mundial más que nunca a los aficionados de todo el mundo ” .\n\nMás allá de la actividad en pista, el complejo estará preparado para funcionar durante todo el año. Sus instalaciones podrán albergar otras competencias internacionales, conferencias y espectáculos. Además, las autoridades locales esperan que la inversión genere puestos de trabajo, capacitación profesional y nuevas oportunidades económicas.\n\nEn ese sentido, el presidente ruandés, Paul Kagame, remarcó que el ",
+          "language": "es",
+          "publishedAt": "2026-10-13T12:41:41.000Z",
+          "addedAt": "2026-10-13T11:11:35.290Z",
           "category": "general",
           "tag": "F1"
         },
@@ -2023,21 +2038,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal",
-          "title": "Vivian y su panorama en TC2000: \"Los milagros ocurrieron pero soy más terrenal\"",
-          "summary": "Haber estado fuera de carrera en las primeras fechas del año condicionó su abanico de posibilidades para pelear el campeonato.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Vivian-Chevrolet-TC2000.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T13:00:30.000Z",
-          "addedAt": "2026-10-09T16:11:31.196Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "campeones-com-ar-tc-mouras-y-f3-metropolitana-tambien-con-actividad-en-la-plata",
           "title": "TC Mouras y F3 Metropolitana, también con actividad en La Plata | Campeones",
           "summary": "Las categorías vuelven al Mouras luego de su visita a Rosario y en etapas decisivas del playoff. Habrá 13 TC Mouras, 12 Pista Mouras y 27 Fórmula 3 Metropolitana.",
@@ -2051,13 +2051,7 @@
           "addedAt": "2026-10-14T21:11:27.647Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-16T12:11:30.515Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
           "title": "Lewis Hamilton señaló a los pilotos jóvenes de la Fórmula 1: ¿le tienen miedo a la lluvia?",
@@ -2072,7 +2066,13 @@
           "addedAt": "2026-10-08T23:11:32.156Z",
           "category": "general",
           "tag": "Clima"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-16T13:11:33.237Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-george-russell-largara-ultimo-gp-de-singapur-sancion-complica-lucha-titulo-formula-1-id7",
           "title": "George Russell largará último en el GP de Singapur y se complica en la lucha por el título de la Fórmula 1",
@@ -2147,6 +2147,21 @@
           "addedAt": "2026-10-09T17:11:32.069Z",
           "category": "general",
           "tag": "Reglamento"
+        },
+        {
+          "id": "campeones-com-ar-vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal",
+          "title": "Vivian y su panorama en TC2000: \"Los milagros ocurrieron pero soy más terrenal\"",
+          "summary": "Haber estado fuera de carrera en las primeras fechas del año condicionó su abanico de posibilidades para pelear el campeonato.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Vivian-Chevrolet-TC2000.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-09T13:00:30.000Z",
+          "addedAt": "2026-10-09T16:11:31.196Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-a-pesar-de-algunos-inconvenientes-en-singapur-colapinto-confia-no-estamos-lejos",
@@ -2332,7 +2347,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-16T12:11:30.515Z",
+      "createdAt": "2026-10-16T13:11:33.237Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
@@ -2575,6 +2590,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido",
+          "title": "TC: Ford y Chevrolet, de la convivencia prohibida a compartir taller cada vez más seguido",
+          "summary": "La llegada de Santiago Álvarez y su Camaro al TCM Racing, donde tendrá como compañero a Ricardo Risatti (Mustang), reafirma una tendencia que no es nueva pero que ha ganado fuerza en la última década.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/De-Benedictis-Tobias-Martinez-TC-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-16T12:26:41.000Z",
+          "addedAt": "2026-10-16T13:11:27.293Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada",
           "title": "Baltazar Frezze piloto RVM oficial en el Dakar: \"Una marca argentina de gente buena y apasionada\"",
           "summary": "El sueño de un salteño que fue a mirar el Dakar de pequeño y hoy entrena con los Benavides, con el respaldo oficial de una marca argentina.",
@@ -2586,21 +2616,6 @@
           "language": "es",
           "publishedAt": "2026-10-15T20:53:49.000Z",
           "addedAt": "2026-10-15T21:11:27.092Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-la-sorpresa-del-estilo-argentino-en-las-bajas-norteamericanas",
-          "title": "La sorpresa del estilo argentino en las bajas norteamericanas | Campeones",
-          "summary": "El podio de Alfredo Olmedo y Dani López detrás de Max y Robby Gordon: \"Nos ven con sorpresa y admiran la adaptación de los argentinos\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-sorpresa-del-estilo-argentino-en-las-bajas-norteamericanas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Alfredo-Olmedo-Baja-Norra-Equipo-Podio-Dani-Lopez.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-15T17:42:42.000Z",
-          "addedAt": "2026-10-16T10:11:27.247Z",
           "category": "argentino",
           "tag": "Argentino"
         }
