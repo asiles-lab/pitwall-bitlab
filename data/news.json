@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T22:11:26.009Z",
-  "checkedAt": "2026-10-17T22:11:26.009Z",
+  "updatedAt": "2026-10-17T23:11:26.249Z",
+  "checkedAt": "2026-10-17T23:11:26.249Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,17 +40,17 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada",
-      "title": "Baltazar Frezze piloto RVM oficial en el Dakar: \"Una marca argentina de gente buena y apasionada\"",
-      "summary": "El sueño de un salteño que fue a mirar el Dakar de pequeño y hoy entrena con los Benavides, con el respaldo oficial de una marca argentina.",
+      "id": "campeones-com-ar-victoria-de-santiago-urrutia-en-tcr-world-tour",
+      "title": "Victoria de Santiago Urrutia en TCR World Tour",
+      "summary": "Con el Geely, el piloto uruguayo encabezó el \"1-2\" del equipo Cyan Racing en la pista china de Chengdu, escoltado por Yann Ehrlacher.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Baltazar-RVM-Portada-2026.jpg",
+      "url": "https://campeones.com.ar/victoria-de-santiago-urrutia-en-tcr-world-tour/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261017-TCRWT-Urrutia.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-15T22:53:49.000Z",
-      "addedAt": "2026-10-17T20:11:36.893Z",
+      "publishedAt": "2026-10-17T10:11:06.000Z",
+      "addedAt": "2026-10-17T23:11:35.178Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -1483,7 +1483,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-17T22:11:29.603Z",
+      "createdAt": "2026-10-17T23:11:36.197Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-reaccion-de-colapinto-antes-de-su-abandono-en-la-f1-formula-1-singapur-gp-gran-premio",
@@ -1759,7 +1759,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-17T22:11:29.603Z",
+      "createdAt": "2026-10-17T23:11:36.197Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-defensa-pierre-gasly-franco-colapinto-tras-decision-fia-no-sancionar-lando-norris-id7656",
@@ -2035,7 +2035,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-17T22:11:29.603Z",
+      "createdAt": "2026-10-17T23:11:36.197Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2311,7 +2311,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-17T22:11:29.603Z",
+      "createdAt": "2026-10-17T23:11:36.197Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -2432,21 +2432,6 @@
           "addedAt": "2026-10-10T16:11:32.512Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-otra-pole-position-de-mariano-werner-en-tc-pick-up",
-          "title": "Otra “pole position” de Mariano Werner en TC Pick Up",
-          "summary": "Ahora con los motores de Mario y Luis Riva en su Foton Tunland G7 luego de la exclusión por compresión en Balcarce, el entrerriano logró su 3ª “pole” de 2026. Canapino (Chevrolet) quedó 2º a 0s588 del piloto del Fadel Racing, quien mañana deberá largar último en la Final por una sanción de la CAF.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/otra-pole-position-de-mariano-werner-en-tc-pick-up/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Werner-Pole-TCPK-2026.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-17T20:02:27.000Z",
-          "addedAt": "2026-10-17T20:11:26.240Z",
-          "category": "argentino",
-          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-la-gran-derrota-de-alpine-en-el-gp-de-singapur-id765680-html",
@@ -2582,13 +2567,7 @@
           "addedAt": "2026-10-05T11:11:31.316Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-17T22:11:29.603Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-como-quedo-colapinto-en-el-campeonato-de-pilotos-de-la-f1-tras-el-gp-de-malasia-id764320",
           "title": "Cómo quedó Colapinto en el Campeonato de Pilotos de la F1 tras el GP de Malasia",
@@ -2603,7 +2582,13 @@
           "addedAt": "2026-10-04T14:11:31.968Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-17T23:11:36.197Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-ahora-que-alpine-le-pida-perdon-a-colapinto-op-id764303-html",
           "title": "Ahora que Alpine le pida perdón a Colapinto",
@@ -2678,6 +2663,21 @@
           "addedAt": "2026-10-02T16:23:12.797Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-otra-pole-position-de-mariano-werner-en-tc-pick-up",
+          "title": "Otra “pole position” de Mariano Werner en TC Pick Up",
+          "summary": "Ahora con los motores de Mario y Luis Riva en su Foton Tunland G7 luego de la exclusión por compresión en Balcarce, el entrerriano logró su 3ª “pole” de 2026. Canapino (Chevrolet) quedó 2º a 0s588 del piloto del Fadel Racing, quien mañana deberá largar último en la Final por una sanción de la CAF.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/otra-pole-position-de-mariano-werner-en-tc-pick-up/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Werner-Pole-TCPK-2026.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T20:02:27.000Z",
+          "addedAt": "2026-10-17T20:11:26.240Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
@@ -2800,21 +2800,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata",
-          "title": "TC Pista Pick Up: \"pole\" de Santiago Biagi en La Plata | Campeones",
-          "summary": "Se adjudicó la clasificación en La Plata tras una gran primera vuelta, por lo que largará adelante la primera serie con la Toyota del Rus Med team. Fue escoltado por Faustino Cifre (Ford), líder de las prácticas.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/80139_big.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-17T19:12:56.000Z",
-          "addedAt": "2026-10-17T20:11:26.211Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint",
           "title": "En Marina Bay y desde el 11.° puesto, Colapinto buscará sumar con el Alpine en la carrera Sprint",
           "summary": "A partir de la hora 6:00 de Argentina, el piloto pilarense pretende escalar posiciones en la competencia sabatina del GP de Singapur.",
@@ -2843,6 +2828,21 @@
           "addedAt": "2026-10-16T22:11:26.614Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata",
+          "title": "TC Pista Pick Up: \"pole\" de Santiago Biagi en La Plata | Campeones",
+          "summary": "Se adjudicó la clasificación en La Plata tras una gran primera vuelta, por lo que largará adelante la primera serie con la Toyota del Rus Med team. Fue escoltado por Faustino Cifre (Ford), líder de las prácticas.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/80139_big.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T19:12:56.000Z",
+          "addedAt": "2026-10-17T20:11:26.211Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
