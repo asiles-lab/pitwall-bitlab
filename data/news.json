@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T18:11:25.930Z",
-  "checkedAt": "2026-10-17T18:11:25.930Z",
+  "updatedAt": "2026-10-17T19:11:26.756Z",
+  "checkedAt": "2026-10-17T19:11:26.756Z",
   "pageSize": 18,
   "sources": [
     {
@@ -70,6 +70,21 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-tc-mouras-luengo-marco-el-rumbo-en-la-ultima-practica-platense",
+      "title": "TC Mouras: Luengo marcó el rumbo en la última práctica platense",
+      "summary": "El único representante de Chevrolet en la categoría aventajó por 0s172 al piloto del Galarza Racing en el segundo ensayo de la 1ª fecha de la Copa Coronación 2026.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-mouras-luengo-marco-el-rumbo-en-la-ultima-practica-platense/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Luengo-TCM-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-17T18:35:57.000Z",
+      "addedAt": "2026-10-17T19:11:27.289Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-cifre-se-quedo-con-las-dos-practicas-de-tc-pista-pick-up",
       "title": "Cifre se quedó con las dos prácticas de TC Pista Pick Up | Campeones",
       "summary": "En La Plata, marcó el mejor tiempo en el primer entrenamiento y luego se adjudicó el segundo, a bordo de la Ford Ranger. Tomás Pelleandino fue la segunda referencia y Antonino Sganga, la tercera.",
@@ -128,6 +143,21 @@
       "addedAt": "2026-10-17T15:11:26.133Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-canapino-su-vida-despues-de-la-indy-y-el-futuro",
+      "title": "Canapino: Su vida después de la Indy y el futuro",
+      "summary": "“¿Cómo me veo de acá a 10 años? Ojalá que corriendo”. El arrecifeño tocó diversos temas en el mano a mano con Campeones.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/canapino-su-vida-despues-de-la-indy-y-el-futuro/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/03/CANAPINO-AGUSTIN-NEUQUEN-FOTO-DARIO-GALLARDO.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-16T18:33:42.000Z",
+      "addedAt": "2026-10-17T19:11:26.997Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-fia-wec-aston-martin-tiene-licencia-para-acelerar-en-las-6-horas-de-barcelona",
@@ -235,21 +265,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet",
-      "title": "Agustín Canapino y el mensaje para los hinchas de Chevrolet",
-      "summary": "El “Titán” fue consultado por Campeones acerca de la definición de TC que se aproxima y su relación con la marca, la cual defiende en tres frentes distintos.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9952.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-14T18:50:10.000Z",
-      "addedAt": "2026-10-14T20:11:28.598Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
       "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
       "summary": "El joven piloto italiano realizó un nuevo test, ahora en la pista francesa con uno de los autos de la escudería de Enstone.",
@@ -278,6 +293,21 @@
       "addedAt": "2026-10-15T16:11:27.731Z",
       "category": "general",
       "tag": "Mercado"
+    },
+    {
+      "id": "campeones-com-ar-agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet",
+      "title": "Agustín Canapino y el mensaje para los hinchas de Chevrolet",
+      "summary": "El “Titán” fue consultado por Campeones acerca de la definición de TC que se aproxima y su relación con la marca, la cual defiende en tres frentes distintos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9952.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-14T18:50:10.000Z",
+      "addedAt": "2026-10-14T20:11:28.598Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-esta-noche-grandes-campeones-69",
@@ -1423,7 +1453,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-17T18:11:34.640Z",
+      "createdAt": "2026-10-17T19:11:29.145Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-beneficiado-grilla-penalizacion-russell-gp-de-singapur-id765520-html",
@@ -1699,7 +1729,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-17T18:11:34.640Z",
+      "createdAt": "2026-10-17T19:11:29.145Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-singapur-id765153-html",
@@ -1975,7 +2005,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-17T18:11:34.640Z",
+      "createdAt": "2026-10-17T19:11:29.145Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1989,6 +2019,21 @@
           "language": "es",
           "publishedAt": "2026-10-14T01:34:46.000Z",
           "addedAt": "2026-10-14T02:11:31.944Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-retorno-con-victoria-para-augusto-carinelli-en-el-turismo-carretera-2000",
+          "title": "Retorno con victoria para Augusto Carinelli en el Turismo Carretera 2000 | Campeones",
+          "summary": "El piloto chaqueño mantuvo la posición de punta en la largada y se quedó con la carrera inicial del fin de semana, a bordo del Toyota Corolla que alista el Coiro Competición. Lo secundaron los Renault Fluence de Juan Ignacio Concina y Humberto Krujoski.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/retorno-con-victoria-para-augusto-carinelli-en-el-turismo-carretera-2000/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SaveClip.App_851887728_2302482860594768_8406536523453681467_n-e1792262415720.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T18:41:14.000Z",
+          "addedAt": "2026-10-17T19:11:27.316Z",
           "category": "general",
           "tag": "Carrera"
         },
@@ -2038,21 +2083,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-la-f1-ya-se-instala-en-austin-sede-del-gp-de-estados-unidos",
-          "title": "La F1 ya se instala en Austin, sede del GP de Estados Unidos",
-          "summary": "En los boxes del Circuito de las Américas se van ordenando los equipos que aguardan por el inicio de las actividades a partir del viernes 23.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-f1-ya-se-instala-en-austin-sede-del-gp-de-estados-unidos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261017-F1-Austin-Preview.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-17T15:25:45.000Z",
-          "addedAt": "2026-10-17T16:11:26.839Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-ricardo-rosset-el-piloto-considerado-uno-de-los-peores-de-la-historia-de-la-f1-que-fue-b",
           "title": "Es considerado el peor piloto de la historia de la F1 y fue burlado por sus mecánicos",
           "summary": "El brasileño, miembro de una familia millonaria dueña de una marca de lencería, llegó a la Máxima en 1996 y se marchó en 1998 con un rendimiento muy por debajo de las expectativas.",
@@ -2079,6 +2109,21 @@
           "language": "es",
           "publishedAt": "2026-10-14T20:26:30.000Z",
           "addedAt": "2026-10-14T21:11:28.161Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-la-f1-ya-se-instala-en-austin-sede-del-gp-de-estados-unidos",
+          "title": "La F1 ya se instala en Austin, sede del GP de Estados Unidos",
+          "summary": "En los boxes del Circuito de las Américas se van ordenando los equipos que aguardan por el inicio de las actividades a partir del viernes 23.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-f1-ya-se-instala-en-austin-sede-del-gp-de-estados-unidos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261017-F1-Austin-Preview.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T15:25:45.000Z",
+          "addedAt": "2026-10-17T16:11:26.839Z",
           "category": "general",
           "tag": "F1"
         },
@@ -2231,7 +2276,13 @@
           "addedAt": "2026-10-07T17:11:31.241Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-17T19:11:29.145Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
           "title": "Por qué se retrasó la largada del GP de Malasia de la Fórmula 1",
@@ -2246,13 +2297,7 @@
           "addedAt": "2026-10-04T08:11:31.664Z",
           "category": "general",
           "tag": "Clima"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-17T18:11:34.640Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -2325,21 +2370,6 @@
           "language": "es",
           "publishedAt": "2026-10-10T03:56:26.000Z",
           "addedAt": "2026-10-10T04:11:32.918Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
-          "id": "campeones-com-ar-vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal",
-          "title": "Vivian y su panorama en TC2000: \"Los milagros ocurrieron pero soy más terrenal\"",
-          "summary": "Haber estado fuera de carrera en las primeras fechas del año condicionó su abanico de posibilidades para pelear el campeonato.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/vivian-y-su-panorama-en-tc2000-los-milagros-ocurrieron-pero-soy-mas-terrenal/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Vivian-Chevrolet-TC2000.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T13:00:30.000Z",
-          "addedAt": "2026-10-09T16:11:31.196Z",
           "category": "general",
           "tag": "Carrera"
         },
@@ -2417,21 +2447,6 @@
           "addedAt": "2026-10-03T09:12:02.953Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole",
-          "title": "WEC en Barcelona: Genesis supera a Toyota y logra su 1ª “pole”",
-          "summary": "A bordo del prototipo coreano GMR-001, Mathys Jaubert se quedó con la clasificación en Hypercar. El argentino José María López, con el Lexus, arrancará 7° las “6 Horas” en LMGT3.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/genesis-barcelona-wec.jpg.webp",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-17T16:06:03.000Z",
-          "addedAt": "2026-10-17T17:11:26.563Z",
-          "category": "argentino",
-          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
@@ -2522,13 +2537,7 @@
           "addedAt": "2026-10-09T01:11:34.322Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-17T18:11:34.640Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-la-pelea-de-colapinto-en-f1-que-puede-definir-su-futuro-en-2026-id764371-html",
           "title": "La pelea de Colapinto en F1 que puede definir su futuro en 2026",
@@ -2543,7 +2552,13 @@
           "addedAt": "2026-10-05T11:11:31.316Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-17T19:11:29.145Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-como-quedo-colapinto-en-el-campeonato-de-pilotos-de-la-f1-tras-el-gp-de-malasia-id764320",
           "title": "Cómo quedó Colapinto en el Campeonato de Pilotos de la F1 tras el GP de Malasia",
@@ -2648,6 +2663,21 @@
           "addedAt": "2026-10-12T13:11:27.729Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole",
+          "title": "WEC en Barcelona: Genesis supera a Toyota y logra su 1ª “pole”",
+          "summary": "A bordo del prototipo coreano GMR-001, Mathys Jaubert se quedó con la clasificación en Hypercar. El argentino José María López, con el Lexus, arrancará 7° las “6 Horas” en LMGT3.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/genesis-barcelona-wec.jpg.webp",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T16:06:03.000Z",
+          "addedAt": "2026-10-17T17:11:26.563Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-el-italo-argentino-mattia-colnaghi-confirmado-para-el-clasico-gp-de-macao",
