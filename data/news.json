@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T11:11:26.004Z",
-  "checkedAt": "2026-10-17T11:11:26.004Z",
+  "updatedAt": "2026-10-17T12:11:25.795Z",
+  "checkedAt": "2026-10-17T12:11:25.795Z",
   "pageSize": 18,
   "sources": [
     {
@@ -100,21 +100,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-wec-en-barcelona-ferrari-pisa-fuerte-en-hypercar-y-lmgt3-pechito-fue-14",
-      "title": "WEC en Barcelona: Ferrari pisa fuerte en Hypercar y LMGT3 en la cual \"Pechito\" fue 14.° | Campeones",
-      "summary": "La penúltima ronda del Campeonato Mundial de Resistencia se desarrolla en Montmeló, en donde la actividad tuvo el primero de los dos ensayos del día.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/wec-en-barcelona-ferrari-pisa-fuerte-en-hypercar-y-lmgt3-pechito-fue-14/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-WEC-Pechito.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T11:49:53.000Z",
-      "addedAt": "2026-10-16T18:11:26.400Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec",
       "title": "\"Pechito\" López espera por las 6 horas de Barcelona de WEC",
       "summary": "El fin de semana se disputará la penúltima ronda del campeonato en la pista catalana, en donde el argentino conducirá el Lexus de Akkodis ASP Team.",
@@ -141,6 +126,21 @@
       "language": "es",
       "publishedAt": "2026-10-13T08:00:31.000Z",
       "addedAt": "2026-10-14T17:11:28.023Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-wec-en-barcelona-ferrari-pisa-fuerte-en-hypercar-y-lmgt3-pechito-fue-14",
+      "title": "WEC en Barcelona: Ferrari pisa fuerte en Hypercar y LMGT3 en la cual \"Pechito\" fue 14.° | Campeones",
+      "summary": "La penúltima ronda del Campeonato Mundial de Resistencia se desarrolla en Montmeló, en donde la actividad tuvo el primero de los dos ensayos del día.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/wec-en-barcelona-ferrari-pisa-fuerte-en-hypercar-y-lmgt3-pechito-fue-14/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-WEC-Pechito.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-16T11:49:53.000Z",
+      "addedAt": "2026-10-16T18:11:26.400Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -340,21 +340,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-tcr-world-tour-ehrlacher-domino-en-la-primera-jornada-china",
-      "title": "TCR World Tour: Ehrlacher dominó en la primera jornada china",
-      "summary": "Con el Geely de Cyan Racing, el francés superó a su compañero el uruguayo Urrutia y a Vernay que había liderado con el Cupra en la sesión inicial.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-world-tour-ehrlacher-domino-en-la-primera-jornada-china/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TCRWT-Practicas.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T11:55:54.000Z",
-      "addedAt": "2026-10-16T16:11:27.031Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-lema-despejo-dudas-sobre-el-futuro-de-canapino-en-el-tc-y-tn",
       "title": "Lema despejó dudas sobre el futuro de Canapino en el TC y TN",
       "summary": "El titular del Canning Motorsports ratificó la continuidad del arrecifeño dentro de su equipo en ambas divisionales para la temporada 2027.",
@@ -458,6 +443,21 @@
       "addedAt": "2026-10-05T18:11:37.605Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tcr-world-tour-ehrlacher-domino-en-la-primera-jornada-china",
+      "title": "TCR World Tour: Ehrlacher dominó en la primera jornada china",
+      "summary": "Con el Geely de Cyan Racing, el francés superó a su compañero el uruguayo Urrutia y a Vernay que había liderado con el Cupra en la sesión inicial.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-world-tour-ehrlacher-domino-en-la-primera-jornada-china/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TCRWT-Practicas.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-16T11:55:54.000Z",
+      "addedAt": "2026-10-16T16:11:27.031Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-urcera-y-su-cambio-de-marca-en-tc-fue-acertada-la-decision-de-correr-con-mercedes-benz",
@@ -1378,7 +1378,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-17T11:11:28.558Z",
+      "createdAt": "2026-10-17T12:11:27.816Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1654,7 +1654,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-17T11:11:28.558Z",
+      "createdAt": "2026-10-17T12:11:27.816Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415-html",
@@ -1930,7 +1930,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-17T11:11:28.558Z",
+      "createdAt": "2026-10-17T12:11:27.816Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2206,7 +2206,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-17T11:11:28.558Z",
+      "createdAt": "2026-10-17T12:11:27.816Z",
       "items": [
         {
           "id": "campeones-com-ar-el-susto-que-tuvo-rus-med-team-antes-de-la-carrera-de-tc-en-san-nicolas",
@@ -2482,7 +2482,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-17T11:11:28.558Z",
+      "createdAt": "2026-10-17T12:11:27.816Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-pelea-de-colapinto-en-f1-que-puede-definir-su-futuro-en-2026-id764371-html",
@@ -2635,21 +2635,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-colapinto-y-la-incognita-sobre-el-inconveniente-que-lo-hizo-abandonar-en-marina-bay",
-          "title": "Colapinto y la incógnita sobre el inconveniente que lo hizo abandonar en Marina Bay",
-          "summary": "A contrarreloj, el equipo de Enstone debe enfocarse en encontrar el origen del problema técnico en el Alpine 526 del argentino y alistarlo para la clasificación de la hora 10:00 de nuestro país.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-y-la-incognita-sobre-el-inconveniente-que-lo-hizo-abandonar-en-marina-bay/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-F1-Colapinto-Singapur-rain.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-10T11:35:37.000Z",
-          "addedAt": "2026-10-10T12:11:35.528Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-el-italo-argentino-mattia-colnaghi-confirmado-para-el-clasico-gp-de-macao",
           "title": "El ítalo argentino Mattia Colnaghi confirmado para el clásico GP de Macao",
           "summary": "Se prepara la 73ra edición del GP de Macao y el equipo MP Motorsport confirmó a Colnaghi para estar del 19 al 22 de noviembre allí.",
@@ -2751,6 +2736,21 @@
           "language": "es",
           "publishedAt": "2026-10-14T00:47:43.000Z",
           "addedAt": "2026-10-17T11:11:26.745Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026",
+          "title": "Hyundai anuncia a Camilo Trappa en su lista de TCR World Tour en Macao 2026",
+          "summary": "El piloto argentino se destaca en la lista de buena fe de la mano del equipo Hyundai MSA para la icónica pista urbana de Macao.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Camilo-Trappa-Hyundai-Macao-Previo-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-16T11:01:54.000Z",
+          "addedAt": "2026-10-17T12:11:26.336Z",
           "category": "argentino",
           "tag": "Argentino"
         }
