@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T20:11:25.896Z",
-  "checkedAt": "2026-10-17T20:11:25.896Z",
+  "updatedAt": "2026-10-17T21:11:26.849Z",
+  "checkedAt": "2026-10-17T21:11:26.849Z",
   "pageSize": 18,
   "sources": [
     {
@@ -83,6 +83,21 @@
       "addedAt": "2026-10-14T17:11:28.023Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tc-mouras-alaux-domino-la-clasificacion-por-3a-fecha-seguida",
+      "title": "TC Mouras: Alaux dominó la clasificación por 3ª fecha seguida",
+      "summary": "El piloto del Galarza Racing se quedó con la “pole” en el autódromo de La Plata, donde se realiza la 1ª fecha de la Copa Coronación 2026, luego de aventajar con su Dodge a la Chevy de Francisco Luengo por 0s092.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-mouras-alaux-domino-la-clasificacion-por-3a-fecha-seguida/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Alaux-TCM-2026.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-17T20:49:43.000Z",
+      "addedAt": "2026-10-17T21:11:36.510Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tc-mouras-luengo-marco-el-rumbo-en-la-ultima-practica-platense",
@@ -385,21 +400,6 @@
       "tag": "Franco"
     },
     {
-      "id": "campeones-com-ar-krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay",
-      "title": "Krujoski marcó la referencia de Turismo Carretera 2000 en C. del Uruguay",
-      "summary": "La práctica de la categoría tuvo al piloto correntino como el más veloz en la pista entrerriana, superando a Llaver, el líder del certamen. Tercero quedó Carinelli.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TurCar2000-Krujoski.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T20:51:02.000Z",
-      "addedAt": "2026-10-16T21:11:26.279Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-lema-despejo-dudas-sobre-el-futuro-de-canapino-en-el-tc-y-tn",
       "title": "Lema despejó dudas sobre el futuro de Canapino en el TC y TN",
       "summary": "El titular del Canning Motorsports ratificó la continuidad del arrecifeño dentro de su equipo en ambas divisionales para la temporada 2027.",
@@ -518,6 +518,21 @@
       "addedAt": "2026-10-05T18:11:37.605Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay",
+      "title": "Krujoski marcó la referencia de Turismo Carretera 2000 en C. del Uruguay",
+      "summary": "La práctica de la categoría tuvo al piloto correntino como el más veloz en la pista entrerriana, superando a Llaver, el líder del certamen. Tercero quedó Carinelli.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TurCar2000-Krujoski.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-16T20:51:02.000Z",
+      "addedAt": "2026-10-16T21:11:26.279Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-el-turismo-carretera-2000-ingresa-en-etapa-de-definicion",
@@ -1468,23 +1483,8 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-17T20:11:37.085Z",
+      "createdAt": "2026-10-17T21:11:41.443Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-beneficiado-grilla-penalizacion-russell-gp-de-singapur-id765520-html",
-          "title": "Así quedó la grilla del Gran Premio de Singapur de la F1",
-          "summary": "El piloto británico de Mercedes fue sancionado por el cambio del motor de su monoplaza, motivo por el que deberá largar desde el fondo en Singapur; y Colapinto, que clasificó 16°, largará un puesto más arriba",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-beneficiado-grilla-penalizacion-russell-gp-de-singapur-id765520.html",
-          "image": "https://media.tycsports.com/files/2026/10/10/994729/verstappen-hamilton-y-leclerca_862x485.webp?v=2",
-          "body": "El piloto británico de Mercedes fue sancionado por el cambio del motor de su monoplaza, motivo por el que deberá largar desde el fondo en Singapur; y Colapinto, que clasificó 16°, largará un puesto más arriba\n\nEl pedido de Alpine a Colapinto tras una complicada clasificación en Singapur 10/10/2026 06:02 pm Verstappen se quedó con la pole. Leclerc y Hamilton largarán segundo y tercero respectivamente + Seguinos en El GP de Singapur de la Fórmula 1 ya tiene establecido el orden de largada para la carrera principal. Max Verstappen se quedó con una nueva pole; mientras que Franco Colapinto, piloto argentino de Alpine, que clasificó deicimosexto, subirá un puesto en la salida por una penalización a George Russell, quien largará desde el anteúltimo puesto ya que Fernando Alonso, también será sancionado por cambiar de motor, y partirá desde el fondo de la parrilla.\n\nEl cuatro veces campeón del mundo se quedó con el primer lugar tras cerrar una vuelta de 1:31.373. Charles Leclerc y Lewis Hamilton, ambos corredores de Ferrari, fueron segundo y tercero respectivamente; Andrea Kimi Antonelli, de Mercedes, y Lando Norris, de McLaren, completaron el top 5. Por su parte, Pierre Gasly avanzó a la Q3 y concluyó octavo.",
-          "language": "es",
-          "publishedAt": "2026-10-10T21:02:03.000Z",
-          "addedAt": "2026-10-10T16:11:31.771Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
         {
           "id": "www-tycsports-com-automovilismo-la-reaccion-de-colapinto-antes-de-su-abandono-en-la-f1-formula-1-singapur-gp-gran-premio",
           "title": "\"¿Qué está pasando?\": la reacción de Colapinto antes de su abandono en el GP de Singapur de la F1",
@@ -1557,21 +1557,6 @@
           "language": "es",
           "publishedAt": "2026-10-11T13:30:38.000Z",
           "addedAt": "2026-10-11T13:11:26.951Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id76",
-          "title": "El pedido de Alpine a Colapinto tras una complicada clasificación en Singapur: \"Mantené...\"",
-          "summary": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id765589.html",
-          "image": "https://media.tycsports.com/files/2026/10/10/994806/colapinto_862x485.webp?v=1",
-          "body": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.\n\nLa foto que eligió Alpine para manifestarle su apoyo a Colapinto. + Seguinos en El fin de semana de Franco Colapinto en el Gran Premio de Singapur sumó otro capítulo difícil. Luego del abandono en la carrera Sprint por un problema en el sistema de almacenamiento de energía de su monoplaza, el piloto tampoco encontró las respuestas que buscaba en la clasificación y terminó en el 16° puesto, lejos de los lugares que pretendía ocupar. Sin embargo, rápidamente recibió la banca de su escudería de la Fórmula 1.\n\nEn ese contexto complicado, Alpine publicó un mensaje de apoyo dirigido al argentino . La escudería eligió una foto de Colapinto de espaldas, con la cabeza gacha, y acompañó la imagen con una frase que buscó levantarle el ánimo de cara a la carrera principal: “Mantené la cabeza en alto, @FranColapinto. Habrá muchas más oportunidades mañana”.\n\nEsa suerte de \"pedido\" y empujón anímico llegó después de una jornada en la que los problemas mecánicos y las dificultades para encontrar un buen balance condicionaron el rendimiento del piloto de 21 años en el GP de Singapur.\n\nEl doble toque de Colapinto con el muro en el GP de Singapur La frustración quedó reflejada en sus propias palabras una vez finalizada la sesión . “De los peores balances que tuve en mucho tiempo” , reconoció Colapinto, disconforme con el comportamiento del auto en un circuito tan exigente como el de Marina Bay.",
-          "language": "es",
-          "publishedAt": "2026-10-10T20:18:27.000Z",
-          "addedAt": "2026-10-10T21:11:30.468Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1739,13 +1724,7 @@
           "addedAt": "2026-10-11T23:11:30.707Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-17T20:11:37.085Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-singapur-id765153-html",
           "title": "Colapinto tuvo que abandonar y Verstappen ganó el GP de Singapur",
@@ -1775,7 +1754,13 @@
           "addedAt": "2026-10-11T14:11:30.903Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-17T21:11:41.443Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-defensa-pierre-gasly-franco-colapinto-tras-decision-fia-no-sancionar-lando-norris-id7656",
           "title": "La defensa de Pierre Gasly a Franco Colapinto tras la decisión de la FIA de no sancionar a Lando Norris",
@@ -1803,6 +1788,21 @@
           "language": "es",
           "publishedAt": "2026-10-11T19:14:14.000Z",
           "addedAt": "2026-10-11T16:11:30.723Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-beneficiado-grilla-penalizacion-russell-gp-de-singapur-id765520-html",
+          "title": "Así quedó la grilla del Gran Premio de Singapur de la F1",
+          "summary": "El piloto británico de Mercedes fue sancionado por el cambio del motor de su monoplaza, motivo por el que deberá largar desde el fondo en Singapur; y Colapinto, que clasificó 16°, largará un puesto más arriba",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-beneficiado-grilla-penalizacion-russell-gp-de-singapur-id765520.html",
+          "image": "https://media.tycsports.com/files/2026/10/10/994729/verstappen-hamilton-y-leclerca_862x485.webp?v=2",
+          "body": "El piloto británico de Mercedes fue sancionado por el cambio del motor de su monoplaza, motivo por el que deberá largar desde el fondo en Singapur; y Colapinto, que clasificó 16°, largará un puesto más arriba\n\nEl pedido de Alpine a Colapinto tras una complicada clasificación en Singapur 10/10/2026 06:02 pm Verstappen se quedó con la pole. Leclerc y Hamilton largarán segundo y tercero respectivamente + Seguinos en El GP de Singapur de la Fórmula 1 ya tiene establecido el orden de largada para la carrera principal. Max Verstappen se quedó con una nueva pole; mientras que Franco Colapinto, piloto argentino de Alpine, que clasificó deicimosexto, subirá un puesto en la salida por una penalización a George Russell, quien largará desde el anteúltimo puesto ya que Fernando Alonso, también será sancionado por cambiar de motor, y partirá desde el fondo de la parrilla.\n\nEl cuatro veces campeón del mundo se quedó con el primer lugar tras cerrar una vuelta de 1:31.373. Charles Leclerc y Lewis Hamilton, ambos corredores de Ferrari, fueron segundo y tercero respectivamente; Andrea Kimi Antonelli, de Mercedes, y Lando Norris, de McLaren, completaron el top 5. Por su parte, Pierre Gasly avanzó a la Q3 y concluyó octavo.",
+          "language": "es",
+          "publishedAt": "2026-10-10T21:02:03.000Z",
+          "addedAt": "2026-10-10T16:11:31.771Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1927,6 +1927,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id76",
+          "title": "El pedido de Alpine a Colapinto tras una complicada clasificación en Singapur: \"Mantené...\"",
+          "summary": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/el-pedido-de-alpine-a-colapinto-tras-una-complicada-clasificacion-en-gp-singapur-f1-id765589.html",
+          "image": "https://media.tycsports.com/files/2026/10/10/994806/colapinto_862x485.webp?v=1",
+          "body": "Después de abandonar en la Sprint y terminar 16° en la clasificación para la carrera del domingo, el piloto argentino recibió un mensaje de aliento de su escudería en redes sociales.\n\nLa foto que eligió Alpine para manifestarle su apoyo a Colapinto. + Seguinos en El fin de semana de Franco Colapinto en el Gran Premio de Singapur sumó otro capítulo difícil. Luego del abandono en la carrera Sprint por un problema en el sistema de almacenamiento de energía de su monoplaza, el piloto tampoco encontró las respuestas que buscaba en la clasificación y terminó en el 16° puesto, lejos de los lugares que pretendía ocupar. Sin embargo, rápidamente recibió la banca de su escudería de la Fórmula 1.\n\nEn ese contexto complicado, Alpine publicó un mensaje de apoyo dirigido al argentino . La escudería eligió una foto de Colapinto de espaldas, con la cabeza gacha, y acompañó la imagen con una frase que buscó levantarle el ánimo de cara a la carrera principal: “Mantené la cabeza en alto, @FranColapinto. Habrá muchas más oportunidades mañana”.\n\nEsa suerte de \"pedido\" y empujón anímico llegó después de una jornada en la que los problemas mecánicos y las dificultades para encontrar un buen balance condicionaron el rendimiento del piloto de 21 años en el GP de Singapur.\n\nEl doble toque de Colapinto con el muro en el GP de Singapur La frustración quedó reflejada en sus propias palabras una vez finalizada la sesión . “De los peores balances que tuve en mucho tiempo” , reconoció Colapinto, disconforme con el comportamiento del auto en un circuito tan exigente como el de Marina Bay.",
+          "language": "es",
+          "publishedAt": "2026-10-10T20:18:27.000Z",
+          "addedAt": "2026-10-10T21:11:30.468Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-post-qualy-sprint-gp-singapur-id765148-html",
           "title": "Colapinto, optimista tras la qualy Sprint del Gran Premio de Singapur: “Vamos a estar mejor mañana”",
           "summary": "El argentino largará 11° en la minicarrera del sábado. A pesar de que explicó las dificultades que tuvo en su monoplaza en la jornada del viernes, se mostró entusiasta para lo que viene. “No estamos lejos”, aseguró.",
@@ -2020,7 +2035,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-17T20:11:37.085Z",
+      "createdAt": "2026-10-17T21:11:41.443Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2113,21 +2128,6 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-el-nuevo-autodromo-de-buenos-aires-avanza-con-las-pruebas-de-asfalto-y-se-prepara-para-e",
-          "title": "El nuevo Autódromo de Buenos Aires avanza con las pruebas de asfalto y se prepara para el MotoGP y la F1",
-          "summary": "La renovación del circuito porteño supera el 60% de ejecución y suma avances en la pista, los boxes y las tribunas. El regreso de la máxima categoría del motociclismo ya está confirmado para abril de 2027, mientras crece la expectativa por la Fórmula 1.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/el-nuevo-autodromo-de-buenos-aires-avanza-con-las-pruebas-de-asfalto-y-se-prepara-para-el-motogp-y-la-f1-id766240.html",
-          "image": "https://media.tycsports.com/files/2026/10/14/995968/autodromo-buenos-aires_862x485.webp",
-          "body": "La renovación del circuito porteño supera el 60% de ejecución y suma avances en la pista, los boxes y las tribunas. El regreso de la máxima categoría del motociclismo ya está confirmado para abril de 2027, mientras crece la expectativa por la Fórmula 1.\n\nAvanzan las obras en el Autódromo Oscar y Juan Gálvez. + Seguinos en La transformación del Autódromo Oscar y Juan Gálvez entra en una etapa clave con los ensayos del nuevo asfalto, una instancia fundamental para avanzar con la renovación del histórico circuito porteño . El objetivo es recibir al MotoGP del 9 al 11 de abril de 2027 y adecuar las instalaciones para soñar con el regreso de la Fórmula 1.\n\nLas pruebas se llevan adelante en un tramo de 120 metros correspondiente al sobreancho de la curva T3, en la zona conocida como escapatoria o run off . Allí se evalúan los procedimientos de pavimentación, la calibración de los equipos y la coordinación de los operarios, bajo la supervisión de Tilke Engineers & Architects, la firma alemana especializada en circuitos que asesora a Autopistas Urbanas (AUSA).\n\nPara esta etapa se utiliza una mezcla homologada denominada AM3-AC19, destinada a la primera capa asfáltica, con un espesor de ocho centímetros . El operativo incluye el trabajo simultáneo de tres equipos de transferencia, tres terminadoras y seis rodillos compactadores, en una prueba que permitirá ajustar los procesos antes de continuar con la pavimentación.\n\n“ Estamos poniendo al Autódromo de la Ciudad a la par de los grandes circuitos del mundo y esto nos va a permitir no sólo que vuelva el MotoGP, sino también la Fórmula 1, un sueño que está cada vez más cerca ”, sostuvo el jefe de Gobierno porteño, Jorge Macri. Y agregó: “ Son inversiones que nos posicionan como una ciudad atractiva y por eso Buenos Aires fue design",
-          "language": "es",
-          "publishedAt": "2026-10-14T20:26:30.000Z",
-          "addedAt": "2026-10-14T21:11:28.161Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-la-f1-ya-se-instala-en-austin-sede-del-gp-de-estados-unidos",
           "title": "La F1 ya se instala en Austin, sede del GP de Estados Unidos",
           "summary": "En los boxes del Circuito de las Américas se van ordenando los equipos que aguardan por el inicio de las actividades a partir del viernes 23.",
@@ -2139,6 +2139,21 @@
           "language": "es",
           "publishedAt": "2026-10-17T15:25:45.000Z",
           "addedAt": "2026-10-17T16:11:26.839Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-el-nuevo-autodromo-de-buenos-aires-avanza-con-las-pruebas-de-asfalto-y-se-prepara-para-e",
+          "title": "El nuevo Autódromo de Buenos Aires avanza con las pruebas de asfalto y se prepara para el MotoGP y la F1",
+          "summary": "La renovación del circuito porteño supera el 60% de ejecución y suma avances en la pista, los boxes y las tribunas. El regreso de la máxima categoría del motociclismo ya está confirmado para abril de 2027, mientras crece la expectativa por la Fórmula 1.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/el-nuevo-autodromo-de-buenos-aires-avanza-con-las-pruebas-de-asfalto-y-se-prepara-para-el-motogp-y-la-f1-id766240.html",
+          "image": "https://media.tycsports.com/files/2026/10/14/995968/autodromo-buenos-aires_862x485.webp",
+          "body": "La renovación del circuito porteño supera el 60% de ejecución y suma avances en la pista, los boxes y las tribunas. El regreso de la máxima categoría del motociclismo ya está confirmado para abril de 2027, mientras crece la expectativa por la Fórmula 1.\n\nAvanzan las obras en el Autódromo Oscar y Juan Gálvez. + Seguinos en La transformación del Autódromo Oscar y Juan Gálvez entra en una etapa clave con los ensayos del nuevo asfalto, una instancia fundamental para avanzar con la renovación del histórico circuito porteño . El objetivo es recibir al MotoGP del 9 al 11 de abril de 2027 y adecuar las instalaciones para soñar con el regreso de la Fórmula 1.\n\nLas pruebas se llevan adelante en un tramo de 120 metros correspondiente al sobreancho de la curva T3, en la zona conocida como escapatoria o run off . Allí se evalúan los procedimientos de pavimentación, la calibración de los equipos y la coordinación de los operarios, bajo la supervisión de Tilke Engineers & Architects, la firma alemana especializada en circuitos que asesora a Autopistas Urbanas (AUSA).\n\nPara esta etapa se utiliza una mezcla homologada denominada AM3-AC19, destinada a la primera capa asfáltica, con un espesor de ocho centímetros . El operativo incluye el trabajo simultáneo de tres equipos de transferencia, tres terminadoras y seis rodillos compactadores, en una prueba que permitirá ajustar los procesos antes de continuar con la pavimentación.\n\n“ Estamos poniendo al Autódromo de la Ciudad a la par de los grandes circuitos del mundo y esto nos va a permitir no sólo que vuelva el MotoGP, sino también la Fórmula 1, un sueño que está cada vez más cerca ”, sostuvo el jefe de Gobierno porteño, Jorge Macri. Y agregó: “ Son inversiones que nos posicionan como una ciudad atractiva y por eso Buenos Aires fue design",
+          "language": "es",
+          "publishedAt": "2026-10-14T20:26:30.000Z",
+          "addedAt": "2026-10-14T21:11:28.161Z",
           "category": "general",
           "tag": "F1"
         },
@@ -2248,21 +2263,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-tc-mouras-y-f3-metropolitana-tambien-con-actividad-en-la-plata",
-          "title": "TC Mouras y F3 Metropolitana, también con actividad en La Plata | Campeones",
-          "summary": "Las categorías vuelven al Mouras luego de su visita a Rosario y en etapas decisivas del playoff. Habrá 13 TC Mouras, 12 Pista Mouras y 27 Fórmula 3 Metropolitana.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-mouras-y-f3-metropolitana-tambien-con-actividad-en-la-plata/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/80611_big.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-14T20:30:42.000Z",
-          "addedAt": "2026-10-14T21:11:27.647Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-lewis-hamilton-senalo-pilotos-jovenes-formula-1-tienen-miedo-lluvia-id765020-html",
           "title": "Lewis Hamilton señaló a los pilotos jóvenes de la Fórmula 1: ¿le tienen miedo a la lluvia?",
           "summary": "El británico lamentó que \"las carreras en mojado ya no son lo mismo de antes\" y lo atribuyó en parte al respeto de los nuevos protagonistas a conducir en condiciones extremas. \"Prefieren no correr\", los liquidó.",
@@ -2291,13 +2291,7 @@
           "addedAt": "2026-10-07T17:11:31.241Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-17T20:11:37.085Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
           "title": "Por qué se retrasó la largada del GP de Malasia de la Fórmula 1",
@@ -2312,7 +2306,13 @@
           "addedAt": "2026-10-04T08:11:31.664Z",
           "category": "general",
           "tag": "Clima"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-17T21:11:41.443Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -2325,6 +2325,21 @@
           "language": "es",
           "publishedAt": "2026-09-30T22:03:28.000Z",
           "addedAt": "2026-10-02T17:54:07.788Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc-mouras-y-f3-metropolitana-tambien-con-actividad-en-la-plata",
+          "title": "TC Mouras y F3 Metropolitana, también con actividad en La Plata | Campeones",
+          "summary": "Las categorías vuelven al Mouras luego de su visita a Rosario y en etapas decisivas del playoff. Habrá 13 TC Mouras, 12 Pista Mouras y 27 Fórmula 3 Metropolitana.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-mouras-y-f3-metropolitana-tambien-con-actividad-en-la-plata/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/80611_big.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-14T20:30:42.000Z",
+          "addedAt": "2026-10-14T21:11:27.647Z",
           "category": "general",
           "tag": "F1"
         },
@@ -2421,7 +2436,7 @@
         {
           "id": "campeones-com-ar-otra-pole-position-de-mariano-werner-en-tc-pick-up",
           "title": "Otra “pole position” de Mariano Werner en TC Pick Up",
-          "summary": "Ahora con los motores de Mario y Luis Riva en su Foton Tunland G7 luego de la exclusión por compresión en Balcarce, el entrerriano logró su 4ª “pole” de 2026 y la 2ª consecutiva. Canapino (Chevrolet) quedó 2º a 0s588 del piloto del Fadel Racing, quien mañana deberá largar último en la Final por una sanción de la CAF.",
+          "summary": "Ahora con los motores de Mario y Luis Riva en su Foton Tunland G7 luego de la exclusión por compresión en Balcarce, el entrerriano logró su 3ª “pole” de 2026. Canapino (Chevrolet) quedó 2º a 0s588 del piloto del Fadel Racing, quien mañana deberá largar último en la Final por una sanción de la CAF.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
           "url": "https://campeones.com.ar/otra-pole-position-de-mariano-werner-en-tc-pick-up/",
@@ -2572,7 +2587,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-17T20:11:37.085Z",
+      "createdAt": "2026-10-17T21:11:41.443Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-como-quedo-colapinto-en-el-campeonato-de-pilotos-de-la-f1-tras-el-gp-de-malasia-id764320",
