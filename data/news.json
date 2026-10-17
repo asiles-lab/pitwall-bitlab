@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T07:11:26.588Z",
-  "checkedAt": "2026-10-17T07:11:26.588Z",
+  "updatedAt": "2026-10-17T08:11:25.756Z",
+  "checkedAt": "2026-10-17T08:11:25.756Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-tambien-con-pista-humeda-lopez-se-mantiene-rapido-en-la-clase-1-de-turismo-pista",
-      "title": "También con pista húmeda, López se mantiene rápido en la Clase 1 de Turismo Pista",
-      "summary": "En Concepción del Uruguay se desarrolló la primera tanda clasificatoria de la división menor y el piloto de Campana (Buenos Aires) repitió el buen rendimiento que mostró en los entrenamientos.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tambien-con-pista-humeda-lopez-se-mantiene-rapido-en-la-clase-1-de-turismo-pista/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TPC1-Lopez.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T18:46:28.000Z",
-      "addedAt": "2026-10-17T07:11:27.375Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-canapino-su-vida-despues-de-la-indy-y-el-futuro",
       "title": "Canapino: Su vida después de la Indy y el futuro",
@@ -160,21 +145,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
-      "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
-      "summary": "El joven piloto italiano realizó un nuevo test, ahora en la pista francesa con uno de los autos de la escudería de Enstone.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-F1-Alpine-Gabriele-Mini.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T19:41:21.000Z",
-      "addedAt": "2026-10-16T20:11:26.799Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay",
       "title": "Krujoski marcó la referencia de Turismo Carretera 2000 en C. del Uruguay",
       "summary": "La práctica de la categoría tuvo al piloto correntino como el más veloz en la pista entrerriana, superando a Llaver, el líder del certamen. Tercero quedó Carinelli.",
@@ -248,6 +218,21 @@
       "addedAt": "2026-10-14T20:11:28.598Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
+      "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
+      "summary": "El joven piloto italiano realizó un nuevo test, ahora en la pista francesa con uno de los autos de la escudería de Enstone.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-F1-Alpine-Gabriele-Mini.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-16T19:41:21.000Z",
+      "addedAt": "2026-10-16T20:11:26.799Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "www-tycsports-com-automovilismo-el-piloto-brasileno-que-reemplazara-a-esteban-ocon-en-haas-y-debutara-en-la-f1-en-2027-i",
@@ -1393,7 +1378,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-17T07:11:28.483Z",
+      "createdAt": "2026-10-17T08:11:28.837Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1669,7 +1654,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-17T07:11:28.483Z",
+      "createdAt": "2026-10-17T08:11:28.837Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415-html",
@@ -1945,7 +1930,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-17T07:11:28.483Z",
+      "createdAt": "2026-10-17T08:11:28.837Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2221,7 +2206,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-17T07:11:28.483Z",
+      "createdAt": "2026-10-17T08:11:28.837Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -2497,7 +2482,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-17T07:11:28.483Z",
+      "createdAt": "2026-10-17T08:11:28.837Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-singapur-franco-colapinto-cruce-futbolero-camiseta-espana-id765051",
