@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T21:11:26.849Z",
-  "checkedAt": "2026-10-17T21:11:26.849Z",
+  "updatedAt": "2026-10-17T22:11:26.009Z",
+  "checkedAt": "2026-10-17T22:11:26.009Z",
   "pageSize": 18,
   "sources": [
     {
@@ -1483,7 +1483,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-17T21:11:41.443Z",
+      "createdAt": "2026-10-17T22:11:29.603Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-reaccion-de-colapinto-antes-de-su-abandono-en-la-f1-formula-1-singapur-gp-gran-premio",
@@ -1759,7 +1759,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-17T21:11:41.443Z",
+      "createdAt": "2026-10-17T22:11:29.603Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-defensa-pierre-gasly-franco-colapinto-tras-decision-fia-no-sancionar-lando-norris-id7656",
@@ -2035,7 +2035,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-17T21:11:41.443Z",
+      "createdAt": "2026-10-17T22:11:29.603Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2049,21 +2049,6 @@
           "language": "es",
           "publishedAt": "2026-10-14T01:34:46.000Z",
           "addedAt": "2026-10-14T02:11:31.944Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
-          "id": "campeones-com-ar-retorno-con-victoria-para-augusto-carinelli-en-el-turismo-carretera-2000",
-          "title": "Retorno con victoria para Augusto Carinelli en el Turismo Carretera 2000 | Campeones",
-          "summary": "El piloto chaqueño mantuvo la posición de punta en la largada y se quedó con la carrera inicial del fin de semana, a bordo del Toyota Corolla que alista el Coiro Competición. Lo secundaron los Renault Fluence de Juan Ignacio Concina y Humberto Krujoski.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/retorno-con-victoria-para-augusto-carinelli-en-el-turismo-carretera-2000/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SaveClip.App_851887728_2302482860594768_8406536523453681467_n-e1792262415720.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-17T18:41:14.000Z",
-          "addedAt": "2026-10-17T19:11:27.316Z",
           "category": "general",
           "tag": "Carrera"
         },
@@ -2094,6 +2079,21 @@
           "language": "es",
           "publishedAt": "2026-10-11T18:12:49.000Z",
           "addedAt": "2026-10-11T19:03:48.315Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-retorno-con-victoria-para-augusto-carinelli-en-el-turismo-carretera-2000",
+          "title": "Retorno con victoria para Augusto Carinelli en el Turismo Carretera 2000 | Campeones",
+          "summary": "El piloto chaqueño mantuvo la posición de punta en la largada y se quedó con la carrera inicial del fin de semana, a bordo del Toyota Corolla que alista el Coiro Competición. Lo secundaron los Renault Fluence de Juan Ignacio Concina y Humberto Krujoski.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/retorno-con-victoria-para-augusto-carinelli-en-el-turismo-carretera-2000/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SaveClip.App_851887728_2302482860594768_8406536523453681467_n-e1792262415720.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T18:41:14.000Z",
+          "addedAt": "2026-10-17T19:11:27.316Z",
           "category": "general",
           "tag": "Carrera"
         },
@@ -2311,7 +2311,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-17T21:11:41.443Z",
+      "createdAt": "2026-10-17T22:11:29.603Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -2587,7 +2587,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-17T21:11:41.443Z",
+      "createdAt": "2026-10-17T22:11:29.603Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-como-quedo-colapinto-en-el-campeonato-de-pilotos-de-la-f1-tras-el-gp-de-malasia-id764320",
@@ -2845,17 +2845,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-victoria-de-santiago-urrutia-en-tcr-world-tour",
-          "title": "Victoria de Santiago Urrutia en TCR World Tour",
-          "summary": "Con el Geely, el piloto uruguayo encabezó el \"1-2\" del equipo Cyan Racing en la pista china de Chengdu, escoltado por Yann Ehrlacher.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/victoria-de-santiago-urrutia-en-tcr-world-tour/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261017-TCRWT-Urrutia.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
+          "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
+          "summary": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/canapino-maniobra-viral-tn-id766078.html",
+          "image": "https://media.tycsports.com/files/2026/10/13/995713/foto_1440x810.webp?v=1",
+          "body": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.\n\nLa cámara on board de Canapino y su sobresaliente maniobra + Seguinos en La extraordinaria maniobra de Agustín Canapino, en la que pasó a tres autos en la última vuelta, sigue dando que hablar. El piloto de 36 años posteó un video en su cuenta de Instagram con la cámara a bordo de su destacada acción , que le permitió quedarse con la victoria en la segunda serie de la Clase 3 del Turismo Nacional en el Autódromo Ciudad de San Martín, en Mendoza, el último domingo.\n\n“¡La maniobra desde adentro! Aplausos para Facu Chapur, Jorge Barrio y Facu Marques por poner todo y el nivel conductivo. La calidad del automovilismo argentino reflejada en su máxima expresión”, fue el mensaje del oriundo de Arrecifes que acompañó las imágenes desde el interior de su Chevrolet Cruze.\n\nLa publicación rápidamente se viralizó en redes sociales y ya cuenta con más de 75.000 me gusta y alrededor de 1500 comentarios. Entre tantas reacciones, se destaca la de Ale Martínez, el hermano del Dibu, quien respondió: “Qué locura”. No solo eso, sino que las imágenes alcanzaron repercusión internacional y diversos medios sudamericanos, europeos y asiáticos se rindieron ante la habilidad de Canapino al volante.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur Lo cierto es que la secuencia no tiene desperdicio. En la última vuelta de la carrera en Mendoza, Jorge Barrio y Facundo Chapur venían compitiendo cabeza a cabeza por el primer lugar, con Facundo Marques en el tercero y Canapino detrás de ellos.",
           "language": "es",
-          "publishedAt": "2026-10-17T10:11:06.000Z",
-          "addedAt": "2026-10-17T15:11:26.362Z",
+          "publishedAt": "2026-10-14T00:47:43.000Z",
+          "addedAt": "2026-10-17T22:11:26.647Z",
           "category": "argentino",
           "tag": "Argentino"
         }
