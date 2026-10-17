@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T15:11:25.912Z",
-  "checkedAt": "2026-10-17T15:11:25.912Z",
+  "updatedAt": "2026-10-17T16:11:26.078Z",
+  "checkedAt": "2026-10-17T16:11:26.078Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,21 +40,6 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-canapino-su-vida-despues-de-la-indy-y-el-futuro",
-      "title": "Canapino: Su vida después de la Indy y el futuro",
-      "summary": "“¿Cómo me veo de acá a 10 años? Ojalá que corriendo”. El arrecifeño tocó diversos temas en el mano a mano con Campeones.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/canapino-su-vida-despues-de-la-indy-y-el-futuro/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/03/CANAPINO-AGUSTIN-NEUQUEN-FOTO-DARIO-GALLARDO.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T18:33:42.000Z",
-      "addedAt": "2026-10-17T07:11:27.858Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-fia-wec-aston-martin-tiene-licencia-para-acelerar-en-las-6-horas-de-barcelona",
       "title": "FIA WEC: Aston Martin tiene licencia para acelerar en las 6 horas de Barcelona",
       "summary": "En la segunda práctica desarrollada en la pista de Montmeló lideró el Hypercar del auto inglés; el Lexus de José María López quedó 6.° en LMGT3.",
@@ -66,21 +51,6 @@
       "language": "es",
       "publishedAt": "2026-10-16T16:51:56.000Z",
       "addedAt": "2026-10-16T20:11:26.919Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-turismo-pista-ignacio-lopez-domino-en-los-entrenamientos-de-clase-1-uruguayenses",
-      "title": "Turismo Pista: Ignacio López dominó en los entrenamientos de Clase 1 uruguayenses",
-      "summary": "La división menor llevó a cabo las dos sesiones de prácticas en el autódromo de Concepción del Uruguay, superando a Monje y Cortina.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/turismo-pista-ignacio-lopez-domino-en-los-entrenamientos-de-clase-1-uruguayenses/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TPC1-Lopez.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T15:24:00.000Z",
-      "addedAt": "2026-10-16T20:11:26.820Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -115,6 +85,51 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-cifre-se-quedo-con-las-dos-practicas-de-tc-pista-pick-up",
+      "title": "Cifre se quedó con las dos prácticas de TC Pista Pick Up | Campeones",
+      "summary": "En La Plata, marcó el mejor tiempo en el primer entrenamiento y luego se adjudicó el segundo, a bordo de la Ford Ranger. Tomás Pelleandino fue la segunda referencia y Antonino Sganga, la tercera.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/cifre-se-quedo-con-las-dos-practicas-de-tc-pista-pick-up/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/PHOTO-2026-10-17-12-39-18.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-17T15:57:33.000Z",
+      "addedAt": "2026-10-17T16:11:27.154Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-damian-perez-domino-el-primer-ensayo-de-tc-pista-mouras",
+      "title": "Damián Pérez dominó el primer ensayo de TC Pista Mouras | Campeones",
+      "summary": "En La Plata, la categoría inicia el playoff rumbo a la recta final del campeonato. Quien comienza líder, Iñaki Arrías, fue segundo y tercero quedó Ignacio Lovich.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/damian-perez-domino-el-primer-ensayo-de-tc-pista-mouras/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/PHOTO-2026-10-17-11-59-35.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-17T15:15:01.000Z",
+      "addedAt": "2026-10-17T16:11:26.824Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc-mouras-alaux-lidero-el-primer-entrenamiento-en-el-mouras",
+      "title": "TC Mouras: Alaux lideró el primer entrenamiento en el \"Mouras\"",
+      "summary": "El piloto de Dodge superó por 0s197 a Francisco Luengo (Chevrolet) en la práctica inicial de la 1ª fecha de la Copa Coronación 2026 del TC Mouras, que se desarrolla en La Plata.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-mouras-alaux-lidero-el-primer-entrenamiento-en-el-mouras/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Alaux-TCM-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-17T15:14:00.000Z",
+      "addedAt": "2026-10-17T16:11:26.845Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata",
       "title": "TC Pick Up: Palazzo es la primera referencia en el regreso a La Plata",
       "summary": "El pinamarense del EZE-B Team, que viene de lograr su 1ª victoria en la categoría en el retorno del automovilismo grande a Balcarce, resultó el más veloz en el entrenamiento que dio comienzo a la 2ª fecha de la Copa Coronación 2026.",
@@ -128,6 +143,21 @@
       "addedAt": "2026-10-17T15:11:26.133Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-turismo-pista-ignacio-lopez-domino-en-los-entrenamientos-de-clase-1-uruguayenses",
+      "title": "Turismo Pista: Ignacio López dominó en los entrenamientos de Clase 1 uruguayenses",
+      "summary": "La división menor llevó a cabo las dos sesiones de prácticas en el autódromo de Concepción del Uruguay, superando a Monje y Cortina.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/turismo-pista-ignacio-lopez-domino-en-los-entrenamientos-de-clase-1-uruguayenses/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TPC1-Lopez.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-16T15:24:00.000Z",
+      "addedAt": "2026-10-16T20:11:26.820Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido",
@@ -340,21 +370,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-el-turismo-carretera-2000-ingresa-en-etapa-de-definicion",
-      "title": "El Turismo Carretera 2000 ingresa en etapa de definición",
-      "summary": "En Concepción del Uruguay se corre la penúltima fecha del calendario con 17 protagonistas y varias novedades.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-turismo-carretera-2000-ingresa-en-etapa-de-definicion/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TURISMO-CARRETERA-2000-TERMAS-ARCHIVO-2026.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T15:35:39.000Z",
-      "addedAt": "2026-10-16T16:11:27.284Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-lema-despejo-dudas-sobre-el-futuro-de-canapino-en-el-tc-y-tn",
       "title": "Lema despejó dudas sobre el futuro de Canapino en el TC y TN",
       "summary": "El titular del Canning Motorsports ratificó la continuidad del arrecifeño dentro de su equipo en ambas divisionales para la temporada 2027.",
@@ -458,6 +473,21 @@
       "addedAt": "2026-10-05T18:11:37.605Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-el-turismo-carretera-2000-ingresa-en-etapa-de-definicion",
+      "title": "El Turismo Carretera 2000 ingresa en etapa de definición",
+      "summary": "En Concepción del Uruguay se corre la penúltima fecha del calendario con 17 protagonistas y varias novedades.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/el-turismo-carretera-2000-ingresa-en-etapa-de-definicion/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TURISMO-CARRETERA-2000-TERMAS-ARCHIVO-2026.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-16T15:35:39.000Z",
+      "addedAt": "2026-10-16T16:11:27.284Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tcr-world-tour-ehrlacher-domino-en-la-primera-jornada-china",
@@ -576,21 +606,6 @@
       "language": "es",
       "publishedAt": "2026-10-10T18:01:45.000Z",
       "addedAt": "2026-10-10T18:11:28.570Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc2000-lucas-carabajal-marco-el-ritmo-antes-de-clasificar",
-      "title": "TC2000: Lucas Carabajal marca el ritmo antes de clasificar | Campeones",
-      "summary": "El chaqueño, último ganador, se quedó con el segundo entrenamiento y el mejor tiempo del día con la VW Nivus, aventajando en más de medio segundo a Valentín Yankelevich (Toyota).",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc2000-lucas-carabajal-marco-el-ritmo-antes-de-clasificar/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/PHOTO-2026-10-10-12-30-15.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-10T15:34:38.000Z",
-      "addedAt": "2026-10-10T16:11:31.325Z",
       "category": "general",
       "tag": "F1"
     },
@@ -923,6 +938,21 @@
       "addedAt": "2026-10-04T01:11:31.647Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-tc2000-lucas-carabajal-marco-el-ritmo-antes-de-clasificar",
+      "title": "TC2000: Lucas Carabajal marca el ritmo antes de clasificar | Campeones",
+      "summary": "El chaqueño, último ganador, se quedó con el segundo entrenamiento y el mejor tiempo del día con la VW Nivus, aventajando en más de medio segundo a Valentín Yankelevich (Toyota).",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc2000-lucas-carabajal-marco-el-ritmo-antes-de-clasificar/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/PHOTO-2026-10-10-12-30-15.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-10T15:34:38.000Z",
+      "addedAt": "2026-10-10T16:11:31.325Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-emiliano-stang-comenzo-arriba-en-la-primera-practica-de-tc2000",
@@ -1393,23 +1423,8 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-17T15:11:36.234Z",
+      "createdAt": "2026-10-17T16:11:34.207Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
-          "title": "La frustración de Colapinto por el \"peor balance en mucho tiempo\" y su toque a la pared en Singapur",
-          "summary": "El argentino -que finalizó 16° pero partirá 15° por una penalización a Russell- no ocultó su malestar después de la clasificación antes de la carrera del domingo en la F1.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificacion-id765511.html",
-          "image": "https://media.tycsports.com/files/2026/10/10/994712/colapinto_1440x810.webp",
-          "body": "El argentino -que finalizó 16° pero partirá 15° por una penalización a Russell- no ocultó su malestar después de la clasificación antes de la carrera del domingo en la F1.\n\nColapinto, frustrado por un sábado para el olvido en el GP de Singapur. + Seguinos en Después de lo que fue su abandono por un problema en el sistema de almacenamiento de energía de su monoplaza durante la carrera Sprint del Gran Premio de Singapur , el piloto argentino Franco Colapinto no ocultó su frustración tras clasificar 16° para la carrera del domingo : \" De los peores balances que tuve en mucho tiempo\".\n\nEl argentino se tuvo que conformar con una salida en Q2 y un mejor registro de 1:33.261s , algo que le sirvió para quedar en el 16° puesto de la grilla. Afortunadamente para él, la penalización que recibirá George Russell hará que el piloto de Mercedes parta desde el fondo de la grilla, por lo que el pilarense subirá un lugar y saldrá del 15° puesto .\n\nDe todas maneras, Colapinto hizo evidente su frustración después de la clasificación: \" La Q2 fue muy mala, perdimos el balance del auto . El último run de Q2 fue un desastre, de los peores balances que tuve en mucho tiempo . No entiendo por qué, porque en Q1 se sentía bien y tenía bastante por mejorar, pero la Q2 fue un desastre \".\n\nEl doble toque de Colapinto con el muro en el GP de Singapur Mirá también",
-          "language": "es",
-          "publishedAt": "2026-10-10T15:24:40.000Z",
-          "addedAt": "2026-10-10T16:11:31.707Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-beneficiado-grilla-penalizacion-russell-gp-de-singapur-id765520-html",
           "title": "Así quedó la grilla del Gran Premio de Singapur de la F1",
@@ -1437,21 +1452,6 @@
           "language": "es",
           "publishedAt": "2026-10-11T20:20:50.000Z",
           "addedAt": "2026-10-11T21:11:31.028Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-singapur-id764676-",
-          "title": "F1: Colapinto largará 15° y Verstappen será el poleman en el GP de Singapur",
-          "summary": "El piloto argentino no logró meterse entre los 10 mejores de la clasificación y ya conoce su posición para la carrera de este domingo.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-singapur-id764676.html",
-          "image": "https://media.tycsports.com/files/2026/10/10/994692/max-verstappen-en-la-qualy-del-gp-de-singapur_1440x810.webp",
-          "body": "El piloto argentino no logró meterse entre los 10 mejores de la clasificación y ya conoce su posición para la carrera de este domingo.\n\nColapinto finalizó 19º en la práctica libre del GP de Singapur Verstappen hizo pole y Colapinto largará 11° en la Sprint del GP de Singapur Lluvia y caos en el Sprint: abandonó Colapinto, chocó Russell y ganó Verstappen 10/10/2026 12:23 pm + Seguinos en La clasificación de este sábado definió la parrilla de largada para la carrera del Gran Premio de Singapur que tendrá a Max Verstappen como poleman , seguido por Charles Leclerc y Lewis Hamilton. Mientras tanto, el argentino Franco Colapinto finalizó 16° tras sufrir un roce contra la pared en Q2, pero subió un lugar por una sanción a George Russell.\n\nDespués de un retraso de media hora por las lluvias, la clasificación comenzó con varios inconvenientes . El primero en sufrirlo fue Esteban Ocon que sufrió el bloqueo de su monoplaza de Haas y se salvó por poco de chocar contra el muro. Otro de los que sufrió una bloqueada fue Lance Stroll , sin embargo, ambos pudieron seguir en competencia.\n\nEl que no logró continuar fue Isaac Hadjar , a quien los desperfectos mecánicos le frenaron el monoplaza de Red Bull y aunque intentó seguir debió abandonar. Además del piloto de Red Bull, los eliminados allí fueron Fernando Alonso, Alex Albon, Lance Stroll, Sergio Pérez, Valttieri Bottas.\n\nEl argentino pasó sin problemas la Q1 con un buen tiempo de 1:33.782 que lo clasificó noveno a la siguiente instancia junto a su compañero de equipo Pierre Gasly (1:33.523) quien lo hizo séptimo. Además, el más rápido fue Lewis Hamilton. Sin embargo, Colapinto no tuvo la misma suerte en Q2 y, luego de un intento de lograr una marca que le permita meterse entre los 10 primeros, tuvo un roce contra la pared, lo que pe",
-          "language": "es",
-          "publishedAt": "2026-10-10T15:23:11.000Z",
-          "addedAt": "2026-10-10T19:11:31.928Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1527,6 +1527,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T20:18:27.000Z",
           "addedAt": "2026-10-10T21:11:30.468Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
+          "title": "La frustración de Colapinto por el \"peor balance en mucho tiempo\" y su toque a la pared en Singapur",
+          "summary": "El argentino -que finalizó 16° pero partirá 15° por una penalización a Russell- no ocultó su malestar después de la clasificación antes de la carrera del domingo en la F1.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificacion-id765511.html",
+          "image": "https://media.tycsports.com/files/2026/10/10/994712/colapinto_1440x810.webp",
+          "body": "El argentino -que finalizó 16° pero partirá 15° por una penalización a Russell- no ocultó su malestar después de la clasificación antes de la carrera del domingo en la F1.\n\nColapinto, frustrado por un sábado para el olvido en el GP de Singapur. + Seguinos en Después de lo que fue su abandono por un problema en el sistema de almacenamiento de energía de su monoplaza durante la carrera Sprint del Gran Premio de Singapur , el piloto argentino Franco Colapinto no ocultó su frustración tras clasificar 16° para la carrera del domingo : \" De los peores balances que tuve en mucho tiempo\".\n\nEl argentino se tuvo que conformar con una salida en Q2 y un mejor registro de 1:33.261s , algo que le sirvió para quedar en el 16° puesto de la grilla. Afortunadamente para él, la penalización que recibirá George Russell hará que el piloto de Mercedes parta desde el fondo de la grilla, por lo que el pilarense subirá un lugar y saldrá del 15° puesto .\n\nDe todas maneras, Colapinto hizo evidente su frustración después de la clasificación: \" La Q2 fue muy mala, perdimos el balance del auto . El último run de Q2 fue un desastre, de los peores balances que tuve en mucho tiempo . No entiendo por qué, porque en Q1 se sentía bien y tenía bastante por mejorar, pero la Q2 fue un desastre \".\n\nEl doble toque de Colapinto con el muro en el GP de Singapur Mirá también",
+          "language": "es",
+          "publishedAt": "2026-10-10T15:24:40.000Z",
+          "addedAt": "2026-10-10T16:11:31.707Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1664,13 +1679,7 @@
           "addedAt": "2026-10-14T20:11:29.224Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-17T15:11:36.234Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-hadjar-exabrupto-dolor-culo-no-poder-pasar-colapinto-f1-gp-singapur-id765737-html",
           "title": "\"Dolor en el culo\": el exabrupto de Hadjar tras no poder pasar a Colapinto en el GP de Singapur",
@@ -1685,7 +1694,13 @@
           "addedAt": "2026-10-11T23:11:30.707Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-17T16:11:34.207Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-singapur-id765153-html",
           "title": "Colapinto tuvo que abandonar y Verstappen ganó el GP de Singapur",
@@ -1773,6 +1788,21 @@
           "language": "es",
           "publishedAt": "2026-10-15T10:47:12.000Z",
           "addedAt": "2026-10-11T15:11:31.629Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-singapur-id764676-",
+          "title": "F1: Colapinto largará 15° y Verstappen será el poleman en el GP de Singapur",
+          "summary": "El piloto argentino no logró meterse entre los 10 mejores de la clasificación y ya conoce su posición para la carrera de este domingo.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-singapur-id764676.html",
+          "image": "https://media.tycsports.com/files/2026/10/10/994692/max-verstappen-en-la-qualy-del-gp-de-singapur_1440x810.webp",
+          "body": "El piloto argentino no logró meterse entre los 10 mejores de la clasificación y ya conoce su posición para la carrera de este domingo.\n\nColapinto finalizó 19º en la práctica libre del GP de Singapur Verstappen hizo pole y Colapinto largará 11° en la Sprint del GP de Singapur Lluvia y caos en el Sprint: abandonó Colapinto, chocó Russell y ganó Verstappen 10/10/2026 12:23 pm + Seguinos en La clasificación de este sábado definió la parrilla de largada para la carrera del Gran Premio de Singapur que tendrá a Max Verstappen como poleman , seguido por Charles Leclerc y Lewis Hamilton. Mientras tanto, el argentino Franco Colapinto finalizó 16° tras sufrir un roce contra la pared en Q2, pero subió un lugar por una sanción a George Russell.\n\nDespués de un retraso de media hora por las lluvias, la clasificación comenzó con varios inconvenientes . El primero en sufrirlo fue Esteban Ocon que sufrió el bloqueo de su monoplaza de Haas y se salvó por poco de chocar contra el muro. Otro de los que sufrió una bloqueada fue Lance Stroll , sin embargo, ambos pudieron seguir en competencia.\n\nEl que no logró continuar fue Isaac Hadjar , a quien los desperfectos mecánicos le frenaron el monoplaza de Red Bull y aunque intentó seguir debió abandonar. Además del piloto de Red Bull, los eliminados allí fueron Fernando Alonso, Alex Albon, Lance Stroll, Sergio Pérez, Valttieri Bottas.\n\nEl argentino pasó sin problemas la Q1 con un buen tiempo de 1:33.782 que lo clasificó noveno a la siguiente instancia junto a su compañero de equipo Pierre Gasly (1:33.523) quien lo hizo séptimo. Además, el más rápido fue Lewis Hamilton. Sin embargo, Colapinto no tuvo la misma suerte en Q2 y, luego de un intento de lograr una marca que le permita meterse entre los 10 primeros, tuvo un roce contra la pared, lo que pe",
+          "language": "es",
+          "publishedAt": "2026-10-10T15:23:11.000Z",
+          "addedAt": "2026-10-10T19:11:31.928Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1945,7 +1975,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-17T15:11:36.234Z",
+      "createdAt": "2026-10-17T16:11:34.207Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2006,6 +2036,21 @@
           "addedAt": "2026-10-14T15:11:28.233Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-la-f1-ya-se-instala-en-austin-sede-del-gp-de-estados-unidos",
+          "title": "La F1 ya se instala en Austin, sede del GP de Estados Unidos",
+          "summary": "En los boxes del Circuito de las Américas se van ordenando los equipos que aguardan por el inicio de las actividades a partir del viernes 23.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-f1-ya-se-instala-en-austin-sede-del-gp-de-estados-unidos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261017-F1-Austin-Preview.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T15:25:45.000Z",
+          "addedAt": "2026-10-17T16:11:26.839Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-ricardo-rosset-el-piloto-considerado-uno-de-los-peores-de-la-historia-de-la-f1-que-fue-b",
@@ -2201,7 +2246,13 @@
           "addedAt": "2026-10-04T08:11:31.664Z",
           "category": "general",
           "tag": "Clima"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-17T16:11:34.207Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -2216,13 +2267,7 @@
           "addedAt": "2026-10-02T17:54:07.788Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-17T15:11:36.234Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-el-susto-que-tuvo-rus-med-team-antes-de-la-carrera-de-tc-en-san-nicolas",
           "title": "El \"susto\" que tuvo RUS Med Team antes de la carrera de TCen San Nicolás",
@@ -2297,21 +2342,6 @@
           "addedAt": "2026-10-09T16:11:31.196Z",
           "category": "general",
           "tag": "Carrera"
-        },
-        {
-          "id": "campeones-com-ar-f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial",
-          "title": "F1 en Singapur: un \"error humano\" alteró el cronometraje oficial",
-          "summary": "La FIA lo informó \"al mismo tiempo\" que decidió suspender la reunión de pilotos; Williams y Aston Martin protestaron y sugirieron impugnar los resultados.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-en-singapur-un-error-humano-altero-el-cronometraje-oficial/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261009-F1-Race-control.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-09T17:07:30.000Z",
-          "addedAt": "2026-10-09T17:11:32.069Z",
-          "category": "general",
-          "tag": "Reglamento"
         },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-gran-premio-barein-malasia-formula-1-id763482-html",
@@ -2497,7 +2527,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-17T15:11:36.234Z",
+      "createdAt": "2026-10-17T16:11:34.207Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-como-quedo-colapinto-en-el-campeonato-de-pilotos-de-la-f1-tras-el-gp-de-malasia-id764320",
@@ -2601,21 +2631,6 @@
           "language": "es",
           "publishedAt": "2026-10-12T12:15:04.000Z",
           "addedAt": "2026-10-12T13:11:27.729Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-la-frustracion-de-colapinto-por-el-magro-rendimiento-del-alpine-en-singapur",
-          "title": "La frustración de Colapinto por el magro rendimiento del Alpine en Singapur",
-          "summary": "Al concluir la ronda clasificatoria, en donde fue 16.°, el argentino manifestó su disconformidad por la prestación del A526 en Marina Bay.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-frustracion-de-colapinto-por-el-magro-rendimiento-del-alpine-en-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-Colapinto-paddock-box-Singapur.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-10T15:50:19.000Z",
-          "addedAt": "2026-10-10T16:11:31.352Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2766,6 +2781,21 @@
           "language": "es",
           "publishedAt": "2026-10-16T11:01:54.000Z",
           "addedAt": "2026-10-17T12:11:26.336Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-canapino-su-vida-despues-de-la-indy-y-el-futuro",
+          "title": "Canapino: Su vida después de la Indy y el futuro",
+          "summary": "“¿Cómo me veo de acá a 10 años? Ojalá que corriendo”. El arrecifeño tocó diversos temas en el mano a mano con Campeones.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/canapino-su-vida-despues-de-la-indy-y-el-futuro/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/03/CANAPINO-AGUSTIN-NEUQUEN-FOTO-DARIO-GALLARDO.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-16T18:33:42.000Z",
+          "addedAt": "2026-10-17T07:11:27.858Z",
           "category": "argentino",
           "tag": "Argentino"
         }
