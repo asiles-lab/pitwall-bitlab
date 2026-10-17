@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T19:11:26.756Z",
-  "checkedAt": "2026-10-17T19:11:26.756Z",
+  "updatedAt": "2026-10-17T20:11:25.896Z",
+  "checkedAt": "2026-10-17T20:11:25.896Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada",
+      "title": "Baltazar Frezze piloto RVM oficial en el Dakar: \"Una marca argentina de gente buena y apasionada\"",
+      "summary": "El sueño de un salteño que fue a mirar el Dakar de pequeño y hoy entrena con los Benavides, con el respaldo oficial de una marca argentina.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Baltazar-RVM-Portada-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-15T22:53:49.000Z",
+      "addedAt": "2026-10-17T20:11:36.893Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
     {
       "id": "campeones-com-ar-pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec",
       "title": "\"Pechito\" López espera por las 6 horas de Barcelona de WEC",
@@ -250,36 +265,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana",
-      "title": "Julián Santero retorna a las Pick Up el próximo fin de semana | Campeones",
-      "summary": "El piloto mendocino es el inscripto N°14, retornando con la Ford Ranger del Magnoluz Racing desde el fin de semana.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/79254_big.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-14T19:27:49.000Z",
-      "addedAt": "2026-10-15T08:11:26.999Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
-      "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
-      "summary": "El joven piloto italiano realizó un nuevo test, ahora en la pista francesa con uno de los autos de la escudería de Enstone.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-F1-Alpine-Gabriele-Mini.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T19:41:21.000Z",
-      "addedAt": "2026-10-16T20:11:26.799Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-el-piloto-brasileno-que-reemplazara-a-esteban-ocon-en-haas-y-debutara-en-la-f1-en-2027-i",
       "title": "Quién es el piloto que reemplazará a Esteban Ocon en Haas y debutará en la F1 en 2027",
       "summary": "Rafael Camara, el joven de 21 años que hoy lidera la F2, firmó un contrato plurianual y se espera que sea compañero de Oliver Bearman la próxima temporada.",
@@ -293,6 +278,21 @@
       "addedAt": "2026-10-15T16:11:27.731Z",
       "category": "general",
       "tag": "Mercado"
+    },
+    {
+      "id": "campeones-com-ar-julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana",
+      "title": "Julián Santero retorna a las Pick Up el próximo fin de semana | Campeones",
+      "summary": "El piloto mendocino es el inscripto N°14, retornando con la Ford Ranger del Magnoluz Racing desde el fin de semana.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/79254_big.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-14T19:27:49.000Z",
+      "addedAt": "2026-10-15T08:11:26.999Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet",
@@ -413,6 +413,21 @@
       "addedAt": "2026-10-04T15:11:36.725Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
+      "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
+      "summary": "El joven piloto italiano realizó un nuevo test, ahora en la pista francesa con uno de los autos de la escudería de Enstone.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-F1-Alpine-Gabriele-Mini.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-16T19:41:21.000Z",
+      "addedAt": "2026-10-16T20:11:26.799Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
@@ -606,21 +621,6 @@
       "language": "es",
       "publishedAt": "2026-10-12T15:15:48.000Z",
       "addedAt": "2026-10-12T16:11:31.495Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc2000-traut-con-su-primera-pole-en-el-cierre-de-la-clasificacion-pampeana",
-      "title": "TC2000: Traut, con su primera \"pole\" en el cierre de la clasificación pampeana",
-      "summary": "El piloto de Las Flores se adueñó del '1' en el segundo corte clasificatorio con el Chevrolet Cruze. Lo siguieron Lucas Carabajal y Francisco Monarca.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc2000-traut-con-su-primera-pole-en-el-cierre-de-la-clasificacion-pampeana/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NICOLAS-TRAUT-POLE-POSITION-TC2000-e1791661324181.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-10T19:46:23.000Z",
-      "addedAt": "2026-10-10T20:11:32.474Z",
       "category": "general",
       "tag": "F1"
     },
@@ -953,6 +953,21 @@
       "addedAt": "2026-10-04T01:11:31.647Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-tc2000-traut-con-su-primera-pole-en-el-cierre-de-la-clasificacion-pampeana",
+      "title": "TC2000: Traut, con su primera \"pole\" en el cierre de la clasificación pampeana",
+      "summary": "El piloto de Las Flores se adueñó del '1' en el segundo corte clasificatorio con el Chevrolet Cruze. Lo siguieron Lucas Carabajal y Francisco Monarca.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc2000-traut-con-su-primera-pole-en-el-cierre-de-la-clasificacion-pampeana/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NICOLAS-TRAUT-POLE-POSITION-TC2000-e1791661324181.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-10T19:46:23.000Z",
+      "addedAt": "2026-10-10T20:11:32.474Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tc-a-50-anos-del-record-historico-del-7-de-oro-de-roberto-mouras",
@@ -1453,7 +1468,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-17T19:11:29.145Z",
+      "createdAt": "2026-10-17T20:11:37.085Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-beneficiado-grilla-penalizacion-russell-gp-de-singapur-id765520-html",
@@ -1729,7 +1744,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-17T19:11:29.145Z",
+      "createdAt": "2026-10-17T20:11:37.085Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-singapur-id765153-html",
@@ -2005,7 +2020,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-17T19:11:29.145Z",
+      "createdAt": "2026-10-17T20:11:37.085Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2281,7 +2296,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-17T19:11:29.145Z",
+      "createdAt": "2026-10-17T20:11:37.085Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -2404,6 +2419,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-otra-pole-position-de-mariano-werner-en-tc-pick-up",
+          "title": "Otra “pole position” de Mariano Werner en TC Pick Up",
+          "summary": "Ahora con los motores de Mario y Luis Riva en su Foton Tunland G7 luego de la exclusión por compresión en Balcarce, el entrerriano logró su 4ª “pole” de 2026 y la 2ª consecutiva. Canapino (Chevrolet) quedó 2º a 0s588 del piloto del Fadel Racing, quien mañana deberá largar último en la Final por una sanción de la CAF.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/otra-pole-position-de-mariano-werner-en-tc-pick-up/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Werner-Pole-TCPK-2026.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T20:02:27.000Z",
+          "addedAt": "2026-10-17T20:11:26.240Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-la-gran-derrota-de-alpine-en-el-gp-de-singapur-id765680-html",
           "title": "La gran derrota de Alpine en el GP de Singapur",
           "summary": "Colapinto abandonó y Gasly finalizó 11°. Racing Bulls se escapa y afianza como quinto en el Campeonato de Constructores...",
@@ -2445,21 +2475,6 @@
           "language": "es",
           "publishedAt": "2026-10-03T08:59:19.000Z",
           "addedAt": "2026-10-03T09:12:02.953Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
-          "title": "Colapinto y los mensajes de odio en redes: \"No me ayudan a mí ni a mi futuro\"",
-          "summary": "El piloto argentino se expresó a través de su cuenta de Instagram. \"Sé que piensan que me están defendiendo, pero están generando lo contrario\" afirmó.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260926-F1-Colapinto-e1792008537913.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-14T20:07:37.000Z",
-          "addedAt": "2026-10-14T20:11:28.426Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2557,7 +2572,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-17T19:11:29.145Z",
+      "createdAt": "2026-10-17T20:11:37.085Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-como-quedo-colapinto-en-el-campeonato-de-pilotos-de-la-f1-tras-el-gp-de-malasia-id764320",
@@ -2646,6 +2661,21 @@
           "language": "es",
           "publishedAt": "2026-10-01T13:54:31.000Z",
           "addedAt": "2026-10-02T16:23:12.797Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
+          "title": "Colapinto y los mensajes de odio en redes: \"No me ayudan a mí ni a mi futuro\"",
+          "summary": "El piloto argentino se expresó a través de su cuenta de Instagram. \"Sé que piensan que me están defendiendo, pero están generando lo contrario\" afirmó.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260926-F1-Colapinto-e1792008537913.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-14T20:07:37.000Z",
+          "addedAt": "2026-10-14T20:11:28.426Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2755,6 +2785,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata",
+          "title": "TC Pista Pick Up: \"pole\" de Santiago Biagi en La Plata | Campeones",
+          "summary": "Se adjudicó la clasificación en La Plata tras una gran primera vuelta, por lo que largará adelante la primera serie con la Toyota del Rus Med team. Fue escoltado por Faustino Cifre (Ford), líder de las prácticas.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/80139_big.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T19:12:56.000Z",
+          "addedAt": "2026-10-17T20:11:26.211Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-en-marina-bay-y-desde-el-11-puesto-colapinto-buscara-sumar-con-el-alpine-en-la-carrera-sprint",
           "title": "En Marina Bay y desde el 11.° puesto, Colapinto buscará sumar con el Alpine en la carrera Sprint",
           "summary": "A partir de la hora 6:00 de Argentina, el piloto pilarense pretende escalar posiciones en la competencia sabatina del GP de Singapur.",
@@ -2796,36 +2841,6 @@
           "language": "es",
           "publishedAt": "2026-10-17T10:11:06.000Z",
           "addedAt": "2026-10-17T15:11:26.362Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
-          "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
-          "summary": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/canapino-maniobra-viral-tn-id766078.html",
-          "image": "https://media.tycsports.com/files/2026/10/13/995713/foto_1440x810.webp?v=1",
-          "body": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.\n\nLa cámara on board de Canapino y su sobresaliente maniobra + Seguinos en La extraordinaria maniobra de Agustín Canapino, en la que pasó a tres autos en la última vuelta, sigue dando que hablar. El piloto de 36 años posteó un video en su cuenta de Instagram con la cámara a bordo de su destacada acción , que le permitió quedarse con la victoria en la segunda serie de la Clase 3 del Turismo Nacional en el Autódromo Ciudad de San Martín, en Mendoza, el último domingo.\n\n“¡La maniobra desde adentro! Aplausos para Facu Chapur, Jorge Barrio y Facu Marques por poner todo y el nivel conductivo. La calidad del automovilismo argentino reflejada en su máxima expresión”, fue el mensaje del oriundo de Arrecifes que acompañó las imágenes desde el interior de su Chevrolet Cruze.\n\nLa publicación rápidamente se viralizó en redes sociales y ya cuenta con más de 75.000 me gusta y alrededor de 1500 comentarios. Entre tantas reacciones, se destaca la de Ale Martínez, el hermano del Dibu, quien respondió: “Qué locura”. No solo eso, sino que las imágenes alcanzaron repercusión internacional y diversos medios sudamericanos, europeos y asiáticos se rindieron ante la habilidad de Canapino al volante.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur Lo cierto es que la secuencia no tiene desperdicio. En la última vuelta de la carrera en Mendoza, Jorge Barrio y Facundo Chapur venían compitiendo cabeza a cabeza por el primer lugar, con Facundo Marques en el tercero y Canapino detrás de ellos.",
-          "language": "es",
-          "publishedAt": "2026-10-14T00:47:43.000Z",
-          "addedAt": "2026-10-17T11:11:26.745Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026",
-          "title": "Hyundai anuncia a Camilo Trappa en su lista de TCR World Tour en Macao 2026",
-          "summary": "El piloto argentino se destaca en la lista de buena fe de la mano del equipo Hyundai MSA para la icónica pista urbana de Macao.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Camilo-Trappa-Hyundai-Macao-Previo-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-16T11:01:54.000Z",
-          "addedAt": "2026-10-17T12:11:26.336Z",
           "category": "argentino",
           "tag": "Argentino"
         }
