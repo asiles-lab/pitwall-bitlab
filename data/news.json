@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T12:11:25.795Z",
-  "checkedAt": "2026-10-17T12:11:25.795Z",
+  "updatedAt": "2026-10-17T13:11:25.991Z",
+  "checkedAt": "2026-10-17T13:11:25.991Z",
   "pageSize": 18,
   "sources": [
     {
@@ -85,21 +85,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido",
-      "title": "TC: Ford y Chevrolet, de la convivencia prohibida a compartir taller cada vez más seguido",
-      "summary": "La llegada de Santiago Álvarez y su Camaro al TCM Racing, donde tendrá como compañero a Ricardo Risatti (Mustang), reafirma una tendencia que no es nueva pero que ha ganado fuerza en la última década.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/De-Benedictis-Tobias-Martinez-TC-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T12:26:41.000Z",
-      "addedAt": "2026-10-16T16:11:26.832Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec",
       "title": "\"Pechito\" López espera por las 6 horas de Barcelona de WEC",
       "summary": "El fin de semana se disputará la penúltima ronda del campeonato en la pista catalana, en donde el argentino conducirá el Lexus de Akkodis ASP Team.",
@@ -126,6 +111,21 @@
       "language": "es",
       "publishedAt": "2026-10-13T08:00:31.000Z",
       "addedAt": "2026-10-14T17:11:28.023Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido",
+      "title": "TC: Ford y Chevrolet, de la convivencia prohibida a compartir taller cada vez más seguido",
+      "summary": "La llegada de Santiago Álvarez y su Camaro al TCM Racing, donde tendrá como compañero a Ricardo Risatti (Mustang), reafirma una tendencia que no es nueva pero que ha ganado fuerza en la última década.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/De-Benedictis-Tobias-Martinez-TC-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-16T12:26:41.000Z",
+      "addedAt": "2026-10-16T16:11:26.832Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -1378,7 +1378,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-17T12:11:27.816Z",
+      "createdAt": "2026-10-17T13:11:35.022Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1392,36 +1392,6 @@
           "language": "es",
           "publishedAt": "2026-10-10T15:24:40.000Z",
           "addedAt": "2026-10-10T16:11:31.707Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-formula-1-franco-colapinto-abandono-sprint-gran-premio-singapur-que-se-sabe-id765474-htm",
-          "title": "\"Un problema del auto, ajeno a nosotros\": qué se sabe del abandono de Colapinto en la F1 de Singapur",
-          "summary": "Como consecuencia de lo que fue determinado como \"un problema en el sistema de almacenamiento de energía\", el Alpine del argentino se detuvo repentinamente durante el cuarto giro y mientras la carrera estaba bajo Safety Car por el accidente de George Russell. Así, el equipo cambió las partes necesarias y no penalizará de cara a la clasificación para la carrera principal.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-franco-colapinto-abandono-sprint-gran-premio-singapur-que-se-sabe-id765474.html",
-          "image": "https://media.tycsports.com/files/2026/10/10/994645/colapinto-singapur_862x485.webp",
-          "body": "Como consecuencia de lo que fue determinado como \"un problema en el sistema de almacenamiento de energía\", el Alpine del argentino se detuvo repentinamente durante el cuarto giro y mientras la carrera estaba bajo Safety Car por el accidente de George Russell. Así, el equipo cambió las partes necesarias y no penalizará de cara a la clasificación para la carrera principal.\n\nApenas en el cuarto giro y como consecuencia de un problema eléctrico, Colapinto abandonó en el sprint de Singapur (Rudy Carezzevoli/Getty Images) + Seguinos en El sábado de Franco Colapinto en Singapur terminó antes de tiempo. Es que, apenas en el cuarto giro de la carrera Sprint en Marina Bay, su Alpine perdió potencia de manera repentina y quedó detenido en la curva 14 , cuando transitaba detrás del auto de seguridad.\n\nSegún evidenciaron los primeros videos de la situación, el monoplaza también habría perdido el control del volante y dejó de transmitir datos al equipo , por lo que los ingenieros deberán recuperar la información para establecer con precisión qué originó la falla. La cámara onboard, en tanto, muestra como el argentino \"cabecea\", algo que claramente se causó por la pérdida repentina de potencia en el motor . Así, todas las señales apuntan hacia un problema eléctrico .\n\n“ Una lástima obviamente... Un problema del auto ajeno a nosotros, veremos exactamente qué es. Una lástima porque era una buena oportunidad. Ahora intentaremos arreglarlo y volver en la qualy, sin las vueltas de la Sprint Race. Ojalá podamos hacer un par de cambios buenos ”, planteó el corredor argentino en la rueda de prensa posterior. Lo cierto es que el retraso del inicio de la clasificación para la carrera principal por cuestiones climáticas jugó en favor del argentino y, así, su equipo pudo realizar modificaciones a",
-          "language": "es",
-          "publishedAt": "2026-10-10T13:04:13.000Z",
-          "addedAt": "2026-10-10T11:11:31.839Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-sigue-el-idilio-de-lando-norris-con-franco-colapinto-es-una-carta-muy-bonita-id766880-ht",
-          "title": "Sigue el idilio de Lando Norris con Franco Colapinto: \"Es una carta muy bonita\"",
-          "summary": "Tras el choque en Bakú y el exabrupto del británico, la buena onda volvió a reinar con el argentino: otra vez, el de McLaren sacó una carta suya y pensó en hacerle un regalo.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/sigue-el-idilio-de-lando-norris-con-franco-colapinto-es-una-carta-muy-bonita-id766880.html",
-          "image": "https://media.tycsports.com/files/2026/10/16/996732/norris-colapinto_1440x810.webp?v=2",
-          "body": "Tras el choque en Bakú y el exabrupto del británico, la buena onda volvió a reinar con el argentino: otra vez, el de McLaren sacó una carta suya y pensó en hacerle un regalo.\n\nLa reacción de Norris ante otra figurita de Colapinto + Seguinos en Lando Norris y Franco Colapinto ya llevan un largo camino recorrido: de aquella buena onda en la irrupción del argentino en la Fórmula 1 a un aparente distanciamiento que no pasó inadvertido para los fans hasta el choque entre ambos en Bakú que disparó la repudiable declaración del británico sobre \"los pilotos que no deberían estar en la F1\". Ante las críticas, hubo disculpas cruzadas para que en los últimos días todo sea color de rosa. Y este viernes se sumó un capítulo más.\n\nAyer , el de McLaren había participado de un streaming con Max Fewtrell en el que comenzó a revelar figuritas de diversos pilotos y, al sacar la imagen del argentino, lo llamó \"mi bien amigo\". Ahora, en una escena similar en otra transmisión en vivo, otra vez descubrió una carta del pilarense y se derritió. \"¡Dios mío! Tenemos una edición limitada de Franquito Colapinto. Es realmente una carta muy bonita ... Parece una edición de México. ¿Debería dársela a Franco? Probablemente sea una de las cartas que mejor lucen. Franco, ¿la querés?\", dijo el inglés muy contento con verlo.\n\nAsí, tal parece que quedó sepultado el desagradable incidente del Gran Premio de Azerbaiyán, cuando un error del hombre de Alpine desencadenó un accidente múltiple en la vuelta 36, durante la reanudación de la carrera tras el ingreso del coche de seguridad: bloqueó los neumáticos en la primera curva y perdió el control de su monoplaza.\n\nLa maniobra provocó un choque que involucró inicialmente a su compañero, Pierre Gasly, y luego al McLaren del británico. Los tres pilotos debieron aban",
-          "language": "es",
-          "publishedAt": "2026-10-17T00:47:47.000Z",
-          "addedAt": "2026-10-17T01:11:26.551Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1467,6 +1437,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T15:23:11.000Z",
           "addedAt": "2026-10-10T19:11:31.928Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-sigue-el-idilio-de-lando-norris-con-franco-colapinto-es-una-carta-muy-bonita-id766880-ht",
+          "title": "Sigue el idilio de Lando Norris con Franco Colapinto: \"Es una carta muy bonita\"",
+          "summary": "Tras el choque en Bakú y el exabrupto del británico, la buena onda volvió a reinar con el argentino: otra vez, el de McLaren sacó una carta suya y pensó en hacerle un regalo.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/sigue-el-idilio-de-lando-norris-con-franco-colapinto-es-una-carta-muy-bonita-id766880.html",
+          "image": "https://media.tycsports.com/files/2026/10/16/996732/norris-colapinto_1440x810.webp?v=2",
+          "body": "Tras el choque en Bakú y el exabrupto del británico, la buena onda volvió a reinar con el argentino: otra vez, el de McLaren sacó una carta suya y pensó en hacerle un regalo.\n\nLa reacción de Norris ante otra figurita de Colapinto + Seguinos en Lando Norris y Franco Colapinto ya llevan un largo camino recorrido: de aquella buena onda en la irrupción del argentino en la Fórmula 1 a un aparente distanciamiento que no pasó inadvertido para los fans hasta el choque entre ambos en Bakú que disparó la repudiable declaración del británico sobre \"los pilotos que no deberían estar en la F1\". Ante las críticas, hubo disculpas cruzadas para que en los últimos días todo sea color de rosa. Y este viernes se sumó un capítulo más.\n\nAyer , el de McLaren había participado de un streaming con Max Fewtrell en el que comenzó a revelar figuritas de diversos pilotos y, al sacar la imagen del argentino, lo llamó \"mi bien amigo\". Ahora, en una escena similar en otra transmisión en vivo, otra vez descubrió una carta del pilarense y se derritió. \"¡Dios mío! Tenemos una edición limitada de Franquito Colapinto. Es realmente una carta muy bonita ... Parece una edición de México. ¿Debería dársela a Franco? Probablemente sea una de las cartas que mejor lucen. Franco, ¿la querés?\", dijo el inglés muy contento con verlo.\n\nAsí, tal parece que quedó sepultado el desagradable incidente del Gran Premio de Azerbaiyán, cuando un error del hombre de Alpine desencadenó un accidente múltiple en la vuelta 36, durante la reanudación de la carrera tras el ingreso del coche de seguridad: bloqueó los neumáticos en la primera curva y perdió el control de su monoplaza.\n\nLa maniobra provocó un choque que involucró inicialmente a su compañero, Pierre Gasly, y luego al McLaren del británico. Los tres pilotos debieron aban",
+          "language": "es",
+          "publishedAt": "2026-10-17T00:47:47.000Z",
+          "addedAt": "2026-10-17T01:11:26.551Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1527,6 +1512,21 @@
           "language": "es",
           "publishedAt": "2026-10-10T20:18:27.000Z",
           "addedAt": "2026-10-10T21:11:30.468Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-formula-1-franco-colapinto-abandono-sprint-gran-premio-singapur-que-se-sabe-id765474-htm",
+          "title": "\"Un problema del auto, ajeno a nosotros\": qué se sabe del abandono de Colapinto en la F1 de Singapur",
+          "summary": "Como consecuencia de lo que fue determinado como \"un problema en el sistema de almacenamiento de energía\", el Alpine del argentino se detuvo repentinamente durante el cuarto giro y mientras la carrera estaba bajo Safety Car por el accidente de George Russell. Así, el equipo cambió las partes necesarias y no penalizará de cara a la clasificación para la carrera principal.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-franco-colapinto-abandono-sprint-gran-premio-singapur-que-se-sabe-id765474.html",
+          "image": "https://media.tycsports.com/files/2026/10/10/994645/colapinto-singapur_862x485.webp",
+          "body": "Como consecuencia de lo que fue determinado como \"un problema en el sistema de almacenamiento de energía\", el Alpine del argentino se detuvo repentinamente durante el cuarto giro y mientras la carrera estaba bajo Safety Car por el accidente de George Russell. Así, el equipo cambió las partes necesarias y no penalizará de cara a la clasificación para la carrera principal.\n\nApenas en el cuarto giro y como consecuencia de un problema eléctrico, Colapinto abandonó en el sprint de Singapur (Rudy Carezzevoli/Getty Images) + Seguinos en El sábado de Franco Colapinto en Singapur terminó antes de tiempo. Es que, apenas en el cuarto giro de la carrera Sprint en Marina Bay, su Alpine perdió potencia de manera repentina y quedó detenido en la curva 14 , cuando transitaba detrás del auto de seguridad.\n\nSegún evidenciaron los primeros videos de la situación, el monoplaza también habría perdido el control del volante y dejó de transmitir datos al equipo , por lo que los ingenieros deberán recuperar la información para establecer con precisión qué originó la falla. La cámara onboard, en tanto, muestra como el argentino \"cabecea\", algo que claramente se causó por la pérdida repentina de potencia en el motor . Así, todas las señales apuntan hacia un problema eléctrico .\n\n“ Una lástima obviamente... Un problema del auto ajeno a nosotros, veremos exactamente qué es. Una lástima porque era una buena oportunidad. Ahora intentaremos arreglarlo y volver en la qualy, sin las vueltas de la Sprint Race. Ojalá podamos hacer un par de cambios buenos ”, planteó el corredor argentino en la rueda de prensa posterior. Lo cierto es que el retraso del inicio de la clasificación para la carrera principal por cuestiones climáticas jugó en favor del argentino y, así, su equipo pudo realizar modificaciones a",
+          "language": "es",
+          "publishedAt": "2026-10-10T13:04:13.000Z",
+          "addedAt": "2026-10-10T11:11:31.839Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1654,7 +1654,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-17T12:11:27.816Z",
+      "createdAt": "2026-10-17T13:11:35.022Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415-html",
@@ -1743,21 +1743,6 @@
           "language": "es",
           "publishedAt": "2026-10-11T19:14:14.000Z",
           "addedAt": "2026-10-11T16:11:30.723Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-f1-colapinto-abandono-en-el-inicio-de-la-carrera-sprint-de-singapur",
-          "title": "F1: Colapinto abandonó en el inicio de la carrera Sprint de Singapur y Verstappen ganó otra vez",
-          "summary": "Tras una espera de media hora se desarrolló la competencia en el circuito callejero de Marina Bay, en donde el argentino solo pudo dar dos giros. En tanto, el neerlandés consiguió imponerse con el Red Bull.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-colapinto-abandono-en-el-inicio-de-la-carrera-sprint-de-singapur/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-F1-Colapinto-Singapur-out.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-10T12:55:13.000Z",
-          "addedAt": "2026-10-10T10:11:31.380Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1925,12 +1910,27 @@
           "addedAt": "2026-10-08T15:11:28.692Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-ma",
+          "title": "El contundente respaldo del manager de Colapinto y su agencia tras el GP de Baréin en Malasia",
+          "summary": "Bullet Sports Management destacó la actuación del piloto argentino tras una destacada recuperación y una estrategia de Alpine que condicionó su desempeño.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-malasia-id764413.html",
+          "image": "https://media.tycsports.com/files/2026/09/26/990872/franco-colapinto_1440x810.webp?v=1",
+          "body": "Bullet Sports Management destacó la actuación del piloto argentino tras una destacada recuperación y una estrategia de Alpine que condicionó su desempeño.\n\nFranco Colapinto terminó 13° en el Gran Premio de Baréin + Seguinos en Franco Colapinto terminó 13° en el Gran Premio de Baréin de Fórmula 1 , disputado en Malasia, después de remontar ocho posiciones desde el 21° lugar. El argentino no pudo sumar puntos, pero tuvo una destacada recuperación en una carrera marcada por las condiciones cambiantes de la pista y una estrategia de neumáticos de Alpine que condicionó su desempeño desde la largada.\n\nBullet Sports Management, la agencia que representa al piloto junto a Jamie Campbell-Walter y María Catarineu, destacó su actuación en redes sociales. “P13 en la bandera a cuadros no cuenta toda la historia del GP de Baréin de Franco” , publicó BSM. Campbell-Walter, por su parte, escribió: “Súper rápido este fin de semana. Hacia Singapur”.\n\nLa estrategia de Alpine fue uno de los principales problemas para Colapinto y Pierre Gasly, quienes largaron con neumáticos blandos para piso seco pese a que la pista todavía estaba mojada. “Nos quedamos todos sin agarre y patinando en la largada. Fue la decisión incorrecta” , explicó el argentino en diálogo con ESPN. “Después había que tomar muchos riesgos para ir rápido con la goma lisa y hubiésemos perdido la carrera” , agregó. En sus redes sociales, reconoció el error del equipo: “No fue el mejor día… No tomamos la decisión correcta como equipo, pero desde donde largábamos había que intentar algo” . Más allá del resultado, el piloto de Alpine rescató: “Lo más positivo fue el gran ritmo durante todo el finde en seco. Ya se viene Singapur, a volver a pelear arriba. ¡Vamos!”. En ese circuito, Colapinto ya compitió en 2024 con Williams y term",
+          "language": "es",
+          "publishedAt": "2026-10-05T12:55:21.000Z",
+          "addedAt": "2026-10-05T13:11:31.250Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-17T12:11:27.816Z",
+      "createdAt": "2026-10-17T13:11:35.022Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2206,7 +2206,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-17T12:11:27.816Z",
+      "createdAt": "2026-10-17T13:11:35.022Z",
       "items": [
         {
           "id": "campeones-com-ar-el-susto-que-tuvo-rus-med-team-antes-de-la-carrera-de-tc-en-san-nicolas",
@@ -2297,21 +2297,6 @@
           "addedAt": "2026-10-09T17:11:32.069Z",
           "category": "general",
           "tag": "Reglamento"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-ma",
-          "title": "El contundente respaldo del manager de Colapinto y su agencia tras el GP de Baréin en Malasia",
-          "summary": "Bullet Sports Management destacó la actuación del piloto argentino tras una destacada recuperación y una estrategia de Alpine que condicionó su desempeño.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/el-contundente-respaldo-del-manager-de-colapinto-y-su-agencia-tras-el-gp-de-barein-en-malasia-id764413.html",
-          "image": "https://media.tycsports.com/files/2026/09/26/990872/franco-colapinto_1440x810.webp?v=1",
-          "body": "Bullet Sports Management destacó la actuación del piloto argentino tras una destacada recuperación y una estrategia de Alpine que condicionó su desempeño.\n\nFranco Colapinto terminó 13° en el Gran Premio de Baréin + Seguinos en Franco Colapinto terminó 13° en el Gran Premio de Baréin de Fórmula 1 , disputado en Malasia, después de remontar ocho posiciones desde el 21° lugar. El argentino no pudo sumar puntos, pero tuvo una destacada recuperación en una carrera marcada por las condiciones cambiantes de la pista y una estrategia de neumáticos de Alpine que condicionó su desempeño desde la largada.\n\nBullet Sports Management, la agencia que representa al piloto junto a Jamie Campbell-Walter y María Catarineu, destacó su actuación en redes sociales. “P13 en la bandera a cuadros no cuenta toda la historia del GP de Baréin de Franco” , publicó BSM. Campbell-Walter, por su parte, escribió: “Súper rápido este fin de semana. Hacia Singapur”.\n\nLa estrategia de Alpine fue uno de los principales problemas para Colapinto y Pierre Gasly, quienes largaron con neumáticos blandos para piso seco pese a que la pista todavía estaba mojada. “Nos quedamos todos sin agarre y patinando en la largada. Fue la decisión incorrecta” , explicó el argentino en diálogo con ESPN. “Después había que tomar muchos riesgos para ir rápido con la goma lisa y hubiésemos perdido la carrera” , agregó. En sus redes sociales, reconoció el error del equipo: “No fue el mejor día… No tomamos la decisión correcta como equipo, pero desde donde largábamos había que intentar algo” . Más allá del resultado, el piloto de Alpine rescató: “Lo más positivo fue el gran ritmo durante todo el finde en seco. Ya se viene Singapur, a volver a pelear arriba. ¡Vamos!”. En ese circuito, Colapinto ya compitió en 2024 con Williams y term",
-          "language": "es",
-          "publishedAt": "2026-10-05T12:55:21.000Z",
-          "addedAt": "2026-10-05T13:11:31.250Z",
-          "category": "argentino",
-          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-la-furiosa-reaccion-de-colapinto-por-la-estrategia-de-alpine-en-el-gp-de-malasia-de-la-f",
@@ -2477,13 +2462,7 @@
           "addedAt": "2026-10-09T01:11:34.322Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-17T12:11:27.816Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-la-pelea-de-colapinto-en-f1-que-puede-definir-su-futuro-en-2026-id764371-html",
           "title": "La pelea de Colapinto en F1 que puede definir su futuro en 2026",
@@ -2498,7 +2477,13 @@
           "addedAt": "2026-10-05T11:11:31.316Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-17T13:11:35.022Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-como-quedo-colapinto-en-el-campeonato-de-pilotos-de-la-f1-tras-el-gp-de-malasia-id764320",
           "title": "Cómo quedó Colapinto en el Campeonato de Pilotos de la F1 tras el GP de Malasia",
@@ -2676,6 +2661,21 @@
           "language": "es",
           "publishedAt": "2026-10-09T10:32:58.000Z",
           "addedAt": "2026-10-08T11:11:31.372Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-f1-colapinto-abandono-en-el-inicio-de-la-carrera-sprint-de-singapur",
+          "title": "F1: Colapinto abandonó en el inicio de la carrera Sprint de Singapur y Verstappen ganó otra vez",
+          "summary": "Tras una espera de media hora se desarrolló la competencia en el circuito callejero de Marina Bay, en donde el argentino solo pudo dar dos giros. En tanto, el neerlandés consiguió imponerse con el Red Bull.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-colapinto-abandono-en-el-inicio-de-la-carrera-sprint-de-singapur/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-F1-Colapinto-Singapur-out.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-10T12:55:13.000Z",
+          "addedAt": "2026-10-10T10:11:31.380Z",
           "category": "argentino",
           "tag": "Franco"
         },
