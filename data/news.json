@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T01:11:25.734Z",
-  "checkedAt": "2026-10-17T01:11:25.734Z",
+  "updatedAt": "2026-10-17T02:11:25.831Z",
+  "checkedAt": "2026-10-17T02:11:25.831Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,21 +40,6 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-canapino-su-vida-despues-de-la-indy-y-el-futuro",
-      "title": "Canapino: Su vida después de la Indy y el futuro",
-      "summary": "“¿Cómo me veo de acá a 10 años? Ojalá que corriendo”. El arrecifeño tocó diversos temas en el mano a mano con Campeones.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/canapino-su-vida-despues-de-la-indy-y-el-futuro/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/03/CANAPINO-AGUSTIN-NEUQUEN-FOTO-DARIO-GALLARDO.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T18:33:42.000Z",
-      "addedAt": "2026-10-17T01:11:26.574Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-fia-wec-aston-martin-tiene-licencia-para-acelerar-en-las-6-horas-de-barcelona",
       "title": "FIA WEC: Aston Martin tiene licencia para acelerar en las 6 horas de Barcelona",
       "summary": "En la segunda práctica desarrollada en la pista de Montmeló lideró el Hypercar del auto inglés; el Lexus de José María López quedó 6.° en LMGT3.",
@@ -81,6 +66,21 @@
       "language": "es",
       "publishedAt": "2026-10-16T15:24:00.000Z",
       "addedAt": "2026-10-16T20:11:26.820Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
+      "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
+      "summary": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/canapino-maniobra-viral-tn-id766078.html",
+      "image": "https://media.tycsports.com/files/2026/10/13/995713/foto_1440x810.webp?v=1",
+      "body": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.\n\nLa cámara on board de Canapino y su sobresaliente maniobra + Seguinos en La extraordinaria maniobra de Agustín Canapino, en la que pasó a tres autos en la última vuelta, sigue dando que hablar. El piloto de 36 años posteó un video en su cuenta de Instagram con la cámara a bordo de su destacada acción , que le permitió quedarse con la victoria en la segunda serie de la Clase 3 del Turismo Nacional en el Autódromo Ciudad de San Martín, en Mendoza, el último domingo.\n\n“¡La maniobra desde adentro! Aplausos para Facu Chapur, Jorge Barrio y Facu Marques por poner todo y el nivel conductivo. La calidad del automovilismo argentino reflejada en su máxima expresión”, fue el mensaje del oriundo de Arrecifes que acompañó las imágenes desde el interior de su Chevrolet Cruze.\n\nLa publicación rápidamente se viralizó en redes sociales y ya cuenta con más de 75.000 me gusta y alrededor de 1500 comentarios. Entre tantas reacciones, se destaca la de Ale Martínez, el hermano del Dibu, quien respondió: “Qué locura”. No solo eso, sino que las imágenes alcanzaron repercusión internacional y diversos medios sudamericanos, europeos y asiáticos se rindieron ante la habilidad de Canapino al volante.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur Lo cierto es que la secuencia no tiene desperdicio. En la última vuelta de la carrera en Mendoza, Jorge Barrio y Facundo Chapur venían compitiendo cabeza a cabeza por el primer lugar, con Facundo Marques en el tercero y Canapino detrás de ellos.",
+      "language": "es",
+      "publishedAt": "2026-10-14T00:47:43.000Z",
+      "addedAt": "2026-10-17T02:11:26.990Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -1393,7 +1393,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-17T01:11:28.318Z",
+      "createdAt": "2026-10-17T02:11:28.118Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1669,7 +1669,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-17T01:11:28.318Z",
+      "createdAt": "2026-10-17T02:11:28.118Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415-html",
@@ -1762,21 +1762,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-un-argentino-se-toco-con-verstappen-y-lo-expuso-a-una-sancion-en-el-gt-world-challenge-i",
-          "title": "Un argentino se tocó con Verstappen y lo expuso a una sanción en el GT World Challenge",
-          "summary": "El incidente ocurrió en la curva 3 de Portimao durante los primeros minutos de la práctica. Los comisarios determinaron que el piloto de la Fórmula 1 fue el único responsable de la colisión.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/un-argentino-se-toco-con-verstappen-y-lo-expuso-a-una-sancion-en-el-gt-world-challenge-id766693.html",
-          "image": "https://media.tycsports.com/files/2026/10/16/996548/el-momento-del-toque-entre-verstappen-y-perez-companc-_862x485.webp",
-          "body": "El incidente ocurrió en la curva 3 de Portimao durante los primeros minutos de la práctica. Los comisarios determinaron que el piloto de la Fórmula 1 fue el único responsable de la colisión.\n\nVerstappen tocó al argentino Pérez Companc en el GT World Challenge y se salvó de una sanción + Seguinos en Max Verstappen aprovechó la pausa de la Fórmula 1 pero no se tomó descanso, sino que volvió a subirse a un auto para competir en el GT World Challenge Europe . Si bien llegaba en un gran momento (había logrado dos victorias consecutivas en los GP de Baréin y Singapur), no fue una buena jornada para el piloto neerlandés, que protagonizó un incidente con el argentino Ezequiel Pérez Companc durante la primera práctica en Portimao.\n\nLa maniobra se produjo en la curva 3, cuando el Mercedes-AMG número 3 de Team Verstappen Racing tocó con su trompa la parte trasera del Audi número 25. El auto del argentino perdió estabilidad, hizo un trompo y debió salir de los límites de la pista para regresar , mientras el tetracampeón de la F1 hacía gestos de disconformidad desde su habitáculo. Ambos pudieron continuar en la sesión.\n\nLuego de revisar las imágenes y escuchar las explicaciones de los protagonistas, los comisarios deportivos sancionaron a Verstappen con una amonestación y un punto de penalización . El informe oficial detalló las versiones de ambos corredores sobre lo ocurrido en el comienzo de los entrenamientos.\n\n“El piloto del coche 25 declaró que estaba concentrado en los coches que tenía delante y que no pudo ver al coche 3 a su derecha. Consideró el suceso como un incidente de carrera desafortunado. El piloto del coche 3 explicó que intentó realizar un adelantamiento, esperando que el coche 25 se mantuviera hacia el exterior de la curva, y que se vio sorprendido cuando el coche",
-          "language": "es",
-          "publishedAt": "2026-10-16T14:05:52.000Z",
-          "addedAt": "2026-10-16T14:11:27.616Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-el-balance-de-franco-colapinto-tras-su-abandono-fueron-las-peores-tres-carreras-que-tuve-en-f1",
           "title": "El balance de Franco Colapinto tras su abandono: «Fueron las peores tres carreras que tuve en F1",
           "summary": "Cerrando un fin de semana complejo en Singapur, el piloto argentino se refirió a la magra cosecha de resultados con el Alpine en esta fecha, como también en Baku y Sepang.",
@@ -1867,6 +1852,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-un-argentino-se-toco-con-verstappen-y-lo-expuso-a-una-sancion-en-el-gt-world-challenge-i",
+          "title": "Un argentino se tocó con Verstappen y lo expuso a una sanción en el GT World Challenge",
+          "summary": "El incidente ocurrió en la curva 3 de Portimao durante los primeros minutos de la práctica. Los comisarios determinaron que el piloto de la Fórmula 1 fue el único responsable de la colisión.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/un-argentino-se-toco-con-verstappen-y-lo-expuso-a-una-sancion-en-el-gt-world-challenge-id766693.html",
+          "image": "https://media.tycsports.com/files/2026/10/16/996548/el-momento-del-toque-entre-verstappen-y-perez-companc-_862x485.webp",
+          "body": "El incidente ocurrió en la curva 3 de Portimao durante los primeros minutos de la práctica. Los comisarios determinaron que el piloto de la Fórmula 1 fue el único responsable de la colisión.\n\nVerstappen tocó al argentino Pérez Companc en el GT World Challenge y se salvó de una sanción + Seguinos en Max Verstappen aprovechó la pausa de la Fórmula 1 pero no se tomó descanso, sino que volvió a subirse a un auto para competir en el GT World Challenge Europe . Si bien llegaba en un gran momento (había logrado dos victorias consecutivas en los GP de Baréin y Singapur), no fue una buena jornada para el piloto neerlandés, que protagonizó un incidente con el argentino Ezequiel Pérez Companc durante la primera práctica en Portimao.\n\nLa maniobra se produjo en la curva 3, cuando el Mercedes-AMG número 3 de Team Verstappen Racing tocó con su trompa la parte trasera del Audi número 25. El auto del argentino perdió estabilidad, hizo un trompo y debió salir de los límites de la pista para regresar , mientras el tetracampeón de la F1 hacía gestos de disconformidad desde su habitáculo. Ambos pudieron continuar en la sesión.\n\nLuego de revisar las imágenes y escuchar las explicaciones de los protagonistas, los comisarios deportivos sancionaron a Verstappen con una amonestación y un punto de penalización . El informe oficial detalló las versiones de ambos corredores sobre lo ocurrido en el comienzo de los entrenamientos.\n\n“El piloto del coche 25 declaró que estaba concentrado en los coches que tenía delante y que no pudo ver al coche 3 a su derecha. Consideró el suceso como un incidente de carrera desafortunado. El piloto del coche 3 explicó que intentó realizar un adelantamiento, esperando que el coche 25 se mantuviera hacia el exterior de la curva, y que se vio sorprendido cuando el coche",
+          "language": "es",
+          "publishedAt": "2026-10-16T14:05:52.000Z",
+          "addedAt": "2026-10-16T14:11:27.616Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-formula-1-lando-norris-franco-colapinto-gesto-buen-amigo-id766576-html",
           "title": "El buen gesto de Lando Norris con Colapinto después del cruce en Bakú",
           "summary": "El campeón de la Fórmula 1 protagonizó una distendida escena durante una transmisión en vivo y dejó en claro que las diferencias quedaron atrás, luego del accidente que terminó con el abandono de ambos y de Pierre Gasly.",
@@ -1945,7 +1945,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-17T01:11:28.318Z",
+      "createdAt": "2026-10-17T02:11:28.118Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2221,7 +2221,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-17T01:11:28.318Z",
+      "createdAt": "2026-10-17T02:11:28.118Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-se-retraso-la-largada-del-gp-de-malasia-de-la-formula-1-id764299-html",
@@ -2497,7 +2497,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-17T01:11:28.318Z",
+      "createdAt": "2026-10-17T02:11:28.118Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-singapur-franco-colapinto-cruce-futbolero-camiseta-espana-id765051",
