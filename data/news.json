@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T04:11:25.805Z",
-  "checkedAt": "2026-10-17T04:11:25.805Z",
+  "updatedAt": "2026-10-17T05:11:26.572Z",
+  "checkedAt": "2026-10-17T05:11:26.572Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,21 +40,6 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-fia-wec-aston-martin-tiene-licencia-para-acelerar-en-las-6-horas-de-barcelona",
-      "title": "FIA WEC: Aston Martin tiene licencia para acelerar en las 6 horas de Barcelona",
-      "summary": "En la segunda práctica desarrollada en la pista de Montmeló lideró el Hypercar del auto inglés; el Lexus de José María López quedó 6.° en LMGT3.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/fia-wec-aston-martin-tiene-licencia-para-acelerar-en-las-6-horas-de-barcelona/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-WEC-Aston-Martin-007.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T16:51:56.000Z",
-      "addedAt": "2026-10-16T20:11:26.919Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
       "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
       "summary": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.",
@@ -81,6 +66,21 @@
       "language": "es",
       "publishedAt": "2026-10-11T16:38:40.000Z",
       "addedAt": "2026-10-16T13:11:27.696Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-fia-wec-aston-martin-tiene-licencia-para-acelerar-en-las-6-horas-de-barcelona",
+      "title": "FIA WEC: Aston Martin tiene licencia para acelerar en las 6 horas de Barcelona",
+      "summary": "En la segunda práctica desarrollada en la pista de Montmeló lideró el Hypercar del auto inglés; el Lexus de José María López quedó 6.° en LMGT3.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/fia-wec-aston-martin-tiene-licencia-para-acelerar-en-las-6-horas-de-barcelona/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-WEC-Aston-Martin-007.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-16T16:51:56.000Z",
+      "addedAt": "2026-10-16T20:11:26.919Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -1393,7 +1393,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-17T04:11:28.602Z",
+      "createdAt": "2026-10-17T05:11:29.268Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-singapur-franco-colapinto-declaraciones-frustracion-clasificaci",
@@ -1669,7 +1669,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-17T04:11:28.602Z",
+      "createdAt": "2026-10-17T05:11:29.268Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-singapur-horarios-y-el-cronograma-completo-id764415-html",
@@ -1945,7 +1945,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-17T04:11:28.602Z",
+      "createdAt": "2026-10-17T05:11:29.268Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2221,7 +2221,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-17T04:11:28.602Z",
+      "createdAt": "2026-10-17T05:11:29.268Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -2497,7 +2497,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-17T04:11:28.602Z",
+      "createdAt": "2026-10-17T05:11:29.268Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-singapur-franco-colapinto-cruce-futbolero-camiseta-espana-id765051",
