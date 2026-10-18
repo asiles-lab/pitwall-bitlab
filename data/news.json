@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T02:11:26.162Z",
-  "checkedAt": "2026-10-18T02:11:26.162Z",
+  "updatedAt": "2026-10-18T03:11:25.954Z",
+  "checkedAt": "2026-10-18T03:11:25.954Z",
   "pageSize": 18,
   "sources": [
     {
@@ -156,21 +156,6 @@
       "language": "es",
       "publishedAt": "2026-10-17T15:14:00.000Z",
       "addedAt": "2026-10-17T16:11:26.845Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata",
-      "title": "TC Pick Up: Palazzo es la primera referencia en el regreso a La Plata",
-      "summary": "El pinamarense del EZE-B Team, que viene de lograr su 1ª victoria en la categoría en el retorno del automovilismo grande a Balcarce, resultó el más veloz en el entrenamiento que dio comienzo a la 2ª fecha de la Copa Coronación 2026.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Palazzo-TCPK-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-17T14:16:48.000Z",
-      "addedAt": "2026-10-17T15:11:26.133Z",
       "category": "general",
       "tag": "F1"
     },
@@ -398,6 +383,21 @@
       "addedAt": "2026-10-09T23:11:32.571Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata",
+      "title": "TC Pick Up: Palazzo es la primera referencia en el regreso a La Plata",
+      "summary": "El pinamarense del EZE-B Team, que viene de lograr su 1ª victoria en la categoría en el retorno del automovilismo grande a Balcarce, resultó el más veloz en el entrenamiento que dio comienzo a la 2ª fecha de la Copa Coronación 2026.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Palazzo-TCPK-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-17T14:16:48.000Z",
+      "addedAt": "2026-10-17T15:11:26.133Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-lema-despejo-dudas-sobre-el-futuro-de-canapino-en-el-tc-y-tn",
@@ -1483,7 +1483,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-18T02:11:28.785Z",
+      "createdAt": "2026-10-18T03:11:29.841Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-reaccion-de-colapinto-antes-de-su-abandono-en-la-f1-formula-1-singapur-gp-gran-premio",
@@ -1759,7 +1759,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-18T02:11:28.785Z",
+      "createdAt": "2026-10-18T03:11:29.841Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-beneficiado-grilla-penalizacion-russell-gp-de-singapur-id765520-html",
@@ -2035,7 +2035,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-18T02:11:28.785Z",
+      "createdAt": "2026-10-18T03:11:29.841Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2311,7 +2311,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-18T02:11:28.785Z",
+      "createdAt": "2026-10-18T03:11:29.841Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -2587,7 +2587,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-18T02:11:28.785Z",
+      "createdAt": "2026-10-18T03:11:29.841Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten",
