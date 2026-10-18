@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T11:11:25.999Z",
-  "checkedAt": "2026-10-18T11:11:25.999Z",
+  "updatedAt": "2026-10-18T12:11:26.075Z",
+  "checkedAt": "2026-10-18T12:11:26.075Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,36 +40,6 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
-      "title": "Colapinto y los mensajes de odio en redes: \"No me ayudan a mí ni a mi futuro\"",
-      "summary": "El piloto argentino se expresó a través de su cuenta de Instagram. \"Sé que piensan que me están defendiendo, pero están generando lo contrario\" afirmó.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260926-F1-Colapinto-e1792008537913.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-14T20:07:37.000Z",
-      "addedAt": "2026-10-18T07:11:27.417Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
-    {
-      "id": "campeones-com-ar-el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1",
-      "title": "El director deportivo de Alpine, autocrítico tras los últimos GP de Fórmula 1 | Campeones",
-      "summary": "Steve Nielsen fue categórico sobre la trilogía de carreras que incluyó Bakú, Malasia y Singapur, donde la cosecha de puntos para Franco Colapinto y Pierre Gasly fue muy nula.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2025/11/Nielsen.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-12T12:15:04.000Z",
-      "addedAt": "2026-10-18T07:11:27.438Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
-    {
       "id": "campeones-com-ar-otra-pole-position-de-mariano-werner-en-tc-pick-up",
       "title": "Otra “pole position” de Mariano Werner en TC Pick Up",
       "summary": "Ahora con los motores de Mario y Luis Riva en su Foton Tunland G7 luego de la exclusión por compresión en Balcarce, el entrerriano logró su 3ª “pole” de 2026. Canapino (Chevrolet) quedó 2º a 0s588 del piloto del Fadel Racing, quien mañana deberá largar último en la Final por una sanción de la CAF.",
@@ -98,6 +68,21 @@
       "addedAt": "2026-10-18T07:11:27.364Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
+      "title": "TCR World Tour: Urrutia cerró con otro triunfo la fecha en Chengdu",
+      "summary": "El uruguayo se impuso en la última competencia de la sexta ronda del calendario y acortó la brecha con Azcona a 23 puntos; el francés Comte también celebró en la segunda carrera.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-TCRWT-Urrutia.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-18T12:02:45.000Z",
+      "addedAt": "2026-10-18T12:11:26.944Z",
+      "category": "general",
+      "tag": "Carrera"
     },
     {
       "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
@@ -928,7 +913,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-18T11:11:36.222Z",
+      "createdAt": "2026-10-18T12:11:34.353Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
@@ -1066,6 +1051,36 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
+          "title": "Colapinto y los mensajes de odio en redes: \"No me ayudan a mí ni a mi futuro\"",
+          "summary": "El piloto argentino se expresó a través de su cuenta de Instagram. \"Sé que piensan que me están defendiendo, pero están generando lo contrario\" afirmó.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260926-F1-Colapinto-e1792008537913.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-14T20:07:37.000Z",
+          "addedAt": "2026-10-18T07:11:27.417Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1",
+          "title": "El director deportivo de Alpine, autocrítico tras los últimos GP de Fórmula 1 | Campeones",
+          "summary": "Steve Nielsen fue categórico sobre la trilogía de carreras que incluyó Bakú, Malasia y Singapur, donde la cosecha de puntos para Franco Colapinto y Pierre Gasly fue muy nula.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/11/Nielsen.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-12T12:15:04.000Z",
+          "addedAt": "2026-10-18T07:11:27.438Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
           "title": "La F1 confirmó la vuelta de los motores V8: qué dijo Ben Sulayem",
           "summary": "La categoría prepara un cambio importante en sus unidades de potencia, con autos más livianos y menores costos de desarrollo. La novedad se conoció durante la presentación de una futura carrera en África.",
@@ -1089,7 +1104,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T11:11:26.405Z",
+          "publishedAt": "2026-10-18T12:11:27.123Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1104,7 +1119,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/brando-badoer-steps-up-with-rodin-motorsport-for-the-2027-season.UDtAkhCHSXFaJsumchvtp",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T11:11:26.405Z",
+          "publishedAt": "2026-10-18T12:11:27.123Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1119,7 +1134,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T11:11:26.404Z",
+          "publishedAt": "2026-10-18T12:11:27.122Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1134,22 +1149,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/alessandro-giusti-completes-rodin-motorsport-lineup-for-2027-season.qAnp63wtuP65vnruxzaRW",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T11:11:26.933Z",
-          "addedAt": "2026-10-18T07:11:27.542Z",
-          "category": "support",
-          "tag": "F3",
-          "series": "F3"
-        },
-        {
-          "id": "www-fiaformula3-com-en-latest-article-gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion-1vjiokqvrpxurivtidwelz",
-          "title": "Gabriel Gomez steps up to FIA Formula 3 with LN4 Fusion",
-          "summary": "",
-          "source": "Formula 3",
-          "sourceLabel": "Formula 3",
-          "url": "https://www.fiaformula3.com/en/latest/article/gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion.1vJiOkqvrpxUriVtIdwElZ",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-18T11:11:26.933Z",
+          "publishedAt": "2026-10-18T12:11:27.128Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1164,12 +1164,33 @@
           "url": "https://www.fiaformula3.com/en/latest/article/kanato-le-returns-with-hitech-for-the-2027-fia-formula-3-season.ZxfAERkGOVAWL2HjEiQr1",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T11:11:26.933Z",
+          "publishedAt": "2026-10-18T12:11:27.129Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
         },
+        {
+          "id": "www-fiaformula3-com-en-latest-article-gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion-1vjiokqvrpxurivtidwelz",
+          "title": "Gabriel Gomez steps up to FIA Formula 3 with LN4 Fusion",
+          "summary": "",
+          "source": "Formula 3",
+          "sourceLabel": "Formula 3",
+          "url": "https://www.fiaformula3.com/en/latest/article/gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion.1vJiOkqvrpxUriVtIdwElZ",
+          "image": "",
+          "language": "en",
+          "publishedAt": "2026-10-18T12:11:27.128Z",
+          "addedAt": "2026-10-18T07:11:27.542Z",
+          "category": "support",
+          "tag": "F3",
+          "series": "F3"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-18T12:11:34.353Z",
+      "items": [
         {
           "id": "www-f1academy-com-latest-6wbco3mith0mknuoz5hq6w-florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-rev",
           "title": "Florescu disqualified from Zandvoort Qualifying, Westcott promoted to Reverse Grid Race pole",
@@ -1179,7 +1200,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T11:09:28.282Z",
+          "publishedAt": "2026-10-18T12:09:28.472Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1194,18 +1215,12 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T11:07:28.282Z",
+          "publishedAt": "2026-10-18T12:07:28.472Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
           "series": "F1 Academy"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-18T11:11:36.222Z",
-      "items": [
+        },
         {
           "id": "www-f1academy-com-latest-isgdz01gzu5rrs7iqrdg9-larsen-to-return-for-third-f1-academy-campaign-in-2027-with-ferrari",
           "title": "BREAKING NEWS Larsen to return for third F1 ACADEMY campaign in 2027 with Ferrari",
@@ -1215,7 +1230,7 @@
           "url": "https://www.f1academy.com/Latest/iSGDz01GZU5rrs7iQrDg9/larsen-to-return-for-third-f1-academy-campaign-in-2027-with-ferrari",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T11:11:28.282Z",
+          "publishedAt": "2026-10-18T12:11:28.472Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
