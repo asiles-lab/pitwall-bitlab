@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T17:11:26.059Z",
-  "checkedAt": "2026-10-18T17:11:26.059Z",
+  "updatedAt": "2026-10-18T18:11:26.072Z",
+  "checkedAt": "2026-10-18T18:11:26.072Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
-      "title": "TCR World Tour: Urrutia cerró con otro triunfo la fecha en Chengdu",
-      "summary": "El uruguayo se impuso en la última competencia de la sexta ronda del calendario y acortó la brecha con Azcona a 23 puntos; el francés Comte también celebró en la segunda carrera.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-TCRWT-Urrutia.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-18T12:02:45.000Z",
-      "addedAt": "2026-10-18T12:11:26.944Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
     {
       "id": "campeones-com-ar-hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026",
       "title": "Hyundai anuncia a Camilo Trappa en su lista de TCR World Tour en Macao 2026",
@@ -98,6 +83,21 @@
       "addedAt": "2026-10-18T07:11:28.079Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados",
+      "title": "Toto Wolff admite: «Muchos jefes de equipo en F1 son pilotos traumatizados y humillados»",
+      "summary": "Quien dirige la escuadra Mercedes AMG F1, referente del presente campeonato mundial con Antonelli y Russell, señaló como pretenden \"compensar\" sus magras campañas en la pista, ahora desde los boxes.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-F1-Team-Boss.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-18T17:43:43.000Z",
+      "addedAt": "2026-10-18T18:11:26.490Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata",
@@ -700,6 +700,21 @@
       "tag": "Carrera"
     },
     {
+      "id": "campeones-com-ar-marc-marquez-y-la-presion-son-los-determinantes-rivales-de-martin-en-el-campeonato-de-motogp",
+      "title": "Marc Márquez y la presión son los determinantes rivales de Martín en el campeonato de MotoGP",
+      "summary": "Con la Ducati, el piloto de Cervera se impuso en la carrera Sprint del Gran Premio de Indonesia y recuperó el liderazgo del certamen, en tanto el madrileño relegó chances con inconvenientes en sus neumáticos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/marc-marquez-y-la-presion-son-los-determinantes-rivales-de-martin-en-el-campeonato-de-motogp/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261010-MotoGP-Martin-Marc-Indonesia.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-10T09:06:37.000Z",
+      "addedAt": "2026-10-18T18:11:34.840Z",
+      "category": "general",
+      "tag": "Carrera"
+    },
+    {
       "id": "campeones-com-ar-esperado-acuerdo-multianual-se-firmo-en-la-era-dorada-del-endurance-entre-el-fia-wec-y-el-aco",
       "title": "Esperado acuerdo multianual se firmó en la era dorada del endurance entre el WEC y el ACO",
       "summary": "El World Endurance Championship y el Automobile Club de l'Ouest dominan la escena mundial de las carreras de resistencia.",
@@ -853,7 +868,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-18T17:11:28.594Z",
+      "createdAt": "2026-10-18T18:11:35.471Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
@@ -1066,17 +1081,17 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-tc-pick-up-werner-y-santero-ganaron-las-series-en-la-plata",
-          "title": "TC Pick Up: Werner y Santero ganaron las series en La Plata",
-          "summary": "El entrerriano se impuso de punta a punta y sin sobresaltos con la Foton Tunland G7 en la batería más veloz pero deberá largar último en la Final por una sanción de la CAF de la ACTC. Por lo tanto, la “pole” será para el mendocino, quien doblegó con su Ford Ranger a la Chevrolet S10 de Canapino y se llevó el segundo parcial.",
+          "id": "campeones-com-ar-tc-pick-up-canapino-logro-su-2a-triunfo-del-ano-y-lidera-la-copa-de-oro",
+          "title": "TC Pick Up: Canapino logró su 2ª triunfo del año y lidera la Copa de Oro",
+          "summary": "El “Titán” superó al “poleman” Julián Santero (Ford Ranger), festejó en La Plata su 5ª victoria en la categoría y pasó a comandar el “play-off”, con 1 punto de ventaja sobre Otto Fritzler (Ford Ranger), que hoy fue 3º. Mariano Werner (Foton Tunland G7) terminó 2º luego de largar 13º.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-pick-up-werner-y-santero-ganaron-las-series-en-la-plata/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TCPK-2026.jpg",
+          "url": "https://campeones.com.ar/tc-pick-up-canapino-logro-su-2a-triunfo-del-ano-y-lidera-la-copa-de-oro/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TCPK-2026.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-18T14:52:02.000Z",
-          "addedAt": "2026-10-18T15:11:26.302Z",
+          "publishedAt": "2026-10-18T17:51:59.000Z",
+          "addedAt": "2026-10-18T18:11:26.363Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1096,6 +1111,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-tc-pick-up-werner-y-santero-ganaron-las-series-en-la-plata",
+          "title": "TC Pick Up: Werner y Santero ganaron las series en La Plata",
+          "summary": "El entrerriano se impuso de punta a punta y sin sobresaltos con la Foton Tunland G7 en la batería más veloz pero deberá largar último en la Final por una sanción de la CAF de la ACTC. Por lo tanto, la “pole” será para el mendocino, quien doblegó con su Ford Ranger a la Chevrolet S10 de Canapino y se llevó el segundo parcial.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-pick-up-werner-y-santero-ganaron-las-series-en-la-plata/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TCPK-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T14:52:02.000Z",
+          "addedAt": "2026-10-18T15:11:26.302Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
           "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
           "summary": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.",
@@ -1109,7 +1139,13 @@
           "addedAt": "2026-10-18T07:11:27.984Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-18T18:11:35.471Z",
+      "items": [
         {
           "id": "campeones-com-ar-wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole",
           "title": "WEC en Barcelona: Genesis supera a Toyota y logra su 1ª “pole”",
@@ -1124,13 +1160,7 @@
           "addedAt": "2026-10-18T07:11:27.364Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-18T17:11:28.594Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
           "title": "La F1 confirmó la vuelta de los motores V8: qué dijo Ben Sulayem",
@@ -1192,6 +1222,21 @@
           "tag": "F1"
         },
         {
+          "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
+          "title": "TCR World Tour: Urrutia cerró con otro triunfo la fecha en Chengdu",
+          "summary": "El uruguayo se impuso en la última competencia de la sexta ronda del calendario y acortó la brecha con Azcona a 23 puntos; el francés Comte también celebró en la segunda carrera.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-TCRWT-Urrutia.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T12:02:45.000Z",
+          "addedAt": "2026-10-18T12:11:26.944Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
+        {
           "id": "www-fiaformula2-com-en-latest-article-laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season-3iw2qus8deyahpaz0x6q",
           "title": "Laurens van Hoepen moves to MP Motorsport for the 2027 season",
           "summary": "",
@@ -1200,7 +1245,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T17:11:27.039Z",
+          "publishedAt": "2026-10-18T18:11:27.003Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1215,7 +1260,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/brando-badoer-steps-up-with-rodin-motorsport-for-the-2027-season.UDtAkhCHSXFaJsumchvtp",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T17:11:27.039Z",
+          "publishedAt": "2026-10-18T18:11:27.003Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1230,7 +1275,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T17:11:27.038Z",
+          "publishedAt": "2026-10-18T18:11:27.003Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1245,22 +1290,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/alessandro-giusti-completes-rodin-motorsport-lineup-for-2027-season.qAnp63wtuP65vnruxzaRW",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T17:11:26.738Z",
-          "addedAt": "2026-10-18T07:11:27.542Z",
-          "category": "support",
-          "tag": "F3",
-          "series": "F3"
-        },
-        {
-          "id": "www-fiaformula3-com-en-latest-article-gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion-1vjiokqvrpxurivtidwelz",
-          "title": "Gabriel Gomez steps up to FIA Formula 3 with LN4 Fusion",
-          "summary": "",
-          "source": "Formula 3",
-          "sourceLabel": "Formula 3",
-          "url": "https://www.fiaformula3.com/en/latest/article/gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion.1vJiOkqvrpxUriVtIdwElZ",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-18T17:11:26.738Z",
+          "publishedAt": "2026-10-18T18:11:26.715Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1275,7 +1305,22 @@
           "url": "https://www.fiaformula3.com/en/latest/article/kanato-le-returns-with-hitech-for-the-2027-fia-formula-3-season.ZxfAERkGOVAWL2HjEiQr1",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T17:11:26.738Z",
+          "publishedAt": "2026-10-18T18:11:26.716Z",
+          "addedAt": "2026-10-18T07:11:27.542Z",
+          "category": "support",
+          "tag": "F3",
+          "series": "F3"
+        },
+        {
+          "id": "www-fiaformula3-com-en-latest-article-gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion-1vjiokqvrpxurivtidwelz",
+          "title": "Gabriel Gomez steps up to FIA Formula 3 with LN4 Fusion",
+          "summary": "",
+          "source": "Formula 3",
+          "sourceLabel": "Formula 3",
+          "url": "https://www.fiaformula3.com/en/latest/article/gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion.1vJiOkqvrpxUriVtIdwElZ",
+          "image": "",
+          "language": "en",
+          "publishedAt": "2026-10-18T18:11:26.715Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1290,7 +1335,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T17:09:28.589Z",
+          "publishedAt": "2026-10-18T18:09:27.991Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1305,7 +1350,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T17:07:28.589Z",
+          "publishedAt": "2026-10-18T18:07:27.991Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1320,7 +1365,7 @@
           "url": "https://www.f1academy.com/Latest/iSGDz01GZU5rrs7iQrDg9/larsen-to-return-for-third-f1-academy-campaign-in-2027-with-ferrari",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T17:11:28.589Z",
+          "publishedAt": "2026-10-18T18:11:27.991Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
