@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T19:11:26.063Z",
-  "checkedAt": "2026-10-18T19:11:26.063Z",
+  "updatedAt": "2026-10-18T20:11:27.232Z",
+  "checkedAt": "2026-10-18T20:11:27.232Z",
   "pageSize": 18,
   "sources": [
     {
@@ -70,21 +70,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata",
-      "title": "TC Pista Pick Up: \"pole\" de Santiago Biagi en La Plata | Campeones",
-      "summary": "Se adjudicó la clasificación en La Plata tras una gran primera vuelta, por lo que largará adelante la primera serie con la Toyota del Rus Med team. Fue escoltado por Faustino Cifre (Ford), líder de las prácticas.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/80139_big.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-17T19:12:56.000Z",
-      "addedAt": "2026-10-18T07:11:27.371Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-tc-pick-up-vuelve-a-la-plata-con-13-camionetas",
       "title": "TC Pick Up vuelve a La Plata con 14 camionetas | Campeones",
       "summary": "La categoría se presenta en el autódromo Mouras con el TC Mouras, la Fórmula 3 Metropolitana y el Turismo 4000 Argentino.",
@@ -143,6 +128,21 @@
       "addedAt": "2026-10-18T07:11:27.678Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata",
+      "title": "TC Pista Pick Up: \"pole\" de Santiago Biagi en La Plata | Campeones",
+      "summary": "Se adjudicó la clasificación en La Plata tras una gran primera vuelta, por lo que largará adelante la primera serie con la Toyota del Rus Med team. Fue escoltado por Faustino Cifre (Ford), líder de las prácticas.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/80139_big.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-17T19:12:56.000Z",
+      "addedAt": "2026-10-18T07:11:27.371Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-damian-perez-domino-el-primer-ensayo-de-tc-pista-mouras",
@@ -460,21 +460,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
-      "title": "¿Qué esperar del nuevo jefe técnico de Alpine F1 Team?",
-      "summary": "Mike Elliott cuenta con experiencia como director técnico y de tecnología en Mercedes y un pasado por Renault y McLaren.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Elliott-Alpine-Jefe-nuevo-v2.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-15T19:55:12.000Z",
-      "addedAt": "2026-10-18T07:11:27.467Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas",
       "title": "Hyundai y Girolami completaron un fin de semana ideal en Posadas",
       "summary": "El \"Bebu\" se llevó también la segunda carrera en el \"Rosamonte\", alcanzando su cuarto éxito de la temporada 2026. Lo siguieron Fabián Yannantuoni y Joaquín Cafaro.",
@@ -576,6 +561,21 @@
       "language": "es",
       "publishedAt": "2026-10-16T11:55:54.000Z",
       "addedAt": "2026-10-18T07:11:27.683Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
+      "title": "¿Qué esperar del nuevo jefe técnico de Alpine F1 Team?",
+      "summary": "Mike Elliott cuenta con experiencia como director técnico y de tecnología en Mercedes y un pasado por Renault y McLaren.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Elliott-Alpine-Jefe-nuevo-v2.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-15T19:55:12.000Z",
+      "addedAt": "2026-10-18T07:11:27.467Z",
       "category": "general",
       "tag": "F1"
     },
@@ -838,7 +838,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-18T19:11:39.599Z",
+      "createdAt": "2026-10-18T20:11:37.850Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
@@ -1036,17 +1036,32 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-otra-pole-position-de-mariano-werner-en-tc-pick-up",
-          "title": "Otra “pole position” de Mariano Werner en TC Pick Up",
-          "summary": "Ahora con los motores de Mario y Luis Riva en su Foton Tunland G7 luego de la exclusión por compresión en Balcarce, el entrerriano logró su 3ª “pole” de 2026. Canapino (Chevrolet) quedó 2º a 0s588 del piloto del Fadel Racing, quien mañana deberá largar último en la Final por una sanción de la CAF.",
+          "id": "campeones-com-ar-tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria",
+          "title": "TC Mouras: Fabrizio Maggini empezó la Copa Coronación con una victoria",
+          "summary": "Tras largar 4º, el mendocino logró su 2º triunfo de la temporada 2026 con el Ford del RUS Med Team y se posicionó como nuevo escolta en el “play-off” de Nicolás Jaime (Dodge), que terminó 3º. Santiago Arrigoni (Dodge) completó el “1-2” del equipo arrecifeño.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/otra-pole-position-de-mariano-werner-en-tc-pick-up/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Werner-Pole-TCPK-2026.jpeg",
+          "url": "https://campeones.com.ar/tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Maggini-TCM-2026.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-17T20:02:27.000Z",
-          "addedAt": "2026-10-18T07:11:27.209Z",
+          "publishedAt": "2026-10-18T19:18:01.000Z",
+          "addedAt": "2026-10-18T20:11:27.721Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-wec-toyota-domina-las-condiciones-cambiantes-y-se-calza-la-corona-en-espana",
+          "title": "WEC: Toyota domina las condiciones cambiantes y se calza la corona en España",
+          "summary": "La casa nipona logró un “doblete” en la edición inaugural de las “6 Horas” de Barcelona y se aseguró el título de fabricantes en Hypercar. “Pechito” López (Lexus) concluyó 14° en LMGT3.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/wec-toyota-domina-las-condiciones-cambiantes-y-se-calza-la-corona-en-espana/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/toyota-barcelona-wec.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T18:07:45.000Z",
+          "addedAt": "2026-10-18T20:11:27.723Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1094,6 +1109,27 @@
           "addedAt": "2026-10-18T15:11:26.302Z",
           "category": "argentino",
           "tag": "Argentino"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-18T20:11:37.850Z",
+      "items": [
+        {
+          "id": "campeones-com-ar-otra-pole-position-de-mariano-werner-en-tc-pick-up",
+          "title": "Otra “pole position” de Mariano Werner en TC Pick Up",
+          "summary": "Ahora con los motores de Mario y Luis Riva en su Foton Tunland G7 luego de la exclusión por compresión en Balcarce, el entrerriano logró su 3ª “pole” de 2026. Canapino (Chevrolet) quedó 2º a 0s588 del piloto del Fadel Racing, quien mañana deberá largar último en la Final por una sanción de la CAF.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/otra-pole-position-de-mariano-werner-en-tc-pick-up/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Werner-Pole-TCPK-2026.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T20:02:27.000Z",
+          "addedAt": "2026-10-18T07:11:27.209Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
@@ -1109,13 +1145,7 @@
           "addedAt": "2026-10-18T07:11:27.984Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-18T19:11:39.599Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole",
           "title": "WEC en Barcelona: Genesis supera a Toyota y logra su 1ª “pole”",
@@ -1245,7 +1275,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T19:11:27.105Z",
+          "publishedAt": "2026-10-18T20:11:28.243Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1260,7 +1290,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/brando-badoer-steps-up-with-rodin-motorsport-for-the-2027-season.UDtAkhCHSXFaJsumchvtp",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T19:11:27.105Z",
+          "publishedAt": "2026-10-18T20:11:28.243Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1275,7 +1305,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T19:11:27.105Z",
+          "publishedAt": "2026-10-18T20:11:28.242Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1290,7 +1320,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/alessandro-giusti-completes-rodin-motorsport-lineup-for-2027-season.qAnp63wtuP65vnruxzaRW",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T19:11:27.096Z",
+          "publishedAt": "2026-10-18T20:11:28.236Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1305,7 +1335,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion.1vJiOkqvrpxUriVtIdwElZ",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T19:11:27.096Z",
+          "publishedAt": "2026-10-18T20:11:28.236Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1320,7 +1350,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/rafael-camara-signs-with-haas-f1-team-for-2027-season.1dC04JHoQpb2747rfHxxKj",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T19:11:27.096Z",
+          "publishedAt": "2026-10-18T20:11:28.236Z",
           "addedAt": "2026-10-18T19:11:27.096Z",
           "category": "support",
           "tag": "F3",
@@ -1335,7 +1365,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T19:09:27.562Z",
+          "publishedAt": "2026-10-18T20:09:30.373Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1350,12 +1380,18 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T19:07:27.562Z",
+          "publishedAt": "2026-10-18T20:07:30.373Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
           "series": "F1 Academy"
-        },
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "createdAt": "2026-10-18T20:11:37.850Z",
+      "items": [
         {
           "id": "www-f1academy-com-latest-isgdz01gzu5rrs7iqrdg9-larsen-to-return-for-third-f1-academy-campaign-in-2027-with-ferrari",
           "title": "BREAKING NEWS Larsen to return for third F1 ACADEMY campaign in 2027 with Ferrari",
@@ -1365,7 +1401,7 @@
           "url": "https://www.f1academy.com/Latest/iSGDz01GZU5rrs7iQrDg9/larsen-to-return-for-third-f1-academy-campaign-in-2027-with-ferrari",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T19:11:27.561Z",
+          "publishedAt": "2026-10-18T20:11:30.373Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
