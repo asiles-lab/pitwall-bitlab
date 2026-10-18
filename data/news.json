@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T03:11:25.954Z",
-  "checkedAt": "2026-10-18T03:11:25.954Z",
+  "updatedAt": "2026-10-18T04:11:25.990Z",
+  "checkedAt": "2026-10-18T04:11:25.990Z",
   "pageSize": 18,
   "sources": [
     {
@@ -111,51 +111,6 @@
       "language": "es",
       "publishedAt": "2026-10-17T18:35:57.000Z",
       "addedAt": "2026-10-17T19:11:27.289Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-cifre-se-quedo-con-las-dos-practicas-de-tc-pista-pick-up",
-      "title": "Cifre se quedó con las dos prácticas de TC Pista Pick Up | Campeones",
-      "summary": "En La Plata, marcó el mejor tiempo en el primer entrenamiento y luego se adjudicó el segundo, a bordo de la Ford Ranger. Tomás Pelleandino fue la segunda referencia y Antonino Sganga, la tercera.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/cifre-se-quedo-con-las-dos-practicas-de-tc-pista-pick-up/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/PHOTO-2026-10-17-12-39-18.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-17T15:57:33.000Z",
-      "addedAt": "2026-10-17T16:11:27.154Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-damian-perez-domino-el-primer-ensayo-de-tc-pista-mouras",
-      "title": "Damián Pérez dominó el primer ensayo de TC Pista Mouras | Campeones",
-      "summary": "En La Plata, la categoría inicia el playoff rumbo a la recta final del campeonato. Quien comienza líder, Iñaki Arrías, fue segundo y tercero quedó Ignacio Lovich.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/damian-perez-domino-el-primer-ensayo-de-tc-pista-mouras/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/PHOTO-2026-10-17-11-59-35.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-17T15:15:01.000Z",
-      "addedAt": "2026-10-17T16:11:26.824Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-mouras-alaux-lidero-el-primer-entrenamiento-en-el-mouras",
-      "title": "TC Mouras: Alaux lideró el primer entrenamiento en el \"Mouras\"",
-      "summary": "El piloto de Dodge superó por 0s197 a Francisco Luengo (Chevrolet) en la práctica inicial de la 1ª fecha de la Copa Coronación 2026 del TC Mouras, que se desarrolla en La Plata.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-mouras-alaux-lidero-el-primer-entrenamiento-en-el-mouras/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Alaux-TCM-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-17T15:14:00.000Z",
-      "addedAt": "2026-10-17T16:11:26.845Z",
       "category": "general",
       "tag": "F1"
     },
@@ -383,6 +338,51 @@
       "addedAt": "2026-10-09T23:11:32.571Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-cifre-se-quedo-con-las-dos-practicas-de-tc-pista-pick-up",
+      "title": "Cifre se quedó con las dos prácticas de TC Pista Pick Up | Campeones",
+      "summary": "En La Plata, marcó el mejor tiempo en el primer entrenamiento y luego se adjudicó el segundo, a bordo de la Ford Ranger. Tomás Pelleandino fue la segunda referencia y Antonino Sganga, la tercera.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/cifre-se-quedo-con-las-dos-practicas-de-tc-pista-pick-up/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/PHOTO-2026-10-17-12-39-18.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-17T15:57:33.000Z",
+      "addedAt": "2026-10-17T16:11:27.154Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-damian-perez-domino-el-primer-ensayo-de-tc-pista-mouras",
+      "title": "Damián Pérez dominó el primer ensayo de TC Pista Mouras | Campeones",
+      "summary": "En La Plata, la categoría inicia el playoff rumbo a la recta final del campeonato. Quien comienza líder, Iñaki Arrías, fue segundo y tercero quedó Ignacio Lovich.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/damian-perez-domino-el-primer-ensayo-de-tc-pista-mouras/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/PHOTO-2026-10-17-11-59-35.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-17T15:15:01.000Z",
+      "addedAt": "2026-10-17T16:11:26.824Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc-mouras-alaux-lidero-el-primer-entrenamiento-en-el-mouras",
+      "title": "TC Mouras: Alaux lideró el primer entrenamiento en el \"Mouras\"",
+      "summary": "El piloto de Dodge superó por 0s197 a Francisco Luengo (Chevrolet) en la práctica inicial de la 1ª fecha de la Copa Coronación 2026 del TC Mouras, que se desarrolla en La Plata.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-mouras-alaux-lidero-el-primer-entrenamiento-en-el-mouras/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Alaux-TCM-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-17T15:14:00.000Z",
+      "addedAt": "2026-10-17T16:11:26.845Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata",
@@ -1483,7 +1483,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-18T03:11:29.841Z",
+      "createdAt": "2026-10-18T04:11:28.268Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-reaccion-de-colapinto-antes-de-su-abandono-en-la-f1-formula-1-singapur-gp-gran-premio",
@@ -1759,7 +1759,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-18T03:11:29.841Z",
+      "createdAt": "2026-10-18T04:11:28.268Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-beneficiado-grilla-penalizacion-russell-gp-de-singapur-id765520-html",
@@ -2035,7 +2035,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-18T03:11:29.841Z",
+      "createdAt": "2026-10-18T04:11:28.268Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -2128,21 +2128,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-la-f1-ya-se-instala-en-austin-sede-del-gp-de-estados-unidos",
-          "title": "La F1 ya se instala en Austin, sede del GP de Estados Unidos",
-          "summary": "En los boxes del Circuito de las Américas se van ordenando los equipos que aguardan por el inicio de las actividades a partir del viernes 23.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-f1-ya-se-instala-en-austin-sede-del-gp-de-estados-unidos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261017-F1-Austin-Preview.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-17T15:25:45.000Z",
-          "addedAt": "2026-10-17T16:11:26.839Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-el-nuevo-autodromo-de-buenos-aires-avanza-con-las-pruebas-de-asfalto-y-se-prepara-para-e",
           "title": "El nuevo Autódromo de Buenos Aires avanza con las pruebas de asfalto y se prepara para el MotoGP y la F1",
           "summary": "La renovación del circuito porteño supera el 60% de ejecución y suma avances en la pista, los boxes y las tribunas. El regreso de la máxima categoría del motociclismo ya está confirmado para abril de 2027, mientras crece la expectativa por la Fórmula 1.",
@@ -2184,6 +2169,21 @@
           "language": "es",
           "publishedAt": "2026-10-11T15:18:59.000Z",
           "addedAt": "2026-10-11T16:11:31.178Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-la-f1-ya-se-instala-en-austin-sede-del-gp-de-estados-unidos",
+          "title": "La F1 ya se instala en Austin, sede del GP de Estados Unidos",
+          "summary": "En los boxes del Circuito de las Américas se van ordenando los equipos que aguardan por el inicio de las actividades a partir del viernes 23.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-f1-ya-se-instala-en-austin-sede-del-gp-de-estados-unidos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261017-F1-Austin-Preview.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T15:25:45.000Z",
+          "addedAt": "2026-10-17T16:11:26.839Z",
           "category": "general",
           "tag": "F1"
         },
@@ -2311,7 +2311,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-18T03:11:29.841Z",
+      "createdAt": "2026-10-18T04:11:28.268Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -2587,7 +2587,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-18T03:11:29.841Z",
+      "createdAt": "2026-10-18T04:11:28.268Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-verstappen-agradecio-los-elogios-de-colapinto-tras-su-accidente-en-baku-los-que-compiten",
@@ -2695,21 +2695,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole",
-          "title": "WEC en Barcelona: Genesis supera a Toyota y logra su 1ª “pole”",
-          "summary": "A bordo del prototipo coreano GMR-001, Mathys Jaubert se quedó con la clasificación en Hypercar. El argentino José María López, con el Lexus, arrancará 7° las “6 Horas” en LMGT3.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/genesis-barcelona-wec.jpg.webp",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-17T16:06:03.000Z",
-          "addedAt": "2026-10-17T17:11:26.563Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-el-italo-argentino-mattia-colnaghi-confirmado-para-el-clasico-gp-de-macao",
           "title": "El ítalo argentino Mattia Colnaghi confirmado para el clásico GP de Macao",
           "summary": "Se prepara la 73ra edición del GP de Macao y el equipo MP Motorsport confirmó a Colnaghi para estar del 19 al 22 de noviembre allí.",
@@ -2796,6 +2781,21 @@
           "language": "es",
           "publishedAt": "2026-10-14T16:15:47.000Z",
           "addedAt": "2026-10-14T17:11:27.828Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole",
+          "title": "WEC en Barcelona: Genesis supera a Toyota y logra su 1ª “pole”",
+          "summary": "A bordo del prototipo coreano GMR-001, Mathys Jaubert se quedó con la clasificación en Hypercar. El argentino José María López, con el Lexus, arrancará 7° las “6 Horas” en LMGT3.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/genesis-barcelona-wec.jpg.webp",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T16:06:03.000Z",
+          "addedAt": "2026-10-17T17:11:26.563Z",
           "category": "argentino",
           "tag": "Argentino"
         },
