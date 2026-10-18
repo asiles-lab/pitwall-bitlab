@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T14:11:26.046Z",
-  "checkedAt": "2026-10-18T14:11:26.046Z",
+  "updatedAt": "2026-10-18T15:11:26.045Z",
+  "checkedAt": "2026-10-18T15:11:26.045Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,36 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole",
-      "title": "WEC en Barcelona: Genesis supera a Toyota y logra su 1ª “pole”",
-      "summary": "A bordo del prototipo coreano GMR-001, Mathys Jaubert se quedó con la clasificación en Hypercar. El argentino José María López, con el Lexus, arrancará 7° las “6 Horas” en LMGT3.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/genesis-barcelona-wec.jpg.webp",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-17T16:06:03.000Z",
-      "addedAt": "2026-10-18T07:11:27.364Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
-      "title": "TCR World Tour: Urrutia cerró con otro triunfo la fecha en Chengdu",
-      "summary": "El uruguayo se impuso en la última competencia de la sexta ronda del calendario y acortó la brecha con Azcona a 23 puntos; el francés Comte también celebró en la segunda carrera.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-TCRWT-Urrutia.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-18T12:02:45.000Z",
-      "addedAt": "2026-10-18T12:11:26.944Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
     {
       "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
       "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
@@ -113,6 +83,21 @@
       "addedAt": "2026-10-18T07:11:27.984Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
+      "title": "TCR World Tour: Urrutia cerró con otro triunfo la fecha en Chengdu",
+      "summary": "El uruguayo se impuso en la última competencia de la sexta ronda del calendario y acortó la brecha con Azcona a 23 puntos; el francés Comte también celebró en la segunda carrera.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-TCRWT-Urrutia.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-18T12:02:45.000Z",
+      "addedAt": "2026-10-18T12:11:26.944Z",
+      "category": "general",
+      "tag": "Carrera"
     },
     {
       "id": "campeones-com-ar-hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026",
@@ -325,21 +310,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-rosso-y-una-mirada-al-2027-del-tcr-con-la-evolucion-de-linkco",
-      "title": "Rosso y una mirada al 2027 del TCR con la evolución de Link&Co",
-      "summary": "El cordobés viajó a China y realizó pruebas en el Circuito internacional de Guangdong con miras al año entrante.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/rosso-y-una-mirada-al-2027-del-tcr-con-la-evolucion-de-linkco/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/LinkCo-03-Plus-en-China-con-Rosso.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-15T15:04:39.000Z",
-      "addedAt": "2026-10-18T07:11:27.177Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-formula-1-africa-ruanda-id765901-html",
       "title": "La Fórmula 1 confirmó que vuelve a África: dónde se correrá y desde cuándo",
       "summary": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.",
@@ -383,6 +353,21 @@
       "addedAt": "2026-10-18T07:11:28.072Z",
       "category": "general",
       "tag": "Mercado"
+    },
+    {
+      "id": "campeones-com-ar-rosso-y-una-mirada-al-2027-del-tcr-con-la-evolucion-de-linkco",
+      "title": "Rosso y una mirada al 2027 del TCR con la evolución de Link&Co",
+      "summary": "El cordobés viajó a China y realizó pruebas en el Circuito internacional de Guangdong con miras al año entrante.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/rosso-y-una-mirada-al-2027-del-tcr-con-la-evolucion-de-linkco/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/LinkCo-03-Plus-en-China-con-Rosso.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-15T15:04:39.000Z",
+      "addedAt": "2026-10-18T07:11:27.177Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-canapino-sobre-balcarce-estuvo-espectacular",
@@ -505,21 +490,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata",
-      "title": "TC Pick Up: Palazzo es la primera referencia en el regreso a La Plata",
-      "summary": "El pinamarense del EZE-B Team, que viene de lograr su 1ª victoria en la categoría en el retorno del automovilismo grande a Balcarce, resultó el más veloz en el entrenamiento que dio comienzo a la 2ª fecha de la Copa Coronación 2026.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Palazzo-TCPK-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-17T14:16:48.000Z",
-      "addedAt": "2026-10-18T07:11:27.161Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-el-tc2000-vuelve-a-general-roca-junto-al-top-race-y-la-formula-nacional",
       "title": "El TC2000 vuelve a General Roca junto al Top Race y la Fórmula Nacional",
       "summary": "La plaza rionegrina vuelve a formar parte del calendario de la categoría por segundo año consecutivo. Será los próximos 31 de octubre y 1 de noviembre.",
@@ -623,6 +593,21 @@
       "addedAt": "2026-10-18T07:11:27.166Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata",
+      "title": "TC Pick Up: Palazzo es la primera referencia en el regreso a La Plata",
+      "summary": "El pinamarense del EZE-B Team, que viene de lograr su 1ª victoria en la categoría en el retorno del automovilismo grande a Balcarce, resultó el más veloz en el entrenamiento que dio comienzo a la 2ª fecha de la Copa Coronación 2026.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Palazzo-TCPK-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-17T14:16:48.000Z",
+      "addedAt": "2026-10-18T07:11:27.161Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay",
@@ -898,7 +883,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-18T14:11:36.926Z",
+      "createdAt": "2026-10-18T15:11:34.166Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
@@ -1096,6 +1081,36 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-tc-pick-up-werner-y-santero-ganaron-las-series-en-la-plata",
+          "title": "TC Pick Up: Werner y Santero ganaron las series en La Plata",
+          "summary": "El entrerriano se impuso de punta a punta y sin sobresaltos con la Foton Tunland G7 en la 1ª batería pero deberá largar último en la Final por una sanción de la CAF de la ACTC. El mendocino doblegó con la Ford Ranger a la Chevrolet S10 de Canapino y se llevó el segundo parcial.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-pick-up-werner-y-santero-ganaron-las-series-en-la-plata/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TCPK-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T14:52:02.000Z",
+          "addedAt": "2026-10-18T15:11:26.302Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole",
+          "title": "WEC en Barcelona: Genesis supera a Toyota y logra su 1ª “pole”",
+          "summary": "A bordo del prototipo coreano GMR-001, Mathys Jaubert se quedó con la clasificación en Hypercar. El argentino José María López, con el Lexus, arrancará 7° las “6 Horas” en LMGT3.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/genesis-barcelona-wec.jpg.webp",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T16:06:03.000Z",
+          "addedAt": "2026-10-18T07:11:27.364Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
           "title": "La F1 confirmó la vuelta de los motores V8: qué dijo Ben Sulayem",
           "summary": "La categoría prepara un cambio importante en sus unidades de potencia, con autos más livianos y menores costos de desarrollo. La novedad se conoció durante la presentación de una futura carrera en África.",
@@ -1139,7 +1154,13 @@
           "addedAt": "2026-10-18T13:11:26.745Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-18T15:11:34.166Z",
+      "items": [
         {
           "id": "www-fiaformula2-com-en-latest-article-laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season-3iw2qus8deyahpaz0x6q",
           "title": "Laurens van Hoepen moves to MP Motorsport for the 2027 season",
@@ -1149,7 +1170,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T14:11:26.820Z",
+          "publishedAt": "2026-10-18T15:11:27.073Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1164,18 +1185,12 @@
           "url": "https://www.fiaformula2.com/en/latest/article/brando-badoer-steps-up-with-rodin-motorsport-for-the-2027-season.UDtAkhCHSXFaJsumchvtp",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T14:11:26.820Z",
+          "publishedAt": "2026-10-18T15:11:27.073Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
           "series": "F2"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-18T14:11:36.926Z",
-      "items": [
+        },
         {
           "id": "www-fiaformula2-com-en-latest-article-formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut-1yszpy0frgedj",
           "title": "Formula 2 in 2022: A title-winning reunion alongside an epic F1 debut",
@@ -1185,7 +1200,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T14:11:26.820Z",
+          "publishedAt": "2026-10-18T15:11:27.072Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1200,7 +1215,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/alessandro-giusti-completes-rodin-motorsport-lineup-for-2027-season.qAnp63wtuP65vnruxzaRW",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T14:11:26.704Z",
+          "publishedAt": "2026-10-18T15:11:26.720Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1215,7 +1230,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/kanato-le-returns-with-hitech-for-the-2027-fia-formula-3-season.ZxfAERkGOVAWL2HjEiQr1",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T14:11:26.704Z",
+          "publishedAt": "2026-10-18T15:11:26.720Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1230,7 +1245,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion.1vJiOkqvrpxUriVtIdwElZ",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T14:11:26.703Z",
+          "publishedAt": "2026-10-18T15:11:26.719Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1245,7 +1260,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T14:09:28.417Z",
+          "publishedAt": "2026-10-18T15:09:28.876Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1260,7 +1275,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T14:07:28.417Z",
+          "publishedAt": "2026-10-18T15:07:28.876Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1275,7 +1290,7 @@
           "url": "https://www.f1academy.com/Latest/iSGDz01GZU5rrs7iQrDg9/larsen-to-return-for-third-f1-academy-campaign-in-2027-with-ferrari",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T14:11:28.417Z",
+          "publishedAt": "2026-10-18T15:11:28.876Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
