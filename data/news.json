@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T15:11:26.045Z",
-  "checkedAt": "2026-10-18T15:11:26.045Z",
+  "updatedAt": "2026-10-18T16:11:26.106Z",
+  "checkedAt": "2026-10-18T16:11:26.106Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
-      "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
-      "summary": "Canapino es un fanático de toda expresión de la velocidad y ve a Colapinto \"muy asentado, firme, andando rápido y está consiguiendo puntos\".",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-y-Colapinto-imagen.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-13T13:48:02.000Z",
-      "addedAt": "2026-10-18T07:11:27.447Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
     {
       "id": "www-tycsports-com-automovilismo-valtteri-bottas-auto-f1-living-de-la-casa-id766041-html",
       "title": "&iexcl;Insólito! Un piloto de F1 reveló que tiene un auto en el living de su casa",
@@ -340,21 +325,6 @@
       "tag": "F1"
     },
     {
-      "id": "www-tycsports-com-automovilismo-el-piloto-brasileno-que-reemplazara-a-esteban-ocon-en-haas-y-debutara-en-la-f1-en-2027-i",
-      "title": "Quién es el piloto que reemplazará a Esteban Ocon en Haas y debutará en la F1 en 2027",
-      "summary": "Rafael Camara, el joven de 21 años que hoy lidera la F2, firmó un contrato plurianual y se espera que sea compañero de Oliver Bearman la próxima temporada.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/el-piloto-brasileno-que-reemplazara-a-esteban-ocon-en-haas-y-debutara-en-la-f1-en-2027-id766366.html",
-      "image": "https://media.tycsports.com/files/2026/10/15/996218/rafael-camara_1440x810.webp?v=1",
-      "body": "Rafael Camara, el joven de 21 años que hoy lidera la F2, firmó un contrato plurianual y se espera que sea compañero de Oliver Bearman la próxima temporada.\n\nRafael Camara, el brasileño de 21 años que será piloto de Haas a partir de 2027 + Seguinos en Rafael Camara será piloto de Haas en la Fórmula 1 en 2027. El líder del campeonato de F2 firmó un contrato plurianual con la escudería estadounidense y se espera que comparta equipo con Oliver Bearman. Ocupará el lugar de Esteban Ocon , que se irá a fines de 2026, tras dos temporadas en el equipo.\n\nEl brasileño escaló fugazmente a la F1. Ganó la FRECA en 2024 y la F3 en 2025 , ambos títulos de manera contundente. Hoy pelea la F2 con Invicta, donde es líder por una diferencia de siete puntos sobre Nikola Tsolov. Si se queda con el campeonato, será el único piloto en ganar FRECA, F3 y F2 en temporadas consecutivas. Camara expresó: “Estoy muy contento de incorporarme a TGR Haas F1 como piloto de Fórmula 1. Es un paso importante en mi carrera y quiero agradecer a Gene Haas y a Ayao Komatsu por la confianza que depositaron en mí”.\n\nY agregó: “También estoy muy agradecido a la Ferrari Driver Academy por su apoyo y por todo lo que aportó a mi desarrollo a lo largo de los años , y a mi familia por estar siempre a mi lado durante este viaje. Ahora mi objetivo es prepararme de la mejor manera posible para este nuevo desafío. Habrá mucho por aprender y tengo muchas ganas de trabajar codo a codo con el equipo, entender el auto y seguir creciendo como piloto”.\n\nPor su parte, Haas se tomó su tiempo para oficializar la decisión. Camara era el que más sonaba aunque competía con Leonardo Fornaroli, actual campeón de F2 , y con el piloto de reserva Ryo Hirakawa . Los tres pasaron por los programas TPC (pruebas con autos de temporadas anterio",
-      "language": "es",
-      "publishedAt": "2026-10-15T15:15:51.000Z",
-      "addedAt": "2026-10-18T07:11:28.072Z",
-      "category": "general",
-      "tag": "Mercado"
-    },
-    {
       "id": "campeones-com-ar-rosso-y-una-mirada-al-2027-del-tcr-con-la-evolucion-de-linkco",
       "title": "Rosso y una mirada al 2027 del TCR con la evolución de Link&Co",
       "summary": "El cordobés viajó a China y realizó pruebas en el Circuito internacional de Guangdong con miras al año entrante.",
@@ -518,6 +488,21 @@
       "addedAt": "2026-10-18T07:11:27.154Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-el-piloto-brasileno-que-reemplazara-a-esteban-ocon-en-haas-y-debutara-en-la-f1-en-2027-i",
+      "title": "Quién es el piloto que reemplazará a Esteban Ocon en Haas y debutará en la F1 en 2027",
+      "summary": "Rafael Camara, el joven de 21 años que hoy lidera la F2, firmó un contrato plurianual y se espera que sea compañero de Oliver Bearman la próxima temporada.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/el-piloto-brasileno-que-reemplazara-a-esteban-ocon-en-haas-y-debutara-en-la-f1-en-2027-id766366.html",
+      "image": "https://media.tycsports.com/files/2026/10/15/996218/rafael-camara_1440x810.webp?v=1",
+      "body": "Rafael Camara, el joven de 21 años que hoy lidera la F2, firmó un contrato plurianual y se espera que sea compañero de Oliver Bearman la próxima temporada.\n\nRafael Camara, el brasileño de 21 años que será piloto de Haas a partir de 2027 + Seguinos en Rafael Camara será piloto de Haas en la Fórmula 1 en 2027. El líder del campeonato de F2 firmó un contrato plurianual con la escudería estadounidense y se espera que comparta equipo con Oliver Bearman. Ocupará el lugar de Esteban Ocon , que se irá a fines de 2026, tras dos temporadas en el equipo.\n\nEl brasileño escaló fugazmente a la F1. Ganó la FRECA en 2024 y la F3 en 2025 , ambos títulos de manera contundente. Hoy pelea la F2 con Invicta, donde es líder por una diferencia de siete puntos sobre Nikola Tsolov. Si se queda con el campeonato, será el único piloto en ganar FRECA, F3 y F2 en temporadas consecutivas. Camara expresó: “Estoy muy contento de incorporarme a TGR Haas F1 como piloto de Fórmula 1. Es un paso importante en mi carrera y quiero agradecer a Gene Haas y a Ayao Komatsu por la confianza que depositaron en mí”.\n\nY agregó: “También estoy muy agradecido a la Ferrari Driver Academy por su apoyo y por todo lo que aportó a mi desarrollo a lo largo de los años , y a mi familia por estar siempre a mi lado durante este viaje. Ahora mi objetivo es prepararme de la mejor manera posible para este nuevo desafío. Habrá mucho por aprender y tengo muchas ganas de trabajar codo a codo con el equipo, entender el auto y seguir creciendo como piloto”.\n\nPor su parte, Haas se tomó su tiempo para oficializar la decisión. Camara era el que más sonaba aunque competía con Leonardo Fornaroli, actual campeón de F2 , y con el piloto de reserva Ryo Hirakawa . Los tres pasaron por los programas TPC (pruebas con autos de temporadas anterio",
+      "language": "es",
+      "publishedAt": "2026-10-15T15:15:51.000Z",
+      "addedAt": "2026-10-18T07:11:28.072Z",
+      "category": "general",
+      "tag": "Mercado"
     },
     {
       "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -883,7 +868,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-18T15:11:34.166Z",
+      "createdAt": "2026-10-18T16:11:36.436Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
@@ -912,6 +897,21 @@
           "language": "es",
           "publishedAt": "2026-10-17T00:47:47.000Z",
           "addedAt": "2026-10-18T07:11:28.016Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-formula-1-2026-resena-de-un-ano-complicado",
+          "title": "Fórmula 1 2026: reseña de un año complicado | Campeones",
+          "summary": "La temporada 2026 expone las falencias de un reglamento que puso la gestión de energía por encima de la habilidad de los pilotos. En esta nota, el análisis del dominio de Mercedes, los cambios que la Fórmula 1 proyecta para el próximo ciclo de motores, la situación de Franco Colapinto y lo que resta de aquí a fin de año…",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/formula-1-2026-resena-de-un-ano-complicado/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/andrea-kimi-antonelli-mercedes-9.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T12:04:11.000Z",
+          "addedAt": "2026-10-18T16:11:26.502Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1083,7 +1083,7 @@
         {
           "id": "campeones-com-ar-tc-pick-up-werner-y-santero-ganaron-las-series-en-la-plata",
           "title": "TC Pick Up: Werner y Santero ganaron las series en La Plata",
-          "summary": "El entrerriano se impuso de punta a punta y sin sobresaltos con la Foton Tunland G7 en la 1ª batería pero deberá largar último en la Final por una sanción de la CAF de la ACTC. El mendocino doblegó con la Ford Ranger a la Chevrolet S10 de Canapino y se llevó el segundo parcial.",
+          "summary": "El entrerriano se impuso de punta a punta y sin sobresaltos con la Foton Tunland G7 en la batería más veloz pero deberá largar último en la Final por una sanción de la CAF de la ACTC. Por lo tanto, la “pole” será para el mendocino, quien doblegó con su Ford Ranger a la Chevrolet S10 de Canapino y se llevó el segundo parcial.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
           "url": "https://campeones.com.ar/tc-pick-up-werner-y-santero-ganaron-las-series-en-la-plata/",
@@ -1094,6 +1094,21 @@
           "addedAt": "2026-10-18T15:11:26.302Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
+          "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
+          "summary": "Canapino es un fanático de toda expresión de la velocidad y ve a Colapinto \"muy asentado, firme, andando rápido y está consiguiendo puntos\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-y-Colapinto-imagen.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-13T13:48:02.000Z",
+          "addedAt": "2026-10-18T07:11:27.447Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole",
@@ -1124,7 +1139,13 @@
           "addedAt": "2026-10-18T07:11:27.970Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-18T16:11:36.436Z",
+      "items": [
         {
           "id": "campeones-com-ar-francisco-luengo-se-llevo-la-serie-del-tc-mouras",
           "title": "Francisco Luengo se llevó la serie del TC Mouras",
@@ -1154,13 +1175,7 @@
           "addedAt": "2026-10-18T13:11:26.745Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-18T15:11:34.166Z",
-      "items": [
+        },
         {
           "id": "www-fiaformula2-com-en-latest-article-laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season-3iw2qus8deyahpaz0x6q",
           "title": "Laurens van Hoepen moves to MP Motorsport for the 2027 season",
@@ -1170,7 +1185,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T15:11:27.073Z",
+          "publishedAt": "2026-10-18T16:11:26.703Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1185,7 +1200,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/brando-badoer-steps-up-with-rodin-motorsport-for-the-2027-season.UDtAkhCHSXFaJsumchvtp",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T15:11:27.073Z",
+          "publishedAt": "2026-10-18T16:11:26.703Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1200,7 +1215,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T15:11:27.072Z",
+          "publishedAt": "2026-10-18T16:11:26.702Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1215,22 +1230,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/alessandro-giusti-completes-rodin-motorsport-lineup-for-2027-season.qAnp63wtuP65vnruxzaRW",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T15:11:26.720Z",
-          "addedAt": "2026-10-18T07:11:27.542Z",
-          "category": "support",
-          "tag": "F3",
-          "series": "F3"
-        },
-        {
-          "id": "www-fiaformula3-com-en-latest-article-kanato-le-returns-with-hitech-for-the-2027-fia-formula-3-season-zxfaerkgovawl2hjei",
-          "title": "Kanato Le returns with Hitech for the 2027 Formula 3 season",
-          "summary": "",
-          "source": "Formula 3",
-          "sourceLabel": "Formula 3",
-          "url": "https://www.fiaformula3.com/en/latest/article/kanato-le-returns-with-hitech-for-the-2027-fia-formula-3-season.ZxfAERkGOVAWL2HjEiQr1",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-18T15:11:26.720Z",
+          "publishedAt": "2026-10-18T16:11:27.054Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1245,7 +1245,22 @@
           "url": "https://www.fiaformula3.com/en/latest/article/gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion.1vJiOkqvrpxUriVtIdwElZ",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T15:11:26.719Z",
+          "publishedAt": "2026-10-18T16:11:27.054Z",
+          "addedAt": "2026-10-18T07:11:27.542Z",
+          "category": "support",
+          "tag": "F3",
+          "series": "F3"
+        },
+        {
+          "id": "www-fiaformula3-com-en-latest-article-kanato-le-returns-with-hitech-for-the-2027-fia-formula-3-season-zxfaerkgovawl2hjei",
+          "title": "Kanato Le returns with Hitech for the 2027 Formula 3 season",
+          "summary": "",
+          "source": "Formula 3",
+          "sourceLabel": "Formula 3",
+          "url": "https://www.fiaformula3.com/en/latest/article/kanato-le-returns-with-hitech-for-the-2027-fia-formula-3-season.ZxfAERkGOVAWL2HjEiQr1",
+          "image": "",
+          "language": "en",
+          "publishedAt": "2026-10-18T16:11:27.054Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1260,7 +1275,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T15:09:28.876Z",
+          "publishedAt": "2026-10-18T16:09:28.745Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1275,7 +1290,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T15:07:28.876Z",
+          "publishedAt": "2026-10-18T16:07:28.745Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1290,7 +1305,7 @@
           "url": "https://www.f1academy.com/Latest/iSGDz01GZU5rrs7iQrDg9/larsen-to-return-for-third-f1-academy-campaign-in-2027-with-ferrari",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T15:11:28.876Z",
+          "publishedAt": "2026-10-18T16:11:28.745Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
