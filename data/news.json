@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T10:11:26.264Z",
-  "checkedAt": "2026-10-19T10:11:26.264Z",
+  "updatedAt": "2026-10-19T11:11:26.284Z",
+  "checkedAt": "2026-10-19T11:11:26.284Z",
   "pageSize": 18,
   "sources": [
     {
@@ -448,7 +448,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-19T10:11:29.846Z",
+      "createdAt": "2026-10-19T11:11:28.755Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
@@ -616,21 +616,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-el-italo-argentino-mattia-colnaghi-confirmado-para-el-clasico-gp-de-macao",
-          "title": "El ítalo argentino Mattia Colnaghi confirmado para el clásico GP de Macao",
-          "summary": "Se prepara la 73ra edición del GP de Macao y el equipo MP Motorsport confirmó a Colnaghi para estar del 19 al 22 de noviembre allí.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-italo-argentino-mattia-colnaghi-confirmado-para-el-clasico-gp-de-macao/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/07/PHOTO-2026-07-02-11-31-54-e1787156686222.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-16T11:04:21.000Z",
-          "addedAt": "2026-10-18T14:11:35.077Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-hadjar-exabrupto-dolor-culo-no-poder-pasar-colapinto-f1-gp-singapur-id765737-html",
           "title": "\"Dolor en el culo\": el exabrupto de Hadjar tras no poder pasar a Colapinto en el GP de Singapur",
           "summary": "El piloto francés quedó atrapado detrás del Alpine del argentino durante varias vueltas y no encontró la manera de atacar. La furia que trasladó a su ingeniero terminó en una frase que quedó registrada para la historia.",
@@ -644,6 +629,21 @@
           "addedAt": "2026-10-18T07:11:28.193Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-el-italo-argentino-mattia-colnaghi-confirmado-para-el-clasico-gp-de-macao",
+          "title": "El ítalo argentino Mattia Colnaghi confirmado para el clásico GP de Macao",
+          "summary": "Se prepara la 73ra edición del GP de Macao y el equipo MP Motorsport confirmó a Colnaghi para estar del 19 al 22 de noviembre allí.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-italo-argentino-mattia-colnaghi-confirmado-para-el-clasico-gp-de-macao/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/07/PHOTO-2026-07-02-11-31-54-e1787156686222.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-16T11:04:21.000Z",
+          "addedAt": "2026-10-18T14:11:35.077Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
@@ -706,27 +706,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026",
-          "title": "Hyundai anuncia a Camilo Trappa en su lista de TCR World Tour en Macao 2026",
-          "summary": "El piloto argentino se destaca en la lista de buena fe de la mano del equipo Hyundai MSA para la icónica pista urbana de Macao.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Camilo-Trappa-Hyundai-Macao-Previo-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-16T11:01:54.000Z",
-          "addedAt": "2026-10-18T07:11:27.214Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-19T10:11:29.846Z",
-      "items": [
-        {
           "id": "campeones-com-ar-tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria",
           "title": "TC Mouras: Fabrizio Maggini empezó la Copa Coronación con una victoria",
           "summary": "Tras largar 4º, el mendocino logró su 2º triunfo de la temporada 2026 con el Ford del RUS Med Team y se posicionó como nuevo escolta en el “play-off” de Nicolás Jaime (Dodge), que terminó 3º. Santiago Arrigoni (Dodge) completó el “1-2” del equipo arrecifeño.",
@@ -740,7 +719,13 @@
           "addedAt": "2026-10-18T20:11:27.721Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-19T11:11:28.755Z",
+      "items": [
         {
           "id": "campeones-com-ar-wec-toyota-domina-las-condiciones-cambiantes-y-se-calza-la-corona-en-espana",
           "title": "WEC: Toyota domina las condiciones cambiantes y se calza la corona en España",
@@ -783,6 +768,21 @@
           "language": "es",
           "publishedAt": "2026-10-18T14:52:02.000Z",
           "addedAt": "2026-10-18T15:11:26.302Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026",
+          "title": "Hyundai anuncia a Camilo Trappa en su lista de TCR World Tour en Macao 2026",
+          "summary": "El piloto argentino se destaca en la lista de buena fe de la mano del equipo Hyundai MSA para la icónica pista urbana de Macao.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Camilo-Trappa-Hyundai-Macao-Previo-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-16T11:01:54.000Z",
+          "addedAt": "2026-10-18T07:11:27.214Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1000,7 +1000,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-19T10:11:29.846Z",
+      "createdAt": "2026-10-19T11:11:28.755Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1016,6 +1016,21 @@
           "addedAt": "2026-10-18T07:11:27.970Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-fue-piloto-de-la-f1-apunalo-al-propietario-de-una-escuderia-en-un-boliche-y-esta-preso-p",
+          "title": "Fue piloto de la F1, apuñaló al propietario de una escudería en un boliche y está preso por fraude",
+          "summary": "El alemán Adrian Sutil corrió en la Máxima durante siete temporadas. En 2012 estuvo un año ausente por atacar al ejecutivo de Renault tras el GP de China y en 2025 fue detenido en un operativo internacional.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/fue-piloto-de-la-f1-apunalo-al-propietario-de-una-escuderia-en-un-boliche-y-esta-preso-por-fraude-id766317.html",
+          "image": "https://media.tycsports.com/files/2026/10/15/996164/adrian-sutil_1440x810.webp?v=2",
+          "body": "El alemán Adrian Sutil corrió en la Máxima durante siete temporadas. En 2012 estuvo un año ausente por atacar al ejecutivo de Renault tras el GP de China y en 2025 fue detenido en un operativo internacional.\n\nSutil se lamenta por un choque en las práctica del GP de Canadá en 2011 (Paul Gilham/Getty Images) + Seguinos en El alemán Adrian Sutil pasó siete temporadas en la Fórmula 1 . Corrió en la élite del automovilismo, pero su nombre es recordado por hechos que hizo abajo del auto. Al contrario de lo que marca su apellido, el piloto supo protagonizar escándalos para nada sutil(es). Aún estando en la Máxima, apuñaló al propietario de un equipo en un boliche y, cuando se marchó de la categoría, no se quedó atrás: en 2025 fue detenido por fraude .\n\nEl bávaro llegó a la Fórmula 1 en 2006 , aunque en esa ocasión se sumó como piloto de reserva del equipo Midland. Ya para el año siguiente se incorporó a Spyker, aunque solo estaría un año . Los cinco siguientes los pasaría en Force India —en 2012 tuvo un impasse y no compitió— y cerraría su estadía en la Máxima en 2014 representando a Sauber . En su paso por la categoría obtendría un particular récord: ser el piloto con más carreras (128) y nunca haberse subido a un podio.\n\nSu primer gran altercado, que le forjó la mala fama, lo protagonizó en abril de 2011. Ocurrió en un boliche en Shanghái luego del Gran Premio de China que ganó Lewis Hamilton. Allí Sutil tuvo una pelea con Eric Lux, ejecutivo de Renault, a quien le provocó cortes en el cuello con una botella de champagne rota en medio de una discusión durante una fiesta organizada para celebrar el triunfo de Hamilton.\n\nA partir de ese hecho, en enero de 2012 fue declarado culpable por un tribunal de Múnich por causar lesiones corporales graves y recibió una sentencia en susp",
+          "language": "es",
+          "publishedAt": "2026-10-19T10:08:13.000Z",
+          "addedAt": "2026-10-19T11:11:27.000Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-valtteri-bottas-auto-f1-living-de-la-casa-id766041-html",
@@ -1256,7 +1271,13 @@
           "addedAt": "2026-10-18T07:11:27.249Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-19T11:11:28.755Z",
+      "items": [
         {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
           "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
@@ -1271,13 +1292,7 @@
           "addedAt": "2026-10-18T07:11:27.922Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-19T10:11:29.846Z",
-      "items": [
+        },
         {
           "id": "www-fiaformula2-com-en-latest-article-laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season-3iw2qus8deyahpaz0x6q",
           "title": "Laurens van Hoepen moves to MP Motorsport for the 2027 season",
@@ -1287,7 +1302,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T10:11:26.693Z",
+          "publishedAt": "2026-10-19T11:11:27.368Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1302,7 +1317,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/compromise-and-identifying-balance-how-i-race-with-oliver-goethe.lJ9hC0P9x3eT7CLWC06g5",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T10:11:26.692Z",
+          "publishedAt": "2026-10-19T11:11:27.367Z",
           "addedAt": "2026-10-19T10:11:26.693Z",
           "category": "support",
           "tag": "F2",
@@ -1317,7 +1332,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T10:11:26.693Z",
+          "publishedAt": "2026-10-19T11:11:27.367Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1332,7 +1347,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season.6pNuXNjz2jZKtH17zSYQw4",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T10:11:26.699Z",
+          "publishedAt": "2026-10-19T11:11:27.022Z",
           "addedAt": "2026-10-19T08:11:27.183Z",
           "category": "support",
           "tag": "F3",
@@ -1347,7 +1362,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/alessandro-giusti-completes-rodin-motorsport-lineup-for-2027-season.qAnp63wtuP65vnruxzaRW",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T10:11:26.699Z",
+          "publishedAt": "2026-10-19T11:11:27.022Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1362,7 +1377,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion.1vJiOkqvrpxUriVtIdwElZ",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T10:11:26.699Z",
+          "publishedAt": "2026-10-19T11:11:27.022Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1377,7 +1392,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T10:08:29.840Z",
+          "publishedAt": "2026-10-19T11:08:28.749Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1392,7 +1407,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T10:06:29.840Z",
+          "publishedAt": "2026-10-19T11:06:28.749Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1407,7 +1422,7 @@
           "url": "https://www.f1academy.com/Latest/7kuxkn4EPBirEZ6hESRuwr/competition-win-a-one-of-a-kind-pair-of-f1-academy-custom-tecovas-annie-boots",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T10:11:29.840Z",
+          "publishedAt": "2026-10-19T11:11:28.749Z",
           "addedAt": "2026-10-19T10:11:29.840Z",
           "category": "support",
           "tag": "F1 Academy",
