@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T19:11:26.434Z",
-  "checkedAt": "2026-10-19T19:11:26.434Z",
+  "updatedAt": "2026-10-19T21:26:33.652Z",
+  "checkedAt": "2026-10-19T21:26:33.652Z",
   "pageSize": 18,
   "sources": [
     {
@@ -55,21 +55,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay",
-      "title": "Krujoski marcó la referencia de Turismo Carretera 2000 en C. del Uruguay",
-      "summary": "La práctica de la categoría tuvo al piloto correntino como el más veloz en la pista entrerriana, superando a Llaver, el líder del certamen. Tercero quedó Carinelli.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TurCar2000-Krujoski.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T20:51:02.000Z",
-      "addedAt": "2026-10-18T07:11:27.429Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
       "title": "¿Qué esperar del nuevo jefe técnico de Alpine F1 Team?",
       "summary": "Mike Elliott cuenta con experiencia como director técnico y de tecnología en Mercedes y un pasado por Renault y McLaren.",
@@ -81,6 +66,21 @@
       "language": "es",
       "publishedAt": "2026-10-15T19:55:12.000Z",
       "addedAt": "2026-10-18T07:11:27.467Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay",
+      "title": "Krujoski marcó la referencia de Turismo Carretera 2000 en C. del Uruguay",
+      "summary": "La práctica de la categoría tuvo al piloto correntino como el más veloz en la pista entrerriana, superando a Llaver, el líder del certamen. Tercero quedó Carinelli.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TurCar2000-Krujoski.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-16T20:51:02.000Z",
+      "addedAt": "2026-10-18T07:11:27.429Z",
       "category": "general",
       "tag": "F1"
     },
@@ -388,7 +388,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-19T19:11:28.394Z",
+      "createdAt": "2026-10-19T21:26:42.028Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-mattia-colnaghi-campos-racing-formula-3-2027-id767199-html",
@@ -475,7 +475,7 @@
           "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MATTIA-COLNAGHI-FORMJULA-3.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-19T12:36:15.000Z",
+          "publishedAt": "2026-10-19T13:36:15.000Z",
           "addedAt": "2026-10-19T13:11:27.204Z",
           "category": "argentino",
           "tag": "Argentino"
@@ -646,6 +646,27 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-contra-el-resto-estamos-parejos-dice-canapino",
+          "title": "\"Contra el resto estamos parejos\", dice Canapino",
+          "summary": "El líder de la Copa Shell V-Power de TC Pick Up ve una lucha ajustada, pero con un piloto por encima de todos en el rendimiento deportivo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/contra-el-resto-estamos-parejos-dice-canapino/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Agustin-Canapino-TC-Pick-Up-La-Plata-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T15:00:20.000Z",
+          "addedAt": "2026-10-19T21:26:35.934Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-19T21:26:42.028Z",
+      "items": [
+        {
           "id": "campeones-com-ar-otra-pole-position-de-mariano-werner-en-tc-pick-up",
           "title": "Otra “pole position” de Mariano Werner en TC Pick Up",
           "summary": "Ahora con los motores de Mario y Luis Riva en su Foton Tunland G7 luego de la exclusión por compresión en Balcarce, el entrerriano logró su 3ª “pole” de 2026. Canapino (Chevrolet) quedó 2º a 0s588 del piloto del Fadel Racing, quien mañana deberá largar último en la Final por una sanción de la CAF.",
@@ -659,13 +680,7 @@
           "addedAt": "2026-10-18T07:11:27.209Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-19T19:11:28.394Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
           "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
@@ -693,21 +708,6 @@
           "language": "es",
           "publishedAt": "2026-10-17T16:06:03.000Z",
           "addedAt": "2026-10-18T07:11:27.364Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria",
-          "title": "TC Mouras: Fabrizio Maggini empezó la Copa Coronación con una victoria",
-          "summary": "Tras largar 4º, el mendocino logró su 2º triunfo de la temporada 2026 con el Ford del RUS Med Team y se posicionó como nuevo escolta en el “play-off” de Nicolás Jaime (Dodge), que terminó 3º. Santiago Arrigoni (Dodge) completó el “1-2” del equipo arrecifeño.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Maggini-TCM-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-18T19:18:01.000Z",
-          "addedAt": "2026-10-18T20:11:27.721Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -785,6 +785,21 @@
           "addedAt": "2026-10-18T07:11:27.438Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria",
+          "title": "TC Mouras: Fabrizio Maggini empezó la Copa Coronación con una victoria",
+          "summary": "Tras largar 4º, el mendocino logró su 2º triunfo de la temporada 2026 con el Ford del RUS Med Team y se posicionó como nuevo escolta en el “play-off” de Nicolás Jaime (Dodge), que terminó 3º. Santiago Arrigoni (Dodge) completó el “1-2” del equipo arrecifeño.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Maggini-TCM-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T19:18:01.000Z",
+          "addedAt": "2026-10-18T20:11:27.721Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-wec-toyota-domina-las-condiciones-cambiantes-y-se-calza-la-corona-en-espana",
@@ -920,27 +935,12 @@
           "addedAt": "2026-10-18T07:11:27.177Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-canapino-sobre-balcarce-estuvo-espectacular",
-          "title": "Agustín Canapino sobre Balcarce: \"Estuvo espectacular\" | Campeones",
-          "summary": "El autódromo \"Juan Manuel Fangio\" ubicado en el Cerro La Barrosa volvió a tener actividad con el TC Pick Up y allí estuvo el \"Titán\", que le brindó a Campeones su apreciación sobre cómo quedó el histórico trazado.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/canapino-sobre-balcarce-estuvo-espectacular/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/gui8158-1790536724815-29540246-e1792069083834.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-15T12:58:11.000Z",
-          "addedAt": "2026-10-18T07:11:27.465Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-19T19:11:28.394Z",
+      "createdAt": "2026-10-19T21:26:42.028Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -956,6 +956,21 @@
           "addedAt": "2026-10-18T07:11:27.970Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-la-sorpresiva-decision-de-mclaren-para-los-proximos-grandes-premios-en-la-f1-id767254-ht",
+          "title": "La sorpresiva decisión de McLaren para los próximos Grandes Premios en la F1",
+          "summary": "La escudería británica definió que Leonardo Fornaroli, piloto de reserva, saldrá a la pista en las prácticas libres en México y Brasil.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-sorpresiva-decision-de-mclaren-para-los-proximos-grandes-premios-en-la-f1-id767254.html",
+          "image": "https://media.tycsports.com/files/2026/10/19/997536/leonardo-fornaroli_1440x810.webp",
+          "body": "La escudería británica definió que Leonardo Fornaroli, piloto de reserva, saldrá a la pista en las prácticas libres en México y Brasil.\n\nLeonardo Fornaroli será parte de la primera práctica libre en los GP de México y Brasil. (Kym Illman/Getty Images) + Seguinos en McLaren tomó una sorpresiva decisión: confirmó que el italiano Leonardo Fornaroli participará en la primera práctica libre en los Grandes Premios de México y Brasil.\n\nLa escudería británica lo resolvió para completar la reglamentación de la FIA. Los equipos deben darle oportunidades a pilotos sin experiencia en la categoría en cuatro oportunidades en prácticas libres. “Estoy muy emocionado de volver a ponerme al volante del MCL40 y participar en dos sesiones más de entrenamientos libres oficiales con el equipo”, expresó el actual campeón de la Fórmula 2, en declaraciones que recoge el portal Campeones.\n\n“Los Grandes Premios de Ciudad de México y São Paulo son dos eventos fantásticos que supondrán un gran reto para mí como piloto. Interlagos es un circuito histórico, lleno de curvas técnicas variadas, mientras que la altitud de Ciudad de México será sin duda una nueva prueba física. Es una valiosa oportunidad para mi crecimiento profesional y, al mismo tiempo, para contribuir al equipo durante el fin de semana de la carrera” , añadió.\n\nPor otra parte, el último fin de semana, el italiano hizo pruebas privadas para McLaren en el Circuito de las Américas, que recibe al próximo Gran Premio este fin de semana. Leonardo Fornaroli ya había salido a la pista en prácticas libres en Barcelona y Budapest. Con su participación en México y Brasil, el joven piloto de 21 años llegará a las cuatro que exige la FIA.",
+          "language": "es",
+          "publishedAt": "2026-10-19T19:26:21.000Z",
+          "addedAt": "2026-10-19T21:26:34.438Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-fue-piloto-de-la-f1-apunalo-al-propietario-de-una-escuderia-en-un-boliche-y-esta-preso-p",
@@ -1196,7 +1211,13 @@
           "addedAt": "2026-10-18T07:11:28.259Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-19T21:26:42.028Z",
+      "items": [
         {
           "id": "campeones-com-ar-toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados",
           "title": "Toto Wolff admite: «Muchos jefes de equipo en F1 son pilotos traumatizados y humillados»",
@@ -1209,27 +1230,6 @@
           "language": "es",
           "publishedAt": "2026-10-18T17:43:43.000Z",
           "addedAt": "2026-10-18T18:11:26.490Z",
-          "category": "general",
-          "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-19T19:11:28.394Z",
-      "items": [
-        {
-          "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
-          "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
-          "summary": "El joven piloto italiano realizó un nuevo test, ahora en la pista francesa con uno de los autos de la escudería de Enstone.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-F1-Alpine-Gabriele-Mini.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-16T19:41:21.000Z",
-          "addedAt": "2026-10-18T07:11:27.249Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1264,6 +1264,21 @@
           "tag": "F1"
         },
         {
+          "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
+          "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
+          "summary": "El joven piloto italiano realizó un nuevo test, ahora en la pista francesa con uno de los autos de la escudería de Enstone.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-F1-Alpine-Gabriele-Mini.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-16T19:41:21.000Z",
+          "addedAt": "2026-10-18T07:11:27.249Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "campeones-com-ar-el-tc2000-vuelve-a-general-roca-junto-al-top-race-y-la-formula-nacional",
           "title": "El TC2000 vuelve a General Roca junto al Top Race y la Fórmula Nacional",
           "summary": "La plaza rionegrina vuelve a formar parte del calendario de la categoría por segundo año consecutivo. Será los próximos 31 de octubre y 1 de noviembre.",
@@ -1277,6 +1292,21 @@
           "addedAt": "2026-10-18T07:11:27.194Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-canapino-sobre-balcarce-estuvo-espectacular",
+          "title": "Agustín Canapino sobre Balcarce: \"Estuvo espectacular\" | Campeones",
+          "summary": "El autódromo \"Juan Manuel Fangio\" ubicado en el Cerro La Barrosa volvió a tener actividad con el TC Pick Up y allí estuvo el \"Titán\", que le brindó a Campeones su apreciación sobre cómo quedó el histórico trazado.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/canapino-sobre-balcarce-estuvo-espectacular/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/gui8158-1790536724815-29540246-e1792069083834.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-15T12:58:11.000Z",
+          "addedAt": "2026-10-18T07:11:27.465Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana",
@@ -1392,7 +1422,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T19:11:26.847Z",
+          "publishedAt": "2026-10-19T21:26:34.502Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1407,7 +1437,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/compromise-and-identifying-balance-how-i-race-with-oliver-goethe.lJ9hC0P9x3eT7CLWC06g5",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T19:11:26.846Z",
+          "publishedAt": "2026-10-19T21:26:34.501Z",
           "addedAt": "2026-10-19T10:11:26.693Z",
           "category": "support",
           "tag": "F2",
@@ -1422,7 +1452,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T19:11:26.846Z",
+          "publishedAt": "2026-10-19T21:26:34.501Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1437,7 +1467,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/mp-motorsport-confirm-the-signing-of-zhenrui-chi-for-the-2027-season.1ui1K3QRS2JqX8035h8L2V",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T19:11:27.038Z",
+          "publishedAt": "2026-10-19T21:26:34.725Z",
           "addedAt": "2026-10-19T17:03:20.367Z",
           "category": "support",
           "tag": "F3",
@@ -1452,12 +1482,18 @@
           "url": "https://www.fiaformula3.com/en/latest/article/maciej-gladysz-moves-to-mp-motorsport-for-the-2027-season.18Dxa0cPjncr97B42XsDtx",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T19:11:27.038Z",
+          "publishedAt": "2026-10-19T21:26:34.725Z",
           "addedAt": "2026-10-19T13:11:27.034Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-19T21:26:42.028Z",
+      "items": [
         {
           "id": "www-fiaformula3-com-en-latest-article-matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season-6pnuxnjz2jzkth17zsyq",
           "title": "Matteo De Palo returns with MP Motorsport for the 2027 season",
@@ -1467,7 +1503,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season.6pNuXNjz2jZKtH17zSYQw4",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T19:11:27.038Z",
+          "publishedAt": "2026-10-19T21:26:34.725Z",
           "addedAt": "2026-10-19T08:11:27.183Z",
           "category": "support",
           "tag": "F3",
@@ -1482,18 +1518,12 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T19:08:28.388Z",
+          "publishedAt": "2026-10-19T21:23:36.114Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
           "series": "F1 Academy"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-19T19:11:28.394Z",
-      "items": [
+        },
         {
           "id": "www-f1academy-com-latest-5uqm9adwjr1l7emv71y4lp-ferreira-penalised-following-silverstone-feature-race",
           "title": "Ferreira penalised following Silverstone Feature Race",
@@ -1503,7 +1533,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T19:06:28.388Z",
+          "publishedAt": "2026-10-19T21:21:36.114Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1518,7 +1548,7 @@
           "url": "https://www.f1academy.com/Latest/7kuxkn4EPBirEZ6hESRuwr/competition-win-a-one-of-a-kind-pair-of-f1-academy-custom-tecovas-annie-boots",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T19:11:28.388Z",
+          "publishedAt": "2026-10-19T21:26:36.114Z",
           "addedAt": "2026-10-19T10:11:29.840Z",
           "category": "support",
           "tag": "F1 Academy",
