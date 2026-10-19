@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T00:08:58.708Z",
-  "checkedAt": "2026-10-19T00:08:58.708Z",
+  "updatedAt": "2026-10-19T01:11:26.161Z",
+  "checkedAt": "2026-10-19T01:11:26.161Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,36 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-victoria-de-santiago-urrutia-en-tcr-world-tour",
-      "title": "Victoria de Santiago Urrutia en TCR World Tour",
-      "summary": "Con el Geely, el piloto uruguayo encabezó el \"1-2\" del equipo Cyan Racing en la pista china de Chengdu, escoltado por Yann Ehrlacher.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/victoria-de-santiago-urrutia-en-tcr-world-tour/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261017-TCRWT-Urrutia.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-17T10:11:06.000Z",
-      "addedAt": "2026-10-18T07:11:27.160Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-canapino-su-vida-despues-de-la-indy-y-el-futuro",
-      "title": "Canapino: Su vida después de la Indy y el futuro",
-      "summary": "“¿Cómo me veo de acá a 10 años? Ojalá que corriendo”. El arrecifeño tocó diversos temas en el mano a mano con Campeones.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/canapino-su-vida-despues-de-la-indy-y-el-futuro/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/03/CANAPINO-AGUSTIN-NEUQUEN-FOTO-DARIO-GALLARDO.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T18:33:42.000Z",
-      "addedAt": "2026-10-18T07:11:27.393Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido",
       "title": "TC: Ford y Chevrolet, de la convivencia prohibida a compartir taller cada vez más seguido",
@@ -718,7 +688,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-19T00:09:06.488Z",
+      "createdAt": "2026-10-19T01:11:29.392Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
@@ -994,7 +964,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-19T00:09:06.488Z",
+      "createdAt": "2026-10-19T01:11:29.392Z",
       "items": [
         {
           "id": "campeones-com-ar-otra-pole-position-de-mariano-werner-en-tc-pick-up",
@@ -1117,6 +1087,36 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-victoria-de-santiago-urrutia-en-tcr-world-tour",
+          "title": "Victoria de Santiago Urrutia en TCR World Tour",
+          "summary": "Con el Geely, el piloto uruguayo encabezó el \"1-2\" del equipo Cyan Racing en la pista china de Chengdu, escoltado por Yann Ehrlacher.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/victoria-de-santiago-urrutia-en-tcr-world-tour/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261017-TCRWT-Urrutia.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T10:11:06.000Z",
+          "addedAt": "2026-10-18T07:11:27.160Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-canapino-su-vida-despues-de-la-indy-y-el-futuro",
+          "title": "Canapino: Su vida después de la Indy y el futuro",
+          "summary": "“¿Cómo me veo de acá a 10 años? Ojalá que corriendo”. El arrecifeño tocó diversos temas en el mano a mano con Campeones.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/canapino-su-vida-despues-de-la-indy-y-el-futuro/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/03/CANAPINO-AGUSTIN-NEUQUEN-FOTO-DARIO-GALLARDO.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-16T18:33:42.000Z",
+          "addedAt": "2026-10-18T07:11:27.393Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
           "title": "La F1 confirmó la vuelta de los motores V8: qué dijo Ben Sulayem",
           "summary": "La categoría prepara un cambio importante en sus unidades de potencia, con autos más livianos y menores costos de desarrollo. La novedad se conoció durante la presentación de una futura carrera en África.",
@@ -1162,21 +1162,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-ignacio-lovich-con-la-serie-del-tc-pista-mouras",
-          "title": "Ignacio Lovich, con la serie del TC Pista Mouras | Campeones",
-          "summary": "Con el Dodge del Canning Motorsport, resistió y se quedó con la batería en la mañana del autódromo platense. Compartirá primera fila con el líder del campeonato, Iñaki Arrías (Ford). Tercero fue Damián Pérez (Dodge).",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/ignacio-lovich-con-la-serie-del-tc-pista-mouras/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/07/LOVICH-PISTA-MOURAS.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-18T12:26:40.000Z",
-          "addedAt": "2026-10-18T13:11:26.745Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-corrio-en-el-tc-fue-campeon-del-tc-pista-y-ahora-atiende-un-minimercado-en-san-juan-id76",
           "title": "Corrió en el TC, fue campeón del TC Pista y ahora atiende un minimercado en San Juan",
           "summary": "El cuyano tuvo una carrera ligada al automovilismo desde su debut en 1992. En el 98 hizo su estreno en el Turismo Carretera y un año después fue campeón en Pista. Hoy está alejado, aunque nunca de manera definitiva, y se dedica a un emprendimiento personal.",
@@ -1190,6 +1175,21 @@
           "addedAt": "2026-10-18T07:11:28.079Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-ignacio-lovich-con-la-serie-del-tc-pista-mouras",
+          "title": "Ignacio Lovich, con la serie del TC Pista Mouras | Campeones",
+          "summary": "Con el Dodge del Canning Motorsport, resistió y se quedó con la batería en la mañana del autódromo platense. Compartirá primera fila con el líder del campeonato, Iñaki Arrías (Ford). Tercero fue Damián Pérez (Dodge).",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/ignacio-lovich-con-la-serie-del-tc-pista-mouras/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/07/LOVICH-PISTA-MOURAS.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T12:26:40.000Z",
+          "addedAt": "2026-10-18T13:11:26.745Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
@@ -1235,7 +1235,13 @@
           "addedAt": "2026-10-18T07:11:27.625Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "createdAt": "2026-10-19T01:11:29.392Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-el-nuevo-autodromo-de-buenos-aires-avanza-con-las-pruebas-de-asfalto-y-se-prepara-para-e",
           "title": "El nuevo Autódromo de Buenos Aires avanza con las pruebas de asfalto y se prepara para el MotoGP y la F1",
@@ -1265,13 +1271,7 @@
           "addedAt": "2026-10-18T07:11:27.463Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 3,
-      "createdAt": "2026-10-19T00:09:06.488Z",
-      "items": [
+        },
         {
           "id": "www-fiaformula2-com-en-latest-article-laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season-3iw2qus8deyahpaz0x6q",
           "title": "Laurens van Hoepen moves to MP Motorsport for the 2027 season",
@@ -1281,7 +1281,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T00:08:59.337Z",
+          "publishedAt": "2026-10-19T01:11:27.036Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1296,7 +1296,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/brando-badoer-steps-up-with-rodin-motorsport-for-the-2027-season.UDtAkhCHSXFaJsumchvtp",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T00:08:59.337Z",
+          "publishedAt": "2026-10-19T01:11:27.036Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1311,7 +1311,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T00:08:59.336Z",
+          "publishedAt": "2026-10-19T01:11:27.035Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1326,7 +1326,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/alessandro-giusti-completes-rodin-motorsport-lineup-for-2027-season.qAnp63wtuP65vnruxzaRW",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T00:08:59.791Z",
+          "publishedAt": "2026-10-19T01:11:27.370Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1341,7 +1341,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion.1vJiOkqvrpxUriVtIdwElZ",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T00:08:59.791Z",
+          "publishedAt": "2026-10-19T01:11:27.370Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1356,7 +1356,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/rafael-camara-signs-with-haas-f1-team-for-2027-season.1dC04JHoQpb2747rfHxxKj",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T00:08:59.791Z",
+          "publishedAt": "2026-10-19T01:11:27.370Z",
           "addedAt": "2026-10-18T22:11:26.861Z",
           "category": "support",
           "tag": "F3",
@@ -1371,7 +1371,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T00:07:01.249Z",
+          "publishedAt": "2026-10-19T01:09:29.386Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1386,7 +1386,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T00:05:01.249Z",
+          "publishedAt": "2026-10-19T01:07:29.386Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1401,7 +1401,7 @@
           "url": "https://www.f1academy.com/Latest/iSGDz01GZU5rrs7iQrDg9/larsen-to-return-for-third-f1-academy-campaign-in-2027-with-ferrari",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T00:09:01.249Z",
+          "publishedAt": "2026-10-19T01:11:29.386Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
