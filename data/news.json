@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T06:11:26.252Z",
-  "checkedAt": "2026-10-19T06:11:26.252Z",
+  "updatedAt": "2026-10-19T07:11:26.272Z",
+  "checkedAt": "2026-10-19T07:11:26.272Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,36 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
-      "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
-      "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Canapino-Santero-Podio-TN-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-12T12:01:47.000Z",
-      "addedAt": "2026-10-18T07:11:27.238Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
-      "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
-      "summary": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué…",
-      "source": "Carburando",
-      "sourceLabel": "Carburando",
-      "url": "https://carburando.com.ar/blog/por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
-      "image": "https://carburando.com.ar/covers/22/por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rap-25600.webp",
-      "body": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué ocurrió realmente en esa vuelta.\n\nEl Gran Premio de Azerbaiyán volvió a dejar uno de esos momentos que generan debate en la Fórmula 1. Pierre Gasly, piloto de Alpine, acusó públicamente a Franco Colapinto de haberle arruinado su chance de quedarse con la vuelta más rápida de la carrera.\n\nEl francés, que venía con un ritmo sólido en las etapas finales, vio cómo su intento de registro rápido se frustraba tras un incidente con el Williams del argentino. Más allá de las declaraciones post-carrera, el episodio invita a revisar cómo funcionan las reglas de pista, el DRS y la gestión de tráfico en un circuito urbano estrecho como el de Bakú.\n\nBakú es un trazado de alta velocidad con zonas muy estrechas, donde el rebufo y el DRS juegan un rol decisivo. En las vueltas finales, cuando muchos pilotos ya habían completado sus paradas, varios autos se encontraban en diferentes fases de estrategia. Gasly buscaba precisamente aprovechar un claro para marcar el mejor tiempo del día, algo que además entrega un punto extra en el campeonato de constructores y puede tener peso en la clasificación general.\n\nColapinto, por su parte, estaba cumpliendo con su stint final y, según las imágenes disponibles, se encontraba en una posición defensiva natural. El contacto o la maniobra de paso generó que Gasly perdiera tracción o aerodinámica suficiente para completar la vuelta en el tiempo que buscaba. Desde la ingeniería, perder el flujo limpio sobre el alerón trasero en una zona de alta velocidad como la recta principal de Bakú es casi siempre fatal para un intento de vuelta rápida.",
-      "language": "es",
-      "publishedAt": "2026-10-02T21:35:36.000Z",
-      "addedAt": "2026-10-18T07:11:27.922Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
     {
       "id": "campeones-com-ar-el-tc2000-vuelve-a-general-roca-junto-al-top-race-y-la-formula-nacional",
       "title": "El TC2000 vuelve a General Roca junto al Top Race y la Fórmula Nacional",
@@ -538,7 +508,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-19T06:11:28.630Z",
+      "createdAt": "2026-10-19T07:11:28.640Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
@@ -814,7 +784,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-19T06:11:28.630Z",
+      "createdAt": "2026-10-19T07:11:28.640Z",
       "items": [
         {
           "id": "campeones-com-ar-hyundai-anuncia-a-camilo-trappa-en-su-lista-de-tcr-world-tour-en-macao-2026",
@@ -1072,6 +1042,27 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
+          "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
+          "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Canapino-Santero-Podio-TN-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-12T12:01:47.000Z",
+          "addedAt": "2026-10-18T07:11:27.238Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "createdAt": "2026-10-19T07:11:28.640Z",
+      "items": [
+        {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
           "title": "La F1 confirmó la vuelta de los motores V8: qué dijo Ben Sulayem",
           "summary": "La categoría prepara un cambio importante en sus unidades de potencia, con autos más livianos y menores costos de desarrollo. La novedad se conoció durante la presentación de una futura carrera en África.",
@@ -1085,13 +1076,7 @@
           "addedAt": "2026-10-18T07:11:27.970Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 3,
-      "createdAt": "2026-10-19T06:11:28.630Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-valtteri-bottas-auto-f1-living-de-la-casa-id766041-html",
           "title": "&iexcl;Insólito! Un piloto de F1 reveló que tiene un auto en el living de su casa",
@@ -1273,6 +1258,21 @@
           "tag": "F1"
         },
         {
+          "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
+          "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
+          "summary": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué…",
+          "source": "Carburando",
+          "sourceLabel": "Carburando",
+          "url": "https://carburando.com.ar/blog/por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
+          "image": "https://carburando.com.ar/covers/22/por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rap-25600.webp",
+          "body": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué ocurrió realmente en esa vuelta.\n\nEl Gran Premio de Azerbaiyán volvió a dejar uno de esos momentos que generan debate en la Fórmula 1. Pierre Gasly, piloto de Alpine, acusó públicamente a Franco Colapinto de haberle arruinado su chance de quedarse con la vuelta más rápida de la carrera.\n\nEl francés, que venía con un ritmo sólido en las etapas finales, vio cómo su intento de registro rápido se frustraba tras un incidente con el Williams del argentino. Más allá de las declaraciones post-carrera, el episodio invita a revisar cómo funcionan las reglas de pista, el DRS y la gestión de tráfico en un circuito urbano estrecho como el de Bakú.\n\nBakú es un trazado de alta velocidad con zonas muy estrechas, donde el rebufo y el DRS juegan un rol decisivo. En las vueltas finales, cuando muchos pilotos ya habían completado sus paradas, varios autos se encontraban en diferentes fases de estrategia. Gasly buscaba precisamente aprovechar un claro para marcar el mejor tiempo del día, algo que además entrega un punto extra en el campeonato de constructores y puede tener peso en la clasificación general.\n\nColapinto, por su parte, estaba cumpliendo con su stint final y, según las imágenes disponibles, se encontraba en una posición defensiva natural. El contacto o la maniobra de paso generó que Gasly perdiera tracción o aerodinámica suficiente para completar la vuelta en el tiempo que buscaba. Desde la ingeniería, perder el flujo limpio sobre el alerón trasero en una zona de alta velocidad como la recta principal de Bakú es casi siempre fatal para un intento de vuelta rápida.",
+          "language": "es",
+          "publishedAt": "2026-10-02T21:35:36.000Z",
+          "addedAt": "2026-10-18T07:11:27.922Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-fiaformula2-com-en-latest-article-laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season-3iw2qus8deyahpaz0x6q",
           "title": "Laurens van Hoepen moves to MP Motorsport for the 2027 season",
           "summary": "",
@@ -1281,7 +1281,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T06:11:26.673Z",
+          "publishedAt": "2026-10-19T07:11:27.171Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1296,7 +1296,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/brando-badoer-steps-up-with-rodin-motorsport-for-the-2027-season.UDtAkhCHSXFaJsumchvtp",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T06:11:26.673Z",
+          "publishedAt": "2026-10-19T07:11:27.171Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1311,7 +1311,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T06:11:26.672Z",
+          "publishedAt": "2026-10-19T07:11:27.170Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1326,12 +1326,18 @@
           "url": "https://www.fiaformula3.com/en/latest/article/alessandro-giusti-completes-rodin-motorsport-lineup-for-2027-season.qAnp63wtuP65vnruxzaRW",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T06:11:27.035Z",
+          "publishedAt": "2026-10-19T07:11:26.855Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-19T07:11:28.640Z",
+      "items": [
         {
           "id": "www-fiaformula3-com-en-latest-article-gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion-1vjiokqvrpxurivtidwelz",
           "title": "Gabriel Gomez steps up to FIA Formula 3 with LN4 Fusion",
@@ -1341,7 +1347,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion.1vJiOkqvrpxUriVtIdwElZ",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T06:11:27.035Z",
+          "publishedAt": "2026-10-19T07:11:26.855Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1356,18 +1362,12 @@
           "url": "https://www.fiaformula3.com/en/latest/article/rafael-camara-signs-with-haas-f1-team-for-2027-season.1dC04JHoQpb2747rfHxxKj",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T06:11:27.035Z",
+          "publishedAt": "2026-10-19T07:11:26.855Z",
           "addedAt": "2026-10-18T22:11:26.861Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-19T06:11:28.630Z",
-      "items": [
+        },
         {
           "id": "www-f1academy-com-latest-6wbco3mith0mknuoz5hq6w-florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-rev",
           "title": "Florescu disqualified from Zandvoort Qualifying, Westcott promoted to Reverse Grid Race pole",
@@ -1377,7 +1377,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T06:09:28.624Z",
+          "publishedAt": "2026-10-19T07:09:28.634Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1392,7 +1392,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T06:07:28.624Z",
+          "publishedAt": "2026-10-19T07:07:28.634Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1407,7 +1407,7 @@
           "url": "https://www.f1academy.com/Latest/iSGDz01GZU5rrs7iQrDg9/larsen-to-return-for-third-f1-academy-campaign-in-2027-with-ferrari",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T06:11:28.624Z",
+          "publishedAt": "2026-10-19T07:11:28.634Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
