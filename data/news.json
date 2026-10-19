@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T11:11:26.284Z",
-  "checkedAt": "2026-10-19T11:11:26.284Z",
+  "updatedAt": "2026-10-19T13:11:26.392Z",
+  "checkedAt": "2026-10-19T13:11:26.392Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,21 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp",
+      "title": "Martín Vs Márquez: Una batalla encerrada en dos puntos y un récord histórico para MotoGP",
+      "summary": "Llega la hora de las definiciones en el Mundial de MotoGP que tras 17 fechas disputadas tiene dos unidades de diferencia entre los mejores.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MotoGP-Jorge-Martin-y-MArc-Marquez.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-19T12:57:45.000Z",
+      "addedAt": "2026-10-19T13:11:27.120Z",
+      "category": "general",
+      "tag": "F1"
+    },
     {
       "id": "campeones-com-ar-hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas",
       "title": "Hyundai y Girolami completaron un fin de semana ideal en Posadas",
@@ -145,21 +160,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-tcr-world-tour-ehrlacher-domino-en-la-primera-jornada-china",
-      "title": "TCR World Tour: Ehrlacher dominó en la primera jornada china",
-      "summary": "Con el Geely de Cyan Racing, el francés superó a su compañero el uruguayo Urrutia y a Vernay que había liderado con el Cupra en la sesión inicial.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-world-tour-ehrlacher-domino-en-la-primera-jornada-china/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TCRWT-Practicas.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T11:55:54.000Z",
-      "addedAt": "2026-10-18T07:11:27.683Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
       "title": "¿Qué esperar del nuevo jefe técnico de Alpine F1 Team?",
       "summary": "Mike Elliott cuenta con experiencia como director técnico y de tecnología en Mercedes y un pasado por Renault y McLaren.",
@@ -171,6 +171,21 @@
       "language": "es",
       "publishedAt": "2026-10-15T19:55:12.000Z",
       "addedAt": "2026-10-18T07:11:27.467Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tcr-world-tour-ehrlacher-domino-en-la-primera-jornada-china",
+      "title": "TCR World Tour: Ehrlacher dominó en la primera jornada china",
+      "summary": "Con el Geely de Cyan Racing, el francés superó a su compañero el uruguayo Urrutia y a Vernay que había liderado con el Cupra en la sesión inicial.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-world-tour-ehrlacher-domino-en-la-primera-jornada-china/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TCRWT-Practicas.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-16T11:55:54.000Z",
+      "addedAt": "2026-10-18T07:11:27.683Z",
       "category": "general",
       "tag": "F1"
     },
@@ -448,7 +463,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-19T11:11:28.755Z",
+      "createdAt": "2026-10-19T13:11:34.083Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
@@ -479,6 +494,36 @@
           "addedAt": "2026-10-18T07:11:28.016Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3",
+          "title": "Mattia Colnaghi ingresa al equipo campeón de la Fórmula 3",
+          "summary": "Luego de su paso por el MP Motorsport, el representante argentino estará compitiendo junto al Campos Racing en su segunda temporada dentro de la especialidad.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MATTIA-COLNAGHI-FORMJULA-3.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T12:36:15.000Z",
+          "addedAt": "2026-10-19T13:11:27.204Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
+          "title": "Revista Campeones: Fain lideró un histórico 1-2 de Torino en el TC",
+          "summary": "Avanza la Copa de Oro del Turismo Carretera y se mezclan las marcas en la batalla por la corona más buscada del deporte motor argentino.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-Resvista-Fain-Chapur-Dos-Toros-Audaces.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T10:15:47.000Z",
+          "addedAt": "2026-10-19T13:11:27.029Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-briatore-colapinto-formula-1-id766372-html",
@@ -601,21 +646,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1",
-          "title": "El director deportivo de Alpine, autocrítico tras los últimos GP de Fórmula 1 | Campeones",
-          "summary": "Steve Nielsen fue categórico sobre la trilogía de carreras que incluyó Bakú, Malasia y Singapur, donde la cosecha de puntos para Franco Colapinto y Pierre Gasly fue muy nula.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/11/Nielsen.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-12T12:15:04.000Z",
-          "addedAt": "2026-10-18T07:11:27.438Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-hadjar-exabrupto-dolor-culo-no-poder-pasar-colapinto-f1-gp-singapur-id765737-html",
           "title": "\"Dolor en el culo\": el exabrupto de Hadjar tras no poder pasar a Colapinto en el GP de Singapur",
           "summary": "El piloto francés quedó atrapado detrás del Alpine del argentino durante varias vueltas y no encontró la manera de atacar. La furia que trasladó a su ingeniero terminó en una frase que quedó registrada para la historia.",
@@ -704,7 +734,13 @@
           "addedAt": "2026-10-18T07:11:27.364Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-19T13:11:34.083Z",
+      "items": [
         {
           "id": "campeones-com-ar-tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria",
           "title": "TC Mouras: Fabrizio Maggini empezó la Copa Coronación con una victoria",
@@ -719,13 +755,7 @@
           "addedAt": "2026-10-18T20:11:27.721Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-19T11:11:28.755Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-wec-toyota-domina-las-condiciones-cambiantes-y-se-calza-la-corona-en-espana",
           "title": "WEC: Toyota domina las condiciones cambiantes y se calza la corona en España",
@@ -830,6 +860,21 @@
           "addedAt": "2026-10-18T07:11:27.447Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1",
+          "title": "El director deportivo de Alpine, autocrítico tras los últimos GP de Fórmula 1 | Campeones",
+          "summary": "Steve Nielsen fue categórico sobre la trilogía de carreras que incluyó Bakú, Malasia y Singapur, donde la cosecha de puntos para Franco Colapinto y Pierre Gasly fue muy nula.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/11/Nielsen.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-12T12:15:04.000Z",
+          "addedAt": "2026-10-18T07:11:27.438Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata",
@@ -965,42 +1010,12 @@
           "addedAt": "2026-10-18T07:11:27.198Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia",
-          "title": "TN: Canapino se aseguró llegar al Coronación como líder y podría consagrarse en Concordia",
-          "summary": "A falta de dos fechas para la culminación del campeonato, el “Titán” debería incrementar su ventaja en 20 puntos para festejar en forma anticipada. En la Clase 2, en cambio, el título se definirá sí o sí en Viedma.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TN-2026-1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-13T22:15:35.000Z",
-          "addedAt": "2026-10-18T07:11:27.498Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
-          "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
-          "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Canapino-Santero-Podio-TN-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-12T12:01:47.000Z",
-          "addedAt": "2026-10-18T07:11:27.238Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-19T11:11:28.755Z",
+      "createdAt": "2026-10-19T13:11:34.083Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1078,36 +1093,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-ignacio-lovich-con-la-serie-del-tc-pista-mouras",
-          "title": "Ignacio Lovich, con la serie del TC Pista Mouras | Campeones",
-          "summary": "Con el Dodge del Canning Motorsport, resistió y se quedó con la batería en la mañana del autódromo platense. Compartirá primera fila con el líder del campeonato, Iñaki Arrías (Ford). Tercero fue Damián Pérez (Dodge).",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/ignacio-lovich-con-la-serie-del-tc-pista-mouras/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/07/LOVICH-PISTA-MOURAS.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-18T12:26:40.000Z",
-          "addedAt": "2026-10-18T13:11:26.745Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
-          "title": "TCR World Tour: Urrutia cerró con otro triunfo la fecha en Chengdu",
-          "summary": "El uruguayo se impuso en la última competencia de la sexta ronda del calendario y acortó la brecha con Azcona a 23 puntos; el francés Comte también celebró en la segunda carrera.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-TCRWT-Urrutia.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-18T12:02:45.000Z",
-          "addedAt": "2026-10-18T12:11:26.944Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-ricardo-rosset-el-piloto-considerado-uno-de-los-peores-de-la-historia-de-la-f1-que-fue-b",
           "title": "Es considerado el peor piloto de la historia de la F1 y fue burlado por sus mecánicos",
           "summary": "El brasileño, miembro de una familia millonaria dueña de una marca de lencería, llegó a la Máxima en 1996 y se marchó en 1998 con un rendimiento muy por debajo de las expectativas.",
@@ -1134,6 +1119,21 @@
           "language": "es",
           "publishedAt": "2026-10-14T20:26:30.000Z",
           "addedAt": "2026-10-18T07:11:27.678Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-ignacio-lovich-con-la-serie-del-tc-pista-mouras",
+          "title": "Ignacio Lovich, con la serie del TC Pista Mouras | Campeones",
+          "summary": "Con el Dodge del Canning Motorsport, resistió y se quedó con la batería en la mañana del autódromo platense. Compartirá primera fila con el líder del campeonato, Iñaki Arrías (Ford). Tercero fue Damián Pérez (Dodge).",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/ignacio-lovich-con-la-serie-del-tc-pista-mouras/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/07/LOVICH-PISTA-MOURAS.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T12:26:40.000Z",
+          "addedAt": "2026-10-18T13:11:26.745Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1166,6 +1166,21 @@
           "addedAt": "2026-10-18T07:11:27.669Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
+          "title": "TCR World Tour: Urrutia cerró con otro triunfo la fecha en Chengdu",
+          "summary": "El uruguayo se impuso en la última competencia de la sexta ronda del calendario y acortó la brecha con Azcona a 23 puntos; el francés Comte también celebró en la segunda carrera.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-TCRWT-Urrutia.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T12:02:45.000Z",
+          "addedAt": "2026-10-18T12:11:26.944Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-retorno-con-victoria-para-augusto-carinelli-en-el-turismo-carretera-2000",
@@ -1276,8 +1291,23 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-19T11:11:28.755Z",
+      "createdAt": "2026-10-19T13:11:34.083Z",
       "items": [
+        {
+          "id": "campeones-com-ar-tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia",
+          "title": "TN: Canapino se aseguró llegar al Coronación como líder y podría consagrarse en Concordia",
+          "summary": "A falta de dos fechas para la culminación del campeonato, el “Titán” debería incrementar su ventaja en 20 puntos para festejar en forma anticipada. En la Clase 2, en cambio, el título se definirá sí o sí en Viedma.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TN-2026-1.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-13T22:15:35.000Z",
+          "addedAt": "2026-10-18T07:11:27.498Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
         {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
           "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
@@ -1294,6 +1324,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
+          "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
+          "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Canapino-Santero-Podio-TN-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-12T12:01:47.000Z",
+          "addedAt": "2026-10-18T07:11:27.238Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-fiaformula2-com-en-latest-article-laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season-3iw2qus8deyahpaz0x6q",
           "title": "Laurens van Hoepen moves to MP Motorsport for the 2027 season",
           "summary": "",
@@ -1302,7 +1347,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T11:11:27.368Z",
+          "publishedAt": "2026-10-19T13:11:27.044Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1317,7 +1362,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/compromise-and-identifying-balance-how-i-race-with-oliver-goethe.lJ9hC0P9x3eT7CLWC06g5",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T11:11:27.367Z",
+          "publishedAt": "2026-10-19T13:11:27.044Z",
           "addedAt": "2026-10-19T10:11:26.693Z",
           "category": "support",
           "tag": "F2",
@@ -1332,11 +1377,26 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T11:11:27.367Z",
+          "publishedAt": "2026-10-19T13:11:27.044Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
           "series": "F2"
+        },
+        {
+          "id": "www-fiaformula3-com-en-latest-article-maciej-gladysz-moves-to-mp-motorsport-for-the-2027-season-18dxa0cpjncr97b42xsdtx",
+          "title": "Maciej Gladysz moves to MP Motorsport for the 2027 season",
+          "summary": "",
+          "source": "Formula 3",
+          "sourceLabel": "Formula 3",
+          "url": "https://www.fiaformula3.com/en/latest/article/maciej-gladysz-moves-to-mp-motorsport-for-the-2027-season.18Dxa0cPjncr97B42XsDtx",
+          "image": "",
+          "language": "en",
+          "publishedAt": "2026-10-19T13:11:27.034Z",
+          "addedAt": "2026-10-19T13:11:27.034Z",
+          "category": "support",
+          "tag": "F3",
+          "series": "F3"
         },
         {
           "id": "www-fiaformula3-com-en-latest-article-matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season-6pnuxnjz2jzkth17zsyq",
@@ -1347,7 +1407,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season.6pNuXNjz2jZKtH17zSYQw4",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T11:11:27.022Z",
+          "publishedAt": "2026-10-19T13:11:27.034Z",
           "addedAt": "2026-10-19T08:11:27.183Z",
           "category": "support",
           "tag": "F3",
@@ -1362,22 +1422,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/alessandro-giusti-completes-rodin-motorsport-lineup-for-2027-season.qAnp63wtuP65vnruxzaRW",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T11:11:27.022Z",
-          "addedAt": "2026-10-18T07:11:27.542Z",
-          "category": "support",
-          "tag": "F3",
-          "series": "F3"
-        },
-        {
-          "id": "www-fiaformula3-com-en-latest-article-gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion-1vjiokqvrpxurivtidwelz",
-          "title": "Gabriel Gomez steps up to FIA Formula 3 with LN4 Fusion",
-          "summary": "",
-          "source": "Formula 3",
-          "sourceLabel": "Formula 3",
-          "url": "https://www.fiaformula3.com/en/latest/article/gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion.1vJiOkqvrpxUriVtIdwElZ",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-19T11:11:27.022Z",
+          "publishedAt": "2026-10-19T13:11:27.034Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1392,7 +1437,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T11:08:28.749Z",
+          "publishedAt": "2026-10-19T13:08:28.900Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1407,7 +1452,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T11:06:28.749Z",
+          "publishedAt": "2026-10-19T13:06:28.900Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1422,7 +1467,7 @@
           "url": "https://www.f1academy.com/Latest/7kuxkn4EPBirEZ6hESRuwr/competition-win-a-one-of-a-kind-pair-of-f1-academy-custom-tecovas-annie-boots",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T11:11:28.749Z",
+          "publishedAt": "2026-10-19T13:11:28.900Z",
           "addedAt": "2026-10-19T10:11:29.840Z",
           "category": "support",
           "tag": "F1 Academy",
