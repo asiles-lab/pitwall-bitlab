@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T15:11:26.314Z",
-  "checkedAt": "2026-10-19T15:11:26.314Z",
+  "updatedAt": "2026-10-19T16:11:26.520Z",
+  "checkedAt": "2026-10-19T16:11:26.520Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas",
-      "title": "Hyundai y Girolami completaron un fin de semana ideal en Posadas",
-      "summary": "El \"Bebu\" se llevó también la segunda carrera en el \"Rosamonte\", alcanzando su cuarto éxito de la temporada 2026. Lo siguieron Fabián Yannantuoni y Joaquín Cafaro.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-SOUTH-AMERICA-POSADAS-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-04T17:11:39.000Z",
-      "addedAt": "2026-10-18T07:11:27.351Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-girolami-y-hyundai-siguen-imbatibles-en-posadas",
       "title": "Girolami y Hyundai siguen imbatibles en Posadas",
@@ -130,21 +115,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-el-turismo-carretera-2000-ingresa-en-etapa-de-definicion",
-      "title": "El Turismo Carretera 2000 ingresa en etapa de definición",
-      "summary": "En Concepción del Uruguay se corre la penúltima fecha del calendario con 17 protagonistas y varias novedades.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-turismo-carretera-2000-ingresa-en-etapa-de-definicion/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TURISMO-CARRETERA-2000-TERMAS-ARCHIVO-2026.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T15:35:39.000Z",
-      "addedAt": "2026-10-18T07:11:27.176Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
       "title": "¿Qué esperar del nuevo jefe técnico de Alpine F1 Team?",
       "summary": "Mike Elliott cuenta con experiencia como director técnico y de tecnología en Mercedes y un pasado por Renault y McLaren.",
@@ -156,6 +126,21 @@
       "language": "es",
       "publishedAt": "2026-10-15T19:55:12.000Z",
       "addedAt": "2026-10-18T07:11:27.467Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-el-turismo-carretera-2000-ingresa-en-etapa-de-definicion",
+      "title": "El Turismo Carretera 2000 ingresa en etapa de definición",
+      "summary": "En Concepción del Uruguay se corre la penúltima fecha del calendario con 17 protagonistas y varias novedades.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/el-turismo-carretera-2000-ingresa-en-etapa-de-definicion/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TURISMO-CARRETERA-2000-TERMAS-ARCHIVO-2026.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-16T15:35:39.000Z",
+      "addedAt": "2026-10-18T07:11:27.176Z",
       "category": "general",
       "tag": "F1"
     },
@@ -448,7 +433,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-19T15:11:36.895Z",
+      "createdAt": "2026-10-19T16:11:35.124Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-mattia-colnaghi-campos-racing-formula-3-2027-id767199-html",
@@ -496,21 +481,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3",
-          "title": "Mattia Colnaghi ingresa al equipo campeón de la Fórmula 3",
-          "summary": "Luego de su paso por el MP Motorsport, el representante argentino estará compitiendo junto al Campos Racing en su segunda temporada dentro de la especialidad.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MATTIA-COLNAGHI-FORMJULA-3.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-19T12:36:15.000Z",
-          "addedAt": "2026-10-19T13:11:27.204Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-briatore-colapinto-formula-1-id766372-html",
           "title": "La reacción de Briatore al video de Colapinto por los mensajes de odio en redes sociales",
           "summary": "El asesor de Alpine comentó la publicación del argentino, quien reclamó terminar con las agresiones hacia pilotos, mecánicos y compañeros de equipo.",
@@ -539,6 +509,21 @@
           "addedAt": "2026-10-18T07:11:27.966Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3",
+          "title": "Mattia Colnaghi ingresa al equipo campeón de la Fórmula 3",
+          "summary": "Luego de su paso por el MP Motorsport, el representante argentino estará compitiendo junto al Campos Racing en su segunda temporada dentro de la especialidad.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MATTIA-COLNAGHI-FORMJULA-3.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T12:36:15.000Z",
+          "addedAt": "2026-10-19T13:11:27.204Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
@@ -724,7 +709,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-19T15:11:36.895Z",
+      "createdAt": "2026-10-19T16:11:35.124Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
@@ -1000,7 +985,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-19T15:11:36.895Z",
+      "createdAt": "2026-10-19T16:11:35.124Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1078,21 +1063,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp",
-          "title": "Martín Vs Márquez: Una batalla encerrada en dos puntos y un récord histórico para MotoGP",
-          "summary": "Llega la hora de las definiciones en el Mundial de MotoGP que tras 17 fechas disputadas tiene dos unidades de diferencia entre los mejores.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MotoGP-Jorge-Martin-y-MArc-Marquez.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-19T12:57:45.000Z",
-          "addedAt": "2026-10-19T13:11:27.120Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-ricardo-rosset-el-piloto-considerado-uno-de-los-peores-de-la-historia-de-la-f1-que-fue-b",
           "title": "Es considerado el peor piloto de la historia de la F1 y fue burlado por sus mecánicos",
           "summary": "El brasileño, miembro de una familia millonaria dueña de una marca de lencería, llegó a la Máxima en 1996 y se marchó en 1998 con un rendimiento muy por debajo de las expectativas.",
@@ -1119,6 +1089,21 @@
           "language": "es",
           "publishedAt": "2026-10-14T20:26:30.000Z",
           "addedAt": "2026-10-18T07:11:27.678Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp",
+          "title": "Martín Vs Márquez: Una batalla encerrada en dos puntos y un récord histórico para MotoGP",
+          "summary": "Llega la hora de las definiciones en el Mundial de MotoGP que tras 17 fechas disputadas tiene dos unidades de diferencia entre los mejores.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MotoGP-Jorge-Martin-y-MArc-Marquez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T12:57:45.000Z",
+          "addedAt": "2026-10-19T13:11:27.120Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1276,7 +1261,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-19T15:11:36.895Z",
+      "createdAt": "2026-10-19T16:11:35.124Z",
       "items": [
         {
           "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
@@ -1369,6 +1354,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas",
+          "title": "Hyundai y Girolami completaron un fin de semana ideal en Posadas",
+          "summary": "El \"Bebu\" se llevó también la segunda carrera en el \"Rosamonte\", alcanzando su cuarto éxito de la temporada 2026. Lo siguieron Fabián Yannantuoni y Joaquín Cafaro.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/NESTOR-GIROLAMI-TCR-SOUTH-AMERICA-POSADAS-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-04T17:11:39.000Z",
+          "addedAt": "2026-10-18T07:11:27.351Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
           "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
           "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
@@ -1392,7 +1392,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T15:11:27.267Z",
+          "publishedAt": "2026-10-19T16:11:27.110Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1407,7 +1407,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/compromise-and-identifying-balance-how-i-race-with-oliver-goethe.lJ9hC0P9x3eT7CLWC06g5",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T15:11:27.267Z",
+          "publishedAt": "2026-10-19T16:11:27.110Z",
           "addedAt": "2026-10-19T10:11:26.693Z",
           "category": "support",
           "tag": "F2",
@@ -1422,26 +1422,11 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T15:11:27.267Z",
+          "publishedAt": "2026-10-19T16:11:27.110Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
           "series": "F2"
-        },
-        {
-          "id": "www-fiaformula3-com-en-latest-article-matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season-6pnuxnjz2jzkth17zsyq",
-          "title": "Matteo De Palo returns with MP Motorsport for the 2027 season",
-          "summary": "",
-          "source": "Formula 3",
-          "sourceLabel": "Formula 3",
-          "url": "https://www.fiaformula3.com/en/latest/article/matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season.6pNuXNjz2jZKtH17zSYQw4",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-19T15:11:26.976Z",
-          "addedAt": "2026-10-19T08:11:27.183Z",
-          "category": "support",
-          "tag": "F3",
-          "series": "F3"
         },
         {
           "id": "www-fiaformula3-com-en-latest-article-maciej-gladysz-moves-to-mp-motorsport-for-the-2027-season-18dxa0cpjncr97b42xsdtx",
@@ -1452,8 +1437,23 @@
           "url": "https://www.fiaformula3.com/en/latest/article/maciej-gladysz-moves-to-mp-motorsport-for-the-2027-season.18Dxa0cPjncr97B42XsDtx",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T15:11:26.975Z",
+          "publishedAt": "2026-10-19T16:11:27.101Z",
           "addedAt": "2026-10-19T13:11:27.034Z",
+          "category": "support",
+          "tag": "F3",
+          "series": "F3"
+        },
+        {
+          "id": "www-fiaformula3-com-en-latest-article-matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season-6pnuxnjz2jzkth17zsyq",
+          "title": "Matteo De Palo returns with MP Motorsport for the 2027 season",
+          "summary": "",
+          "source": "Formula 3",
+          "sourceLabel": "Formula 3",
+          "url": "https://www.fiaformula3.com/en/latest/article/matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season.6pNuXNjz2jZKtH17zSYQw4",
+          "image": "",
+          "language": "en",
+          "publishedAt": "2026-10-19T16:11:27.101Z",
+          "addedAt": "2026-10-19T08:11:27.183Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
@@ -1467,7 +1467,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/preview-2026-post-season-testing-starts-with-two-days-in-jerez.72kniH8tAn4enSDSUW5BHI",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T15:11:26.975Z",
+          "publishedAt": "2026-10-19T16:11:27.100Z",
           "addedAt": "2026-10-19T14:11:26.791Z",
           "category": "support",
           "tag": "F3",
@@ -1482,7 +1482,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T15:08:28.776Z",
+          "publishedAt": "2026-10-19T16:08:29.494Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1497,7 +1497,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T15:06:28.776Z",
+          "publishedAt": "2026-10-19T16:06:29.494Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1512,7 +1512,7 @@
           "url": "https://www.f1academy.com/Latest/7kuxkn4EPBirEZ6hESRuwr/competition-win-a-one-of-a-kind-pair-of-f1-academy-custom-tecovas-annie-boots",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T15:11:28.776Z",
+          "publishedAt": "2026-10-19T16:11:29.494Z",
           "addedAt": "2026-10-19T10:11:29.840Z",
           "category": "support",
           "tag": "F1 Academy",
