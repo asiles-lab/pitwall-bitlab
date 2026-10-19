@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T17:03:19.067Z",
-  "checkedAt": "2026-10-19T17:03:19.067Z",
+  "updatedAt": "2026-10-19T18:11:26.398Z",
+  "checkedAt": "2026-10-19T18:11:26.398Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-tc-mouras-alaux-domino-la-clasificacion-por-3a-fecha-seguida",
-      "title": "TC Mouras: Alaux dominó la clasificación por 3ª fecha seguida",
-      "summary": "El piloto del Galarza Racing se quedó con la “pole” en el autódromo de La Plata, donde se realiza la 1ª fecha de la Copa Coronación 2026, luego de aventajar con su Dodge a la Chevy de Francisco Luengo por 0s092.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-mouras-alaux-domino-la-clasificacion-por-3a-fecha-seguida/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Alaux-TCM-2026.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-17T20:49:43.000Z",
-      "addedAt": "2026-10-18T07:11:27.320Z",
-      "category": "general",
-      "tag": "F1"
-    },
     {
       "id": "campeones-com-ar-tc-mouras-luengo-marco-el-rumbo-en-la-ultima-practica-platense",
       "title": "TC Mouras: Luengo marcó el rumbo en la última práctica platense",
@@ -418,7 +403,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-19T17:03:28.133Z",
+      "createdAt": "2026-10-19T18:11:37.984Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-mattia-colnaghi-campos-racing-formula-3-2027-id767199-html",
@@ -586,21 +571,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus",
-          "title": "'Pechito' López se enfoca en la próxima cita del WEC: \"Será la última carrera del Lexus\"",
-          "summary": "Los esfuerzos en la fecha de Barcelona no lograron recuperar al N°87 de los contratiempos y la vista está en la última del año.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/DPPI-WEC-Akkodis-Lopez-Lexus-Barcelona-2026-3.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-19T15:03:50.000Z",
-          "addedAt": "2026-10-19T15:11:26.881Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
           "title": "Colapinto y los mensajes de odio en redes: \"No me ayudan a mí ni a mi futuro\"",
           "summary": "El piloto argentino se expresó a través de su cuenta de Instagram. \"Sé que piensan que me están defendiendo, pero están generando lo contrario\" afirmó.",
@@ -614,6 +584,21 @@
           "addedAt": "2026-10-18T07:11:27.417Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus",
+          "title": "'Pechito' López se enfoca en la próxima cita del WEC: \"Será la última carrera del Lexus\"",
+          "summary": "Los esfuerzos en la fecha de Barcelona no lograron recuperar al N°87 de los contratiempos y la vista está en la última del año.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/DPPI-WEC-Akkodis-Lopez-Lexus-Barcelona-2026-3.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T15:03:50.000Z",
+          "addedAt": "2026-10-19T15:11:26.881Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-un-argentino-se-toco-con-verstappen-y-lo-expuso-a-una-sancion-en-el-gt-world-challenge-i",
@@ -694,7 +679,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-19T17:03:28.133Z",
+      "createdAt": "2026-10-19T18:11:37.984Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
@@ -738,36 +723,6 @@
           "language": "es",
           "publishedAt": "2026-10-18T19:18:01.000Z",
           "addedAt": "2026-10-18T20:11:27.721Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-wec-toyota-domina-las-condiciones-cambiantes-y-se-calza-la-corona-en-espana",
-          "title": "WEC: Toyota domina las condiciones cambiantes y se calza la corona en España",
-          "summary": "La casa nipona logró un “doblete” en la edición inaugural de las “6 Horas” de Barcelona y se aseguró el título de fabricantes en Hypercar. “Pechito” López (Lexus) concluyó 14° en LMGT3.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/wec-toyota-domina-las-condiciones-cambiantes-y-se-calza-la-corona-en-espana/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/toyota-barcelona-wec.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-18T18:07:45.000Z",
-          "addedAt": "2026-10-18T20:11:27.723Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-tc-pick-up-canapino-logro-su-2a-triunfo-del-ano-y-lidera-la-copa-de-oro",
-          "title": "TC Pick Up: Canapino logró su 2ª triunfo del año y lidera la Copa de Oro",
-          "summary": "El “Titán” superó al “poleman” Julián Santero (Ford Ranger), festejó en La Plata su 5ª victoria en la categoría y pasó a comandar el “play-off”, con 1 punto de ventaja sobre Otto Fritzler (Ford Ranger), que hoy fue 3º. Mariano Werner (Foton Tunland G7) terminó 2º luego de largar 13º.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-pick-up-canapino-logro-su-2a-triunfo-del-ano-y-lidera-la-copa-de-oro/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TCPK-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-18T17:51:59.000Z",
-          "addedAt": "2026-10-18T18:11:26.363Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -845,6 +800,36 @@
           "addedAt": "2026-10-18T07:11:27.438Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-wec-toyota-domina-las-condiciones-cambiantes-y-se-calza-la-corona-en-espana",
+          "title": "WEC: Toyota domina las condiciones cambiantes y se calza la corona en España",
+          "summary": "La casa nipona logró un “doblete” en la edición inaugural de las “6 Horas” de Barcelona y se aseguró el título de fabricantes en Hypercar. “Pechito” López (Lexus) concluyó 14° en LMGT3.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/wec-toyota-domina-las-condiciones-cambiantes-y-se-calza-la-corona-en-espana/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/toyota-barcelona-wec.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T18:07:45.000Z",
+          "addedAt": "2026-10-18T20:11:27.723Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-tc-pick-up-canapino-logro-su-2a-triunfo-del-ano-y-lidera-la-copa-de-oro",
+          "title": "TC Pick Up: Canapino logró su 2ª triunfo del año y lidera la Copa de Oro",
+          "summary": "El “Titán” superó al “poleman” Julián Santero (Ford Ranger), festejó en La Plata su 5ª victoria en la categoría y pasó a comandar el “play-off”, con 1 punto de ventaja sobre Otto Fritzler (Ford Ranger), que hoy fue 3º. Mariano Werner (Foton Tunland G7) terminó 2º luego de largar 13º.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-pick-up-canapino-logro-su-2a-triunfo-del-ano-y-lidera-la-copa-de-oro/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TCPK-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T17:51:59.000Z",
+          "addedAt": "2026-10-18T18:11:26.363Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-tc-pick-up-werner-y-santero-ganaron-las-series-en-la-plata",
@@ -970,7 +955,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-19T17:03:28.133Z",
+      "createdAt": "2026-10-19T18:11:37.984Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1183,21 +1168,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados",
-          "title": "Toto Wolff admite: «Muchos jefes de equipo en F1 son pilotos traumatizados y humillados»",
-          "summary": "Quien dirige la escuadra Mercedes AMG F1, referente del presente campeonato mundial con Antonelli y Russell, señaló como pretenden \"compensar\" sus magras campañas en la pista, ahora desde los boxes.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-F1-Team-Boss.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-18T17:43:43.000Z",
-          "addedAt": "2026-10-18T18:11:26.490Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa",
           "title": "La Fórmula 1 confirma el acuerdo con Ruanda para regresar a África",
           "summary": "La F1 presentó un acuerdo de 10 años con Ruanda para el Gran Premio de África, pensado para principios de la década de 2030.",
@@ -1241,12 +1211,27 @@
           "addedAt": "2026-10-18T07:11:28.259Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados",
+          "title": "Toto Wolff admite: «Muchos jefes de equipo en F1 son pilotos traumatizados y humillados»",
+          "summary": "Quien dirige la escuadra Mercedes AMG F1, referente del presente campeonato mundial con Antonelli y Russell, señaló como pretenden \"compensar\" sus magras campañas en la pista, ahora desde los boxes.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-F1-Team-Boss.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T17:43:43.000Z",
+          "addedAt": "2026-10-18T18:11:26.490Z",
+          "category": "general",
+          "tag": "F1"
         }
       ]
     },
     {
       "page": 4,
-      "createdAt": "2026-10-19T17:03:28.133Z",
+      "createdAt": "2026-10-19T18:11:37.984Z",
       "items": [
         {
           "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
@@ -1260,6 +1245,21 @@
           "language": "es",
           "publishedAt": "2026-10-16T19:41:21.000Z",
           "addedAt": "2026-10-18T07:11:27.249Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc-mouras-alaux-domino-la-clasificacion-por-3a-fecha-seguida",
+          "title": "TC Mouras: Alaux dominó la clasificación por 3ª fecha seguida",
+          "summary": "El piloto del Galarza Racing se quedó con la “pole” en el autódromo de La Plata, donde se realiza la 1ª fecha de la Copa Coronación 2026, luego de aventajar con su Dodge a la Chevy de Francisco Luengo por 0s092.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-mouras-alaux-domino-la-clasificacion-por-3a-fecha-seguida/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Alaux-TCM-2026.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T20:49:43.000Z",
+          "addedAt": "2026-10-18T07:11:27.320Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1392,7 +1392,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T17:03:19.931Z",
+          "publishedAt": "2026-10-19T18:11:27.236Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1407,7 +1407,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/compromise-and-identifying-balance-how-i-race-with-oliver-goethe.lJ9hC0P9x3eT7CLWC06g5",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T17:03:19.930Z",
+          "publishedAt": "2026-10-19T18:11:27.236Z",
           "addedAt": "2026-10-19T10:11:26.693Z",
           "category": "support",
           "tag": "F2",
@@ -1422,7 +1422,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T17:03:19.931Z",
+          "publishedAt": "2026-10-19T18:11:27.236Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1437,7 +1437,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/mp-motorsport-confirm-the-signing-of-zhenrui-chi-for-the-2027-season.1ui1K3QRS2JqX8035h8L2V",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T17:03:20.367Z",
+          "publishedAt": "2026-10-19T18:11:26.869Z",
           "addedAt": "2026-10-19T17:03:20.367Z",
           "category": "support",
           "tag": "F3",
@@ -1452,7 +1452,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/maciej-gladysz-moves-to-mp-motorsport-for-the-2027-season.18Dxa0cPjncr97B42XsDtx",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T17:03:20.367Z",
+          "publishedAt": "2026-10-19T18:11:26.869Z",
           "addedAt": "2026-10-19T13:11:27.034Z",
           "category": "support",
           "tag": "F3",
@@ -1467,7 +1467,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season.6pNuXNjz2jZKtH17zSYQw4",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T17:03:20.367Z",
+          "publishedAt": "2026-10-19T18:11:26.869Z",
           "addedAt": "2026-10-19T08:11:27.183Z",
           "category": "support",
           "tag": "F3",
@@ -1482,7 +1482,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T17:00:21.860Z",
+          "publishedAt": "2026-10-19T18:08:28.514Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1497,12 +1497,18 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T16:58:21.860Z",
+          "publishedAt": "2026-10-19T18:06:28.514Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
           "series": "F1 Academy"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-19T18:11:37.984Z",
+      "items": [
         {
           "id": "www-f1academy-com-latest-7kuxkn4epbirez6hesruwr-competition-win-a-one-of-a-kind-pair-of-f1-academy-custom-tecovas-annie-",
           "title": "COMPETITION: Win a one-of-a-kind pair of F1 ACADEMY custom Tecovas Annie Boots",
@@ -1512,7 +1518,7 @@
           "url": "https://www.f1academy.com/Latest/7kuxkn4EPBirEZ6hESRuwr/competition-win-a-one-of-a-kind-pair-of-f1-academy-custom-tecovas-annie-boots",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T17:03:21.860Z",
+          "publishedAt": "2026-10-19T18:11:28.514Z",
           "addedAt": "2026-10-19T10:11:29.840Z",
           "category": "support",
           "tag": "F1 Academy",
