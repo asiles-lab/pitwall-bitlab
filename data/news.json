@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T18:11:26.398Z",
-  "checkedAt": "2026-10-19T18:11:26.398Z",
+  "updatedAt": "2026-10-19T19:11:26.434Z",
+  "checkedAt": "2026-10-19T19:11:26.434Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-tc-mouras-luengo-marco-el-rumbo-en-la-ultima-practica-platense",
-      "title": "TC Mouras: Luengo marcó el rumbo en la última práctica platense",
-      "summary": "El único representante de Chevrolet en la categoría aventajó por 0s172 al piloto del Galarza Racing en el segundo ensayo de la 1ª fecha de la Copa Coronación 2026.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-mouras-luengo-marco-el-rumbo-en-la-ultima-practica-platense/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Luengo-TCM-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-17T18:35:57.000Z",
-      "addedAt": "2026-10-18T07:11:27.396Z",
-      "category": "general",
-      "tag": "F1"
-    },
     {
       "id": "campeones-com-ar-tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata",
       "title": "TC Pick Up: Palazzo es la primera referencia en el regreso a La Plata",
@@ -403,7 +388,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-19T18:11:37.984Z",
+      "createdAt": "2026-10-19T19:11:28.394Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-mattia-colnaghi-campos-racing-formula-3-2027-id767199-html",
@@ -679,7 +664,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-19T18:11:37.984Z",
+      "createdAt": "2026-10-19T19:11:28.394Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
@@ -955,7 +940,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-19T18:11:37.984Z",
+      "createdAt": "2026-10-19T19:11:28.394Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1231,7 +1216,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-19T18:11:37.984Z",
+      "createdAt": "2026-10-19T19:11:28.394Z",
       "items": [
         {
           "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
@@ -1260,6 +1245,21 @@
           "language": "es",
           "publishedAt": "2026-10-17T20:49:43.000Z",
           "addedAt": "2026-10-18T07:11:27.320Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc-mouras-luengo-marco-el-rumbo-en-la-ultima-practica-platense",
+          "title": "TC Mouras: Luengo marcó el rumbo en la última práctica platense",
+          "summary": "El único representante de Chevrolet en la categoría aventajó por 0s172 al piloto del Galarza Racing en el segundo ensayo de la 1ª fecha de la Copa Coronación 2026.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-mouras-luengo-marco-el-rumbo-en-la-ultima-practica-platense/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Luengo-TCM-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T18:35:57.000Z",
+          "addedAt": "2026-10-18T07:11:27.396Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1392,7 +1392,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T18:11:27.236Z",
+          "publishedAt": "2026-10-19T19:11:26.847Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1407,7 +1407,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/compromise-and-identifying-balance-how-i-race-with-oliver-goethe.lJ9hC0P9x3eT7CLWC06g5",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T18:11:27.236Z",
+          "publishedAt": "2026-10-19T19:11:26.846Z",
           "addedAt": "2026-10-19T10:11:26.693Z",
           "category": "support",
           "tag": "F2",
@@ -1422,7 +1422,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T18:11:27.236Z",
+          "publishedAt": "2026-10-19T19:11:26.846Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1437,7 +1437,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/mp-motorsport-confirm-the-signing-of-zhenrui-chi-for-the-2027-season.1ui1K3QRS2JqX8035h8L2V",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T18:11:26.869Z",
+          "publishedAt": "2026-10-19T19:11:27.038Z",
           "addedAt": "2026-10-19T17:03:20.367Z",
           "category": "support",
           "tag": "F3",
@@ -1452,7 +1452,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/maciej-gladysz-moves-to-mp-motorsport-for-the-2027-season.18Dxa0cPjncr97B42XsDtx",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T18:11:26.869Z",
+          "publishedAt": "2026-10-19T19:11:27.038Z",
           "addedAt": "2026-10-19T13:11:27.034Z",
           "category": "support",
           "tag": "F3",
@@ -1467,7 +1467,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season.6pNuXNjz2jZKtH17zSYQw4",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T18:11:26.869Z",
+          "publishedAt": "2026-10-19T19:11:27.038Z",
           "addedAt": "2026-10-19T08:11:27.183Z",
           "category": "support",
           "tag": "F3",
@@ -1482,22 +1482,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T18:08:28.514Z",
-          "addedAt": "2026-10-18T07:11:27.980Z",
-          "category": "support",
-          "tag": "F1 Academy",
-          "series": "F1 Academy"
-        },
-        {
-          "id": "www-f1academy-com-latest-5uqm9adwjr1l7emv71y4lp-ferreira-penalised-following-silverstone-feature-race",
-          "title": "Ferreira penalised following Silverstone Feature Race",
-          "summary": "Ferreira penalised following Silverstone Feature Race",
-          "source": "F1 Academy",
-          "sourceLabel": "F1 Academy",
-          "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-19T18:06:28.514Z",
+          "publishedAt": "2026-10-19T19:08:28.388Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1507,8 +1492,23 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-19T18:11:37.984Z",
+      "createdAt": "2026-10-19T19:11:28.394Z",
       "items": [
+        {
+          "id": "www-f1academy-com-latest-5uqm9adwjr1l7emv71y4lp-ferreira-penalised-following-silverstone-feature-race",
+          "title": "Ferreira penalised following Silverstone Feature Race",
+          "summary": "Ferreira penalised following Silverstone Feature Race",
+          "source": "F1 Academy",
+          "sourceLabel": "F1 Academy",
+          "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
+          "image": "",
+          "language": "en",
+          "publishedAt": "2026-10-19T19:06:28.388Z",
+          "addedAt": "2026-10-18T07:11:27.980Z",
+          "category": "support",
+          "tag": "F1 Academy",
+          "series": "F1 Academy"
+        },
         {
           "id": "www-f1academy-com-latest-7kuxkn4epbirez6hesruwr-competition-win-a-one-of-a-kind-pair-of-f1-academy-custom-tecovas-annie-",
           "title": "COMPETITION: Win a one-of-a-kind pair of F1 ACADEMY custom Tecovas Annie Boots",
@@ -1518,7 +1518,7 @@
           "url": "https://www.f1academy.com/Latest/7kuxkn4EPBirEZ6hESRuwr/competition-win-a-one-of-a-kind-pair-of-f1-academy-custom-tecovas-annie-boots",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T18:11:28.514Z",
+          "publishedAt": "2026-10-19T19:11:28.388Z",
           "addedAt": "2026-10-19T10:11:29.840Z",
           "category": "support",
           "tag": "F1 Academy",
