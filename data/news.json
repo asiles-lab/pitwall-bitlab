@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T23:11:26.116Z",
-  "checkedAt": "2026-10-18T23:11:26.116Z",
+  "updatedAt": "2026-10-19T00:08:58.708Z",
+  "checkedAt": "2026-10-19T00:08:58.708Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,36 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata",
-      "title": "TC Pista Pick Up: \"pole\" de Santiago Biagi en La Plata | Campeones",
-      "summary": "Se adjudicó la clasificación en La Plata tras una gran primera vuelta, por lo que largará adelante la primera serie con la Toyota del Rus Med team. Fue escoltado por Faustino Cifre (Ford), líder de las prácticas.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/80139_big.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-17T19:12:56.000Z",
-      "addedAt": "2026-10-18T07:11:27.371Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-damian-perez-domino-el-primer-ensayo-de-tc-pista-mouras",
-      "title": "Damián Pérez e Ignacio Lovich dominaron los ensayos de TC Pista Mouras | Campeones",
-      "summary": "En La Plata, la categoría inicia el playoff rumbo a la recta final del campeonato. Los Dodge fueron quienes se adjudicaron las tandas, primero el del José C. Paz Racing (el más veloz) y luego el del Canning Motorsport.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/damian-perez-domino-el-primer-ensayo-de-tc-pista-mouras/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/PHOTO-2026-10-17-11-59-35.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-17T18:15:01.000Z",
-      "addedAt": "2026-10-18T07:11:27.463Z",
-      "category": "general",
-      "tag": "F1"
-    },
     {
       "id": "campeones-com-ar-victoria-de-santiago-urrutia-en-tcr-world-tour",
       "title": "Victoria de Santiago Urrutia en TCR World Tour",
@@ -748,7 +718,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-18T23:11:28.703Z",
+      "createdAt": "2026-10-19T00:09:06.488Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
@@ -781,21 +751,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-formula-1-2026-resena-de-un-ano-complicado",
-          "title": "Fórmula 1 2026: reseña de un año complicado | Campeones",
-          "summary": "La temporada 2026 expone las falencias de un reglamento que puso la gestión de energía por encima de la habilidad de los pilotos. En esta nota, el análisis del dominio de Mercedes, los cambios que la Fórmula 1 proyecta para el próximo ciclo de motores, la situación de Franco Colapinto y lo que resta de aquí a fin de año…",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/formula-1-2026-resena-de-un-ano-complicado/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/andrea-kimi-antonelli-mercedes-9.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-18T12:04:11.000Z",
-          "addedAt": "2026-10-18T16:11:26.502Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-briatore-colapinto-formula-1-id766372-html",
           "title": "La reacción de Briatore al video de Colapinto por los mensajes de odio en redes sociales",
           "summary": "El asesor de Alpine comentó la publicación del argentino, quien reclamó terminar con las agresiones hacia pilotos, mecánicos y compañeros de equipo.",
@@ -822,6 +777,21 @@
           "language": "es",
           "publishedAt": "2026-10-14T20:22:04.000Z",
           "addedAt": "2026-10-18T07:11:27.966Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-formula-1-2026-resena-de-un-ano-complicado",
+          "title": "Fórmula 1 2026: reseña de un año complicado | Campeones",
+          "summary": "La temporada 2026 expone las falencias de un reglamento que puso la gestión de energía por encima de la habilidad de los pilotos. En esta nota, el análisis del dominio de Mercedes, los cambios que la Fórmula 1 proyecta para el próximo ciclo de motores, la situación de Franco Colapinto y lo que resta de aquí a fin de año…",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/formula-1-2026-resena-de-un-ano-complicado/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/andrea-kimi-antonelli-mercedes-9.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T12:04:11.000Z",
+          "addedAt": "2026-10-18T16:11:26.502Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1024,7 +994,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-18T23:11:28.703Z",
+      "createdAt": "2026-10-19T00:09:06.488Z",
       "items": [
         {
           "id": "campeones-com-ar-otra-pole-position-de-mariano-werner-en-tc-pick-up",
@@ -1132,6 +1102,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata",
+          "title": "TC Pista Pick Up: \"pole\" de Santiago Biagi en La Plata | Campeones",
+          "summary": "Se adjudicó la clasificación en La Plata tras una gran primera vuelta, por lo que largará adelante la primera serie con la Toyota del Rus Med team. Fue escoltado por Faustino Cifre (Ford), líder de las prácticas.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/80139_big.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T19:12:56.000Z",
+          "addedAt": "2026-10-18T07:11:27.371Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
           "title": "La F1 confirmó la vuelta de los motores V8: qué dijo Ben Sulayem",
           "summary": "La categoría prepara un cambio importante en sus unidades de potencia, con autos más livianos y menores costos de desarrollo. La novedad se conoció durante la presentación de una futura carrera en África.",
@@ -1192,21 +1177,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
-          "title": "TCR World Tour: Urrutia cerró con otro triunfo la fecha en Chengdu",
-          "summary": "El uruguayo se impuso en la última competencia de la sexta ronda del calendario y acortó la brecha con Azcona a 23 puntos; el francés Comte también celebró en la segunda carrera.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-TCRWT-Urrutia.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-18T12:02:45.000Z",
-          "addedAt": "2026-10-18T12:11:26.944Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-corrio-en-el-tc-fue-campeon-del-tc-pista-y-ahora-atiende-un-minimercado-en-san-juan-id76",
           "title": "Corrió en el TC, fue campeón del TC Pista y ahora atiende un minimercado en San Juan",
           "summary": "El cuyano tuvo una carrera ligada al automovilismo desde su debut en 1992. En el 98 hizo su estreno en el Turismo Carretera y un año después fue campeón en Pista. Hoy está alejado, aunque nunca de manera definitiva, y se dedica a un emprendimiento personal.",
@@ -1218,6 +1188,21 @@
           "language": "es",
           "publishedAt": "2026-10-14T14:30:28.000Z",
           "addedAt": "2026-10-18T07:11:28.079Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
+          "title": "TCR World Tour: Urrutia cerró con otro triunfo la fecha en Chengdu",
+          "summary": "El uruguayo se impuso en la última competencia de la sexta ronda del calendario y acortó la brecha con Azcona a 23 puntos; el francés Comte también celebró en la segunda carrera.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-TCRWT-Urrutia.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T12:02:45.000Z",
+          "addedAt": "2026-10-18T12:11:26.944Z",
           "category": "general",
           "tag": "Carrera"
         },
@@ -1267,6 +1252,27 @@
           "tag": "F1"
         },
         {
+          "id": "campeones-com-ar-damian-perez-domino-el-primer-ensayo-de-tc-pista-mouras",
+          "title": "Damián Pérez e Ignacio Lovich dominaron los ensayos de TC Pista Mouras | Campeones",
+          "summary": "En La Plata, la categoría inicia el playoff rumbo a la recta final del campeonato. Los Dodge fueron quienes se adjudicaron las tandas, primero el del José C. Paz Racing (el más veloz) y luego el del Canning Motorsport.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/damian-perez-domino-el-primer-ensayo-de-tc-pista-mouras/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/PHOTO-2026-10-17-11-59-35.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T18:15:01.000Z",
+          "addedAt": "2026-10-18T07:11:27.463Z",
+          "category": "general",
+          "tag": "F1"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "createdAt": "2026-10-19T00:09:06.488Z",
+      "items": [
+        {
           "id": "www-fiaformula2-com-en-latest-article-laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season-3iw2qus8deyahpaz0x6q",
           "title": "Laurens van Hoepen moves to MP Motorsport for the 2027 season",
           "summary": "",
@@ -1275,7 +1281,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T23:11:26.711Z",
+          "publishedAt": "2026-10-19T00:08:59.337Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1290,18 +1296,12 @@
           "url": "https://www.fiaformula2.com/en/latest/article/brando-badoer-steps-up-with-rodin-motorsport-for-the-2027-season.UDtAkhCHSXFaJsumchvtp",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T23:11:26.711Z",
+          "publishedAt": "2026-10-19T00:08:59.337Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
           "series": "F2"
-        }
-      ]
-    },
-    {
-      "page": 3,
-      "createdAt": "2026-10-18T23:11:28.703Z",
-      "items": [
+        },
         {
           "id": "www-fiaformula2-com-en-latest-article-formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut-1yszpy0frgedj",
           "title": "Formula 2 in 2022: A title-winning reunion alongside an epic F1 debut",
@@ -1311,7 +1311,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T23:11:26.711Z",
+          "publishedAt": "2026-10-19T00:08:59.336Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1326,7 +1326,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/alessandro-giusti-completes-rodin-motorsport-lineup-for-2027-season.qAnp63wtuP65vnruxzaRW",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T23:11:26.696Z",
+          "publishedAt": "2026-10-19T00:08:59.791Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1341,7 +1341,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion.1vJiOkqvrpxUriVtIdwElZ",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T23:11:26.696Z",
+          "publishedAt": "2026-10-19T00:08:59.791Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1356,7 +1356,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/rafael-camara-signs-with-haas-f1-team-for-2027-season.1dC04JHoQpb2747rfHxxKj",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T23:11:26.696Z",
+          "publishedAt": "2026-10-19T00:08:59.791Z",
           "addedAt": "2026-10-18T22:11:26.861Z",
           "category": "support",
           "tag": "F3",
@@ -1371,7 +1371,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T23:09:28.696Z",
+          "publishedAt": "2026-10-19T00:07:01.249Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1386,7 +1386,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T23:07:28.696Z",
+          "publishedAt": "2026-10-19T00:05:01.249Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1401,7 +1401,7 @@
           "url": "https://www.f1academy.com/Latest/iSGDz01GZU5rrs7iQrDg9/larsen-to-return-for-third-f1-academy-campaign-in-2027-with-ferrari",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-18T23:11:28.696Z",
+          "publishedAt": "2026-10-19T00:09:01.249Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
