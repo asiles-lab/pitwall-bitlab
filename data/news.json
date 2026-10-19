@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T08:11:26.236Z",
-  "checkedAt": "2026-10-19T08:11:26.236Z",
+  "updatedAt": "2026-10-19T09:11:27.020Z",
+  "checkedAt": "2026-10-19T09:11:27.020Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
-      "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
-      "summary": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-entradas-id763683.html",
-      "image": "https://media.tycsports.com/files/2025/01/20/804453/motogp-en-termas_1440x810.webp?v=2",
-      "body": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.\n\nEl Moto GP llegará a Buenos Aires en abril de 2027 + Seguinos en El MotoGP ya tiene los precios de las entradas para su regreso a la Ciudad de Buenos Aires. El Gran Premio se disputará del 9 al 11 de abril en el renovado circuito porteño, que volverá a recibir a la máxima categoría del motociclismo mundial.\n\nEl valor de los tickets parte desde $194.520 para una ubicación en la recta y llega hasta $5.349.300 para el acceso al Apex Club Elite, la alternativa de mayor costo. Entre ambos extremos, habrá distintas opciones de localidades y experiencias para los espectadores.\n\nLa venta se realizará a través del sitio oficial de tickets de MotoGP. Además, entre el 1 y el 7 de octubre habrá una preventa exclusiva para clientes de Banco Ciudad, con la posibilidad de abonar en hasta seis cuotas sin interés.",
-      "language": "es",
-      "publishedAt": "2026-09-30T22:03:28.000Z",
-      "addedAt": "2026-10-18T07:11:28.259Z",
-      "category": "general",
-      "tag": "F1"
-    },
     {
       "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
       "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
@@ -478,7 +463,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-19T08:11:28.122Z",
+      "createdAt": "2026-10-19T09:11:29.683Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
@@ -754,7 +739,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-19T08:11:28.122Z",
+      "createdAt": "2026-10-19T09:11:29.683Z",
       "items": [
         {
           "id": "campeones-com-ar-tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria",
@@ -1030,7 +1015,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-19T08:11:28.122Z",
+      "createdAt": "2026-10-19T09:11:29.683Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1258,6 +1243,21 @@
           "tag": "Mercado"
         },
         {
+          "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
+          "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
+          "summary": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-entradas-id763683.html",
+          "image": "https://media.tycsports.com/files/2025/01/20/804453/motogp-en-termas_1440x810.webp?v=2",
+          "body": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.\n\nEl Moto GP llegará a Buenos Aires en abril de 2027 + Seguinos en El MotoGP ya tiene los precios de las entradas para su regreso a la Ciudad de Buenos Aires. El Gran Premio se disputará del 9 al 11 de abril en el renovado circuito porteño, que volverá a recibir a la máxima categoría del motociclismo mundial.\n\nEl valor de los tickets parte desde $194.520 para una ubicación en la recta y llega hasta $5.349.300 para el acceso al Apex Club Elite, la alternativa de mayor costo. Entre ambos extremos, habrá distintas opciones de localidades y experiencias para los espectadores.\n\nLa venta se realizará a través del sitio oficial de tickets de MotoGP. Además, entre el 1 y el 7 de octubre habrá una preventa exclusiva para clientes de Banco Ciudad, con la posibilidad de abonar en hasta seis cuotas sin interés.",
+          "language": "es",
+          "publishedAt": "2026-09-30T22:03:28.000Z",
+          "addedAt": "2026-10-18T07:11:28.259Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
           "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
           "summary": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué…",
@@ -1281,22 +1281,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T08:11:27.205Z",
-          "addedAt": "2026-10-18T07:11:27.543Z",
-          "category": "support",
-          "tag": "F2",
-          "series": "F2"
-        },
-        {
-          "id": "www-fiaformula2-com-en-latest-article-brando-badoer-steps-up-with-rodin-motorsport-for-the-2027-season-udtakhchsxfajsumc",
-          "title": "Brando Badoer steps up with Rodin Motorsport for the 2027 season",
-          "summary": "",
-          "source": "Formula 2",
-          "sourceLabel": "Formula 2",
-          "url": "https://www.fiaformula2.com/en/latest/article/brando-badoer-steps-up-with-rodin-motorsport-for-the-2027-season.UDtAkhCHSXFaJsumchvtp",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-19T08:11:27.205Z",
+          "publishedAt": "2026-10-19T09:11:27.944Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1306,8 +1291,23 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-19T08:11:28.122Z",
+      "createdAt": "2026-10-19T09:11:29.683Z",
       "items": [
+        {
+          "id": "www-fiaformula2-com-en-latest-article-brando-badoer-steps-up-with-rodin-motorsport-for-the-2027-season-udtakhchsxfajsumc",
+          "title": "Brando Badoer steps up with Rodin Motorsport for the 2027 season",
+          "summary": "",
+          "source": "Formula 2",
+          "sourceLabel": "Formula 2",
+          "url": "https://www.fiaformula2.com/en/latest/article/brando-badoer-steps-up-with-rodin-motorsport-for-the-2027-season.UDtAkhCHSXFaJsumchvtp",
+          "image": "",
+          "language": "en",
+          "publishedAt": "2026-10-19T09:11:27.944Z",
+          "addedAt": "2026-10-18T07:11:27.543Z",
+          "category": "support",
+          "tag": "F2",
+          "series": "F2"
+        },
         {
           "id": "www-fiaformula2-com-en-latest-article-formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut-1yszpy0frgedj",
           "title": "Formula 2 in 2022: A title-winning reunion alongside an epic F1 debut",
@@ -1317,26 +1317,11 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T08:11:27.205Z",
+          "publishedAt": "2026-10-19T09:11:27.943Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
           "series": "F2"
-        },
-        {
-          "id": "www-fiaformula3-com-en-latest-article-alessandro-giusti-completes-rodin-motorsport-lineup-for-2027-season-qanp63wtup65vn",
-          "title": "Alessandro Giusti completes Rodin Motorsport lineup for 2027 season",
-          "summary": "",
-          "source": "Formula 3",
-          "sourceLabel": "Formula 3",
-          "url": "https://www.fiaformula3.com/en/latest/article/alessandro-giusti-completes-rodin-motorsport-lineup-for-2027-season.qAnp63wtuP65vnruxzaRW",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-19T08:11:27.183Z",
-          "addedAt": "2026-10-18T07:11:27.542Z",
-          "category": "support",
-          "tag": "F3",
-          "series": "F3"
         },
         {
           "id": "www-fiaformula3-com-en-latest-article-matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season-6pnuxnjz2jzkth17zsyq",
@@ -1347,8 +1332,23 @@
           "url": "https://www.fiaformula3.com/en/latest/article/matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season.6pNuXNjz2jZKtH17zSYQw4",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T08:11:27.182Z",
+          "publishedAt": "2026-10-19T09:11:27.932Z",
           "addedAt": "2026-10-19T08:11:27.183Z",
+          "category": "support",
+          "tag": "F3",
+          "series": "F3"
+        },
+        {
+          "id": "www-fiaformula3-com-en-latest-article-alessandro-giusti-completes-rodin-motorsport-lineup-for-2027-season-qanp63wtup65vn",
+          "title": "Alessandro Giusti completes Rodin Motorsport lineup for 2027 season",
+          "summary": "",
+          "source": "Formula 3",
+          "sourceLabel": "Formula 3",
+          "url": "https://www.fiaformula3.com/en/latest/article/alessandro-giusti-completes-rodin-motorsport-lineup-for-2027-season.qAnp63wtuP65vnruxzaRW",
+          "image": "",
+          "language": "en",
+          "publishedAt": "2026-10-19T09:11:27.932Z",
+          "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
@@ -1362,7 +1362,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion.1vJiOkqvrpxUriVtIdwElZ",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T08:11:27.183Z",
+          "publishedAt": "2026-10-19T09:11:27.932Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1377,7 +1377,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T08:09:27.872Z",
+          "publishedAt": "2026-10-19T09:09:29.492Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1392,7 +1392,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T08:07:27.872Z",
+          "publishedAt": "2026-10-19T09:07:29.492Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1407,7 +1407,7 @@
           "url": "https://www.f1academy.com/Latest/iSGDz01GZU5rrs7iQrDg9/larsen-to-return-for-third-f1-academy-campaign-in-2027-with-ferrari",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T08:11:27.872Z",
+          "publishedAt": "2026-10-19T09:11:29.492Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
