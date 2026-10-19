@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T04:11:26.255Z",
-  "checkedAt": "2026-10-19T04:11:26.255Z",
+  "updatedAt": "2026-10-19T05:11:27.001Z",
+  "checkedAt": "2026-10-19T05:11:27.001Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,36 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-canapino-sobre-balcarce-estuvo-espectacular",
-      "title": "Agustín Canapino sobre Balcarce: \"Estuvo espectacular\" | Campeones",
-      "summary": "El autódromo \"Juan Manuel Fangio\" ubicado en el Cerro La Barrosa volvió a tener actividad con el TC Pick Up y allí estuvo el \"Titán\", que le brindó a Campeones su apreciación sobre cómo quedó el histórico trazado.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/canapino-sobre-balcarce-estuvo-espectacular/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/gui8158-1790536724815-29540246-e1792069083834.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-15T12:58:11.000Z",
-      "addedAt": "2026-10-18T07:11:27.465Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana",
-      "title": "Julián Santero retorna a las Pick Up el próximo fin de semana | Campeones",
-      "summary": "El piloto mendocino es el inscripto N°14, retornando con la Ford Ranger del Magnoluz Racing desde el fin de semana.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/79254_big.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-14T19:27:49.000Z",
-      "addedAt": "2026-10-18T07:11:27.191Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet",
       "title": "Agustín Canapino y el mensaje para los hinchas de Chevrolet",
@@ -598,7 +568,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-19T04:11:56.918Z",
+      "createdAt": "2026-10-19T05:11:30.112Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
@@ -874,7 +844,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-19T04:11:56.918Z",
+      "createdAt": "2026-10-19T05:11:30.112Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
@@ -1072,6 +1042,36 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-canapino-sobre-balcarce-estuvo-espectacular",
+          "title": "Agustín Canapino sobre Balcarce: \"Estuvo espectacular\" | Campeones",
+          "summary": "El autódromo \"Juan Manuel Fangio\" ubicado en el Cerro La Barrosa volvió a tener actividad con el TC Pick Up y allí estuvo el \"Titán\", que le brindó a Campeones su apreciación sobre cómo quedó el histórico trazado.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/canapino-sobre-balcarce-estuvo-espectacular/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/gui8158-1790536724815-29540246-e1792069083834.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-15T12:58:11.000Z",
+          "addedAt": "2026-10-18T07:11:27.465Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana",
+          "title": "Julián Santero retorna a las Pick Up el próximo fin de semana | Campeones",
+          "summary": "El piloto mendocino es el inscripto N°14, retornando con la Ford Ranger del Magnoluz Racing desde el fin de semana.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/79254_big.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-14T19:27:49.000Z",
+          "addedAt": "2026-10-18T07:11:27.191Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
           "title": "La F1 confirmó la vuelta de los motores V8: qué dijo Ben Sulayem",
           "summary": "La categoría prepara un cambio importante en sus unidades de potencia, con autos más livianos y menores costos de desarrollo. La novedad se conoció durante la presentación de una futura carrera en África.",
@@ -1115,7 +1115,13 @@
           "addedAt": "2026-10-18T07:11:28.079Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "createdAt": "2026-10-19T05:11:30.112Z",
+      "items": [
         {
           "id": "campeones-com-ar-francisco-luengo-se-llevo-la-serie-del-tc-mouras",
           "title": "Francisco Luengo se llevó la serie del TC Mouras",
@@ -1145,13 +1151,7 @@
           "addedAt": "2026-10-18T13:11:26.745Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 3,
-      "createdAt": "2026-10-19T04:11:56.918Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
           "title": "TCR World Tour: Urrutia cerró con otro triunfo la fecha en Chengdu",
@@ -1273,21 +1273,6 @@
           "tag": "F1"
         },
         {
-          "id": "www-fiaformula2-com-en-latest-article-laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season-3iw2qus8deyahpaz0x6q",
-          "title": "Laurens van Hoepen moves to MP Motorsport for the 2027 season",
-          "summary": "",
-          "source": "Formula 2",
-          "sourceLabel": "Formula 2",
-          "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-19T04:11:26.912Z",
-          "addedAt": "2026-10-18T07:11:27.543Z",
-          "category": "support",
-          "tag": "F2",
-          "series": "F2"
-        },
-        {
           "id": "www-fiaformula2-com-en-latest-article-brando-badoer-steps-up-with-rodin-motorsport-for-the-2027-season-udtakhchsxfajsumc",
           "title": "Brando Badoer steps up with Rodin Motorsport for the 2027 season",
           "summary": "",
@@ -1296,7 +1281,22 @@
           "url": "https://www.fiaformula2.com/en/latest/article/brando-badoer-steps-up-with-rodin-motorsport-for-the-2027-season.UDtAkhCHSXFaJsumchvtp",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T04:11:26.912Z",
+          "publishedAt": "2026-10-19T05:11:27.974Z",
+          "addedAt": "2026-10-18T07:11:27.543Z",
+          "category": "support",
+          "tag": "F2",
+          "series": "F2"
+        },
+        {
+          "id": "www-fiaformula2-com-en-latest-article-laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season-3iw2qus8deyahpaz0x6q",
+          "title": "Laurens van Hoepen moves to MP Motorsport for the 2027 season",
+          "summary": "",
+          "source": "Formula 2",
+          "sourceLabel": "Formula 2",
+          "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
+          "image": "",
+          "language": "en",
+          "publishedAt": "2026-10-19T05:11:27.973Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1311,7 +1311,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T04:11:26.911Z",
+          "publishedAt": "2026-10-19T05:11:27.973Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1326,7 +1326,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/alessandro-giusti-completes-rodin-motorsport-lineup-for-2027-season.qAnp63wtuP65vnruxzaRW",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T04:11:26.973Z",
+          "publishedAt": "2026-10-19T05:11:27.966Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1341,7 +1341,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/gabriel-gomez-steps-up-to-fia-formula-3-with-ln4-fusion.1vJiOkqvrpxUriVtIdwElZ",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T04:11:26.973Z",
+          "publishedAt": "2026-10-19T05:11:27.965Z",
           "addedAt": "2026-10-18T07:11:27.542Z",
           "category": "support",
           "tag": "F3",
@@ -1356,7 +1356,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/rafael-camara-signs-with-haas-f1-team-for-2027-season.1dC04JHoQpb2747rfHxxKj",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T04:11:26.973Z",
+          "publishedAt": "2026-10-19T05:11:27.966Z",
           "addedAt": "2026-10-18T22:11:26.861Z",
           "category": "support",
           "tag": "F3",
@@ -1371,7 +1371,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T04:09:27.724Z",
+          "publishedAt": "2026-10-19T05:09:30.105Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1386,12 +1386,18 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T04:07:27.724Z",
+          "publishedAt": "2026-10-19T05:07:30.105Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
           "series": "F1 Academy"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-19T05:11:30.112Z",
+      "items": [
         {
           "id": "www-f1academy-com-latest-isgdz01gzu5rrs7iqrdg9-larsen-to-return-for-third-f1-academy-campaign-in-2027-with-ferrari",
           "title": "BREAKING NEWS Larsen to return for third F1 ACADEMY campaign in 2027 with Ferrari",
@@ -1401,7 +1407,7 @@
           "url": "https://www.f1academy.com/Latest/iSGDz01GZU5rrs7iQrDg9/larsen-to-return-for-third-f1-academy-campaign-in-2027-with-ferrari",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T04:11:27.724Z",
+          "publishedAt": "2026-10-19T05:11:30.105Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
