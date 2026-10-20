@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T21:26:33.652Z",
-  "checkedAt": "2026-10-19T21:26:33.652Z",
+  "updatedAt": "2026-10-20T00:30:06.815Z",
+  "checkedAt": "2026-10-20T00:30:06.815Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata",
-      "title": "TC Pick Up: Palazzo es la primera referencia en el regreso a La Plata",
-      "summary": "El pinamarense del EZE-B Team, que viene de lograr su 1ª victoria en la categoría en el retorno del automovilismo grande a Balcarce, resultó el más veloz en el entrenamiento que dio comienzo a la 2ª fecha de la Copa Coronación 2026.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Palazzo-TCPK-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-17T14:16:48.000Z",
-      "addedAt": "2026-10-18T07:11:27.161Z",
-      "category": "general",
-      "tag": "F1"
-    },
     {
       "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
       "title": "¿Qué esperar del nuevo jefe técnico de Alpine F1 Team?",
@@ -388,7 +373,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-19T21:26:42.028Z",
+      "createdAt": "2026-10-20T00:30:16.060Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-mattia-colnaghi-campos-racing-formula-3-2027-id767199-html",
@@ -404,21 +389,6 @@
           "addedAt": "2026-10-19T15:11:27.752Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
-          "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
-          "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-ranking-peor-f1-gp-singapur-id765831.html",
-          "image": "https://media.tycsports.com/files/2026/10/12/995348/franco_1440x810.webp?v=1",
-          "body": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.\n\nFranco Colapinto tuvo que abandonar en el GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto tuvo un fin de semana para el olvido en el Gran Premio de Singapur de Fórmula 1 . El piloto argentino sufrió dos abandonos, tanto en la Sprint como en la carrera principal, debido a problemas de fiabilidad en su Alpine y no pudo volver a sumar puntos. Ante este panorama, un medio inglés ubicó al #43 entre los peores de su ranking.\n\nSe trata de The Race , un medio especializado que confecciona un ranking luego de cada carrera en el que pondera la actuación de cada corredor. En Singapur, Colapinto ocupó el puesto 19, solo por delante de Alex Albon, Valtteri Bottas y Lance Stroll , quienes también sufrieron complicaciones con sus monoplazas.\n\n“El ritmo subyacente era mejor de lo que parecía, pero la clasificación no se optimizó al máximo” , fue el veredicto final del portal inglés respecto a la performance del #43.\n\n“En la clasificación al sprint, mantuvo un ritmo similar al de su compañero de equipo en Alpine, Gasly. Su eliminación en la segunda ronda de clasificación se debió exclusivamente al tiempo perdido por los frenos y a que los neumáticos no estaban a la temperatura adecuada para la primera curva. Llegó a ocupar brevemente el duodécimo puesto en la carrera al sprint antes de detenerse por un problema en la reserva de energía”, analizó The Race.",
-          "language": "es",
-          "publishedAt": "2026-10-12T21:27:52.000Z",
-          "addedAt": "2026-10-18T07:11:28.307Z",
-          "category": "argentino",
-          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-sigue-el-idilio-de-lando-norris-con-franco-colapinto-es-una-carta-muy-bonita-id766880-ht",
@@ -479,6 +449,21 @@
           "addedAt": "2026-10-19T13:11:27.204Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
+          "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
+          "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-ranking-peor-f1-gp-singapur-id765831.html",
+          "image": "https://media.tycsports.com/files/2026/10/12/995348/franco_1440x810.webp?v=1",
+          "body": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.\n\nFranco Colapinto tuvo que abandonar en el GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto tuvo un fin de semana para el olvido en el Gran Premio de Singapur de Fórmula 1 . El piloto argentino sufrió dos abandonos, tanto en la Sprint como en la carrera principal, debido a problemas de fiabilidad en su Alpine y no pudo volver a sumar puntos. Ante este panorama, un medio inglés ubicó al #43 entre los peores de su ranking.\n\nSe trata de The Race , un medio especializado que confecciona un ranking luego de cada carrera en el que pondera la actuación de cada corredor. En Singapur, Colapinto ocupó el puesto 19, solo por delante de Alex Albon, Valtteri Bottas y Lance Stroll , quienes también sufrieron complicaciones con sus monoplazas.\n\n“El ritmo subyacente era mejor de lo que parecía, pero la clasificación no se optimizó al máximo” , fue el veredicto final del portal inglés respecto a la performance del #43.\n\n“En la clasificación al sprint, mantuvo un ritmo similar al de su compañero de equipo en Alpine, Gasly. Su eliminación en la segunda ronda de clasificación se debió exclusivamente al tiempo perdido por los frenos y a que los neumáticos no estaban a la temperatura adecuada para la primera curva. Llegó a ocupar brevemente el duodécimo puesto en la carrera al sprint antes de detenerse por un problema en la reserva de energía”, analizó The Race.",
+          "language": "es",
+          "publishedAt": "2026-10-12T21:27:52.000Z",
+          "addedAt": "2026-10-18T07:11:28.307Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
@@ -664,7 +649,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-19T21:26:42.028Z",
+      "createdAt": "2026-10-20T00:30:16.060Z",
       "items": [
         {
           "id": "campeones-com-ar-otra-pole-position-de-mariano-werner-en-tc-pick-up",
@@ -940,7 +925,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-19T21:26:42.028Z",
+      "createdAt": "2026-10-20T00:30:16.060Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1216,7 +1201,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-19T21:26:42.028Z",
+      "createdAt": "2026-10-20T00:30:16.060Z",
       "items": [
         {
           "id": "campeones-com-ar-toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados",
@@ -1260,6 +1245,21 @@
           "language": "es",
           "publishedAt": "2026-10-17T18:35:57.000Z",
           "addedAt": "2026-10-18T07:11:27.396Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata",
+          "title": "TC Pick Up: Palazzo es la primera referencia en el regreso a La Plata",
+          "summary": "El pinamarense del EZE-B Team, que viene de lograr su 1ª victoria en la categoría en el retorno del automovilismo grande a Balcarce, resultó el más veloz en el entrenamiento que dio comienzo a la 2ª fecha de la Copa Coronación 2026.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Palazzo-TCPK-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T14:16:48.000Z",
+          "addedAt": "2026-10-18T07:11:27.161Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1422,7 +1422,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T21:26:34.502Z",
+          "publishedAt": "2026-10-20T00:30:07.794Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1437,7 +1437,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/compromise-and-identifying-balance-how-i-race-with-oliver-goethe.lJ9hC0P9x3eT7CLWC06g5",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T21:26:34.501Z",
+          "publishedAt": "2026-10-20T00:30:07.792Z",
           "addedAt": "2026-10-19T10:11:26.693Z",
           "category": "support",
           "tag": "F2",
@@ -1452,7 +1452,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T21:26:34.501Z",
+          "publishedAt": "2026-10-20T00:30:07.793Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1467,12 +1467,18 @@
           "url": "https://www.fiaformula3.com/en/latest/article/mp-motorsport-confirm-the-signing-of-zhenrui-chi-for-the-2027-season.1ui1K3QRS2JqX8035h8L2V",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T21:26:34.725Z",
+          "publishedAt": "2026-10-20T00:30:07.952Z",
           "addedAt": "2026-10-19T17:03:20.367Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-20T00:30:16.060Z",
+      "items": [
         {
           "id": "www-fiaformula3-com-en-latest-article-maciej-gladysz-moves-to-mp-motorsport-for-the-2027-season-18dxa0cpjncr97b42xsdtx",
           "title": "Maciej Gladysz moves to MP Motorsport for the 2027 season",
@@ -1482,18 +1488,12 @@
           "url": "https://www.fiaformula3.com/en/latest/article/maciej-gladysz-moves-to-mp-motorsport-for-the-2027-season.18Dxa0cPjncr97B42XsDtx",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T21:26:34.725Z",
+          "publishedAt": "2026-10-20T00:30:07.952Z",
           "addedAt": "2026-10-19T13:11:27.034Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-19T21:26:42.028Z",
-      "items": [
+        },
         {
           "id": "www-fiaformula3-com-en-latest-article-matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season-6pnuxnjz2jzkth17zsyq",
           "title": "Matteo De Palo returns with MP Motorsport for the 2027 season",
@@ -1503,7 +1503,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season.6pNuXNjz2jZKtH17zSYQw4",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T21:26:34.725Z",
+          "publishedAt": "2026-10-20T00:30:07.952Z",
           "addedAt": "2026-10-19T08:11:27.183Z",
           "category": "support",
           "tag": "F3",
@@ -1518,7 +1518,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T21:23:36.114Z",
+          "publishedAt": "2026-10-20T00:27:10.175Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1533,7 +1533,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T21:21:36.114Z",
+          "publishedAt": "2026-10-20T00:25:10.175Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1548,7 +1548,7 @@
           "url": "https://www.f1academy.com/Latest/7kuxkn4EPBirEZ6hESRuwr/competition-win-a-one-of-a-kind-pair-of-f1-academy-custom-tecovas-annie-boots",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-19T21:26:36.114Z",
+          "publishedAt": "2026-10-20T00:30:10.175Z",
           "addedAt": "2026-10-19T10:11:29.840Z",
           "category": "support",
           "tag": "F1 Academy",
