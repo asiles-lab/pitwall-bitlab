@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T10:13:56.295Z",
-  "checkedAt": "2026-10-20T10:13:56.295Z",
+  "updatedAt": "2026-10-20T15:14:17.792Z",
+  "checkedAt": "2026-10-20T15:14:17.792Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,36 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-verstappen-opino-sobre-realizar-los-gg-pp-de-f1-en-qatar-y-abu-dhabi",
+      "title": "Verstappen opinó sobre realizar los GG. PP. de F1 en Qatar y Abu Dhabi",
+      "summary": "El piloto de Red Bull aclaró que estar en ambas competencias le «encantaría, pero bajo las condiciones adecuadas».",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/verstappen-opino-sobre-realizar-los-gg-pp-de-f1-en-qatar-y-abu-dhabi/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-F1-Abu-Dhabi.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-20T14:34:18.000Z",
+      "addedAt": "2026-10-20T15:14:20.753Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-motogp-cierra-la-lista-de-pilotos-para-el-2027-con-el-ultimo-pase-confirmado",
+      "title": "MotoGP cierra la lista de pilotos para el 2027 con el último pase confirmado",
+      "summary": "La llegada de Diogo Moreira al equipo Honda HRC y de David Alonso al equipo satélite completa la grilla de MotoGP 2027.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/motogp-cierra-la-lista-de-pilotos-para-el-2027-con-el-ultimo-pase-confirmado/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260912-MotoGP-Sprint-Misano.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-20T13:03:16.000Z",
+      "addedAt": "2026-10-20T15:14:20.787Z",
+      "category": "general",
+      "tag": "F1"
+    },
     {
       "id": "campeones-com-ar-el-turismo-carretera-2000-ingresa-en-etapa-de-definicion",
       "title": "El Turismo Carretera 2000 ingresa en etapa de definición",
@@ -343,7 +373,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-20T10:14:03.173Z",
+      "createdAt": "2026-10-20T15:14:25.363Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-mattia-colnaghi-campos-racing-formula-3-2027-id767199-html",
@@ -421,36 +451,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3",
-          "title": "Mattia Colnaghi ingresa al equipo campeón de la Fórmula 3",
-          "summary": "Luego de su paso por el MP Motorsport, el representante argentino estará compitiendo junto al Campos Racing en su segunda temporada dentro de la especialidad.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MATTIA-COLNAGHI-FORMJULA-3.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-19T13:36:15.000Z",
-          "addedAt": "2026-10-19T13:11:27.204Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
-          "title": "Revista Campeones: Fain lideró un histórico 1-2 de Torino en el TC",
-          "summary": "Avanza la Copa de Oro del Turismo Carretera y se mezclan las marcas en la batalla por la corona más buscada del deporte motor argentino.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-Resvista-Fain-Chapur-Dos-Toros-Audaces.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-19T10:15:47.000Z",
-          "addedAt": "2026-10-19T13:11:27.029Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-formula-1-2026-resena-de-un-ano-complicado",
           "title": "Fórmula 1 2026: reseña de un año complicado | Campeones",
           "summary": "La temporada 2026 expone las falencias de un reglamento que puso la gestión de energía por encima de la habilidad de los pilotos. En esta nota, el análisis del dominio de Mercedes, los cambios que la Fórmula 1 proyecta para el próximo ciclo de motores, la situación de Franco Colapinto y lo que resta de aquí a fin de año…",
@@ -526,6 +526,36 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3",
+          "title": "Mattia Colnaghi ingresa al equipo campeón de la Fórmula 3",
+          "summary": "Luego de su paso por el MP Motorsport, el representante argentino estará compitiendo junto al Campos Racing en su segunda temporada dentro de la especialidad.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MATTIA-COLNAGHI-FORMJULA-3.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T13:36:15.000Z",
+          "addedAt": "2026-10-19T13:11:27.204Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
+          "title": "Revista Campeones: Fain lideró un histórico 1-2 de Torino en el TC",
+          "summary": "Avanza la Copa de Oro del Turismo Carretera y se mezclan las marcas en la batalla por la corona más buscada del deporte motor argentino.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-Resvista-Fain-Chapur-Dos-Toros-Audaces.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T10:15:47.000Z",
+          "addedAt": "2026-10-19T13:11:27.029Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-un-argentino-se-toco-con-verstappen-y-lo-expuso-a-una-sancion-en-el-gt-world-challenge-i",
           "title": "Un argentino se tocó con Verstappen y lo expuso a una sanción en el GT World Challenge",
           "summary": "El incidente ocurrió en la curva 3 de Portimao durante los primeros minutos de la práctica. Los comisarios determinaron que el piloto de la Fórmula 1 fue el único responsable de la colisión.",
@@ -571,34 +601,19 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus",
-          "title": "'Pechito' López se enfoca en la próxima cita del WEC: \"Será la última carrera del Lexus\"",
-          "summary": "Los esfuerzos en la fecha de Barcelona no lograron recuperar al N°87 de los contratiempos y la vista está en la última del año.",
+          "id": "campeones-com-ar-canapino-lidera-por-1a-vez-en-tc-pick-up-y-alimenta-el-sueno-de-otra-triple-corona",
+          "title": "Canapino lidera por 1ª vez en TC Pick Up y alimenta el sueño de otra “Triple Corona”",
+          "summary": "Si bien no avizora un panorama del todo favorable en el TCPK, algo similar a lo que considera que sucede en el Turismo Carretera, el “Titán” tiene posibilidades concretas de repetir el hito de 2025, aunque esta vez el logro sería 100% Chevrolet.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/DPPI-WEC-Akkodis-Lopez-Lexus-Barcelona-2026-3.jpg",
+          "url": "https://campeones.com.ar/canapino-lidera-por-1a-vez-en-tc-pick-up-y-alimenta-el-sueno-de-otra-triple-corona/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TCPK-2026-1.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-19T15:03:50.000Z",
-          "addedAt": "2026-10-19T15:11:26.881Z",
+          "publishedAt": "2026-10-20T12:23:36.000Z",
+          "addedAt": "2026-10-20T15:14:19.344Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
-          "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
-          "summary": "Canapino es un fanático de toda expresión de la velocidad y ve a Colapinto \"muy asentado, firme, andando rápido y está consiguiendo puntos\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-y-Colapinto-imagen.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-13T13:48:02.000Z",
-          "addedAt": "2026-10-18T07:11:27.447Z",
-          "category": "argentino",
-          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-otra-pole-position-de-mariano-werner-en-tc-pick-up",
@@ -614,13 +629,7 @@
           "addedAt": "2026-10-18T07:11:27.209Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-20T10:14:03.173Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
           "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
@@ -633,6 +642,27 @@
           "language": "es",
           "publishedAt": "2026-10-14T00:47:43.000Z",
           "addedAt": "2026-10-18T07:11:27.984Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-20T15:14:25.363Z",
+      "items": [
+        {
+          "id": "campeones-com-ar-pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus",
+          "title": "'Pechito' López se enfoca en la próxima cita del WEC: \"Será la última carrera del Lexus\"",
+          "summary": "Los esfuerzos en la fecha de Barcelona no lograron recuperar al N°87 de los contratiempos y la vista está en la última del año.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/DPPI-WEC-Akkodis-Lopez-Lexus-Barcelona-2026-3.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T15:03:50.000Z",
+          "addedAt": "2026-10-19T15:11:26.881Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -648,21 +678,6 @@
           "language": "es",
           "publishedAt": "2026-10-17T16:06:03.000Z",
           "addedAt": "2026-10-18T07:11:27.364Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-contra-el-resto-estamos-parejos-dice-canapino",
-          "title": "\"Contra el resto estamos parejos\", dice Canapino",
-          "summary": "El líder de la Copa Shell V-Power de TC Pick Up ve una lucha ajustada, pero con un piloto por encima de todos en el rendimiento deportivo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/contra-el-resto-estamos-parejos-dice-canapino/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Agustin-Canapino-TC-Pick-Up-La-Plata-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-19T15:00:20.000Z",
-          "addedAt": "2026-10-19T21:26:35.934Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -742,6 +757,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-contra-el-resto-estamos-parejos-dice-canapino",
+          "title": "\"Contra el resto estamos parejos\", dice Canapino",
+          "summary": "El líder de la Copa Shell V-Power de TC Pick Up ve una lucha ajustada, pero con un piloto por encima de todos en el rendimiento deportivo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/contra-el-resto-estamos-parejos-dice-canapino/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Agustin-Canapino-TC-Pick-Up-La-Plata-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T15:00:20.000Z",
+          "addedAt": "2026-10-19T21:26:35.934Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria",
           "title": "TC Mouras: Fabrizio Maggini empezó la Copa Coronación con una victoria",
           "summary": "Tras largar 4º, el mendocino logró su 2º triunfo de la temporada 2026 con el Ford del RUS Med Team y se posicionó como nuevo escolta en el “play-off” de Nicolás Jaime (Dodge), que terminó 3º. Santiago Arrigoni (Dodge) completó el “1-2” del equipo arrecifeño.",
@@ -817,6 +847,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
+          "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
+          "summary": "Canapino es un fanático de toda expresión de la velocidad y ve a Colapinto \"muy asentado, firme, andando rápido y está consiguiendo puntos\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-y-Colapinto-imagen.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-13T13:48:02.000Z",
+          "addedAt": "2026-10-18T07:11:27.447Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-victoria-de-santiago-urrutia-en-tcr-world-tour",
           "title": "Victoria de Santiago Urrutia en TCR World Tour",
           "summary": "Con el Geely, el piloto uruguayo encabezó el \"1-2\" del equipo Cyan Racing en la pista china de Chengdu, escoltado por Yann Ehrlacher.",
@@ -875,27 +920,12 @@
           "addedAt": "2026-10-18T07:11:27.322Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-rosso-y-una-mirada-al-2027-del-tcr-con-la-evolucion-de-linkco",
-          "title": "Rosso y una mirada al 2027 del TCR con la evolución de Link&Co",
-          "summary": "El cordobés viajó a China y realizó pruebas en el Circuito internacional de Guangdong con miras al año entrante.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/rosso-y-una-mirada-al-2027-del-tcr-con-la-evolucion-de-linkco/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/LinkCo-03-Plus-en-China-con-Rosso.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-15T15:04:39.000Z",
-          "addedAt": "2026-10-18T07:11:27.177Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-20T10:14:03.173Z",
+      "createdAt": "2026-10-20T15:14:25.363Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -911,6 +941,21 @@
           "addedAt": "2026-10-18T07:11:27.970Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-era-una-promesa-de-la-f1-un-helicoptero-le-corto-el-brazo-y-termino-en-la-quiebra-id7671",
+          "title": "Era una promesa de la F1, un helicóptero le cortó el brazo y terminó en la quiebra",
+          "summary": "Alessandro Nannini corrió contra Senna y Prost, ganó el GP de Japón 1989 y estaba cerca de llegar a Ferrari cuando un accidente le cortó el antebrazo derecho. Volvió a correr y después se puso al frente de la histórica pastelería de su familia en Siena, cuya sociedad terminó en bancarrota.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/era-una-promesa-de-la-f1-un-helicoptero-le-corto-el-brazo-y-termino-en-la-quiebra-id767165.html",
+          "image": "https://media.tycsports.com/files/2026/10/19/997397/alessandro-nannini_1440x810.webp",
+          "body": "Alessandro Nannini corrió contra Senna y Prost, ganó el GP de Japón 1989 y estaba cerca de llegar a Ferrari cuando un accidente le cortó el antebrazo derecho. Volvió a correr y después se puso al frente de la histórica pastelería de su familia en Siena, cuya sociedad terminó en bancarrota.\n\nAlessandro Nannini + Seguinos en En 1990, Alessandro Nannini tenía todo para convertirse en la gran figura italiana de la Fórmula 1. Corría para Benetton, venía de su mejor temporada y había negociado con Ferrari. La tarde del 12 de octubre de aquel año, el helicóptero que acababa de comprar se descontroló al aterrizar cerca de la casa de sus padres en Siena, y una de las palas le cortó el antebrazo derecho . Los médicos lograron reimplantárselo, pero su carrera en la máxima categoría terminó ahí. Lo que vino después fue una vuelta a las pistas, la conducción del negocio familiar de pastelería y café, y años más tarde una quiebra que lo llevó a la Justicia.\n\nAlessandro Nannini nació el 7 de julio de 1959 en Siena, en una familia conocida por dos motivos: la pastelería que había fundado su abuelo Guido y la música de su hermana, la cantante Gianna Nannini. Llegó a la Fórmula 1 en 1986 con Minardi y en 1988 pasó a Benetton. Entre 1986 y 1990 largó 76 Grandes Premios, subió nueve veces al podio y sumó 65 puntos. Su único triunfo llegó en el Gran Premio de Japón de 1989, una de las carreras más recordadas de la historia. A falta de siete vueltas, Ayrton Senna y Alain Prost, compañeros en McLaren y rivales por el título, chocaron en la chicana. Senna volvió a la pista y cruzó primero la meta, pero fue descalificado por atajar la chicana y la victoria quedó para Nannini.\n\nPara el italiano no fue un festejo completo. En 2015 le contó a la revista británica Motor Sport que, tras el choque, h",
+          "language": "es",
+          "publishedAt": "2026-10-20T10:17:06.000Z",
+          "addedAt": "2026-10-20T15:14:18.641Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-la-sorpresiva-decision-de-mclaren-para-los-proximos-grandes-premios-en-la-f1-id767254-ht",
@@ -982,7 +1027,7 @@
           "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Tobias-Martinez-TCPK-RUS-Med.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-19T14:00:06.000Z",
+          "publishedAt": "2026-10-19T22:00:06.000Z",
           "addedAt": "2026-10-19T14:11:26.855Z",
           "category": "general",
           "tag": "Carrera"
@@ -1063,21 +1108,6 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-formula-1-africa-ruanda-id765901-html",
-          "title": "La Fórmula 1 confirmó que vuelve a África: dónde se correrá y desde cuándo",
-          "summary": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-africa-ruanda--id765901.html",
-          "image": "https://media.tycsports.com/files/2026/10/13/995490/circuito-de-kigali_1440x810.webp",
-          "body": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.\n\nEl nuevo circuito de Kigali, en Ruanda, albergará la Fórmula 1 por, al menos, diez años. + Seguinos en La Fórmula 1 confirmó este martes su regreso a África apartir de 2030, pero sin fecha exacta. De esta manera, Ruanda será sede de un Gran Premio durante, al menos, diez temporadas. La última carrera del Mundial en ese continente se disputó en 1993, cuando Alain Prost se impuso en Sudáfrica con Williams-Renault.\n\nEl escenario elegido será un circuito completamente nuevo en Bugesera, una localidad situada a unos 40 kilómetros de Kigali, la capital del país . El trazado estará junto al futuro aeropuerto internacional y formará parte de un ambicioso proyecto que combinará deporte, turismo y desarrollo comercial. Por ahora, no se informó la fecha de la primera competencia. La llegada de la Máxima permitirá que el campeonato tenga presencia en todos los continentes habitados . Stefano Domenicali, presidente y director ejecutivo de la categoría, destacó el alcance de la iniciativa : “Con Ruanda incorporándose al calendario desde la próxima década, nuestro deporte competirá en todos los continentes habitados y acercará el Campeonato Mundial más que nunca a los aficionados de todo el mundo ” .\n\nMás allá de la actividad en pista, el complejo estará preparado para funcionar durante todo el año. Sus instalaciones podrán albergar otras competencias internacionales, conferencias y espectáculos. Además, las autoridades locales esperan que la inversión genere puestos de trabajo, capacitación profesional y nuevas oportunidades económicas.\n\nEn ese sentido, el presidente ruandés, Paul Kagame, remarcó que el ",
-          "language": "es",
-          "publishedAt": "2026-10-13T12:41:41.000Z",
-          "addedAt": "2026-10-18T07:11:27.669Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
           "title": "TCR World Tour: Urrutia cerró con otro triunfo la fecha en Chengdu",
           "summary": "El uruguayo se impuso en la última competencia de la sexta ronda del calendario y acortó la brecha con Azcona a 23 puntos; el francés Comte también celebró en la segunda carrera.",
@@ -1123,21 +1153,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp",
-          "title": "Martín Vs Márquez: Una batalla encerrada en dos puntos y un récord histórico para MotoGP",
-          "summary": "Llega la hora de las definiciones en el Mundial de MotoGP que tras 17 fechas disputadas tiene dos unidades de diferencia entre los mejores.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MotoGP-Jorge-Martin-y-MArc-Marquez.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-19T12:57:45.000Z",
-          "addedAt": "2026-10-19T13:11:27.120Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-el-piloto-brasileno-que-reemplazara-a-esteban-ocon-en-haas-y-debutara-en-la-f1-en-2027-i",
           "title": "Quién es el piloto que reemplazará a Esteban Ocon en Haas y debutará en la F1 en 2027",
           "summary": "Rafael Camara, el joven de 21 años que hoy lidera la F2, firmó un contrato plurianual y se espera que sea compañero de Oliver Bearman la próxima temporada.",
@@ -1166,13 +1181,7 @@
           "addedAt": "2026-10-18T07:11:28.259Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-20T10:14:03.173Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados",
           "title": "Toto Wolff admite: «Muchos jefes de equipo en F1 son pilotos traumatizados y humillados»",
@@ -1185,6 +1194,27 @@
           "language": "es",
           "publishedAt": "2026-10-18T17:43:43.000Z",
           "addedAt": "2026-10-18T18:11:26.490Z",
+          "category": "general",
+          "tag": "F1"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-20T15:14:25.363Z",
+      "items": [
+        {
+          "id": "campeones-com-ar-martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp",
+          "title": "Martín Vs Márquez: Una batalla encerrada en dos puntos y un récord histórico para MotoGP",
+          "summary": "Llega la hora de las definiciones en el Mundial de MotoGP que tras 17 fechas disputadas tiene dos unidades de diferencia entre los mejores.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MotoGP-Jorge-Martin-y-MArc-Marquez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T12:57:45.000Z",
+          "addedAt": "2026-10-19T13:11:27.120Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1219,21 +1249,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata",
-          "title": "TC Pick Up: Palazzo es la primera referencia en el regreso a La Plata",
-          "summary": "El pinamarense del EZE-B Team, que viene de lograr su 1ª victoria en la categoría en el retorno del automovilismo grande a Balcarce, resultó el más veloz en el entrenamiento que dio comienzo a la 2ª fecha de la Copa Coronación 2026.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Palazzo-TCPK-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-17T14:16:48.000Z",
-          "addedAt": "2026-10-18T07:11:27.161Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
           "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
           "summary": "El joven piloto italiano realizó un nuevo test, ahora en la pista francesa con uno de los autos de la escudería de Enstone.",
@@ -1262,6 +1277,36 @@
           "addedAt": "2026-10-18T07:11:27.467Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata",
+          "title": "TC Pick Up: Palazzo es la primera referencia en el regreso a La Plata",
+          "summary": "El pinamarense del EZE-B Team, que viene de lograr su 1ª victoria en la categoría en el retorno del automovilismo grande a Balcarce, resultó el más veloz en el entrenamiento que dio comienzo a la 2ª fecha de la Copa Coronación 2026.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Palazzo-TCPK-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T14:16:48.000Z",
+          "addedAt": "2026-10-18T07:11:27.161Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-rosso-y-una-mirada-al-2027-del-tcr-con-la-evolucion-de-linkco",
+          "title": "Rosso y una mirada al 2027 del TCR con la evolución de Link&Co",
+          "summary": "El cordobés viajó a China y realizó pruebas en el Circuito internacional de Guangdong con miras al año entrante.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/rosso-y-una-mirada-al-2027-del-tcr-con-la-evolucion-de-linkco/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/LinkCo-03-Plus-en-China-con-Rosso.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-15T15:04:39.000Z",
+          "addedAt": "2026-10-18T07:11:27.177Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-canapino-sobre-balcarce-estuvo-espectacular",
@@ -1384,6 +1429,21 @@
           "tag": "F1"
         },
         {
+          "id": "www-tycsports-com-automovilismo-formula-1-africa-ruanda-id765901-html",
+          "title": "La Fórmula 1 confirmó que vuelve a África: dónde se correrá y desde cuándo",
+          "summary": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-africa-ruanda--id765901.html",
+          "image": "https://media.tycsports.com/files/2026/10/13/995490/circuito-de-kigali_1440x810.webp",
+          "body": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.\n\nEl nuevo circuito de Kigali, en Ruanda, albergará la Fórmula 1 por, al menos, diez años. + Seguinos en La Fórmula 1 confirmó este martes su regreso a África apartir de 2030, pero sin fecha exacta. De esta manera, Ruanda será sede de un Gran Premio durante, al menos, diez temporadas. La última carrera del Mundial en ese continente se disputó en 1993, cuando Alain Prost se impuso en Sudáfrica con Williams-Renault.\n\nEl escenario elegido será un circuito completamente nuevo en Bugesera, una localidad situada a unos 40 kilómetros de Kigali, la capital del país . El trazado estará junto al futuro aeropuerto internacional y formará parte de un ambicioso proyecto que combinará deporte, turismo y desarrollo comercial. Por ahora, no se informó la fecha de la primera competencia. La llegada de la Máxima permitirá que el campeonato tenga presencia en todos los continentes habitados . Stefano Domenicali, presidente y director ejecutivo de la categoría, destacó el alcance de la iniciativa : “Con Ruanda incorporándose al calendario desde la próxima década, nuestro deporte competirá en todos los continentes habitados y acercará el Campeonato Mundial más que nunca a los aficionados de todo el mundo ” .\n\nMás allá de la actividad en pista, el complejo estará preparado para funcionar durante todo el año. Sus instalaciones podrán albergar otras competencias internacionales, conferencias y espectáculos. Además, las autoridades locales esperan que la inversión genere puestos de trabajo, capacitación profesional y nuevas oportunidades económicas.\n\nEn ese sentido, el presidente ruandés, Paul Kagame, remarcó que el ",
+          "language": "es",
+          "publishedAt": "2026-10-13T12:41:41.000Z",
+          "addedAt": "2026-10-18T07:11:27.669Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
           "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
           "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
@@ -1412,7 +1472,13 @@
           "addedAt": "2026-10-18T07:11:27.194Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-20T15:14:25.363Z",
+      "items": [
         {
           "id": "www-fiaformula2-com-en-latest-article-laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season-3iw2qus8deyahpaz0x6q",
           "title": "Laurens van Hoepen moves to MP Motorsport for the 2027 season",
@@ -1422,7 +1488,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T10:13:57.340Z",
+          "publishedAt": "2026-10-20T15:14:18.412Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1437,18 +1503,12 @@
           "url": "https://www.fiaformula2.com/en/latest/article/compromise-and-identifying-balance-how-i-race-with-oliver-goethe.lJ9hC0P9x3eT7CLWC06g5",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T10:13:57.340Z",
+          "publishedAt": "2026-10-20T15:14:18.410Z",
           "addedAt": "2026-10-19T10:11:26.693Z",
           "category": "support",
           "tag": "F2",
           "series": "F2"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-20T10:14:03.173Z",
-      "items": [
+        },
         {
           "id": "www-fiaformula2-com-en-latest-article-formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut-1yszpy0frgedj",
           "title": "Formula 2 in 2022: A title-winning reunion alongside an epic F1 debut",
@@ -1458,7 +1518,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T10:13:57.340Z",
+          "publishedAt": "2026-10-20T15:14:18.411Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1473,7 +1533,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/mp-motorsport-confirm-the-signing-of-zhenrui-chi-for-the-2027-season.1ui1K3QRS2JqX8035h8L2V",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T10:13:57.398Z",
+          "publishedAt": "2026-10-20T15:14:18.656Z",
           "addedAt": "2026-10-19T17:03:20.367Z",
           "category": "support",
           "tag": "F3",
@@ -1488,7 +1548,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/maciej-gladysz-moves-to-mp-motorsport-for-the-2027-season.18Dxa0cPjncr97B42XsDtx",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T10:13:57.398Z",
+          "publishedAt": "2026-10-20T15:14:18.656Z",
           "addedAt": "2026-10-19T13:11:27.034Z",
           "category": "support",
           "tag": "F3",
@@ -1503,7 +1563,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/matteo-de-palo-returns-with-mp-motorsport-for-the-2027-season.6pNuXNjz2jZKtH17zSYQw4",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T10:13:57.398Z",
+          "publishedAt": "2026-10-20T15:14:18.656Z",
           "addedAt": "2026-10-19T08:11:27.183Z",
           "category": "support",
           "tag": "F3",
@@ -1518,7 +1578,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T10:10:59.969Z",
+          "publishedAt": "2026-10-20T15:11:19.991Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1533,7 +1593,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T10:08:59.969Z",
+          "publishedAt": "2026-10-20T15:09:19.991Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1548,7 +1608,7 @@
           "url": "https://www.f1academy.com/Latest/7kuxkn4EPBirEZ6hESRuwr/competition-win-a-one-of-a-kind-pair-of-f1-academy-custom-tecovas-annie-boots",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T10:13:59.969Z",
+          "publishedAt": "2026-10-20T15:14:19.991Z",
           "addedAt": "2026-10-19T10:11:29.840Z",
           "category": "support",
           "tag": "F1 Academy",
