@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T19:25:56.607Z",
-  "checkedAt": "2026-10-20T19:25:56.607Z",
+  "updatedAt": "2026-10-20T22:28:54.517Z",
+  "checkedAt": "2026-10-20T22:28:54.517Z",
   "pageSize": 18,
   "sources": [
     {
@@ -81,6 +81,21 @@
       "language": "es",
       "publishedAt": "2026-10-20T14:34:18.000Z",
       "addedAt": "2026-10-20T15:14:20.753Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-fallecio-fermin-maceratesi-piloto-de-turismo-carretera",
+      "title": "Falleció Fermín Maceratesi, quien fue piloto de Turismo Carretera | Campeones",
+      "summary": "Representó a Elortondo durante la década del sesenta, con destacadas actuaciones en las vueltas de San Nicolás y Arrecifes.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/fallecio-fermin-maceratesi-piloto-de-turismo-carretera/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-Maceratesi-Fermin.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-20T18:55:43.000Z",
+      "addedAt": "2026-10-20T22:28:57.111Z",
       "category": "general",
       "tag": "F1"
     },
@@ -403,8 +418,38 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-20T19:26:08.289Z",
+      "createdAt": "2026-10-20T22:29:03.178Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id",
+          "title": "\"Mucho trabajo por hacer\": Colapinto apunta a la recuperación de Alpine en Austin",
+          "summary": "El piloto argentino de la Fórmula 1 contó que estuvo en Enstone de cara al Gran Premio de Estados Unidos.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id767428.html",
+          "image": "https://media.tycsports.com/files/2026/10/20/997816/franco-colapinto_1440x810.webp",
+          "body": "El piloto argentino de la Fórmula 1 contó que estuvo en Enstone de cara al Gran Premio de Estados Unidos.\n\nFranco Colapinto, piloto de Alpine en la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en El Gran Premio de Estados Unidos representa una nueva oportunidad para Franco Colapinto , que intentará cortar la mala racha de Alpine después de tres fechas consecutivas sin sumar puntos . El piloto argentino se prepara para afrontar el desafío en Austin, donde buscará encontrar respuestas tras un exigente trabajo junto a los ingenieros de la escudería.\n\nLuego de su participación en Singapur, el joven de Pilar viajó a la fábrica de Enstone , en Inglaterra, para analizar los problemas del monoplaza. El objetivo fue identificar aspectos por mejorar antes de encarar la próxima competencia y recuperar competitividad en la Fórmula 1. \"Venimos de una serie de carreras difíciles pero estuve de regreso en Enstone con mis ingenieros y todos trabajamos mucho para asegurarnos de que las próximas sean bastante mejores\", explicó. \" Tenemos mucho trabajo por hacer en la pista y estoy motivado para hacerlo y tener otro buen fin de semana en Austin\" , añadió.\n\nEl pedido de Colapinto por los mensajes de odio en redes El trazado texano le trae buenos recuerdos al argentino. En 2024, cuando apenas disputaba s u cuarta carrera en la máxima categoría con Williams, terminó en zona de puntos y protagonizó una maniobra ante Fernando Alonso que fue elegida como el mejor sobrepaso . Además, el calendario que se aproxima tiene un atractivo especial para él, ya que incluye tres compromisos consecutivos en el continente americano. \"Estoy deseando volver a correr en Austin y comenzar una de las triples fechas más divertidas del año. Manejar en Texas, Ciudad de México y San Pablo es increíble para mí, po",
+          "language": "es",
+          "publishedAt": "2026-10-20T20:01:01.000Z",
+          "addedAt": "2026-10-20T22:28:55.340Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
+          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
+          "summary": "Cobertura especial del GP de Estados Unidos de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-20T19:00:17.000Z",
+          "addedAt": "2026-10-20T22:28:56.803Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
         {
           "id": "www-tycsports-com-automovilismo-mattia-colnaghi-campos-racing-formula-3-2027-id767199-html",
           "title": "Mattia Colnaghi correrá en un equipo de punta de la F3 en 2027",
@@ -644,7 +689,13 @@
           "addedAt": "2026-10-18T07:11:28.193Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-20T22:29:03.178Z",
+      "items": [
         {
           "id": "campeones-com-ar-el-italo-argentino-mattia-colnaghi-confirmado-para-el-clasico-gp-de-macao",
           "title": "El ítalo argentino Mattia Colnaghi confirmado para el clásico GP de Macao",
@@ -672,27 +723,6 @@
           "language": "es",
           "publishedAt": "2026-10-20T12:23:36.000Z",
           "addedAt": "2026-10-20T15:14:19.344Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-20T19:26:08.289Z",
-      "items": [
-        {
-          "id": "campeones-com-ar-otra-pole-position-de-mariano-werner-en-tc-pick-up",
-          "title": "Otra “pole position” de Mariano Werner en TC Pick Up",
-          "summary": "Ahora con los motores de Mario y Luis Riva en su Foton Tunland G7 luego de la exclusión por compresión en Balcarce, el entrerriano logró su 3ª “pole” de 2026. Canapino (Chevrolet) quedó 2º a 0s588 del piloto del Fadel Racing, quien mañana deberá largar último en la Final por una sanción de la CAF.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/otra-pole-position-de-mariano-werner-en-tc-pick-up/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Werner-Pole-TCPK-2026.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-17T20:02:27.000Z",
-          "addedAt": "2026-10-18T07:11:27.209Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -723,6 +753,21 @@
           "language": "es",
           "publishedAt": "2026-10-19T15:03:50.000Z",
           "addedAt": "2026-10-19T15:11:26.881Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-otra-pole-position-de-mariano-werner-en-tc-pick-up",
+          "title": "Otra “pole position” de Mariano Werner en TC Pick Up",
+          "summary": "Ahora con los motores de Mario y Luis Riva en su Foton Tunland G7 luego de la exclusión por compresión en Balcarce, el entrerriano logró su 3ª “pole” de 2026. Canapino (Chevrolet) quedó 2º a 0s588 del piloto del Fadel Racing, quien mañana deberá largar último en la Final por una sanción de la CAF.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/otra-pole-position-de-mariano-werner-en-tc-pick-up/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Werner-Pole-TCPK-2026.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T20:02:27.000Z",
+          "addedAt": "2026-10-18T07:11:27.209Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -920,42 +965,12 @@
           "addedAt": "2026-10-18T07:11:27.160Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-canapino-su-vida-despues-de-la-indy-y-el-futuro",
-          "title": "Canapino: Su vida después de la Indy y el futuro",
-          "summary": "“¿Cómo me veo de acá a 10 años? Ojalá que corriendo”. El arrecifeño tocó diversos temas en el mano a mano con Campeones.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/canapino-su-vida-despues-de-la-indy-y-el-futuro/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/03/CANAPINO-AGUSTIN-NEUQUEN-FOTO-DARIO-GALLARDO.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-16T18:33:42.000Z",
-          "addedAt": "2026-10-18T07:11:27.393Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido",
-          "title": "TC: Ford y Chevrolet, de la convivencia prohibida a compartir taller cada vez más seguido",
-          "summary": "La llegada de Santiago Álvarez y su Camaro al TCM Racing, donde tendrá como compañero a Ricardo Risatti (Mustang), reafirma una tendencia que no es nueva pero que ha ganado fuerza en la última década.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/De-Benedictis-Tobias-Martinez-TC-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-16T12:26:41.000Z",
-          "addedAt": "2026-10-18T07:11:27.365Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-20T19:26:08.289Z",
+      "createdAt": "2026-10-20T22:29:03.178Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -988,36 +1003,6 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-sorpresiva-decision-de-mclaren-para-los-proximos-grandes-premios-en-la-f1-id767254-ht",
-          "title": "La sorpresiva decisión de McLaren para los próximos Grandes Premios en la F1",
-          "summary": "La escudería británica definió que Leonardo Fornaroli, piloto de reserva, saldrá a la pista en las prácticas libres en México y Brasil.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-sorpresiva-decision-de-mclaren-para-los-proximos-grandes-premios-en-la-f1-id767254.html",
-          "image": "https://media.tycsports.com/files/2026/10/19/997536/leonardo-fornaroli_1440x810.webp",
-          "body": "La escudería británica definió que Leonardo Fornaroli, piloto de reserva, saldrá a la pista en las prácticas libres en México y Brasil.\n\nLeonardo Fornaroli será parte de la primera práctica libre en los GP de México y Brasil. (Kym Illman/Getty Images) + Seguinos en McLaren tomó una sorpresiva decisión: confirmó que el italiano Leonardo Fornaroli participará en la primera práctica libre en los Grandes Premios de México y Brasil.\n\nLa escudería británica lo resolvió para completar la reglamentación de la FIA. Los equipos deben darle oportunidades a pilotos sin experiencia en la categoría en cuatro oportunidades en prácticas libres. “Estoy muy emocionado de volver a ponerme al volante del MCL40 y participar en dos sesiones más de entrenamientos libres oficiales con el equipo”, expresó el actual campeón de la Fórmula 2, en declaraciones que recoge el portal Campeones.\n\n“Los Grandes Premios de Ciudad de México y São Paulo son dos eventos fantásticos que supondrán un gran reto para mí como piloto. Interlagos es un circuito histórico, lleno de curvas técnicas variadas, mientras que la altitud de Ciudad de México será sin duda una nueva prueba física. Es una valiosa oportunidad para mi crecimiento profesional y, al mismo tiempo, para contribuir al equipo durante el fin de semana de la carrera” , añadió.\n\nPor otra parte, el último fin de semana, el italiano hizo pruebas privadas para McLaren en el Circuito de las Américas, que recibe al próximo Gran Premio este fin de semana. Leonardo Fornaroli ya había salido a la pista en prácticas libres en Barcelona y Budapest. Con su participación en México y Brasil, el joven piloto de 21 años llegará a las cuatro que exige la FIA.",
-          "language": "es",
-          "publishedAt": "2026-10-19T19:26:21.000Z",
-          "addedAt": "2026-10-19T21:26:34.438Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-valtteri-bottas-auto-f1-living-de-la-casa-id766041-html",
-          "title": "&iexcl;Insólito! Un piloto de F1 reveló que tiene un auto en el living de su casa",
-          "summary": "Se trata del Williams FW36, con el cual el finlandés corrió durante la temporada 2014 y con el que obtuvo su primer podio en el Gran Premio de Austria de aquel año.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/valtteri-bottas-auto-f1-living-de-la-casa-id766041.html",
-          "image": "https://media.tycsports.com/files/2026/10/13/995683/bottas_862x485.webp?v=1",
-          "body": "Se trata del Williams FW36, con el cual el finlandés corrió durante la temporada 2014 y con el que obtuvo su primer podio en el Gran Premio de Austria de aquel año.\n\nValtteri Bottas mostró que tiene un auto F1 dentro de su casa + Seguinos en Luego de su insólita travesía en bicicleta , en la que recorrió más de 400 kilómetros para trasladarse desde Sepang hasta Singapur, Valtteri Bottas , actual piloto de Cadillac, volvió a ser noticia por su vida fuera de las pistas. Esta vez, salió a la luz que el subcampeón de la Fórmula 1 en 2019 y 2020 tiene un monoplaza en el living de su casa.\n\nSi bien él nunca lo había revelado, la insólita situación se dio a conocer por un video que posteó el influencer Average Rob, quien visitó el hogar del corredor de 37 años y, apenas ingresó, se encontró con el Williams FW36 , con el cual el finlandés corrió en la temporada 2014 de la Máxima.\n\nLas imágenes no tardaron en viralizarse en redes sociales y sorprendieron a todos los fanáticos, pero el propio Bottas se encargó de esclarecer la situación: \"¿Por qué no, verdad? Recibí este auto como presente de Williams, después de 2014... Porque este lugar se construyó en 2014; al mismo tiempo que lo levantábamos, básicamente tuvimos que poner el auto ahí y construir la casa alrededor de él\".\n\nLo cierto es que ese monoplaza tiene un valor especial para él, ya que fue con el que logró su primer podio en la F1 , en el Gran Premio de Austria de 2014. No solo eso, sino que en aquella temporada, el finlandés se subió seis veces al podio con dos segundos lugares y cuatro terceros puestos.",
-          "language": "es",
-          "publishedAt": "2026-10-13T21:58:28.000Z",
-          "addedAt": "2026-10-18T07:11:28.067Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-corrio-en-el-tc-fue-campeon-del-tc-pista-y-ahora-atiende-un-minimercado-en-san-juan-id76",
           "title": "Corrió en el TC, fue campeón del TC Pista y ahora atiende un minimercado en San Juan",
           "summary": "El cuyano tuvo una carrera ligada al automovilismo desde su debut en 1992. En el 98 hizo su estreno en el Turismo Carretera y un año después fue campeón en Pista. Hoy está alejado, aunque nunca de manera definitiva, y se dedica a un emprendimiento personal.",
@@ -1033,6 +1018,21 @@
           "tag": "Carrera"
         },
         {
+          "id": "www-tycsports-com-automovilismo-la-sorpresiva-decision-de-mclaren-para-los-proximos-grandes-premios-en-la-f1-id767254-ht",
+          "title": "La sorpresiva decisión de McLaren para los próximos Grandes Premios en la F1",
+          "summary": "La escudería británica definió que Leonardo Fornaroli, piloto de reserva, saldrá a la pista en las prácticas libres en México y Brasil.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-sorpresiva-decision-de-mclaren-para-los-proximos-grandes-premios-en-la-f1-id767254.html",
+          "image": "https://media.tycsports.com/files/2026/10/19/997536/leonardo-fornaroli_1440x810.webp",
+          "body": "La escudería británica definió que Leonardo Fornaroli, piloto de reserva, saldrá a la pista en las prácticas libres en México y Brasil.\n\nLeonardo Fornaroli será parte de la primera práctica libre en los GP de México y Brasil. (Kym Illman/Getty Images) + Seguinos en McLaren tomó una sorpresiva decisión: confirmó que el italiano Leonardo Fornaroli participará en la primera práctica libre en los Grandes Premios de México y Brasil.\n\nLa escudería británica lo resolvió para completar la reglamentación de la FIA. Los equipos deben darle oportunidades a pilotos sin experiencia en la categoría en cuatro oportunidades en prácticas libres. “Estoy muy emocionado de volver a ponerme al volante del MCL40 y participar en dos sesiones más de entrenamientos libres oficiales con el equipo”, expresó el actual campeón de la Fórmula 2, en declaraciones que recoge el portal Campeones.\n\n“Los Grandes Premios de Ciudad de México y São Paulo son dos eventos fantásticos que supondrán un gran reto para mí como piloto. Interlagos es un circuito histórico, lleno de curvas técnicas variadas, mientras que la altitud de Ciudad de México será sin duda una nueva prueba física. Es una valiosa oportunidad para mi crecimiento profesional y, al mismo tiempo, para contribuir al equipo durante el fin de semana de la carrera” , añadió.\n\nPor otra parte, el último fin de semana, el italiano hizo pruebas privadas para McLaren en el Circuito de las Américas, que recibe al próximo Gran Premio este fin de semana. Leonardo Fornaroli ya había salido a la pista en prácticas libres en Barcelona y Budapest. Con su participación en México y Brasil, el joven piloto de 21 años llegará a las cuatro que exige la FIA.",
+          "language": "es",
+          "publishedAt": "2026-10-19T19:26:21.000Z",
+          "addedAt": "2026-10-19T21:26:34.438Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-fue-piloto-de-la-f1-apunalo-al-propietario-de-una-escuderia-en-un-boliche-y-esta-preso-p",
           "title": "Fue piloto de la F1, apuñaló al propietario de una escudería en un boliche y está preso por fraude",
           "summary": "El alemán Adrian Sutil corrió en la Máxima durante siete temporadas. En 2012 estuvo un año ausente por atacar al ejecutivo de Renault tras el GP de China y en 2025 fue detenido en un operativo internacional.",
@@ -1046,21 +1046,6 @@
           "addedAt": "2026-10-19T11:11:27.000Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-tobias-martinez-deja-las-tc-pick-up-cuando-el-vaso-rebalsa-se-toma-una-decision",
-          "title": "Tobías Martínez deja las TC Pick Up: \"Cuando el vaso rebalsa se toma una decisión\"",
-          "summary": "El piloto explicó en Campeones que hubo muchas situaciones que lo llevaron hasta la determinación que se conoció tras la carrera en La Plata.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tobias-martinez-deja-las-tc-pick-up-cuando-el-vaso-rebalsa-se-toma-una-decision/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Tobias-Martinez-TCPK-RUS-Med.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-19T22:00:06.000Z",
-          "addedAt": "2026-10-19T14:11:26.855Z",
-          "category": "general",
-          "tag": "Carrera"
         },
         {
           "id": "www-tycsports-com-automovilismo-ricardo-rosset-el-piloto-considerado-uno-de-los-peores-de-la-historia-de-la-f1-que-fue-b",
@@ -1123,6 +1108,21 @@
           "tag": "F1"
         },
         {
+          "id": "campeones-com-ar-tobias-martinez-deja-las-tc-pick-up-cuando-el-vaso-rebalsa-se-toma-una-decision",
+          "title": "Tobías Martínez deja las TC Pick Up: \"Cuando el vaso rebalsa se toma una decisión\"",
+          "summary": "El piloto explicó en Campeones que hubo muchas situaciones que lo llevaron hasta la determinación que se conoció tras la carrera en La Plata.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tobias-martinez-deja-las-tc-pick-up-cuando-el-vaso-rebalsa-se-toma-una-decision/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Tobias-Martinez-TCPK-RUS-Med.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T22:00:06.000Z",
+          "addedAt": "2026-10-19T14:11:26.855Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
+        {
           "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
           "title": "TCR World Tour: Urrutia cerró con otro triunfo la fecha en Chengdu",
           "summary": "El uruguayo se impuso en la última competencia de la sexta ronda del calendario y acortó la brecha con Azcona a 23 puntos; el francés Comte también celebró en la segunda carrera.",
@@ -1138,21 +1138,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa",
-          "title": "La Fórmula 1 confirma el acuerdo con Ruanda para regresar a África",
-          "summary": "La F1 presentó un acuerdo de 10 años con Ruanda para el Gran Premio de África, pensado para principios de la década de 2030.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-Ruanda-Tilke-Diseno.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-13T19:55:59.000Z",
-          "addedAt": "2026-10-18T07:11:27.546Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-damian-perez-domino-el-primer-ensayo-de-tc-pista-mouras",
           "title": "Damián Pérez e Ignacio Lovich dominaron los ensayos de TC Pista Mouras | Campeones",
           "summary": "En La Plata, la categoría inicia el playoff rumbo a la recta final del campeonato. Los Dodge fueron quienes se adjudicaron las tandas, primero el del José C. Paz Racing (el más veloz) y luego el del Canning Motorsport.",
@@ -1164,6 +1149,21 @@
           "language": "es",
           "publishedAt": "2026-10-17T18:15:01.000Z",
           "addedAt": "2026-10-18T07:11:27.463Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-valtteri-bottas-auto-f1-living-de-la-casa-id766041-html",
+          "title": "&iexcl;Insólito! Un piloto de F1 reveló que tiene un auto en el living de su casa",
+          "summary": "Se trata del Williams FW36, con el cual el finlandés corrió durante la temporada 2014 y con el que obtuvo su primer podio en el Gran Premio de Austria de aquel año.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/valtteri-bottas-auto-f1-living-de-la-casa-id766041.html",
+          "image": "https://media.tycsports.com/files/2026/10/13/995683/bottas_862x485.webp?v=1",
+          "body": "Se trata del Williams FW36, con el cual el finlandés corrió durante la temporada 2014 y con el que obtuvo su primer podio en el Gran Premio de Austria de aquel año.\n\nValtteri Bottas mostró que tiene un auto F1 dentro de su casa + Seguinos en Luego de su insólita travesía en bicicleta , en la que recorrió más de 400 kilómetros para trasladarse desde Sepang hasta Singapur, Valtteri Bottas , actual piloto de Cadillac, volvió a ser noticia por su vida fuera de las pistas. Esta vez, salió a la luz que el subcampeón de la Fórmula 1 en 2019 y 2020 tiene un monoplaza en el living de su casa.\n\nSi bien él nunca lo había revelado, la insólita situación se dio a conocer por un video que posteó el influencer Average Rob, quien visitó el hogar del corredor de 37 años y, apenas ingresó, se encontró con el Williams FW36 , con el cual el finlandés corrió en la temporada 2014 de la Máxima.\n\nLas imágenes no tardaron en viralizarse en redes sociales y sorprendieron a todos los fanáticos, pero el propio Bottas se encargó de esclarecer la situación: \"¿Por qué no, verdad? Recibí este auto como presente de Williams, después de 2014... Porque este lugar se construyó en 2014; al mismo tiempo que lo levantábamos, básicamente tuvimos que poner el auto ahí y construir la casa alrededor de él\".\n\nLo cierto es que ese monoplaza tiene un valor especial para él, ya que fue con el que logró su primer podio en la F1 , en el Gran Premio de Austria de 2014. No solo eso, sino que en aquella temporada, el finlandés se subió seis veces al podio con dos segundos lugares y cuatro terceros puestos.",
+          "language": "es",
+          "publishedAt": "2026-10-13T21:58:28.000Z",
+          "addedAt": "2026-10-18T07:11:28.067Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1226,13 +1226,7 @@
           "addedAt": "2026-10-18T18:11:26.490Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-20T19:26:08.289Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp",
           "title": "Martín Vs Márquez: Una batalla encerrada en dos puntos y un récord histórico para MotoGP",
@@ -1247,22 +1241,13 @@
           "addedAt": "2026-10-19T13:11:27.120Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-tc-mouras-alaux-domino-la-clasificacion-por-3a-fecha-seguida",
-          "title": "TC Mouras: Alaux dominó la clasificación por 3ª fecha seguida",
-          "summary": "El piloto del Galarza Racing se quedó con la “pole” en el autódromo de La Plata, donde se realiza la 1ª fecha de la Copa Coronación 2026, luego de aventajar con su Dodge a la Chevy de Francisco Luengo por 0s092.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-mouras-alaux-domino-la-clasificacion-por-3a-fecha-seguida/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Alaux-TCM-2026.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-17T20:49:43.000Z",
-          "addedAt": "2026-10-18T07:11:27.320Z",
-          "category": "general",
-          "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-20T22:29:03.178Z",
+      "items": [
         {
           "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
           "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
@@ -1290,6 +1275,21 @@
           "language": "es",
           "publishedAt": "2026-10-15T19:55:12.000Z",
           "addedAt": "2026-10-18T07:11:27.467Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc-mouras-alaux-domino-la-clasificacion-por-3a-fecha-seguida",
+          "title": "TC Mouras: Alaux dominó la clasificación por 3ª fecha seguida",
+          "summary": "El piloto del Galarza Racing se quedó con la “pole” en el autódromo de La Plata, donde se realiza la 1ª fecha de la Copa Coronación 2026, luego de aventajar con su Dodge a la Chevy de Francisco Luengo por 0s092.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-mouras-alaux-domino-la-clasificacion-por-3a-fecha-seguida/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Alaux-TCM-2026.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T20:49:43.000Z",
+          "addedAt": "2026-10-18T07:11:27.320Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1322,6 +1322,51 @@
           "addedAt": "2026-10-18T07:11:27.161Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay",
+          "title": "Krujoski marcó la referencia de Turismo Carretera 2000 en C. del Uruguay",
+          "summary": "La práctica de la categoría tuvo al piloto correntino como el más veloz en la pista entrerriana, superando a Llaver, el líder del certamen. Tercero quedó Carinelli.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TurCar2000-Krujoski.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-16T20:51:02.000Z",
+          "addedAt": "2026-10-18T07:11:27.429Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-canapino-su-vida-despues-de-la-indy-y-el-futuro",
+          "title": "Canapino: Su vida después de la Indy y el futuro",
+          "summary": "“¿Cómo me veo de acá a 10 años? Ojalá que corriendo”. El arrecifeño tocó diversos temas en el mano a mano con Campeones.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/canapino-su-vida-despues-de-la-indy-y-el-futuro/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/03/CANAPINO-AGUSTIN-NEUQUEN-FOTO-DARIO-GALLARDO.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-16T18:33:42.000Z",
+          "addedAt": "2026-10-18T07:11:27.393Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido",
+          "title": "TC: Ford y Chevrolet, de la convivencia prohibida a compartir taller cada vez más seguido",
+          "summary": "La llegada de Santiago Álvarez y su Camaro al TCM Racing, donde tendrá como compañero a Ricardo Risatti (Mustang), reafirma una tendencia que no es nueva pero que ha ganado fuerza en la última década.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/De-Benedictis-Tobias-Martinez-TC-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-16T12:26:41.000Z",
+          "addedAt": "2026-10-18T07:11:27.365Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-wec-en-barcelona-ferrari-pisa-fuerte-en-hypercar-y-lmgt3-pechito-fue-14",
@@ -1399,21 +1444,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia",
-          "title": "TN: Canapino se aseguró llegar al Coronación como líder y podría consagrarse en Concordia",
-          "summary": "A falta de dos fechas para la culminación del campeonato, el “Titán” debería incrementar su ventaja en 20 puntos para festejar en forma anticipada. En la Clase 2, en cambio, el título se definirá sí o sí en Viedma.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TN-2026-1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-13T22:15:35.000Z",
-          "addedAt": "2026-10-18T07:11:27.498Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
           "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
           "summary": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué…",
@@ -1474,21 +1504,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay",
-          "title": "Krujoski marcó la referencia de Turismo Carretera 2000 en C. del Uruguay",
-          "summary": "La práctica de la categoría tuvo al piloto correntino como el más veloz en la pista entrerriana, superando a Llaver, el líder del certamen. Tercero quedó Carinelli.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TurCar2000-Krujoski.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-16T20:51:02.000Z",
-          "addedAt": "2026-10-18T07:11:27.429Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-formula-1-africa-ruanda-id765901-html",
           "title": "La Fórmula 1 confirmó que vuelve a África: dónde se correrá y desde cuándo",
           "summary": "La Máxima alcanzó un acuerdo por una década para incorporar una nueva sede, cuyo circuito estará ubicado cerca de un aeropuerto internacional y buscará impulsar el turismo regional.",
@@ -1507,8 +1522,38 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-20T19:26:08.289Z",
+      "createdAt": "2026-10-20T22:29:03.178Z",
       "items": [
+        {
+          "id": "campeones-com-ar-la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa",
+          "title": "La Fórmula 1 confirma el acuerdo con Ruanda para regresar a África",
+          "summary": "La F1 presentó un acuerdo de 10 años con Ruanda para el Gran Premio de África, pensado para principios de la década de 2030.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-Ruanda-Tilke-Diseno.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-13T19:55:59.000Z",
+          "addedAt": "2026-10-18T07:11:27.546Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia",
+          "title": "TN: Canapino se aseguró llegar al Coronación como líder y podría consagrarse en Concordia",
+          "summary": "A falta de dos fechas para la culminación del campeonato, el “Titán” debería incrementar su ventaja en 20 puntos para festejar en forma anticipada. En la Clase 2, en cambio, el título se definirá sí o sí en Viedma.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TN-2026-1.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-13T22:15:35.000Z",
+          "addedAt": "2026-10-18T07:11:27.498Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
         {
           "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
           "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
@@ -1548,7 +1593,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T19:25:57.344Z",
+          "publishedAt": "2026-10-20T22:28:55.232Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1563,7 +1608,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/compromise-and-identifying-balance-how-i-race-with-oliver-goethe.lJ9hC0P9x3eT7CLWC06g5",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T19:25:57.344Z",
+          "publishedAt": "2026-10-20T22:28:55.231Z",
           "addedAt": "2026-10-19T10:11:26.693Z",
           "category": "support",
           "tag": "F2",
@@ -1578,7 +1623,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T19:25:57.344Z",
+          "publishedAt": "2026-10-20T22:28:55.232Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1593,7 +1638,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/mp-motorsport-confirm-the-signing-of-zhenrui-chi-for-the-2027-season.1ui1K3QRS2JqX8035h8L2V",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T19:25:57.597Z",
+          "publishedAt": "2026-10-20T22:28:55.316Z",
           "addedAt": "2026-10-19T17:03:20.367Z",
           "category": "support",
           "tag": "F3",
@@ -1608,7 +1653,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/maciej-gladysz-moves-to-mp-motorsport-for-the-2027-season.18Dxa0cPjncr97B42XsDtx",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T19:25:57.597Z",
+          "publishedAt": "2026-10-20T22:28:55.316Z",
           "addedAt": "2026-10-19T13:11:27.034Z",
           "category": "support",
           "tag": "F3",
@@ -1623,7 +1668,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/preview-2026-post-season-testing-starts-with-two-days-in-jerez.72kniH8tAn4enSDSUW5BHI",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T19:25:57.597Z",
+          "publishedAt": "2026-10-20T22:28:55.316Z",
           "addedAt": "2026-10-20T19:25:57.597Z",
           "category": "support",
           "tag": "F3",
@@ -1638,7 +1683,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T19:22:59.383Z",
+          "publishedAt": "2026-10-20T22:25:57.202Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1653,7 +1698,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T19:20:59.383Z",
+          "publishedAt": "2026-10-20T22:23:57.202Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1668,7 +1713,7 @@
           "url": "https://www.f1academy.com/Latest/7kuxkn4EPBirEZ6hESRuwr/competition-win-a-one-of-a-kind-pair-of-f1-academy-custom-tecovas-annie-boots",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T19:25:59.383Z",
+          "publishedAt": "2026-10-20T22:28:57.202Z",
           "addedAt": "2026-10-19T10:11:29.840Z",
           "category": "support",
           "tag": "F1 Academy",
