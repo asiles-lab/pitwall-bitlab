@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-21T00:47:54.556Z",
-  "checkedAt": "2026-10-21T00:47:54.556Z",
+  "updatedAt": "2026-10-21T05:22:27.621Z",
+  "checkedAt": "2026-10-21T05:22:27.621Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,36 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-verstappen-opino-sobre-realizar-los-gg-pp-de-f1-en-qatar-y-abu-dhabi",
-      "title": "Verstappen opinó sobre realizar los GG. PP. de F1 en Qatar y Abu Dhabi",
-      "summary": "El piloto de Red Bull aclaró que estar en ambas competencias le «encantaría, pero bajo las condiciones adecuadas».",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/verstappen-opino-sobre-realizar-los-gg-pp-de-f1-en-qatar-y-abu-dhabi/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-F1-Abu-Dhabi.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-20T14:34:18.000Z",
-      "addedAt": "2026-10-20T15:14:20.753Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-fallecio-fermin-maceratesi-piloto-de-turismo-carretera",
-      "title": "Falleció Fermín Maceratesi, quien fue piloto de Turismo Carretera | Campeones",
-      "summary": "Representó a Elortondo durante la década del sesenta, con destacadas actuaciones en las vueltas de San Nicolás y Arrecifes.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/fallecio-fermin-maceratesi-piloto-de-turismo-carretera/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-Maceratesi-Fermin.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-20T18:55:43.000Z",
-      "addedAt": "2026-10-20T22:28:57.111Z",
-      "category": "general",
-      "tag": "F1"
-    },
     {
       "id": "campeones-com-ar-motogp-cierra-la-lista-de-pilotos-para-el-2027-con-el-ultimo-pase-confirmado",
       "title": "MotoGP cierra la lista de pilotos para el 2027 con el último pase confirmado",
@@ -388,7 +358,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-21T00:48:01.814Z",
+      "createdAt": "2026-10-21T05:22:34.622Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id",
@@ -436,21 +406,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-tras-carreras-dificiles-colapinto-va-por-un-fin-de-semana-solido-en-estados-unidos",
-          "title": "Tras \"carreras difíciles\", Colapinto va por un fin de semana sólido en Estados Unidos",
-          "summary": "El piloto de Alpine F1 Team quiere revertir en Austin los nulos resultados en las competencias de Baku, Sepang y Singapur.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tras-carreras-dificiles-colapinto-va-por-un-fin-de-semana-solido-en-estados-unidos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-F1-Colapinto.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-20T16:24:22.000Z",
-          "addedAt": "2026-10-20T19:25:58.833Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-sigue-el-idilio-de-lando-norris-con-franco-colapinto-es-una-carta-muy-bonita-id766880-ht",
           "title": "Sigue el idilio de Lando Norris con Franco Colapinto: \"Es una carta muy bonita\"",
           "summary": "Tras el choque en Bakú y el exabrupto del británico, la buena onda volvió a reinar con el argentino: otra vez, el de McLaren sacó una carta suya y pensó en hacerle un regalo.",
@@ -492,6 +447,21 @@
           "language": "es",
           "publishedAt": "2026-10-14T20:22:04.000Z",
           "addedAt": "2026-10-18T07:11:27.966Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-tras-carreras-dificiles-colapinto-va-por-un-fin-de-semana-solido-en-estados-unidos",
+          "title": "Tras \"carreras difíciles\", Colapinto va por un fin de semana sólido en Estados Unidos",
+          "summary": "El piloto de Alpine F1 Team quiere revertir en Austin los nulos resultados en las competencias de Baku, Sepang y Singapur.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tras-carreras-dificiles-colapinto-va-por-un-fin-de-semana-solido-en-estados-unidos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-F1-Colapinto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-20T16:24:22.000Z",
+          "addedAt": "2026-10-20T19:25:58.833Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -586,21 +556,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-mundial-de-flat-track-en-argentina-con-31-pilotos-anotados",
-          "title": "Mundial de Flat Track en Argentina con 31 pilotos anotados",
-          "summary": "Totoras se prepara para un fin de semana histórico el 24 y 25 de octubre con un mundial en territorio santafecino.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/mundial-de-flat-track-en-argentina-con-31-pilotos-anotados/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Flat-Track-Pilotos.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-20T13:00:40.000Z",
-          "addedAt": "2026-10-20T19:25:59.130Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3",
           "title": "Mattia Colnaghi ingresa al equipo campeón de la Fórmula 3",
           "summary": "Luego de su paso por el MP Motorsport, el representante argentino estará compitiendo junto al Campos Racing en su segunda temporada dentro de la especialidad.",
@@ -659,13 +614,7 @@
           "addedAt": "2026-10-18T07:11:28.193Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-21T00:48:01.814Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-el-italo-argentino-mattia-colnaghi-confirmado-para-el-clasico-gp-de-macao",
           "title": "El ítalo argentino Mattia Colnaghi confirmado para el clásico GP de Macao",
@@ -680,19 +629,25 @@
           "addedAt": "2026-10-18T14:11:35.077Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-21T05:22:34.622Z",
+      "items": [
         {
-          "id": "campeones-com-ar-canapino-prueba-en-san-nicolas-de-cara-a-la-definicion-de-tn",
-          "title": "Canapino prueba en San Nicolás de cara a la definición de TN",
-          "summary": "El arrecifeño llegó con el equipo Salvita Racing para chequear el funcionamiento del Chevrolet de Clase 3.",
+          "id": "campeones-com-ar-mundial-de-flat-track-en-argentina-con-31-pilotos-anotados",
+          "title": "Mundial de Flat Track en Argentina con 31 pilotos anotados",
+          "summary": "Totoras se prepara para un fin de semana histórico el 24 y 25 de octubre con un mundial en territorio santafecino.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/canapino-prueba-en-san-nicolas-de-cara-a-la-definicion-de-tn/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-TNC3-Canapino.jpg",
+          "url": "https://campeones.com.ar/mundial-de-flat-track-en-argentina-con-31-pilotos-anotados/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Flat-Track-Pilotos.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-20T19:01:19.000Z",
-          "addedAt": "2026-10-20T19:25:59.340Z",
+          "publishedAt": "2026-10-20T13:00:40.000Z",
+          "addedAt": "2026-10-20T19:25:59.130Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -723,6 +678,21 @@
           "language": "es",
           "publishedAt": "2026-10-17T20:02:27.000Z",
           "addedAt": "2026-10-18T07:11:27.209Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-canapino-prueba-en-san-nicolas-de-cara-a-la-definicion-de-tn",
+          "title": "Canapino prueba en San Nicolás de cara a la definición de TN",
+          "summary": "El arrecifeño llegó con el equipo Salvita Racing para chequear el funcionamiento del Chevrolet de Clase 3.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/canapino-prueba-en-san-nicolas-de-cara-a-la-definicion-de-tn/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-TNC3-Canapino.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-20T15:01:19.000Z",
+          "addedAt": "2026-10-20T19:25:59.340Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -940,23 +910,8 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-21T00:48:01.814Z",
+      "createdAt": "2026-10-21T05:22:34.622Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
-          "title": "La F1 confirmó la vuelta de los motores V8: qué dijo Ben Sulayem",
-          "summary": "La categoría prepara un cambio importante en sus unidades de potencia, con autos más livianos y menores costos de desarrollo. La novedad se conoció durante la presentación de una futura carrera en África.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-id766085.html",
-          "image": "https://media.tycsports.com/files/2026/10/11/994978/colapinto-en-el-gp-de-singapur-photo-by-james-suttonlat-images_1440x810.webp",
-          "body": "La categoría prepara un cambio importante en sus unidades de potencia, con autos más livianos y menores costos de desarrollo. La novedad se conoció durante la presentación de una futura carrera en África.\n\nColapinto en el GP de Singapur (Photo by James Sutton/LAT Images) + Seguinos en El debate por el futuro de los motores volvió a ganar fuerza en la Fórmula 1 y ya tiene un horizonte definido. Mohammed Ben Sulayem, presidente de la FIA, anunció que los V8 regresarán en 2030 , en una decisión que, según explicó, cuenta con el respaldo de los principales actores de la categoría.\n\nLa confirmación se produjo durante la presentación del Gran Premio de Ruanda, que marcará el regreso de la Máxima a África después de cuatro décadas. El dirigente emiratí realizó el anuncio junto a Stefano Domenicali, director ejecutivo de la F1, una presencia que refleja el trabajo conjunto entre ambas organizaciones.\n\n\" Lo bueno de 2030 es que estamos trabajando juntos. El lanzamiento del nuevo V8 será en 2030, así que Ruanda tendrá ese motor en la primera carrera . Cuando pensamos: '¿Cuáles son los objetivos de este motor?'. Como piloto, lo primero que necesitamos son coches ligeros, así que va a ser aproximadamente 80 kilogramos más ligero . Luego está el segundo aspecto, que es mantener el negocio, por lo que habrá que reducir al menos un 50% el gasto en desarrollo y en motor . En tercer lugar, se trata de los aficionados \", explicó Ben Sulayem.\n\nLa modificación responde, en parte, al descontento que generaron las actuales unidades de potencia . Desde 2014, la categoría utiliza motores híbridos de seis cilindros, pero el aumento de la participación eléctrica del 20% al 50% en la nueva configuración provocó cuestionamientos por su impacto en el rendimiento y el espectáculo.",
-          "language": "es",
-          "publishedAt": "2026-10-14T01:34:46.000Z",
-          "addedAt": "2026-10-18T07:11:27.970Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
         {
           "id": "www-tycsports-com-automovilismo-christian-horner-revelo-como-red-bull-favorecio-a-max-verstappen-sobre-checo-perez-en-la",
           "title": "Horner reveló cómo Red Bull favoreció a Verstappen sobre Checo Pérez",
@@ -999,6 +954,21 @@
           "language": "es",
           "publishedAt": "2026-10-14T14:30:28.000Z",
           "addedAt": "2026-10-18T07:11:28.079Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
+          "title": "La F1 confirmó la vuelta de los motores V8: qué dijo Ben Sulayem",
+          "summary": "La categoría prepara un cambio importante en sus unidades de potencia, con autos más livianos y menores costos de desarrollo. La novedad se conoció durante la presentación de una futura carrera en África.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-id766085.html",
+          "image": "https://media.tycsports.com/files/2026/10/11/994978/colapinto-en-el-gp-de-singapur-photo-by-james-suttonlat-images_1440x810.webp",
+          "body": "La categoría prepara un cambio importante en sus unidades de potencia, con autos más livianos y menores costos de desarrollo. La novedad se conoció durante la presentación de una futura carrera en África.\n\nColapinto en el GP de Singapur (Photo by James Sutton/LAT Images) + Seguinos en El debate por el futuro de los motores volvió a ganar fuerza en la Fórmula 1 y ya tiene un horizonte definido. Mohammed Ben Sulayem, presidente de la FIA, anunció que los V8 regresarán en 2030 , en una decisión que, según explicó, cuenta con el respaldo de los principales actores de la categoría.\n\nLa confirmación se produjo durante la presentación del Gran Premio de Ruanda, que marcará el regreso de la Máxima a África después de cuatro décadas. El dirigente emiratí realizó el anuncio junto a Stefano Domenicali, director ejecutivo de la F1, una presencia que refleja el trabajo conjunto entre ambas organizaciones.\n\n\" Lo bueno de 2030 es que estamos trabajando juntos. El lanzamiento del nuevo V8 será en 2030, así que Ruanda tendrá ese motor en la primera carrera . Cuando pensamos: '¿Cuáles son los objetivos de este motor?'. Como piloto, lo primero que necesitamos son coches ligeros, así que va a ser aproximadamente 80 kilogramos más ligero . Luego está el segundo aspecto, que es mantener el negocio, por lo que habrá que reducir al menos un 50% el gasto en desarrollo y en motor . En tercer lugar, se trata de los aficionados \", explicó Ben Sulayem.\n\nLa modificación responde, en parte, al descontento que generaron las actuales unidades de potencia . Desde 2014, la categoría utiliza motores híbridos de seis cilindros, pero el aumento de la participación eléctrica del 20% al 50% en la nueva configuración provocó cuestionamientos por su impacto en el rendimiento y el espectáculo.",
+          "language": "es",
+          "publishedAt": "2026-10-14T01:34:46.000Z",
+          "addedAt": "2026-10-18T07:11:27.970Z",
           "category": "general",
           "tag": "Carrera"
         },
@@ -1063,6 +1033,21 @@
           "tag": "F1"
         },
         {
+          "id": "campeones-com-ar-fallecio-fermin-maceratesi-piloto-de-turismo-carretera",
+          "title": "Falleció Fermín Maceratesi, quien fue piloto de Turismo Carretera | Campeones",
+          "summary": "Representó a Elortondo durante la década del sesenta, con destacadas actuaciones en las vueltas de San Nicolás y Arrecifes.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fallecio-fermin-maceratesi-piloto-de-turismo-carretera/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-Maceratesi-Fermin.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-20T18:55:43.000Z",
+          "addedAt": "2026-10-20T22:28:57.111Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "campeones-com-ar-francisco-luengo-se-llevo-la-serie-del-tc-mouras",
           "title": "Francisco Luengo se llevó la serie del TC Mouras",
           "summary": "El piloto de Chevrolet logró su 4ª victoria parcial del año tras prevalecer en la disputa con el “poleman” Valentino Alaux (Dodge), quien se despistó y luego abandonó por problemas de motor.",
@@ -1123,6 +1108,21 @@
           "tag": "Carrera"
         },
         {
+          "id": "campeones-com-ar-verstappen-opino-sobre-realizar-los-gg-pp-de-f1-en-qatar-y-abu-dhabi",
+          "title": "Verstappen opinó sobre realizar los GG. PP. de F1 en Qatar y Abu Dhabi",
+          "summary": "El piloto de Red Bull aclaró que estar en ambas competencias le «encantaría, pero bajo las condiciones adecuadas».",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/verstappen-opino-sobre-realizar-los-gg-pp-de-f1-en-qatar-y-abu-dhabi/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-F1-Abu-Dhabi.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-20T14:34:18.000Z",
+          "addedAt": "2026-10-20T15:14:20.753Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "campeones-com-ar-damian-perez-domino-el-primer-ensayo-de-tc-pista-mouras",
           "title": "Damián Pérez e Ignacio Lovich dominaron los ensayos de TC Pista Mouras | Campeones",
           "summary": "En La Plata, la categoría inicia el playoff rumbo a la recta final del campeonato. Los Dodge fueron quienes se adjudicaron las tandas, primero el del José C. Paz Racing (el más veloz) y luego el del Canning Motorsport.",
@@ -1181,7 +1181,13 @@
           "addedAt": "2026-10-18T07:11:28.072Z",
           "category": "general",
           "tag": "Mercado"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-21T05:22:34.622Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -1211,13 +1217,7 @@
           "addedAt": "2026-10-18T18:11:26.490Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-21T00:48:01.814Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp",
           "title": "Martín Vs Márquez: Una batalla encerrada en dos puntos y un récord histórico para MotoGP",
@@ -1275,36 +1275,6 @@
           "language": "es",
           "publishedAt": "2026-10-17T20:49:43.000Z",
           "addedAt": "2026-10-18T07:11:27.320Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-tc-mouras-luengo-marco-el-rumbo-en-la-ultima-practica-platense",
-          "title": "TC Mouras: Luengo marcó el rumbo en la última práctica platense",
-          "summary": "El único representante de Chevrolet en la categoría aventajó por 0s172 al piloto del Galarza Racing en el segundo ensayo de la 1ª fecha de la Copa Coronación 2026.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-mouras-luengo-marco-el-rumbo-en-la-ultima-practica-platense/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Luengo-TCM-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-17T18:35:57.000Z",
-          "addedAt": "2026-10-18T07:11:27.396Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata",
-          "title": "TC Pick Up: Palazzo es la primera referencia en el regreso a La Plata",
-          "summary": "El pinamarense del EZE-B Team, que viene de lograr su 1ª victoria en la categoría en el retorno del automovilismo grande a Balcarce, resultó el más veloz en el entrenamiento que dio comienzo a la 2ª fecha de la Copa Coronación 2026.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Palazzo-TCPK-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-17T14:16:48.000Z",
-          "addedAt": "2026-10-18T07:11:27.161Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1492,8 +1462,38 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-21T00:48:01.814Z",
+      "createdAt": "2026-10-21T05:22:34.622Z",
       "items": [
+        {
+          "id": "campeones-com-ar-tc-mouras-luengo-marco-el-rumbo-en-la-ultima-practica-platense",
+          "title": "TC Mouras: Luengo marcó el rumbo en la última práctica platense",
+          "summary": "El único representante de Chevrolet en la categoría aventajó por 0s172 al piloto del Galarza Racing en el segundo ensayo de la 1ª fecha de la Copa Coronación 2026.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-mouras-luengo-marco-el-rumbo-en-la-ultima-practica-platense/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Luengo-TCM-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T18:35:57.000Z",
+          "addedAt": "2026-10-18T07:11:27.396Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata",
+          "title": "TC Pick Up: Palazzo es la primera referencia en el regreso a La Plata",
+          "summary": "El pinamarense del EZE-B Team, que viene de lograr su 1ª victoria en la categoría en el retorno del automovilismo grande a Balcarce, resultó el más veloz en el entrenamiento que dio comienzo a la 2ª fecha de la Copa Coronación 2026.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Palazzo-TCPK-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-17T14:16:48.000Z",
+          "addedAt": "2026-10-18T07:11:27.161Z",
+          "category": "general",
+          "tag": "F1"
+        },
         {
           "id": "campeones-com-ar-krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay",
           "title": "Krujoski marcó la referencia de Turismo Carretera 2000 en C. del Uruguay",
@@ -1593,7 +1593,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-21T00:47:55.206Z",
+          "publishedAt": "2026-10-21T05:22:28.150Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1608,7 +1608,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/compromise-and-identifying-balance-how-i-race-with-oliver-goethe.lJ9hC0P9x3eT7CLWC06g5",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-21T00:47:55.206Z",
+          "publishedAt": "2026-10-21T05:22:28.149Z",
           "addedAt": "2026-10-19T10:11:26.693Z",
           "category": "support",
           "tag": "F2",
@@ -1623,7 +1623,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-21T00:47:55.206Z",
+          "publishedAt": "2026-10-21T05:22:28.150Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1638,7 +1638,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/mp-motorsport-confirm-the-signing-of-zhenrui-chi-for-the-2027-season.1ui1K3QRS2JqX8035h8L2V",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-21T00:47:55.547Z",
+          "publishedAt": "2026-10-21T05:22:28.595Z",
           "addedAt": "2026-10-19T17:03:20.367Z",
           "category": "support",
           "tag": "F3",
@@ -1653,7 +1653,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/maciej-gladysz-moves-to-mp-motorsport-for-the-2027-season.18Dxa0cPjncr97B42XsDtx",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-21T00:47:55.547Z",
+          "publishedAt": "2026-10-21T05:22:28.595Z",
           "addedAt": "2026-10-19T13:11:27.034Z",
           "category": "support",
           "tag": "F3",
@@ -1668,7 +1668,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/preview-2026-post-season-testing-starts-with-two-days-in-jerez.72kniH8tAn4enSDSUW5BHI",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-21T00:47:55.547Z",
+          "publishedAt": "2026-10-21T05:22:28.595Z",
           "addedAt": "2026-10-20T19:25:57.597Z",
           "category": "support",
           "tag": "F3",
@@ -1683,7 +1683,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-21T00:44:56.149Z",
+          "publishedAt": "2026-10-21T05:19:29.901Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1698,7 +1698,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-21T00:42:56.149Z",
+          "publishedAt": "2026-10-21T05:17:29.901Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1713,7 +1713,7 @@
           "url": "https://www.f1academy.com/Latest/7kuxkn4EPBirEZ6hESRuwr/competition-win-a-one-of-a-kind-pair-of-f1-academy-custom-tecovas-annie-boots",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-21T00:47:56.148Z",
+          "publishedAt": "2026-10-21T05:22:29.901Z",
           "addedAt": "2026-10-19T10:11:29.840Z",
           "category": "support",
           "tag": "F1 Academy",
