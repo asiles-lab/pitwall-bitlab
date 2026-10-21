@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T22:28:54.517Z",
-  "checkedAt": "2026-10-20T22:28:54.517Z",
+  "updatedAt": "2026-10-21T00:47:54.556Z",
+  "checkedAt": "2026-10-21T00:47:54.556Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,36 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "www-tycsports-com-automovilismo-christian-horner-revelo-como-red-bull-favorecio-a-max-verstappen-sobre-checo-perez-en-la",
-      "title": "Horner reveló cómo Red Bull favoreció a Verstappen sobre Checo Pérez",
-      "summary": "El exjefe de la escudería austríaca reconoció que las presiones del entorno del neerlandés provocaron cambios técnicos en el monoplaza durante 2022, cuando su compañero mexicano también peleaba por el campeonato.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/christian-horner-revelo-como-red-bull-favorecio-a-max-verstappen-sobre-checo-perez-en-la-formula-1-fue-muy-claro-el-mensaje-id767389.html",
-      "image": "https://media.tycsports.com/files/2026/10/20/997779/horner-verstappen-perez_1440x810.webp?v=1",
-      "body": "El exjefe de la escudería austríaca reconoció que las presiones del entorno del neerlandés provocaron cambios técnicos en el monoplaza durante 2022, cuando su compañero mexicano también peleaba por el campeonato.\n\nChristian Horner, junto Max Verstappen y Checo Pérez. (Mark Thompson/Getty Images) + Seguinos en La interna de Red Bull durante la temporada 2022 de la Fórmula 1 sumó un capítulo inesperado . Christian Horner reconoció que el equipo modificó el desarrollo del monoplaza para favorecer a Max Verstappen, luego de recibir un reclamo de su entorno cuando Checo Pérez comenzaba a disputarle el protagonismo.\n\nEn una entrevista con el podcast High Performance , realizada durante la promoción de su libro Drive: A Memoir of Speed, el exjefe de la escudería recordó la conversación que mantuvo con el representante del neerlandés tras la victoria del mexicano en Mónaco. El pedido apuntaba directamente a la evolución del RB18. \"Recuerdo haberme sentado con el representante de Max por la época de Azerbaiyán ese año y me dijeron: ‘ Mira, has desarrollado este auto alrededor de Checo. Necesitas estar siguiendo lo que Max necesita\"” , relató. “Así que fue muy claro el mensaje que se estaba transmitiendo” , aseveró.\n\nLa explicación de aquella situación se remontaba al trabajo realizado por Alex Albon, quien había participado en el desarrollo del auto mientras la estructura concentraba sus esfuerzos en la definición del campeonato de 2021 frente a Mercedes. Su estilo de manejo favorecía una configuración con mayor subviraje, que resultaba más cómoda para Pérez. \"Albon hizo un trabajo impresionante en segundo plano desarrollando el auto de ‘22 , porque la mayor parte del enfoque estaba en el auto del ‘21, y lo desarrolló hasta el último momento” , afirmó. “Alex había desarrollado e",
-      "language": "es",
-      "publishedAt": "2026-10-20T18:02:42.000Z",
-      "addedAt": "2026-10-20T19:25:57.445Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-canapino-prueba-en-san-nicolas-de-cara-a-la-definicion-de-tn",
-      "title": "Canapino prueba en San Nicolás de cara a la definición de TN",
-      "summary": "El arrecifeño llegó con el equipo Salvita Racing para chequear el funcionamiento del Chevrolet de Clase 3.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/canapino-prueba-en-san-nicolas-de-cara-a-la-definicion-de-tn/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-TNC3-Canapino.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-20T19:01:19.000Z",
-      "addedAt": "2026-10-20T19:25:59.340Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-verstappen-opino-sobre-realizar-los-gg-pp-de-f1-en-qatar-y-abu-dhabi",
       "title": "Verstappen opinó sobre realizar los GG. PP. de F1 en Qatar y Abu Dhabi",
@@ -418,7 +388,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-20T22:29:03.178Z",
+      "createdAt": "2026-10-21T00:48:01.814Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id",
@@ -694,7 +664,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-20T22:29:03.178Z",
+      "createdAt": "2026-10-21T00:48:01.814Z",
       "items": [
         {
           "id": "campeones-com-ar-el-italo-argentino-mattia-colnaghi-confirmado-para-el-clasico-gp-de-macao",
@@ -712,32 +682,17 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-canapino-lidera-por-1a-vez-en-tc-pick-up-y-alimenta-el-sueno-de-otra-triple-corona",
-          "title": "Canapino lidera por 1ª vez en TC Pick Up y alimenta el sueño de otra “Triple Corona”",
-          "summary": "Si bien no avizora un panorama del todo favorable en el TCPK, algo similar a lo que considera que sucede en el Turismo Carretera, el “Titán” tiene posibilidades concretas de repetir el hito de 2025, aunque esta vez el logro sería 100% Chevrolet.",
+          "id": "campeones-com-ar-canapino-prueba-en-san-nicolas-de-cara-a-la-definicion-de-tn",
+          "title": "Canapino prueba en San Nicolás de cara a la definición de TN",
+          "summary": "El arrecifeño llegó con el equipo Salvita Racing para chequear el funcionamiento del Chevrolet de Clase 3.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/canapino-lidera-por-1a-vez-en-tc-pick-up-y-alimenta-el-sueno-de-otra-triple-corona/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TCPK-2026-1.jpg",
+          "url": "https://campeones.com.ar/canapino-prueba-en-san-nicolas-de-cara-a-la-definicion-de-tn/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-TNC3-Canapino.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-20T12:23:36.000Z",
-          "addedAt": "2026-10-20T15:14:19.344Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
-          "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
-          "summary": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/canapino-maniobra-viral-tn-id766078.html",
-          "image": "https://media.tycsports.com/files/2026/10/13/995713/foto_1440x810.webp?v=1",
-          "body": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.\n\nLa cámara on board de Canapino y su sobresaliente maniobra + Seguinos en La extraordinaria maniobra de Agustín Canapino, en la que pasó a tres autos en la última vuelta, sigue dando que hablar. El piloto de 36 años posteó un video en su cuenta de Instagram con la cámara a bordo de su destacada acción , que le permitió quedarse con la victoria en la segunda serie de la Clase 3 del Turismo Nacional en el Autódromo Ciudad de San Martín, en Mendoza, el último domingo.\n\n“¡La maniobra desde adentro! Aplausos para Facu Chapur, Jorge Barrio y Facu Marques por poner todo y el nivel conductivo. La calidad del automovilismo argentino reflejada en su máxima expresión”, fue el mensaje del oriundo de Arrecifes que acompañó las imágenes desde el interior de su Chevrolet Cruze.\n\nLa publicación rápidamente se viralizó en redes sociales y ya cuenta con más de 75.000 me gusta y alrededor de 1500 comentarios. Entre tantas reacciones, se destaca la de Ale Martínez, el hermano del Dibu, quien respondió: “Qué locura”. No solo eso, sino que las imágenes alcanzaron repercusión internacional y diversos medios sudamericanos, europeos y asiáticos se rindieron ante la habilidad de Canapino al volante.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur Lo cierto es que la secuencia no tiene desperdicio. En la última vuelta de la carrera en Mendoza, Jorge Barrio y Facundo Chapur venían compitiendo cabeza a cabeza por el primer lugar, con Facundo Marques en el tercero y Canapino detrás de ellos.",
-          "language": "es",
-          "publishedAt": "2026-10-14T00:47:43.000Z",
-          "addedAt": "2026-10-18T07:11:27.984Z",
+          "publishedAt": "2026-10-20T19:01:19.000Z",
+          "addedAt": "2026-10-20T19:25:59.340Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -768,6 +723,21 @@
           "language": "es",
           "publishedAt": "2026-10-17T20:02:27.000Z",
           "addedAt": "2026-10-18T07:11:27.209Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-canapino-lidera-por-1a-vez-en-tc-pick-up-y-alimenta-el-sueno-de-otra-triple-corona",
+          "title": "Canapino lidera por 1ª vez en TC Pick Up y alimenta el sueño de otra “Triple Corona”",
+          "summary": "Si bien no avizora un panorama del todo favorable en el TCPK, algo similar a lo que considera que sucede en el Turismo Carretera, el “Titán” tiene posibilidades concretas de repetir el hito de 2025, aunque esta vez el logro sería 100% Chevrolet.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/canapino-lidera-por-1a-vez-en-tc-pick-up-y-alimenta-el-sueno-de-otra-triple-corona/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TCPK-2026-1.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-20T12:23:36.000Z",
+          "addedAt": "2026-10-20T15:14:19.344Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -970,7 +940,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-20T22:29:03.178Z",
+      "createdAt": "2026-10-21T00:48:01.814Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -986,6 +956,21 @@
           "addedAt": "2026-10-18T07:11:27.970Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-christian-horner-revelo-como-red-bull-favorecio-a-max-verstappen-sobre-checo-perez-en-la",
+          "title": "Horner reveló cómo Red Bull favoreció a Verstappen sobre Checo Pérez",
+          "summary": "El exjefe de la escudería austríaca reconoció que las presiones del entorno del neerlandés provocaron cambios técnicos en el monoplaza durante 2022, cuando su compañero mexicano también peleaba por el campeonato.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/christian-horner-revelo-como-red-bull-favorecio-a-max-verstappen-sobre-checo-perez-en-la-formula-1-fue-muy-claro-el-mensaje-id767389.html",
+          "image": "https://media.tycsports.com/files/2026/10/20/997779/horner-verstappen-perez_1440x810.webp?v=1",
+          "body": "El exjefe de la escudería austríaca reconoció que las presiones del entorno del neerlandés provocaron cambios técnicos en el monoplaza durante 2022, cuando su compañero mexicano también peleaba por el campeonato.\n\nChristian Horner, junto Max Verstappen y Checo Pérez. (Mark Thompson/Getty Images) + Seguinos en La interna de Red Bull durante la temporada 2022 de la Fórmula 1 sumó un capítulo inesperado . Christian Horner reconoció que el equipo modificó el desarrollo del monoplaza para favorecer a Max Verstappen, luego de recibir un reclamo de su entorno cuando Checo Pérez comenzaba a disputarle el protagonismo.\n\nEn una entrevista con el podcast High Performance , realizada durante la promoción de su libro Drive: A Memoir of Speed, el exjefe de la escudería recordó la conversación que mantuvo con el representante del neerlandés tras la victoria del mexicano en Mónaco. El pedido apuntaba directamente a la evolución del RB18. \"Recuerdo haberme sentado con el representante de Max por la época de Azerbaiyán ese año y me dijeron: ‘ Mira, has desarrollado este auto alrededor de Checo. Necesitas estar siguiendo lo que Max necesita\"” , relató. “Así que fue muy claro el mensaje que se estaba transmitiendo” , aseveró.\n\nLa explicación de aquella situación se remontaba al trabajo realizado por Alex Albon, quien había participado en el desarrollo del auto mientras la estructura concentraba sus esfuerzos en la definición del campeonato de 2021 frente a Mercedes. Su estilo de manejo favorecía una configuración con mayor subviraje, que resultaba más cómoda para Pérez. \"Albon hizo un trabajo impresionante en segundo plano desarrollando el auto de ‘22 , porque la mayor parte del enfoque estaba en el auto del ‘21, y lo desarrolló hasta el último momento” , afirmó. “Alex había desarrollado e",
+          "language": "es",
+          "publishedAt": "2026-10-20T18:02:42.000Z",
+          "addedAt": "2026-10-20T19:25:57.445Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-era-una-promesa-de-la-f1-un-helicoptero-le-corto-el-brazo-y-termino-en-la-quiebra-id7671",
@@ -1226,7 +1211,13 @@
           "addedAt": "2026-10-18T18:11:26.490Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-21T00:48:01.814Z",
+      "items": [
         {
           "id": "campeones-com-ar-martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp",
           "title": "Martín Vs Márquez: Una batalla encerrada en dos puntos y un récord histórico para MotoGP",
@@ -1241,13 +1232,7 @@
           "addedAt": "2026-10-19T13:11:27.120Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-20T22:29:03.178Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
           "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
@@ -1320,21 +1305,6 @@
           "language": "es",
           "publishedAt": "2026-10-17T14:16:48.000Z",
           "addedAt": "2026-10-18T07:11:27.161Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay",
-          "title": "Krujoski marcó la referencia de Turismo Carretera 2000 en C. del Uruguay",
-          "summary": "La práctica de la categoría tuvo al piloto correntino como el más veloz en la pista entrerriana, superando a Llaver, el líder del certamen. Tercero quedó Carinelli.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TurCar2000-Krujoski.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-16T20:51:02.000Z",
-          "addedAt": "2026-10-18T07:11:27.429Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1459,6 +1429,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
+          "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
+          "summary": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/canapino-maniobra-viral-tn-id766078.html",
+          "image": "https://media.tycsports.com/files/2026/10/13/995713/foto_1440x810.webp?v=1",
+          "body": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.\n\nLa cámara on board de Canapino y su sobresaliente maniobra + Seguinos en La extraordinaria maniobra de Agustín Canapino, en la que pasó a tres autos en la última vuelta, sigue dando que hablar. El piloto de 36 años posteó un video en su cuenta de Instagram con la cámara a bordo de su destacada acción , que le permitió quedarse con la victoria en la segunda serie de la Clase 3 del Turismo Nacional en el Autódromo Ciudad de San Martín, en Mendoza, el último domingo.\n\n“¡La maniobra desde adentro! Aplausos para Facu Chapur, Jorge Barrio y Facu Marques por poner todo y el nivel conductivo. La calidad del automovilismo argentino reflejada en su máxima expresión”, fue el mensaje del oriundo de Arrecifes que acompañó las imágenes desde el interior de su Chevrolet Cruze.\n\nLa publicación rápidamente se viralizó en redes sociales y ya cuenta con más de 75.000 me gusta y alrededor de 1500 comentarios. Entre tantas reacciones, se destaca la de Ale Martínez, el hermano del Dibu, quien respondió: “Qué locura”. No solo eso, sino que las imágenes alcanzaron repercusión internacional y diversos medios sudamericanos, europeos y asiáticos se rindieron ante la habilidad de Canapino al volante.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur Lo cierto es que la secuencia no tiene desperdicio. En la última vuelta de la carrera en Mendoza, Jorge Barrio y Facundo Chapur venían compitiendo cabeza a cabeza por el primer lugar, con Facundo Marques en el tercero y Canapino detrás de ellos.",
+          "language": "es",
+          "publishedAt": "2026-10-14T00:47:43.000Z",
+          "addedAt": "2026-10-18T07:11:27.984Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec",
           "title": "\"Pechito\" López espera por las 6 horas de Barcelona de WEC",
           "summary": "El fin de semana se disputará la penúltima ronda del campeonato en la pista catalana, en donde el argentino conducirá el Lexus de Akkodis ASP Team.",
@@ -1502,6 +1487,27 @@
           "addedAt": "2026-10-18T07:11:27.166Z",
           "category": "argentino",
           "tag": "Argentino"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-21T00:48:01.814Z",
+      "items": [
+        {
+          "id": "campeones-com-ar-krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay",
+          "title": "Krujoski marcó la referencia de Turismo Carretera 2000 en C. del Uruguay",
+          "summary": "La práctica de la categoría tuvo al piloto correntino como el más veloz en la pista entrerriana, superando a Llaver, el líder del certamen. Tercero quedó Carinelli.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TurCar2000-Krujoski.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-16T20:51:02.000Z",
+          "addedAt": "2026-10-18T07:11:27.429Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-formula-1-africa-ruanda-id765901-html",
@@ -1517,13 +1523,7 @@
           "addedAt": "2026-10-18T07:11:27.669Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-20T22:29:03.178Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-la-formula-1-confirma-el-acuerdo-con-ruanda-para-regresar-a-africa",
           "title": "La Fórmula 1 confirma el acuerdo con Ruanda para regresar a África",
@@ -1593,7 +1593,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T22:28:55.232Z",
+          "publishedAt": "2026-10-21T00:47:55.206Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1608,7 +1608,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/compromise-and-identifying-balance-how-i-race-with-oliver-goethe.lJ9hC0P9x3eT7CLWC06g5",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T22:28:55.231Z",
+          "publishedAt": "2026-10-21T00:47:55.206Z",
           "addedAt": "2026-10-19T10:11:26.693Z",
           "category": "support",
           "tag": "F2",
@@ -1623,7 +1623,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T22:28:55.232Z",
+          "publishedAt": "2026-10-21T00:47:55.206Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
           "category": "support",
           "tag": "F2",
@@ -1638,7 +1638,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/mp-motorsport-confirm-the-signing-of-zhenrui-chi-for-the-2027-season.1ui1K3QRS2JqX8035h8L2V",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T22:28:55.316Z",
+          "publishedAt": "2026-10-21T00:47:55.547Z",
           "addedAt": "2026-10-19T17:03:20.367Z",
           "category": "support",
           "tag": "F3",
@@ -1653,7 +1653,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/maciej-gladysz-moves-to-mp-motorsport-for-the-2027-season.18Dxa0cPjncr97B42XsDtx",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T22:28:55.316Z",
+          "publishedAt": "2026-10-21T00:47:55.547Z",
           "addedAt": "2026-10-19T13:11:27.034Z",
           "category": "support",
           "tag": "F3",
@@ -1668,7 +1668,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/preview-2026-post-season-testing-starts-with-two-days-in-jerez.72kniH8tAn4enSDSUW5BHI",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T22:28:55.316Z",
+          "publishedAt": "2026-10-21T00:47:55.547Z",
           "addedAt": "2026-10-20T19:25:57.597Z",
           "category": "support",
           "tag": "F3",
@@ -1683,7 +1683,7 @@
           "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T22:25:57.202Z",
+          "publishedAt": "2026-10-21T00:44:56.149Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1698,7 +1698,7 @@
           "url": "https://www.f1academy.com/Latest/5uqM9aDWJR1l7emV71Y4lP/ferreira-penalised-following-silverstone-feature-race",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T22:23:57.202Z",
+          "publishedAt": "2026-10-21T00:42:56.149Z",
           "addedAt": "2026-10-18T07:11:27.980Z",
           "category": "support",
           "tag": "F1 Academy",
@@ -1713,7 +1713,7 @@
           "url": "https://www.f1academy.com/Latest/7kuxkn4EPBirEZ6hESRuwr/competition-win-a-one-of-a-kind-pair-of-f1-academy-custom-tecovas-annie-boots",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-20T22:28:57.202Z",
+          "publishedAt": "2026-10-21T00:47:56.148Z",
           "addedAt": "2026-10-19T10:11:29.840Z",
           "category": "support",
           "tag": "F1 Academy",
