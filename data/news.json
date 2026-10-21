@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-21T15:26:33.084Z",
-  "checkedAt": "2026-10-21T15:26:33.084Z",
+  "updatedAt": "2026-10-21T19:27:15.401Z",
+  "checkedAt": "2026-10-21T19:27:15.401Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,6 +40,36 @@
   },
   "backlog": [
     {
+      "id": "campeones-com-ar-thiago-palotini-carrera-en-ascenso-viajes-a-europa-y-el-desembarco-en-la-formula-4-brasil",
+      "title": "Thiago Palotini: carrera en ascenso, competencias en Europa y la llegada a la Fórmula 4 Brasil | Campeones",
+      "summary": "Tiene 15 años, es oriundo en Necochea y viene de competir en la F4 España e Italia. En noviembre, compartirá pista con la F1 cuando desembarque en la especialidad brasilera de F4.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/thiago-palotini-carrera-en-ascenso-viajes-a-europa-y-el-desembarco-en-la-formula-4-brasil/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-12.07.47.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-21T18:45:58.000Z",
+      "addedAt": "2026-10-21T19:27:18.076Z",
+      "category": "general",
+      "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-positivo-dia-para-bautista-panetta-en-viterbo",
+      "title": "Positivo día para Bautista Panetta en Viterbo | Campeones",
+      "summary": "En la división S125 Senior, el joven de Campana clasificó 8.° y se ubicó 7.° en el único Heat de la jornada, junto al RCK Team en la Iame World Finals.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/positivo-dia-para-bautista-panetta-en-viterbo/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-21-134153.png",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-21T16:43:21.000Z",
+      "addedAt": "2026-10-21T19:27:18.949Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-tanto-qatar-como-la-f1-y-motogp-ratifican-sus-carreras-del-ano-2026",
       "title": "Tanto Qatar como la F1 y MotoGP ratifican sus carreras del año 2026",
       "summary": "El Circuito Internacional de Losail se prepara para albergar el GP de Qatar de MotoGP el 8 de noviembre y de F1 el 29 de noviembre.",
@@ -68,6 +98,21 @@
       "addedAt": "2026-10-21T15:26:34.806Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-con-una-baja-importante-el-tc-pista-llega-a-rosario",
+      "title": "Con una baja importante, el TC Pista llega a Rosario | Campeones",
+      "summary": "La \"telonera\" del Turismo Carretera tendrá 19 autos en pista y la ausencia de Eugenio Provens, protagonista de la Copa de Plata.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/con-una-baja-importante-el-tc-pista-llega-a-rosario/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/tc-pista-san-ncipolas.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-21T19:20:45.000Z",
+      "addedAt": "2026-10-21T19:27:18.258Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-rosario-se-viste-de-tc-para-la-copa-de-oro-2026-y-tambien-la-apertura-del-ano-2027",
@@ -126,21 +171,6 @@
       "language": "es",
       "publishedAt": "2026-10-15T17:22:45.000Z",
       "addedAt": "2026-10-18T07:11:27.183Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-a-la-venta-las-entradas-para-el-tc-en-rosario",
-      "title": "A la venta las entradas para el TC en Rosario",
-      "summary": "Comenzó la venta anticipada para la decimotercera presentación del año en el autódromo «Juan Manuel Fangio» los próximos 24 y 25 de octubre.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/a-la-venta-las-entradas-para-el-tc-en-rosario/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2022/08/rosario-autodromo.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-14T18:38:13.000Z",
-      "addedAt": "2026-10-18T07:11:27.503Z",
       "category": "general",
       "tag": "F1"
     },
@@ -263,6 +293,21 @@
       "addedAt": "2026-10-18T07:11:28.124Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-a-la-venta-las-entradas-para-el-tc-en-rosario",
+      "title": "A la venta las entradas para el TC en Rosario",
+      "summary": "Comenzó la venta anticipada para la decimotercera presentación del año en el autódromo «Juan Manuel Fangio» los próximos 24 y 25 de octubre.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/a-la-venta-las-entradas-para-el-tc-en-rosario/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2022/08/rosario-autodromo.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-14T18:38:13.000Z",
+      "addedAt": "2026-10-18T07:11:27.503Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tc2000-traut-con-su-primera-pole-en-el-cierre-de-la-clasificacion-pampeana",
@@ -388,7 +433,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-21T15:26:44.559Z",
+      "createdAt": "2026-10-21T19:27:26.344Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-norberto-fontana-argentino-quedo-en-medio-definicion-mas-polemica-f1-schumacher-villeneu",
@@ -436,21 +481,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
-          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
-          "summary": "Cobertura especial del GP de Estados Unidos de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-20T19:00:17.000Z",
-          "addedAt": "2026-10-20T22:28:56.803Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-mattia-colnaghi-campos-racing-formula-3-2027-id767199-html",
           "title": "Mattia Colnaghi correrá en un equipo de punta de la F3 en 2027",
           "summary": "El piloto argentino, que integra la academia de Red Bull, deja MP Motorsport para unirse a la escudería campeona de la categoría y tendrá la oportunidad de luchar por el título el próximo año.",
@@ -464,6 +494,21 @@
           "addedAt": "2026-10-19T15:11:27.752Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
+          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
+          "summary": "Cobertura especial del GP de Estados Unidos de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-20T19:00:17.000Z",
+          "addedAt": "2026-10-20T22:28:56.803Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-sigue-el-idilio-de-lando-norris-con-franco-colapinto-es-una-carta-muy-bonita-id766880-ht",
@@ -511,21 +556,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-tras-carreras-dificiles-colapinto-va-por-un-fin-de-semana-solido-en-estados-unidos",
-          "title": "Tras \"carreras difíciles\", Colapinto va por un fin de semana sólido en Estados Unidos",
-          "summary": "El piloto de Alpine F1 Team quiere revertir en Austin los nulos resultados en las competencias de Baku, Sepang y Singapur.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tras-carreras-dificiles-colapinto-va-por-un-fin-de-semana-solido-en-estados-unidos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-F1-Colapinto.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-20T16:24:22.000Z",
-          "addedAt": "2026-10-20T19:25:58.833Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
           "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
           "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
@@ -537,6 +567,21 @@
           "language": "es",
           "publishedAt": "2026-10-12T21:27:52.000Z",
           "addedAt": "2026-10-18T07:11:28.307Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-tras-carreras-dificiles-colapinto-va-por-un-fin-de-semana-solido-en-estados-unidos",
+          "title": "Tras \"carreras difíciles\", Colapinto va por un fin de semana sólido en Estados Unidos",
+          "summary": "El piloto de Alpine F1 Team quiere revertir en Austin los nulos resultados en las competencias de Baku, Sepang y Singapur.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tras-carreras-dificiles-colapinto-va-por-un-fin-de-semana-solido-en-estados-unidos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-F1-Colapinto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-20T16:24:22.000Z",
+          "addedAt": "2026-10-20T19:25:58.833Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -586,6 +631,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-importante-prueba-para-agustin-canapino-en-el-tn",
+          "title": "Importante prueba para Agustín Canapino en el TN | Campeones",
+          "summary": "\"El Titán\" ensayó en San Nicolás con el Chevrolet Cruze líder de la Clase 3, en la previa de las últimas dos fechas del campeonato.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/importante-prueba-para-agustin-canapino-en-el-tn/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/1792604109_6ad8f7cd83346.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-21T19:03:39.000Z",
+          "addedAt": "2026-10-21T19:27:17.784Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-formula-1-2026-resena-de-un-ano-complicado",
           "title": "Fórmula 1 2026: reseña de un año complicado | Campeones",
           "summary": "La temporada 2026 expone las falencias de un reglamento que puso la gestión de energía por encima de la habilidad de los pilotos. En esta nota, el análisis del dominio de Mercedes, los cambios que la Fórmula 1 proyecta para el próximo ciclo de motores, la situación de Franco Colapinto y lo que resta de aquí a fin de año…",
@@ -599,6 +659,21 @@
           "addedAt": "2026-10-18T16:11:26.502Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-con-shell-un-grupo-de-fanaticos-argentinos-de-la-f1-viajara-a-las-vegas",
+          "title": "Con Shell, un grupo de fanáticos argentinos de la F1 viajará a Las Vegas | Campeones",
+          "summary": "Mariana Dalmasso, responsable de Marketing de la firma de combustibles históricamente vinculada a Ferrari, dialogó con Campeones acerca de la promoción realizada para la competencia de la “Máxima”.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/con-shell-un-grupo-de-fanaticos-argentinos-de-la-f1-viajara-a-las-vegas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/CAMPEONES-NEWS.png",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-21T16:23:20.000Z",
+          "addedAt": "2026-10-21T19:27:19.145Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-colapinto-y-los-mensajes-de-odio-en-redes-no-me-ayudan-a-mi-ni-a-mi-futuro",
@@ -629,7 +704,13 @@
           "addedAt": "2026-10-19T13:11:27.204Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-21T19:27:26.344Z",
+      "items": [
         {
           "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
           "title": "Revista Campeones: Fain lideró un histórico 1-2 de Torino en el TC",
@@ -659,13 +740,7 @@
           "addedAt": "2026-10-18T07:11:28.096Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-21T15:26:44.559Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-hadjar-exabrupto-dolor-culo-no-poder-pasar-colapinto-f1-gp-singapur-id765737-html",
           "title": "\"Dolor en el culo\": el exabrupto de Hadjar tras no poder pasar a Colapinto en el GP de Singapur",
@@ -787,21 +862,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-tc-pick-up-vuelve-a-la-plata-con-13-camionetas",
-          "title": "TC Pick Up vuelve a La Plata con 14 camionetas | Campeones",
-          "summary": "La categoría se presenta en el autódromo Mouras con el TC Mouras, la Fórmula 3 Metropolitana y el Turismo 4000 Argentino.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-pick-up-vuelve-a-la-plata-con-13-camionetas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/06/TC-PICK-UP-LA-PLATA.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-14T17:00:22.000Z",
-          "addedAt": "2026-10-18T07:11:27.176Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-el-director-deportivo-de-alpine-autocritico-tras-los-ultimos-gp-de-formula-1",
           "title": "El director deportivo de Alpine, autocrítico tras los últimos GP de Fórmula 1 | Campeones",
           "summary": "Steve Nielsen fue categórico sobre la trilogía de carreras que incluyó Bakú, Malasia y Singapur, donde la cosecha de puntos para Franco Colapinto y Pierre Gasly fue muy nula.",
@@ -862,6 +922,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
+          "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
+          "summary": "Canapino es un fanático de toda expresión de la velocidad y ve a Colapinto \"muy asentado, firme, andando rápido y está consiguiendo puntos\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-y-Colapinto-imagen.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-13T13:48:02.000Z",
+          "addedAt": "2026-10-18T07:11:27.447Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria",
           "title": "TC Mouras: Fabrizio Maggini empezó la Copa Coronación con una victoria",
           "summary": "Tras largar 4º, el mendocino logró su 2º triunfo de la temporada 2026 con el Ford del RUS Med Team y se posicionó como nuevo escolta en el “play-off” de Nicolás Jaime (Dodge), que terminó 3º. Santiago Arrigoni (Dodge) completó el “1-2” del equipo arrecifeño.",
@@ -905,58 +980,13 @@
           "addedAt": "2026-10-18T18:11:26.363Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
-          "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
-          "summary": "Canapino es un fanático de toda expresión de la velocidad y ve a Colapinto \"muy asentado, firme, andando rápido y está consiguiendo puntos\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-y-Colapinto-imagen.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-13T13:48:02.000Z",
-          "addedAt": "2026-10-18T07:11:27.447Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-tc-pick-up-werner-y-santero-ganaron-las-series-en-la-plata",
-          "title": "TC Pick Up: Werner y Santero ganaron las series en La Plata",
-          "summary": "El entrerriano se impuso de punta a punta y sin sobresaltos con la Foton Tunland G7 en la batería más veloz pero deberá largar último en la Final por una sanción de la CAF de la ACTC. Por lo tanto, la “pole” será para el mendocino, quien doblegó con su Ford Ranger a la Chevrolet S10 de Canapino y se llevó el segundo parcial.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-pick-up-werner-y-santero-ganaron-las-series-en-la-plata/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TCPK-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-18T14:52:02.000Z",
-          "addedAt": "2026-10-18T15:11:26.302Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-21T15:26:44.559Z",
+      "createdAt": "2026-10-21T19:27:26.344Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-christian-horner-revelo-como-red-bull-favorecio-a-max-verstappen-sobre-checo-perez-en-la",
-          "title": "Horner reveló cómo Red Bull favoreció a Verstappen sobre Checo Pérez",
-          "summary": "El exjefe de la escudería austríaca reconoció que las presiones del entorno del neerlandés provocaron cambios técnicos en el monoplaza durante 2022, cuando su compañero mexicano también peleaba por el campeonato.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/christian-horner-revelo-como-red-bull-favorecio-a-max-verstappen-sobre-checo-perez-en-la-formula-1-fue-muy-claro-el-mensaje-id767389.html",
-          "image": "https://media.tycsports.com/files/2026/10/20/997779/horner-verstappen-perez_1440x810.webp?v=1",
-          "body": "El exjefe de la escudería austríaca reconoció que las presiones del entorno del neerlandés provocaron cambios técnicos en el monoplaza durante 2022, cuando su compañero mexicano también peleaba por el campeonato.\n\nChristian Horner, junto Max Verstappen y Checo Pérez. (Mark Thompson/Getty Images) + Seguinos en La interna de Red Bull durante la temporada 2022 de la Fórmula 1 sumó un capítulo inesperado . Christian Horner reconoció que el equipo modificó el desarrollo del monoplaza para favorecer a Max Verstappen, luego de recibir un reclamo de su entorno cuando Checo Pérez comenzaba a disputarle el protagonismo.\n\nEn una entrevista con el podcast High Performance , realizada durante la promoción de su libro Drive: A Memoir of Speed, el exjefe de la escudería recordó la conversación que mantuvo con el representante del neerlandés tras la victoria del mexicano en Mónaco. El pedido apuntaba directamente a la evolución del RB18. \"Recuerdo haberme sentado con el representante de Max por la época de Azerbaiyán ese año y me dijeron: ‘ Mira, has desarrollado este auto alrededor de Checo. Necesitas estar siguiendo lo que Max necesita\"” , relató. “Así que fue muy claro el mensaje que se estaba transmitiendo” , aseveró.\n\nLa explicación de aquella situación se remontaba al trabajo realizado por Alex Albon, quien había participado en el desarrollo del auto mientras la estructura concentraba sus esfuerzos en la definición del campeonato de 2021 frente a Mercedes. Su estilo de manejo favorecía una configuración con mayor subviraje, que resultaba más cómoda para Pérez. \"Albon hizo un trabajo impresionante en segundo plano desarrollando el auto de ‘22 , porque la mayor parte del enfoque estaba en el auto del ‘21, y lo desarrolló hasta el último momento” , afirmó. “Alex había desarrollado e",
-          "language": "es",
-          "publishedAt": "2026-10-20T18:02:42.000Z",
-          "addedAt": "2026-10-20T19:25:57.445Z",
-          "category": "general",
-          "tag": "F1"
-        },
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
           "title": "La F1 confirmó la vuelta de los motores V8: qué dijo Ben Sulayem",
@@ -1014,6 +1044,21 @@
           "language": "es",
           "publishedAt": "2026-10-19T10:08:13.000Z",
           "addedAt": "2026-10-19T11:11:27.000Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-christian-horner-revelo-como-red-bull-favorecio-a-max-verstappen-sobre-checo-perez-en-la",
+          "title": "Horner reveló cómo Red Bull favoreció a Verstappen sobre Checo Pérez",
+          "summary": "El exjefe de la escudería austríaca reconoció que las presiones del entorno del neerlandés provocaron cambios técnicos en el monoplaza durante 2022, cuando su compañero mexicano también peleaba por el campeonato.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/christian-horner-revelo-como-red-bull-favorecio-a-max-verstappen-sobre-checo-perez-en-la-formula-1-fue-muy-claro-el-mensaje-id767389.html",
+          "image": "https://media.tycsports.com/files/2026/10/20/997779/horner-verstappen-perez_1440x810.webp?v=1",
+          "body": "El exjefe de la escudería austríaca reconoció que las presiones del entorno del neerlandés provocaron cambios técnicos en el monoplaza durante 2022, cuando su compañero mexicano también peleaba por el campeonato.\n\nChristian Horner, junto Max Verstappen y Checo Pérez. (Mark Thompson/Getty Images) + Seguinos en La interna de Red Bull durante la temporada 2022 de la Fórmula 1 sumó un capítulo inesperado . Christian Horner reconoció que el equipo modificó el desarrollo del monoplaza para favorecer a Max Verstappen, luego de recibir un reclamo de su entorno cuando Checo Pérez comenzaba a disputarle el protagonismo.\n\nEn una entrevista con el podcast High Performance , realizada durante la promoción de su libro Drive: A Memoir of Speed, el exjefe de la escudería recordó la conversación que mantuvo con el representante del neerlandés tras la victoria del mexicano en Mónaco. El pedido apuntaba directamente a la evolución del RB18. \"Recuerdo haberme sentado con el representante de Max por la época de Azerbaiyán ese año y me dijeron: ‘ Mira, has desarrollado este auto alrededor de Checo. Necesitas estar siguiendo lo que Max necesita\"” , relató. “Así que fue muy claro el mensaje que se estaba transmitiendo” , aseveró.\n\nLa explicación de aquella situación se remontaba al trabajo realizado por Alex Albon, quien había participado en el desarrollo del auto mientras la estructura concentraba sus esfuerzos en la definición del campeonato de 2021 frente a Mercedes. Su estilo de manejo favorecía una configuración con mayor subviraje, que resultaba más cómoda para Pérez. \"Albon hizo un trabajo impresionante en segundo plano desarrollando el auto de ‘22 , porque la mayor parte del enfoque estaba en el auto del ‘21, y lo desarrolló hasta el último momento” , afirmó. “Alex había desarrollado e",
+          "language": "es",
+          "publishedAt": "2026-10-20T18:02:42.000Z",
+          "addedAt": "2026-10-20T19:25:57.445Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1123,21 +1168,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-fallecio-fermin-maceratesi-piloto-de-turismo-carretera",
-          "title": "Falleció Fermín Maceratesi, quien fue piloto de Turismo Carretera | Campeones",
-          "summary": "Representó a Elortondo durante la década del sesenta, con destacadas actuaciones en las vueltas de San Nicolás y Arrecifes.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fallecio-fermin-maceratesi-piloto-de-turismo-carretera/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-Maceratesi-Fermin.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-20T18:55:43.000Z",
-          "addedAt": "2026-10-20T22:28:57.111Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
           "title": "TCR World Tour: Urrutia cerró con otro triunfo la fecha en Chengdu",
           "summary": "El uruguayo se impuso en la última competencia de la sexta ronda del calendario y acortó la brecha con Azcona a 23 puntos; el francés Comte también celebró en la segunda carrera.",
@@ -1211,13 +1241,7 @@
           "addedAt": "2026-10-18T07:11:28.259Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-21T15:26:44.559Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-verstappen-opino-sobre-realizar-los-gg-pp-de-f1-en-qatar-y-abu-dhabi",
           "title": "Verstappen opinó sobre realizar los GG. PP. de F1 en Qatar y Abu Dhabi",
@@ -1232,19 +1256,25 @@
           "addedAt": "2026-10-20T15:14:20.753Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-21T19:27:26.344Z",
+      "items": [
         {
-          "id": "campeones-com-ar-toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados",
-          "title": "Toto Wolff admite: «Muchos jefes de equipo en F1 son pilotos traumatizados y humillados»",
-          "summary": "Quien dirige la escuadra Mercedes AMG F1, referente del presente campeonato mundial con Antonelli y Russell, señaló como pretenden \"compensar\" sus magras campañas en la pista, ahora desde los boxes.",
+          "id": "campeones-com-ar-fallecio-fermin-maceratesi-piloto-de-turismo-carretera",
+          "title": "Falleció Fermín Maceratesi, quien fue piloto de Turismo Carretera | Campeones",
+          "summary": "Representó a Elortondo durante la década del sesenta, con destacadas actuaciones en las vueltas de San Nicolás y Arrecifes.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-F1-Team-Boss.jpg",
+          "url": "https://campeones.com.ar/fallecio-fermin-maceratesi-piloto-de-turismo-carretera/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-Maceratesi-Fermin.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-18T17:43:43.000Z",
-          "addedAt": "2026-10-18T18:11:26.490Z",
+          "publishedAt": "2026-10-20T18:55:43.000Z",
+          "addedAt": "2026-10-20T22:28:57.111Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1279,6 +1309,21 @@
           "tag": "F1"
         },
         {
+          "id": "campeones-com-ar-toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados",
+          "title": "Toto Wolff admite: «Muchos jefes de equipo en F1 son pilotos traumatizados y humillados»",
+          "summary": "Quien dirige la escuadra Mercedes AMG F1, referente del presente campeonato mundial con Antonelli y Russell, señaló como pretenden \"compensar\" sus magras campañas en la pista, ahora desde los boxes.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-F1-Team-Boss.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T17:43:43.000Z",
+          "addedAt": "2026-10-18T18:11:26.490Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
           "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
           "summary": "El joven piloto italiano realizó un nuevo test, ahora en la pista francesa con uno de los autos de la escudería de Enstone.",
@@ -1307,6 +1352,21 @@
           "addedAt": "2026-10-18T07:11:27.467Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc-pick-up-werner-y-santero-ganaron-las-series-en-la-plata",
+          "title": "TC Pick Up: Werner y Santero ganaron las series en La Plata",
+          "summary": "El entrerriano se impuso de punta a punta y sin sobresaltos con la Foton Tunland G7 en la batería más veloz pero deberá largar último en la Final por una sanción de la CAF de la ACTC. Por lo tanto, la “pole” será para el mendocino, quien doblegó con su Ford Ranger a la Chevrolet S10 de Canapino y se llevó el segundo parcial.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-pick-up-werner-y-santero-ganaron-las-series-en-la-plata/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TCPK-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T14:52:02.000Z",
+          "addedAt": "2026-10-18T15:11:26.302Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-tc-pista-pick-up-pole-de-santiago-biagi-en-la-plata",
@@ -1429,21 +1489,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet",
-          "title": "Agustín Canapino y el mensaje para los hinchas de Chevrolet",
-          "summary": "El “Titán” fue consultado por Campeones acerca de la definición de TC que se aproxima y su relación con la marca, la cual defiende en tres frentes distintos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9952.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-14T18:50:10.000Z",
-          "addedAt": "2026-10-18T07:11:27.198Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
           "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
           "summary": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué…",
@@ -1474,6 +1519,27 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-tc-pick-up-vuelve-a-la-plata-con-13-camionetas",
+          "title": "TC Pick Up vuelve a La Plata con 14 camionetas | Campeones",
+          "summary": "La categoría se presenta en el autódromo Mouras con el TC Mouras, la Fórmula 3 Metropolitana y el Turismo 4000 Argentino.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-pick-up-vuelve-a-la-plata-con-13-camionetas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/06/TC-PICK-UP-LA-PLATA.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-14T17:00:22.000Z",
+          "addedAt": "2026-10-18T07:11:27.176Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-21T19:27:26.344Z",
+      "items": [
+        {
           "id": "campeones-com-ar-pechito-lopez-espera-por-las-6-horas-de-barcelona-de-wec",
           "title": "\"Pechito\" López espera por las 6 horas de Barcelona de WEC",
           "summary": "El fin de semana se disputará la penúltima ronda del campeonato en la pista catalana, en donde el argentino conducirá el Lexus de Akkodis ASP Team.",
@@ -1487,13 +1553,7 @@
           "addedAt": "2026-10-18T07:11:27.447Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-21T15:26:44.559Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-hyundai-y-girolami-completaron-un-fin-de-semana-ideal-en-posadas",
           "title": "Hyundai y Girolami completaron un fin de semana ideal en Posadas",
@@ -1615,6 +1675,21 @@
           "tag": "F1"
         },
         {
+          "id": "campeones-com-ar-agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet",
+          "title": "Agustín Canapino y el mensaje para los hinchas de Chevrolet",
+          "summary": "El “Titán” fue consultado por Campeones acerca de la definición de TC que se aproxima y su relación con la marca, la cual defiende en tres frentes distintos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9952.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-14T18:50:10.000Z",
+          "addedAt": "2026-10-18T07:11:27.198Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia",
           "title": "TN: Canapino se aseguró llegar al Coronación como líder y podría consagrarse en Concordia",
           "summary": "A falta de dos fechas para la culminación del campeonato, el “Titán” debería incrementar su ventaja en 20 puntos para festejar en forma anticipada. En la Clase 2, en cambio, el título se definirá sí o sí en Viedma.",
@@ -1660,21 +1735,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "www-fiaformula2-com-en-latest-article-laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season-3iw2qus8deyahpaz0x6q",
-          "title": "Laurens van Hoepen moves to MP Motorsport for the 2027 season",
-          "summary": "",
-          "source": "Formula 2",
-          "sourceLabel": "Formula 2",
-          "url": "https://www.fiaformula2.com/en/latest/article/laurens-van-hoepen-moves-to-mp-motorsport-for-the-2027-season.3iW2quS8dEYahpAz0x6qy7",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-21T15:26:33.803Z",
-          "addedAt": "2026-10-18T07:11:27.543Z",
-          "category": "support",
-          "tag": "F2",
-          "series": "F2"
-        },
-        {
           "id": "www-fiaformula2-com-en-latest-article-compromise-and-identifying-balance-how-i-race-with-oliver-goethe-lj9hc0p9x3et7clwc",
           "title": "Compromise and identifying balance: How I Race with Oliver Goethe",
           "summary": "",
@@ -1683,7 +1743,7 @@
           "url": "https://www.fiaformula2.com/en/latest/article/compromise-and-identifying-balance-how-i-race-with-oliver-goethe.lJ9hC0P9x3eT7CLWC06g5",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-21T15:26:33.803Z",
+          "publishedAt": "2026-10-21T19:27:15.971Z",
           "addedAt": "2026-10-19T10:11:26.693Z",
           "category": "support",
           "tag": "F2",
@@ -1698,8 +1758,23 @@
           "url": "https://www.fiaformula2.com/en/latest/article/formula-2-in-2022-a-title-winning-reunion-alongside-an-epic-f1-debut.1ysZPy0FrgeDjEXUNw0Mvh",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-21T15:26:33.803Z",
+          "publishedAt": "2026-10-21T19:27:15.971Z",
           "addedAt": "2026-10-18T07:11:27.543Z",
+          "category": "support",
+          "tag": "F2",
+          "series": "F2"
+        },
+        {
+          "id": "www-fiaformula2-com-en-latest-article-rafael-camara-set-to-graduate-to-formula-1-with-haas-in-2027-1bd3bwipilb5uq2orjcyo",
+          "title": "Rafael Câmara set to graduate to Formula 1 with Haas in 2027",
+          "summary": "",
+          "source": "Formula 2",
+          "sourceLabel": "Formula 2",
+          "url": "https://www.fiaformula2.com/en/latest/article/rafael-camara-set-to-graduate-to-formula-1-with-haas-in-2027.1Bd3BwipIlb5uQ2orjcYOg",
+          "image": "",
+          "language": "en",
+          "publishedAt": "2026-10-21T19:27:15.971Z",
+          "addedAt": "2026-10-21T19:27:15.972Z",
           "category": "support",
           "tag": "F2",
           "series": "F2"
@@ -1713,7 +1788,7 @@
           "url": "https://www.fiaformula3.com/en/latest/article/mp-motorsport-confirm-the-signing-of-zhenrui-chi-for-the-2027-season.1ui1K3QRS2JqX8035h8L2V",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-21T15:26:33.962Z",
+          "publishedAt": "2026-10-21T19:27:16.389Z",
           "addedAt": "2026-10-19T17:03:20.367Z",
           "category": "support",
           "tag": "F3",
@@ -1728,41 +1803,11 @@
           "url": "https://www.fiaformula3.com/en/latest/article/preview-2026-post-season-testing-starts-with-two-days-in-jerez.72kniH8tAn4enSDSUW5BHI",
           "image": "",
           "language": "en",
-          "publishedAt": "2026-10-21T15:26:33.962Z",
+          "publishedAt": "2026-10-21T19:27:16.389Z",
           "addedAt": "2026-10-20T19:25:57.597Z",
           "category": "support",
           "tag": "F3",
           "series": "F3"
-        },
-        {
-          "id": "www-fiaformula3-com-en-latest-article-francisco-macedo-fastest-on-day-2-of-jerez-post-season-test-for-van-amersfoort-rac",
-          "title": "Francisco Macedo fastest on Day 2 of Jerez Post-Season test for Van Amersfoort Racing",
-          "summary": "",
-          "source": "Formula 3",
-          "sourceLabel": "Formula 3",
-          "url": "https://www.fiaformula3.com/en/latest/article/francisco-macedo-fastest-on-day-2-of-jerez-post-season-test-for-van-amersfoort-racing.7sKOBtvihiH1oYbR2vNBwS",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-21T15:26:33.962Z",
-          "addedAt": "2026-10-21T15:26:33.962Z",
-          "category": "support",
-          "tag": "F3",
-          "series": "F3"
-        },
-        {
-          "id": "www-f1academy-com-latest-6wbco3mith0mknuoz5hq6w-florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-rev",
-          "title": "Florescu disqualified from Zandvoort Qualifying, Westcott promoted to Reverse Grid Race pole",
-          "summary": "Florescu disqualified from Zandvoort Qualifying, Westcott promoted to Reverse Grid Race pole",
-          "source": "F1 Academy",
-          "sourceLabel": "F1 Academy",
-          "url": "https://www.f1academy.com/Latest/6wbCo3MITh0MKNuOz5Hq6W/florescu-disqualified-from-zandvoort-qualifying-westcott-promoted-to-reverse-grid-race-pole",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-21T15:23:37.363Z",
-          "addedAt": "2026-10-18T07:11:27.980Z",
-          "category": "support",
-          "tag": "F1 Academy",
-          "series": "F1 Academy"
         }
       ]
     }
