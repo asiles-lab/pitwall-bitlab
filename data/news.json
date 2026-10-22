@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22T11:40:43.367Z",
-  "checkedAt": "2026-10-22T11:40:43.367Z",
+  "updatedAt": "2026-10-22T16:03:09.962Z",
+  "checkedAt": "2026-10-22T16:03:09.962Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,36 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "campeones-com-ar-rene-zanatta-volvera-a-correr-en-rafaela-con-un-turismo-carretera-2000",
+      "title": "René Zanatta volverá a correr en Rafaela con un Turismo Carretera 2000",
+      "summary": "Lo hará en el marco del Gran Premio Coronación que la categoría hará en la ciudad que representó en su campaña diversificada en motos y autos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/rene-zanatta-volvera-a-correr-en-rafaela-con-un-turismo-carretera-2000/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261022-TurCar-2000-Zanatta.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-22T14:46:55.000Z",
+      "addedAt": "2026-10-22T16:03:12.606Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-una-prueba-referencial-antes-de-retornar-a-turismo-carretera",
+      "title": "Una prueba referencial, antes de retornar a Turismo Carretera",
+      "summary": "Con miras a su próxima presentación en Rosario, el loberense Jerónimo Teti trabajó con el Ford a bordo del cual estará luego de cuatro meses.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/una-prueba-referencial-antes-de-retornar-a-turismo-carretera/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261022-TC-Teti.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-22T15:07:23.000Z",
+      "addedAt": "2026-10-22T16:03:13.046Z",
+      "category": "general",
+      "tag": "F1"
+    },
     {
       "id": "campeones-com-ar-rosario-se-viste-de-tc-para-la-copa-de-oro-2026-y-tambien-la-apertura-del-ano-2027",
       "title": "Rosario se viste de TC para la Copa de Oro 2026 y también la apertura del año 2027",
@@ -98,6 +128,36 @@
       "addedAt": "2026-10-18T07:11:27.183Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia",
+      "title": "TN: Canapino se aseguró llegar al Coronación como líder y podría consagrarse en Concordia",
+      "summary": "A falta de dos fechas para la culminación del campeonato, el “Titán” debería incrementar su ventaja en 20 puntos para festejar en forma anticipada. En la Clase 2, en cambio, el título se definirá sí o sí en Viedma.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tn-canapino-se-aseguro-llegar-al-coronacion-como-lider-y-podria-consagrarse-en-concordia/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TN-2026-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-13T22:15:35.000Z",
+      "addedAt": "2026-10-22T16:03:19.861Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3",
+      "title": "Santero recortó pero Canapino sigue firme en el campeonato de TN Clase 3 | Campeones",
+      "summary": "El \"Titán\" se mantiene en la cima del campeonato, pese a que el mendocino recortó por tercera ocasión consecutiva, pero esta vez una sola unidad. En Clase 2, la lucha está abierta entre tres pilotos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/santero-recorto-pero-canapino-sigue-lider-en-el-tn-clase-3/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Canapino-Santero-Podio-TN-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-12T12:01:47.000Z",
+      "addedAt": "2026-10-22T16:03:20.911Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-mariano-werner-hablo-tras-la-dura-sancion-en-tc-pick-up",
@@ -373,8 +433,23 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-22T11:40:50.671Z",
+      "createdAt": "2026-10-22T16:03:24.268Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-estados-unidos-horarios-y-el-cronograma-completo-id765917-html",
+          "title": "F1 | Colapinto en el GP de Estados Unidos: horarios y el cronograma completo",
+          "summary": "Este fin de semana, el argentino disputa la decimoctava fecha de la temporada 2026 de la Fórmula 1 en el Circuito de las Américas. Conocé todos los detalles.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-colapinto-en-el-gp-de-estados-unidos-horarios-y-el-cronograma-completo-id765917.html",
+          "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
+          "body": "Este fin de semana, el argentino disputa la decimoctava fecha de la temporada 2026 de la Fórmula 1 en el Circuito de las Américas. Conocé todos los detalles.\n\nFranco Colapinto. (@AlpineF1Team) + Seguinos en Franco Colapinto se prepara para disputar el Gran Premio de Estados Unidos de la Fórmula 1 . La 18° fecha de la temporada se correrá en el Circuito de las Américas y el argentino buscará reencontrarse con su mejor versión, luego del abandono en Singapur . Conocé el cronograma completo .\n\nEl Circuito Urbano de Marina Bay es uno de los trazados más exigentes de la Fórmula 1 . Su recorrido combina curvas cerradas, fuertes frenadas y sectores rápidos entre las calles de Singapur, con el agregado de un clima extremadamente húmedo. La carrera se disputa de noche y fue la primera competencia nocturna en la historia de la categoría . Desde 2023, el circuito tiene 19 curvas tras una modificación en su trazado.\n\nA su vez, de manera online se podrá seguir por Disney+, el servicio de streaming que ofrece ESPN o accediendo a Fox Sports a través de Telecentro Play, D Go y Flow.",
+          "language": "es",
+          "publishedAt": "2026-10-22T12:48:36.000Z",
+          "addedAt": "2026-10-22T16:03:11.160Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-estados-unidos-id",
           "title": "F1: hora y dónde ver en vivo la práctica libre de Colapinto en el GP de Estados Unidos",
@@ -387,36 +462,6 @@
           "language": "es",
           "publishedAt": "2026-10-22T11:01:41.000Z",
           "addedAt": "2026-10-22T11:40:44.409Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-disfruto-de-un-paseo-a-caballo-antes-del-gp-de-estados-unidos-en-la-formula-1-",
-          "title": "Colapinto sorprendió en Texas con una actividad lejos de la Fórmula 1",
-          "summary": "El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones desde su infancia.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-disfruto-de-un-paseo-a-caballo-antes-del-gp-de-estados-unidos-en-la-formula-1-id767656.html",
-          "image": "https://media.tycsports.com/files/2026/10/21/998204/colapinto-en-texas_1440x810.webp?v=1",
-          "body": "El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones desde su infancia.\n\nColapinto en Texas en la previa del GP de Estados Unidos + Seguinos en Franco Colapinto se metió en el ambiente texano durante la previa del Gran Premio de Estados Unidos de Fórmula 1. El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones, montar a caballo, en una actividad que compartió la escudería francesa a través de sus redes sociales.\n\n“Una gran experiencia, montando a caballo por primera vez en Austin, verdaderamente emocionante” , expresó el piloto en el video publicado por Alpine. Con entusiasmo, también bromeó sobre el cambio de vehículo: “Probando un diferente caballo de fuerza (HP) este fin de semana, divirtiéndome”.\n\nColapinto disfrutó de un paseo a caballo en la previa del GP de Estados Unidos La actividad tuvo un significado especial para Colapinto, que mantiene un vínculo con el campo y los caballos desde su infancia. Lejos de la exigencia de la máxima categoría del automovilismo, el joven aprovechó la visita a un rancho para reencontrarse con una afición que forma parte de su vida fuera de las pistas. Ahora, Colapinto deberá volver a concentrarse en la actividad deportiva. El Gran Premio de Estados Unidos se disputará en el Circuito de las Américas, en Austin, entre este viernes 23 y el domingo 25 de octubre , en una nueva oportunidad para competir en la temporada de Fórmula 1. Después de su particular paseo texano, el argentino cambiará las riendas por el volante para afrontar un nuevo desafío con Alpine.",
-          "language": "es",
-          "publishedAt": "2026-10-22T00:44:51.000Z",
-          "addedAt": "2026-10-22T00:56:09.995Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id767333-html",
-          "title": "F1: los horarios y el cronograma del GP de Estados Unidos",
-          "summary": "La Fórmula 1 tendrá continuidad este fin de semana en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id767333.html",
-          "image": "https://media.tycsports.com/files/2026/10/20/997697/gp-de-estados-unidos_1440x810.webp?v=1",
-          "body": "La Fórmula 1 tendrá continuidad este fin de semana en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nFranco Colapinto. + Seguinos en Tras la victoria de Max Verstappen y el abandono de Franco Colapinto en Singapur, el campeonato de la Fórmula 1, que tiene como líder a Kimi Antonelli, se prepara para el Gran Premio de Estados Unidos que se correrá este fin de semana en el Circuito de las Américas. Conocé el cronograma completo .\n\nLa Fórmula 1 corrió por primera vez en el Circuito de las Américas (COTA) en 2012, en el Gran Premio de Estados Unidos, y como era de esperar, más del 100.000 espectadores llenaron el circuito y presenciaron el último triunfo de Lewis Hamilton con McLaren antes de su fichaje por Mercedes en 2013. Las curvas del COTA tienen similitudes con las de otras pistas: las 3 y 6 se parecen a la recta de alta velocidad de Silverstone o las curvas S de Suzuka, mientras que las 12 a 15 imitan la sección del estadio de Hockenheim. Por otro lado, la subida que desemboca en la ancha curva 1 siempre ofrece emocionantes adelantamientos.",
-          "language": "es",
-          "publishedAt": "2026-10-22T11:00:52.000Z",
-          "addedAt": "2026-10-21T15:26:33.886Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -449,6 +494,36 @@
           "addedAt": "2026-10-21T15:26:34.061Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-disfruto-de-un-paseo-a-caballo-antes-del-gp-de-estados-unidos-en-la-formula-1-",
+          "title": "Colapinto sorprendió en Texas con una actividad lejos de la Fórmula 1",
+          "summary": "El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones desde su infancia.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-disfruto-de-un-paseo-a-caballo-antes-del-gp-de-estados-unidos-en-la-formula-1-id767656.html",
+          "image": "https://media.tycsports.com/files/2026/10/21/998204/colapinto-en-texas_1440x810.webp?v=1",
+          "body": "El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones desde su infancia.\n\nColapinto en Texas en la previa del GP de Estados Unidos + Seguinos en Franco Colapinto se metió en el ambiente texano durante la previa del Gran Premio de Estados Unidos de Fórmula 1. El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones, montar a caballo, en una actividad que compartió la escudería francesa a través de sus redes sociales.\n\n“Una gran experiencia, montando a caballo por primera vez en Austin, verdaderamente emocionante” , expresó el piloto en el video publicado por Alpine. Con entusiasmo, también bromeó sobre el cambio de vehículo: “Probando un diferente caballo de fuerza (HP) este fin de semana, divirtiéndome”.\n\nColapinto disfrutó de un paseo a caballo en la previa del GP de Estados Unidos La actividad tuvo un significado especial para Colapinto, que mantiene un vínculo con el campo y los caballos desde su infancia. Lejos de la exigencia de la máxima categoría del automovilismo, el joven aprovechó la visita a un rancho para reencontrarse con una afición que forma parte de su vida fuera de las pistas. Ahora, Colapinto deberá volver a concentrarse en la actividad deportiva. El Gran Premio de Estados Unidos se disputará en el Circuito de las Américas, en Austin, entre este viernes 23 y el domingo 25 de octubre , en una nueva oportunidad para competir en la temporada de Fórmula 1. Después de su particular paseo texano, el argentino cambiará las riendas por el volante para afrontar un nuevo desafío con Alpine.",
+          "language": "es",
+          "publishedAt": "2026-10-22T00:44:51.000Z",
+          "addedAt": "2026-10-22T00:56:09.995Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id767333-html",
+          "title": "F1: los horarios y el cronograma del GP de Estados Unidos",
+          "summary": "La Fórmula 1 tendrá continuidad este fin de semana en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id767333.html",
+          "image": "https://media.tycsports.com/files/2026/10/20/997697/gp-de-estados-unidos_1440x810.webp?v=1",
+          "body": "La Fórmula 1 tendrá continuidad este fin de semana en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nFranco Colapinto. + Seguinos en Tras la victoria de Max Verstappen y el abandono de Franco Colapinto en Singapur, el campeonato de la Fórmula 1, que tiene como líder a Kimi Antonelli, se prepara para el Gran Premio de Estados Unidos que se correrá este fin de semana en el Circuito de las Américas. Conocé el cronograma completo .\n\nLa Fórmula 1 corrió por primera vez en el Circuito de las Américas (COTA) en 2012, en el Gran Premio de Estados Unidos, y como era de esperar, más del 100.000 espectadores llenaron el circuito y presenciaron el último triunfo de Lewis Hamilton con McLaren antes de su fichaje por Mercedes en 2013. Las curvas del COTA tienen similitudes con las de otras pistas: las 3 y 6 se parecen a la recta de alta velocidad de Silverstone o las curvas S de Suzuka, mientras que las 12 a 15 imitan la sección del estadio de Hockenheim. Por otro lado, la subida que desemboca en la ancha curva 1 siempre ofrece emocionantes adelantamientos.",
+          "language": "es",
+          "publishedAt": "2026-10-22T11:00:52.000Z",
+          "addedAt": "2026-10-21T15:26:33.886Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-mattia-colnaghi-campos-racing-formula-3-2027-id767199-html",
@@ -492,21 +567,6 @@
           "language": "es",
           "publishedAt": "2026-10-17T00:47:47.000Z",
           "addedAt": "2026-10-18T07:11:28.016Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-briatore-colapinto-formula-1-id766372-html",
-          "title": "La reacción de Briatore al video de Colapinto por los mensajes de odio en redes sociales",
-          "summary": "El asesor de Alpine comentó la publicación del argentino, quien reclamó terminar con las agresiones hacia pilotos, mecánicos y compañeros de equipo.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/briatore-colapinto-formula-1-id766372.html",
-          "image": "https://media.tycsports.com/files/2026/10/15/996230/colapinto-briatore_1440x810.webp?v=1",
-          "body": "El asesor de Alpine comentó la publicación del argentino, quien reclamó terminar con las agresiones hacia pilotos, mecánicos y compañeros de equipo.\n\nFranco Colapinto junto a Flavio Briatore (Kym Illman/Getty Images). + Seguinos en El contundente descargo de Franco Colapinto contra los ataques de sus seguidores en redes sociales tuvo una respuesta especial dentro de Alpine. Flavio Briatore , asesor ejecutivo de la escudería francesa, respaldó públicamente al argentino con dos emojis de aplausos , en una intervención que superó los cinco mil likes.\n\nEl gesto del dirigente italiano llegó después de que el piloto de Pilar pidiera frenar el hostigamiento hacia sus colegas y trabajadores de la Fórmula 1. Su publicación generó más de 33 mil comentarios y abrió un debate sobre los límites del fanatismo en el automovilismo.\n\n“Hay algo muy importante de lo que necesito hablarles hace un tiempo. Es algo necesario que tenemos que cambiar, que tenemos que mejorar ” , expresó el corredor de 23 años, quien reconoció el cariño que recibe desde sus primeros pasos en el deporte. Sin embargo, su principal preocupación apunta a las consecuencias de las agresiones contra otros integrantes de la categoría. “Sé que están pensando que me están defendiendo, pero están generando lo contrario . No me ayudan ni a mí ni a mi futuro” , advirtió.\n\nLa postura del argentino también encontró respaldo fuera de Alpine. Facundo Ardusso acompañó la publicación con aplausos , mientras que el Automóvil Club Argentino (ACA) manifestó: \" La pasión por el automovilismo también se demuestra con respeto, dentro y fuera de la pista . Acompañamos tus palabras, Franco. ¡Siempre alentando!\" .",
-          "language": "es",
-          "publishedAt": "2026-10-15T15:35:47.000Z",
-          "addedAt": "2026-10-18T07:11:27.967Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -556,21 +616,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-alpine-mike-elliott-mercedes-franco-colapinto-formula-1-briatore-gasly-id766358-html",
-          "title": "La incorporación de Alpine para potencial a Colapinto y Gasly en la Fórmula 1",
-          "summary": "La escudería francesa oficializó la llegada del experimentado ingeniero británico, quien asumirá la conducción técnica del equipo con el objetivo de mejorar su rendimiento en pista.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/alpine-mike-elliott-mercedes-franco-colapinto-formula-1-briatore-gasly-id766358.html",
-          "image": "https://media.tycsports.com/files/2026/10/15/996206/mike-elliott_1440x810.webp?v=1",
-          "body": "La escudería francesa oficializó la llegada del experimentado ingeniero británico, quien asumirá la conducción técnica del equipo con el objetivo de mejorar su rendimiento en pista.\n\nMike Elliott, nueva incorporación de Alpine (Qian Jun/MB Media/Getty Images). + Seguinos en Alpine apuesta a una renovación técnica para dar un salto de calidad en la Fórmula 1. Con Franco Colapinto y Pierre Gasly como protagonistas de su proyecto deportivo, la escudería francesa realizó la presentación oficial de Mike Elliott , exdirector técnico de Mercedes, quien tendrá la responsabilidad de impulsar el desarrollo del equipo.\n\nAunque su incorporación había sido anunciada un mes atrás, el ingeniero británico recibió ahora la bienvenida frente al personal de la fábrica de Enstone. Flavio Briatore, asesor ejecutivo de la estructura, encabezó el acto y compartió un video en sus redes sociales con un mensaje contundente: \"Estoy seguro de que con Mike llevaremos al equipo a un nivel diferente\" .\n\nDurante su primera intervención ante los trabajadores, el nuevo director de tecnología (CTO) puso el foco en la importancia del capital humano para conseguir mejores resultados. \"Probablemente has tenido muchos cambios, has tenido mucha gente parada aquí y te dicen cómo podría ser el futuro y cómo podría avanzar; y por mucho que fuera bueno lo que dijo Flavio, mi creencia es muy simple: si miras la Fórmula 1 un poco como un economista, nuestro trabajo es convertir los recursos en rendimiento en la pista \" , afirmó.\n\nEn esa misma línea, Elliott destacó el papel fundamental de los integrantes de la escudería para alcanzar los objetivos deportivos. \"Y si miras cuáles son nuestros recursos clave en la empresa son todos ustedes . Saben que son las personas que pueden marcar la diferencia; saben que podemos",
-          "language": "es",
-          "publishedAt": "2026-10-15T14:50:46.000Z",
-          "addedAt": "2026-10-18T07:11:27.669Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-formula-1-2026-resena-de-un-ano-complicado",
           "title": "Fórmula 1 2026: reseña de un año complicado | Campeones",
           "summary": "La temporada 2026 expone las falencias de un reglamento que puso la gestión de energía por encima de la habilidad de los pilotos. En esta nota, el análisis del dominio de Mercedes, los cambios que la Fórmula 1 proyecta para el próximo ciclo de motores, la situación de Franco Colapinto y lo que resta de aquí a fin de año…",
@@ -586,21 +631,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3",
-          "title": "Mattia Colnaghi ingresa al equipo campeón de la Fórmula 3",
-          "summary": "Luego de su paso por el MP Motorsport, el representante argentino estará compitiendo junto al Campos Racing en su segunda temporada dentro de la especialidad.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MATTIA-COLNAGHI-FORMJULA-3.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-19T13:36:15.000Z",
-          "addedAt": "2026-10-19T13:11:27.204Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-un-argentino-se-toco-con-verstappen-y-lo-expuso-a-una-sancion-en-el-gt-world-challenge-i",
           "title": "Un argentino se tocó con Verstappen y lo expuso a una sanción en el GT World Challenge",
           "summary": "El incidente ocurrió en la curva 3 de Portimao durante los primeros minutos de la práctica. Los comisarios determinaron que el piloto de la Fórmula 1 fue el único responsable de la colisión.",
@@ -614,6 +644,21 @@
           "addedAt": "2026-10-18T07:11:28.096Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-briatore-colapinto-formula-1-id766372-html",
+          "title": "La reacción de Briatore al video de Colapinto por los mensajes de odio en redes sociales",
+          "summary": "El asesor de Alpine comentó la publicación del argentino, quien reclamó terminar con las agresiones hacia pilotos, mecánicos y compañeros de equipo.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/briatore-colapinto-formula-1-id766372.html",
+          "image": "https://media.tycsports.com/files/2026/10/15/996230/colapinto-briatore_1440x810.webp?v=1",
+          "body": "El asesor de Alpine comentó la publicación del argentino, quien reclamó terminar con las agresiones hacia pilotos, mecánicos y compañeros de equipo.\n\nFranco Colapinto junto a Flavio Briatore (Kym Illman/Getty Images). + Seguinos en El contundente descargo de Franco Colapinto contra los ataques de sus seguidores en redes sociales tuvo una respuesta especial dentro de Alpine. Flavio Briatore , asesor ejecutivo de la escudería francesa, respaldó públicamente al argentino con dos emojis de aplausos , en una intervención que superó los cinco mil likes.\n\nEl gesto del dirigente italiano llegó después de que el piloto de Pilar pidiera frenar el hostigamiento hacia sus colegas y trabajadores de la Fórmula 1. Su publicación generó más de 33 mil comentarios y abrió un debate sobre los límites del fanatismo en el automovilismo.\n\n“Hay algo muy importante de lo que necesito hablarles hace un tiempo. Es algo necesario que tenemos que cambiar, que tenemos que mejorar ” , expresó el corredor de 23 años, quien reconoció el cariño que recibe desde sus primeros pasos en el deporte. Sin embargo, su principal preocupación apunta a las consecuencias de las agresiones contra otros integrantes de la categoría. “Sé que están pensando que me están defendiendo, pero están generando lo contrario . No me ayudan ni a mí ni a mi futuro” , advirtió.\n\nLa postura del argentino también encontró respaldo fuera de Alpine. Facundo Ardusso acompañó la publicación con aplausos , mientras que el Automóvil Club Argentino (ACA) manifestó: \" La pasión por el automovilismo también se demuestra con respeto, dentro y fuera de la pista . Acompañamos tus palabras, Franco. ¡Siempre alentando!\" .",
+          "language": "es",
+          "publishedAt": "2026-10-15T15:35:47.000Z",
+          "addedAt": "2026-10-18T07:11:27.967Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-formula-1-franco-colapinto-alpine-mensaje-fans-criticas-redes-sociales-id766239-html",
@@ -644,13 +689,7 @@
           "addedAt": "2026-10-18T07:11:28.193Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-22T11:40:50.671Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-con-shell-un-grupo-de-fanaticos-argentinos-de-la-f1-viajara-a-las-vegas",
           "title": "Con Shell, un grupo de fanáticos argentinos de la F1 viajará a Las Vegas | Campeones",
@@ -663,6 +702,27 @@
           "language": "es",
           "publishedAt": "2026-10-21T16:23:20.000Z",
           "addedAt": "2026-10-21T19:27:19.145Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-22T16:03:24.268Z",
+      "items": [
+        {
+          "id": "campeones-com-ar-mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3",
+          "title": "Mattia Colnaghi ingresa al equipo campeón de la Fórmula 3",
+          "summary": "Luego de su paso por el MP Motorsport, el representante argentino estará compitiendo junto al Campos Racing en su segunda temporada dentro de la especialidad.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MATTIA-COLNAGHI-FORMJULA-3.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T13:36:15.000Z",
+          "addedAt": "2026-10-19T13:11:27.204Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -697,6 +757,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-bautista-panetta-trabajando-para-mejorar-en-viterbo",
+          "title": "Bautista Panetta, trabajando para mejorar en Viterbo | Campeones",
+          "summary": "Se disputan las IAME World Finals en el circuito italiano y el joven de 14 años cerró un día con dos intensas mangas, junto al equipo Kidix.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/bautista-panetta-trabajando-para-mejorar-en-viterbo/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-21-134153.png",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-22T15:13:01.000Z",
+          "addedAt": "2026-10-22T16:03:12.821Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-importante-prueba-para-agustin-canapino-en-el-tn",
           "title": "Importante prueba para Agustín Canapino en el TN | Campeones",
           "summary": "\"El Titán\" ensayó en San Nicolás con el Chevrolet Cruze líder de la Clase 3, en la previa de las últimas dos fechas del campeonato.",
@@ -710,6 +785,21 @@
           "addedAt": "2026-10-21T19:27:17.784Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-alpine-mike-elliott-mercedes-franco-colapinto-formula-1-briatore-gasly-id766358-html",
+          "title": "La incorporación de Alpine para potencial a Colapinto y Gasly en la Fórmula 1",
+          "summary": "La escudería francesa oficializó la llegada del experimentado ingeniero británico, quien asumirá la conducción técnica del equipo con el objetivo de mejorar su rendimiento en pista.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/alpine-mike-elliott-mercedes-franco-colapinto-formula-1-briatore-gasly-id766358.html",
+          "image": "https://media.tycsports.com/files/2026/10/15/996206/mike-elliott_1440x810.webp?v=1",
+          "body": "La escudería francesa oficializó la llegada del experimentado ingeniero británico, quien asumirá la conducción técnica del equipo con el objetivo de mejorar su rendimiento en pista.\n\nMike Elliott, nueva incorporación de Alpine (Qian Jun/MB Media/Getty Images). + Seguinos en Alpine apuesta a una renovación técnica para dar un salto de calidad en la Fórmula 1. Con Franco Colapinto y Pierre Gasly como protagonistas de su proyecto deportivo, la escudería francesa realizó la presentación oficial de Mike Elliott , exdirector técnico de Mercedes, quien tendrá la responsabilidad de impulsar el desarrollo del equipo.\n\nAunque su incorporación había sido anunciada un mes atrás, el ingeniero británico recibió ahora la bienvenida frente al personal de la fábrica de Enstone. Flavio Briatore, asesor ejecutivo de la estructura, encabezó el acto y compartió un video en sus redes sociales con un mensaje contundente: \"Estoy seguro de que con Mike llevaremos al equipo a un nivel diferente\" .\n\nDurante su primera intervención ante los trabajadores, el nuevo director de tecnología (CTO) puso el foco en la importancia del capital humano para conseguir mejores resultados. \"Probablemente has tenido muchos cambios, has tenido mucha gente parada aquí y te dicen cómo podría ser el futuro y cómo podría avanzar; y por mucho que fuera bueno lo que dijo Flavio, mi creencia es muy simple: si miras la Fórmula 1 un poco como un economista, nuestro trabajo es convertir los recursos en rendimiento en la pista \" , afirmó.\n\nEn esa misma línea, Elliott destacó el papel fundamental de los integrantes de la escudería para alcanzar los objetivos deportivos. \"Y si miras cuáles son nuestros recursos clave en la empresa son todos ustedes . Saben que son las personas que pueden marcar la diferencia; saben que podemos",
+          "language": "es",
+          "publishedAt": "2026-10-15T14:50:46.000Z",
+          "addedAt": "2026-10-18T07:11:27.669Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-companero-colapinto-alpine-podria-perder-licencia-conducir-insolita-razon-id766309-html",
@@ -738,21 +828,6 @@
           "language": "es",
           "publishedAt": "2026-10-20T13:00:40.000Z",
           "addedAt": "2026-10-20T19:25:59.130Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus",
-          "title": "'Pechito' López se enfoca en la próxima cita del WEC: \"Será la última carrera del Lexus\"",
-          "summary": "Los esfuerzos en la fecha de Barcelona no lograron recuperar al N°87 de los contratiempos y la vista está en la última del año.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/DPPI-WEC-Akkodis-Lopez-Lexus-Barcelona-2026-3.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-19T15:03:50.000Z",
-          "addedAt": "2026-10-19T15:11:26.881Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -798,6 +873,21 @@
           "language": "es",
           "publishedAt": "2026-10-21T16:43:21.000Z",
           "addedAt": "2026-10-21T19:27:18.949Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus",
+          "title": "'Pechito' López se enfoca en la próxima cita del WEC: \"Será la última carrera del Lexus\"",
+          "summary": "Los esfuerzos en la fecha de Barcelona no lograron recuperar al N°87 de los contratiempos y la vista está en la última del año.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/DPPI-WEC-Akkodis-Lopez-Lexus-Barcelona-2026-3.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T15:03:50.000Z",
+          "addedAt": "2026-10-19T15:11:26.881Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -890,42 +980,12 @@
           "addedAt": "2026-10-20T19:25:59.340Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-canapino-lidera-por-1a-vez-en-tc-pick-up-y-alimenta-el-sueno-de-otra-triple-corona",
-          "title": "Canapino lidera por 1ª vez en TC Pick Up y alimenta el sueño de otra “Triple Corona”",
-          "summary": "Si bien no avizora un panorama del todo favorable en el TCPK, algo similar a lo que considera que sucede en el Turismo Carretera, el “Titán” tiene posibilidades concretas de repetir el hito de 2025, aunque esta vez el logro sería 100% Chevrolet.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/canapino-lidera-por-1a-vez-en-tc-pick-up-y-alimenta-el-sueno-de-otra-triple-corona/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TCPK-2026-1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-20T12:23:36.000Z",
-          "addedAt": "2026-10-20T15:14:19.344Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-contra-el-resto-estamos-parejos-dice-canapino",
-          "title": "\"Contra el resto estamos parejos\", dice Canapino",
-          "summary": "El líder de la Copa Shell V-Power de TC Pick Up ve una lucha ajustada, pero con un piloto por encima de todos en el rendimiento deportivo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/contra-el-resto-estamos-parejos-dice-canapino/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Agustin-Canapino-TC-Pick-Up-La-Plata-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-19T19:00:20.000Z",
-          "addedAt": "2026-10-19T21:26:35.934Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-22T11:40:50.671Z",
+      "createdAt": "2026-10-22T16:03:24.268Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-clay-regazzoni-subcampeon-del-mundo-f1-paraplejico-dakar-muerte-choque-tragico-op-id7673",
@@ -954,21 +1014,6 @@
           "language": "es",
           "publishedAt": "2026-10-21T18:45:58.000Z",
           "addedAt": "2026-10-21T19:27:18.076Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
-          "id": "campeones-com-ar-tanto-qatar-como-la-f1-y-motogp-ratifican-sus-carreras-del-ano-2026",
-          "title": "Tanto Qatar como la F1 y MotoGP ratifican sus carreras del año 2026",
-          "summary": "El Circuito Internacional de Losail se prepara para albergar el GP de Qatar de MotoGP el 8 de noviembre y de F1 el 29 de noviembre.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tanto-qatar-como-la-f1-y-motogp-ratifican-sus-carreras-del-ano-2026/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Main-Straight-Qatar-Circuit.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-21T13:21:27.000Z",
-          "addedAt": "2026-10-21T15:26:36.320Z",
           "category": "general",
           "tag": "Carrera"
         },
@@ -1046,6 +1091,21 @@
           "addedAt": "2026-10-19T11:11:27.000Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tanto-qatar-como-la-f1-y-motogp-ratifican-sus-carreras-del-ano-2026",
+          "title": "Tanto Qatar como la F1 y MotoGP ratifican sus carreras del año 2026",
+          "summary": "El Circuito Internacional de Losail se prepara para albergar el GP de Qatar de MotoGP el 8 de noviembre y de F1 el 29 de noviembre.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tanto-qatar-como-la-f1-y-motogp-ratifican-sus-carreras-del-ano-2026/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Main-Straight-Qatar-Circuit.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-21T13:21:27.000Z",
+          "addedAt": "2026-10-21T15:26:36.320Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-tobias-martinez-deja-las-tc-pick-up-cuando-el-vaso-rebalsa-se-toma-una-decision",
@@ -1168,21 +1228,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "www-tycsports-com-automovilismo-el-piloto-brasileno-que-reemplazara-a-esteban-ocon-en-haas-y-debutara-en-la-f1-en-2027-i",
-          "title": "Quién es el piloto que reemplazará a Esteban Ocon en Haas y debutará en la F1 en 2027",
-          "summary": "Rafael Camara, el joven de 21 años que hoy lidera la F2, firmó un contrato plurianual y se espera que sea compañero de Oliver Bearman la próxima temporada.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/el-piloto-brasileno-que-reemplazara-a-esteban-ocon-en-haas-y-debutara-en-la-f1-en-2027-id766366.html",
-          "image": "https://media.tycsports.com/files/2026/10/15/996218/rafael-camara_1440x810.webp?v=1",
-          "body": "Rafael Camara, el joven de 21 años que hoy lidera la F2, firmó un contrato plurianual y se espera que sea compañero de Oliver Bearman la próxima temporada.\n\nRafael Camara, el brasileño de 21 años que será piloto de Haas a partir de 2027 + Seguinos en Rafael Camara será piloto de Haas en la Fórmula 1 en 2027. El líder del campeonato de F2 firmó un contrato plurianual con la escudería estadounidense y se espera que comparta equipo con Oliver Bearman. Ocupará el lugar de Esteban Ocon , que se irá a fines de 2026, tras dos temporadas en el equipo.\n\nEl brasileño escaló fugazmente a la F1. Ganó la FRECA en 2024 y la F3 en 2025 , ambos títulos de manera contundente. Hoy pelea la F2 con Invicta, donde es líder por una diferencia de siete puntos sobre Nikola Tsolov. Si se queda con el campeonato, será el único piloto en ganar FRECA, F3 y F2 en temporadas consecutivas. Camara expresó: “Estoy muy contento de incorporarme a TGR Haas F1 como piloto de Fórmula 1. Es un paso importante en mi carrera y quiero agradecer a Gene Haas y a Ayao Komatsu por la confianza que depositaron en mí”.\n\nY agregó: “También estoy muy agradecido a la Ferrari Driver Academy por su apoyo y por todo lo que aportó a mi desarrollo a lo largo de los años , y a mi familia por estar siempre a mi lado durante este viaje. Ahora mi objetivo es prepararme de la mejor manera posible para este nuevo desafío. Habrá mucho por aprender y tengo muchas ganas de trabajar codo a codo con el equipo, entender el auto y seguir creciendo como piloto”.\n\nPor su parte, Haas se tomó su tiempo para oficializar la decisión. Camara era el que más sonaba aunque competía con Leonardo Fornaroli, actual campeón de F2 , y con el piloto de reserva Ryo Hirakawa . Los tres pasaron por los programas TPC (pruebas con autos de temporadas anterio",
-          "language": "es",
-          "publishedAt": "2026-10-15T15:15:51.000Z",
-          "addedAt": "2026-10-18T07:11:28.072Z",
-          "category": "general",
-          "tag": "Mercado"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-corrio-en-el-tc-fue-campeon-del-tc-pista-y-ahora-atiende-un-minimercado-en-san-juan-id76",
           "title": "Corrió en el TC, fue campeón del TC Pista y ahora atiende un minimercado en San Juan",
           "summary": "El cuyano tuvo una carrera ligada al automovilismo desde su debut en 1992. En el 98 hizo su estreno en el Turismo Carretera y un año después fue campeón en Pista. Hoy está alejado, aunque nunca de manera definitiva, y se dedica a un emprendimiento personal.",
@@ -1196,13 +1241,7 @@
           "addedAt": "2026-10-18T07:11:28.079Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-22T11:40:50.671Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -1217,7 +1256,13 @@
           "addedAt": "2026-10-18T07:11:28.259Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-22T16:03:24.268Z",
+      "items": [
         {
           "id": "campeones-com-ar-verstappen-opino-sobre-realizar-los-gg-pp-de-f1-en-qatar-y-abu-dhabi",
           "title": "Verstappen opinó sobre realizar los GG. PP. de F1 en Qatar y Abu Dhabi",
@@ -1264,21 +1309,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp",
-          "title": "Martín Vs Márquez: Una batalla encerrada en dos puntos y un récord histórico para MotoGP",
-          "summary": "Llega la hora de las definiciones en el Mundial de MotoGP que tras 17 fechas disputadas tiene dos unidades de diferencia entre los mejores.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MotoGP-Jorge-Martin-y-MArc-Marquez.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-19T12:57:45.000Z",
-          "addedAt": "2026-10-19T13:11:27.120Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados",
           "title": "Toto Wolff admite: «Muchos jefes de equipo en F1 son pilotos traumatizados y humillados»",
           "summary": "Quien dirige la escuadra Mercedes AMG F1, referente del presente campeonato mundial con Antonelli y Russell, señaló como pretenden \"compensar\" sus magras campañas en la pista, ahora desde los boxes.",
@@ -1292,6 +1322,66 @@
           "addedAt": "2026-10-18T18:11:26.490Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
+          "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
+          "summary": "El joven piloto italiano realizó un nuevo test, ahora en la pista francesa con uno de los autos de la escudería de Enstone.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-F1-Alpine-Gabriele-Mini.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-16T19:41:21.000Z",
+          "addedAt": "2026-10-18T07:11:27.249Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
+          "title": "¿Qué esperar del nuevo jefe técnico de Alpine F1 Team?",
+          "summary": "Mike Elliott cuenta con experiencia como director técnico y de tecnología en Mercedes y un pasado por Renault y McLaren.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Elliott-Alpine-Jefe-nuevo-v2.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-15T19:55:12.000Z",
+          "addedAt": "2026-10-18T07:11:27.467Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-canapino-lidera-por-1a-vez-en-tc-pick-up-y-alimenta-el-sueno-de-otra-triple-corona",
+          "title": "Canapino lidera por 1ª vez en TC Pick Up y alimenta el sueño de otra “Triple Corona”",
+          "summary": "Si bien no avizora un panorama del todo favorable en el TCPK, algo similar a lo que considera que sucede en el Turismo Carretera, el “Titán” tiene posibilidades concretas de repetir el hito de 2025, aunque esta vez el logro sería 100% Chevrolet.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/canapino-lidera-por-1a-vez-en-tc-pick-up-y-alimenta-el-sueno-de-otra-triple-corona/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TCPK-2026-1.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-20T12:23:36.000Z",
+          "addedAt": "2026-10-20T15:14:19.344Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-contra-el-resto-estamos-parejos-dice-canapino",
+          "title": "\"Contra el resto estamos parejos\", dice Canapino",
+          "summary": "El líder de la Copa Shell V-Power de TC Pick Up ve una lucha ajustada, pero con un piloto por encima de todos en el rendimiento deportivo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/contra-el-resto-estamos-parejos-dice-canapino/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Agustin-Canapino-TC-Pick-Up-La-Plata-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T19:00:20.000Z",
+          "addedAt": "2026-10-19T21:26:35.934Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
@@ -1442,42 +1532,12 @@
           "addedAt": "2026-10-18T07:11:27.322Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-rosso-y-una-mirada-al-2027-del-tcr-con-la-evolucion-de-linkco",
-          "title": "Rosso y una mirada al 2027 del TCR con la evolución de Link&Co",
-          "summary": "El cordobés viajó a China y realizó pruebas en el Circuito internacional de Guangdong con miras al año entrante.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/rosso-y-una-mirada-al-2027-del-tcr-con-la-evolucion-de-linkco/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/LinkCo-03-Plus-en-China-con-Rosso.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-15T15:04:39.000Z",
-          "addedAt": "2026-10-18T07:11:27.177Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-canapino-sobre-balcarce-estuvo-espectacular",
-          "title": "Agustín Canapino sobre Balcarce: \"Estuvo espectacular\" | Campeones",
-          "summary": "El autódromo \"Juan Manuel Fangio\" ubicado en el Cerro La Barrosa volvió a tener actividad con el TC Pick Up y allí estuvo el \"Titán\", que le brindó a Campeones su apreciación sobre cómo quedó el histórico trazado.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/canapino-sobre-balcarce-estuvo-espectacular/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/gui8158-1790536724815-29540246-e1792069083834.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-15T12:58:11.000Z",
-          "addedAt": "2026-10-18T07:11:27.465Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 5,
-      "createdAt": "2026-10-22T11:40:50.671Z",
+      "createdAt": "2026-10-22T16:03:24.268Z",
       "items": [
         {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
@@ -1570,36 +1630,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
-          "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
-          "summary": "El joven piloto italiano realizó un nuevo test, ahora en la pista francesa con uno de los autos de la escudería de Enstone.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-F1-Alpine-Gabriele-Mini.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-16T19:41:21.000Z",
-          "addedAt": "2026-10-18T07:11:27.249Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
-          "title": "¿Qué esperar del nuevo jefe técnico de Alpine F1 Team?",
-          "summary": "Mike Elliott cuenta con experiencia como director técnico y de tecnología en Mercedes y un pasado por Renault y McLaren.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Elliott-Alpine-Jefe-nuevo-v2.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-15T19:55:12.000Z",
-          "addedAt": "2026-10-18T07:11:27.467Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-ricardo-rosset-el-piloto-considerado-uno-de-los-peores-de-la-historia-de-la-f1-que-fue-b",
           "title": "Es considerado el peor piloto de la historia de la F1 y fue burlado por sus mecánicos",
           "summary": "El brasileño, miembro de una familia millonaria dueña de una marca de lencería, llegó a la Máxima en 1996 y se marchó en 1998 con un rendimiento muy por debajo de las expectativas.",
@@ -1626,6 +1656,21 @@
           "language": "es",
           "publishedAt": "2026-10-14T20:26:30.000Z",
           "addedAt": "2026-10-18T07:11:27.678Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp",
+          "title": "Martín Vs Márquez: Una batalla encerrada en dos puntos y un récord histórico para MotoGP",
+          "summary": "Llega la hora de las definiciones en el Mundial de MotoGP que tras 17 fechas disputadas tiene dos unidades de diferencia entre los mejores.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/martin-vs-marquez-una-batalla-encerrada-en-dos-puntos-y-un-record-historico-para-motogp/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MotoGP-Jorge-Martin-y-MArc-Marquez.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T12:57:45.000Z",
+          "addedAt": "2026-10-19T13:11:27.120Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1720,6 +1765,36 @@
           "tag": "F1"
         },
         {
+          "id": "campeones-com-ar-rosso-y-una-mirada-al-2027-del-tcr-con-la-evolucion-de-linkco",
+          "title": "Rosso y una mirada al 2027 del TCR con la evolución de Link&Co",
+          "summary": "El cordobés viajó a China y realizó pruebas en el Circuito internacional de Guangdong con miras al año entrante.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/rosso-y-una-mirada-al-2027-del-tcr-con-la-evolucion-de-linkco/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/LinkCo-03-Plus-en-China-con-Rosso.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-15T15:04:39.000Z",
+          "addedAt": "2026-10-18T07:11:27.177Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-canapino-sobre-balcarce-estuvo-espectacular",
+          "title": "Agustín Canapino sobre Balcarce: \"Estuvo espectacular\" | Campeones",
+          "summary": "El autódromo \"Juan Manuel Fangio\" ubicado en el Cerro La Barrosa volvió a tener actividad con el TC Pick Up y allí estuvo el \"Titán\", que le brindó a Campeones su apreciación sobre cómo quedó el histórico trazado.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/canapino-sobre-balcarce-estuvo-espectacular/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/gui8158-1790536724815-29540246-e1792069083834.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-15T12:58:11.000Z",
+          "addedAt": "2026-10-18T07:11:27.465Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana",
           "title": "Julián Santero retorna a las Pick Up el próximo fin de semana | Campeones",
           "summary": "El piloto mendocino es el inscripto N°14, retornando con la Ford Ranger del Magnoluz Racing desde el fin de semana.",
@@ -1731,21 +1806,6 @@
           "language": "es",
           "publishedAt": "2026-10-14T19:27:49.000Z",
           "addedAt": "2026-10-18T07:11:27.191Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet",
-          "title": "Agustín Canapino y el mensaje para los hinchas de Chevrolet",
-          "summary": "El “Titán” fue consultado por Campeones acerca de la definición de TC que se aproxima y su relación con la marca, la cual defiende en tres frentes distintos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/agustin-canapino-y-el-mensaje-para-los-hinchas-de-chevrolet/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_9952.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-14T18:50:10.000Z",
-          "addedAt": "2026-10-18T07:11:27.198Z",
           "category": "argentino",
           "tag": "Argentino"
         }
