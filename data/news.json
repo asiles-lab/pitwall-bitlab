@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22T00:56:09.188Z",
-  "checkedAt": "2026-10-22T00:56:09.188Z",
+  "updatedAt": "2026-10-22T06:01:34.701Z",
+  "checkedAt": "2026-10-22T06:01:34.701Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,36 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-el-turismo-carretera-vuelve-a-rosario-con-51-anotados",
-      "title": "El Turismo Carretera vuelve a Rosario con 51 anotados | Campeones",
-      "summary": "Este fin de semana se disputa la tercera fecha de la Copa de Oro, en el regreso al \"Juan Manuel Fangio\" tras 7 años. Santiago Álvarez debuta con el TCM Racing tras dejar el Uranga Racing y regresa Jerónimo Teti.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-turismo-carretera-vuelve-a-rosario-con-51-anotados/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/gui2513-1791292715684-993217604.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-21T12:56:31.000Z",
-      "addedAt": "2026-10-21T15:26:34.806Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-con-una-baja-importante-el-tc-pista-llega-a-rosario",
-      "title": "Con una baja importante, el TC Pista llega a Rosario | Campeones",
-      "summary": "La \"telonera\" del Turismo Carretera tendrá 19 autos en pista y la ausencia de Eugenio Provens, protagonista de la Copa de Plata.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/con-una-baja-importante-el-tc-pista-llega-a-rosario/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/tc-pista-san-ncipolas.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-21T19:20:45.000Z",
-      "addedAt": "2026-10-21T19:27:18.258Z",
-      "category": "general",
-      "tag": "F1"
-    },
     {
       "id": "campeones-com-ar-rosario-se-viste-de-tc-para-la-copa-de-oro-2026-y-tambien-la-apertura-del-ano-2027",
       "title": "Rosario se viste de TC para la Copa de Oro 2026 y también la apertura del año 2027",
@@ -388,23 +358,8 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-22T00:56:18.332Z",
+      "createdAt": "2026-10-22T06:01:43.702Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-disfruto-de-un-paseo-a-caballo-antes-del-gp-de-estados-unidos-en-la-formula-1-",
-          "title": "Colapinto sorprendió en Texas con una actividad lejos de la Fórmula 1",
-          "summary": "El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones desde su infancia.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-disfruto-de-un-paseo-a-caballo-antes-del-gp-de-estados-unidos-en-la-formula-1-id767656.html",
-          "image": "https://media.tycsports.com/files/2026/10/21/998204/colapinto-en-texas_1440x810.webp?v=1",
-          "body": "El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones desde su infancia.\n\nColapinto en Texas en la previa del GP de Estados Unidos + Seguinos en Franco Colapinto se metió en el ambiente texano durante la previa del Gran Premio de Estados Unidos de Fórmula 1. El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones, montar a caballo, en una actividad que compartió la escudería francesa a través de sus redes sociales.\n\n“Una gran experiencia, montando a caballo por primera vez en Austin, verdaderamente emocionante” , expresó el piloto en el video publicado por Alpine. Con entusiasmo, también bromeó sobre el cambio de vehículo: “Probando un diferente caballo de fuerza (HP) este fin de semana, divirtiéndome”.\n\nColapinto disfrutó de un paseo a caballo en la previa del GP de Estados Unidos La actividad tuvo un significado especial para Colapinto, que mantiene un vínculo con el campo y los caballos desde su infancia. Lejos de la exigencia de la máxima categoría del automovilismo, el joven aprovechó la visita a un rancho para reencontrarse con una afición que forma parte de su vida fuera de las pistas. Ahora, Colapinto deberá volver a concentrarse en la actividad deportiva. El Gran Premio de Estados Unidos se disputará en el Circuito de las Américas, en Austin, entre este viernes 23 y el domingo 25 de octubre , en una nueva oportunidad para competir en la temporada de Fórmula 1. Después de su particular paseo texano, el argentino cambiará las riendas por el volante para afrontar un nuevo desafío con Alpine.",
-          "language": "es",
-          "publishedAt": "2026-10-22T00:44:51.000Z",
-          "addedAt": "2026-10-22T00:56:09.995Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
         {
           "id": "www-tycsports-com-automovilismo-norberto-fontana-argentino-quedo-en-medio-definicion-mas-polemica-f1-schumacher-villeneu",
           "title": "El argentino que quedó en medio de la definición más polémica de la F1",
@@ -419,6 +374,21 @@
           "addedAt": "2026-10-21T15:26:34.061Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-disfruto-de-un-paseo-a-caballo-antes-del-gp-de-estados-unidos-en-la-formula-1-",
+          "title": "Colapinto sorprendió en Texas con una actividad lejos de la Fórmula 1",
+          "summary": "El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones desde su infancia.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-disfruto-de-un-paseo-a-caballo-antes-del-gp-de-estados-unidos-en-la-formula-1-id767656.html",
+          "image": "https://media.tycsports.com/files/2026/10/21/998204/colapinto-en-texas_1440x810.webp?v=1",
+          "body": "El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones desde su infancia.\n\nColapinto en Texas en la previa del GP de Estados Unidos + Seguinos en Franco Colapinto se metió en el ambiente texano durante la previa del Gran Premio de Estados Unidos de Fórmula 1. El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones, montar a caballo, en una actividad que compartió la escudería francesa a través de sus redes sociales.\n\n“Una gran experiencia, montando a caballo por primera vez en Austin, verdaderamente emocionante” , expresó el piloto en el video publicado por Alpine. Con entusiasmo, también bromeó sobre el cambio de vehículo: “Probando un diferente caballo de fuerza (HP) este fin de semana, divirtiéndome”.\n\nColapinto disfrutó de un paseo a caballo en la previa del GP de Estados Unidos La actividad tuvo un significado especial para Colapinto, que mantiene un vínculo con el campo y los caballos desde su infancia. Lejos de la exigencia de la máxima categoría del automovilismo, el joven aprovechó la visita a un rancho para reencontrarse con una afición que forma parte de su vida fuera de las pistas. Ahora, Colapinto deberá volver a concentrarse en la actividad deportiva. El Gran Premio de Estados Unidos se disputará en el Circuito de las Américas, en Austin, entre este viernes 23 y el domingo 25 de octubre , en una nueva oportunidad para competir en la temporada de Fórmula 1. Después de su particular paseo texano, el argentino cambiará las riendas por el volante para afrontar un nuevo desafío con Alpine.",
+          "language": "es",
+          "publishedAt": "2026-10-22T00:44:51.000Z",
+          "addedAt": "2026-10-22T00:56:09.995Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id",
@@ -601,21 +571,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-con-shell-un-grupo-de-fanaticos-argentinos-de-la-f1-viajara-a-las-vegas",
-          "title": "Con Shell, un grupo de fanáticos argentinos de la F1 viajará a Las Vegas | Campeones",
-          "summary": "Mariana Dalmasso, responsable de Marketing de la firma de combustibles históricamente vinculada a Ferrari, dialogó con Campeones acerca de la promoción realizada para la competencia de la “Máxima”.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/con-shell-un-grupo-de-fanaticos-argentinos-de-la-f1-viajara-a-las-vegas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/CAMPEONES-NEWS.png",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-21T16:23:20.000Z",
-          "addedAt": "2026-10-21T19:27:19.145Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-importante-prueba-para-agustin-canapino-en-el-tn",
           "title": "Importante prueba para Agustín Canapino en el TN | Campeones",
           "summary": "\"El Titán\" ensayó en San Nicolás con el Chevrolet Cruze líder de la Clase 3, en la previa de las últimas dos fechas del campeonato.",
@@ -659,13 +614,7 @@
           "addedAt": "2026-10-19T13:11:27.029Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-22T00:56:18.332Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-un-argentino-se-toco-con-verstappen-y-lo-expuso-a-una-sancion-en-el-gt-world-challenge-i",
           "title": "Un argentino se tocó con Verstappen y lo expuso a una sanción en el GT World Challenge",
@@ -680,7 +629,13 @@
           "addedAt": "2026-10-18T07:11:28.096Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-22T06:01:43.702Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-franco-colapinto-alpine-mensaje-fans-criticas-redes-sociales-id766239-html",
           "title": "El especial pedido de Colapinto para que cesen los mensajes de odio en redes: \"Piensan que me defienden, pero generan lo contrario\"",
@@ -712,6 +667,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-con-shell-un-grupo-de-fanaticos-argentinos-de-la-f1-viajara-a-las-vegas",
+          "title": "Con Shell, un grupo de fanáticos argentinos de la F1 viajará a Las Vegas | Campeones",
+          "summary": "Mariana Dalmasso, responsable de Marketing de la firma de combustibles históricamente vinculada a Ferrari, dialogó con Campeones acerca de la promoción realizada para la competencia de la “Máxima”.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/con-shell-un-grupo-de-fanaticos-argentinos-de-la-f1-viajara-a-las-vegas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/CAMPEONES-NEWS.png",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-21T16:23:20.000Z",
+          "addedAt": "2026-10-21T19:27:19.145Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-el-italo-argentino-mattia-colnaghi-confirmado-para-el-clasico-gp-de-macao",
           "title": "El ítalo argentino Mattia Colnaghi confirmado para el clásico GP de Macao",
           "summary": "Se prepara la 73ra edición del GP de Macao y el equipo MP Motorsport confirmó a Colnaghi para estar del 19 al 22 de noviembre allí.",
@@ -723,21 +693,6 @@
           "language": "es",
           "publishedAt": "2026-10-16T11:04:21.000Z",
           "addedAt": "2026-10-18T14:11:35.077Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-positivo-dia-para-bautista-panetta-en-viterbo",
-          "title": "Positivo día para Bautista Panetta en Viterbo | Campeones",
-          "summary": "En la división S125 Senior, el joven de Campana clasificó 8.° y se ubicó 7.° en el único Heat de la jornada, junto al RCK Team en la Iame World Finals.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/positivo-dia-para-bautista-panetta-en-viterbo/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-21-134153.png",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-21T16:43:21.000Z",
-          "addedAt": "2026-10-21T19:27:18.949Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -783,6 +738,36 @@
           "language": "es",
           "publishedAt": "2026-10-17T20:02:27.000Z",
           "addedAt": "2026-10-18T07:11:27.209Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-positivo-dia-para-bautista-panetta-en-viterbo",
+          "title": "Positivo día para Bautista Panetta en Viterbo | Campeones",
+          "summary": "En la división S125 Senior, el joven de Campana clasificó 8.° y se ubicó 7.° en el único Heat de la jornada, junto al RCK Team en la Iame World Finals.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/positivo-dia-para-bautista-panetta-en-viterbo/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-21-134153.png",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-21T16:43:21.000Z",
+          "addedAt": "2026-10-21T19:27:18.949Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-el-turismo-carretera-vuelve-a-rosario-con-51-anotados",
+          "title": "El Turismo Carretera vuelve a Rosario con 51 anotados | Campeones",
+          "summary": "Este fin de semana se disputa la tercera fecha de la Copa de Oro, en el regreso al \"Juan Manuel Fangio\" tras 7 años. Santiago Álvarez debuta con el TCM Racing tras dejar el Uranga Racing y regresa Jerónimo Teti.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-turismo-carretera-vuelve-a-rosario-con-51-anotados/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/gui2513-1791292715684-993217604.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-21T12:56:31.000Z",
+          "addedAt": "2026-10-21T15:26:34.806Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -920,27 +905,12 @@
           "addedAt": "2026-10-18T07:11:27.447Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria",
-          "title": "TC Mouras: Fabrizio Maggini empezó la Copa Coronación con una victoria",
-          "summary": "Tras largar 4º, el mendocino logró su 2º triunfo de la temporada 2026 con el Ford del RUS Med Team y se posicionó como nuevo escolta en el “play-off” de Nicolás Jaime (Dodge), que terminó 3º. Santiago Arrigoni (Dodge) completó el “1-2” del equipo arrecifeño.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Maggini-TCM-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-18T19:18:01.000Z",
-          "addedAt": "2026-10-18T20:11:27.721Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-22T00:56:18.332Z",
+      "createdAt": "2026-10-22T06:01:43.702Z",
       "items": [
         {
           "id": "campeones-com-ar-thiago-palotini-carrera-en-ascenso-viajes-a-europa-y-el-desembarco-en-la-formula-4-brasil",
@@ -1059,6 +1029,21 @@
           "language": "es",
           "publishedAt": "2026-10-15T10:16:53.000Z",
           "addedAt": "2026-10-18T07:11:27.625Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-con-una-baja-importante-el-tc-pista-llega-a-rosario",
+          "title": "Con una baja importante, el TC Pista llega a Rosario | Campeones",
+          "summary": "La \"telonera\" del Turismo Carretera tendrá 19 autos en pista y la ausencia de Eugenio Provens, protagonista de la Copa de Plata.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/con-una-baja-importante-el-tc-pista-llega-a-rosario/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/tc-pista-san-ncipolas.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-21T19:20:45.000Z",
+          "addedAt": "2026-10-21T19:27:18.258Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1196,7 +1181,13 @@
           "addedAt": "2026-10-18T07:11:28.079Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-22T06:01:43.702Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -1211,13 +1202,7 @@
           "addedAt": "2026-10-18T07:11:28.259Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-22T00:56:18.332Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-verstappen-opino-sobre-realizar-los-gg-pp-de-f1-en-qatar-y-abu-dhabi",
           "title": "Verstappen opinó sobre realizar los GG. PP. de F1 en Qatar y Abu Dhabi",
@@ -1294,19 +1279,19 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
-          "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
-          "summary": "El joven piloto italiano realizó un nuevo test, ahora en la pista francesa con uno de los autos de la escudería de Enstone.",
+          "id": "campeones-com-ar-tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria",
+          "title": "TC Mouras: Fabrizio Maggini empezó la Copa Coronación con una victoria",
+          "summary": "Tras largar 4º, el mendocino logró su 2º triunfo de la temporada 2026 con el Ford del RUS Med Team y se posicionó como nuevo escolta en el “play-off” de Nicolás Jaime (Dodge), que terminó 3º. Santiago Arrigoni (Dodge) completó el “1-2” del equipo arrecifeño.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-F1-Alpine-Gabriele-Mini.jpg",
+          "url": "https://campeones.com.ar/tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Maggini-TCM-2026.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-16T19:41:21.000Z",
-          "addedAt": "2026-10-18T07:11:27.249Z",
-          "category": "general",
-          "tag": "F1"
+          "publishedAt": "2026-10-18T19:18:01.000Z",
+          "addedAt": "2026-10-18T20:11:27.721Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-wec-toyota-domina-las-condiciones-cambiantes-y-se-calza-la-corona-en-espana",
@@ -1472,7 +1457,13 @@
           "addedAt": "2026-10-18T07:11:27.922Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-22T06:01:43.702Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
           "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
@@ -1487,13 +1478,7 @@
           "addedAt": "2026-10-18T07:11:27.984Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-22T00:56:18.332Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-tc-pick-up-vuelve-a-la-plata-con-13-camionetas",
           "title": "TC Pick Up vuelve a La Plata con 14 camionetas | Campeones",
@@ -1553,6 +1538,21 @@
           "addedAt": "2026-10-18T07:11:27.166Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
+          "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
+          "summary": "El joven piloto italiano realizó un nuevo test, ahora en la pista francesa con uno de los autos de la escudería de Enstone.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-F1-Alpine-Gabriele-Mini.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-16T19:41:21.000Z",
+          "addedAt": "2026-10-18T07:11:27.249Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
@@ -1733,36 +1733,6 @@
           "addedAt": "2026-10-18T07:11:27.238Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-el-tc2000-vuelve-a-general-roca-junto-al-top-race-y-la-formula-nacional",
-          "title": "El TC2000 vuelve a General Roca junto al Top Race y la Fórmula Nacional",
-          "summary": "La plaza rionegrina vuelve a formar parte del calendario de la categoría por segundo año consecutivo. Será los próximos 31 de octubre y 1 de noviembre.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-tc2000-vuelve-a-general-roca-junto-al-top-race-y-la-formula-nacional/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC2000-GENERAL-ROCA-2025-CIANTINI.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-12T15:04:41.000Z",
-          "addedAt": "2026-10-18T07:11:27.194Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
-          "id": "www-fiaformula2-com-en-latest-article-compromise-and-identifying-balance-how-i-race-with-oliver-goethe-lj9hc0p9x3et7clwc",
-          "title": "Compromise and identifying balance: How I Race with Oliver Goethe",
-          "summary": "",
-          "source": "Formula 2",
-          "sourceLabel": "Formula 2",
-          "url": "https://www.fiaformula2.com/en/latest/article/compromise-and-identifying-balance-how-i-race-with-oliver-goethe.lJ9hC0P9x3eT7CLWC06g5",
-          "image": "",
-          "language": "en",
-          "publishedAt": "2026-10-22T00:56:09.733Z",
-          "addedAt": "2026-10-19T10:11:26.693Z",
-          "category": "support",
-          "tag": "F2",
-          "series": "F2"
         }
       ]
     }
