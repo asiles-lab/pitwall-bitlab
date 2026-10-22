@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22T16:03:09.962Z",
-  "checkedAt": "2026-10-22T16:03:09.962Z",
+  "updatedAt": "2026-10-22T19:59:09.973Z",
+  "checkedAt": "2026-10-22T19:59:09.973Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,6 +39,36 @@
     "fallbackPerRun": 1
   },
   "backlog": [
+    {
+      "id": "www-tycsports-com-automovilismo-colapinto-y-gasly-dotes-actorales-en-alpine-id767770-html",
+      "title": "Colapinto se baja del auto y muestra sus dotes actorales con Gasly en Alpine",
+      "summary": "El argentino y el francés protagonizaron el video que publicó la escudería francesa para anunciar su nueva alianza global con una empresa de software estadounidense.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/colapinto-y-gasly-dotes-actorales-en-alpine-id767770.html",
+      "image": "https://media.tycsports.com/files/2026/10/22/998377/franco_1440x810.webp?v=1",
+      "body": "El argentino y el francés protagonizaron el video que publicó la escudería francesa para anunciar su nueva alianza global con una empresa de software estadounidense.\n\nEl divertido video de Colapinto y Gasly en Alpine + Seguinos en En la previa del Media Day del Gran Premio de Estados Unidos de Fórmula 1 , Alpine confirmó una nueva alianza global con Adobe y, para anunciar su vínculo con la empresa estadounidense de software, publicó un video en redes sociales con sus pilotos, Franco Colapinto y Pierre Gasly, como protagonistas. Como no podía ser de otra manera, la actuación del argentino se robó todas las miradas.\n\nEl video inicia con una llamada de Steve Nielsen , director general de la escudería francesa, en la que le solicita a ambos corredores que creen una pieza gráfica utilizando las herramientas de la inteligencia artificial de Adobe para anunciar su contrato de sponsoreo.\n\nEl francés rápidamente se puso manos a la obra, pero el argentino no tardó en cruzarlo por su creación. “¿Por qué está diciendo que es más fachero que Franco?” , deslizó.\n\nLuego de que Gasly finalizara su creación, Colapinto redobló la apuesta: “¿Simple? Ahora, miren a un artista”. Acto seguido, el #43 comenzó con una serie de insólitos pedidos a la IA. “Dale a mi retrato más caballos de fuerza”, escribió.",
+      "language": "es",
+      "publishedAt": "2026-10-22T17:03:50.000Z",
+      "addedAt": "2026-10-22T19:59:11.097Z",
+      "category": "argentino",
+      "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-colapinto-ratifico-su-posicion-contra-el-abuso-en-redes-se-cruzaron-limites",
+      "title": "Colapinto ratificó su posición contra el abuso en redes: «Se cruzaron límites»",
+      "summary": "Durante la ronda de medios preliminar al Gran Premio de Estados Unidos, en Austin, el piloto de Alpine F1 Team se refirió a las razones para evitar que los fans pregonen mensajes ofensivos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/colapinto-ratifico-su-posicion-contra-el-abuso-en-redes-se-cruzaron-limites/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261022-F1-Colapinto-e1792696038833.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-22T19:06:41.000Z",
+      "addedAt": "2026-10-22T19:59:12.513Z",
+      "category": "argentino",
+      "tag": "Franco"
+    },
     {
       "id": "campeones-com-ar-rene-zanatta-volvera-a-correr-en-rafaela-con-un-turismo-carretera-2000",
       "title": "René Zanatta volverá a correr en Rafaela con un Turismo Carretera 2000",
@@ -111,21 +141,6 @@
       "language": "es",
       "publishedAt": "2026-10-16T11:55:54.000Z",
       "addedAt": "2026-10-18T07:11:27.683Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-urcera-y-su-cambio-de-marca-en-tc-fue-acertada-la-decision-de-correr-con-mercedes-benz",
-      "title": "Urcera y su cambio de marca en TC: «Fue acertada la decisión de correr con Mercedes-Benz»",
-      "summary": "El campeón 2022 de Turismo Carretera hizo un alto de una actividad promocional con el equipo Maquin Parts en el autódromo de 9 de Julio y repasó en Campeones sus sensaciones con el coche de la marca alemana.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/urcera-y-su-cambio-de-marca-en-tc-fue-acertada-la-decision-de-correr-con-mercedes-benz/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261015-TC-Urcera-MBenz.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-15T17:22:45.000Z",
-      "addedAt": "2026-10-18T07:11:27.183Z",
       "category": "general",
       "tag": "F1"
     },
@@ -295,6 +310,21 @@
       "tag": "Carrera"
     },
     {
+      "id": "campeones-com-ar-urcera-y-su-cambio-de-marca-en-tc-fue-acertada-la-decision-de-correr-con-mercedes-benz",
+      "title": "Urcera y su cambio de marca en TC: «Fue acertada la decisión de correr con Mercedes-Benz»",
+      "summary": "El campeón 2022 de Turismo Carretera hizo un alto de una actividad promocional con el equipo Maquin Parts en el autódromo de 9 de Julio y repasó en Campeones sus sensaciones con el coche de la marca alemana.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/urcera-y-su-cambio-de-marca-en-tc-fue-acertada-la-decision-de-correr-con-mercedes-benz/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261015-TC-Urcera-MBenz.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-15T17:22:45.000Z",
+      "addedAt": "2026-10-18T07:11:27.183Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-a-la-venta-las-entradas-para-el-tc-en-rosario",
       "title": "A la venta las entradas para el TC en Rosario",
       "summary": "Comenzó la venta anticipada para la decimotercera presentación del año en el autódromo «Juan Manuel Fangio» los próximos 24 y 25 de octubre.",
@@ -433,8 +463,38 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-22T16:03:24.268Z",
+      "createdAt": "2026-10-22T19:59:17.930Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-messi-balon-de-oro-id767832-html",
+          "title": "Colapinto eligió a Messi como su candidato para el Balón de Oro: “Sería muy lindo que lo vuelva a ganar”",
+          "summary": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-messi-balon-de-oro-id767832.html",
+          "image": "https://media.tycsports.com/files/2026/10/22/998438/franco_862x485.webp?v=1",
+          "body": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.\n\nFranco Colapinto eligió a Lionel Messi como su candidato a ganar el Balón de Oro. + Seguinos en Franco Colapinto tiene muy en claro a su favorito para quedarse con el Balón de Oro , que se entregará el próximo lunes en Londres. “Messi” , sentenció el piloto argentino de Alpine en diálogo con DAZN este jueves en el Media Day del Gran Premio de Estados Unidos de Fórmula 1.\n\n“Fue su último Mundial y la rompió. Metió muchísimos goles, ayudó a Argentina a llegar a la final y es un ídolo para todo el fútbol mundial. Creo que tuvo un gran año y se lo merece” , argumentó el pilarense sobre la performance del astro rosarino en este 2026.\n\nAdemás, el corredor de 23 años se deshizo en elogios con el mejor futbolista de todos los tiempos por la vigencia que mantiene a sus 39 años: “Con la edad que tiene, su disciplina; es un ejemplo para el mundo del deporte y, si no es el mejor, tuvo uno de los mejores años entre todos los futbolistas”.\n\nPor último, el #43 le dedicó un sentido mensaje a Leo, con quien se encontró en la previa del Gran Premio de Miami. “Ojalá gane él. Soy uno de sus mayores fanáticos y, con todas las alegrías que nos dio, sería muy lindo que lo vuelva a ganar”, sentenció.",
+          "language": "es",
+          "publishedAt": "2026-10-22T19:31:06.000Z",
+          "addedAt": "2026-10-22T19:59:10.767Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-entrada-triunfal-en-moto-paddock-gp-estados-unidos-id767807-html",
+          "title": "“Franco trayendo aura”: la entrada triunfal de Colapinto al Gran Premio de Estados Unidos",
+          "summary": "El argentino ingresó al paddock del Circuito de Austin arriba de una Yamaha YZR-M1 del equipo Prima Pramac de MotoGP y se robó todas las miradas.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-entrada-triunfal-en-moto-paddock-gp-estados-unidos-id767807.html",
+          "image": "https://media.tycsports.com/files/2026/10/22/998411/franco_1440x810.webp?v=2",
+          "body": "El argentino ingresó al paddock del Circuito de Austin arriba de una Yamaha YZR-M1 del equipo Prima Pramac de MotoGP y se robó todas las miradas.\n\nLa entrada triunfal de Colapinto al Circuito de Austin + Seguinos en Franco Colapinto se robó todas las miradas este jueves en el paddock del Circuito de Austin en el Media Day del Gran Premio de Estados Unidos de Fórmula 1. El piloto argentino recorrió los primeros metros del trazado estadounidense arriba de una moto Yamaha de MotoGP del equipo Prima Pramac, que tiene un convenio con Alpine.\n\n“¡¿Perdón, queee?!” , fue la frase elegida por la escudería francesa para acompañar el video que posteó en sus redes sociales sobre el estelar ingreso del pilarense al paddock. Luciendo la remera del equipo y el casco que utiliza para correr en F1 cada fin de semana, el #43 atrajo la atención de todos mientras hacía rugir a la Yamaha YZR-M1.\n\n“Franco trayendo aura” , agregó Alpine en un carrusel de imágenes de Colapinto con su nuevo vehículo. Además, el equipo francés publicó un tercer posteo, en el que el piloto de 23 años contó rápidamente sus sensaciones. “Está bueno, me dan ganas de manejar un poco más ahora”, expresó.\n\nLa organización explicó que la moto se encontraba en punto muerto, por lo que el argentino solo podía acelerar para hacer sentir el ruido del motor , pero fue ayudado por un auxiliar para trasladarse durante su breve recorrido.",
+          "language": "es",
+          "publishedAt": "2026-10-22T18:40:30.000Z",
+          "addedAt": "2026-10-22T19:59:10.962Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
         {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-estados-unidos-horarios-y-el-cronograma-completo-id765917-html",
           "title": "F1 | Colapinto en el GP de Estados Unidos: horarios y el cronograma completo",
@@ -445,7 +505,7 @@
           "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
           "body": "Este fin de semana, el argentino disputa la decimoctava fecha de la temporada 2026 de la Fórmula 1 en el Circuito de las Américas. Conocé todos los detalles.\n\nFranco Colapinto. (@AlpineF1Team) + Seguinos en Franco Colapinto se prepara para disputar el Gran Premio de Estados Unidos de la Fórmula 1 . La 18° fecha de la temporada se correrá en el Circuito de las Américas y el argentino buscará reencontrarse con su mejor versión, luego del abandono en Singapur . Conocé el cronograma completo .\n\nEl Circuito Urbano de Marina Bay es uno de los trazados más exigentes de la Fórmula 1 . Su recorrido combina curvas cerradas, fuertes frenadas y sectores rápidos entre las calles de Singapur, con el agregado de un clima extremadamente húmedo. La carrera se disputa de noche y fue la primera competencia nocturna en la historia de la categoría . Desde 2023, el circuito tiene 19 curvas tras una modificación en su trazado.\n\nA su vez, de manera online se podrá seguir por Disney+, el servicio de streaming que ofrece ESPN o accediendo a Fox Sports a través de Telecentro Play, D Go y Flow.",
           "language": "es",
-          "publishedAt": "2026-10-22T12:48:36.000Z",
+          "publishedAt": "2026-10-22T19:36:56.000Z",
           "addedAt": "2026-10-22T16:03:11.160Z",
           "category": "argentino",
           "tag": "Franco"
@@ -674,7 +734,13 @@
           "addedAt": "2026-10-18T07:11:27.966Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-22T19:59:17.930Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-hadjar-exabrupto-dolor-culo-no-poder-pasar-colapinto-f1-gp-singapur-id765737-html",
           "title": "\"Dolor en el culo\": el exabrupto de Hadjar tras no poder pasar a Colapinto en el GP de Singapur",
@@ -690,27 +756,6 @@
           "category": "argentino",
           "tag": "Franco"
         },
-        {
-          "id": "campeones-com-ar-con-shell-un-grupo-de-fanaticos-argentinos-de-la-f1-viajara-a-las-vegas",
-          "title": "Con Shell, un grupo de fanáticos argentinos de la F1 viajará a Las Vegas | Campeones",
-          "summary": "Mariana Dalmasso, responsable de Marketing de la firma de combustibles históricamente vinculada a Ferrari, dialogó con Campeones acerca de la promoción realizada para la competencia de la “Máxima”.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/con-shell-un-grupo-de-fanaticos-argentinos-de-la-f1-viajara-a-las-vegas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/CAMPEONES-NEWS.png",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-21T16:23:20.000Z",
-          "addedAt": "2026-10-21T19:27:19.145Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-22T16:03:24.268Z",
-      "items": [
         {
           "id": "campeones-com-ar-mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3",
           "title": "Mattia Colnaghi ingresa al equipo campeón de la Fórmula 3",
@@ -757,6 +802,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-con-shell-un-grupo-de-fanaticos-argentinos-de-la-f1-viajara-a-las-vegas",
+          "title": "Con Shell, un grupo de fanáticos argentinos de la F1 viajará a Las Vegas | Campeones",
+          "summary": "Mariana Dalmasso, responsable de Marketing de la firma de combustibles históricamente vinculada a Ferrari, dialogó con Campeones acerca de la promoción realizada para la competencia de la “Máxima”.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/con-shell-un-grupo-de-fanaticos-argentinos-de-la-f1-viajara-a-las-vegas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/CAMPEONES-NEWS.png",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-21T16:23:20.000Z",
+          "addedAt": "2026-10-21T19:27:19.145Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-bautista-panetta-trabajando-para-mejorar-en-viterbo",
           "title": "Bautista Panetta, trabajando para mejorar en Viterbo | Campeones",
           "summary": "Se disputan las IAME World Finals en el circuito italiano y el joven de 14 años cerró un día con dos intensas mangas, junto al equipo Kidix.",
@@ -768,21 +828,6 @@
           "language": "es",
           "publishedAt": "2026-10-22T15:13:01.000Z",
           "addedAt": "2026-10-22T16:03:12.821Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-importante-prueba-para-agustin-canapino-en-el-tn",
-          "title": "Importante prueba para Agustín Canapino en el TN | Campeones",
-          "summary": "\"El Titán\" ensayó en San Nicolás con el Chevrolet Cruze líder de la Clase 3, en la previa de las últimas dos fechas del campeonato.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/importante-prueba-para-agustin-canapino-en-el-tn/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/1792604109_6ad8f7cd83346.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-21T19:03:39.000Z",
-          "addedAt": "2026-10-21T19:27:17.784Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -817,6 +862,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-importante-prueba-para-agustin-canapino-en-el-tn",
+          "title": "Importante prueba para Agustín Canapino en el TN | Campeones",
+          "summary": "\"El Titán\" ensayó en San Nicolás con el Chevrolet Cruze líder de la Clase 3, en la previa de las últimas dos fechas del campeonato.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/importante-prueba-para-agustin-canapino-en-el-tn/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/1792604109_6ad8f7cd83346.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-21T19:03:39.000Z",
+          "addedAt": "2026-10-21T19:27:17.784Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-mundial-de-flat-track-en-argentina-con-31-pilotos-anotados",
           "title": "Mundial de Flat Track en Argentina con 31 pilotos anotados",
           "summary": "Totoras se prepara para un fin de semana histórico el 24 y 25 de octubre con un mundial en territorio santafecino.",
@@ -843,36 +903,6 @@
           "language": "es",
           "publishedAt": "2026-10-17T20:02:27.000Z",
           "addedAt": "2026-10-18T07:11:27.209Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-el-turismo-carretera-vuelve-a-rosario-con-51-anotados",
-          "title": "El Turismo Carretera vuelve a Rosario con 51 anotados | Campeones",
-          "summary": "Este fin de semana se disputa la tercera fecha de la Copa de Oro, en el regreso al \"Juan Manuel Fangio\" tras 7 años. Santiago Álvarez debuta con el TCM Racing tras dejar el Uranga Racing y regresa Jerónimo Teti. No estarán Matías Jalaf, Marcos Castro y Gastón Ferrante.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-turismo-carretera-vuelve-a-rosario-con-51-anotados/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/gui2513-1791292715684-993217604.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-21T16:56:31.000Z",
-          "addedAt": "2026-10-21T15:26:34.806Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-positivo-dia-para-bautista-panetta-en-viterbo",
-          "title": "Positivo día para Bautista Panetta en Viterbo | Campeones",
-          "summary": "En la división S125 Senior, el joven de Campana clasificó 8.° y se ubicó 7.° en el único Heat de la jornada, junto al RCK Team en la Iame World Finals.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/positivo-dia-para-bautista-panetta-en-viterbo/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-21-134153.png",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-21T16:43:21.000Z",
-          "addedAt": "2026-10-21T19:27:18.949Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -967,17 +997,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-canapino-prueba-en-san-nicolas-de-cara-a-la-definicion-de-tn",
-          "title": "Canapino prueba en San Nicolás de cara a la definición de TN",
-          "summary": "El arrecifeño llegó con el equipo Salvita Racing para chequear el funcionamiento del Chevrolet de Clase 3.",
+          "id": "campeones-com-ar-el-turismo-carretera-vuelve-a-rosario-con-51-anotados",
+          "title": "El Turismo Carretera vuelve a Rosario con 51 anotados | Campeones",
+          "summary": "Este fin de semana se disputa la tercera fecha de la Copa de Oro, en el regreso al \"Juan Manuel Fangio\" tras 7 años. Santiago Álvarez debuta con el TCM Racing tras dejar el Uranga Racing y regresa Jerónimo Teti. No estarán Matías Jalaf, Marcos Castro y Gastón Ferrante.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/canapino-prueba-en-san-nicolas-de-cara-a-la-definicion-de-tn/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-TNC3-Canapino.jpg",
+          "url": "https://campeones.com.ar/el-turismo-carretera-vuelve-a-rosario-con-51-anotados/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/gui2513-1791292715684-993217604.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-20T15:01:19.000Z",
-          "addedAt": "2026-10-20T19:25:59.340Z",
+          "publishedAt": "2026-10-21T16:56:31.000Z",
+          "addedAt": "2026-10-21T15:26:34.806Z",
           "category": "argentino",
           "tag": "Argentino"
         }
@@ -985,7 +1015,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-22T16:03:24.268Z",
+      "createdAt": "2026-10-22T19:59:17.930Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-clay-regazzoni-subcampeon-del-mundo-f1-paraplejico-dakar-muerte-choque-tragico-op-id7673",
@@ -999,21 +1029,6 @@
           "language": "es",
           "publishedAt": "2026-10-22T10:19:16.000Z",
           "addedAt": "2026-10-22T11:40:44.470Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
-          "id": "campeones-com-ar-thiago-palotini-carrera-en-ascenso-viajes-a-europa-y-el-desembarco-en-la-formula-4-brasil",
-          "title": "Thiago Palotini: carrera en ascenso, competencias en Europa y la llegada a la Fórmula 4 Brasil | Campeones",
-          "summary": "Tiene 15 años, es oriundo en Necochea y viene de competir en la F4 España e Italia. En noviembre, compartirá pista con la F1 cuando desembarque en la especialidad brasilera de F4.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/thiago-palotini-carrera-en-ascenso-viajes-a-europa-y-el-desembarco-en-la-formula-4-brasil/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-12.07.47.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-21T18:45:58.000Z",
-          "addedAt": "2026-10-21T19:27:18.076Z",
           "category": "general",
           "tag": "Carrera"
         },
@@ -1048,21 +1063,6 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-sorpresiva-decision-de-mclaren-para-los-proximos-grandes-premios-en-la-f1-id767254-ht",
-          "title": "La sorpresiva decisión de McLaren para los próximos Grandes Premios en la F1",
-          "summary": "La escudería británica definió que Leonardo Fornaroli, piloto de reserva, saldrá a la pista en las prácticas libres en México y Brasil.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-sorpresiva-decision-de-mclaren-para-los-proximos-grandes-premios-en-la-f1-id767254.html",
-          "image": "https://media.tycsports.com/files/2026/10/19/997536/leonardo-fornaroli_1440x810.webp",
-          "body": "La escudería británica definió que Leonardo Fornaroli, piloto de reserva, saldrá a la pista en las prácticas libres en México y Brasil.\n\nLeonardo Fornaroli será parte de la primera práctica libre en los GP de México y Brasil. (Kym Illman/Getty Images) + Seguinos en McLaren tomó una sorpresiva decisión: confirmó que el italiano Leonardo Fornaroli participará en la primera práctica libre en los Grandes Premios de México y Brasil.\n\nLa escudería británica lo resolvió para completar la reglamentación de la FIA. Los equipos deben darle oportunidades a pilotos sin experiencia en la categoría en cuatro oportunidades en prácticas libres. “Estoy muy emocionado de volver a ponerme al volante del MCL40 y participar en dos sesiones más de entrenamientos libres oficiales con el equipo”, expresó el actual campeón de la Fórmula 2, en declaraciones que recoge el portal Campeones.\n\n“Los Grandes Premios de Ciudad de México y São Paulo son dos eventos fantásticos que supondrán un gran reto para mí como piloto. Interlagos es un circuito histórico, lleno de curvas técnicas variadas, mientras que la altitud de Ciudad de México será sin duda una nueva prueba física. Es una valiosa oportunidad para mi crecimiento profesional y, al mismo tiempo, para contribuir al equipo durante el fin de semana de la carrera” , añadió.\n\nPor otra parte, el último fin de semana, el italiano hizo pruebas privadas para McLaren en el Circuito de las Américas, que recibe al próximo Gran Premio este fin de semana. Leonardo Fornaroli ya había salido a la pista en prácticas libres en Barcelona y Budapest. Con su participación en México y Brasil, el joven piloto de 21 años llegará a las cuatro que exige la FIA.",
-          "language": "es",
-          "publishedAt": "2026-10-19T19:26:21.000Z",
-          "addedAt": "2026-10-19T21:26:34.438Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-christian-horner-revelo-como-red-bull-favorecio-a-max-verstappen-sobre-checo-perez-en-la",
           "title": "Horner reveló cómo Red Bull favoreció a Verstappen sobre Checo Pérez",
           "summary": "El exjefe de la escudería austríaca reconoció que las presiones del entorno del neerlandés provocaron cambios técnicos en el monoplaza durante 2022, cuando su compañero mexicano también peleaba por el campeonato.",
@@ -1074,6 +1074,21 @@
           "language": "es",
           "publishedAt": "2026-10-20T18:02:42.000Z",
           "addedAt": "2026-10-20T19:25:57.445Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-la-sorpresiva-decision-de-mclaren-para-los-proximos-grandes-premios-en-la-f1-id767254-ht",
+          "title": "La sorpresiva decisión de McLaren para los próximos Grandes Premios en la F1",
+          "summary": "La escudería británica definió que Leonardo Fornaroli, piloto de reserva, saldrá a la pista en las prácticas libres en México y Brasil.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-sorpresiva-decision-de-mclaren-para-los-proximos-grandes-premios-en-la-f1-id767254.html",
+          "image": "https://media.tycsports.com/files/2026/10/19/997536/leonardo-fornaroli_1440x810.webp",
+          "body": "La escudería británica definió que Leonardo Fornaroli, piloto de reserva, saldrá a la pista en las prácticas libres en México y Brasil.\n\nLeonardo Fornaroli será parte de la primera práctica libre en los GP de México y Brasil. (Kym Illman/Getty Images) + Seguinos en McLaren tomó una sorpresiva decisión: confirmó que el italiano Leonardo Fornaroli participará en la primera práctica libre en los Grandes Premios de México y Brasil.\n\nLa escudería británica lo resolvió para completar la reglamentación de la FIA. Los equipos deben darle oportunidades a pilotos sin experiencia en la categoría en cuatro oportunidades en prácticas libres. “Estoy muy emocionado de volver a ponerme al volante del MCL40 y participar en dos sesiones más de entrenamientos libres oficiales con el equipo”, expresó el actual campeón de la Fórmula 2, en declaraciones que recoge el portal Campeones.\n\n“Los Grandes Premios de Ciudad de México y São Paulo son dos eventos fantásticos que supondrán un gran reto para mí como piloto. Interlagos es un circuito histórico, lleno de curvas técnicas variadas, mientras que la altitud de Ciudad de México será sin duda una nueva prueba física. Es una valiosa oportunidad para mi crecimiento profesional y, al mismo tiempo, para contribuir al equipo durante el fin de semana de la carrera” , añadió.\n\nPor otra parte, el último fin de semana, el italiano hizo pruebas privadas para McLaren en el Circuito de las Américas, que recibe al próximo Gran Premio este fin de semana. Leonardo Fornaroli ya había salido a la pista en prácticas libres en Barcelona y Budapest. Con su participación en México y Brasil, el joven piloto de 21 años llegará a las cuatro que exige la FIA.",
+          "language": "es",
+          "publishedAt": "2026-10-19T19:26:21.000Z",
+          "addedAt": "2026-10-19T21:26:34.438Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1091,6 +1106,21 @@
           "addedAt": "2026-10-19T11:11:27.000Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-thiago-palotini-carrera-en-ascenso-viajes-a-europa-y-el-desembarco-en-la-formula-4-brasil",
+          "title": "Thiago Palotini: carrera en ascenso, competencias en Europa y la llegada a la Fórmula 4 Brasil | Campeones",
+          "summary": "Tiene 15 años, es oriundo en Necochea y viene de competir en la F4 España e Italia. En noviembre, compartirá pista con la F1 cuando desembarque en la especialidad brasilera de F4.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/thiago-palotini-carrera-en-ascenso-viajes-a-europa-y-el-desembarco-en-la-formula-4-brasil/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-12.07.47.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-21T18:45:58.000Z",
+          "addedAt": "2026-10-21T19:27:18.076Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "campeones-com-ar-tanto-qatar-como-la-f1-y-motogp-ratifican-sus-carreras-del-ano-2026",
@@ -1183,21 +1213,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-con-una-baja-importante-el-tc-pista-llega-a-rosario",
-          "title": "Con una baja importante, el TC Pista llega a Rosario | Campeones",
-          "summary": "La \"telonera\" del Turismo Carretera tendrá 19 autos en pista y la ausencia de Eugenio Provens, protagonista de la Copa de Plata.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/con-una-baja-importante-el-tc-pista-llega-a-rosario/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/tc-pista-san-ncipolas.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-21T19:20:45.000Z",
-          "addedAt": "2026-10-21T19:27:18.258Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
           "title": "TCR World Tour: Urrutia cerró con otro triunfo la fecha en Chengdu",
           "summary": "El uruguayo se impuso en la última competencia de la sexta ronda del calendario y acortó la brecha con Azcona a 23 puntos; el francés Comte también celebró en la segunda carrera.",
@@ -1256,13 +1271,7 @@
           "addedAt": "2026-10-18T07:11:28.259Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-22T16:03:24.268Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-verstappen-opino-sobre-realizar-los-gg-pp-de-f1-en-qatar-y-abu-dhabi",
           "title": "Verstappen opinó sobre realizar los GG. PP. de F1 en Qatar y Abu Dhabi",
@@ -1275,6 +1284,27 @@
           "language": "es",
           "publishedAt": "2026-10-20T14:34:18.000Z",
           "addedAt": "2026-10-20T15:14:20.753Z",
+          "category": "general",
+          "tag": "F1"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-22T19:59:17.930Z",
+      "items": [
+        {
+          "id": "campeones-com-ar-con-una-baja-importante-el-tc-pista-llega-a-rosario",
+          "title": "Con una baja importante, el TC Pista llega a Rosario | Campeones",
+          "summary": "La \"telonera\" del Turismo Carretera tendrá 19 autos en pista y la ausencia de Eugenio Provens, protagonista de la Copa de Plata.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/con-una-baja-importante-el-tc-pista-llega-a-rosario/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/tc-pista-san-ncipolas.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-21T19:20:45.000Z",
+          "addedAt": "2026-10-21T19:27:18.258Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1339,19 +1369,49 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team",
-          "title": "¿Qué esperar del nuevo jefe técnico de Alpine F1 Team?",
-          "summary": "Mike Elliott cuenta con experiencia como director técnico y de tecnología en Mercedes y un pasado por Renault y McLaren.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/que-esperar-del-nuevo-jefe-tecnico-de-alpine-f1-team/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Elliott-Alpine-Jefe-nuevo-v2.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-ricardo-rosset-el-piloto-considerado-uno-de-los-peores-de-la-historia-de-la-f1-que-fue-b",
+          "title": "Es considerado el peor piloto de la historia de la F1 y fue burlado por sus mecánicos",
+          "summary": "El brasileño, miembro de una familia millonaria dueña de una marca de lencería, llegó a la Máxima en 1996 y se marchó en 1998 con un rendimiento muy por debajo de las expectativas.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/ricardo-rosset-el-piloto-considerado-uno-de-los-peores-de-la-historia-de-la-f1-que-fue-burlado-por-sus-mecanicos-id765940.html",
+          "image": "https://media.tycsports.com/files/2026/10/14/995952/rosset_1440x810.webp?v=1",
+          "body": "El brasileño, miembro de una familia millonaria dueña de una marca de lencería, llegó a la Máxima en 1996 y se marchó en 1998 con un rendimiento muy por debajo de las expectativas.\n\nRicardo Rosset cuando se sumó al equipo de Lola Mastercard en la temporada 1997 (Gary M Prior /Allsport) + Seguinos en Ricardo Rosset es uno de los nombres con más mala fama en la historia de la Fórmula 1. El piloto brasileño tuvo participación entre 1996 y 1998 en la Máxima, pero dejó una imagen olvidable y muchos lo señalan como uno de los peores pilotos que tuvo la categoría . Proveniente de una familia empresaria de mucho dinero, el nacido en San Pablo pasó por tres escuderías de poca valía y se marchó criticado por los especialistas y por quienes compartieron equipo con él.\n\nMiembro de una adinerada familia propietaria de la marca Valisère de lencería, su llegada a la Fórmula 1 en 1996 fue acompañada de muchos patrocinadores que le abrieron las puertas . Hasta ese momento, Rosset, que había empezado a correr recién a los 20 años, se había destacado en karting en su país , compitió en Fórmula 3 en Inglaterra y fue subcampeón de Fórmula 3000 en 1995.\n\nSu estreno fue en Australia con la escudería Footwoork Hart y terminó en el noveno puesto. Allí compartió equipo con Jos Verstappen, el padre de Max, el cuatro veces campeón de la Máxima. Sin embargo, con el correr de la temporada, su rendimiento fue en decadencia y anduvo desde el octavo lugar hasta el 14° , mientras que en otros Grandes Premios debió retirarse por problemas mecánicos.\n\nAl año siguiente se sumó a Mastercard Lola F1 Team, pero solo llegó a disputar los GP de Australia y Brasil. Los malos rendimientos hicieron que el sponsor principal se retirara y la falta de recursos que impidió las mejoras en el auto derivó en que no volvi",
           "language": "es",
-          "publishedAt": "2026-10-15T19:55:12.000Z",
-          "addedAt": "2026-10-18T07:11:27.467Z",
+          "publishedAt": "2026-10-15T10:16:53.000Z",
+          "addedAt": "2026-10-18T07:11:27.625Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-positivo-dia-para-bautista-panetta-en-viterbo",
+          "title": "Positivo día para Bautista Panetta en Viterbo | Campeones",
+          "summary": "En la división S125 Senior, el joven de Campana clasificó 8.° y se ubicó 7.° en el único Heat de la jornada, junto al RCK Team en la Iame World Finals.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/positivo-dia-para-bautista-panetta-en-viterbo/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-21-134153.png",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-21T16:43:21.000Z",
+          "addedAt": "2026-10-21T19:27:18.949Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-canapino-prueba-en-san-nicolas-de-cara-a-la-definicion-de-tn",
+          "title": "Canapino prueba en San Nicolás de cara a la definición de TN",
+          "summary": "El arrecifeño llegó con el equipo Salvita Racing para chequear el funcionamiento del Chevrolet de Clase 3.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/canapino-prueba-en-san-nicolas-de-cara-a-la-definicion-de-tn/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261020-TNC3-Canapino.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-20T15:01:19.000Z",
+          "addedAt": "2026-10-20T19:25:59.340Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-canapino-lidera-por-1a-vez-en-tc-pick-up-y-alimenta-el-sueno-de-otra-triple-corona",
@@ -1369,21 +1429,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-contra-el-resto-estamos-parejos-dice-canapino",
-          "title": "\"Contra el resto estamos parejos\", dice Canapino",
-          "summary": "El líder de la Copa Shell V-Power de TC Pick Up ve una lucha ajustada, pero con un piloto por encima de todos en el rendimiento deportivo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/contra-el-resto-estamos-parejos-dice-canapino/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Agustin-Canapino-TC-Pick-Up-La-Plata-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-19T19:00:20.000Z",
-          "addedAt": "2026-10-19T21:26:35.934Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
           "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
           "summary": "Canapino es un fanático de toda expresión de la velocidad y ve a Colapinto \"muy asentado, firme, andando rápido y está consiguiendo puntos\".",
@@ -1397,6 +1442,21 @@
           "addedAt": "2026-10-18T07:11:27.447Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-contra-el-resto-estamos-parejos-dice-canapino",
+          "title": "\"Contra el resto estamos parejos\", dice Canapino",
+          "summary": "El líder de la Copa Shell V-Power de TC Pick Up ve una lucha ajustada, pero con un piloto por encima de todos en el rendimiento deportivo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/contra-el-resto-estamos-parejos-dice-canapino/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Agustin-Canapino-TC-Pick-Up-La-Plata-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-19T19:00:20.000Z",
+          "addedAt": "2026-10-19T21:26:35.934Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-tc-mouras-fabrizio-maggini-empezo-la-copa-coronacion-con-una-victoria",
@@ -1502,7 +1562,13 @@
           "addedAt": "2026-10-18T07:11:27.393Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-22T19:59:17.930Z",
+      "items": [
         {
           "id": "campeones-com-ar-tc-ford-y-chevrolet-de-la-convivencia-prohibida-a-compartir-taller-cada-vez-mas-seguido",
           "title": "TC: Ford y Chevrolet, de la convivencia prohibida a compartir taller cada vez más seguido",
@@ -1532,13 +1598,7 @@
           "addedAt": "2026-10-18T07:11:27.322Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-22T16:03:24.268Z",
-      "items": [
+        },
         {
           "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
           "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
@@ -1628,21 +1688,6 @@
           "addedAt": "2026-10-18T07:11:27.166Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-ricardo-rosset-el-piloto-considerado-uno-de-los-peores-de-la-historia-de-la-f1-que-fue-b",
-          "title": "Es considerado el peor piloto de la historia de la F1 y fue burlado por sus mecánicos",
-          "summary": "El brasileño, miembro de una familia millonaria dueña de una marca de lencería, llegó a la Máxima en 1996 y se marchó en 1998 con un rendimiento muy por debajo de las expectativas.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/ricardo-rosset-el-piloto-considerado-uno-de-los-peores-de-la-historia-de-la-f1-que-fue-burlado-por-sus-mecanicos-id765940.html",
-          "image": "https://media.tycsports.com/files/2026/10/14/995952/rosset_1440x810.webp?v=1",
-          "body": "El brasileño, miembro de una familia millonaria dueña de una marca de lencería, llegó a la Máxima en 1996 y se marchó en 1998 con un rendimiento muy por debajo de las expectativas.\n\nRicardo Rosset cuando se sumó al equipo de Lola Mastercard en la temporada 1997 (Gary M Prior /Allsport) + Seguinos en Ricardo Rosset es uno de los nombres con más mala fama en la historia de la Fórmula 1. El piloto brasileño tuvo participación entre 1996 y 1998 en la Máxima, pero dejó una imagen olvidable y muchos lo señalan como uno de los peores pilotos que tuvo la categoría . Proveniente de una familia empresaria de mucho dinero, el nacido en San Pablo pasó por tres escuderías de poca valía y se marchó criticado por los especialistas y por quienes compartieron equipo con él.\n\nMiembro de una adinerada familia propietaria de la marca Valisère de lencería, su llegada a la Fórmula 1 en 1996 fue acompañada de muchos patrocinadores que le abrieron las puertas . Hasta ese momento, Rosset, que había empezado a correr recién a los 20 años, se había destacado en karting en su país , compitió en Fórmula 3 en Inglaterra y fue subcampeón de Fórmula 3000 en 1995.\n\nSu estreno fue en Australia con la escudería Footwoork Hart y terminó en el noveno puesto. Allí compartió equipo con Jos Verstappen, el padre de Max, el cuatro veces campeón de la Máxima. Sin embargo, con el correr de la temporada, su rendimiento fue en decadencia y anduvo desde el octavo lugar hasta el 14° , mientras que en otros Grandes Premios debió retirarse por problemas mecánicos.\n\nAl año siguiente se sumó a Mastercard Lola F1 Team, pero solo llegó a disputar los GP de Australia y Brasil. Los malos rendimientos hicieron que el sponsor principal se retirara y la falta de recursos que impidió las mejoras en el auto derivó en que no volvi",
-          "language": "es",
-          "publishedAt": "2026-10-15T10:16:53.000Z",
-          "addedAt": "2026-10-18T07:11:27.625Z",
-          "category": "general",
-          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-el-nuevo-autodromo-de-buenos-aires-avanza-con-las-pruebas-de-asfalto-y-se-prepara-para-e",
@@ -1791,21 +1836,6 @@
           "language": "es",
           "publishedAt": "2026-10-15T12:58:11.000Z",
           "addedAt": "2026-10-18T07:11:27.465Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana",
-          "title": "Julián Santero retorna a las Pick Up el próximo fin de semana | Campeones",
-          "summary": "El piloto mendocino es el inscripto N°14, retornando con la Ford Ranger del Magnoluz Racing desde el fin de semana.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/julian-santero-retorna-a-las-pick-up-el-proximo-fin-de-semana/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/79254_big.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-14T19:27:49.000Z",
-          "addedAt": "2026-10-18T07:11:27.191Z",
           "category": "argentino",
           "tag": "Argentino"
         }
