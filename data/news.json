@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-23T01:42:06.658Z",
-  "checkedAt": "2026-10-23T01:42:06.658Z",
+  "updatedAt": "2026-10-23T06:31:49.998Z",
+  "checkedAt": "2026-10-23T06:31:49.998Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,36 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-rene-zanatta-volvera-a-correr-en-rafaela-con-un-turismo-carretera-2000",
-      "title": "René Zanatta volverá a correr en Rafaela con un Turismo Carretera 2000",
-      "summary": "Lo hará en el marco del Gran Premio Coronación que la categoría hará en la ciudad que representó en su campaña diversificada en motos y autos.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/rene-zanatta-volvera-a-correr-en-rafaela-con-un-turismo-carretera-2000/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261022-TurCar-2000-Zanatta.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-22T14:46:55.000Z",
-      "addedAt": "2026-10-22T16:03:12.606Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-marquez-rinde-honor-liderando-en-una-pista-que-se-despide-del-motogp",
-      "title": "Márquez rinde honor liderando en una pista que se despide del MotoGP",
-      "summary": "El Campeonato Mundial está en el icónico Phillip Island y Marc Márquez fue el mejor del primer entrenamiento delante de Fernández y Miller.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/marquez-rinde-honor-liderando-en-una-pista-que-se-despide-del-motogp/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Marc-Marquez-Ducati-FP1-Australia-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-23T00:50:07.000Z",
-      "addedAt": "2026-10-23T01:42:09.608Z",
-      "category": "general",
-      "tag": "F1"
-    },
     {
       "id": "campeones-com-ar-bonelli-y-el-desafio-de-sumarse-a-la-copa-de-oro-de-tc",
       "title": "Bonelli y el desafío de sumarse a la Copa de Oro de TC",
@@ -493,7 +463,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-23T01:42:19.269Z",
+      "createdAt": "2026-10-23T06:31:58.535Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-messi-balon-de-oro-id767832-html",
@@ -556,21 +526,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-y-gasly-dotes-actorales-en-alpine-id767770-html",
-          "title": "Colapinto se baja del auto y muestra sus dotes actorales con Gasly en Alpine",
-          "summary": "El argentino y el francés protagonizaron el video que publicó la escudería francesa para anunciar su nueva alianza global con una empresa de software estadounidense.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-y-gasly-dotes-actorales-en-alpine-id767770.html",
-          "image": "https://media.tycsports.com/files/2026/10/22/998377/franco_1440x810.webp?v=1",
-          "body": "El argentino y el francés protagonizaron el video que publicó la escudería francesa para anunciar su nueva alianza global con una empresa de software estadounidense.\n\nEl divertido video de Colapinto y Gasly en Alpine + Seguinos en En la previa del Media Day del Gran Premio de Estados Unidos de Fórmula 1 , Alpine confirmó una nueva alianza global con Adobe y, para anunciar su vínculo con la empresa estadounidense de software, publicó un video en redes sociales con sus pilotos, Franco Colapinto y Pierre Gasly, como protagonistas. Como no podía ser de otra manera, la actuación del argentino se robó todas las miradas.\n\nEl video inicia con una llamada de Steve Nielsen , director general de la escudería francesa, en la que le solicita a ambos corredores que creen una pieza gráfica utilizando las herramientas de la inteligencia artificial de Adobe para anunciar su contrato de sponsoreo.\n\nEl francés rápidamente se puso manos a la obra, pero el argentino no tardó en cruzarlo por su creación. “¿Por qué está diciendo que es más fachero que Franco?” , deslizó.\n\nLuego de que Gasly finalizara su creación, Colapinto redobló la apuesta: “¿Simple? Ahora, miren a un artista”. Acto seguido, el #43 comenzó con una serie de insólitos pedidos a la IA. “Dale a mi retrato más caballos de fuerza”, escribió.",
-          "language": "es",
-          "publishedAt": "2026-10-22T17:03:50.000Z",
-          "addedAt": "2026-10-22T19:59:11.097Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id",
           "title": "\"Mucho trabajo por hacer\": Colapinto apunta a la recuperación de Alpine en Austin",
           "summary": "El piloto argentino de la Fórmula 1 contó que estuvo en Enstone de cara al Gran Premio de Estados Unidos.",
@@ -614,6 +569,21 @@
           "addedAt": "2026-10-21T15:26:34.061Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-y-gasly-dotes-actorales-en-alpine-id767770-html",
+          "title": "Colapinto se baja del auto y muestra sus dotes actorales con Gasly en Alpine",
+          "summary": "El argentino y el francés protagonizaron el video que publicó la escudería francesa para anunciar su nueva alianza global con una empresa de software estadounidense.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-y-gasly-dotes-actorales-en-alpine-id767770.html",
+          "image": "https://media.tycsports.com/files/2026/10/22/998377/franco_1440x810.webp?v=1",
+          "body": "El argentino y el francés protagonizaron el video que publicó la escudería francesa para anunciar su nueva alianza global con una empresa de software estadounidense.\n\nEl divertido video de Colapinto y Gasly en Alpine + Seguinos en En la previa del Media Day del Gran Premio de Estados Unidos de Fórmula 1 , Alpine confirmó una nueva alianza global con Adobe y, para anunciar su vínculo con la empresa estadounidense de software, publicó un video en redes sociales con sus pilotos, Franco Colapinto y Pierre Gasly, como protagonistas. Como no podía ser de otra manera, la actuación del argentino se robó todas las miradas.\n\nEl video inicia con una llamada de Steve Nielsen , director general de la escudería francesa, en la que le solicita a ambos corredores que creen una pieza gráfica utilizando las herramientas de la inteligencia artificial de Adobe para anunciar su contrato de sponsoreo.\n\nEl francés rápidamente se puso manos a la obra, pero el argentino no tardó en cruzarlo por su creación. “¿Por qué está diciendo que es más fachero que Franco?” , deslizó.\n\nLuego de que Gasly finalizara su creación, Colapinto redobló la apuesta: “¿Simple? Ahora, miren a un artista”. Acto seguido, el #43 comenzó con una serie de insólitos pedidos a la IA. “Dale a mi retrato más caballos de fuerza”, escribió.",
+          "language": "es",
+          "publishedAt": "2026-10-22T17:03:50.000Z",
+          "addedAt": "2026-10-22T19:59:11.097Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-disfruto-de-un-paseo-a-caballo-antes-del-gp-de-estados-unidos-en-la-formula-1-",
@@ -769,7 +739,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-23T01:42:19.269Z",
+      "createdAt": "2026-10-23T06:31:58.535Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-briatore-colapinto-formula-1-id766372-html",
@@ -862,21 +832,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-importante-prueba-para-agustin-canapino-en-el-tn",
-          "title": "Importante prueba para Agustín Canapino en el TN | Campeones",
-          "summary": "\"El Titán\" ensayó en San Nicolás con el Chevrolet Cruze líder de la Clase 3, en la previa de las últimas dos fechas del campeonato.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/importante-prueba-para-agustin-canapino-en-el-tn/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/1792604109_6ad8f7cd83346.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-22T02:03:39.000Z",
-          "addedAt": "2026-10-21T19:27:17.784Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-con-shell-un-grupo-de-fanaticos-argentinos-de-la-f1-viajara-a-las-vegas",
           "title": "Con Shell, un grupo de fanáticos argentinos de la F1 viajará a Las Vegas | Campeones",
           "summary": "Mariana Dalmasso, responsable de Marketing de la firma de combustibles históricamente vinculada a Ferrari, dialogó con Campeones acerca de la promoción realizada para la competencia de la “Máxima”.",
@@ -888,21 +843,6 @@
           "language": "es",
           "publishedAt": "2026-10-21T16:23:20.000Z",
           "addedAt": "2026-10-21T19:27:19.145Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-bautista-panetta-trabajando-para-mejorar-en-viterbo",
-          "title": "Bautista Panetta, trabajando para mejorar en Viterbo | Campeones",
-          "summary": "Se disputan las IAME World Finals en el circuito italiano y el joven de 14 años cerró un día con dos intensas mangas, junto al equipo Kidix.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/bautista-panetta-trabajando-para-mejorar-en-viterbo/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-21-134153.png",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-22T15:13:01.000Z",
-          "addedAt": "2026-10-22T16:03:12.821Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -952,6 +892,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-importante-prueba-para-agustin-canapino-en-el-tn",
+          "title": "Importante prueba para Agustín Canapino en el TN | Campeones",
+          "summary": "\"El Titán\" ensayó en San Nicolás con el Chevrolet Cruze líder de la Clase 3, en la previa de las últimas dos fechas del campeonato.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/importante-prueba-para-agustin-canapino-en-el-tn/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/1792604109_6ad8f7cd83346.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-22T02:03:39.000Z",
+          "addedAt": "2026-10-21T19:27:17.784Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-mundial-de-flat-track-en-argentina-con-31-pilotos-anotados",
           "title": "Mundial de Flat Track en Argentina con 31 pilotos anotados",
           "summary": "Totoras se prepara para un fin de semana histórico el 24 y 25 de octubre con un mundial en territorio santafecino.",
@@ -978,6 +933,21 @@
           "language": "es",
           "publishedAt": "2026-10-17T20:02:27.000Z",
           "addedAt": "2026-10-18T07:11:27.209Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-bautista-panetta-trabajando-para-mejorar-en-viterbo",
+          "title": "Bautista Panetta, trabajando para mejorar en Viterbo | Campeones",
+          "summary": "Se disputan las IAME World Finals en el circuito italiano y el joven de 14 años cerró un día con dos intensas mangas, junto al equipo Kidix.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/bautista-panetta-trabajando-para-mejorar-en-viterbo/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-21-134153.png",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-22T15:13:01.000Z",
+          "addedAt": "2026-10-22T16:03:12.821Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1045,7 +1015,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-23T01:42:19.269Z",
+      "createdAt": "2026-10-23T06:31:58.535Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-clay-regazzoni-subcampeon-del-mundo-f1-paraplejico-dakar-muerte-choque-tragico-op-id7673",
@@ -1104,6 +1074,21 @@
           "language": "es",
           "publishedAt": "2026-10-20T10:17:06.000Z",
           "addedAt": "2026-10-20T15:14:18.641Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-rene-zanatta-volvera-a-correr-en-rafaela-con-un-turismo-carretera-2000",
+          "title": "René Zanatta volverá a correr en Rafaela con un Turismo Carretera 2000",
+          "summary": "Lo hará en el marco del Gran Premio Coronación que la categoría hará en la ciudad que representó en su campaña diversificada en motos y autos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/rene-zanatta-volvera-a-correr-en-rafaela-con-un-turismo-carretera-2000/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261022-TurCar-2000-Zanatta.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-22T14:46:55.000Z",
+          "addedAt": "2026-10-22T16:03:12.606Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1181,6 +1166,21 @@
           "addedAt": "2026-10-21T15:26:36.320Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-marquez-rinde-honor-liderando-en-una-pista-que-se-despide-del-motogp",
+          "title": "Márquez rinde honor liderando en una pista que se despide del MotoGP",
+          "summary": "El Campeonato Mundial está en el icónico Phillip Island y Marc Márquez fue el mejor del primer entrenamiento delante de Fernández y Miller.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/marquez-rinde-honor-liderando-en-una-pista-que-se-despide-del-motogp/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Marc-Marquez-Ducati-FP1-Australia-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-23T00:50:07.000Z",
+          "addedAt": "2026-10-23T01:42:09.608Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "campeones-com-ar-francisco-luengo-se-llevo-la-serie-del-tc-mouras",
@@ -1286,7 +1286,13 @@
           "addedAt": "2026-10-18T07:11:27.320Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-23T06:31:58.535Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-corrio-en-el-tc-fue-campeon-del-tc-pista-y-ahora-atiende-un-minimercado-en-san-juan-id76",
           "title": "Corrió en el TC, fue campeón del TC Pista y ahora atiende un minimercado en San Juan",
@@ -1316,13 +1322,7 @@
           "addedAt": "2026-10-18T07:11:28.259Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-23T01:42:19.269Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-verstappen-opino-sobre-realizar-los-gg-pp-de-f1-en-qatar-y-abu-dhabi",
           "title": "Verstappen opinó sobre realizar los GG. PP. de F1 en Qatar y Abu Dhabi",
@@ -1380,36 +1380,6 @@
           "language": "es",
           "publishedAt": "2026-10-20T13:03:16.000Z",
           "addedAt": "2026-10-20T15:14:20.787Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados",
-          "title": "Toto Wolff admite: «Muchos jefes de equipo en F1 son pilotos traumatizados y humillados»",
-          "summary": "Quien dirige la escuadra Mercedes AMG F1, referente del presente campeonato mundial con Antonelli y Russell, señaló como pretenden \"compensar\" sus magras campañas en la pista, ahora desde los boxes.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-F1-Team-Boss.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-18T17:43:43.000Z",
-          "addedAt": "2026-10-18T18:11:26.490Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
-          "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
-          "summary": "El joven piloto italiano realizó un nuevo test, ahora en la pista francesa con uno de los autos de la escudería de Enstone.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-F1-Alpine-Gabriele-Mini.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-16T19:41:21.000Z",
-          "addedAt": "2026-10-18T07:11:27.249Z",
           "category": "general",
           "tag": "F1"
         },
@@ -1597,7 +1567,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-23T01:42:19.269Z",
+      "createdAt": "2026-10-23T06:31:58.535Z",
       "items": [
         {
           "id": "campeones-com-ar-victoria-de-santiago-urrutia-en-tcr-world-tour",
@@ -1765,6 +1735,36 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados",
+          "title": "Toto Wolff admite: «Muchos jefes de equipo en F1 son pilotos traumatizados y humillados»",
+          "summary": "Quien dirige la escuadra Mercedes AMG F1, referente del presente campeonato mundial con Antonelli y Russell, señaló como pretenden \"compensar\" sus magras campañas en la pista, ahora desde los boxes.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/toto-wolff-admite-muchos-jefes-de-equipo-en-f1-son-pilotos-traumatizados-y-humillados/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-F1-Team-Boss.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T17:43:43.000Z",
+          "addedAt": "2026-10-18T18:11:26.490Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini",
+          "title": "F1: Alpine probó en Paul Ricard otra vez con Gabriele Mini",
+          "summary": "El joven piloto italiano realizó un nuevo test, ahora en la pista francesa con uno de los autos de la escudería de Enstone.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-alpine-probo-en-paul-ricard-otra-vez-con-gabriele-mini/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-F1-Alpine-Gabriele-Mini.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-16T19:41:21.000Z",
+          "addedAt": "2026-10-18T07:11:27.249Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-ricardo-rosset-el-piloto-considerado-uno-de-los-peores-de-la-historia-de-la-f1-que-fue-b",
           "title": "Es considerado el peor piloto de la historia de la F1 y fue burlado por sus mecánicos",
           "summary": "El brasileño, miembro de una familia millonaria dueña de una marca de lencería, llegó a la Máxima en 1996 y se marchó en 1998 con un rendimiento muy por debajo de las expectativas.",
@@ -1836,36 +1836,6 @@
           "language": "es",
           "publishedAt": "2026-10-17T18:35:57.000Z",
           "addedAt": "2026-10-18T07:11:27.396Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata",
-          "title": "TC Pick Up: Palazzo es la primera referencia en el regreso a La Plata",
-          "summary": "El pinamarense del EZE-B Team, que viene de lograr su 1ª victoria en la categoría en el retorno del automovilismo grande a Balcarce, resultó el más veloz en el entrenamiento que dio comienzo a la 2ª fecha de la Copa Coronación 2026.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-pick-up-palazzo-es-la-primera-referencia-en-el-regreso-a-la-plata/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Palazzo-TCPK-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-17T14:16:48.000Z",
-          "addedAt": "2026-10-18T07:11:27.161Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay",
-          "title": "Krujoski marcó la referencia de Turismo Carretera 2000 en C. del Uruguay",
-          "summary": "La práctica de la categoría tuvo al piloto correntino como el más veloz en la pista entrerriana, superando a Llaver, el líder del certamen. Tercero quedó Carinelli.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-TurCar2000-Krujoski.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-16T20:51:02.000Z",
-          "addedAt": "2026-10-18T07:11:27.429Z",
           "category": "general",
           "tag": "F1"
         }
