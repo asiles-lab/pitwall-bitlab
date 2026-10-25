@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-25T01:26:39.609Z",
-  "checkedAt": "2026-10-25T01:26:39.609Z",
+  "updatedAt": "2026-10-25T06:31:12.816Z",
+  "checkedAt": "2026-10-25T06:31:12.816Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,19 +40,19 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-colapinto-clasifico-14-y-largara-penultimo-en-el-gp-de-estados-unidos-de-formula-1",
-      "title": "Colapinto clasificó 14.° y largará penúltimo en el GP de Estados Unidos de Fórmula 1",
-      "summary": "Con el Alpine se abocó en cerrar el desarrollo del auto intentando obtener una fiable prestación en el trazado de Austin, en donde empezará desde la 21.ª posición. La \"pole\" la marcó Antonelli con el Mercedes.",
+      "id": "campeones-com-ar-en-montmelo-tiago-pernia-quedo-13-en-la-clasificacion-de-tcr-europa",
+      "title": "En Montmeló, Tiago Pernía quedó 13.° en la clasificación de TCR Europa",
+      "summary": "Junto a él varios de los candidatos al título, incluido el líder Marco Butti, tuvieron una buena sesión y deberán remontar posiciones en la primera carrera que se disputa a la hora 12:15 de Argentina.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/colapinto-clasifico-14-y-largara-penultimo-en-el-gp-de-estados-unidos-de-formula-1/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-F1-Colapinto-A526.jpg",
+      "url": "https://campeones.com.ar/en-montmelo-tiago-pernia-quedo-13-en-la-clasificacion-de-tcr-europa/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-TCR-T-Pernia.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-24T21:46:43.000Z",
-      "addedAt": "2026-10-24T23:28:33.766Z",
+      "publishedAt": "2026-10-24T10:21:02.000Z",
+      "addedAt": "2026-10-24T18:44:41.747Z",
       "category": "argentino",
-      "tag": "Franco"
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-f2-argentina-contundente-pole-de-ledesma-en-rosario",
@@ -85,21 +85,6 @@
       "tag": "Franco"
     },
     {
-      "id": "campeones-com-ar-en-montmelo-tiago-pernia-quedo-13-en-la-clasificacion-de-tcr-europa",
-      "title": "En Montmeló, Tiago Pernía quedó 13.° en la clasificación de TCR Europa",
-      "summary": "Junto a él varios de los candidatos al título, incluido el líder Marco Butti, tuvieron una buena sesión y deberán remontar posiciones en la primera carrera que se disputa a la hora 12:15 de Argentina.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/en-montmelo-tiago-pernia-quedo-13-en-la-clasificacion-de-tcr-europa/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-TCR-T-Pernia.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-24T10:21:02.000Z",
-      "addedAt": "2026-10-24T18:44:41.747Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-argentina-campeona-mundial-iame-de-la-mano-de-franco-crivelli",
       "title": "Argentina, campeona mundial IAME de la mano de Franco Crivelli",
       "summary": "El piloto argentino se consagró dentro de la Master X30 este sábado en Viterbo, donde se cerró la IAME Warrios Final.",
@@ -130,6 +115,21 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-el-mal-tiempo-impidio-que-motogp-corriera-su-ultima-prueba-en-phillip-island",
+      "title": "El mal tiempo impidió que MotoGP corriera su última prueba en Phillip Island",
+      "summary": "La pista que albergó el Gran Premio de Australia desde 1989 no tuvo su esperada despedida del campeonato mundial al quedar limitada la visibilidad y restringido el vuelo del helicóptero médico.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/el-mal-tiempo-impidio-que-motogp-corriera-su-ultima-prueba-en-phillip-island/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-MotoGP-Phillip-Island-cancelado.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-25T05:41:22.000Z",
+      "addedAt": "2026-10-25T06:31:16.404Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-bautista-panetta-dijo-presente-en-la-final-de-la-s125-senior-en-viterbo",
       "title": "Bautista Panetta dijo presente en la Final de la S125 Senior en Viterbo",
       "summary": "Junto al equipo Kidix, concluyó su periplo por el norte italiano en el 17° puesto, afectado por una sanción mientras buscaba pelear el ingreso al 'Top 10'.",
@@ -145,21 +145,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-tcr-europa-pernia-termino-11-en-montmelo-tras-recuperarse-de-un-roce-en-la-partida",
-      "title": "TCR Europa: Pernía terminó 11.° en Montmeló, tras recuperarse de un roce en la partida",
-      "summary": "En la competencia sabatina, el piloto de Squadra Martino debió remontar posiciones tras un incidente que lo relegó al último puesto.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-europa-pernia-termino-11-en-montmelo-tras-recuperarse-de-un-roce-en-la-partida/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-TCR-Pernia.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-24T17:24:05.000Z",
-      "addedAt": "2026-10-24T18:44:37.613Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-santino-panetta-5-y-9-en-los-ensayos-de-eurocup-3",
       "title": "Santino Panetta: 5° y 7° en los ensayos de Eurocup-3 | Campeones",
       "summary": "En Hungría, la categoría disputa su séptima fecha del calendario y el piloto Hitech se mostró competitivo en ambas practicas, donde además de ubicarse bien arriba, mejoró los tiempos.",
@@ -171,6 +156,21 @@
       "language": "es",
       "publishedAt": "2026-10-23T17:45:04.000Z",
       "addedAt": "2026-10-23T20:32:46.758Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tcr-europa-pernia-termino-11-en-montmelo-tras-recuperarse-de-un-roce-en-la-partida",
+      "title": "TCR Europa: Pernía terminó 11.° en Montmeló, tras recuperarse de un roce en la partida",
+      "summary": "En la competencia sabatina, el piloto de Squadra Martino debió remontar posiciones tras un incidente que lo relegó al último puesto.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-europa-pernia-termino-11-en-montmelo-tras-recuperarse-de-un-roce-en-la-partida/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-TCR-Pernia.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-24T17:24:05.000Z",
+      "addedAt": "2026-10-24T18:44:37.613Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -220,36 +220,6 @@
       "tag": "Carrera"
     },
     {
-      "id": "campeones-com-ar-tcr-world-tour-michelisz-domina-la-lluvia-en-la-clasificacion-en-zhejiang",
-      "title": "TCR World Tour: Michelisz domina la lluvia en la clasificación en Zhejiang",
-      "summary": "El húngaro se adjudicó la “pole” en el circuito chino, donde la categoría desarrolla este fin de semana la 7ª cita. Lo escoltaron Azcona y el uruguayo Urrutia. El ecuatoriano Morán fue 10°.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-world-tour-michelisz-domina-la-lluvia-en-la-clasificacion-en-zhejiang/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/michelisz-humana-zhejiang.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-24T05:41:23.000Z",
-      "addedAt": "2026-10-24T12:07:02.061Z",
-      "category": "general",
-      "tag": "Clima"
-    },
-    {
-      "id": "campeones-com-ar-motogp-marc-marquez-vencio-en-la-carrera-sprint-australiana-ante-la-caida-de-jorge-martin",
-      "title": "MotoGP: Marc Márquez venció en la carrera Sprint australiana, ante la caída de Jorge Martín",
-      "summary": "La competencia quedó definida en favor del piloto de Ducati luego de una emotiva disputa por la vanguardia con el madrileño quien, tras su incidente, fue asistido en el centro médico de Phillip Island.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/motogp-marc-marquez-vencio-en-la-carrera-sprint-australiana-ante-la-caida-de-jorge-martin/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261023-MotoGP-Marc-Marquez-sprint.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-24T04:37:15.000Z",
-      "addedAt": "2026-10-24T07:12:19.670Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
-    {
       "id": "campeones-com-ar-tc-en-rosario-asi-se-largan-las-series-de-la-3a-fecha-de-la-copa-de-oro",
       "title": "TC en Rosario: así se largan las series de la 3ª fecha de la Copa de Oro",
       "summary": "En el regreso al autódromo de Rosario luego de 7 años y 5 meses, el Turismo Carretera tendrá series cuyas primeras filas estarán compuestas en partes iguales por dos grandes protagonistas en el “play-off”, otros dos relegados en la lucha por el título y un último par que pugna por clasificar al mini torneo.",
@@ -293,6 +263,111 @@
       "addedAt": "2026-10-24T21:13:10.324Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-escalada-de-panetta-y-cierre-prometedor-del-viernes-en-viterbo",
+      "title": "Escalada de Panetta y cierre prometedor del viernes en Viterbo",
+      "summary": "El equipo trabajó en la corrección de los inconvenientes con el impulsor, lo que le permitió al de Campana meterse entre los cinco mejores del quinto y último Heat.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/escalada-de-panetta-y-cierre-prometedor-del-viernes-en-viterbo/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/BAUTISTA-PANETTA-KARTING-VITERBO-FOTO-LEO-FERNANDEZ-e1792780079127.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-23T18:28:28.000Z",
+      "addedAt": "2026-10-23T20:32:46.737Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tcr-europa-top10-de-tiago-pernia-en-las-practicas-de-barcelona",
+      "title": "TCR Europa: Top10 de Tiago Pernía en las prácticas de Barcelona",
+      "summary": "A bordo del Honda de Squadra Martino cierra su primera temporada internacional en la serie continental, que visita el trazado catalán este fin de semana.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-europa-top10-de-tiago-pernia-en-las-practicas-de-barcelona/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261023-TCR-Europa-T-Pernia.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-23T16:55:54.000Z",
+      "addedAt": "2026-10-23T17:19:44.378Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tcr-world-tour-michelisz-domina-la-lluvia-en-la-clasificacion-en-zhejiang",
+      "title": "TCR World Tour: Michelisz domina la lluvia en la clasificación en Zhejiang",
+      "summary": "El húngaro se adjudicó la “pole” en el circuito chino, donde la categoría desarrolla este fin de semana la 7ª cita. Lo escoltaron Azcona y el uruguayo Urrutia. El ecuatoriano Morán fue 10°.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-world-tour-michelisz-domina-la-lluvia-en-la-clasificacion-en-zhejiang/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/michelisz-humana-zhejiang.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-24T05:41:23.000Z",
+      "addedAt": "2026-10-24T12:07:02.061Z",
+      "category": "general",
+      "tag": "Clima"
+    },
+    {
+      "id": "campeones-com-ar-motogp-marc-marquez-vencio-en-la-carrera-sprint-australiana-ante-la-caida-de-jorge-martin",
+      "title": "MotoGP: Marc Márquez venció en la carrera Sprint australiana, ante la caída de Jorge Martín",
+      "summary": "La competencia quedó definida en favor del piloto de Ducati luego de una emotiva disputa por la vanguardia con el madrileño quien, tras su incidente, fue asistido en el centro médico de Phillip Island.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/motogp-marc-marquez-vencio-en-la-carrera-sprint-australiana-ante-la-caida-de-jorge-martin/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261023-MotoGP-Marc-Marquez-sprint.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-24T04:37:15.000Z",
+      "addedAt": "2026-10-24T07:12:19.670Z",
+      "category": "general",
+      "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-confirmado-el-turismo-carretera-comienza-el-2027-en-rosario",
+      "title": "Confirmado: el Turismo Carretera comienza el 2027 en Rosario | Campeones",
+      "summary": "Fernando Miori, Gerente General de la ACTC, lo confirmó en la tarde de viernes, en el marco de la presentación de la carrera de este fin de semana en el “Juan Manuel Fangio”.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/confirmado-el-turismo-carretera-comienza-el-2027-en-rosario/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SaveClip.App_659031295_18581409331038057_5176446201726833752_n-1-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-23T23:26:57.000Z",
+      "addedAt": "2026-10-23T23:33:01.063Z",
+      "category": "general",
+      "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-spataro-en-la-previa-del-tc-en-rosario-la-asistencia-en-la-direccion-sera-el-cambio-mas-grande",
+      "title": "Spataro en la previa del TC en Rosario: \"La asistencia en la dirección será el cambio más grande\"",
+      "summary": "Recordó que la última vez \"no podía cerrar una vuelta\" por lo cansado que venía de manejar en la traza con tantas curvas cerradas.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/spataro-en-la-previa-del-tc-en-rosario-la-asistencia-en-la-direccion-sera-el-cambio-mas-grande/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Emiliano-Spataro-Barischpolski.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-23T15:48:15.000Z",
+      "addedAt": "2026-10-23T17:19:44.077Z",
+      "category": "general",
+      "tag": "Previa"
+    },
+    {
+      "id": "campeones-com-ar-indycar-confirma-una-carrera-en-el-circuito-de-barcelona-en-2027",
+      "title": "IndyCar confirma una carrera en el Circuito de Barcelona en 2027",
+      "summary": "La principal categoría de monopostos de Estados Unidos hará su debut histórico en la casa del cinco veces campeón Alex Palou.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/indycar-confirma-una-carrera-en-el-circuito-de-barcelona-en-2027/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Indycar-Barcelona-Anuncio-2027.jpg",
+      "body": "A bordo del Honda de Squadra Martino cierra su primera temporada internacional en la serie continental, que visita el trazado catalán este fin de semana.",
+      "language": "es",
+      "publishedAt": "2026-10-23T14:04:19.000Z",
+      "addedAt": "2026-10-23T17:19:44.753Z",
+      "category": "general",
+      "tag": "Carrera"
     },
     {
       "id": "campeones-com-ar-con-gandulia-ford-paso-al-frente-en-el-tc-pista",
@@ -340,79 +415,19 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-escalada-de-panetta-y-cierre-prometedor-del-viernes-en-viterbo",
-      "title": "Escalada de Panetta y cierre prometedor del viernes en Viterbo",
-      "summary": "El equipo trabajó en la corrección de los inconvenientes con el impulsor, lo que le permitió al de Campana meterse entre los cinco mejores del quinto y último Heat.",
+      "id": "campeones-com-ar-wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole",
+      "title": "WEC en Barcelona: Genesis supera a Toyota y logra su 1ª “pole”",
+      "summary": "A bordo del prototipo coreano GMR-001, Mathys Jaubert se quedó con la clasificación en Hypercar. El argentino José María López, con el Lexus, arrancará 7° las “6 Horas” en LMGT3.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/escalada-de-panetta-y-cierre-prometedor-del-viernes-en-viterbo/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/BAUTISTA-PANETTA-KARTING-VITERBO-FOTO-LEO-FERNANDEZ-e1792780079127.jpg",
+      "url": "https://campeones.com.ar/wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/genesis-barcelona-wec.jpg.webp",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-23T18:28:28.000Z",
-      "addedAt": "2026-10-23T20:32:46.737Z",
+      "publishedAt": "2026-10-17T16:06:03.000Z",
+      "addedAt": "2026-10-25T06:31:22.163Z",
       "category": "argentino",
       "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-tcr-europa-top10-de-tiago-pernia-en-las-practicas-de-barcelona",
-      "title": "TCR Europa: Top10 de Tiago Pernía en las prácticas de Barcelona",
-      "summary": "A bordo del Honda de Squadra Martino cierra su primera temporada internacional en la serie continental, que visita el trazado catalán este fin de semana.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-europa-top10-de-tiago-pernia-en-las-practicas-de-barcelona/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261023-TCR-Europa-T-Pernia.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-23T16:55:54.000Z",
-      "addedAt": "2026-10-23T17:19:44.378Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-confirmado-el-turismo-carretera-comienza-el-2027-en-rosario",
-      "title": "Confirmado: el Turismo Carretera comienza el 2027 en Rosario | Campeones",
-      "summary": "Fernando Miori, Gerente General de la ACTC, lo confirmó en la tarde de viernes, en el marco de la presentación de la carrera de este fin de semana en el “Juan Manuel Fangio”.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/confirmado-el-turismo-carretera-comienza-el-2027-en-rosario/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SaveClip.App_659031295_18581409331038057_5176446201726833752_n-1-1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-23T23:26:57.000Z",
-      "addedAt": "2026-10-23T23:33:01.063Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
-    {
-      "id": "campeones-com-ar-spataro-en-la-previa-del-tc-en-rosario-la-asistencia-en-la-direccion-sera-el-cambio-mas-grande",
-      "title": "Spataro en la previa del TC en Rosario: \"La asistencia en la dirección será el cambio más grande\"",
-      "summary": "Recordó que la última vez \"no podía cerrar una vuelta\" por lo cansado que venía de manejar en la traza con tantas curvas cerradas.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/spataro-en-la-previa-del-tc-en-rosario-la-asistencia-en-la-direccion-sera-el-cambio-mas-grande/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Emiliano-Spataro-Barischpolski.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-23T15:48:15.000Z",
-      "addedAt": "2026-10-23T17:19:44.077Z",
-      "category": "general",
-      "tag": "Previa"
-    },
-    {
-      "id": "campeones-com-ar-indycar-confirma-una-carrera-en-el-circuito-de-barcelona-en-2027",
-      "title": "IndyCar confirma una carrera en el Circuito de Barcelona en 2027",
-      "summary": "La principal categoría de monopostos de Estados Unidos hará su debut histórico en la casa del cinco veces campeón Alex Palou.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/indycar-confirma-una-carrera-en-el-circuito-de-barcelona-en-2027/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Indycar-Barcelona-Anuncio-2027.jpg",
-      "body": "A bordo del Honda de Squadra Martino cierra su primera temporada internacional en la serie continental, que visita el trazado catalán este fin de semana.",
-      "language": "es",
-      "publishedAt": "2026-10-23T14:04:19.000Z",
-      "addedAt": "2026-10-23T17:19:44.753Z",
-      "category": "general",
-      "tag": "Carrera"
     },
     {
       "id": "campeones-com-ar-tras-caerse-marc-marquez-logro-en-australia-su-epica-78-a-pole-de-motogp",
@@ -943,7 +958,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-25T01:26:47.871Z",
+      "createdAt": "2026-10-25T06:31:22.175Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-en-vivo-la-carrera-de-colapinto-gp-de-estados-unidos-id767495-html",
@@ -957,6 +972,21 @@
           "language": "es",
           "publishedAt": "2026-10-24T22:38:17.000Z",
           "addedAt": "2026-10-24T23:28:31.272Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-un-periodista-ingles-invitado-por-alpine-al-gp-de-estados-unidos-se-burlo-de-colapinto-p",
+          "title": "Un periodista inglés invitado por Alpine al GP de Estados Unidos se burló de Colapinto: \"Penalizado por argentino\"",
+          "summary": "Jeremy Clarkson ironizó sobre la sanción de 10 puestos que recibió el piloto argentino y generó indignación en las redes sociales.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/un-periodista-ingles-invitado-por-alpine-al-gp-de-estados-unidos-se-burlo-de-colapinto-penalizado-por-argentino-id768495.html",
+          "image": "https://media.tycsports.com/files/2026/10/20/997816/franco-colapinto_1440x810.webp",
+          "body": "Jeremy Clarkson ironizó sobre la sanción de 10 puestos que recibió el piloto argentino y generó indignación en las redes sociales.\n\nEl comentario anti-argentina del periodista inglés + Seguinos en Franco Colapinto recibió una penalización de 10 posiciones para la carrera del Gran Premio de Estados Unidos de Fórmula 1 por un cambio en su motor eléctrico. La sanción fue motivo de burla para Jeremy Clarkson, quien realizó un comentario contra la Argentina durante una transmisión de Sky Sports.\n\n“Franco tiene una gran penalización por ser argentino, probablemente. Bueno, le daría una para eso”, expresó el periodista inglés, entre risas con su compañero. Sus palabras provocaron una fuerte reacción de los fanáticos argentinos en las redes sociales.\n\nLa presencia de Clarkson en el circuito de Austin tuvo, además, un detalle particular: el periodista había sido invitado por Alpine para el fin de semana de Fórmula 1 y hasta posó junto a Flavio Briatore en imágenes difundidas por la escudería francesa. El comentario sobre Colapinto generó críticas de seguidores argentinos, mientras que usuarios de otros países también participaron de las reacciones en redes sociales.\n\nEste domingo desde las 17.00 se llevará a cabo la carrera del GP de Estados Unidos , con Colapinto buscando volver a sumar puntos después del puesto 13 en Malasia y el abandono en Singapur.",
+          "language": "es",
+          "publishedAt": "2026-10-25T01:26:21.000Z",
+          "addedAt": "2026-10-25T06:31:13.814Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1006,21 +1036,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda",
-          "title": "Colapinto calificó de “rara” su clasificación en el GP de Austin y explicó qué le complicó la tanda",
-          "summary": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda-id768484.html",
-          "image": "https://media.tycsports.com/files/2026/10/22/998500/franco-colapinto-casco_1440x810.webp",
-          "body": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.\n\nFranco Colapinto estrenó un nuevo diseño de su casco en el Gran Premio de Estados Unidos de la Fórmula 1. + Seguinos en Franco Colapinto terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21 . Tras la sesión en el circuito de Austin, el argentino reconoció que Alpine no logró encontrar el rendimiento esperado y apuntó a las dificultades que tuvo con el auto.\n\n“Fue una clasificación rara. Nos estuvo costando toda la sesión” , resumió el piloto, que no consiguió sentirse cómodo con el monoplaza desde el inicio del fin de semana. Además, señaló que los sectores irregulares del trazado le generaron problemas cuando intentaba acelerar el ritmo.\n\n“Desde ayer que no encontramos el auto y cuando vamos rápido por los pianos y la parte más bacheada de la pista se complica un poco” , explicó Colapinto, que buscará revertir esas sensaciones en la carrera del domingo.\n\nPese a las dificultades, el argentino logró superar la Q1 y avanzar hasta la Q2, donde terminó en el 14° lugar. Sin embargo, la penalización lo relegará al fondo de la grilla y condicionará su estrategia para la competencia.",
-          "language": "es",
-          "publishedAt": "2026-10-24T23:45:17.000Z",
-          "addedAt": "2026-10-25T01:26:40.513Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-alpine-revelo-la-gran-virtud-de-colapinto-en-la-f1-para-dar-el-golpe-en-el-gp-de-estados",
           "title": "Alpine reveló la gran virtud de Colapinto en la F1 para dar el golpe en el GP de Estados Unidos",
           "summary": "Steve Nielsen elogió la agresividad del argentino en las salidas y confió en que el ritmo de carrera puede ser clave para que recupere posiciones en Circuito de las Américas.",
@@ -1036,17 +1051,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-estados-unidos-horarios-y-el-cronograma-completo-id765917-html",
-          "title": "F1 | Colapinto en el GP de Estados Unidos: cronograma completo y horarios",
-          "summary": "Este fin de semana, el argentino disputa la decimoctava fecha de la temporada 2026 de la Fórmula 1 en el Circuito de las Américas. Conocé todos los detalles.",
+          "id": "www-tycsports-com-automovilismo-colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda",
+          "title": "Colapinto calificó de “rara” su clasificación en el GP de Austin y explicó qué le complicó la tanda",
+          "summary": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-colapinto-en-el-gp-de-estados-unidos-horarios-y-el-cronograma-completo-id765917.html",
-          "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
-          "body": "Este fin de semana, el argentino disputa la decimoctava fecha de la temporada 2026 de la Fórmula 1 en el Circuito de las Américas. Conocé todos los detalles.\n\nFranco Colapinto. (@AlpineF1Team) + Seguinos en Franco Colapinto se prepara para disputar el Gran Premio de Estados Unidos de la Fórmula 1 . La 18° fecha de la temporada se correrá en el Circuito de las Américas y el argentino buscará reencontrarse con su mejor versión, luego del abandono en Singapur . Conocé el cronograma completo .\n\nFranco Colapinto finalizó 17º y 15° en las prácticas libres del Gran Premio de Estados Unidos de Fórmula 1, en una jornada que tuvo a Charles Leclerc como el más rápido al volante de su Ferrari.El argentino registró un tiempo de 1:38.121 en la primera sesión y de 1:37.201 en la segunda y fue penalizado por el cambio de una nueva unidad de control electrónico, superando el máximo permitido.\n\nEl Circuito Urbano de Marina Bay es uno de los trazados más exigentes de la Fórmula 1 . Su recorrido combina curvas cerradas, fuertes frenadas y sectores rápidos entre las calles de Singapur, con el agregado de un clima extremadamente húmedo. La carrera se disputa de noche y fue la primera competencia nocturna en la historia de la categoría . Desde 2023, el circuito tiene 19 curvas tras una modificación en su trazado.\n\nA su vez, de manera online se podrá seguir por Disney+, el servicio de streaming que ofrece ESPN o accediendo a Fox Sports a través de Telecentro Play, D Go y Flow.",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda-id768484.html",
+          "image": "https://media.tycsports.com/files/2026/10/22/998500/franco-colapinto-casco_1440x810.webp",
+          "body": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.\n\nFranco Colapinto estrenó un nuevo diseño de su casco en el Gran Premio de Estados Unidos de la Fórmula 1. + Seguinos en Franco Colapinto terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21 . Tras la sesión en el circuito de Austin, el argentino reconoció que Alpine no logró encontrar el rendimiento esperado y apuntó a las dificultades que tuvo con el auto.\n\n“Fue una clasificación rara. Nos estuvo costando toda la sesión” , resumió el piloto, que no consiguió sentirse cómodo con el monoplaza desde el inicio del fin de semana. Además, señaló que los sectores irregulares del trazado le generaron problemas cuando intentaba acelerar el ritmo.\n\n“Desde ayer que no encontramos el auto y cuando vamos rápido por los pianos y la parte más bacheada de la pista se complica un poco” , explicó Colapinto, que buscará revertir esas sensaciones en la carrera del domingo.\n\nPese a las dificultades, el argentino logró superar la Q1 y avanzar hasta la Q2, donde terminó en el 14° lugar. Sin embargo, la penalización lo relegará al fondo de la grilla y condicionará su estrategia para la competencia.",
           "language": "es",
-          "publishedAt": "2026-10-24T14:56:40.000Z",
-          "addedAt": "2026-10-22T16:03:11.160Z",
+          "publishedAt": "2026-10-24T23:45:17.000Z",
+          "addedAt": "2026-10-25T01:26:40.513Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1126,6 +1141,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-estados-unidos-horarios-y-el-cronograma-completo-id765917-html",
+          "title": "F1 | Colapinto en el GP de Estados Unidos: cronograma completo y horarios",
+          "summary": "Este fin de semana, el argentino disputa la decimoctava fecha de la temporada 2026 de la Fórmula 1 en el Circuito de las Américas. Conocé todos los detalles.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-colapinto-en-el-gp-de-estados-unidos-horarios-y-el-cronograma-completo-id765917.html",
+          "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
+          "body": "Este fin de semana, el argentino disputa la decimoctava fecha de la temporada 2026 de la Fórmula 1 en el Circuito de las Américas. Conocé todos los detalles.\n\nFranco Colapinto. (@AlpineF1Team) + Seguinos en Franco Colapinto se prepara para disputar el Gran Premio de Estados Unidos de la Fórmula 1 . La 18° fecha de la temporada se correrá en el Circuito de las Américas y el argentino buscará reencontrarse con su mejor versión, luego del abandono en Singapur . Conocé el cronograma completo .\n\nFranco Colapinto finalizó 17º y 15° en las prácticas libres del Gran Premio de Estados Unidos de Fórmula 1, en una jornada que tuvo a Charles Leclerc como el más rápido al volante de su Ferrari.El argentino registró un tiempo de 1:38.121 en la primera sesión y de 1:37.201 en la segunda y fue penalizado por el cambio de una nueva unidad de control electrónico, superando el máximo permitido.\n\nEl Circuito Urbano de Marina Bay es uno de los trazados más exigentes de la Fórmula 1 . Su recorrido combina curvas cerradas, fuertes frenadas y sectores rápidos entre las calles de Singapur, con el agregado de un clima extremadamente húmedo. La carrera se disputa de noche y fue la primera competencia nocturna en la historia de la categoría . Desde 2023, el circuito tiene 19 curvas tras una modificación en su trazado.\n\nA su vez, de manera online se podrá seguir por Disney+, el servicio de streaming que ofrece ESPN o accediendo a Fox Sports a través de Telecentro Play, D Go y Flow.",
+          "language": "es",
+          "publishedAt": "2026-10-24T14:56:40.000Z",
+          "addedAt": "2026-10-22T16:03:11.160Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-f1-colapinto-penalizara-otra-vez-ahora-en-el-fin-de-semana-de-austin",
           "title": "F1: Colapinto penalizará otra vez, ahora en el fin de semana de Austin",
           "summary": "Mientras cumplía con la primera práctica del Gran Premio de Estados Unidos, en donde fue 17.°, la FIA anunció que el Alpine del argentino reemplazó elementos de la unidad de potencia.",
@@ -1186,21 +1216,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-franco-colapinto-tras-clasificar-en-austin-el-auto-mejoro-un-poco-pero-no-tanto",
-          "title": "Franco Colapinto tras clasificar en Austin: «El auto mejoró un poco, pero no tanto»",
-          "summary": "Mientras su labor se basó en conducir el Alpine A526 y tratar de obtener una fiabilidad para el GP de EE. UU., el piloto argentino detalló que aún no alcanzó el nivel pretendido en el auto.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/franco-colapinto-tras-clasificar-en-austin-el-auto-mejoro-un-poco-pero-no-tanto/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-F1-Colapinto-box-A526.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-24T23:16:38.000Z",
-          "addedAt": "2026-10-24T23:28:33.023Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-cuanto-dinero-le-deja-a-alpine-cada-punto-de-franco-colapinto-en-la-formula-1-id767503-h",
           "title": "Cuánto dinero le deja a Alpine cada punto de Colapinto en la F1",
           "summary": "La F1 reparte su premio según el puesto final en el campeonato de constructores, y cada posición vale unos 9 millones de dólares. La escudería francesa está sexta, y los 27 puntos del argentino representan casi el 40% de lo que suma el equipo.",
@@ -1219,7 +1234,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-25T01:26:47.871Z",
+      "createdAt": "2026-10-25T06:31:22.175Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-austin-franco-colapinto-alpine-sancion-10-puestos-cambio-de-com",
@@ -1297,6 +1312,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-franco-colapinto-tras-clasificar-en-austin-el-auto-mejoro-un-poco-pero-no-tanto",
+          "title": "Franco Colapinto tras clasificar en Austin: «El auto mejoró un poco, pero no tanto»",
+          "summary": "Mientras su labor se basó en conducir el Alpine A526 y tratar de obtener una fiabilidad para el GP de EE. UU., el piloto argentino detalló que aún no alcanzó el nivel pretendido en el auto.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/franco-colapinto-tras-clasificar-en-austin-el-auto-mejoro-un-poco-pero-no-tanto/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-F1-Colapinto-box-A526.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-24T23:16:38.000Z",
+          "addedAt": "2026-10-24T23:28:33.023Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "carburando-com-ar-blog-colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
           "title": "Colapinto no es el único: dos pilotos más suman sanciones en la parrilla de Austin",
           "summary": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico…",
@@ -1325,21 +1355,6 @@
           "addedAt": "2026-10-22T00:56:09.995Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-f2-argentina-franco-ledesma-cerro-un-sabado-perfecto-en-rosario",
-          "title": "F2 Argentina: Ledesma cerró un sábado perfecto en Rosario",
-          "summary": "Tras dominar los dos entrenamientos y lograr la “pole position”, el marplatense del Gabriel Werner Competición se impuso de punta a punta en la Carrera Clasificatoria de la 11ª y anteúltima fecha del campeonato 2026. Lautaro Videla (Martínez Competición), líder del campeonato, terminó 2º.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f2-argentina-franco-ledesma-cerro-un-sabado-perfecto-en-rosario/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Ledesma-F2Arg-2026-1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-24T18:27:01.000Z",
-          "addedAt": "2026-10-24T18:44:37.725Z",
-          "category": "argentino",
-          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
@@ -1372,6 +1387,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-f2-argentina-franco-ledesma-cerro-un-sabado-perfecto-en-rosario",
+          "title": "F2 Argentina: Ledesma cerró un sábado perfecto en Rosario",
+          "summary": "Tras dominar los dos entrenamientos y lograr la “pole position”, el marplatense del Gabriel Werner Competición se impuso de punta a punta en la Carrera Clasificatoria de la 11ª y anteúltima fecha del campeonato 2026. Lautaro Videla (Martínez Competición), líder del campeonato, terminó 2º.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f2-argentina-franco-ledesma-cerro-un-sabado-perfecto-en-rosario/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Ledesma-F2Arg-2026-1.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-24T18:27:01.000Z",
+          "addedAt": "2026-10-24T18:44:37.725Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
           "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
           "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
@@ -1383,21 +1413,6 @@
           "language": "es",
           "publishedAt": "2026-10-12T21:27:52.000Z",
           "addedAt": "2026-10-18T07:11:28.307Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-en-la-ultima-practica-texana-de-f1-colapinto-se-ubico-en-la-15-a-posicion",
-          "title": "En la última práctica texana de F1, Colapinto se ubicó en la .ª posición",
-          "summary": "Continuó probando el Alpine con miras a equilibrar su prestación para las 56 vueltas del GP en Austin y logrando una satisfactoria referencia.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/en-la-ultima-practica-texana-de-f1-colapinto-se-ubico-en-la-15-a-posicion/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-F1-Colapinto-Alpine-box.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-24T18:31:05.000Z",
-          "addedAt": "2026-10-24T18:44:36.091Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1447,6 +1462,36 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-colapinto-clasifico-14-y-largara-penultimo-en-el-gp-de-estados-unidos-de-formula-1",
+          "title": "Colapinto clasificó 14.° y largará penúltimo en el GP de Estados Unidos de Fórmula 1",
+          "summary": "Con el Alpine se abocó en cerrar el desarrollo del auto intentando obtener una fiable prestación en el trazado de Austin, en donde empezará desde la 21.ª posición. La \"pole\" la marcó Antonelli con el Mercedes.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-clasifico-14-y-largara-penultimo-en-el-gp-de-estados-unidos-de-formula-1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-F1-Colapinto-A526.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-24T21:46:43.000Z",
+          "addedAt": "2026-10-24T23:28:33.766Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-en-la-ultima-practica-texana-de-f1-colapinto-se-ubico-en-la-15-a-posicion",
+          "title": "En la última práctica texana de F1, Colapinto se ubicó en la .ª posición",
+          "summary": "Continuó probando el Alpine con miras a equilibrar su prestación para las 56 vueltas del GP en Austin y logrando una satisfactoria referencia.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/en-la-ultima-practica-texana-de-f1-colapinto-se-ubico-en-la-15-a-posicion/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-F1-Colapinto-Alpine-box.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-24T18:31:05.000Z",
+          "addedAt": "2026-10-24T18:44:36.091Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-tras-carreras-dificiles-colapinto-va-por-un-fin-de-semana-solido-en-estados-unidos",
           "title": "Tras \"carreras difíciles\", Colapinto va por un fin de semana sólido en Estados Unidos",
           "summary": "El piloto de Alpine F1 Team quiere revertir en Austin los nulos resultados en las competencias de Baku, Sepang y Singapur.",
@@ -1460,58 +1505,13 @@
           "addedAt": "2026-10-20T19:25:58.833Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-formula-1-2026-resena-de-un-ano-complicado",
-          "title": "Fórmula 1 2026: reseña de un año complicado | Campeones",
-          "summary": "La temporada 2026 expone las falencias de un reglamento que puso la gestión de energía por encima de la habilidad de los pilotos. En esta nota, el análisis del dominio de Mercedes, los cambios que la Fórmula 1 proyecta para el próximo ciclo de motores, la situación de Franco Colapinto y lo que resta de aquí a fin de año…",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/formula-1-2026-resena-de-un-ano-complicado/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/andrea-kimi-antonelli-mercedes-9.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-18T12:04:11.000Z",
-          "addedAt": "2026-10-18T16:11:26.502Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-sigue-el-idilio-de-lando-norris-con-franco-colapinto-es-una-carta-muy-bonita-id766880-ht",
-          "title": "Sigue el idilio de Lando Norris con Franco Colapinto: \"Es una carta muy bonita\"",
-          "summary": "Tras el choque en Bakú y el exabrupto del británico, la buena onda volvió a reinar con el argentino: otra vez, el de McLaren sacó una carta suya y pensó en hacerle un regalo.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/sigue-el-idilio-de-lando-norris-con-franco-colapinto-es-una-carta-muy-bonita-id766880.html",
-          "image": "https://media.tycsports.com/files/2026/10/16/996732/norris-colapinto_1440x810.webp?v=2",
-          "body": "Tras el choque en Bakú y el exabrupto del británico, la buena onda volvió a reinar con el argentino: otra vez, el de McLaren sacó una carta suya y pensó en hacerle un regalo.\n\nLa reacción de Norris ante otra figurita de Colapinto + Seguinos en Lando Norris y Franco Colapinto ya llevan un largo camino recorrido: de aquella buena onda en la irrupción del argentino en la Fórmula 1 a un aparente distanciamiento que no pasó inadvertido para los fans hasta el choque entre ambos en Bakú que disparó la repudiable declaración del británico sobre \"los pilotos que no deberían estar en la F1\". Ante las críticas, hubo disculpas cruzadas para que en los últimos días todo sea color de rosa. Y este viernes se sumó un capítulo más.\n\nAyer , el de McLaren había participado de un streaming con Max Fewtrell en el que comenzó a revelar figuritas de diversos pilotos y, al sacar la imagen del argentino, lo llamó \"mi bien amigo\". Ahora, en una escena similar en otra transmisión en vivo, otra vez descubrió una carta del pilarense y se derritió. \"¡Dios mío! Tenemos una edición limitada de Franquito Colapinto. Es realmente una carta muy bonita ... Parece una edición de México. ¿Debería dársela a Franco? Probablemente sea una de las cartas que mejor lucen. Franco, ¿la querés?\", dijo el inglés muy contento con verlo.\n\nAsí, tal parece que quedó sepultado el desagradable incidente del Gran Premio de Azerbaiyán, cuando un error del hombre de Alpine desencadenó un accidente múltiple en la vuelta 36, durante la reanudación de la carrera tras el ingreso del coche de seguridad: bloqueó los neumáticos en la primera curva y perdió el control de su monoplaza.\n\nLa maniobra provocó un choque que involucró inicialmente a su compañero, Pierre Gasly, y luego al McLaren del británico. Los tres pilotos debieron aban",
-          "language": "es",
-          "publishedAt": "2026-10-17T00:47:47.000Z",
-          "addedAt": "2026-10-18T07:11:28.016Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-25T01:26:47.871Z",
+      "createdAt": "2026-10-25T06:31:22.175Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-disney-en-vivo-como-ver-el-gp-de-estados-unidos-por-tv-y-online-id767516-html",
-          "title": "Disney+, EN VIVO: cómo ver la carrera del GP de Estados Unidos por TV y ONLINE",
-          "summary": "Conocé las opciones para ver en vivo, por televisión y online el Gran Premio de Estados Unidos que se corre en el Circuito de las Américas y es el decimoctavo del 2026.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/disney-en-vivo-como-ver-el-gp-de-estados-unidos-por-tv-y-online-id767516.html",
-          "image": "https://media.tycsports.com/files/2026/10/21/998005/gp-de-estados-unidos_1440x810.webp?v=1",
-          "body": "Conocé las opciones para ver en vivo, por televisión y online el Gran Premio de Estados Unidos que se corre en el Circuito de las Américas y es el decimoctavo del 2026.\n\nFranco Colapinto en el GP de Estados Unidos. + Seguinos en Este fin de semana se corre la decimoctava fecha del Campeonato 2026 de la Fórmula 1, en el marco del Gran Premio de Estados Unidos en el Circuito de las Américas, y contará con la presencia del argentino Franco Colapinto a bordo de su Alpine. Conocé las opciones para ver en vivo el evento por televisión y a través de internet .\n\nLa fecha de la Fórmula 1 se podrá ver en vivo en la Argentina a través de Fox Sports. Además, vas a poder seguir el minuto a minuto de la competición en la web de www.tycsports.com.\n\nTambién se podrá ver online a través de Disney+, la plataforma digital de ESPN, la cual se contrata previo registro a través de la página web por $24.390 final por mes.",
-          "language": "es",
-          "publishedAt": "2026-10-24T22:45:38.000Z",
-          "addedAt": "2026-10-23T12:10:31.382Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
         {
           "id": "www-tycsports-com-automovilismo-leclerc-esta-por-ser-padre-y-revelo-que-hara-si-su-hijo-nace-durante-un-gran-premio-de-f",
           "title": "Leclerc está por ser padre y reveló qué hará si su hijo nace durante un Gran Premio de F1: \"No creo...\"",
@@ -1528,19 +1528,19 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-anotenelli-f1-mercedes-gran-premio-austin-estados-unidos-id768385-html",
-          "title": "La contradicción que preocupa al líder de la F1: mejoró el auto, pero le encontró un problema",
-          "summary": "El italiano mostró un salto de rendimiento en Austin y quedó a apenas 42 milésimas del mejor tiempo de las prácticas. La escudería alemana busca encontrar el equilibrio ideal de su monoplaza.",
+          "id": "www-tycsports-com-automovilismo-disney-en-vivo-como-ver-el-gp-de-estados-unidos-por-tv-y-online-id767516-html",
+          "title": "Disney+, EN VIVO: cómo ver la carrera del GP de Estados Unidos por TV y ONLINE",
+          "summary": "Conocé las opciones para ver en vivo, por televisión y online el Gran Premio de Estados Unidos que se corre en el Circuito de las Américas y es el decimoctavo del 2026.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/anotenelli-f1-mercedes-gran-premio-austin-estados-unidos-id768385.html",
-          "image": "https://media.tycsports.com/files/2026/10/22/998513/andrea-kimi-antonelli-mercedes-_1440x810.webp",
-          "body": "El italiano mostró un salto de rendimiento en Austin y quedó a apenas 42 milésimas del mejor tiempo de las prácticas. La escudería alemana busca encontrar el equilibrio ideal de su monoplaza.\n\nAndrea Kimi Antonelli puede consagrarse campeón del Mundial de Pilotos 2026 de la Fórmula 1 en el Gran Premio de Estados Unidos. (Mark Sutton/Getty Images) + Seguinos en Mercedes encontró señales alentadoras en el Gran Premio de Estados Unidos de Fórmula 1. Kimi Antonelli terminó la segunda práctica libre a solo 0.042 segundos de Charles Leclerc , quien marcó el ritmo con Ferrari. El resultado alimentó las expectativas del equipo alemán, que todavía trabaja para aprovechar al máximo sus últimas actualizaciones.\n\nLa escudería incorporó un nuevo alerón delantero en Austin , como complemento del paquete aerodinámico estrenado dos carreras atrás, en Malasia. Aunque los cambios aumentaron el potencial del W17, también complicaron su puesta a punto . Con ambos pilotos utilizando la misma configuración, los ingenieros pudieron ampliar las pruebas y comparar datos.\n\n\"Me sentí mejor en el coche en comparación con la FP1\" , dijo Antonelli. además, agregó: \"Todavía hay mucho trabajo por hacer, pero fue un buen paso adelante y ahora intentaremos mejorar aún más. Tener ambos coches con el mismo paquete ayuda , porque podemos probar muchas cosas diferentes y podemos comprender mejor este paquete\".\n\nLa evolución entre las dos sesiones del viernes fue evidente, aunque no todos pudieron reflejarla en el cronómetro . George Russell terminó quinto, a siete décimas de la punta, después de perder su primera vuelta rápida por exceder los límites de pista y arruinar el siguiente intento con una fuerte sacudida en las Esses del Circuito de las Américas.",
+          "url": "https://www.tycsports.com/automovilismo/disney-en-vivo-como-ver-el-gp-de-estados-unidos-por-tv-y-online-id767516.html",
+          "image": "https://media.tycsports.com/files/2026/10/21/998005/gp-de-estados-unidos_1440x810.webp?v=1",
+          "body": "Conocé las opciones para ver en vivo, por televisión y online el Gran Premio de Estados Unidos que se corre en el Circuito de las Américas y es el decimoctavo del 2026.\n\nFranco Colapinto en el GP de Estados Unidos. + Seguinos en Este fin de semana se corre la decimoctava fecha del Campeonato 2026 de la Fórmula 1, en el marco del Gran Premio de Estados Unidos en el Circuito de las Américas, y contará con la presencia del argentino Franco Colapinto a bordo de su Alpine. Conocé las opciones para ver en vivo el evento por televisión y a través de internet .\n\nLa fecha de la Fórmula 1 se podrá ver en vivo en la Argentina a través de Fox Sports. Además, vas a poder seguir el minuto a minuto de la competición en la web de www.tycsports.com.\n\nTambién se podrá ver online a través de Disney+, la plataforma digital de ESPN, la cual se contrata previo registro a través de la página web por $24.390 final por mes.",
           "language": "es",
-          "publishedAt": "2026-10-24T15:23:46.000Z",
-          "addedAt": "2026-10-24T15:51:11.471Z",
+          "publishedAt": "2026-10-24T22:45:38.000Z",
+          "addedAt": "2026-10-23T12:10:31.382Z",
           "category": "general",
-          "tag": "F1"
+          "tag": "Carrera"
         },
         {
           "id": "www-tycsports-com-automovilismo-f1-en-vivo-como-ver-el-gp-de-estados-unidos-por-tv-y-online-id767515-html",
@@ -1571,6 +1571,21 @@
           "addedAt": "2026-10-22T11:40:44.470Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-anotenelli-f1-mercedes-gran-premio-austin-estados-unidos-id768385-html",
+          "title": "La contradicción que preocupa al líder de la F1: mejoró el auto, pero le encontró un problema",
+          "summary": "El italiano mostró un salto de rendimiento en Austin y quedó a apenas 42 milésimas del mejor tiempo de las prácticas. La escudería alemana busca encontrar el equilibrio ideal de su monoplaza.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/anotenelli-f1-mercedes-gran-premio-austin-estados-unidos-id768385.html",
+          "image": "https://media.tycsports.com/files/2026/10/22/998513/andrea-kimi-antonelli-mercedes-_1440x810.webp",
+          "body": "El italiano mostró un salto de rendimiento en Austin y quedó a apenas 42 milésimas del mejor tiempo de las prácticas. La escudería alemana busca encontrar el equilibrio ideal de su monoplaza.\n\nAndrea Kimi Antonelli puede consagrarse campeón del Mundial de Pilotos 2026 de la Fórmula 1 en el Gran Premio de Estados Unidos. (Mark Sutton/Getty Images) + Seguinos en Mercedes encontró señales alentadoras en el Gran Premio de Estados Unidos de Fórmula 1. Kimi Antonelli terminó la segunda práctica libre a solo 0.042 segundos de Charles Leclerc , quien marcó el ritmo con Ferrari. El resultado alimentó las expectativas del equipo alemán, que todavía trabaja para aprovechar al máximo sus últimas actualizaciones.\n\nLa escudería incorporó un nuevo alerón delantero en Austin , como complemento del paquete aerodinámico estrenado dos carreras atrás, en Malasia. Aunque los cambios aumentaron el potencial del W17, también complicaron su puesta a punto . Con ambos pilotos utilizando la misma configuración, los ingenieros pudieron ampliar las pruebas y comparar datos.\n\n\"Me sentí mejor en el coche en comparación con la FP1\" , dijo Antonelli. además, agregó: \"Todavía hay mucho trabajo por hacer, pero fue un buen paso adelante y ahora intentaremos mejorar aún más. Tener ambos coches con el mismo paquete ayuda , porque podemos probar muchas cosas diferentes y podemos comprender mejor este paquete\".\n\nLa evolución entre las dos sesiones del viernes fue evidente, aunque no todos pudieron reflejarla en el cronómetro . George Russell terminó quinto, a siete décimas de la punta, después de perder su primera vuelta rápida por exceder los límites de pista y arruinar el siguiente intento con una fuerte sacudida en las Esses del Circuito de las Américas.",
+          "language": "es",
+          "publishedAt": "2026-10-24T15:23:46.000Z",
+          "addedAt": "2026-10-24T15:51:11.471Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -1771,7 +1786,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-25T01:26:47.871Z",
+      "createdAt": "2026-10-25T06:31:22.175Z",
       "items": [
         {
           "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
@@ -1864,6 +1879,36 @@
           "tag": "F1"
         },
         {
+          "id": "campeones-com-ar-formula-1-2026-resena-de-un-ano-complicado",
+          "title": "Fórmula 1 2026: reseña de un año complicado | Campeones",
+          "summary": "La temporada 2026 expone las falencias de un reglamento que puso la gestión de energía por encima de la habilidad de los pilotos. En esta nota, el análisis del dominio de Mercedes, los cambios que la Fórmula 1 proyecta para el próximo ciclo de motores, la situación de Franco Colapinto y lo que resta de aquí a fin de año…",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/formula-1-2026-resena-de-un-ano-complicado/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/andrea-kimi-antonelli-mercedes-9.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-18T12:04:11.000Z",
+          "addedAt": "2026-10-18T16:11:26.502Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-sigue-el-idilio-de-lando-norris-con-franco-colapinto-es-una-carta-muy-bonita-id766880-ht",
+          "title": "Sigue el idilio de Lando Norris con Franco Colapinto: \"Es una carta muy bonita\"",
+          "summary": "Tras el choque en Bakú y el exabrupto del británico, la buena onda volvió a reinar con el argentino: otra vez, el de McLaren sacó una carta suya y pensó en hacerle un regalo.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/sigue-el-idilio-de-lando-norris-con-franco-colapinto-es-una-carta-muy-bonita-id766880.html",
+          "image": "https://media.tycsports.com/files/2026/10/16/996732/norris-colapinto_1440x810.webp?v=2",
+          "body": "Tras el choque en Bakú y el exabrupto del británico, la buena onda volvió a reinar con el argentino: otra vez, el de McLaren sacó una carta suya y pensó en hacerle un regalo.\n\nLa reacción de Norris ante otra figurita de Colapinto + Seguinos en Lando Norris y Franco Colapinto ya llevan un largo camino recorrido: de aquella buena onda en la irrupción del argentino en la Fórmula 1 a un aparente distanciamiento que no pasó inadvertido para los fans hasta el choque entre ambos en Bakú que disparó la repudiable declaración del británico sobre \"los pilotos que no deberían estar en la F1\". Ante las críticas, hubo disculpas cruzadas para que en los últimos días todo sea color de rosa. Y este viernes se sumó un capítulo más.\n\nAyer , el de McLaren había participado de un streaming con Max Fewtrell en el que comenzó a revelar figuritas de diversos pilotos y, al sacar la imagen del argentino, lo llamó \"mi bien amigo\". Ahora, en una escena similar en otra transmisión en vivo, otra vez descubrió una carta del pilarense y se derritió. \"¡Dios mío! Tenemos una edición limitada de Franquito Colapinto. Es realmente una carta muy bonita ... Parece una edición de México. ¿Debería dársela a Franco? Probablemente sea una de las cartas que mejor lucen. Franco, ¿la querés?\", dijo el inglés muy contento con verlo.\n\nAsí, tal parece que quedó sepultado el desagradable incidente del Gran Premio de Azerbaiyán, cuando un error del hombre de Alpine desencadenó un accidente múltiple en la vuelta 36, durante la reanudación de la carrera tras el ingreso del coche de seguridad: bloqueó los neumáticos en la primera curva y perdió el control de su monoplaza.\n\nLa maniobra provocó un choque que involucró inicialmente a su compañero, Pierre Gasly, y luego al McLaren del británico. Los tres pilotos debieron aban",
+          "language": "es",
+          "publishedAt": "2026-10-17T00:47:47.000Z",
+          "addedAt": "2026-10-18T07:11:28.016Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-briatore-colapinto-formula-1-id766372-html",
           "title": "La reacción de Briatore al video de Colapinto por los mensajes de odio en redes sociales",
           "summary": "El asesor de Alpine comentó la publicación del argentino, quien reclamó terminar con las agresiones hacia pilotos, mecánicos y compañeros de equipo.",
@@ -1939,21 +1984,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-iame-el-viernes-de-los-argentinos-en-viterbo",
-          "title": "IAME: El viernes de los argentinos en Viterbo",
-          "summary": "Los diez pilotos nacionales completaron los heats clasificatorios en la antesala de un sábado que definirá todo en el norte italiano con los Súer Heat y las finales.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/iame-el-viernes-de-los-argentinos-en-viterbo/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/ARRECIFES-VITERBO.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-24T02:23:13.000Z",
-          "addedAt": "2026-10-24T12:07:02.652Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-formula-1-lando-norris-franco-colapinto-gesto-buen-amigo-id766576-html",
           "title": "El buen gesto de Lando Norris con Colapinto después del cruce en Bakú",
           "summary": "El campeón de la Fórmula 1 protagonizó una distendida escena durante una transmisión en vivo y dejó en claro que las diferencias quedaron atrás, luego del accidente que terminó con el abandono de ambos y de Pierre Gasly.",
@@ -1999,17 +2029,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-importante-prueba-para-agustin-canapino-en-el-tn",
-          "title": "Importante prueba para Agustín Canapino en el TN | Campeones",
-          "summary": "\"El Titán\" ensayó en San Nicolás con el Chevrolet Cruze líder de la Clase 3, en la previa de las últimas dos fechas del campeonato.",
+          "id": "campeones-com-ar-iame-el-viernes-de-los-argentinos-en-viterbo",
+          "title": "IAME: El viernes de los argentinos en Viterbo",
+          "summary": "Los diez pilotos nacionales completaron los heats clasificatorios en la antesala de un sábado que definirá todo en el norte italiano con los Súer Heat y las finales.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/importante-prueba-para-agustin-canapino-en-el-tn/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/1792604109_6ad8f7cd83346.jpg",
+          "url": "https://campeones.com.ar/iame-el-viernes-de-los-argentinos-en-viterbo/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/ARRECIFES-VITERBO.jpeg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-22T02:03:39.000Z",
-          "addedAt": "2026-10-21T19:27:17.784Z",
+          "publishedAt": "2026-10-24T02:23:13.000Z",
+          "addedAt": "2026-10-24T12:07:02.652Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -2027,6 +2057,27 @@
           "addedAt": "2026-10-21T19:27:19.145Z",
           "category": "argentino",
           "tag": "Argentino"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-25T06:31:22.175Z",
+      "items": [
+        {
+          "id": "campeones-com-ar-importante-prueba-para-agustin-canapino-en-el-tn",
+          "title": "Importante prueba para Agustín Canapino en el TN | Campeones",
+          "summary": "\"El Titán\" ensayó en San Nicolás con el Chevrolet Cruze líder de la Clase 3, en la previa de las últimas dos fechas del campeonato.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/importante-prueba-para-agustin-canapino-en-el-tn/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/1792604109_6ad8f7cd83346.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-22T02:03:39.000Z",
+          "addedAt": "2026-10-21T19:27:17.784Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-mundial-de-flat-track-en-argentina-con-31-pilotos-anotados",
@@ -2042,13 +2093,7 @@
           "addedAt": "2026-10-20T19:25:59.130Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-25T01:26:47.871Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus",
           "title": "'Pechito' López se enfoca en la próxima cita del WEC: \"Será la última carrera del Lexus\"",
@@ -2286,36 +2331,6 @@
           "language": "es",
           "publishedAt": "2026-10-18T14:52:02.000Z",
           "addedAt": "2026-10-18T15:11:26.302Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
-          "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
-          "summary": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué…",
-          "source": "Carburando",
-          "sourceLabel": "Carburando",
-          "url": "https://carburando.com.ar/blog/por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
-          "image": "https://carburando.com.ar/covers/22/por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rap-25600.webp",
-          "body": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué ocurrió realmente en esa vuelta.\n\nEl Gran Premio de Azerbaiyán volvió a dejar uno de esos momentos que generan debate en la Fórmula 1. Pierre Gasly, piloto de Alpine, acusó públicamente a Franco Colapinto de haberle arruinado su chance de quedarse con la vuelta más rápida de la carrera.\n\nEl francés, que venía con un ritmo sólido en las etapas finales, vio cómo su intento de registro rápido se frustraba tras un incidente con el Williams del argentino. Más allá de las declaraciones post-carrera, el episodio invita a revisar cómo funcionan las reglas de pista, el DRS y la gestión de tráfico en un circuito urbano estrecho como el de Bakú.\n\nBakú es un trazado de alta velocidad con zonas muy estrechas, donde el rebufo y el DRS juegan un rol decisivo. En las vueltas finales, cuando muchos pilotos ya habían completado sus paradas, varios autos se encontraban en diferentes fases de estrategia. Gasly buscaba precisamente aprovechar un claro para marcar el mejor tiempo del día, algo que además entrega un punto extra en el campeonato de constructores y puede tener peso en la clasificación general.\n\nColapinto, por su parte, estaba cumpliendo con su stint final y, según las imágenes disponibles, se encontraba en una posición defensiva natural. El contacto o la maniobra de paso generó que Gasly perdiera tracción o aerodinámica suficiente para completar la vuelta en el tiempo que buscaba. Desde la ingeniería, perder el flujo limpio sobre el alerón trasero en una zona de alta velocidad como la recta principal de Bakú es casi siempre fatal para un intento de vuelta rápida.",
-          "language": "es",
-          "publishedAt": "2026-10-02T21:35:36.000Z",
-          "addedAt": "2026-10-18T07:11:27.922Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-canapino-maniobra-viral-tn-id766078-html",
-          "title": "La extraordinaria maniobra de Agustín Canapino para superar a tres autos y ganar en el Turismo Nacional desde adentro",
-          "summary": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/canapino-maniobra-viral-tn-id766078.html",
-          "image": "https://media.tycsports.com/files/2026/10/13/995713/foto_1440x810.webp?v=1",
-          "body": "El Titán de Arrecifes publicó en su cuenta de Instagram la cámara on board de su acción destacada que le permitió quedarse con la victoria en la segunda serie de la clase 3 en Mendoza.\n\nLa cámara on board de Canapino y su sobresaliente maniobra + Seguinos en La extraordinaria maniobra de Agustín Canapino, en la que pasó a tres autos en la última vuelta, sigue dando que hablar. El piloto de 36 años posteó un video en su cuenta de Instagram con la cámara a bordo de su destacada acción , que le permitió quedarse con la victoria en la segunda serie de la Clase 3 del Turismo Nacional en el Autódromo Ciudad de San Martín, en Mendoza, el último domingo.\n\n“¡La maniobra desde adentro! Aplausos para Facu Chapur, Jorge Barrio y Facu Marques por poner todo y el nivel conductivo. La calidad del automovilismo argentino reflejada en su máxima expresión”, fue el mensaje del oriundo de Arrecifes que acompañó las imágenes desde el interior de su Chevrolet Cruze.\n\nLa publicación rápidamente se viralizó en redes sociales y ya cuenta con más de 75.000 me gusta y alrededor de 1500 comentarios. Entre tantas reacciones, se destaca la de Ale Martínez, el hermano del Dibu, quien respondió: “Qué locura”. No solo eso, sino que las imágenes alcanzaron repercusión internacional y diversos medios sudamericanos, europeos y asiáticos se rindieron ante la habilidad de Canapino al volante.\n\nCanapino ganó una impactante serie en el TN: la feroz pelea contra Barrio y Chapur Lo cierto es que la secuencia no tiene desperdicio. En la última vuelta de la carrera en Mendoza, Jorge Barrio y Facundo Chapur venían compitiendo cabeza a cabeza por el primer lugar, con Facundo Marques en el tercero y Canapino detrás de ellos.",
-          "language": "es",
-          "publishedAt": "2026-10-14T00:47:43.000Z",
-          "addedAt": "2026-10-18T07:11:27.984Z",
           "category": "argentino",
           "tag": "Argentino"
         }
