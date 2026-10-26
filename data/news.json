@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-26T07:02:32.348Z",
-  "checkedAt": "2026-10-26T07:02:32.348Z",
+  "updatedAt": "2026-10-26T14:08:26.700Z",
+  "checkedAt": "2026-10-26T14:08:26.700Z",
   "pageSize": 18,
   "sources": [
     {
@@ -70,21 +70,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-el-enojo-de-werner-y-las-dudas-sobre-su-futuro-vere-que-hago-en-el-verano",
-      "title": "El enojo de Werner y las dudas sobre su futuro: “Veré qué hago en el verano”",
-      "summary": "Más allá de la gran remontada que protagonizó en la Final del TC en Rosario, el entrerriano expresó su rechazo a “gente que no le hace bien al deporte” y no aseguró su continuidad para 2027: “Es una acumulación de cosas… Me vació un poco la situación”.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-enojo-de-werner-y-las-dudas-sobre-su-futuro-vere-que-hago-en-el-verano/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Werner-TC-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-25T20:19:36.000Z",
-      "addedAt": "2026-10-25T21:40:43.508Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-gabriel-bortoleto-formula-1-gp-de-estados-unidos-sancion-80-puestos-id768534-html",
       "title": "La sanción récord de 80 puestos que sufrió un piloto de Fórmula 1 en el GP de Estados Unidos",
       "summary": "El brasileño sufrió un castigo histórico por múltiples modificaciones mecánicas en su monoplaza y quedó relegado al fondo de la grilla en Austin.",
@@ -141,6 +126,21 @@
       "language": "es",
       "publishedAt": "2026-10-23T17:45:04.000Z",
       "addedAt": "2026-10-23T20:32:46.758Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-el-enojo-de-werner-y-las-dudas-sobre-su-futuro-vere-que-hago-en-el-verano",
+      "title": "El enojo de Werner y las dudas sobre su futuro: “Veré qué hago en el verano”",
+      "summary": "Más allá de la gran remontada que protagonizó en la Final del TC en Rosario, el entrerriano expresó su rechazo a “gente que no le hace bien al deporte” y no aseguró su continuidad para 2027: “Es una acumulación de cosas… Me vació un poco la situación”.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/el-enojo-de-werner-y-las-dudas-sobre-su-futuro-vere-que-hago-en-el-verano/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Werner-TC-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-25T20:19:36.000Z",
+      "addedAt": "2026-10-25T21:40:43.508Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -355,21 +355,6 @@
       "tag": "Previa"
     },
     {
-      "id": "campeones-com-ar-indycar-confirma-una-carrera-en-el-circuito-de-barcelona-en-2027",
-      "title": "IndyCar confirma una carrera en el Circuito de Barcelona en 2027",
-      "summary": "La principal categoría de monopostos de Estados Unidos hará su debut histórico en la casa del cinco veces campeón Alex Palou.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/indycar-confirma-una-carrera-en-el-circuito-de-barcelona-en-2027/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Indycar-Barcelona-Anuncio-2027.jpg",
-      "body": "A bordo del Honda de Squadra Martino cierra su primera temporada internacional en la serie continental, que visita el trazado catalán este fin de semana.",
-      "language": "es",
-      "publishedAt": "2026-10-23T14:04:19.000Z",
-      "addedAt": "2026-10-23T17:19:44.753Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
-    {
       "id": "campeones-com-ar-canapino-prueba-en-san-nicolas-de-cara-a-la-definicion-de-tn",
       "title": "Canapino prueba en San Nicolás de cara a la definición de TN",
       "summary": "El arrecifeño llegó con el equipo Salvita Racing para chequear el funcionamiento del Chevrolet de Clase 3.",
@@ -490,34 +475,19 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-triunfos-de-gallo-y-reutemann-en-las-series-del-tc-pista",
-      "title": "Triunfos de Gallo y Reutemann en las series del TC Pista",
-      "summary": "El piloto de Ford se adjudicó el parcial más veloz y tiene la “pole position” para la Final de la 3ª fecha de la Copa de Plata 2026, que se disputa en Rosario.",
+      "id": "campeones-com-ar-indycar-confirma-una-carrera-en-el-circuito-de-barcelona-en-2027",
+      "title": "IndyCar confirma una carrera en el Circuito de Barcelona en 2027",
+      "summary": "La principal categoría de monopostos de Estados Unidos hará su debut histórico en la casa del cinco veces campeón Alex Palou.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/triunfos-de-gallo-y-reutemann-en-las-series-del-tc-pista/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Gallo-TCP-2026-1.jpg",
-      "body": "",
+      "url": "https://campeones.com.ar/indycar-confirma-una-carrera-en-el-circuito-de-barcelona-en-2027/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Indycar-Barcelona-Anuncio-2027.jpg",
+      "body": "A bordo del Honda de Squadra Martino cierra su primera temporada internacional en la serie continental, que visita el trazado catalán este fin de semana.",
       "language": "es",
-      "publishedAt": "2026-10-25T13:46:48.000Z",
-      "addedAt": "2026-10-25T16:02:51.730Z",
+      "publishedAt": "2026-10-23T14:04:19.000Z",
+      "addedAt": "2026-10-23T17:19:44.753Z",
       "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tcr-world-tour-el-duo-azcona-michelisz-se-anota-otro-1-2-en-zhejiang",
-      "title": "TCR World Tour: el dúo Azcona-Michelisz se anota otro 1-2 en Zhejiang",
-      "summary": "Los europeos de Hyundai prevalecieron en la 3ª competencia del fin de semana en China, donde Björk completó el podio. El uruguayo Urrutia debió pasar por los boxes y llegó 10°.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-world-tour-el-duo-azcona-michelisz-se-anota-otro-1-2-en-zhejiang/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/azcona-llegada-zhejiang.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-25T09:54:42.000Z",
-      "addedAt": "2026-10-25T12:02:45.882Z",
-      "category": "general",
-      "tag": "F1"
+      "tag": "Carrera"
     },
     {
       "id": "campeones-com-ar-wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole",
@@ -548,6 +518,36 @@
       "addedAt": "2026-10-25T18:56:57.844Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-triunfos-de-gallo-y-reutemann-en-las-series-del-tc-pista",
+      "title": "Triunfos de Gallo y Reutemann en las series del TC Pista",
+      "summary": "El piloto de Ford se adjudicó el parcial más veloz y tiene la “pole position” para la Final de la 3ª fecha de la Copa de Plata 2026, que se disputa en Rosario.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/triunfos-de-gallo-y-reutemann-en-las-series-del-tc-pista/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Gallo-TCP-2026-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-25T13:46:48.000Z",
+      "addedAt": "2026-10-25T16:02:51.730Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tcr-world-tour-el-duo-azcona-michelisz-se-anota-otro-1-2-en-zhejiang",
+      "title": "TCR World Tour: el dúo Azcona-Michelisz se anota otro 1-2 en Zhejiang",
+      "summary": "Los europeos de Hyundai prevalecieron en la 3ª competencia del fin de semana en China, donde Björk completó el podio. El uruguayo Urrutia debió pasar por los boxes y llegó 10°.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-world-tour-el-duo-azcona-michelisz-se-anota-otro-1-2-en-zhejiang/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/azcona-llegada-zhejiang.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-25T09:54:42.000Z",
+      "addedAt": "2026-10-25T12:02:45.882Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tc-en-rosario-asi-se-largan-las-series-de-la-3a-fecha-de-la-copa-de-oro",
@@ -1228,23 +1228,8 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-26T07:02:41.211Z",
+      "createdAt": "2026-10-26T14:08:37.608Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-gran-premio-estados-unidos-formula-1-danos-aleron-id768564-html",
-          "title": "Por qué Colapinto abandonó el Gran Premio de Estados Unidos: \"Se rompió mucho el auto\"",
-          "summary": "La carrera en el Circuito de las Américas llegó a su fin para el piloto argentino en la vuelta 36, cuando su ingeniero de pista Stuart Barlow le indicó que ingresara a los boxes para retirar su monoplaza.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-gran-premio-estados-unidos-formula-1-danos-aleron-id768564.html",
-          "image": "https://media.tycsports.com/files/2026/10/25/999676/franco-colapinto-alpine_862x485.webp",
-          "body": "La carrera en el Circuito de las Américas llegó a su fin para el piloto argentino en la vuelta 36, cuando su ingeniero de pista Stuart Barlow le indicó que ingresara a los boxes para retirar su monoplaza.\n\nEl momento del toque de Lindblad a Colapinto que resultó en su abandono en el Gran Premio de Estados Unidos. + Seguinos en Franco Colapinto se vio obligado a abandonar el Gran Premio de Estados Unidos de la Fórmula 1 en la vuelta 36 por orden de su equipo, una decisión motivada en los daños que sufrió su monoplaza en su alerón delantero a lo largo de la carrera y siendo un toque con Arvid Lindblad la gota que colmó el vaso.\n\nEn la vuelta 25 se dio el contacto que terminó con sellar la suerte de Colapinto al sufrir el impacto por parte de Lindblad, que se lanzó para adelantarle en la primera curva a él para pelear con Pierre Gasly, que salía de la calle de boxes al hacer su primera parada. \"Dobló hacia mí y hacia Pierre\" , relató el piloto argentino.\n\nEl toque entre Lindblad y Colapinto que lo obligó a abandonar en Alpine Ese toque del británico agravó el previamente dañado alerón de Colapinto , lo cual resulta en un trompo que le hizo perder varios segundos pero dejó secuelas que 11 vueltas más tarde dio lugar a que el ingeniero de pista Stuart Barlow le indicara que tenían que retirar el auto al ser imposible solucionar esos daños . Este es el tercer abandono entre las últimas cuatro carrera para el ex-Williams, que no recibió al bandera a cuadros en Azerbaiyán, Singapur y Estados Unidos . Un duro golpe tras su extendida racha de 29 carreras consecutivas sin abandonar en la categoría reina del automovilismo.\n\nAl concluir las acciones el piloto argentino habló con los medios presentes y explicó qué fue en concreto lo que resultó en su final anticipado: \"Una carrera du",
-          "language": "es",
-          "publishedAt": "2026-10-25T23:21:13.000Z",
-          "addedAt": "2026-10-25T21:40:42.408Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
         {
           "id": "www-tycsports-com-automovilismo-un-periodista-ingles-invitado-por-alpine-al-gp-de-estados-unidos-se-burlo-de-colapinto-p",
           "title": "Un periodista inglés invitado por Alpine al GP de Estados Unidos se burló de Colapinto: \"Penalizado por argentino\"",
@@ -1291,17 +1276,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-cambia-la-parrilla-del-gp-de-estados-unidos-de-la-formula-1-como-afecta-a-franco-colapin",
-          "title": "Cambia la parrilla del GP de Estados Unidos: cómo afecta a Colapinto",
-          "summary": "Lance Stroll fue sancionado en la previa de una nueva carrera y largará desde boxes, por lo que representa un rival menos por delante del argentino, que saldrá 21° tras su penalización de diez lugares.",
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-gran-premio-estados-unidos-formula-1-danos-aleron-id768564-html",
+          "title": "Por qué Colapinto abandonó el Gran Premio de Estados Unidos: \"Se rompió mucho el auto\"",
+          "summary": "La carrera en el Circuito de las Américas llegó a su fin para el piloto argentino en la vuelta 36, cuando su ingeniero de pista Stuart Barlow le indicó que ingresara a los boxes para retirar su monoplaza.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/cambia-la-parrilla-del-gp-de-estados-unidos-de-la-formula-1-como-afecta-a-franco-colapinto-id768548.html",
-          "image": "https://media.tycsports.com/files/2026/10/25/999526/franco-colapinto_1440x810.webp?v=1",
-          "body": "Lance Stroll fue sancionado en la previa de una nueva carrera y largará desde boxes, por lo que representa un rival menos por delante del argentino, que saldrá 21° tras su penalización de diez lugares.\n\nFranco Colapinto largará 21 en el Gran Premio de Estados Unidos de la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en Franco Colapinto recibió una noticia favorable antes del Gran Premio de Estados Unidos de Fórmula 1 . Lance Stroll fue sancionado y deberá iniciar la competencia desde boxes, una decisión que le permitirá al argentino tener un rival menos por delante cuando comience la carrera en Austin .\n\nEl piloto de Aston Martin había conseguido el 16° puesto en la clasificación , pero su escudería realizó modificaciones en el monoplaza bajo régimen de parque cerrado. Las intervenciones violaron distintas disposiciones reglamentarias y provocaron que los comisarios deportivos determinaran su salida desde el pit lane.\n\nDe acuerdo con el informe oficial de la FIA, el equipo británico sustituyó cinco componentes de la unidad de potencia: motor de combustión interna, turbocompresor, almacenamiento de energía, unidad de control electrónico y un elemento auxiliar . Cada reemplazo implicaba cinco posiciones de castigo, hasta alcanzar un total de 25. Los elementos instalados correspondían al sexto motor, séptimo turbo, octavo sistema de almacenamiento energético, séptima centralita electrónica y noveno componente auxiliar de la temporada . Sin embargo, la gravedad de la infracción no estuvo únicamente relacionada con la cantidad de piezas reemplazadas.\n\nDOC 48 - Infringement - Car 18 - Changes made during Parc Ferme https://t.co/nVLPv627jK #USGP #F1 #FIA https://t.co/rXyr5MoTaJ",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-gran-premio-estados-unidos-formula-1-danos-aleron-id768564.html",
+          "image": "https://media.tycsports.com/files/2026/10/25/999676/franco-colapinto-alpine_862x485.webp",
+          "body": "La carrera en el Circuito de las Américas llegó a su fin para el piloto argentino en la vuelta 36, cuando su ingeniero de pista Stuart Barlow le indicó que ingresara a los boxes para retirar su monoplaza.\n\nEl momento del toque de Lindblad a Colapinto que resultó en su abandono en el Gran Premio de Estados Unidos. + Seguinos en Franco Colapinto se vio obligado a abandonar el Gran Premio de Estados Unidos de la Fórmula 1 en la vuelta 36 por orden de su equipo, una decisión motivada en los daños que sufrió su monoplaza en su alerón delantero a lo largo de la carrera y siendo un toque con Arvid Lindblad la gota que colmó el vaso.\n\nEn la vuelta 25 se dio el contacto que terminó con sellar la suerte de Colapinto al sufrir el impacto por parte de Lindblad, que se lanzó para adelantarle en la primera curva a él para pelear con Pierre Gasly, que salía de la calle de boxes al hacer su primera parada. \"Dobló hacia mí y hacia Pierre\" , relató el piloto argentino.\n\nEl toque entre Lindblad y Colapinto que lo obligó a abandonar en Alpine Ese toque del británico agravó el previamente dañado alerón de Colapinto , lo cual resulta en un trompo que le hizo perder varios segundos pero dejó secuelas que 11 vueltas más tarde dio lugar a que el ingeniero de pista Stuart Barlow le indicara que tenían que retirar el auto al ser imposible solucionar esos daños . Este es el tercer abandono entre las últimas cuatro carrera para el ex-Williams, que no recibió al bandera a cuadros en Azerbaiyán, Singapur y Estados Unidos . Un duro golpe tras su extendida racha de 29 carreras consecutivas sin abandonar en la categoría reina del automovilismo.\n\nAl concluir las acciones el piloto argentino habló con los medios presentes y explicó qué fue en concreto lo que resultó en su final anticipado: \"Una carrera du",
           "language": "es",
-          "publishedAt": "2026-10-25T19:02:54.000Z",
-          "addedAt": "2026-10-25T21:40:42.380Z",
+          "publishedAt": "2026-10-25T23:21:13.000Z",
+          "addedAt": "2026-10-25T21:40:42.408Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1321,21 +1306,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-en-vivo-la-carrera-de-colapinto-gp-de-estados-unidos-id767495-html",
-          "title": "Colapinto abandonó en el GP de Estados Unidos de F1 y ganó Antonelli, quien quedó a un paso de ser campeón",
-          "summary": "El piloto argentino sufrió un desprendimiento en su Alpine en un toque con Lindblad y se vio obligado a abandonar en la vuelta 37. En tanto, Antonelli levantará el título si logra un 9° puesto en México el próximo fin de semana.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-en-vivo-la-carrera-de-colapinto-gp-de-estados-unidos-id767495.html",
-          "image": "https://media.tycsports.com/files/2026/10/25/999630/colapinto-abandono-en-el-gp-de-estados-unidos-photo-by-manuel-elettosutton-images_1440x810.webp?v=1",
-          "body": "El piloto argentino sufrió un desprendimiento en su Alpine en un toque con Lindblad y se vio obligado a abandonar en la vuelta 37. En tanto, Antonelli levantará el título si logra un 9° puesto en México el próximo fin de semana.\n\nPor qué Colapinto abandonó el Gran Premio de Estados Unidos: \"Se rompió mucho el auto\" Qué necesita Antonelli para ser campeón de la Fórmula 1 en México 25/10/2026 07:50 pm Colapinto abandonó en el GP de Estados Unidos (Photo by Manuel Eletto/Sutton Images) + Seguinos en Franco Colapinto abandonó en la vuelta 37 del Gran Premio de Estados Unidos de Fórmula 1 y volvió a quedarse sin poder completar una carrera con Alpine. El retiro en el Circuito de las Américas se sumó a otros dos abandonos recientes, en los Grandes Premios de Azerbaiyán y Singapur, lo que marca tres retiros en las últimas cuatro carreras, con un decimotercer lugar en Bahréin. Por su parte, Kimi Antonelli (Mercedes) ganó de punta a punta , no levantó el título en la fecha 18 por detalles y tiene la mesa servida para convertirse, la próxima semana en México, en el campeón más joven de la historia en la máxima categoría del automovilismo.\n\n“ Me toqué con Lindblad (Racing Bulls) y se rompió mucho el auto , toda la parte derecha. Fue un fin de semana muy duro con la penalización. Un poco triste por la carrera”, señaló Franco una vez culminada la carrera. Y añadió: \"Elegí salir con neumáticos duros para hacer algo diferente al resto, pero no funcionó. Me quedé muy trabado atrás de los Williams y con el aire sucio fue muy complicado. Hay que trabajar para México. Tres abandonos en cuatro carreras. Hay que cortar esta racha. Está siendo duro ”. El toque fue en el giro 27, y el argentino padeció el desprendimiento de un pontón que lo hizo perder puestos vuelta a vuelta: pasó del 15° lu",
-          "language": "es",
-          "publishedAt": "2026-10-25T22:50:04.000Z",
-          "addedAt": "2026-10-24T23:28:31.272Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-como-quedo-la-grilla-definitiva-del-gp-de-estados-unidos-de-la-f1-id768491-html",
           "title": "Cómo quedó la grilla definitiva del GP de Estados Unidos de la F1",
           "summary": "Luego de la qualy quedaron definidas las posiciones de salida para la carrera de este domingo. Colapinto cerró 15° la clasifiación, pero largará penúltimo por una penalización.",
@@ -1347,6 +1317,21 @@
           "language": "es",
           "publishedAt": "2026-10-25T00:16:51.000Z",
           "addedAt": "2026-10-25T01:26:40.594Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-cambia-la-parrilla-del-gp-de-estados-unidos-de-la-formula-1-como-afecta-a-franco-colapin",
+          "title": "Cambia la parrilla del GP de Estados Unidos: cómo afecta a Colapinto",
+          "summary": "Lance Stroll fue sancionado en la previa de una nueva carrera y largará desde boxes, por lo que representa un rival menos por delante del argentino, que saldrá 21° tras su penalización de diez lugares.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/cambia-la-parrilla-del-gp-de-estados-unidos-de-la-formula-1-como-afecta-a-franco-colapinto-id768548.html",
+          "image": "https://media.tycsports.com/files/2026/10/25/999526/franco-colapinto_1440x810.webp?v=1",
+          "body": "Lance Stroll fue sancionado en la previa de una nueva carrera y largará desde boxes, por lo que representa un rival menos por delante del argentino, que saldrá 21° tras su penalización de diez lugares.\n\nFranco Colapinto largará 21 en el Gran Premio de Estados Unidos de la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en Franco Colapinto recibió una noticia favorable antes del Gran Premio de Estados Unidos de Fórmula 1 . Lance Stroll fue sancionado y deberá iniciar la competencia desde boxes, una decisión que le permitirá al argentino tener un rival menos por delante cuando comience la carrera en Austin .\n\nEl piloto de Aston Martin había conseguido el 16° puesto en la clasificación , pero su escudería realizó modificaciones en el monoplaza bajo régimen de parque cerrado. Las intervenciones violaron distintas disposiciones reglamentarias y provocaron que los comisarios deportivos determinaran su salida desde el pit lane.\n\nDe acuerdo con el informe oficial de la FIA, el equipo británico sustituyó cinco componentes de la unidad de potencia: motor de combustión interna, turbocompresor, almacenamiento de energía, unidad de control electrónico y un elemento auxiliar . Cada reemplazo implicaba cinco posiciones de castigo, hasta alcanzar un total de 25. Los elementos instalados correspondían al sexto motor, séptimo turbo, octavo sistema de almacenamiento energético, séptima centralita electrónica y noveno componente auxiliar de la temporada . Sin embargo, la gravedad de la infracción no estuvo únicamente relacionada con la cantidad de piezas reemplazadas.\n\nDOC 48 - Infringement - Car 18 - Changes made during Parc Ferme https://t.co/nVLPv627jK #USGP #F1 #FIA https://t.co/rXyr5MoTaJ",
+          "language": "es",
+          "publishedAt": "2026-10-25T19:02:54.000Z",
+          "addedAt": "2026-10-25T21:40:42.380Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1411,17 +1396,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-abandono-de-franco-colapinto-en-el-gp-de-estados-unidos",
-          "title": "Prematuro abandono de Colapinto en el GP de Estados Unidos",
-          "summary": "Una pieza dañada en el Alpine, tras un roce con el Racing Bulls de Lindblad, obligó al piloto argentino a dejar la carrera de F1 que ganó Antonelli con Mercedes quedando a dos puntos para coronarse campeón mundial.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/abandono-de-franco-colapinto-en-el-gp-de-estados-unidos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-F1-Colapinto-Alpine.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-f1-en-vivo-la-carrera-de-colapinto-gp-de-estados-unidos-id767495-html",
+          "title": "Colapinto abandonó en el GP de Estados Unidos de F1 y ganó Antonelli, quien quedó a un paso de ser campeón",
+          "summary": "El piloto argentino sufrió un desprendimiento en su Alpine en un toque con Lindblad y se vio obligado a abandonar en la vuelta 37. En tanto, Antonelli levantará el título si logra un 9° puesto en México el próximo fin de semana.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-en-vivo-la-carrera-de-colapinto-gp-de-estados-unidos-id767495.html",
+          "image": "https://media.tycsports.com/files/2026/10/25/999630/colapinto-abandono-en-el-gp-de-estados-unidos-photo-by-manuel-elettosutton-images_1440x810.webp?v=1",
+          "body": "El piloto argentino sufrió un desprendimiento en su Alpine en un toque con Lindblad y se vio obligado a abandonar en la vuelta 37. En tanto, Antonelli levantará el título si logra un 9° puesto en México el próximo fin de semana.\n\nPor qué Colapinto abandonó el Gran Premio de Estados Unidos: \"Se rompió mucho el auto\" Qué necesita Antonelli para ser campeón de la Fórmula 1 en México 25/10/2026 07:50 pm Colapinto abandonó en el GP de Estados Unidos (Photo by Manuel Eletto/Sutton Images) + Seguinos en Franco Colapinto abandonó en la vuelta 37 del Gran Premio de Estados Unidos de Fórmula 1 y volvió a quedarse sin poder completar una carrera con Alpine. El retiro en el Circuito de las Américas se sumó a otros dos abandonos recientes, en los Grandes Premios de Azerbaiyán y Singapur, lo que marca tres retiros en las últimas cuatro carreras, con un decimotercer lugar en Bahréin. Por su parte, Kimi Antonelli (Mercedes) ganó de punta a punta , no levantó el título en la fecha 18 por detalles y tiene la mesa servida para convertirse, la próxima semana en México, en el campeón más joven de la historia en la máxima categoría del automovilismo.\n\n“ Me toqué con Lindblad (Racing Bulls) y se rompió mucho el auto , toda la parte derecha. Fue un fin de semana muy duro con la penalización. Un poco triste por la carrera”, señaló Franco una vez culminada la carrera. Y añadió: \"Elegí salir con neumáticos duros para hacer algo diferente al resto, pero no funcionó. Me quedé muy trabado atrás de los Williams y con el aire sucio fue muy complicado. Hay que trabajar para México. Tres abandonos en cuatro carreras. Hay que cortar esta racha. Está siendo duro ”. El toque fue en el giro 27, y el argentino padeció el desprendimiento de un pontón que lo hizo perder puestos vuelta a vuelta: pasó del 15° lu",
           "language": "es",
-          "publishedAt": "2026-10-25T21:12:02.000Z",
-          "addedAt": "2026-10-25T21:40:43.525Z",
+          "publishedAt": "2026-10-25T22:50:04.000Z",
+          "addedAt": "2026-10-24T23:28:31.272Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1437,21 +1422,6 @@
           "language": "es",
           "publishedAt": "2026-10-23T18:30:51.000Z",
           "addedAt": "2026-10-23T20:32:45.647Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-la-reflexion-de-colapinto-tras-su-abandono-hay-que-cortar-esta-racha",
-          "title": "La reflexión de Colapinto tras su abandono: «Hay que cortar esta racha»",
-          "summary": "Al concluir el GP de Estados Unidos, el piloto argentino habló con los medios y señaló los inconvenientes que afrontó con el Alpine y que lo obligaron a desertar la carrera.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-reflexion-de-colapinto-tras-su-abandono-hay-que-cortar-esta-racha/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-F1-Colapinto-Box-Alpine.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-26T00:11:44.000Z",
-          "addedAt": "2026-10-26T01:46:12.449Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1499,13 +1469,7 @@
           "addedAt": "2026-10-22T23:15:42.889Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-26T07:02:41.211Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-entrada-triunfal-en-moto-paddock-gp-estados-unidos-id767807-html",
           "title": "“Franco trayendo aura”: la entrada triunfal de Colapinto al Gran Premio de Estados Unidos",
@@ -1533,6 +1497,27 @@
           "language": "es",
           "publishedAt": "2026-10-20T20:01:01.000Z",
           "addedAt": "2026-10-20T22:28:55.340Z",
+          "category": "argentino",
+          "tag": "Franco"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-26T14:08:37.608Z",
+      "items": [
+        {
+          "id": "campeones-com-ar-abandono-de-franco-colapinto-en-el-gp-de-estados-unidos",
+          "title": "Prematuro abandono de Colapinto en el GP de Estados Unidos",
+          "summary": "Una pieza dañada en el Alpine, tras un roce con el Racing Bulls de Lindblad, obligó al piloto argentino a dejar la carrera de F1 que ganó Antonelli con Mercedes quedando a dos puntos para coronarse campeón mundial.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/abandono-de-franco-colapinto-en-el-gp-de-estados-unidos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-F1-Colapinto-Alpine.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-25T21:12:02.000Z",
+          "addedAt": "2026-10-25T21:40:43.525Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1567,17 +1552,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-cuanto-dinero-le-deja-a-alpine-cada-punto-de-franco-colapinto-en-la-formula-1-id767503-h",
-          "title": "Cuánto dinero le deja a Alpine cada punto de Colapinto en la F1",
-          "summary": "La F1 reparte su premio según el puesto final en el campeonato de constructores, y cada posición vale unos 9 millones de dólares. La escudería francesa está sexta, y los 27 puntos del argentino representan casi el 40% de lo que suma el equipo.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/cuanto-dinero-le-deja-a-alpine-cada-punto-de-franco-colapinto-en-la-formula-1-id767503.html",
-          "image": "https://media.tycsports.com/files/2026/10/20/997816/franco-colapinto_1440x810.webp",
-          "body": "La F1 reparte su premio según el puesto final en el campeonato de constructores, y cada posición vale unos 9 millones de dólares. La escudería francesa está sexta, y los 27 puntos del argentino representan casi el 40% de lo que suma el equipo.\n\nFranco Colapinto, piloto de Alpine en la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en En la Fórmula 1, los puntos no solo se festejan en el podio: también se cobran . La categoría reparte cientos de millones de dólares entre los equipos según la posición en la que terminan el Campeonato de Constructores , y Alpine llega a las últimas seis carreras de 2026 en el sexto lugar, con 68 puntos. De ese total, 27 son de Franco Colapinto . Si se divide el premio estimado para ese puesto por los puntos del equipo, cada unidad que suma el argentino vale alrededor de 1,4 millones de dólares. La cuenta real, sin embargo, es más interesante.\n\nLa F1 destina alrededor de la mitad de sus ingresos comerciales a los equipos. Una parte va a pagos especiales, como el bono histórico de Ferrari y un premio por los resultados de los últimos diez años, y la mayoría se reparte según la posición final en el ya mencionado Campeonato de Constructores.\n\nLos montos exactos no son públicos, porque el acuerdo que los fija es confidencial, pero las estimaciones de la prensa especializada coinciden en algo: cada puesto en la tabla vale unos 9 millones de dólares (alrededor de 7 millones de libras) más que el de abajo.\n\nSegún los números que publicó The Independent sobre la base de 2025, el campeón se lleva unos 140 millones de dólares, el quinto unos 104 millones, el sexto unos 95 millones, el séptimo unos 87 millones y el último de los once equipos, unos 51 millones.",
+          "id": "campeones-com-ar-la-reflexion-de-colapinto-tras-su-abandono-hay-que-cortar-esta-racha",
+          "title": "La reflexión de Colapinto tras su abandono: «Hay que cortar esta racha»",
+          "summary": "Al concluir el GP de Estados Unidos, el piloto argentino habló con los medios y señaló los inconvenientes que afrontó con el Alpine y que lo obligaron a desertar la carrera.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-reflexion-de-colapinto-tras-su-abandono-hay-que-cortar-esta-racha/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-F1-Colapinto-Box-Alpine.jpg",
+          "body": "",
           "language": "es",
-          "publishedAt": "2026-10-23T14:07:09.000Z",
-          "addedAt": "2026-10-23T17:19:41.481Z",
+          "publishedAt": "2026-10-26T00:11:44.000Z",
+          "addedAt": "2026-10-26T01:46:12.449Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1608,6 +1593,21 @@
           "language": "es",
           "publishedAt": "2026-10-23T14:33:16.000Z",
           "addedAt": "2026-10-23T17:19:41.530Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-cuanto-dinero-le-deja-a-alpine-cada-punto-de-franco-colapinto-en-la-formula-1-id767503-h",
+          "title": "Cuánto dinero le deja a Alpine cada punto de Colapinto en la F1",
+          "summary": "La F1 reparte su premio según el puesto final en el campeonato de constructores, y cada posición vale unos 9 millones de dólares. La escudería francesa está sexta, y los 27 puntos del argentino representan casi el 40% de lo que suma el equipo.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/cuanto-dinero-le-deja-a-alpine-cada-punto-de-franco-colapinto-en-la-formula-1-id767503.html",
+          "image": "https://media.tycsports.com/files/2026/10/20/997816/franco-colapinto_1440x810.webp",
+          "body": "La F1 reparte su premio según el puesto final en el campeonato de constructores, y cada posición vale unos 9 millones de dólares. La escudería francesa está sexta, y los 27 puntos del argentino representan casi el 40% de lo que suma el equipo.\n\nFranco Colapinto, piloto de Alpine en la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en En la Fórmula 1, los puntos no solo se festejan en el podio: también se cobran . La categoría reparte cientos de millones de dólares entre los equipos según la posición en la que terminan el Campeonato de Constructores , y Alpine llega a las últimas seis carreras de 2026 en el sexto lugar, con 68 puntos. De ese total, 27 son de Franco Colapinto . Si se divide el premio estimado para ese puesto por los puntos del equipo, cada unidad que suma el argentino vale alrededor de 1,4 millones de dólares. La cuenta real, sin embargo, es más interesante.\n\nLa F1 destina alrededor de la mitad de sus ingresos comerciales a los equipos. Una parte va a pagos especiales, como el bono histórico de Ferrari y un premio por los resultados de los últimos diez años, y la mayoría se reparte según la posición final en el ya mencionado Campeonato de Constructores.\n\nLos montos exactos no son públicos, porque el acuerdo que los fija es confidencial, pero las estimaciones de la prensa especializada coinciden en algo: cada puesto en la tabla vale unos 9 millones de dólares (alrededor de 7 millones de libras) más que el de abajo.\n\nSegún los números que publicó The Independent sobre la base de 2025, el campeón se lleva unos 140 millones de dólares, el quinto unos 104 millones, el sexto unos 95 millones, el séptimo unos 87 millones y el último de los once equipos, unos 51 millones.",
+          "language": "es",
+          "publishedAt": "2026-10-23T14:07:09.000Z",
+          "addedAt": "2026-10-23T17:19:41.481Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1717,36 +1717,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id767333-html",
-          "title": "F1: los horarios y el cronograma completo del GP de Estados Unidos",
-          "summary": "La Fórmula 1 tendrá continuidad este fin de semana en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id767333.html",
-          "image": "https://media.tycsports.com/files/2026/10/20/997697/gp-de-estados-unidos_1440x810.webp?v=1",
-          "body": "La Fórmula 1 tendrá continuidad este fin de semana en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nFranco Colapinto. + Seguinos en Tras la victoria de Max Verstappen y el abandono de Franco Colapinto en Singapur, el campeonato de la Fórmula 1, que tiene como líder a Kimi Antonelli, se prepara para el Gran Premio de Estados Unidos que se correrá este fin de semana en el Circuito de las Américas. Conocé el cronograma completo .\n\nLa Fórmula 1 corrió por primera vez en el Circuito de las Américas (COTA) en 2012, en el Gran Premio de Estados Unidos, y como era de esperar, más del 100.000 espectadores llenaron el circuito y presenciaron el último triunfo de Lewis Hamilton con McLaren antes de su fichaje por Mercedes en 2013. Las curvas del COTA tienen similitudes con las de otras pistas: las 3 y 6 se parecen a la recta de alta velocidad de Silverstone o las curvas S de Suzuka, mientras que las 12 a 15 imitan la sección del estadio de Hockenheim. Por otro lado, la subida que desemboca en la ancha curva 1 siempre ofrece emocionantes adelantamientos.",
-          "language": "es",
-          "publishedAt": "2026-10-23T10:27:14.000Z",
-          "addedAt": "2026-10-21T15:26:33.886Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina",
-          "title": "La desafortunada -y repudiada- expresión de un invitado de Alpine sobre Colapinto y Argentina",
-          "summary": "Jeremy Clarkson, \"amigo\" y vecino del equipo de Enstone, dejó una frase despectiva sobre el pilarense y su nacionalidad durante una entrevista en los boxes de Austin.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-F1-Clarkson-Briatore.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-25T11:49:05.000Z",
-          "addedAt": "2026-10-25T16:02:51.741Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
           "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
           "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
@@ -1758,6 +1728,21 @@
           "language": "es",
           "publishedAt": "2026-10-12T21:27:52.000Z",
           "addedAt": "2026-10-18T07:11:28.307Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id767333-html",
+          "title": "F1: los horarios y el cronograma completo del GP de Estados Unidos",
+          "summary": "La Fórmula 1 tendrá continuidad este fin de semana en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-los-horarios-el-cronograma-completo-del-gp-de-estados-unidos-id767333.html",
+          "image": "https://media.tycsports.com/files/2026/10/20/997697/gp-de-estados-unidos_1440x810.webp?v=1",
+          "body": "La Fórmula 1 tendrá continuidad este fin de semana en el Circuito de las Américas con la presencia de Franco Colapinto en el equipo de Alpine. Conocé el cronograma.\n\nFranco Colapinto. + Seguinos en Tras la victoria de Max Verstappen y el abandono de Franco Colapinto en Singapur, el campeonato de la Fórmula 1, que tiene como líder a Kimi Antonelli, se prepara para el Gran Premio de Estados Unidos que se correrá este fin de semana en el Circuito de las Américas. Conocé el cronograma completo .\n\nLa Fórmula 1 corrió por primera vez en el Circuito de las Américas (COTA) en 2012, en el Gran Premio de Estados Unidos, y como era de esperar, más del 100.000 espectadores llenaron el circuito y presenciaron el último triunfo de Lewis Hamilton con McLaren antes de su fichaje por Mercedes en 2013. Las curvas del COTA tienen similitudes con las de otras pistas: las 3 y 6 se parecen a la recta de alta velocidad de Silverstone o las curvas S de Suzuka, mientras que las 12 a 15 imitan la sección del estadio de Hockenheim. Por otro lado, la subida que desemboca en la ancha curva 1 siempre ofrece emocionantes adelantamientos.",
+          "language": "es",
+          "publishedAt": "2026-10-23T10:27:14.000Z",
+          "addedAt": "2026-10-21T15:26:33.886Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1775,16 +1760,31 @@
           "addedAt": "2026-10-23T17:19:44.582Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-no-cree-que-el-ingreso-de-ruanda-a-la-f1-complique-la-posibilidad-de-argentina",
+          "title": "Colapinto no cree que el ingreso de Ruanda a la F1 complique la posibilidad de Argentina",
+          "summary": "Celebró la llegada de África como sede de la Fórmula 1 pero consideró que \"Argentina tiene las mismas probabilidades que antes\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-no-cree-que-el-ingreso-de-ruanda-a-la-f1-complique-la-posibilidad-de-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/REUTERS-Colapinto-Monumento.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-23T14:44:29.000Z",
+          "addedAt": "2026-10-23T17:19:42.344Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-26T07:02:41.211Z",
+      "createdAt": "2026-10-26T14:08:37.608Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-mexico-id768545-html",
-          "title": "F1: los horarios y el cronograma completo del GP de México",
+          "title": "F1: horarios y cronograma completo del GP de México",
           "summary": "Luego de la carrera en Estados Unidos, la máxima categoría del automovilismo mundial viaja al autódromo Hermanos Rodríguez de la Ciudad de México.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
@@ -1792,7 +1792,7 @@
           "image": "https://media.tycsports.com/files/2026/10/11/994978/colapinto-en-el-gp-de-singapur-photo-by-james-suttonlat-images_1440x810.webp",
           "body": "Luego de la carrera en Estados Unidos, la máxima categoría del automovilismo mundial viaja al autódromo Hermanos Rodríguez de la Ciudad de México.\n\nColapinto en el GP de Singapur (Photo by James Sutton/LAT Images) + Seguinos en La Fórmula 1 llega a México para disputar una nueva fecha de la temporada 2026, con Franco Colapinto y su Alpine como uno de los protagonistas. El piloto argentino afrontará un fin de semana de actividad en el Autódromo Hermanos Rodríguez, que comenzará el viernes 30 de octubre con las prácticas libres y culminará el domingo 1 de noviembre con la carrera.\n\nEl Autódromo Hermanos Rodríguez se encuentra a más de 2 km sobre el nivel del mar, lo que convierte la vuelta de 4,3 km en una experiencia que te deja sin aliento. La pista sigue en gran medida el trazado del circuito original de 1959; la principal diferencia es que la espectacular - espectacularmente aterradora- curva Peraltada ahora está dividida en dos, y el circuito serpentea a través de un antiguo estadio de béisbol, lo que ofrece una de las vistas más singulares de la Fórmula 1.\n\nTodo el fin de semana de la Fórmula 1 se podrá ver en vivo en la Argentina a través de Fox Sports. Además, vas a poder seguir el minuto a minuto de la competición en el sitio web www.tycsports.com.\n\nTambién se puede ver online a través de Disney+ Premium, la plataforma digital de ESPN, la cual se contrata previo registro a través de la página web por $24.390 final por mes.",
           "language": "es",
-          "publishedAt": "2026-10-25T22:14:54.000Z",
+          "publishedAt": "2026-10-26T11:06:50.000Z",
           "addedAt": "2026-10-25T23:34:59.885Z",
           "category": "general",
           "tag": "Carrera"
@@ -1828,21 +1828,6 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-en-vivo-como-ver-el-gp-de-estados-unidos-por-tv-y-online-id767515-html",
-          "title": "F1, EN VIVO: cómo ver las prácticas libres del GP de Estados Unidos por TV y ONLINE",
-          "summary": "Conocé las opciones para ver en vivo, por televisión y online el Gran Premio de Estados Unidos que se corre en el Circuito de las Américas y es el decimoctavo del 2026.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-en-vivo-como-ver-el-gp-de-estados-unidos-por-tv-y-online-id767515.html",
-          "image": "https://media.tycsports.com/files/2026/10/21/997999/gp-de-estados-unidos_1440x810.webp?v=1",
-          "body": "Conocé las opciones para ver en vivo, por televisión y online el Gran Premio de Estados Unidos que se corre en el Circuito de las Américas y es el decimoctavo del 2026.\n\nFranco Colapinto en el GP de Estados Unidos. + Seguinos en Este fin de semana se correrá la decimoctava fecha del Campeonato 2026 de la Fórmula 1, en el marco del Gran Premio de Estados Unidos en el Circuito de las Américas, y contará con la presencia del argentino Franco Colapinto a bordo de su Alpine. Conocé las opciones para ver en vivo el evento por televisión y a través de internet .\n\nLa fecha de la Fórmula 1 se podrá ver en vivo en la Argentina a través de Fox Sports. Además, vas a poder seguir el minuto a minuto de la competición en la web de www.tycsports.com.\n\nTambién se podrá ver online a través de Disney+, la plataforma digital de ESPN, la cual se contrata previo registro a través de la página web por $24.390 final por mes.",
-          "language": "es",
-          "publishedAt": "2026-10-23T10:06:41.000Z",
-          "addedAt": "2026-10-23T12:10:31.357Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-disney-en-vivo-como-ver-el-gp-de-estados-unidos-por-tv-y-online-id767516-html",
           "title": "Disney+, EN VIVO: cómo ver la carrera del GP de Estados Unidos por TV y ONLINE",
           "summary": "Conocé las opciones para ver en vivo, por televisión y online el Gran Premio de Estados Unidos que se corre en el Circuito de las Américas y es el decimoctavo del 2026.",
@@ -1856,6 +1841,21 @@
           "addedAt": "2026-10-23T12:10:31.382Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-en-vivo-como-ver-el-gp-de-estados-unidos-por-tv-y-online-id767515-html",
+          "title": "F1, EN VIVO: cómo ver las prácticas libres del GP de Estados Unidos por TV y ONLINE",
+          "summary": "Conocé las opciones para ver en vivo, por televisión y online el Gran Premio de Estados Unidos que se corre en el Circuito de las Américas y es el decimoctavo del 2026.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-en-vivo-como-ver-el-gp-de-estados-unidos-por-tv-y-online-id767515.html",
+          "image": "https://media.tycsports.com/files/2026/10/21/997999/gp-de-estados-unidos_1440x810.webp?v=1",
+          "body": "Conocé las opciones para ver en vivo, por televisión y online el Gran Premio de Estados Unidos que se corre en el Circuito de las Américas y es el decimoctavo del 2026.\n\nFranco Colapinto en el GP de Estados Unidos. + Seguinos en Este fin de semana se correrá la decimoctava fecha del Campeonato 2026 de la Fórmula 1, en el marco del Gran Premio de Estados Unidos en el Circuito de las Américas, y contará con la presencia del argentino Franco Colapinto a bordo de su Alpine. Conocé las opciones para ver en vivo el evento por televisión y a través de internet .\n\nLa fecha de la Fórmula 1 se podrá ver en vivo en la Argentina a través de Fox Sports. Además, vas a poder seguir el minuto a minuto de la competición en la web de www.tycsports.com.\n\nTambién se podrá ver online a través de Disney+, la plataforma digital de ESPN, la cual se contrata previo registro a través de la página web por $24.390 final por mes.",
+          "language": "es",
+          "publishedAt": "2026-10-23T10:06:41.000Z",
+          "addedAt": "2026-10-23T12:10:31.357Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-clay-regazzoni-subcampeon-del-mundo-f1-paraplejico-dakar-muerte-choque-tragico-op-id7673",
@@ -1948,21 +1948,6 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-fue-piloto-de-la-f1-apunalo-al-propietario-de-una-escuderia-en-un-boliche-y-esta-preso-p",
-          "title": "Fue piloto de la F1, apuñaló al propietario de una escudería en un boliche y está preso por fraude",
-          "summary": "El alemán Adrian Sutil corrió en la Máxima durante siete temporadas. En 2012 estuvo un año ausente por atacar al ejecutivo de Renault tras el GP de China y en 2025 fue detenido en un operativo internacional.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/fue-piloto-de-la-f1-apunalo-al-propietario-de-una-escuderia-en-un-boliche-y-esta-preso-por-fraude-id766317.html",
-          "image": "https://media.tycsports.com/files/2026/10/15/996164/adrian-sutil_1440x810.webp?v=2",
-          "body": "El alemán Adrian Sutil corrió en la Máxima durante siete temporadas. En 2012 estuvo un año ausente por atacar al ejecutivo de Renault tras el GP de China y en 2025 fue detenido en un operativo internacional.\n\nSutil se lamenta por un choque en las práctica del GP de Canadá en 2011 (Paul Gilham/Getty Images) + Seguinos en El alemán Adrian Sutil pasó siete temporadas en la Fórmula 1 . Corrió en la élite del automovilismo, pero su nombre es recordado por hechos que hizo abajo del auto. Al contrario de lo que marca su apellido, el piloto supo protagonizar escándalos para nada sutil(es). Aún estando en la Máxima, apuñaló al propietario de un equipo en un boliche y, cuando se marchó de la categoría, no se quedó atrás: en 2025 fue detenido por fraude .\n\nEl bávaro llegó a la Fórmula 1 en 2006 , aunque en esa ocasión se sumó como piloto de reserva del equipo Midland. Ya para el año siguiente se incorporó a Spyker, aunque solo estaría un año . Los cinco siguientes los pasaría en Force India —en 2012 tuvo un impasse y no compitió— y cerraría su estadía en la Máxima en 2014 representando a Sauber . En su paso por la categoría obtendría un particular récord: ser el piloto con más carreras (128) y nunca haberse subido a un podio.\n\nSu primer gran altercado, que le forjó la mala fama, lo protagonizó en abril de 2011. Ocurrió en un boliche en Shanghái luego del Gran Premio de China que ganó Lewis Hamilton. Allí Sutil tuvo una pelea con Eric Lux, ejecutivo de Renault, a quien le provocó cortes en el cuello con una botella de champagne rota en medio de una discusión durante una fiesta organizada para celebrar el triunfo de Hamilton.\n\nA partir de ese hecho, en enero de 2012 fue declarado culpable por un tribunal de Múnich por causar lesiones corporales graves y recibió una sentencia en susp",
-          "language": "es",
-          "publishedAt": "2026-10-19T10:08:13.000Z",
-          "addedAt": "2026-10-19T11:11:27.000Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-christian-horner-revelo-como-red-bull-favorecio-a-max-verstappen-sobre-checo-perez-en-la",
           "title": "Horner reveló cómo Red Bull favoreció a Verstappen sobre Checo Pérez",
           "summary": "El exjefe de la escudería austríaca reconoció que las presiones del entorno del neerlandés provocaron cambios técnicos en el monoplaza durante 2022, cuando su compañero mexicano también peleaba por el campeonato.",
@@ -2051,13 +2036,7 @@
           "addedAt": "2026-10-19T14:11:26.855Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-26T07:02:41.211Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-corrio-en-el-tc-fue-campeon-del-tc-pista-y-ahora-atiende-un-minimercado-en-san-juan-id76",
           "title": "Corrió en el TC, fue campeón del TC Pista y ahora atiende un minimercado en San Juan",
@@ -2072,7 +2051,13 @@
           "addedAt": "2026-10-18T07:11:28.079Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-26T14:08:37.608Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -2085,6 +2070,21 @@
           "language": "es",
           "publishedAt": "2026-09-30T22:03:28.000Z",
           "addedAt": "2026-10-18T07:11:28.259Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-fue-piloto-de-la-f1-apunalo-al-propietario-de-una-escuderia-en-un-boliche-y-esta-preso-p",
+          "title": "Fue piloto de la F1, apuñaló al propietario de una escudería en un boliche y está preso por fraude",
+          "summary": "El alemán Adrian Sutil corrió en la Máxima durante siete temporadas. En 2012 estuvo un año ausente por atacar al ejecutivo de Renault tras el GP de China y en 2025 fue detenido en un operativo internacional.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/fue-piloto-de-la-f1-apunalo-al-propietario-de-una-escuderia-en-un-boliche-y-esta-preso-por-fraude-id766317.html",
+          "image": "https://media.tycsports.com/files/2026/10/15/996164/adrian-sutil_1440x810.webp?v=2",
+          "body": "El alemán Adrian Sutil corrió en la Máxima durante siete temporadas. En 2012 estuvo un año ausente por atacar al ejecutivo de Renault tras el GP de China y en 2025 fue detenido en un operativo internacional.\n\nSutil se lamenta por un choque en las práctica del GP de Canadá en 2011 (Paul Gilham/Getty Images) + Seguinos en El alemán Adrian Sutil pasó siete temporadas en la Fórmula 1 . Corrió en la élite del automovilismo, pero su nombre es recordado por hechos que hizo abajo del auto. Al contrario de lo que marca su apellido, el piloto supo protagonizar escándalos para nada sutil(es). Aún estando en la Máxima, apuñaló al propietario de un equipo en un boliche y, cuando se marchó de la categoría, no se quedó atrás: en 2025 fue detenido por fraude .\n\nEl bávaro llegó a la Fórmula 1 en 2006 , aunque en esa ocasión se sumó como piloto de reserva del equipo Midland. Ya para el año siguiente se incorporó a Spyker, aunque solo estaría un año . Los cinco siguientes los pasaría en Force India —en 2012 tuvo un impasse y no compitió— y cerraría su estadía en la Máxima en 2014 representando a Sauber . En su paso por la categoría obtendría un particular récord: ser el piloto con más carreras (128) y nunca haberse subido a un podio.\n\nSu primer gran altercado, que le forjó la mala fama, lo protagonizó en abril de 2011. Ocurrió en un boliche en Shanghái luego del Gran Premio de China que ganó Lewis Hamilton. Allí Sutil tuvo una pelea con Eric Lux, ejecutivo de Renault, a quien le provocó cortes en el cuello con una botella de champagne rota en medio de una discusión durante una fiesta organizada para celebrar el triunfo de Hamilton.\n\nA partir de ese hecho, en enero de 2012 fue declarado culpable por un tribunal de Múnich por causar lesiones corporales graves y recibió una sentencia en susp",
+          "language": "es",
+          "publishedAt": "2026-10-19T10:08:13.000Z",
+          "addedAt": "2026-10-19T11:11:27.000Z",
           "category": "general",
           "tag": "F1"
         },
@@ -2149,34 +2149,34 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-colapinto-no-cree-que-el-ingreso-de-ruanda-a-la-f1-complique-la-posibilidad-de-argentina",
-          "title": "Colapinto no cree que el ingreso de Ruanda a la F1 complique la posibilidad de Argentina",
-          "summary": "Celebró la llegada de África como sede de la Fórmula 1 pero consideró que \"Argentina tiene las mismas probabilidades que antes\".",
+          "id": "campeones-com-ar-argentinos-se-lucieron-como-locales-en-el-mundial-de-flat-track",
+          "title": "Argentinos se lucieron como locales en el Mundial de Flat Track",
+          "summary": "Lorenzato y Coduri fueron profetas en su tierra mientras que la localidad de Totoras, Santa Fe, se instauró con su debut mundial.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-no-cree-que-el-ingreso-de-ruanda-a-la-f1-complique-la-posibilidad-de-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/REUTERS-Colapinto-Monumento.jpg",
+          "url": "https://campeones.com.ar/argentinos-se-lucieron-como-locales-en-el-mundial-de-flat-track/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Flat-Track-Lorenzato-Totoras-ganador.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-23T14:44:29.000Z",
-          "addedAt": "2026-10-23T17:19:42.344Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-cierre-con-sabor-a-poco-de-tiago-pernia-en-la-temporada-de-tcr-europeo",
-          "title": "Cierre con sabor a poco de Tiago Pernía en la temporada de TCR Europeo",
-          "summary": "El representante argentino no pudo completar la Carrera 2 por un toque con Adam Shepard cuando intentaba escalar posiciones con el Honda de Squadra Martino. Marco Butti se coronó campeón.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/cierre-con-sabor-a-poco-de-tiago-pernia-en-la-temporada-de-tcr-europeo/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-TCR-Pernia.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-25T09:44:06.000Z",
-          "addedAt": "2026-10-25T16:02:57.687Z",
+          "publishedAt": "2026-10-26T13:08:50.000Z",
+          "addedAt": "2026-10-26T14:08:30.334Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina",
+          "title": "La desafortunada -y repudiada- expresión de un invitado de Alpine sobre Colapinto y Argentina",
+          "summary": "Jeremy Clarkson, \"amigo\" y vecino del equipo de Enstone, dejó una frase despectiva sobre el pilarense y su nacionalidad durante una entrevista en los boxes de Austin.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-F1-Clarkson-Briatore.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-25T11:49:05.000Z",
+          "addedAt": "2026-10-25T16:02:51.741Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-franco-colapinto-tras-clasificar-en-austin-el-auto-mejoro-un-poco-pero-no-tanto",
@@ -2314,6 +2314,27 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-cierre-con-sabor-a-poco-de-tiago-pernia-en-la-temporada-de-tcr-europeo",
+          "title": "Cierre con sabor a poco de Tiago Pernía en la temporada de TCR Europeo",
+          "summary": "El representante argentino no pudo completar la Carrera 2 por un toque con Adam Shepard cuando intentaba escalar posiciones con el Honda de Squadra Martino. Marco Butti se coronó campeón.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/cierre-con-sabor-a-poco-de-tiago-pernia-en-la-temporada-de-tcr-europeo/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-TCR-Pernia.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-25T09:44:06.000Z",
+          "addedAt": "2026-10-25T16:02:57.687Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-26T14:08:37.608Z",
+      "items": [
+        {
           "id": "campeones-com-ar-en-montmelo-tiago-pernia-quedo-13-en-la-clasificacion-de-tcr-europa",
           "title": "En Montmeló, Tiago Pernía quedó 13.° en la clasificación de TCR Europa",
           "summary": "Junto a él varios de los candidatos al título, incluido el líder Marco Butti, tuvieron una buena sesión y deberán remontar posiciones en la primera carrera que se disputa a la hora 12:15 de Argentina.",
@@ -2327,13 +2348,7 @@
           "addedAt": "2026-10-24T18:44:41.747Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-26T07:02:41.211Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-en-la-ultima-practica-texana-de-f1-colapinto-se-ubico-en-la-15-a-posicion",
           "title": "En la última práctica texana de F1, Colapinto se ubicó en la .ª posición",
@@ -2350,32 +2365,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3",
-          "title": "Mattia Colnaghi ingresa al equipo campeón de la Fórmula 3",
-          "summary": "Luego de su paso por el MP Motorsport, el representante argentino estará compitiendo junto al Campos Racing en su segunda temporada dentro de la especialidad.",
+          "id": "campeones-com-ar-julian-santero-es-el-nuevo-lider-de-la-copa-de-oro-del-tc",
+          "title": "Julián Santero es el nuevo líder de la Copa de Oro del TC | Campeones",
+          "summary": "El mendocino llegó 4º en Rosario y aprovechó el abandono de Otto Fritzler y el 17º puesto de Facundo Chapur para ser el nuevo líder del playoff.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/MATTIA-COLNAGHI-FORMJULA-3.jpg",
+          "url": "https://campeones.com.ar/julian-santero-es-el-nuevo-lider-de-la-copa-de-oro-del-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TC-2026.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-19T13:36:15.000Z",
-          "addedAt": "2026-10-19T13:11:27.204Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc",
-          "title": "Revista Campeones: Fain lideró un histórico 1-2 de Torino en el TC",
-          "summary": "Avanza la Copa de Oro del Turismo Carretera y se mezclan las marcas en la batalla por la corona más buscada del deporte motor argentino.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/revista-campeones-fain-lidero-un-historico-1-2-de-torino-en-el-tc/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/TC-Resvista-Fain-Chapur-Dos-Toros-Audaces.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-19T10:15:47.000Z",
-          "addedAt": "2026-10-19T13:11:27.029Z",
+          "publishedAt": "2026-10-26T12:25:12.000Z",
+          "addedAt": "2026-10-26T14:08:29.746Z",
           "category": "argentino",
           "tag": "Argentino"
         },
