@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-25T23:34:58.679Z",
-  "checkedAt": "2026-10-25T23:34:58.679Z",
+  "updatedAt": "2026-10-26T01:46:09.079Z",
+  "checkedAt": "2026-10-26T01:46:09.079Z",
   "pageSize": 18,
   "sources": [
     {
@@ -53,21 +53,6 @@
       "addedAt": "2026-10-25T23:34:59.624Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-f2-argentina-franco-ledesma-vencio-en-rosario-y-no-se-baja-de-la-pelea",
-      "title": "F2 Argentina: Franco Ledesma venció en Rosario y no se baja de la pelea",
-      "summary": "El marplatense del Gabriel Werner Competición cerró un fin de semana ideal con una contundente victoria de punta a punta en la Final de la 11ª y anteúltima fecha del campeonato 2026 y buscará la hazaña en La Plata, donde dirimirá el título con Lautaro Videla (Mauro Martínez Competición), quien llegó 5º en el en el “Juan Manuel Fangio” santafesino.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/f2-argentina-franco-ledesma-vencio-en-rosario-y-no-se-baja-de-la-pelea/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Ledesma-F2Arg-2026-2.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-25T15:33:06.000Z",
-      "addedAt": "2026-10-25T16:02:51.295Z",
-      "category": "argentino",
-      "tag": "Franco"
     },
     {
       "id": "campeones-com-ar-tc-en-rosario-lambiris-y-un-cambio-que-rapidamente-rindio-dividendos",
@@ -940,6 +925,21 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu",
+      "title": "TCR World Tour: Urrutia cerró con otro triunfo la fecha en Chengdu",
+      "summary": "El uruguayo se impuso en la última competencia de la sexta ronda del calendario y acortó la brecha con Azcona a 23 puntos; el francés Comte también celebró en la segunda carrera.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-world-tour-urrutia-cerro-con-otro-triunfo-la-fecha-en-chengdu/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261018-TCRWT-Urrutia.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-18T12:02:45.000Z",
+      "addedAt": "2026-10-26T01:46:15.373Z",
+      "category": "general",
+      "tag": "Carrera"
+    },
+    {
       "id": "campeones-com-ar-retorno-con-victoria-para-augusto-carinelli-en-el-turismo-carretera-2000",
       "title": "Retorno con victoria para Augusto Carinelli en el Turismo Carretera 2000 | Campeones",
       "summary": "El piloto chaqueño mantuvo la posición de punta en la largada y se quedó con la carrera inicial del fin de semana, a bordo del Toyota Corolla que alista el Coiro Competición. Lo secundaron los Renault Fluence de Juan Ignacio Concina y Humberto Krujoski.",
@@ -1258,23 +1258,8 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-25T23:35:07.905Z",
+      "createdAt": "2026-10-26T01:46:18.205Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-un-periodista-ingles-invitado-por-alpine-al-gp-de-estados-unidos-se-burlo-de-colapinto-p",
-          "title": "Un periodista inglés invitado por Alpine al GP de Estados Unidos se burló de Colapinto: \"Penalizado por argentino\"",
-          "summary": "Jeremy Clarkson ironizó sobre la sanción de 10 puestos que recibió el piloto argentino y generó indignación en las redes sociales.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/un-periodista-ingles-invitado-por-alpine-al-gp-de-estados-unidos-se-burlo-de-colapinto-penalizado-por-argentino-id768495.html",
-          "image": "https://media.tycsports.com/files/2026/10/20/997816/franco-colapinto_1440x810.webp",
-          "body": "Jeremy Clarkson ironizó sobre la sanción de 10 puestos que recibió el piloto argentino y generó indignación en las redes sociales.\n\nEl comentario anti-argentina del periodista inglés + Seguinos en Franco Colapinto recibió una penalización de 10 posiciones para la carrera del Gran Premio de Estados Unidos de Fórmula 1 por un cambio en su motor eléctrico. La sanción fue motivo de burla para Jeremy Clarkson, quien realizó un comentario contra la Argentina durante una transmisión de Sky Sports.\n\n“Franco tiene una gran penalización por ser argentino, probablemente. Bueno, le daría una para eso”, expresó el periodista inglés, entre risas con su compañero. Sus palabras provocaron una fuerte reacción de los fanáticos argentinos en las redes sociales.\n\nLa presencia de Clarkson en el circuito de Austin tuvo, además, un detalle particular: el periodista había sido invitado por Alpine para el fin de semana de Fórmula 1 y hasta posó junto a Flavio Briatore en imágenes difundidas por la escudería francesa. El comentario sobre Colapinto generó críticas de seguidores argentinos, mientras que usuarios de otros países también participaron de las reacciones en redes sociales.\n\nEste domingo desde las 17.00 se llevará a cabo la carrera del GP de Estados Unidos , con Colapinto buscando volver a sumar puntos después del puesto 13 en Malasia y el abandono en Singapur.",
-          "language": "es",
-          "publishedAt": "2026-10-25T01:26:21.000Z",
-          "addedAt": "2026-10-25T06:31:13.814Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-gran-premio-estados-unidos-formula-1-danos-aleron-id768564-html",
           "title": "Por qué Colapinto abandonó el Gran Premio de Estados Unidos: \"Se rompió mucho el auto\"",
@@ -1302,6 +1287,21 @@
           "language": "es",
           "publishedAt": "2026-10-25T18:09:44.000Z",
           "addedAt": "2026-10-25T18:56:46.890Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-un-periodista-ingles-invitado-por-alpine-al-gp-de-estados-unidos-se-burlo-de-colapinto-p",
+          "title": "Un periodista inglés invitado por Alpine al GP de Estados Unidos se burló de Colapinto: \"Penalizado por argentino\"",
+          "summary": "Jeremy Clarkson ironizó sobre la sanción de 10 puestos que recibió el piloto argentino y generó indignación en las redes sociales.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/un-periodista-ingles-invitado-por-alpine-al-gp-de-estados-unidos-se-burlo-de-colapinto-penalizado-por-argentino-id768495.html",
+          "image": "https://media.tycsports.com/files/2026/10/20/997816/franco-colapinto_1440x810.webp",
+          "body": "Jeremy Clarkson ironizó sobre la sanción de 10 puestos que recibió el piloto argentino y generó indignación en las redes sociales.\n\nEl comentario anti-argentina del periodista inglés + Seguinos en Franco Colapinto recibió una penalización de 10 posiciones para la carrera del Gran Premio de Estados Unidos de Fórmula 1 por un cambio en su motor eléctrico. La sanción fue motivo de burla para Jeremy Clarkson, quien realizó un comentario contra la Argentina durante una transmisión de Sky Sports.\n\n“Franco tiene una gran penalización por ser argentino, probablemente. Bueno, le daría una para eso”, expresó el periodista inglés, entre risas con su compañero. Sus palabras provocaron una fuerte reacción de los fanáticos argentinos en las redes sociales.\n\nLa presencia de Clarkson en el circuito de Austin tuvo, además, un detalle particular: el periodista había sido invitado por Alpine para el fin de semana de Fórmula 1 y hasta posó junto a Flavio Briatore en imágenes difundidas por la escudería francesa. El comentario sobre Colapinto generó críticas de seguidores argentinos, mientras que usuarios de otros países también participaron de las reacciones en redes sociales.\n\nEste domingo desde las 17.00 se llevará a cabo la carrera del GP de Estados Unidos , con Colapinto buscando volver a sumar puntos después del puesto 13 en Malasia y el abandono en Singapur.",
+          "language": "es",
+          "publishedAt": "2026-10-25T01:26:21.000Z",
+          "addedAt": "2026-10-25T06:31:13.814Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1336,21 +1336,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-como-quedo-la-grilla-definitiva-del-gp-de-estados-unidos-de-la-f1-id768491-html",
-          "title": "Cómo quedó la grilla definitiva del GP de Estados Unidos de la F1",
-          "summary": "Luego de la qualy quedaron definidas las posiciones de salida para la carrera de este domingo. Colapinto cerró 15° la clasifiación, pero largará penúltimo por una penalización.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/como-quedo-la-grilla-definitiva-del-gp-de-estados-unidos-de-la-f1-id768491.html",
-          "image": "https://media.tycsports.com/files/2026/10/24/999302/colapinto_1440x810.webp",
-          "body": "Luego de la qualy quedaron definidas las posiciones de salida para la carrera de este domingo. Colapinto cerró 15° la clasifiación, pero largará penúltimo por una penalización.\n\nColapinto durante la clasificación del Gran Premio de Estados Unidos (Chris Graythen/Getty Images) + Seguinos en Este sábado se llevó adelante la clasificación del Gran Premio de Estados Unidos de la Fórmula 1 que definió la grilla de salida para la carrera de este domingo. El italiano Kimi Antonelli (Mercedes) fue el más rápido en el Circuito de las Américas y se quedó con la pole, mientras que el argentino Franco Colapinto (Alpine) no pudo pasar a Q2 y llegó 15°, aunque tendrá que cumplir una penalización por los cambios realizados en la unidad de potencia y comenzará desde la última fila, por delante de Gabriel Bortoleto (Audi) .\n\nPor su parte, el neerlandés Max Verstappen y el francés Isack Hadjar (Red Bull) completaron el podio . A su vez, además de Colapinto, hubo otros dos penalizados: Arvid Lindblad, con cinco posiciones por reemplazar el motor de combustión interna, y Bortoleto sancionado con 80 posiciones por reemplazar la unidad de potencia completa.\n\nLa Fórmula 1 corrió por primera vez en el Circuito de las Américas (COTA) en 2012, en el Gran Premio de Estados Unidos, y como era de esperar, más del 100.000 espectadores llenaron el circuito y presenciaron el último triunfo de Lewis Hamilton con McLaren antes de su fichaje por Mercedes en 2013. Las curvas del COTA tienen similitudes con las de otras pistas: las 3 y 6 se parecen a la recta de alta velocidad de Silverstone o las curvas S de Suzuka, mientras que las 12 a 15 imitan la sección del estadio de Hockenheim. Por otro lado, la subida que desemboca en la ancha curva 1 siempre ofrece emocionantes adelantamientos.",
-          "language": "es",
-          "publishedAt": "2026-10-25T00:16:51.000Z",
-          "addedAt": "2026-10-25T01:26:40.594Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-en-vivo-la-carrera-de-colapinto-gp-de-estados-unidos-id767495-html",
           "title": "Colapinto abandonó en el GP de Estados Unidos de F1 y ganó Antonelli, quien quedó a un paso de ser campeón",
           "summary": "El piloto argentino sufrió un desprendimiento en su Alpine en un toque con Lindblad y se vio obligado a abandonar en la vuelta 37. En tanto, Antonelli levantará el título si logra un 9° puesto en México el próximo fin de semana.",
@@ -1381,32 +1366,32 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda",
-          "title": "Colapinto calificó de “rara” su clasificación en el GP de Austin y explicó qué le complicó la tanda",
-          "summary": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.",
+          "id": "www-tycsports-com-automovilismo-como-quedo-la-grilla-definitiva-del-gp-de-estados-unidos-de-la-f1-id768491-html",
+          "title": "Cómo quedó la grilla definitiva del GP de Estados Unidos de la F1",
+          "summary": "Luego de la qualy quedaron definidas las posiciones de salida para la carrera de este domingo. Colapinto cerró 15° la clasifiación, pero largará penúltimo por una penalización.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda-id768484.html",
-          "image": "https://media.tycsports.com/files/2026/10/22/998500/franco-colapinto-casco_1440x810.webp",
-          "body": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.\n\nFranco Colapinto estrenó un nuevo diseño de su casco en el Gran Premio de Estados Unidos de la Fórmula 1. + Seguinos en Franco Colapinto terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21 . Tras la sesión en el circuito de Austin, el argentino reconoció que Alpine no logró encontrar el rendimiento esperado y apuntó a las dificultades que tuvo con el auto.\n\n“Fue una clasificación rara. Nos estuvo costando toda la sesión” , resumió el piloto, que no consiguió sentirse cómodo con el monoplaza desde el inicio del fin de semana. Además, señaló que los sectores irregulares del trazado le generaron problemas cuando intentaba acelerar el ritmo.\n\n“Desde ayer que no encontramos el auto y cuando vamos rápido por los pianos y la parte más bacheada de la pista se complica un poco” , explicó Colapinto, que buscará revertir esas sensaciones en la carrera del domingo.\n\nPese a las dificultades, el argentino logró superar la Q1 y avanzar hasta la Q2, donde terminó en el 14° lugar. Sin embargo, la penalización lo relegará al fondo de la grilla y condicionará su estrategia para la competencia.",
+          "url": "https://www.tycsports.com/automovilismo/como-quedo-la-grilla-definitiva-del-gp-de-estados-unidos-de-la-f1-id768491.html",
+          "image": "https://media.tycsports.com/files/2026/10/24/999302/colapinto_1440x810.webp",
+          "body": "Luego de la qualy quedaron definidas las posiciones de salida para la carrera de este domingo. Colapinto cerró 15° la clasifiación, pero largará penúltimo por una penalización.\n\nColapinto durante la clasificación del Gran Premio de Estados Unidos (Chris Graythen/Getty Images) + Seguinos en Este sábado se llevó adelante la clasificación del Gran Premio de Estados Unidos de la Fórmula 1 que definió la grilla de salida para la carrera de este domingo. El italiano Kimi Antonelli (Mercedes) fue el más rápido en el Circuito de las Américas y se quedó con la pole, mientras que el argentino Franco Colapinto (Alpine) no pudo pasar a Q2 y llegó 15°, aunque tendrá que cumplir una penalización por los cambios realizados en la unidad de potencia y comenzará desde la última fila, por delante de Gabriel Bortoleto (Audi) .\n\nPor su parte, el neerlandés Max Verstappen y el francés Isack Hadjar (Red Bull) completaron el podio . A su vez, además de Colapinto, hubo otros dos penalizados: Arvid Lindblad, con cinco posiciones por reemplazar el motor de combustión interna, y Bortoleto sancionado con 80 posiciones por reemplazar la unidad de potencia completa.\n\nLa Fórmula 1 corrió por primera vez en el Circuito de las Américas (COTA) en 2012, en el Gran Premio de Estados Unidos, y como era de esperar, más del 100.000 espectadores llenaron el circuito y presenciaron el último triunfo de Lewis Hamilton con McLaren antes de su fichaje por Mercedes en 2013. Las curvas del COTA tienen similitudes con las de otras pistas: las 3 y 6 se parecen a la recta de alta velocidad de Silverstone o las curvas S de Suzuka, mientras que las 12 a 15 imitan la sección del estadio de Hockenheim. Por otro lado, la subida que desemboca en la ancha curva 1 siempre ofrece emocionantes adelantamientos.",
           "language": "es",
-          "publishedAt": "2026-10-24T23:45:17.000Z",
-          "addedAt": "2026-10-25T01:26:40.513Z",
+          "publishedAt": "2026-10-25T00:16:51.000Z",
+          "addedAt": "2026-10-25T01:26:40.594Z",
           "category": "argentino",
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-abandono-de-franco-colapinto-en-el-gp-de-estados-unidos",
-          "title": "Prematuro abandono de Colapinto en el GP de Estados Unidos",
-          "summary": "Una pieza dañada en el Alpine, tras un roce con el Racing Bulls de Lindblad, obligó al piloto argentino a dejar la carrera de F1 que ganó Antonelli con Mercedes quedando a dos puntos para coronarse campeón mundial.",
+          "id": "campeones-com-ar-la-reflexion-de-colapinto-tras-su-abandono-hay-que-cortar-esta-racha",
+          "title": "La reflexión de Colapinto tras su abandono: «Hay que cortar esta racha»",
+          "summary": "Al concluir el GP de Estados Unidos, el piloto argentino habló con los medios y señaló los inconvenientes que afrontó con el Alpine y que lo obligaron a desertar la carrera.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/abandono-de-franco-colapinto-en-el-gp-de-estados-unidos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-F1-Colapinto-Alpine.jpg",
+          "url": "https://campeones.com.ar/la-reflexion-de-colapinto-tras-su-abandono-hay-que-cortar-esta-racha/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-F1-Colapinto-Box-Alpine.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-25T21:12:02.000Z",
-          "addedAt": "2026-10-25T21:40:43.525Z",
+          "publishedAt": "2026-10-26T00:11:44.000Z",
+          "addedAt": "2026-10-26T01:46:12.449Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1441,6 +1426,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda",
+          "title": "Colapinto calificó de “rara” su clasificación en el GP de Austin y explicó qué le complicó la tanda",
+          "summary": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda-id768484.html",
+          "image": "https://media.tycsports.com/files/2026/10/22/998500/franco-colapinto-casco_1440x810.webp",
+          "body": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.\n\nFranco Colapinto estrenó un nuevo diseño de su casco en el Gran Premio de Estados Unidos de la Fórmula 1. + Seguinos en Franco Colapinto terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21 . Tras la sesión en el circuito de Austin, el argentino reconoció que Alpine no logró encontrar el rendimiento esperado y apuntó a las dificultades que tuvo con el auto.\n\n“Fue una clasificación rara. Nos estuvo costando toda la sesión” , resumió el piloto, que no consiguió sentirse cómodo con el monoplaza desde el inicio del fin de semana. Además, señaló que los sectores irregulares del trazado le generaron problemas cuando intentaba acelerar el ritmo.\n\n“Desde ayer que no encontramos el auto y cuando vamos rápido por los pianos y la parte más bacheada de la pista se complica un poco” , explicó Colapinto, que buscará revertir esas sensaciones en la carrera del domingo.\n\nPese a las dificultades, el argentino logró superar la Q1 y avanzar hasta la Q2, donde terminó en el 14° lugar. Sin embargo, la penalización lo relegará al fondo de la grilla y condicionará su estrategia para la competencia.",
+          "language": "es",
+          "publishedAt": "2026-10-24T23:45:17.000Z",
+          "addedAt": "2026-10-25T01:26:40.513Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-",
           "title": "Colapinto, entre la preocupación y la esperanza tras las prácticas libres en Austin: “Será muy difícil, pero...”",
           "summary": "El piloto argentino, que culminó 17&ordm; y 15&ordm; en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.",
@@ -1456,17 +1456,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-messi-balon-de-oro-id767832-html",
-          "title": "Colapinto eligió a Messi como su candidato para el Balón de Oro: “Sería muy lindo que lo vuelva a ganar”",
-          "summary": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-messi-balon-de-oro-id767832.html",
-          "image": "https://media.tycsports.com/files/2026/10/22/998438/franco_862x485.webp?v=1",
-          "body": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.\n\nFrance Football aclaró la polémica en torno al Balón de Oro de todos los tiempos, mientras CR7 aventaja a Messi 22/10/2026 09:33 pm Franco Colapinto eligió a Lionel Messi como su candidato a ganar el Balón de Oro. + Seguinos en Franco Colapinto tiene muy en claro a su favorito para quedarse con el Balón de Oro , que se entregará el próximo lunes en Londres. “Messi” , sentenció el piloto argentino de Alpine en diálogo con DAZN este jueves en el Media Day del Gran Premio de Estados Unidos de Fórmula 1.\n\n“Fue su último Mundial y la rompió. Metió muchísimos goles, ayudó a Argentina a llegar a la final y es un ídolo para todo el fútbol mundial. Creo que tuvo un gran año y se lo merece” , argumentó el pilarense sobre la performance del astro rosarino en este 2026.\n\nAdemás, el corredor de 23 años se deshizo en elogios con el mejor futbolista de todos los tiempos por la vigencia que mantiene a sus 39 años: “Con la edad que tiene, su disciplina; es un ejemplo para el mundo del deporte y, si no es el mejor, tuvo uno de los mejores años entre todos los futbolistas”.\n\nPor último, el #43 le dedicó un sentido mensaje a Leo, con quien se encontró en la previa del Gran Premio de Miami. “Ojalá gane él. Soy uno de sus mayores fanáticos y, con todas las alegrías que nos dio, sería muy lindo que lo vuelva a ganar”, sentenció.",
+          "id": "campeones-com-ar-abandono-de-franco-colapinto-en-el-gp-de-estados-unidos",
+          "title": "Prematuro abandono de Colapinto en el GP de Estados Unidos",
+          "summary": "Una pieza dañada en el Alpine, tras un roce con el Racing Bulls de Lindblad, obligó al piloto argentino a dejar la carrera de F1 que ganó Antonelli con Mercedes quedando a dos puntos para coronarse campeón mundial.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/abandono-de-franco-colapinto-en-el-gp-de-estados-unidos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-F1-Colapinto-Alpine.jpg",
+          "body": "",
           "language": "es",
-          "publishedAt": "2026-10-23T00:33:50.000Z",
-          "addedAt": "2026-10-22T19:59:10.767Z",
+          "publishedAt": "2026-10-25T21:12:02.000Z",
+          "addedAt": "2026-10-25T21:40:43.525Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1501,6 +1501,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-colapinto-messi-balon-de-oro-id767832-html",
+          "title": "Colapinto eligió a Messi como su candidato para el Balón de Oro: “Sería muy lindo que lo vuelva a ganar”",
+          "summary": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-messi-balon-de-oro-id767832.html",
+          "image": "https://media.tycsports.com/files/2026/10/22/998438/franco_862x485.webp?v=1",
+          "body": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.\n\nFrance Football aclaró la polémica en torno al Balón de Oro de todos los tiempos, mientras CR7 aventaja a Messi 22/10/2026 09:33 pm Franco Colapinto eligió a Lionel Messi como su candidato a ganar el Balón de Oro. + Seguinos en Franco Colapinto tiene muy en claro a su favorito para quedarse con el Balón de Oro , que se entregará el próximo lunes en Londres. “Messi” , sentenció el piloto argentino de Alpine en diálogo con DAZN este jueves en el Media Day del Gran Premio de Estados Unidos de Fórmula 1.\n\n“Fue su último Mundial y la rompió. Metió muchísimos goles, ayudó a Argentina a llegar a la final y es un ídolo para todo el fútbol mundial. Creo que tuvo un gran año y se lo merece” , argumentó el pilarense sobre la performance del astro rosarino en este 2026.\n\nAdemás, el corredor de 23 años se deshizo en elogios con el mejor futbolista de todos los tiempos por la vigencia que mantiene a sus 39 años: “Con la edad que tiene, su disciplina; es un ejemplo para el mundo del deporte y, si no es el mejor, tuvo uno de los mejores años entre todos los futbolistas”.\n\nPor último, el #43 le dedicó un sentido mensaje a Leo, con quien se encontró en la previa del Gran Premio de Miami. “Ojalá gane él. Soy uno de sus mayores fanáticos y, con todas las alegrías que nos dio, sería muy lindo que lo vuelva a ganar”, sentenció.",
+          "language": "es",
+          "publishedAt": "2026-10-23T00:33:50.000Z",
+          "addedAt": "2026-10-22T19:59:10.767Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-el-nuevo-casco-que-presento-colapinto-con-los-colores-de-boca-id767936-html",
           "title": "Con \"un poco de Boca\", el nuevo casco que presentó Colapinto",
           "summary": "De cara al inicio de las actividades en el Gran Premio de Estados Unidos de la Fórmula 1, el piloto argentino dio a conocer un nuevo diseño en el cual se destaca el predominio del blanco acompañado por detalles en azul y amarillo.",
@@ -1514,7 +1529,13 @@
           "addedAt": "2026-10-22T23:15:42.889Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-26T01:46:18.205Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-entrada-triunfal-en-moto-paddock-gp-estados-unidos-id767807-html",
           "title": "“Franco trayendo aura”: la entrada triunfal de Colapinto al Gran Premio de Estados Unidos",
@@ -1529,13 +1550,7 @@
           "addedAt": "2026-10-22T19:59:10.962Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-25T23:35:07.905Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id",
           "title": "\"Mucho trabajo por hacer\": Colapinto apunta a la recuperación de Alpine en Austin",
@@ -1672,21 +1687,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina",
-          "title": "La desafortunada -y repudiada- expresión de un invitado de Alpine sobre Colapinto y Argentina",
-          "summary": "Jeremy Clarkson, \"amigo\" y vecino del equipo de Enstone, dejó una frase despectiva sobre el pilarense y su nacionalidad durante una entrevista en los boxes de Austin.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-F1-Clarkson-Briatore.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-25T11:49:05.000Z",
-          "addedAt": "2026-10-25T16:02:51.741Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "carburando-com-ar-blog-colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
           "title": "Colapinto no es el único: dos pilotos más suman sanciones en la parrilla de Austin",
           "summary": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico…",
@@ -1762,6 +1762,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina",
+          "title": "La desafortunada -y repudiada- expresión de un invitado de Alpine sobre Colapinto y Argentina",
+          "summary": "Jeremy Clarkson, \"amigo\" y vecino del equipo de Enstone, dejó una frase despectiva sobre el pilarense y su nacionalidad durante una entrevista en los boxes de Austin.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-F1-Clarkson-Briatore.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-25T11:49:05.000Z",
+          "addedAt": "2026-10-25T16:02:51.741Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
           "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
           "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
@@ -1790,27 +1805,12 @@
           "addedAt": "2026-10-23T17:19:44.582Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-colapinto-no-cree-que-el-ingreso-de-ruanda-a-la-f1-complique-la-posibilidad-de-argentina",
-          "title": "Colapinto no cree que el ingreso de Ruanda a la F1 complique la posibilidad de Argentina",
-          "summary": "Celebró la llegada de África como sede de la Fórmula 1 pero consideró que \"Argentina tiene las mismas probabilidades que antes\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-no-cree-que-el-ingreso-de-ruanda-a-la-f1-complique-la-posibilidad-de-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/REUTERS-Colapinto-Monumento.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-23T14:44:29.000Z",
-          "addedAt": "2026-10-23T17:19:42.344Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-25T23:35:07.905Z",
+      "createdAt": "2026-10-26T01:46:18.205Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-mexico-id768545-html",
@@ -2086,7 +2086,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-25T23:35:07.905Z",
+      "createdAt": "2026-10-26T01:46:18.205Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -2177,6 +2177,36 @@
           "addedAt": "2026-10-18T07:11:27.463Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-no-cree-que-el-ingreso-de-ruanda-a-la-f1-complique-la-posibilidad-de-argentina",
+          "title": "Colapinto no cree que el ingreso de Ruanda a la F1 complique la posibilidad de Argentina",
+          "summary": "Celebró la llegada de África como sede de la Fórmula 1 pero consideró que \"Argentina tiene las mismas probabilidades que antes\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-no-cree-que-el-ingreso-de-ruanda-a-la-f1-complique-la-posibilidad-de-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/REUTERS-Colapinto-Monumento.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-23T14:44:29.000Z",
+          "addedAt": "2026-10-23T17:19:42.344Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-f2-argentina-franco-ledesma-vencio-en-rosario-y-no-se-baja-de-la-pelea",
+          "title": "F2 Argentina: Franco Ledesma venció en Rosario y no se baja de la pelea",
+          "summary": "El marplatense del Gabriel Werner Competición cerró un fin de semana ideal con una contundente victoria de punta a punta en la Final de la 11ª y anteúltima fecha del campeonato 2026 y buscará la hazaña en La Plata, donde dirimirá el título con Lautaro Videla (Mauro Martínez Competición), quien llegó 5º en el en el “Juan Manuel Fangio” santafesino.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f2-argentina-franco-ledesma-vencio-en-rosario-y-no-se-baja-de-la-pelea/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Ledesma-F2Arg-2026-2.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-25T15:33:06.000Z",
+          "addedAt": "2026-10-25T16:02:51.295Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-cierre-con-sabor-a-poco-de-tiago-pernia-en-la-temporada-de-tcr-europeo",
@@ -2327,7 +2357,13 @@
           "addedAt": "2026-10-24T18:44:36.091Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-26T01:46:18.205Z",
+      "items": [
         {
           "id": "campeones-com-ar-mattia-colnaghi-ingresa-al-equipo-campeon-de-la-formula-3",
           "title": "Mattia Colnaghi ingresa al equipo campeón de la Fórmula 3",
@@ -2357,13 +2393,7 @@
           "addedAt": "2026-10-19T13:11:27.029Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-25T23:35:07.905Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-colapinto-clasifico-14-y-largara-penultimo-en-el-gp-de-estados-unidos-de-formula-1",
           "title": "Colapinto clasificó 14.° y largará penúltimo en el GP de Estados Unidos de Fórmula 1",
@@ -2601,36 +2631,6 @@
           "language": "es",
           "publishedAt": "2026-10-16T11:04:21.000Z",
           "addedAt": "2026-10-18T14:11:35.077Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1",
-          "title": "EXCLUSIVO: Agustín Canapino y su modo de disfrutar con Franco Colapinto en la F1",
-          "summary": "Canapino es un fanático de toda expresión de la velocidad y ve a Colapinto \"muy asentado, firme, andando rápido y está consiguiendo puntos\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/exclusivo-fuerte-apoyo-de-canapino-y-su-modo-de-disfrutar-a-franco-colapinto-en-la-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-y-Colapinto-imagen.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-13T13:48:02.000Z",
-          "addedAt": "2026-10-18T07:11:27.447Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-bautista-panetta-trabajando-para-mejorar-en-viterbo",
-          "title": "Bautista Panetta, trabajando para mejorar en Viterbo | Campeones",
-          "summary": "Se disputan las IAME World Finals en el circuito italiano y el joven de 14 años cerró un día con dos intensas mangas, junto al equipo Kidix.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/bautista-panetta-trabajando-para-mejorar-en-viterbo/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-21-134153.png",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-22T15:13:01.000Z",
-          "addedAt": "2026-10-22T16:03:12.821Z",
           "category": "argentino",
           "tag": "Argentino"
         }
