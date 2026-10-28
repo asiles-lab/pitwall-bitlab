@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-28T02:28:34.236Z",
-  "checkedAt": "2026-10-28T02:28:34.236Z",
+  "updatedAt": "2026-10-28T08:52:45.714Z",
+  "checkedAt": "2026-10-28T08:52:45.714Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,51 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "www-tycsports-com-automovilismo-era-lider-de-la-f1-un-accidente-le-destrozo-las-piernas-y-perdio-el-titulo-la-historia-d",
-      "title": "Era líder de la F1, un accidente le destrozó las piernas y perdió el título: la historia de Didier Pironi",
-      "summary": "El francés llegó a Hockenheim 1982 como líder de la Máxima, pero un choque contra el Renault de Prost en una práctica con lluvia lo dejó con graves lesiones en su tren inferior. Terminó subcampeón sin correr las últimas cinco carreras. Cinco años después murió en una carrera de lanchas.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/era-lider-de-la-f1-un-accidente-le-destrozo-las-piernas-y-perdio-el-titulo-la-historia-de-didier-pironi-id768618.html",
-      "image": "https://media.tycsports.com/files/2026/10/26/999800/didier-pironi_1440x810.webp",
-      "body": "El francés llegó a Hockenheim 1982 como líder de la Máxima, pero un choque contra el Renault de Prost en una práctica con lluvia lo dejó con graves lesiones en su tren inferior. Terminó subcampeón sin correr las últimas cinco carreras. Cinco años después murió en una carrera de lanchas.\n\nDidier Pironi + Seguinos en El 7 de agosto de 1982, Didier Pironi salió a la pista de Hockenheim bajo una lluvia intensa como líder del campeonato del mundo de Fórmula 1. Con la cortina de agua no vio el Renault de Alain Prost, su Ferrari pasó por encima y voló contra los árboles . Los médicos tardaron casi una hora en sacarlo del auto y lucharon para salvarle las piernas. Nunca volvió a correr en la F1. Aun así, sin disputar las últimas cinco carreras de la temporada, terminó el año subcampeón, apenas cinco puntos detrás de Keke Rosberg.\n\nEn 1978 debutó en la Fórmula 1 con Tyrrell y ese mismo año ganó las 24 Horas de Le Mans con Renault, junto a Jean-Pierre Jaussaud. En 1980, con Ligier, consiguió su primera victoria en la F1, en el Gran Premio de Bélgica. Ese rendimiento lo llevó a Ferrari, donde desde 1981 compartió equipo con Gilles Villeneuve.\n\nEn el Gran Premio de San Marino de 1982, en Imola, los dos Ferrari dominaban la carrera y el equipo les pidió bajar el ritmo. Pironi pasó a Villeneuve en las últimas vueltas, ganó la carrera y el canadiense se sintió traicionado. Nunca más se volvieron a hablar. Trece días después, Villeneuve murió en un accidente en la clasificación del Gran Premio de Bélgica, en Zolder.\n\nPironi siguió sumando puntos y se convirtió en el líder del Mundial. Ganó el Gran Premio de Holanda en Zandvoort, fue segundo en Gran Bretaña y tercero en Francia. Llegó a Alemania como el gran candidato al título.",
-      "language": "es",
-      "publishedAt": "2026-10-27T10:14:00.000Z",
-      "addedAt": "2026-10-27T14:45:19.647Z",
-      "category": "general",
-      "tag": "Clima"
-    },
-    {
-      "id": "campeones-com-ar-la-formula-1-esta-enferma-de-reglas",
-      "title": "¿La Fórmula 1 está \"enferma de reglas\"?",
-      "summary": "En diálogo con \"Fórmula 1\" (lunes a las 17 hs. con la conducción de \"Lonchi\" Legnani), Fernando Tornello analizó las diversas reglamentaciones que condicionan las carreras de la \"Máxima\".",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/la-formula-1-esta-enferma-de-reglas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-AUSTIN-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-27T15:59:51.000Z",
-      "addedAt": "2026-10-27T19:41:09.468Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
-    {
-      "id": "campeones-com-ar-santino-panetta-repitio-top-10-y-podio-rookie-en-hungria",
-      "title": "Santino Panetta repitió \"top\" 10 y podio \"Rookie\" en Hungría | Campeones",
-      "summary": "Con el equipo Hitech, se ubicó 7.° en la segunda carrera y cerró un gran fin de semana tras ser 5.° en la competencia sabatina.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/santino-panetta-repitio-top-10-y-podio-rookie-en-hungria/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SaveClip.App_864889932_18067553276665390_1955408917409596296_n-e1792929252614.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-25T14:12:44.000Z",
-      "addedAt": "2026-10-25T16:02:51.300Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-julian-santero-ante-una-posibilidad-inedita-en-la-historia-del-tc",
       "title": "Julián Santero, ante una posibilidad inédita en la historia del TC",
@@ -158,6 +113,21 @@
       "addedAt": "2026-10-27T14:45:28.421Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-la-formula-1-esta-enferma-de-reglas",
+      "title": "¿La Fórmula 1 está \"enferma de reglas\"?",
+      "summary": "En diálogo con \"Fórmula 1\" (lunes a las 17 hs. con la conducción de \"Lonchi\" Legnani), Fernando Tornello analizó las diversas reglamentaciones que condicionan las carreras de la \"Máxima\".",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/la-formula-1-esta-enferma-de-reglas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-AUSTIN-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-27T15:59:51.000Z",
+      "addedAt": "2026-10-27T19:41:09.468Z",
+      "category": "general",
+      "tag": "Carrera"
     },
     {
       "id": "campeones-com-ar-turismo-carretera-2000-hacia-rafaela-con-confianza",
@@ -235,21 +205,6 @@
       "tag": "Carrera"
     },
     {
-      "id": "campeones-com-ar-marcelo-agrelo-anuncio-no-completara-la-temporada-de-tc",
-      "title": "Agrelo anunció que no completará la temporada de TC",
-      "summary": "El piloto chubutense se desvinculó de Trotta Racing y replanteará su futuro en la categoría, de cara a 2027.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/marcelo-agrelo-anuncio-no-completara-la-temporada-de-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/04/TC-Trotta-Agrelo.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-27T14:47:26.000Z",
-      "addedAt": "2026-10-27T19:41:09.846Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-santero-la-exagerada-maniobra-de-fritzler-y-no-opino-mas-de-werner",
       "title": "Santero, la \"exagerada\" maniobra de Fritzler y \"no opino más de Werner\" | Campeones",
       "summary": "El mendocino se va puntero de la Copa de Oro de Rosario, donde arribó 4.° con el BMW y dejó definiciones sobre algunas maniobras con rivales directos en el campeonato.",
@@ -308,36 +263,6 @@
       "addedAt": "2026-10-25T16:02:50.779Z",
       "category": "argentino",
       "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-el-mal-tiempo-impidio-que-motogp-corriera-su-ultima-prueba-en-phillip-island",
-      "title": "El mal tiempo impidió que MotoGP corriera su última prueba en Phillip Island",
-      "summary": "La pista que albergó el Gran Premio de Australia desde 1989 no tuvo su esperada despedida del campeonato mundial al quedar limitada la visibilidad y restringido el vuelo del helicóptero médico.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-mal-tiempo-impidio-que-motogp-corriera-su-ultima-prueba-en-phillip-island/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-MotoGP-Phillip-Island-cancelado.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-25T05:41:22.000Z",
-      "addedAt": "2026-10-25T06:31:16.404Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tcr-wt-en-zhejiang-comte-gana-la-loteria-de-neumaticos-en-la-carrera-2",
-      "title": "TCR WT en Zhejiang: Comte gana la lotería de neumáticos en la carrera 2",
-      "summary": "El francés venció sobre su Cupra tras inclinarse por cuatro gomas ancorizadas. Lo escoltaron Michelisz y Björk. El líder del torneo, Azcona, optó por un juego mixto y cayó a la 14ª ubicación.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-wt-en-zhejiang-comte-gana-la-loteria-de-neumaticos-en-la-carrera-2/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/comte-auto-zhejiang.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-25T04:50:48.000Z",
-      "addedAt": "2026-10-25T12:02:46.491Z",
-      "category": "general",
-      "tag": "Carrera"
     },
     {
       "id": "campeones-com-ar-bautista-panetta-dijo-presente-en-la-final-de-la-s125-senior-en-viterbo",
@@ -413,6 +338,51 @@
       "addedAt": "2026-10-25T12:02:43.168Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-marcelo-agrelo-anuncio-no-completara-la-temporada-de-tc",
+      "title": "Agrelo anunció que no completará la temporada de TC",
+      "summary": "El piloto chubutense se desvinculó de Trotta Racing y replanteará su futuro en la categoría, de cara a 2027.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/marcelo-agrelo-anuncio-no-completara-la-temporada-de-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/04/TC-Trotta-Agrelo.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-27T14:47:26.000Z",
+      "addedAt": "2026-10-27T19:41:09.846Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-el-mal-tiempo-impidio-que-motogp-corriera-su-ultima-prueba-en-phillip-island",
+      "title": "El mal tiempo impidió que MotoGP corriera su última prueba en Phillip Island",
+      "summary": "La pista que albergó el Gran Premio de Australia desde 1989 no tuvo su esperada despedida del campeonato mundial al quedar limitada la visibilidad y restringido el vuelo del helicóptero médico.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/el-mal-tiempo-impidio-que-motogp-corriera-su-ultima-prueba-en-phillip-island/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-MotoGP-Phillip-Island-cancelado.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-25T05:41:22.000Z",
+      "addedAt": "2026-10-25T06:31:16.404Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tcr-wt-en-zhejiang-comte-gana-la-loteria-de-neumaticos-en-la-carrera-2",
+      "title": "TCR WT en Zhejiang: Comte gana la lotería de neumáticos en la carrera 2",
+      "summary": "El francés venció sobre su Cupra tras inclinarse por cuatro gomas ancorizadas. Lo escoltaron Michelisz y Björk. El líder del torneo, Azcona, optó por un juego mixto y cayó a la 14ª ubicación.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-wt-en-zhejiang-comte-gana-la-loteria-de-neumaticos-en-la-carrera-2/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/comte-auto-zhejiang.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-25T04:50:48.000Z",
+      "addedAt": "2026-10-25T12:02:46.491Z",
+      "category": "general",
+      "tag": "Carrera"
     },
     {
       "id": "campeones-com-ar-perdio-el-campeonato-jorge-martin-no-correra-en-la-competencia-dominical-de-motogp",
@@ -1393,7 +1363,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-28T02:28:42.783Z",
+      "createdAt": "2026-10-28T08:52:57.626Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-un-periodista-ingles-invitado-por-alpine-al-gp-de-estados-unidos-se-burlo-de-colapinto-p",
@@ -1437,21 +1407,6 @@
           "language": "es",
           "publishedAt": "2026-10-24T19:14:36.000Z",
           "addedAt": "2026-10-22T11:40:44.409Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-alpine-formula-1-gp-de-mexico-id768857-html",
-          "title": "Colapinto no estará en la FP1 de México y Alpine ya confirmó a su reemplazante",
-          "summary": "La escudería francesa le cederá el monoplaza del argentino a la joven promesa italiana durante el ensayo inicial del viernes, en cumplimiento de una exigencia reglamentaria.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-alpine-formula-1-gp-de-mexico-id768857.html",
-          "image": "https://media.tycsports.com/files/2026/10/20/997816/franco-colapinto_1440x810.webp",
-          "body": "La escudería francesa le cederá el monoplaza del argentino a la joven promesa italiana durante el ensayo inicial del viernes, en cumplimiento de una exigencia reglamentaria.\n\nFranco Colapinto, piloto de Alpine en la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en El piloto argentino Franco Colapinto deberá esperar este fin de semana para tener acción en el Gran Premio de México de la Fórmula 1 porque no estará presente en la primera práctica libre , según confirmó la escudería Alpine, ya que su reemplazante será el italaiano Gabriele Minì.\n\nLa joven promesa manejará el A526 durante el primer entrenamiento del viernes en el Autódromo Hermanos Rodríguez, en una decisión vinculada con el reglamento de la categoría. Ante esto, el bonaerense reaparecería recién en la FP2. El cambio, anunciado este martes por la escudería francesa, forma parte de las sesiones obligatorias que los equipos deben destinar a pilotos debutantes. De esta manera, el italiano tendrá su estreno oficial en un fin de semana de la máxima categoría.\n\nEl joven de 21 años integra la Academia Alpine desde 2023 y actualmente ocupa el cuarto puesto en el campeonato de Fórmula 2, donde acumula dos triunfos y otros siete podios. Aunque todavía no participó de una práctica libre de F1, ya tuvo contacto con estos vehículos mediante ensayos privados al volante del A525 de la temporada anterior.\n\nTras conocerse la noticia, Minì manifestó su entusiasmo por la posibilidad de dar otro paso en su carrera. \" Tengo muchas ganas de subirme al A526 y participar en mi primera práctica libre de Fórmula 1. Después de formar parte de la Academia Alpine durante varios años y progresar por las categorías formativas, competir en una sesión oficial de Fórmula 1 será un momento realmente especial para mí\" , aseguró en declaracion",
-          "language": "es",
-          "publishedAt": "2026-10-27T17:29:12.000Z",
-          "addedAt": "2026-10-27T19:41:07.175Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1527,6 +1482,21 @@
           "language": "es",
           "publishedAt": "2026-10-23T21:52:40.000Z",
           "addedAt": "2026-10-23T23:32:59.910Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-alpine-formula-1-gp-de-mexico-id768857-html",
+          "title": "Colapinto no estará en la FP1 de México y Alpine ya confirmó a su reemplazante",
+          "summary": "La escudería francesa le cederá el monoplaza del argentino a la joven promesa italiana durante el ensayo inicial del viernes, en cumplimiento de una exigencia reglamentaria.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-alpine-formula-1-gp-de-mexico-id768857.html",
+          "image": "https://media.tycsports.com/files/2026/10/20/997816/franco-colapinto_1440x810.webp",
+          "body": "La escudería francesa le cederá el monoplaza del argentino a la joven promesa italiana durante el ensayo inicial del viernes, en cumplimiento de una exigencia reglamentaria.\n\nFranco Colapinto, piloto de Alpine en la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en El piloto argentino Franco Colapinto deberá esperar este fin de semana para tener acción en el Gran Premio de México de la Fórmula 1 porque no estará presente en la primera práctica libre , según confirmó la escudería Alpine, ya que su reemplazante será el italaiano Gabriele Minì.\n\nLa joven promesa manejará el A526 durante el primer entrenamiento del viernes en el Autódromo Hermanos Rodríguez, en una decisión vinculada con el reglamento de la categoría. Ante esto, el bonaerense reaparecería recién en la FP2. El cambio, anunciado este martes por la escudería francesa, forma parte de las sesiones obligatorias que los equipos deben destinar a pilotos debutantes. De esta manera, el italiano tendrá su estreno oficial en un fin de semana de la máxima categoría.\n\nEl joven de 21 años integra la Academia Alpine desde 2023 y actualmente ocupa el cuarto puesto en el campeonato de Fórmula 2, donde acumula dos triunfos y otros siete podios. Aunque todavía no participó de una práctica libre de F1, ya tuvo contacto con estos vehículos mediante ensayos privados al volante del A525 de la temporada anterior.\n\nTras conocerse la noticia, Minì manifestó su entusiasmo por la posibilidad de dar otro paso en su carrera. \" Tengo muchas ganas de subirme al A526 y participar en mi primera práctica libre de Fórmula 1. Después de formar parte de la Academia Alpine durante varios años y progresar por las categorías formativas, competir en una sesión oficial de Fórmula 1 será un momento realmente especial para mí\" , aseguró en declaracion",
+          "language": "es",
+          "publishedAt": "2026-10-27T17:29:12.000Z",
+          "addedAt": "2026-10-27T19:41:07.175Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1636,21 +1606,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-decision-de-alpine-que-afecta-a-colapinto-en-la-recta-final-de-la-f1-id768833-html",
-          "title": "La decisión de Alpine que afecta a Colapinto en la recta final de la F1",
-          "summary": "La escudería francesa no podrá hacer más actualizaciones en sus monoplazas por estar cerca del techo presupuestario, según reveló Pierre Gasly.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-decision-de-alpine-que-afecta-a-colapinto-en-la-recta-final-de-la-f1-id768833.html",
-          "image": "https://media.tycsports.com/files/2026/01/05/913226/asi-suena-el-nuevo-alpine-de-colapinto-el-a526-ya-esta-en-marcha_862x485.webp",
-          "body": "La escudería francesa no podrá hacer más actualizaciones en sus monoplazas por estar cerca del techo presupuestario, según reveló Pierre Gasly.\n\nAlpine no hará más actualizaciones de sus monoplazas + Seguinos en En Alpine decidieron que no harán nuevas actualizaciones a los monoplazas de la escudería por \"estar prácticamente en el límite del techo presupuestario\" , según reveló Pierre Gasly . Es decir, que el equipo alcanzó el límite de recursos disponible para la campaña y tendrá que sacarle el mejor rendimiento al paquete actual.\n\nEn diálogo con Motorsport, Gasly deslizó entre risas: “Si yo fuera el director financiero, pueden estar seguros de que llevaría todas las mejoras que pudiera hasta el final del año”.\n\nY sobre la situación interna de la escudería, reveló: \"Creo que estamos prácticamente en el límite de nuestro techo presupuestario. Desde el punto de vista estratégico, no tenemos nada en preparación. Este es el auto que tendremos hasta el final del año”.\n\nPor lo tanto, la decisión que tomó la escudería corresponde a la cercanía al techo presupuestario y a una medida estratégica.",
-          "language": "es",
-          "publishedAt": "2026-10-27T15:48:56.000Z",
-          "addedAt": "2026-10-27T19:41:07.219Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-norberto-fontana-argentino-quedo-en-medio-definicion-mas-polemica-f1-schumacher-villeneu",
           "title": "El argentino que quedó en medio de la definición más polémica de la F1",
           "summary": "En su cuarta y última carrera en la Fórmula 1, el piloto de Arrecifes demoró a Jacques Villeneuve mientras peleaba el título con Michael Schumacher. Años después contó que Jean Todt había dado la orden en el motorhome de Sauber.",
@@ -1664,13 +1619,7 @@
           "addedAt": "2026-10-21T15:26:34.061Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-28T02:28:42.783Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-nos-enfocamos-en-la-carrera-ratifico-franco-colapinto-en-texas",
           "title": "«Nos enfocamos en la carrera», ratificó Franco Colapinto en Texas",
@@ -1685,7 +1634,13 @@
           "addedAt": "2026-10-23T23:33:02.048Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-28T08:52:57.626Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-arvid-lindblad-franco-colapinto-acusacion-alpine-formula-1-gp-de-estados-unidos-id768644",
           "title": "La fuerte acusación de un piloto de F1 contra Alpine que involcura a Colapinto",
@@ -1747,17 +1702,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-franco-colapinto-no-estara-girando-en-la-primera-practica-de-f1-del-gp-de-mexico",
-          "title": "Franco Colapinto no estará girando en la primera práctica de F1 del GP de México",
-          "summary": "El auto del piloto argentino será conducido por el italiano Gabriele Minì en la sesión que abrirá las actividades el viernes.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/franco-colapinto-no-estara-girando-en-la-primera-practica-de-f1-del-gp-de-mexico/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-F1-Colapinto.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-la-decision-de-alpine-que-afecta-a-colapinto-en-la-recta-final-de-la-f1-id768833-html",
+          "title": "La decisión de Alpine que afecta a Colapinto en la recta final de la F1",
+          "summary": "La escudería francesa no podrá hacer más actualizaciones en sus monoplazas por estar cerca del techo presupuestario, según reveló Pierre Gasly.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-decision-de-alpine-que-afecta-a-colapinto-en-la-recta-final-de-la-f1-id768833.html",
+          "image": "https://media.tycsports.com/files/2026/01/05/913226/asi-suena-el-nuevo-alpine-de-colapinto-el-a526-ya-esta-en-marcha_862x485.webp",
+          "body": "La escudería francesa no podrá hacer más actualizaciones en sus monoplazas por estar cerca del techo presupuestario, según reveló Pierre Gasly.\n\nAlpine no hará más actualizaciones de sus monoplazas + Seguinos en En Alpine decidieron que no harán nuevas actualizaciones a los monoplazas de la escudería por \"estar prácticamente en el límite del techo presupuestario\" , según reveló Pierre Gasly . Es decir, que el equipo alcanzó el límite de recursos disponible para la campaña y tendrá que sacarle el mejor rendimiento al paquete actual.\n\nEn diálogo con Motorsport, Gasly deslizó entre risas: “Si yo fuera el director financiero, pueden estar seguros de que llevaría todas las mejoras que pudiera hasta el final del año”.\n\nY sobre la situación interna de la escudería, reveló: \"Creo que estamos prácticamente en el límite de nuestro techo presupuestario. Desde el punto de vista estratégico, no tenemos nada en preparación. Este es el auto que tendremos hasta el final del año”.\n\nPor lo tanto, la decisión que tomó la escudería corresponde a la cercanía al techo presupuestario y a una medida estratégica.",
           "language": "es",
-          "publishedAt": "2026-10-27T16:24:51.000Z",
-          "addedAt": "2026-10-27T19:41:09.515Z",
+          "publishedAt": "2026-10-27T15:48:56.000Z",
+          "addedAt": "2026-10-27T19:41:07.219Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1882,6 +1837,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-franco-colapinto-no-estara-girando-en-la-primera-practica-de-f1-del-gp-de-mexico",
+          "title": "Franco Colapinto no estará girando en la primera práctica de F1 del GP de México",
+          "summary": "El auto del piloto argentino será conducido por el italiano Gabriele Minì en la sesión que abrirá las actividades el viernes.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/franco-colapinto-no-estara-girando-en-la-primera-practica-de-f1-del-gp-de-mexico/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-F1-Colapinto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-27T16:24:51.000Z",
+          "addedAt": "2026-10-27T19:41:09.515Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-colapinto-quedo-15-en-la-segunda-practica-de-f1-que-se-cumplio-en-austin",
           "title": "Colapinto quedó 15.° en la segunda práctica de F1 que se cumplió en Austin",
           "summary": "El argentino se enfocó en evaluar el ritmo de carrera del Alpine con los neumáticos duros como lo hizo en la tanda anterior su compañero Gasly. Ferrari cerró el día otra vez con Leclerc liderando.",
@@ -1945,7 +1915,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-28T02:28:42.783Z",
+      "createdAt": "2026-10-28T08:52:57.626Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-chicana-de-mercedes-al-resto-de-la-formula-1-por-antonelli-decian-que-ni-siquiera-deb",
@@ -1991,6 +1961,21 @@
           "addedAt": "2026-10-25T23:34:59.885Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-era-lider-de-la-f1-un-accidente-le-destrozo-las-piernas-y-perdio-el-titulo-la-historia-d",
+          "title": "Era líder de la F1, un accidente le destrozó las piernas y perdió el título: la historia de Didier Pironi",
+          "summary": "El francés llegó a Hockenheim 1982 como líder de la Máxima, pero un choque contra el Renault de Prost en una práctica con lluvia lo dejó con graves lesiones en su tren inferior. Terminó subcampeón sin correr las últimas cinco carreras. Cinco años después murió en una carrera de lanchas.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/era-lider-de-la-f1-un-accidente-le-destrozo-las-piernas-y-perdio-el-titulo-la-historia-de-didier-pironi-id768618.html",
+          "image": "https://media.tycsports.com/files/2026/10/26/999800/didier-pironi_1440x810.webp",
+          "body": "El francés llegó a Hockenheim 1982 como líder de la Máxima, pero un choque contra el Renault de Prost en una práctica con lluvia lo dejó con graves lesiones en su tren inferior. Terminó subcampeón sin correr las últimas cinco carreras. Cinco años después murió en una carrera de lanchas.\n\nDidier Pironi + Seguinos en El 7 de agosto de 1982, Didier Pironi salió a la pista de Hockenheim bajo una lluvia intensa como líder del campeonato del mundo de Fórmula 1. Con la cortina de agua no vio el Renault de Alain Prost, su Ferrari pasó por encima y voló contra los árboles . Los médicos tardaron casi una hora en sacarlo del auto y lucharon para salvarle las piernas. Nunca volvió a correr en la F1. Aun así, sin disputar las últimas cinco carreras de la temporada, terminó el año subcampeón, apenas cinco puntos detrás de Keke Rosberg.\n\nEn 1978 debutó en la Fórmula 1 con Tyrrell y ese mismo año ganó las 24 Horas de Le Mans con Renault, junto a Jean-Pierre Jaussaud. En 1980, con Ligier, consiguió su primera victoria en la F1, en el Gran Premio de Bélgica. Ese rendimiento lo llevó a Ferrari, donde desde 1981 compartió equipo con Gilles Villeneuve.\n\nEn el Gran Premio de San Marino de 1982, en Imola, los dos Ferrari dominaban la carrera y el equipo les pidió bajar el ritmo. Pironi pasó a Villeneuve en las últimas vueltas, ganó la carrera y el canadiense se sintió traicionado. Nunca más se volvieron a hablar. Trece días después, Villeneuve murió en un accidente en la clasificación del Gran Premio de Bélgica, en Zolder.\n\nPironi siguió sumando puntos y se convirtió en el líder del Mundial. Ganó el Gran Premio de Holanda en Zandvoort, fue segundo en Gran Bretaña y tercero en Francia. Llegó a Alemania como el gran candidato al título.",
+          "language": "es",
+          "publishedAt": "2026-10-27T10:14:00.000Z",
+          "addedAt": "2026-10-27T14:45:19.647Z",
+          "category": "general",
+          "tag": "Clima"
         },
         {
           "id": "www-tycsports-com-automovilismo-la-confesion-de-russell-sobre-su-fallida-lucha-con-antonelli-por-ser-campeon-de-la-f1-mi",
@@ -2201,7 +2186,13 @@
           "addedAt": "2026-10-18T07:11:28.079Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-28T08:52:57.626Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -2216,13 +2207,7 @@
           "addedAt": "2026-10-18T07:11:28.259Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-28T02:28:42.783Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-era-una-promesa-de-la-f1-un-helicoptero-le-corto-el-brazo-y-termino-en-la-quiebra-id7671",
           "title": "Era una promesa de la F1, un helicóptero le cortó el brazo y terminó en la quiebra",
@@ -2295,21 +2280,6 @@
           "language": "es",
           "publishedAt": "2026-10-21T19:20:45.000Z",
           "addedAt": "2026-10-21T19:27:18.258Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-christian-horner-revelo-como-red-bull-favorecio-a-max-verstappen-sobre-checo-perez-en-la",
-          "title": "Horner reveló cómo Red Bull favoreció a Verstappen sobre Checo Pérez",
-          "summary": "El exjefe de la escudería austríaca reconoció que las presiones del entorno del neerlandés provocaron cambios técnicos en el monoplaza durante 2022, cuando su compañero mexicano también peleaba por el campeonato.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/christian-horner-revelo-como-red-bull-favorecio-a-max-verstappen-sobre-checo-perez-en-la-formula-1-fue-muy-claro-el-mensaje-id767389.html",
-          "image": "https://media.tycsports.com/files/2026/10/20/997779/horner-verstappen-perez_1440x810.webp?v=1",
-          "body": "El exjefe de la escudería austríaca reconoció que las presiones del entorno del neerlandés provocaron cambios técnicos en el monoplaza durante 2022, cuando su compañero mexicano también peleaba por el campeonato.\n\nChristian Horner, junto Max Verstappen y Checo Pérez. (Mark Thompson/Getty Images) + Seguinos en La interna de Red Bull durante la temporada 2022 de la Fórmula 1 sumó un capítulo inesperado . Christian Horner reconoció que el equipo modificó el desarrollo del monoplaza para favorecer a Max Verstappen, luego de recibir un reclamo de su entorno cuando Checo Pérez comenzaba a disputarle el protagonismo.\n\nEn una entrevista con el podcast High Performance , realizada durante la promoción de su libro Drive: A Memoir of Speed, el exjefe de la escudería recordó la conversación que mantuvo con el representante del neerlandés tras la victoria del mexicano en Mónaco. El pedido apuntaba directamente a la evolución del RB18. \"Recuerdo haberme sentado con el representante de Max por la época de Azerbaiyán ese año y me dijeron: ‘ Mira, has desarrollado este auto alrededor de Checo. Necesitas estar siguiendo lo que Max necesita\"” , relató. “Así que fue muy claro el mensaje que se estaba transmitiendo” , aseveró.\n\nLa explicación de aquella situación se remontaba al trabajo realizado por Alex Albon, quien había participado en el desarrollo del auto mientras la estructura concentraba sus esfuerzos en la definición del campeonato de 2021 frente a Mercedes. Su estilo de manejo favorecía una configuración con mayor subviraje, que resultaba más cómoda para Pérez. \"Albon hizo un trabajo impresionante en segundo plano desarrollando el auto de ‘22 , porque la mayor parte del enfoque estaba en el auto del ‘21, y lo desarrolló hasta el último momento” , afirmó. “Alex había desarrollado e",
-          "language": "es",
-          "publishedAt": "2026-10-20T18:02:42.000Z",
-          "addedAt": "2026-10-20T19:25:57.445Z",
           "category": "general",
           "tag": "F1"
         },
@@ -2434,21 +2404,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-lema-y-el-alejamiento-de-costanzo-en-tc-no-fue-una-decision-personal-sino-de-todos",
-          "title": "Lema y el alejamiento de Costanzo en TC: «No fue una decisión personal, sino de todos» | Campeones",
-          "summary": "En diálogo con Campeones, uno de los titulares de Canning Motorsports, explicó las razones sobre la desvinculación del preparador de Agustín Canapino en TC.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/lema-y-el-alejamiento-de-costanzo-en-tc-no-fue-una-decision-personal-sino-de-todos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-TC-Costanzo.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-27T19:41:25.000Z",
-          "addedAt": "2026-10-27T23:14:08.063Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-franco-colapinto-tras-clasificar-en-austin-el-auto-mejoro-un-poco-pero-no-tanto",
           "title": "Franco Colapinto tras clasificar en Austin: «El auto mejoró un poco, pero no tanto»",
           "summary": "Mientras su labor se basó en conducir el Alpine A526 y tratar de obtener una fiabilidad para el GP de EE. UU., el piloto argentino detalló que aún no alcanzó el nivel pretendido en el auto.",
@@ -2492,13 +2447,7 @@
           "addedAt": "2026-10-19T15:11:27.752Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-28T02:28:42.783Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-se-rompe-la-dupla-campeona-constanzo-deja-de-ser-el-motorista-de-canapino",
           "title": "Se rompe la dupla campeona: Costanzo deja de ser el motorista de Canapino | Campeones",
@@ -2513,7 +2462,13 @@
           "addedAt": "2026-10-26T19:54:17.690Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-28T08:52:57.626Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-sigue-el-idilio-de-lando-norris-con-franco-colapinto-es-una-carta-muy-bonita-id766880-ht",
           "title": "Sigue el idilio de Lando Norris con Franco Colapinto: \"Es una carta muy bonita\"",
@@ -2586,6 +2541,21 @@
           "language": "es",
           "publishedAt": "2026-10-25T09:44:06.000Z",
           "addedAt": "2026-10-25T16:02:57.687Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-lema-y-el-alejamiento-de-costanzo-en-tc-no-fue-una-decision-personal-sino-de-todos",
+          "title": "Lema y el alejamiento de Costanzo en TC: «No fue una decisión personal, sino de todos» | Campeones",
+          "summary": "En diálogo con Campeones, uno de los titulares de Canning Motorsports, explicó las razones sobre la desvinculación del preparador de Agustín Canapino en TC.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/lema-y-el-alejamiento-de-costanzo-en-tc-no-fue-una-decision-personal-sino-de-todos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-TC-Costanzo.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-27T19:41:25.000Z",
+          "addedAt": "2026-10-27T23:14:08.063Z",
           "category": "argentino",
           "tag": "Argentino"
         },
