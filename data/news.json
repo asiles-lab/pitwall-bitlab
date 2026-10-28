@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-28T08:52:45.714Z",
-  "checkedAt": "2026-10-28T08:52:45.714Z",
+  "updatedAt": "2026-10-28T15:56:14.744Z",
+  "checkedAt": "2026-10-28T15:56:14.744Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,19 +40,19 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-julian-santero-ante-una-posibilidad-inedita-en-la-historia-del-tc",
-      "title": "Julián Santero, ante una posibilidad inédita en la historia del TC",
-      "summary": "El piloto de BMW, líder virtual de la Copa de Oro, necesita sumar sólo 4 puntos en Río Cuarto para clasificar al “play-off”, y podría llegar al Coronación con grandes chances de convertirse en el primer campeón de los “3 de Último Minuto” del Turismo Carretera.",
+      "id": "campeones-com-ar-tc2000-horarios-para-una-nueva-fecha-en-general-roca",
+      "title": "TC2000: horarios para una nueva fecha en General Roca | Campeones",
+      "summary": "La categoría visita el autódromo rionegrino, junto al Top Race y la Fórmula Nacional, ingresando en la recta final del campeonato.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/julian-santero-ante-una-posibilidad-inedita-en-la-historia-del-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TC-2026-1.jpg",
+      "url": "https://campeones.com.ar/tc2000-horarios-para-una-nueva-fecha-en-general-roca/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SNZ_0686.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-27T12:27:09.000Z",
-      "addedAt": "2026-10-27T14:45:22.309Z",
-      "category": "argentino",
-      "tag": "Argentino"
+      "publishedAt": "2026-10-28T13:44:35.000Z",
+      "addedAt": "2026-10-28T15:56:18.553Z",
+      "category": "general",
+      "tag": "Carrera"
     },
     {
       "id": "campeones-com-ar-argentina-campeona-mundial-iame-de-la-mano-de-franco-crivelli",
@@ -115,6 +115,21 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-75o-aniversario-del-primer-titulo-mundial-de-juan-manuel-fangio-en-formula-1",
+      "title": "75º aniversario del primer título mundial de Juan Manuel Fangio en Fórmula 1 | Campeones",
+      "summary": "Un 28 de octubre de 1951, el \"Checo\" se consagraba campeón de la \"máxima\" en España, comenzando así un recorrido imborrable.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/75o-aniversario-del-primer-titulo-mundial-de-juan-manuel-fangio-en-formula-1/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/o_1793186352.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-28T14:40:32.000Z",
+      "addedAt": "2026-10-28T15:56:17.599Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-la-formula-1-esta-enferma-de-reglas",
       "title": "¿La Fórmula 1 está \"enferma de reglas\"?",
       "summary": "En diálogo con \"Fórmula 1\" (lunes a las 17 hs. con la conducción de \"Lonchi\" Legnani), Fernando Tornello analizó las diversas reglamentaciones que condicionan las carreras de la \"Máxima\".",
@@ -126,21 +141,6 @@
       "language": "es",
       "publishedAt": "2026-10-27T15:59:51.000Z",
       "addedAt": "2026-10-27T19:41:09.468Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
-    {
-      "id": "campeones-com-ar-turismo-carretera-2000-hacia-rafaela-con-confianza",
-      "title": "Turismo Carretera 2000: Hacia Rafaela con confianza",
-      "summary": "Ariel Espósito hizo un balance del desempeño del MUMU Racing en la última carrera y contó cómo se preparan para Rafaela.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/turismo-carretera-2000-hacia-rafaela-con-confianza/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Esposito-Mumu-Racing-Turismo-Carretera-2000.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-27T13:36:18.000Z",
-      "addedAt": "2026-10-27T23:14:09.196Z",
       "category": "general",
       "tag": "Carrera"
     },
@@ -205,6 +205,21 @@
       "tag": "Carrera"
     },
     {
+      "id": "campeones-com-ar-julian-santero-ante-una-posibilidad-inedita-en-la-historia-del-tc",
+      "title": "Julián Santero, ante una posibilidad inédita en la historia del TC",
+      "summary": "El piloto de BMW, líder virtual de la Copa de Oro, necesita sumar sólo 4 puntos en Río Cuarto para clasificar al “play-off”, y podría llegar al Coronación con grandes chances de convertirse en el primer campeón de los “3 de Último Minuto” del Turismo Carretera.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/julian-santero-ante-una-posibilidad-inedita-en-la-historia-del-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TC-2026-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-27T12:27:09.000Z",
+      "addedAt": "2026-10-27T14:45:22.309Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-santero-la-exagerada-maniobra-de-fritzler-y-no-opino-mas-de-werner",
       "title": "Santero, la \"exagerada\" maniobra de Fritzler y \"no opino más de Werner\" | Campeones",
       "summary": "El mendocino se va puntero de la Copa de Oro de Rosario, donde arribó 4.° con el BMW y dejó definiciones sobre algunas maniobras con rivales directos en el campeonato.",
@@ -248,6 +263,21 @@
       "addedAt": "2026-10-25T21:40:43.508Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-turismo-carretera-2000-hacia-rafaela-con-confianza",
+      "title": "Turismo Carretera 2000: Hacia Rafaela con confianza",
+      "summary": "Ariel Espósito hizo un balance del desempeño del MUMU Racing en la última carrera y contó cómo se preparan para Rafaela.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/turismo-carretera-2000-hacia-rafaela-con-confianza/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Esposito-Mumu-Racing-Turismo-Carretera-2000.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-27T13:36:18.000Z",
+      "addedAt": "2026-10-27T23:14:09.196Z",
+      "category": "general",
+      "tag": "Carrera"
     },
     {
       "id": "campeones-com-ar-tc-rossi-impuso-condiciones-en-el-2o-parcial-rosarino",
@@ -338,21 +368,6 @@
       "addedAt": "2026-10-25T12:02:43.168Z",
       "category": "argentino",
       "tag": "Franco"
-    },
-    {
-      "id": "campeones-com-ar-marcelo-agrelo-anuncio-no-completara-la-temporada-de-tc",
-      "title": "Agrelo anunció que no completará la temporada de TC",
-      "summary": "El piloto chubutense se desvinculó de Trotta Racing y replanteará su futuro en la categoría, de cara a 2027.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/marcelo-agrelo-anuncio-no-completara-la-temporada-de-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/04/TC-Trotta-Agrelo.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-27T14:47:26.000Z",
-      "addedAt": "2026-10-27T19:41:09.846Z",
-      "category": "general",
-      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-el-mal-tiempo-impidio-que-motogp-corriera-su-ultima-prueba-en-phillip-island",
@@ -518,6 +533,21 @@
       "addedAt": "2026-10-25T18:56:57.844Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-marcelo-agrelo-anuncio-no-completara-la-temporada-de-tc",
+      "title": "Agrelo anunció que no completará la temporada de TC",
+      "summary": "El piloto chubutense se desvinculó de Trotta Racing y replanteará su futuro en la categoría, de cara a 2027.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/marcelo-agrelo-anuncio-no-completara-la-temporada-de-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/04/TC-Trotta-Agrelo.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-27T14:47:26.000Z",
+      "addedAt": "2026-10-27T19:41:09.846Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-actualizacion-de-jorge-martin-y-una-lesion-que-puede-costarle-el-mundial-de-motogp",
@@ -786,21 +816,6 @@
       "language": "es",
       "publishedAt": "2026-10-22T15:07:23.000Z",
       "addedAt": "2026-10-22T16:03:13.046Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-rosario-se-viste-de-tc-para-la-copa-de-oro-2026-y-tambien-la-apertura-del-ano-2027",
-      "title": "Rosario se viste de TC para la Copa de Oro 2026 y también la apertura del año 2027",
-      "summary": "Fabián Svegliati, presidente del Autódromo de Rosario, confirmó las novedades para este fin de semana y el inicio del certamen 2027.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/rosario-se-viste-de-tc-para-la-copa-de-oro-2026-y-tambien-la-apertura-del-ano-2027/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/ACTC-Autodromo-Rosario-Boxes.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-21T14:29:56.000Z",
-      "addedAt": "2026-10-21T15:26:35.756Z",
       "category": "general",
       "tag": "F1"
     },
@@ -1135,6 +1150,21 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-rosario-se-viste-de-tc-para-la-copa-de-oro-2026-y-tambien-la-apertura-del-ano-2027",
+      "title": "Rosario se viste de TC para la Copa de Oro 2026 y también la apertura del año 2027",
+      "summary": "Fabián Svegliati, presidente del Autódromo de Rosario, confirmó las novedades para este fin de semana y el inicio del certamen 2027.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/rosario-se-viste-de-tc-para-la-copa-de-oro-2026-y-tambien-la-apertura-del-ano-2027/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/ACTC-Autodromo-Rosario-Boxes.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-21T14:29:56.000Z",
+      "addedAt": "2026-10-21T15:26:35.756Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-krujoski-marco-la-referencia-de-turismo-carretera-2000-en-c-del-uruguay",
       "title": "Krujoski marcó la referencia de Turismo Carretera 2000 en C. del Uruguay",
       "summary": "La práctica de la categoría tuvo al piloto correntino como el más veloz en la pista entrerriana, superando a Llaver, el líder del certamen. Tercero quedó Carinelli.",
@@ -1363,7 +1393,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-28T08:52:57.626Z",
+      "createdAt": "2026-10-28T15:56:27.983Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-un-periodista-ingles-invitado-por-alpine-al-gp-de-estados-unidos-se-burlo-de-colapinto-p",
@@ -1606,21 +1636,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-norberto-fontana-argentino-quedo-en-medio-definicion-mas-polemica-f1-schumacher-villeneu",
-          "title": "El argentino que quedó en medio de la definición más polémica de la F1",
-          "summary": "En su cuarta y última carrera en la Fórmula 1, el piloto de Arrecifes demoró a Jacques Villeneuve mientras peleaba el título con Michael Schumacher. Años después contó que Jean Todt había dado la orden en el motorhome de Sauber.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/norberto-fontana-argentino-quedo-en-medio-definicion-mas-polemica-f1-schumacher-villeneuve-id767184.html",
-          "image": "https://media.tycsports.com/files/2026/10/19/997452/norberto-fontana_1440x810.webp",
-          "body": "En su cuarta y última carrera en la Fórmula 1, el piloto de Arrecifes demoró a Jacques Villeneuve mientras peleaba el título con Michael Schumacher. Años después contó que Jean Todt había dado la orden en el motorhome de Sauber.\n\nNorberto Fontana + Seguinos en El 26 de octubre de 1997, el título de la Fórmula 1 se definía en Jerez de la Frontera entre Michael Schumacher y Jacques Villeneuve, separados por un solo punto. En medio de esa pelea apareció un argentino de 22 años que corría su cuarto Gran Premio. Cuando los dos líderes lo doblaron, Norberto Fontana dejó pasar rápido a Schumacher y tardó unas curvas en abrirle la puerta a Villeneuve . Nueve años después contó por qué: según su relato, el jefe de Ferrari, Jean Todt, había pedido antes de la carrera que se le complicara el camino al canadiense.\n\nNorberto Fontana nació el 20 de enero de 1975 en Arrecifes, la cuna de Juan Manuel Bordeu y del Turismo Carretera. Empezó a correr a los ocho años, pasó por el karting y la Fórmula Renault Argentina, y en 1995 se consagró campeón de la Fórmula 3 alemana, una de las categorías formativas más fuertes de Europa. Ese título lo llevó a Sauber como piloto de pruebas. Su oportunidad llegó en 1997, cuando el italiano Gianni Morbidelli se fracturó un brazo. Fontana debutó en el Gran Premio de Francia y corrió cuatro carreras con Sauber, que usaba motores Ferrari. La última fue el Gran Premio de Europa, en Jerez, que definía el campeonato.\n\nSchumacher llegaba a la última fecha con 78 puntos y Villeneuve con 77 . La clasificación ya fue histórica: Villeneuve, Schumacher y Heinz-Harald Frentzen marcaron exactamente el mismo tiempo, 1m21s072, algo que nunca había pasado. Fontana largó 18°.\n\nPromediando la carrera, los dos punteros alcanzaron al argentino para doblarlo. Fontana se abr",
-          "language": "es",
-          "publishedAt": "2026-10-21T11:13:12.000Z",
-          "addedAt": "2026-10-21T15:26:34.061Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-nos-enfocamos-en-la-carrera-ratifico-franco-colapinto-en-texas",
           "title": "«Nos enfocamos en la carrera», ratificó Franco Colapinto en Texas",
           "summary": "Tras cerrar su primera jornada en el Gran Premio de EE. UU., el argentino repasó el plan que afrontó con el Alpine ante la penalización que lo relegará diez puestos en la grilla.",
@@ -1634,13 +1649,7 @@
           "addedAt": "2026-10-23T23:33:02.048Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-28T08:52:57.626Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-arvid-lindblad-franco-colapinto-acusacion-alpine-formula-1-gp-de-estados-unidos-id768644",
           "title": "La fuerte acusación de un piloto de F1 contra Alpine que involcura a Colapinto",
@@ -1655,7 +1664,13 @@
           "addedAt": "2026-10-26T19:54:14.876Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-28T15:56:27.983Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-en-vivo-la-carrera-de-colapinto-gp-de-estados-unidos-id767495-html",
           "title": "Colapinto abandonó en el GP de Estados Unidos de F1 y ganó Antonelli, quien quedó a un paso de ser campeón",
@@ -1683,36 +1698,6 @@
           "language": "es",
           "publishedAt": "2026-10-26T15:10:43.000Z",
           "addedAt": "2026-10-26T19:54:14.892Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-ser-efectivo-y-competitivo-en-el-gp-de-mexico-de-f1-son-los-objetivos-de-colapinto",
-          "title": "Ser efectivo y competitivo en el GP de México de F1, son los objetivos de Colapinto",
-          "summary": "Enfocado en el próximo fin de semana, el piloto argentino espera revertir los malos resultados con el Alpine A526.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/ser-efectivo-y-competitivo-en-el-gp-de-mexico-de-f1-son-los-objetivos-de-colapinto/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-F1-Colapinto-Alpine.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-27T21:58:50.000Z",
-          "addedAt": "2026-10-27T23:14:08.565Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-la-decision-de-alpine-que-afecta-a-colapinto-en-la-recta-final-de-la-f1-id768833-html",
-          "title": "La decisión de Alpine que afecta a Colapinto en la recta final de la F1",
-          "summary": "La escudería francesa no podrá hacer más actualizaciones en sus monoplazas por estar cerca del techo presupuestario, según reveló Pierre Gasly.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-decision-de-alpine-que-afecta-a-colapinto-en-la-recta-final-de-la-f1-id768833.html",
-          "image": "https://media.tycsports.com/files/2026/01/05/913226/asi-suena-el-nuevo-alpine-de-colapinto-el-a526-ya-esta-en-marcha_862x485.webp",
-          "body": "La escudería francesa no podrá hacer más actualizaciones en sus monoplazas por estar cerca del techo presupuestario, según reveló Pierre Gasly.\n\nAlpine no hará más actualizaciones de sus monoplazas + Seguinos en En Alpine decidieron que no harán nuevas actualizaciones a los monoplazas de la escudería por \"estar prácticamente en el límite del techo presupuestario\" , según reveló Pierre Gasly . Es decir, que el equipo alcanzó el límite de recursos disponible para la campaña y tendrá que sacarle el mejor rendimiento al paquete actual.\n\nEn diálogo con Motorsport, Gasly deslizó entre risas: “Si yo fuera el director financiero, pueden estar seguros de que llevaría todas las mejoras que pudiera hasta el final del año”.\n\nY sobre la situación interna de la escudería, reveló: \"Creo que estamos prácticamente en el límite de nuestro techo presupuestario. Desde el punto de vista estratégico, no tenemos nada en preparación. Este es el auto que tendremos hasta el final del año”.\n\nPor lo tanto, la decisión que tomó la escudería corresponde a la cercanía al techo presupuestario y a una medida estratégica.",
-          "language": "es",
-          "publishedAt": "2026-10-27T15:48:56.000Z",
-          "addedAt": "2026-10-27T19:41:07.219Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1837,6 +1822,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-ser-efectivo-y-competitivo-en-el-gp-de-mexico-de-f1-son-los-objetivos-de-colapinto",
+          "title": "Ser efectivo y competitivo en el GP de México de F1, son los objetivos de Colapinto",
+          "summary": "Enfocado en el próximo fin de semana, el piloto argentino espera revertir los malos resultados con el Alpine A526.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/ser-efectivo-y-competitivo-en-el-gp-de-mexico-de-f1-son-los-objetivos-de-colapinto/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-F1-Colapinto-Alpine.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-27T21:58:50.000Z",
+          "addedAt": "2026-10-27T23:14:08.565Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-franco-colapinto-no-estara-girando-en-la-primera-practica-de-f1-del-gp-de-mexico",
           "title": "Franco Colapinto no estará girando en la primera práctica de F1 del GP de México",
           "summary": "El auto del piloto argentino será conducido por el italiano Gabriele Minì en la sesión que abrirá las actividades el viernes.",
@@ -1882,6 +1882,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-la-decision-de-alpine-que-afecta-a-colapinto-en-la-recta-final-de-la-f1-id768833-html",
+          "title": "La decisión de Alpine que afecta a Colapinto en la recta final de la F1",
+          "summary": "La escudería francesa no podrá hacer más actualizaciones en sus monoplazas por estar cerca del techo presupuestario, según reveló Pierre Gasly.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-decision-de-alpine-que-afecta-a-colapinto-en-la-recta-final-de-la-f1-id768833.html",
+          "image": "https://media.tycsports.com/files/2026/01/05/913226/asi-suena-el-nuevo-alpine-de-colapinto-el-a526-ya-esta-en-marcha_862x485.webp",
+          "body": "La escudería francesa no podrá hacer más actualizaciones en sus monoplazas por estar cerca del techo presupuestario, según reveló Pierre Gasly.\n\nAlpine no hará más actualizaciones de sus monoplazas + Seguinos en En Alpine decidieron que no harán nuevas actualizaciones a los monoplazas de la escudería por \"estar prácticamente en el límite del techo presupuestario\" , según reveló Pierre Gasly . Es decir, que el equipo alcanzó el límite de recursos disponible para la campaña y tendrá que sacarle el mejor rendimiento al paquete actual.\n\nEn diálogo con Motorsport, Gasly deslizó entre risas: “Si yo fuera el director financiero, pueden estar seguros de que llevaría todas las mejoras que pudiera hasta el final del año”.\n\nY sobre la situación interna de la escudería, reveló: \"Creo que estamos prácticamente en el límite de nuestro techo presupuestario. Desde el punto de vista estratégico, no tenemos nada en preparación. Este es el auto que tendremos hasta el final del año”.\n\nPor lo tanto, la decisión que tomó la escudería corresponde a la cercanía al techo presupuestario y a una medida estratégica.",
+          "language": "es",
+          "publishedAt": "2026-10-27T15:48:56.000Z",
+          "addedAt": "2026-10-27T19:41:07.219Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-destacan-un-viaje-muy-productivo-en-austin-con-miras-al-gp-de-f1-en-buenos-aires",
           "title": "Destacan \"un viaje muy productivo\" en Austin con miras al GP de F1 en Buenos Aires",
           "summary": "El promotor argentino compartió pasajes fundamentales del viaje al Gran Premio de Fórmula 1 en Estados Unidos.",
@@ -1893,6 +1908,21 @@
           "language": "es",
           "publishedAt": "2026-10-26T16:00:40.000Z",
           "addedAt": "2026-10-26T23:46:31.364Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-rally-argentino-planifica-su-calendario-2027",
+          "title": "Rally Argentino planifica su calendario 2027",
+          "summary": "Los promotores del campeonato delinean el certamen venidero, que tendrá su comienzo en los caminos cordobeses.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/rally-argentino-planifica-su-calendario-2027/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-RallyArg-Parque-Cerrado.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-28T12:53:28.000Z",
+          "addedAt": "2026-10-28T15:56:18.055Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -1915,7 +1945,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-28T08:52:57.626Z",
+      "createdAt": "2026-10-28T15:56:27.983Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-chicana-de-mercedes-al-resto-de-la-formula-1-por-antonelli-decian-que-ni-siquiera-deb",
@@ -1929,6 +1959,21 @@
           "language": "es",
           "publishedAt": "2026-10-27T22:23:54.000Z",
           "addedAt": "2026-10-27T23:14:06.359Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-turismo-carretera-2000-vuelve-una-de-sus-principales-figuras-en-rafaela",
+          "title": "Turismo Carretera 2000: en Rafaela vuelve una de sus principales figuras | Campeones",
+          "summary": "Facundo Ardusso dirá presente en el Gran Premio Coronación que se desarrollará del 20 al 22 de noviembre.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/turismo-carretera-2000-vuelve-una-de-sus-principales-figuras-en-rafaela/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/ACTC-Facundo-Ardusso.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-28T15:32:01.000Z",
+          "addedAt": "2026-10-28T15:56:16.784Z",
           "category": "general",
           "tag": "F1"
         },
@@ -2128,21 +2173,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-tanto-qatar-como-la-f1-y-motogp-ratifican-sus-carreras-del-ano-2026",
-          "title": "Tanto Qatar como la F1 y MotoGP ratifican sus carreras del año 2026",
-          "summary": "El Circuito Internacional de Losail se prepara para albergar el GP de Qatar de MotoGP el 8 de noviembre y de F1 el 29 de noviembre.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tanto-qatar-como-la-f1-y-motogp-ratifican-sus-carreras-del-ano-2026/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Main-Straight-Qatar-Circuit.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-21T13:21:27.000Z",
-          "addedAt": "2026-10-21T15:26:36.320Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-valtteri-bottas-auto-f1-living-de-la-casa-id766041-html",
           "title": "&iexcl;Insólito! Un piloto de F1 reveló que tiene un auto en el living de su casa",
           "summary": "Se trata del Williams FW36, con el cual el finlandés corrió durante la temporada 2014 y con el que obtuvo su primer podio en el Gran Premio de Austria de aquel año.",
@@ -2191,7 +2221,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-28T08:52:57.626Z",
+      "createdAt": "2026-10-28T15:56:27.983Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -2344,19 +2374,19 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina",
-          "title": "La desafortunada -y repudiada- expresión de un invitado de Alpine sobre Colapinto y Argentina",
-          "summary": "Jeremy Clarkson, \"amigo\" y vecino del equipo de Enstone, dejó una frase despectiva sobre el pilarense y su nacionalidad durante una entrevista en los boxes de Austin.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-F1-Clarkson-Briatore.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-norberto-fontana-argentino-quedo-en-medio-definicion-mas-polemica-f1-schumacher-villeneu",
+          "title": "El argentino que quedó en medio de la definición más polémica de la F1",
+          "summary": "En su cuarta y última carrera en la Fórmula 1, el piloto de Arrecifes demoró a Jacques Villeneuve mientras peleaba el título con Michael Schumacher. Años después contó que Jean Todt había dado la orden en el motorhome de Sauber.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/norberto-fontana-argentino-quedo-en-medio-definicion-mas-polemica-f1-schumacher-villeneuve-id767184.html",
+          "image": "https://media.tycsports.com/files/2026/10/19/997452/norberto-fontana_1440x810.webp",
+          "body": "En su cuarta y última carrera en la Fórmula 1, el piloto de Arrecifes demoró a Jacques Villeneuve mientras peleaba el título con Michael Schumacher. Años después contó que Jean Todt había dado la orden en el motorhome de Sauber.\n\nNorberto Fontana + Seguinos en El 26 de octubre de 1997, el título de la Fórmula 1 se definía en Jerez de la Frontera entre Michael Schumacher y Jacques Villeneuve, separados por un solo punto. En medio de esa pelea apareció un argentino de 22 años que corría su cuarto Gran Premio. Cuando los dos líderes lo doblaron, Norberto Fontana dejó pasar rápido a Schumacher y tardó unas curvas en abrirle la puerta a Villeneuve . Nueve años después contó por qué: según su relato, el jefe de Ferrari, Jean Todt, había pedido antes de la carrera que se le complicara el camino al canadiense.\n\nNorberto Fontana nació el 20 de enero de 1975 en Arrecifes, la cuna de Juan Manuel Bordeu y del Turismo Carretera. Empezó a correr a los ocho años, pasó por el karting y la Fórmula Renault Argentina, y en 1995 se consagró campeón de la Fórmula 3 alemana, una de las categorías formativas más fuertes de Europa. Ese título lo llevó a Sauber como piloto de pruebas. Su oportunidad llegó en 1997, cuando el italiano Gianni Morbidelli se fracturó un brazo. Fontana debutó en el Gran Premio de Francia y corrió cuatro carreras con Sauber, que usaba motores Ferrari. La última fue el Gran Premio de Europa, en Jerez, que definía el campeonato.\n\nSchumacher llegaba a la última fecha con 78 puntos y Villeneuve con 77 . La clasificación ya fue histórica: Villeneuve, Schumacher y Heinz-Harald Frentzen marcaron exactamente el mismo tiempo, 1m21s072, algo que nunca había pasado. Fontana largó 18°.\n\nPromediando la carrera, los dos punteros alcanzaron al argentino para doblarlo. Fontana se abr",
           "language": "es",
-          "publishedAt": "2026-10-25T11:49:05.000Z",
-          "addedAt": "2026-10-25T16:02:51.741Z",
+          "publishedAt": "2026-10-21T11:13:12.000Z",
+          "addedAt": "2026-10-21T15:26:34.061Z",
           "category": "argentino",
-          "tag": "Franco"
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-como-se-preparo-colapinto-con-alpine-para-competir-en-estados-unidos",
@@ -2404,6 +2434,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina",
+          "title": "La desafortunada -y repudiada- expresión de un invitado de Alpine sobre Colapinto y Argentina",
+          "summary": "Jeremy Clarkson, \"amigo\" y vecino del equipo de Enstone, dejó una frase despectiva sobre el pilarense y su nacionalidad durante una entrevista en los boxes de Austin.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-F1-Clarkson-Briatore.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-25T11:49:05.000Z",
+          "addedAt": "2026-10-25T16:02:51.741Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-franco-colapinto-tras-clasificar-en-austin-el-auto-mejoro-un-poco-pero-no-tanto",
           "title": "Franco Colapinto tras clasificar en Austin: «El auto mejoró un poco, pero no tanto»",
           "summary": "Mientras su labor se basó en conducir el Alpine A526 y tratar de obtener una fiabilidad para el GP de EE. UU., el piloto argentino detalló que aún no alcanzó el nivel pretendido en el auto.",
@@ -2447,7 +2492,13 @@
           "addedAt": "2026-10-19T15:11:27.752Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-28T15:56:27.983Z",
+      "items": [
         {
           "id": "campeones-com-ar-se-rompe-la-dupla-campeona-constanzo-deja-de-ser-el-motorista-de-canapino",
           "title": "Se rompe la dupla campeona: Costanzo deja de ser el motorista de Canapino | Campeones",
@@ -2462,13 +2513,7 @@
           "addedAt": "2026-10-26T19:54:17.690Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-28T08:52:57.626Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-sigue-el-idilio-de-lando-norris-con-franco-colapinto-es-una-carta-muy-bonita-id766880-ht",
           "title": "Sigue el idilio de Lando Norris con Franco Colapinto: \"Es una carta muy bonita\"",
@@ -2530,17 +2575,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-cierre-con-sabor-a-poco-de-tiago-pernia-en-la-temporada-de-tcr-europeo",
-          "title": "Cierre con sabor a poco de Tiago Pernía en la temporada de TCR Europeo",
-          "summary": "El representante argentino no pudo completar la Carrera 2 por un toque con Adam Shepard cuando intentaba escalar posiciones con el Honda de Squadra Martino. Marco Butti se coronó campeón.",
+          "id": "campeones-com-ar-tc-canapino-y-el-canning-motorsport-apuestan-por-el-motor-preparado-por-bonelli",
+          "title": "TC: Canapino y el Canning Motorsport apuestan por el motor preparado por Bonelli",
+          "summary": "Próspero Bonelli es el nuevo responsable de los motores del Chevrolet Camaro de Agustín Canapino en el Turismo Carretera.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/cierre-con-sabor-a-poco-de-tiago-pernia-en-la-temporada-de-tcr-europeo/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-TCR-Pernia.jpg",
+          "url": "https://campeones.com.ar/tc-canapino-y-el-canning-motorsport-apuestan-por-el-motor-preparado-por-bonelli/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/AGUSTIN-CANAPINO-CHEVROLET-CAMARO-PARANA.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-25T09:44:06.000Z",
-          "addedAt": "2026-10-25T16:02:57.687Z",
+          "publishedAt": "2026-10-27T22:48:00.000Z",
+          "addedAt": "2026-10-27T14:45:20.446Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -2560,21 +2605,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-tc-canapino-y-el-canning-motorsport-apuestan-por-el-motor-preparado-por-bonelli",
-          "title": "TC: Canapino y el Canning Motorsport apuestan por el motor preparado por Bonelli",
-          "summary": "Próspero Bonelli es el nuevo responsable de los motores del Chevrolet Camaro de Agustín Canapino en el Turismo Carretera.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-canapino-y-el-canning-motorsport-apuestan-por-el-motor-preparado-por-bonelli/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/AGUSTIN-CANAPINO-CHEVROLET-CAMARO-PARANA.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-27T12:48:00.000Z",
-          "addedAt": "2026-10-27T14:45:20.446Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
           "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
           "summary": "Cobertura especial del GP de Estados Unidos de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
@@ -2590,6 +2620,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-cierre-con-sabor-a-poco-de-tiago-pernia-en-la-temporada-de-tcr-europeo",
+          "title": "Cierre con sabor a poco de Tiago Pernía en la temporada de TCR Europeo",
+          "summary": "El representante argentino no pudo completar la Carrera 2 por un toque con Adam Shepard cuando intentaba escalar posiciones con el Honda de Squadra Martino. Marco Butti se coronó campeón.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/cierre-con-sabor-a-poco-de-tiago-pernia-en-la-temporada-de-tcr-europeo/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-TCR-Pernia.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-25T09:44:06.000Z",
+          "addedAt": "2026-10-25T16:02:57.687Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-en-montmelo-tiago-pernia-quedo-13-en-la-clasificacion-de-tcr-europa",
           "title": "En Montmeló, Tiago Pernía quedó 13.° en la clasificación de TCR Europa",
           "summary": "Junto a él varios de los candidatos al título, incluido el líder Marco Butti, tuvieron una buena sesión y deberán remontar posiciones en la primera carrera que se disputa a la hora 12:15 de Argentina.",
@@ -2603,21 +2648,6 @@
           "addedAt": "2026-10-24T18:44:41.747Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-f2-argentina-franco-ledesma-vencio-en-rosario-y-no-se-baja-de-la-pelea",
-          "title": "F2 Argentina: Franco Ledesma venció en Rosario y no se baja de la pelea",
-          "summary": "El marplatense del Gabriel Werner Competición cerró un fin de semana ideal con una contundente victoria de punta a punta en la Final de la 11ª y anteúltima fecha del campeonato 2026 y buscará la hazaña en La Plata, donde dirimirá el título con Lautaro Videla (Mauro Martínez Competición), quien llegó 5º en el en el “Juan Manuel Fangio” santafesino.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f2-argentina-franco-ledesma-vencio-en-rosario-y-no-se-baja-de-la-pelea/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Ledesma-F2Arg-2026-2.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-25T15:33:06.000Z",
-          "addedAt": "2026-10-25T16:02:51.295Z",
-          "category": "argentino",
-          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-en-la-ultima-practica-texana-de-f1-colapinto-se-ubico-en-la-15-a-posicion",
@@ -2646,6 +2676,21 @@
           "language": "es",
           "publishedAt": "2026-10-24T21:46:43.000Z",
           "addedAt": "2026-10-24T23:28:33.766Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-f2-argentina-franco-ledesma-vencio-en-rosario-y-no-se-baja-de-la-pelea",
+          "title": "F2 Argentina: Franco Ledesma venció en Rosario y no se baja de la pelea",
+          "summary": "El marplatense del Gabriel Werner Competición cerró un fin de semana ideal con una contundente victoria de punta a punta en la Final de la 11ª y anteúltima fecha del campeonato 2026 y buscará la hazaña en La Plata, donde dirimirá el título con Lautaro Videla (Mauro Martínez Competición), quien llegó 5º en el en el “Juan Manuel Fangio” santafesino.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f2-argentina-franco-ledesma-vencio-en-rosario-y-no-se-baja-de-la-pelea/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Ledesma-F2Arg-2026-2.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-25T15:33:06.000Z",
+          "addedAt": "2026-10-25T16:02:51.295Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2723,21 +2768,6 @@
           "addedAt": "2026-10-18T07:11:28.230Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-canapino-avanzo-en-rosario-con-el-camaro-y-sigue-peleando",
-          "title": "Canapino avanzó en Rosario y con el Camaro sigue dando pelea | Campeones",
-          "summary": "El \"Titán\" llegó 8° en la carrera que el TC disputó el pasado domingo y se mantiene 4° en el campeonato, a la expectativa de seguir peleando por el campeonato.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/canapino-avanzo-en-rosario-con-el-camaro-y-sigue-peleando/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/9E5390D3-A08C-44B2-84D6-E091D9F2601C.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-26T17:19:40.000Z",
-          "addedAt": "2026-10-26T19:54:17.989Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     }
