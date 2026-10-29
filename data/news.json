@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-28T20:58:13.054Z",
-  "checkedAt": "2026-10-28T20:58:13.054Z",
+  "updatedAt": "2026-10-29T00:48:26.590Z",
+  "checkedAt": "2026-10-29T00:48:26.590Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,36 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-tc2000-horarios-para-una-nueva-fecha-en-general-roca",
-      "title": "TC2000: horarios para una nueva fecha en General Roca | Campeones",
-      "summary": "La categoría visita el autódromo rionegrino, junto al Top Race y la Fórmula Nacional, ingresando en la recta final del campeonato.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc2000-horarios-para-una-nueva-fecha-en-general-roca/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SNZ_0686.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-28T13:44:35.000Z",
-      "addedAt": "2026-10-28T15:56:18.553Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
-    {
-      "id": "campeones-com-ar-argentina-campeona-mundial-iame-de-la-mano-de-franco-crivelli",
-      "title": "Argentina, campeona mundial IAME de la mano de Franco Crivelli",
-      "summary": "El piloto argentino se consagró dentro de la Master X30 este sábado en Viterbo, donde se cerró la IAME Warrios Final.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/argentina-campeona-mundial-iame-de-la-mano-de-franco-crivelli/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/LZ2_4279.jpg.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-24T15:53:48.000Z",
-      "addedAt": "2026-10-24T18:44:37.902Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
     {
       "id": "campeones-com-ar-santino-panetta-6-en-la-primera-carrera-y-con-podio-rookie-en-hungria",
       "title": "Santino Panetta 6.° en la primera carrera y con podio “Rookie” en Hungría | Campeones",
@@ -115,21 +85,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-argento-brindo-detalles-de-la-visita-salta-y-remarco-las-obras-necesarias-en-el-trazado",
-      "title": "Salta sueña con el TC pero necesita muchas obras | Campeones",
-      "summary": "En diálogo con Campeones, Roberto Argento contó los pormenores de la inspección de la ACTC, ocurrida ayer, y de la voluntad de la provincia en recibir categorías de la entidad teceísta.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/argento-brindo-detalles-de-la-visita-salta-y-remarco-las-obras-necesarias-en-el-trazado/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2025/10/SALTA-AUTODROMO.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-28T18:01:21.000Z",
-      "addedAt": "2026-10-28T20:58:15.383Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-lando-norris-f1-baches-dolores-circuitos-pastillas-id768330-html",
       "title": "El piloto de F1 que reveló qué pastillas toma por los dolores que le provocan los baches de los circuitos",
       "summary": "El británico expuso las consecuencias físicas que provocan las irregularidades del asfalto y respaldó las críticas de Max Verstappen al trazado de Austin.",
@@ -173,6 +128,21 @@
       "addedAt": "2026-10-27T19:41:09.465Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-argento-brindo-detalles-de-la-visita-salta-y-remarco-las-obras-necesarias-en-el-trazado",
+      "title": "Salta sueña con el TC pero necesita muchas obras | Campeones",
+      "summary": "En diálogo con Campeones, Roberto Argento contó los pormenores de la inspección de la ACTC, ocurrida ayer, y de la voluntad de la provincia en recibir categorías de la entidad teceísta.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/argento-brindo-detalles-de-la-visita-salta-y-remarco-las-obras-necesarias-en-el-trazado/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2025/10/SALTA-AUTODROMO.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-28T18:01:21.000Z",
+      "addedAt": "2026-10-28T20:58:15.383Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-75o-aniversario-del-primer-titulo-mundial-de-juan-manuel-fangio-en-formula-1",
@@ -1408,7 +1378,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-28T20:58:24.854Z",
+      "createdAt": "2026-10-29T00:48:34.526Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-un-periodista-ingles-invitado-por-alpine-al-gp-de-estados-unidos-se-burlo-de-colapinto-p",
@@ -1486,21 +1456,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-gran-premio-estados-unidos-formula-1-danos-aleron-id768564-html",
-          "title": "Por qué Colapinto abandonó el Gran Premio de Estados Unidos: \"Se rompió mucho el auto\"",
-          "summary": "La carrera en el Circuito de las Américas llegó a su fin para el piloto argentino en la vuelta 36, cuando su ingeniero de pista Stuart Barlow le indicó que ingresara a los boxes para retirar su monoplaza.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-gran-premio-estados-unidos-formula-1-danos-aleron-id768564.html",
-          "image": "https://media.tycsports.com/files/2026/10/25/999676/franco-colapinto-alpine_862x485.webp",
-          "body": "La carrera en el Circuito de las Américas llegó a su fin para el piloto argentino en la vuelta 36, cuando su ingeniero de pista Stuart Barlow le indicó que ingresara a los boxes para retirar su monoplaza.\n\nEl momento del toque de Lindblad a Colapinto que resultó en su abandono en el Gran Premio de Estados Unidos. + Seguinos en Franco Colapinto se vio obligado a abandonar el Gran Premio de Estados Unidos de la Fórmula 1 en la vuelta 36 por orden de su equipo, una decisión motivada en los daños que sufrió su monoplaza en su alerón delantero a lo largo de la carrera y siendo un toque con Arvid Lindblad la gota que colmó el vaso.\n\nEn la vuelta 25 se dio el contacto que terminó con sellar la suerte de Colapinto al sufrir el impacto por parte de Lindblad, que se lanzó para adelantarle en la primera curva a él para pelear con Pierre Gasly, que salía de la calle de boxes al hacer su primera parada. \"Dobló hacia mí y hacia Pierre\" , relató el piloto argentino.\n\nEl toque entre Lindblad y Colapinto que lo obligó a abandonar en Alpine Ese toque del británico agravó el previamente dañado alerón de Colapinto , lo cual resulta en un trompo que le hizo perder varios segundos pero dejó secuelas que 11 vueltas más tarde dio lugar a que el ingeniero de pista Stuart Barlow le indicara que tenían que retirar el auto al ser imposible solucionar esos daños . Este es el tercer abandono entre las últimas cuatro carrera para el ex-Williams, que no recibió al bandera a cuadros en Azerbaiyán, Singapur y Estados Unidos . Un duro golpe tras su extendida racha de 29 carreras consecutivas sin abandonar en la categoría reina del automovilismo.\n\nAl concluir las acciones el piloto argentino habló con los medios presentes y explicó qué fue en concreto lo que resultó en su final anticipado: \"Una carrera du",
-          "language": "es",
-          "publishedAt": "2026-10-25T23:21:13.000Z",
-          "addedAt": "2026-10-25T21:40:42.408Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-alpine-revelo-la-gran-virtud-de-colapinto-en-la-f1-para-dar-el-golpe-en-el-gp-de-estados",
           "title": "Alpine reveló la gran virtud de Colapinto en la F1 para dar el golpe en el GP de Estados Unidos",
           "summary": "Steve Nielsen elogió la agresividad del argentino en las salidas y confió en que el ritmo de carrera puede ser clave para que recupere posiciones en Circuito de las Américas.",
@@ -1527,6 +1482,21 @@
           "language": "es",
           "publishedAt": "2026-10-23T21:52:40.000Z",
           "addedAt": "2026-10-23T23:32:59.910Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-gran-premio-estados-unidos-formula-1-danos-aleron-id768564-html",
+          "title": "Por qué Colapinto abandonó el Gran Premio de Estados Unidos: \"Se rompió mucho el auto\"",
+          "summary": "La carrera en el Circuito de las Américas llegó a su fin para el piloto argentino en la vuelta 36, cuando su ingeniero de pista Stuart Barlow le indicó que ingresara a los boxes para retirar su monoplaza.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-gran-premio-estados-unidos-formula-1-danos-aleron-id768564.html",
+          "image": "https://media.tycsports.com/files/2026/10/25/999676/franco-colapinto-alpine_862x485.webp",
+          "body": "La carrera en el Circuito de las Américas llegó a su fin para el piloto argentino en la vuelta 36, cuando su ingeniero de pista Stuart Barlow le indicó que ingresara a los boxes para retirar su monoplaza.\n\nEl momento del toque de Lindblad a Colapinto que resultó en su abandono en el Gran Premio de Estados Unidos. + Seguinos en Franco Colapinto se vio obligado a abandonar el Gran Premio de Estados Unidos de la Fórmula 1 en la vuelta 36 por orden de su equipo, una decisión motivada en los daños que sufrió su monoplaza en su alerón delantero a lo largo de la carrera y siendo un toque con Arvid Lindblad la gota que colmó el vaso.\n\nEn la vuelta 25 se dio el contacto que terminó con sellar la suerte de Colapinto al sufrir el impacto por parte de Lindblad, que se lanzó para adelantarle en la primera curva a él para pelear con Pierre Gasly, que salía de la calle de boxes al hacer su primera parada. \"Dobló hacia mí y hacia Pierre\" , relató el piloto argentino.\n\nEl toque entre Lindblad y Colapinto que lo obligó a abandonar en Alpine Ese toque del británico agravó el previamente dañado alerón de Colapinto , lo cual resulta en un trompo que le hizo perder varios segundos pero dejó secuelas que 11 vueltas más tarde dio lugar a que el ingeniero de pista Stuart Barlow le indicara que tenían que retirar el auto al ser imposible solucionar esos daños . Este es el tercer abandono entre las últimas cuatro carrera para el ex-Williams, que no recibió al bandera a cuadros en Azerbaiyán, Singapur y Estados Unidos . Un duro golpe tras su extendida racha de 29 carreras consecutivas sin abandonar en la categoría reina del automovilismo.\n\nAl concluir las acciones el piloto argentino habló con los medios presentes y explicó qué fue en concreto lo que resultó en su final anticipado: \"Una carrera du",
+          "language": "es",
+          "publishedAt": "2026-10-25T23:21:13.000Z",
+          "addedAt": "2026-10-25T21:40:42.408Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1684,23 +1654,8 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-28T20:58:24.854Z",
+      "createdAt": "2026-10-29T00:48:34.526Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-f1-en-vivo-la-carrera-de-colapinto-gp-de-estados-unidos-id767495-html",
-          "title": "Colapinto abandonó en el GP de Estados Unidos de F1 y ganó Antonelli, quien quedó a un paso de ser campeón",
-          "summary": "El piloto argentino sufrió un desprendimiento en su Alpine en un toque con Lindblad y se vio obligado a abandonar en la vuelta 37. En tanto, Antonelli levantará el título si logra un 9° puesto en México el próximo fin de semana.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-en-vivo-la-carrera-de-colapinto-gp-de-estados-unidos-id767495.html",
-          "image": "https://media.tycsports.com/files/2026/10/25/999630/colapinto-abandono-en-el-gp-de-estados-unidos-photo-by-manuel-elettosutton-images_1440x810.webp?v=1",
-          "body": "El piloto argentino sufrió un desprendimiento en su Alpine en un toque con Lindblad y se vio obligado a abandonar en la vuelta 37. En tanto, Antonelli levantará el título si logra un 9° puesto en México el próximo fin de semana.\n\nPor qué Colapinto abandonó el Gran Premio de Estados Unidos: \"Se rompió mucho el auto\" Qué necesita Antonelli para ser campeón de la Fórmula 1 en México 25/10/2026 07:50 pm Colapinto abandonó en el GP de Estados Unidos (Photo by Manuel Eletto/Sutton Images) + Seguinos en Franco Colapinto abandonó en la vuelta 37 del Gran Premio de Estados Unidos de Fórmula 1 y volvió a quedarse sin poder completar una carrera con Alpine. El retiro en el Circuito de las Américas se sumó a otros dos abandonos recientes, en los Grandes Premios de Azerbaiyán y Singapur, lo que marca tres retiros en las últimas cuatro carreras, con un decimotercer lugar en Bahréin. Por su parte, Kimi Antonelli (Mercedes) ganó de punta a punta , no levantó el título en la fecha 18 por detalles y tiene la mesa servida para convertirse, la próxima semana en México, en el campeón más joven de la historia en la máxima categoría del automovilismo.\n\n“ Me toqué con Lindblad (Racing Bulls) y se rompió mucho el auto , toda la parte derecha. Fue un fin de semana muy duro con la penalización. Un poco triste por la carrera”, señaló Franco una vez culminada la carrera. Y añadió: \"Elegí salir con neumáticos duros para hacer algo diferente al resto, pero no funcionó. Me quedé muy trabado atrás de los Williams y con el aire sucio fue muy complicado. Hay que trabajar para México. Tres abandonos en cuatro carreras. Hay que cortar esta racha. Está siendo duro ”. El toque fue en el giro 27, y el argentino padeció el desprendimiento de un pontón que lo hizo perder puestos vuelta a vuelta: pasó del 15° lu",
-          "language": "es",
-          "publishedAt": "2026-10-25T22:50:04.000Z",
-          "addedAt": "2026-10-24T23:28:31.272Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-alpine-formula-1-gp-de-mexico-id768857-html",
           "title": "Colapinto no estará en la FP1 de México y Alpine ya confirmó a su reemplazante",
@@ -1732,6 +1687,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-f1-en-vivo-la-carrera-de-colapinto-gp-de-estados-unidos-id767495-html",
+          "title": "Colapinto abandonó en el GP de Estados Unidos de F1 y ganó Antonelli, quien quedó a un paso de ser campeón",
+          "summary": "El piloto argentino sufrió un desprendimiento en su Alpine en un toque con Lindblad y se vio obligado a abandonar en la vuelta 37. En tanto, Antonelli levantará el título si logra un 9° puesto en México el próximo fin de semana.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-en-vivo-la-carrera-de-colapinto-gp-de-estados-unidos-id767495.html",
+          "image": "https://media.tycsports.com/files/2026/10/25/999630/colapinto-abandono-en-el-gp-de-estados-unidos-photo-by-manuel-elettosutton-images_1440x810.webp?v=1",
+          "body": "El piloto argentino sufrió un desprendimiento en su Alpine en un toque con Lindblad y se vio obligado a abandonar en la vuelta 37. En tanto, Antonelli levantará el título si logra un 9° puesto en México el próximo fin de semana.\n\nPor qué Colapinto abandonó el Gran Premio de Estados Unidos: \"Se rompió mucho el auto\" Qué necesita Antonelli para ser campeón de la Fórmula 1 en México 25/10/2026 07:50 pm Colapinto abandonó en el GP de Estados Unidos (Photo by Manuel Eletto/Sutton Images) + Seguinos en Franco Colapinto abandonó en la vuelta 37 del Gran Premio de Estados Unidos de Fórmula 1 y volvió a quedarse sin poder completar una carrera con Alpine. El retiro en el Circuito de las Américas se sumó a otros dos abandonos recientes, en los Grandes Premios de Azerbaiyán y Singapur, lo que marca tres retiros en las últimas cuatro carreras, con un decimotercer lugar en Bahréin. Por su parte, Kimi Antonelli (Mercedes) ganó de punta a punta , no levantó el título en la fecha 18 por detalles y tiene la mesa servida para convertirse, la próxima semana en México, en el campeón más joven de la historia en la máxima categoría del automovilismo.\n\n“ Me toqué con Lindblad (Racing Bulls) y se rompió mucho el auto , toda la parte derecha. Fue un fin de semana muy duro con la penalización. Un poco triste por la carrera”, señaló Franco una vez culminada la carrera. Y añadió: \"Elegí salir con neumáticos duros para hacer algo diferente al resto, pero no funcionó. Me quedé muy trabado atrás de los Williams y con el aire sucio fue muy complicado. Hay que trabajar para México. Tres abandonos en cuatro carreras. Hay que cortar esta racha. Está siendo duro ”. El toque fue en el giro 27, y el argentino padeció el desprendimiento de un pontón que lo hizo perder puestos vuelta a vuelta: pasó del 15° lu",
+          "language": "es",
+          "publishedAt": "2026-10-25T22:50:04.000Z",
+          "addedAt": "2026-10-24T23:28:31.272Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-estados-unidos-horarios-y-el-cronograma-completo-id765917-html",
           "title": "F1 | Colapinto en el GP de Estados Unidos: cronograma completo y horarios",
           "summary": "Este fin de semana, el argentino disputa la decimoctava fecha de la temporada 2026 de la Fórmula 1 en el Circuito de las Américas. Conocé todos los detalles.",
@@ -1758,21 +1728,6 @@
           "language": "es",
           "publishedAt": "2026-10-23T14:07:09.000Z",
           "addedAt": "2026-10-23T17:19:41.481Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-abandono-de-franco-colapinto-en-el-gp-de-estados-unidos",
-          "title": "Prematuro abandono de Colapinto en el GP de Estados Unidos",
-          "summary": "Una pieza dañada en el Alpine, tras un roce con el Racing Bulls de Lindblad, obligó al piloto argentino a dejar la carrera de F1 que ganó Antonelli con Mercedes quedando a dos puntos para coronarse campeón mundial.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/abandono-de-franco-colapinto-en-el-gp-de-estados-unidos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-F1-Colapinto-Alpine.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-25T21:12:02.000Z",
-          "addedAt": "2026-10-25T21:40:43.525Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1822,62 +1777,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-disfruto-de-un-paseo-a-caballo-antes-del-gp-de-estados-unidos-en-la-formula-1-",
-          "title": "Colapinto sorprendió en Texas con una actividad lejos de la Fórmula 1",
-          "summary": "El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones desde su infancia.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-disfruto-de-un-paseo-a-caballo-antes-del-gp-de-estados-unidos-en-la-formula-1-id767656.html",
-          "image": "https://media.tycsports.com/files/2026/10/21/998204/colapinto-en-texas_1440x810.webp?v=1",
-          "body": "El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones desde su infancia.\n\nColapinto en Texas en la previa del GP de Estados Unidos + Seguinos en Franco Colapinto se metió en el ambiente texano durante la previa del Gran Premio de Estados Unidos de Fórmula 1. El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones, montar a caballo, en una actividad que compartió la escudería francesa a través de sus redes sociales.\n\n“Una gran experiencia, montando a caballo por primera vez en Austin, verdaderamente emocionante” , expresó el piloto en el video publicado por Alpine. Con entusiasmo, también bromeó sobre el cambio de vehículo: “Probando un diferente caballo de fuerza (HP) este fin de semana, divirtiéndome”.\n\nColapinto disfrutó de un paseo a caballo en la previa del GP de Estados Unidos La actividad tuvo un significado especial para Colapinto, que mantiene un vínculo con el campo y los caballos desde su infancia. Lejos de la exigencia de la máxima categoría del automovilismo, el joven aprovechó la visita a un rancho para reencontrarse con una afición que forma parte de su vida fuera de las pistas. Ahora, Colapinto deberá volver a concentrarse en la actividad deportiva. El Gran Premio de Estados Unidos se disputará en el Circuito de las Américas, en Austin, entre este viernes 23 y el domingo 25 de octubre , en una nueva oportunidad para competir en la temporada de Fórmula 1. Después de su particular paseo texano, el argentino cambiará las riendas por el volante para afrontar un nuevo desafío con Alpine.",
-          "language": "es",
-          "publishedAt": "2026-10-22T00:44:51.000Z",
-          "addedAt": "2026-10-22T00:56:09.995Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-informe-f1-casualidad-o-consecuencia",
-          "title": "Informe F1: \"Casualidad o consecuencia\" | Campeones",
-          "summary": "Un análisis técnico al detalle del Alpine de Franco Colapinto y Pierre Gasly, y su comparación otros autos de la Fórmula 1.",
+          "id": "campeones-com-ar-abandono-de-franco-colapinto-en-el-gp-de-estados-unidos",
+          "title": "Prematuro abandono de Colapinto en el GP de Estados Unidos",
+          "summary": "Una pieza dañada en el Alpine, tras un roce con el Racing Bulls de Lindblad, obligó al piloto argentino a dejar la carrera de F1 que ganó Antonelli con Mercedes quedando a dos puntos para coronarse campeón mundial.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/informe-f1-casualidad-o-consecuencia/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/steptodown.com787466.jpg",
+          "url": "https://campeones.com.ar/abandono-de-franco-colapinto-en-el-gp-de-estados-unidos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-F1-Colapinto-Alpine.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-28T18:39:42.000Z",
-          "addedAt": "2026-10-28T20:58:16.396Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-la-reflexion-de-colapinto-tras-su-abandono-hay-que-cortar-esta-racha",
-          "title": "La reflexión de Colapinto tras su abandono: «Hay que cortar esta racha»",
-          "summary": "Al concluir el GP de Estados Unidos, el piloto argentino habló con los medios y señaló los inconvenientes que afrontó con el Alpine y que lo obligaron a desertar la carrera.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-reflexion-de-colapinto-tras-su-abandono-hay-que-cortar-esta-racha/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-F1-Colapinto-Box-Alpine.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-26T00:11:44.000Z",
-          "addedAt": "2026-10-26T01:46:12.449Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-ser-efectivo-y-competitivo-en-el-gp-de-mexico-de-f1-son-los-objetivos-de-colapinto",
-          "title": "Ser efectivo y competitivo en el GP de México de F1, son los objetivos de Colapinto",
-          "summary": "Enfocado en el próximo fin de semana, el piloto argentino espera revertir los malos resultados con el Alpine A526.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/ser-efectivo-y-competitivo-en-el-gp-de-mexico-de-f1-son-los-objetivos-de-colapinto/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-F1-Colapinto-Alpine.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-27T21:58:50.000Z",
-          "addedAt": "2026-10-27T23:14:08.565Z",
+          "publishedAt": "2026-10-25T21:12:02.000Z",
+          "addedAt": "2026-10-25T21:40:43.525Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1955,28 +1865,73 @@
           "addedAt": "2026-10-28T15:56:18.055Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-la-reflexion-de-colapinto-tras-su-abandono-hay-que-cortar-esta-racha",
+          "title": "La reflexión de Colapinto tras su abandono: «Hay que cortar esta racha»",
+          "summary": "Al concluir el GP de Estados Unidos, el piloto argentino habló con los medios y señaló los inconvenientes que afrontó con el Alpine y que lo obligaron a desertar la carrera.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-reflexion-de-colapinto-tras-su-abandono-hay-que-cortar-esta-racha/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-F1-Colapinto-Box-Alpine.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-26T00:11:44.000Z",
+          "addedAt": "2026-10-26T01:46:12.449Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-que-dijo-briatore-tras-abandono-colapinto-f1-id768713-html",
+          "title": "Briatore, decepcionado tras el abandono de Colapinto en el GP de Estados Unidos: “No fue el resultado que esperábamos”",
+          "summary": "Tras el abandono de Franco Colapinto y el 10° puesto de Pierre Gasly, el asesor ejecutivo de la escudería francesa se lamentó por la actuación del equipo en Austin. “La suerte no estuvo de nuestro lado”, aseguró.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/que-dijo-briatore-tras-abandono-colapinto-f1-id768713.html",
+          "image": "https://media.tycsports.com/files/2026/10/26/999956/briatore_1440x810.webp?v=1",
+          "body": "Tras el abandono de Franco Colapinto y el 10° puesto de Pierre Gasly, el asesor ejecutivo de la escudería francesa se lamentó por la actuación del equipo en Austin. “La suerte no estuvo de nuestro lado”, aseguró.\n\nFlavio Briatore se mostró decepcionado con el rendimiento de Alpine en el GP de Estados Unidos. (Getty Images) + Seguinos en Franco Colapinto sufrió un nuevo revés en el Gran Premio de Estados Unidos. El argentino se vio obligado a abandonar en el giro 37 debido a los daños en su monoplaza tras un toque con el Racing Bulls de Arvid Lindblad y se fue con las manos vacías del Circuito de las Américas. Luego de la carrera, el asesor ejecutivo de Alpine, Flavio Briatore, realizó un balance del fin de semana de la escudería francesa y dejó en claro que “no fue el resultado que esperábamos”.\n\nAl margen del abandono del pilarense (el tercero en las últimas cuatro carreras), Briatore opinó acerca de las dificultades que atravesaron sus dos pilotos en Austin. “Creo que la suerte no ha estado precisamente de nuestro lado últimamente. Ambos autos sufrieron daños durante la carrera y, en el caso de Franco, fueron lo suficientemente significativos como para no terminar la carrera” , expresó.\n\nEl italiano de 76 años también se refirió a la actuación de Pierre Gasly, quien cruzó la meta 10° y logró sumar un punto para el equipo: “Dado que Pierre también perdió carga aerodinámica por daños en el fondo plano tras el incidente con el Haas, lo hizo bien para sumar, conseguir un punto y quedar a solo una posición por detrás del auto de Racing Bulls mejor ubicado”.\n\nÂ¡QUE MALA SUERTE, FRANCO! Colapinto tuvo problemas en su Alpine que lo obligaron a abandonar la carrera en Austin. ðº #USGP | Toda la temporada de #F1 por ESPN en el Plan Premium de #DisneyPlus https://t.co/KOs5RaOh",
+          "language": "es",
+          "publishedAt": "2026-10-26T20:00:14.000Z",
+          "addedAt": "2026-10-26T23:46:29.688Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id",
+          "title": "\"Mucho trabajo por hacer\": Colapinto apunta a la recuperación de Alpine en Austin",
+          "summary": "El piloto argentino de la Fórmula 1 contó que estuvo en Enstone de cara al Gran Premio de Estados Unidos.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id767428.html",
+          "image": "https://media.tycsports.com/files/2026/10/20/997816/franco-colapinto_1440x810.webp",
+          "body": "El piloto argentino de la Fórmula 1 contó que estuvo en Enstone de cara al Gran Premio de Estados Unidos.\n\nFranco Colapinto, piloto de Alpine en la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en El Gran Premio de Estados Unidos representa una nueva oportunidad para Franco Colapinto , que intentará cortar la mala racha de Alpine después de tres fechas consecutivas sin sumar puntos . El piloto argentino se prepara para afrontar el desafío en Austin, donde buscará encontrar respuestas tras un exigente trabajo junto a los ingenieros de la escudería.\n\nLuego de su participación en Singapur, el joven de Pilar viajó a la fábrica de Enstone , en Inglaterra, para analizar los problemas del monoplaza. El objetivo fue identificar aspectos por mejorar antes de encarar la próxima competencia y recuperar competitividad en la Fórmula 1. \"Venimos de una serie de carreras difíciles pero estuve de regreso en Enstone con mis ingenieros y todos trabajamos mucho para asegurarnos de que las próximas sean bastante mejores\", explicó. \" Tenemos mucho trabajo por hacer en la pista y estoy motivado para hacerlo y tener otro buen fin de semana en Austin\" , añadió.\n\nEl pedido de Colapinto por los mensajes de odio en redes El trazado texano le trae buenos recuerdos al argentino. En 2024, cuando apenas disputaba s u cuarta carrera en la máxima categoría con Williams, terminó en zona de puntos y protagonizó una maniobra ante Fernando Alonso que fue elegida como el mejor sobrepaso . Además, el calendario que se aproxima tiene un atractivo especial para él, ya que incluye tres compromisos consecutivos en el continente americano. \"Estoy deseando volver a correr en Austin y comenzar una de las triples fechas más divertidas del año. Manejar en Texas, Ciudad de México y San Pablo es increíble para mí, po",
+          "language": "es",
+          "publishedAt": "2026-10-20T20:01:01.000Z",
+          "addedAt": "2026-10-20T22:28:55.340Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
+          "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
+          "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-ranking-peor-f1-gp-singapur-id765831.html",
+          "image": "https://media.tycsports.com/files/2026/10/12/995348/franco_1440x810.webp?v=1",
+          "body": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.\n\nFranco Colapinto tuvo que abandonar en el GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto tuvo un fin de semana para el olvido en el Gran Premio de Singapur de Fórmula 1 . El piloto argentino sufrió dos abandonos, tanto en la Sprint como en la carrera principal, debido a problemas de fiabilidad en su Alpine y no pudo volver a sumar puntos. Ante este panorama, un medio inglés ubicó al #43 entre los peores de su ranking.\n\nSe trata de The Race , un medio especializado que confecciona un ranking luego de cada carrera en el que pondera la actuación de cada corredor. En Singapur, Colapinto ocupó el puesto 19, solo por delante de Alex Albon, Valtteri Bottas y Lance Stroll , quienes también sufrieron complicaciones con sus monoplazas.\n\n“El ritmo subyacente era mejor de lo que parecía, pero la clasificación no se optimizó al máximo” , fue el veredicto final del portal inglés respecto a la performance del #43.\n\n“En la clasificación al sprint, mantuvo un ritmo similar al de su compañero de equipo en Alpine, Gasly. Su eliminación en la segunda ronda de clasificación se debió exclusivamente al tiempo perdido por los frenos y a que los neumáticos no estaban a la temperatura adecuada para la primera curva. Llegó a ocupar brevemente el duodécimo puesto en la carrera al sprint antes de detenerse por un problema en la reserva de energía”, analizó The Race.",
+          "language": "es",
+          "publishedAt": "2026-10-12T21:27:52.000Z",
+          "addedAt": "2026-10-18T07:11:28.307Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-28T20:58:24.854Z",
+      "createdAt": "2026-10-29T00:48:34.526Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-la-chicana-de-mercedes-al-resto-de-la-formula-1-por-antonelli-decian-que-ni-siquiera-deb",
-          "title": "La chicana de Mercedes al resto de la Fórmula 1 por Antonelli: \"Decían que ni siquiera...\"",
-          "summary": "Con grandes chances de coronar en el inminente Gran Premio de México, Toto Wolff destacó lo hecho por el joven piloto italiano y disparó con munición gruesa ante los detractores.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-chicana-de-mercedes-al-resto-de-la-formula-1-por-antonelli-decian-que-ni-siquiera-deberia-haber-estado-en-la-categoria-id768918.html",
-          "image": "https://media.tycsports.com/files/2026/10/27/1000323/kimi-antonelli-mercedes-formula-1-toto-wolff-_1440x810.webp?v=1",
-          "body": "Con grandes chances de coronar en el inminente Gran Premio de México, Toto Wolff destacó lo hecho por el joven piloto italiano y disparó con munición gruesa ante los detractores.\n\nAntonelli y Toto Wolff tras el triunfo en el Gran Premio de Mónaco de la Fórmula 1 en 2026. (Nicola Ciancaglini/Ciancaphoto Studio/Getty Images) + Seguinos en Kimi Antonelli se impuso en el Gran Premio de Estados Unidos y quedó a solo dos puntos de consagrarse en el Campeonato de Pilotos de la Fórmula 1 en 2026 , un hito que puede alcanzar el próximo fin de semana en México y que despertó grandes elogios por parte de Toto Wolff.\n\nAnte la inminente consagración de Antonelli, el Jefe de Equipo de Mercedes aprovechó la oportunidad para arremeter contra quienes cuestionaron su decisión de disponer del joven italiano como reemplazante de Lewis Hamilton .\n\n\" Creo que la carrera en Texas fue la mejor de Kimi hasta ahora en la Fórmula 1 . Partir con un compuesto inferior al de los pilotos que venían detrás, lograr mantenerse por delante y luego mantener esa ventaja fue increíble de ver. Fue la carrera de un campeón que aún no es campeón, pero que ya es excepcional \" , inició en diálogo con Gazzetta dello Sport respecto a la reciente victoria en Austin.\n\nEl austríaco confesó sentirse orgulloso por la evolución del joven italiano de 20 años y detalló lo que fue la inversión de Mercedes para que pueda alcanzar su máximo potencial: \" Pero no es mérito mío, sino de todo el equipo y de nuestro departamento de formación de jóvenes, que lo descubrió cuando tenía once años y lo apoyó durante todo su crecimiento y éxito \".",
-          "language": "es",
-          "publishedAt": "2026-10-27T22:23:54.000Z",
-          "addedAt": "2026-10-27T23:14:06.359Z",
-          "category": "general",
-          "tag": "F1"
-        },
         {
           "id": "www-tycsports-com-automovilismo-era-una-sensacion-de-la-f1-pero-murio-tragicamente-durante-un-gran-premio-como-vaticino-",
           "title": "Era una sensación de la F1, pero murió trágicamente durante un Gran Premio como vaticinó una vidente",
@@ -2038,17 +1993,17 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id768571-html",
-          "title": "Qué necesita Kimi Antonelli para ser campeón de la Fórmula 1 en México",
-          "summary": "El italiano se quedó con la victoria en el Gran Premio de Estados Unidos y está cada vez más cerca de levantar su primer título en la Máxima.",
+          "id": "www-tycsports-com-automovilismo-la-chicana-de-mercedes-al-resto-de-la-formula-1-por-antonelli-decian-que-ni-siquiera-deb",
+          "title": "La chicana de Mercedes al resto de la Fórmula 1 por Antonelli: \"Decían que ni siquiera...\"",
+          "summary": "Con grandes chances de coronar en el inminente Gran Premio de México, Toto Wolff destacó lo hecho por el joven piloto italiano y disparó con munición gruesa ante los detractores.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id768571.html",
-          "image": "https://media.tycsports.com/files/2026/10/25/999624/kimi_1440x810.webp?v=1",
-          "body": "El italiano se quedó con la victoria en el Gran Premio de Estados Unidos y está cada vez más cerca de levantar su primer título en la Máxima.\n\nKimi Antonelli ganó el GP de Estados Unidos. (Getty Images) + Seguinos en Kimi Antonelli ganó el Gran Premio de Estados Unidos y quedó a un paso de consagrarse campeón de la Fórmula 1. El italiano amplió aún más su ventaja sobre George Russell y todo parece indicar que levantará su primer título del mundo el próximo fin de semana en México.\n\nEl piloto de Mercedes suma 365 puntos y aventaja por 123 a su compañero de equipo , quien finalizó octavo en Austin y ocupa el segundo lugar con 242. Con 125 unidades aún en juego, a falta de cinco fechas para que concluya el Campeonato, Antonelli tendrá la oportunidad de cerrar la pelea en la próxima fecha.\n\nPara levantar el título el próximo domingo en México, al italiano le alcanzará con sumar apenas dos puntos, es decir, cruzar la meta en el noveno lugar o mejor , sin importar cómo terminen sus rivales. De esa manera, alcanzaría los 367 puntos y dejaría sin chances tanto a Russell como a Hamilton (241).\n\nEl único escenario en el que la definición se estiraría una jornada más sería que Antonellí finalice 10° y Russell se quede con el triunfo, o que el italiano sea 11° o peor y Hamilton gane la carrera. Vale la pena aclarar que, si ni Russell ni Hamilton logran cruzar la meta en el primer lugar, Kimi será campeón sin importar su posición final.",
+          "url": "https://www.tycsports.com/automovilismo/la-chicana-de-mercedes-al-resto-de-la-formula-1-por-antonelli-decian-que-ni-siquiera-deberia-haber-estado-en-la-categoria-id768918.html",
+          "image": "https://media.tycsports.com/files/2026/10/27/1000323/kimi-antonelli-mercedes-formula-1-toto-wolff-_1440x810.webp?v=1",
+          "body": "Con grandes chances de coronar en el inminente Gran Premio de México, Toto Wolff destacó lo hecho por el joven piloto italiano y disparó con munición gruesa ante los detractores.\n\nAntonelli y Toto Wolff tras el triunfo en el Gran Premio de Mónaco de la Fórmula 1 en 2026. (Nicola Ciancaglini/Ciancaphoto Studio/Getty Images) + Seguinos en Kimi Antonelli se impuso en el Gran Premio de Estados Unidos y quedó a solo dos puntos de consagrarse en el Campeonato de Pilotos de la Fórmula 1 en 2026 , un hito que puede alcanzar el próximo fin de semana en México y que despertó grandes elogios por parte de Toto Wolff.\n\nAnte la inminente consagración de Antonelli, el Jefe de Equipo de Mercedes aprovechó la oportunidad para arremeter contra quienes cuestionaron su decisión de disponer del joven italiano como reemplazante de Lewis Hamilton .\n\n\" Creo que la carrera en Texas fue la mejor de Kimi hasta ahora en la Fórmula 1 . Partir con un compuesto inferior al de los pilotos que venían detrás, lograr mantenerse por delante y luego mantener esa ventaja fue increíble de ver. Fue la carrera de un campeón que aún no es campeón, pero que ya es excepcional \" , inició en diálogo con Gazzetta dello Sport respecto a la reciente victoria en Austin.\n\nEl austríaco confesó sentirse orgulloso por la evolución del joven italiano de 20 años y detalló lo que fue la inversión de Mercedes para que pueda alcanzar su máximo potencial: \" Pero no es mérito mío, sino de todo el equipo y de nuestro departamento de formación de jóvenes, que lo descubrió cuando tenía once años y lo apoyó durante todo su crecimiento y éxito \".",
           "language": "es",
-          "publishedAt": "2026-10-25T22:36:31.000Z",
-          "addedAt": "2026-10-25T23:34:59.624Z",
+          "publishedAt": "2026-10-27T22:23:54.000Z",
+          "addedAt": "2026-10-27T23:14:06.359Z",
           "category": "general",
           "tag": "F1"
         },
@@ -2109,6 +2064,36 @@
           "language": "es",
           "publishedAt": "2026-10-28T15:32:01.000Z",
           "addedAt": "2026-10-28T15:56:16.784Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc2000-horarios-para-una-nueva-fecha-en-general-roca",
+          "title": "TC2000: horarios para una nueva fecha en General Roca | Campeones",
+          "summary": "La categoría visita el autódromo rionegrino, junto al Top Race y la Fórmula Nacional, ingresando en la recta final del campeonato.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc2000-horarios-para-una-nueva-fecha-en-general-roca/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SNZ_0686.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-28T13:44:35.000Z",
+          "addedAt": "2026-10-28T15:56:18.553Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id768571-html",
+          "title": "Qué necesita Kimi Antonelli para ser campeón de la Fórmula 1 en México",
+          "summary": "El italiano se quedó con la victoria en el Gran Premio de Estados Unidos y está cada vez más cerca de levantar su primer título en la Máxima.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id768571.html",
+          "image": "https://media.tycsports.com/files/2026/10/25/999624/kimi_1440x810.webp?v=1",
+          "body": "El italiano se quedó con la victoria en el Gran Premio de Estados Unidos y está cada vez más cerca de levantar su primer título en la Máxima.\n\nKimi Antonelli ganó el GP de Estados Unidos. (Getty Images) + Seguinos en Kimi Antonelli ganó el Gran Premio de Estados Unidos y quedó a un paso de consagrarse campeón de la Fórmula 1. El italiano amplió aún más su ventaja sobre George Russell y todo parece indicar que levantará su primer título del mundo el próximo fin de semana en México.\n\nEl piloto de Mercedes suma 365 puntos y aventaja por 123 a su compañero de equipo , quien finalizó octavo en Austin y ocupa el segundo lugar con 242. Con 125 unidades aún en juego, a falta de cinco fechas para que concluya el Campeonato, Antonelli tendrá la oportunidad de cerrar la pelea en la próxima fecha.\n\nPara levantar el título el próximo domingo en México, al italiano le alcanzará con sumar apenas dos puntos, es decir, cruzar la meta en el noveno lugar o mejor , sin importar cómo terminen sus rivales. De esa manera, alcanzaría los 367 puntos y dejaría sin chances tanto a Russell como a Hamilton (241).\n\nEl único escenario en el que la definición se estiraría una jornada más sería que Antonellí finalice 10° y Russell se quede con el triunfo, o que el italiano sea 11° o peor y Hamilton gane la carrera. Vale la pena aclarar que, si ni Russell ni Hamilton logran cruzar la meta en el primer lugar, Kimi será campeón sin importar su posición final.",
+          "language": "es",
+          "publishedAt": "2026-10-25T22:36:31.000Z",
+          "addedAt": "2026-10-25T23:34:59.624Z",
           "category": "general",
           "tag": "F1"
         },
@@ -2216,7 +2201,13 @@
           "addedAt": "2026-10-18T07:11:28.079Z",
           "category": "general",
           "tag": "Carrera"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-29T00:48:34.526Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
           "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
@@ -2231,13 +2222,7 @@
           "addedAt": "2026-10-18T07:11:28.259Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-28T20:58:24.854Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-era-una-promesa-de-la-f1-un-helicoptero-le-corto-el-brazo-y-termino-en-la-quiebra-id7671",
           "title": "Era una promesa de la F1, un helicóptero le cortó el brazo y terminó en la quiebra",
@@ -2314,62 +2299,17 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-con-una-baja-importante-el-tc-pista-llega-a-rosario",
-          "title": "Con una baja importante, el TC Pista llega a Rosario | Campeones",
-          "summary": "La \"telonera\" del Turismo Carretera tendrá 19 autos en pista y la ausencia de Eugenio Provens, protagonista de la Copa de Plata.",
+          "id": "campeones-com-ar-informe-f1-casualidad-o-consecuencia",
+          "title": "Informe F1: \"Casualidad o consecuencia\" | Campeones",
+          "summary": "Un análisis técnico al detalle del Alpine de Franco Colapinto y Pierre Gasly, y su comparación otros autos de la Fórmula 1.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/con-una-baja-importante-el-tc-pista-llega-a-rosario/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/tc-pista-san-ncipolas.jpg",
+          "url": "https://campeones.com.ar/informe-f1-casualidad-o-consecuencia/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/steptodown.com787466.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-21T19:20:45.000Z",
-          "addedAt": "2026-10-21T19:27:18.258Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-que-dijo-briatore-tras-abandono-colapinto-f1-id768713-html",
-          "title": "Briatore, decepcionado tras el abandono de Colapinto en el GP de Estados Unidos: “No fue el resultado que esperábamos”",
-          "summary": "Tras el abandono de Franco Colapinto y el 10° puesto de Pierre Gasly, el asesor ejecutivo de la escudería francesa se lamentó por la actuación del equipo en Austin. “La suerte no estuvo de nuestro lado”, aseguró.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/que-dijo-briatore-tras-abandono-colapinto-f1-id768713.html",
-          "image": "https://media.tycsports.com/files/2026/10/26/999956/briatore_1440x810.webp?v=1",
-          "body": "Tras el abandono de Franco Colapinto y el 10° puesto de Pierre Gasly, el asesor ejecutivo de la escudería francesa se lamentó por la actuación del equipo en Austin. “La suerte no estuvo de nuestro lado”, aseguró.\n\nFlavio Briatore se mostró decepcionado con el rendimiento de Alpine en el GP de Estados Unidos. (Getty Images) + Seguinos en Franco Colapinto sufrió un nuevo revés en el Gran Premio de Estados Unidos. El argentino se vio obligado a abandonar en el giro 37 debido a los daños en su monoplaza tras un toque con el Racing Bulls de Arvid Lindblad y se fue con las manos vacías del Circuito de las Américas. Luego de la carrera, el asesor ejecutivo de Alpine, Flavio Briatore, realizó un balance del fin de semana de la escudería francesa y dejó en claro que “no fue el resultado que esperábamos”.\n\nAl margen del abandono del pilarense (el tercero en las últimas cuatro carreras), Briatore opinó acerca de las dificultades que atravesaron sus dos pilotos en Austin. “Creo que la suerte no ha estado precisamente de nuestro lado últimamente. Ambos autos sufrieron daños durante la carrera y, en el caso de Franco, fueron lo suficientemente significativos como para no terminar la carrera” , expresó.\n\nEl italiano de 76 años también se refirió a la actuación de Pierre Gasly, quien cruzó la meta 10° y logró sumar un punto para el equipo: “Dado que Pierre también perdió carga aerodinámica por daños en el fondo plano tras el incidente con el Haas, lo hizo bien para sumar, conseguir un punto y quedar a solo una posición por detrás del auto de Racing Bulls mejor ubicado”.\n\nÂ¡QUE MALA SUERTE, FRANCO! Colapinto tuvo problemas en su Alpine que lo obligaron a abandonar la carrera en Austin. ðº #USGP | Toda la temporada de #F1 por ESPN en el Plan Premium de #DisneyPlus https://t.co/KOs5RaOh",
-          "language": "es",
-          "publishedAt": "2026-10-26T20:00:14.000Z",
-          "addedAt": "2026-10-26T23:46:29.688Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id",
-          "title": "\"Mucho trabajo por hacer\": Colapinto apunta a la recuperación de Alpine en Austin",
-          "summary": "El piloto argentino de la Fórmula 1 contó que estuvo en Enstone de cara al Gran Premio de Estados Unidos.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id767428.html",
-          "image": "https://media.tycsports.com/files/2026/10/20/997816/franco-colapinto_1440x810.webp",
-          "body": "El piloto argentino de la Fórmula 1 contó que estuvo en Enstone de cara al Gran Premio de Estados Unidos.\n\nFranco Colapinto, piloto de Alpine en la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en El Gran Premio de Estados Unidos representa una nueva oportunidad para Franco Colapinto , que intentará cortar la mala racha de Alpine después de tres fechas consecutivas sin sumar puntos . El piloto argentino se prepara para afrontar el desafío en Austin, donde buscará encontrar respuestas tras un exigente trabajo junto a los ingenieros de la escudería.\n\nLuego de su participación en Singapur, el joven de Pilar viajó a la fábrica de Enstone , en Inglaterra, para analizar los problemas del monoplaza. El objetivo fue identificar aspectos por mejorar antes de encarar la próxima competencia y recuperar competitividad en la Fórmula 1. \"Venimos de una serie de carreras difíciles pero estuve de regreso en Enstone con mis ingenieros y todos trabajamos mucho para asegurarnos de que las próximas sean bastante mejores\", explicó. \" Tenemos mucho trabajo por hacer en la pista y estoy motivado para hacerlo y tener otro buen fin de semana en Austin\" , añadió.\n\nEl pedido de Colapinto por los mensajes de odio en redes El trazado texano le trae buenos recuerdos al argentino. En 2024, cuando apenas disputaba s u cuarta carrera en la máxima categoría con Williams, terminó en zona de puntos y protagonizó una maniobra ante Fernando Alonso que fue elegida como el mejor sobrepaso . Además, el calendario que se aproxima tiene un atractivo especial para él, ya que incluye tres compromisos consecutivos en el continente americano. \"Estoy deseando volver a correr en Austin y comenzar una de las triples fechas más divertidas del año. Manejar en Texas, Ciudad de México y San Pablo es increíble para mí, po",
-          "language": "es",
-          "publishedAt": "2026-10-20T20:01:01.000Z",
-          "addedAt": "2026-10-20T22:28:55.340Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
-          "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
-          "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-ranking-peor-f1-gp-singapur-id765831.html",
-          "image": "https://media.tycsports.com/files/2026/10/12/995348/franco_1440x810.webp?v=1",
-          "body": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.\n\nFranco Colapinto tuvo que abandonar en el GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto tuvo un fin de semana para el olvido en el Gran Premio de Singapur de Fórmula 1 . El piloto argentino sufrió dos abandonos, tanto en la Sprint como en la carrera principal, debido a problemas de fiabilidad en su Alpine y no pudo volver a sumar puntos. Ante este panorama, un medio inglés ubicó al #43 entre los peores de su ranking.\n\nSe trata de The Race , un medio especializado que confecciona un ranking luego de cada carrera en el que pondera la actuación de cada corredor. En Singapur, Colapinto ocupó el puesto 19, solo por delante de Alex Albon, Valtteri Bottas y Lance Stroll , quienes también sufrieron complicaciones con sus monoplazas.\n\n“El ritmo subyacente era mejor de lo que parecía, pero la clasificación no se optimizó al máximo” , fue el veredicto final del portal inglés respecto a la performance del #43.\n\n“En la clasificación al sprint, mantuvo un ritmo similar al de su compañero de equipo en Alpine, Gasly. Su eliminación en la segunda ronda de clasificación se debió exclusivamente al tiempo perdido por los frenos y a que los neumáticos no estaban a la temperatura adecuada para la primera curva. Llegó a ocupar brevemente el duodécimo puesto en la carrera al sprint antes de detenerse por un problema en la reserva de energía”, analizó The Race.",
-          "language": "es",
-          "publishedAt": "2026-10-12T21:27:52.000Z",
-          "addedAt": "2026-10-18T07:11:28.307Z",
+          "publishedAt": "2026-10-28T18:39:42.000Z",
+          "addedAt": "2026-10-28T20:58:16.396Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2385,6 +2325,21 @@
           "language": "es",
           "publishedAt": "2026-10-23T10:27:14.000Z",
           "addedAt": "2026-10-21T15:26:33.886Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-ser-efectivo-y-competitivo-en-el-gp-de-mexico-de-f1-son-los-objetivos-de-colapinto",
+          "title": "Ser efectivo y competitivo en el GP de México de F1, son los objetivos de Colapinto",
+          "summary": "Enfocado en el próximo fin de semana, el piloto argentino espera revertir los malos resultados con el Alpine A526.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/ser-efectivo-y-competitivo-en-el-gp-de-mexico-de-f1-son-los-objetivos-de-colapinto/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-F1-Colapinto-Alpine.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-27T21:58:50.000Z",
+          "addedAt": "2026-10-27T23:14:08.565Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2507,13 +2462,7 @@
           "addedAt": "2026-10-24T23:28:33.023Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-28T20:58:24.854Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-f2-argentina-franco-ledesma-cerro-un-sabado-perfecto-en-rosario",
           "title": "F2 Argentina: Ledesma cerró un sábado perfecto en Rosario",
@@ -2528,7 +2477,13 @@
           "addedAt": "2026-10-24T18:44:37.725Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-29T00:48:34.526Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-mattia-colnaghi-campos-racing-formula-3-2027-id767199-html",
           "title": "Mattia Colnaghi correrá en un equipo de punta de la F3 en 2027",
@@ -2558,6 +2513,21 @@
           "addedAt": "2026-10-26T19:54:17.690Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-disfruto-de-un-paseo-a-caballo-antes-del-gp-de-estados-unidos-en-la-formula-1-",
+          "title": "Colapinto sorprendió en Texas con una actividad lejos de la Fórmula 1",
+          "summary": "El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones desde su infancia.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-disfruto-de-un-paseo-a-caballo-antes-del-gp-de-estados-unidos-en-la-formula-1-id767656.html",
+          "image": "https://media.tycsports.com/files/2026/10/21/998204/colapinto-en-texas_1440x810.webp?v=1",
+          "body": "El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones desde su infancia.\n\nColapinto en Texas en la previa del GP de Estados Unidos + Seguinos en Franco Colapinto se metió en el ambiente texano durante la previa del Gran Premio de Estados Unidos de Fórmula 1. El argentino dejó por unas horas el volante de su Alpine para volver a una de sus pasiones, montar a caballo, en una actividad que compartió la escudería francesa a través de sus redes sociales.\n\n“Una gran experiencia, montando a caballo por primera vez en Austin, verdaderamente emocionante” , expresó el piloto en el video publicado por Alpine. Con entusiasmo, también bromeó sobre el cambio de vehículo: “Probando un diferente caballo de fuerza (HP) este fin de semana, divirtiéndome”.\n\nColapinto disfrutó de un paseo a caballo en la previa del GP de Estados Unidos La actividad tuvo un significado especial para Colapinto, que mantiene un vínculo con el campo y los caballos desde su infancia. Lejos de la exigencia de la máxima categoría del automovilismo, el joven aprovechó la visita a un rancho para reencontrarse con una afición que forma parte de su vida fuera de las pistas. Ahora, Colapinto deberá volver a concentrarse en la actividad deportiva. El Gran Premio de Estados Unidos se disputará en el Circuito de las Américas, en Austin, entre este viernes 23 y el domingo 25 de octubre , en una nueva oportunidad para competir en la temporada de Fórmula 1. Después de su particular paseo texano, el argentino cambiará las riendas por el volante para afrontar un nuevo desafío con Alpine.",
+          "language": "es",
+          "publishedAt": "2026-10-22T00:44:51.000Z",
+          "addedAt": "2026-10-22T00:56:09.995Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-sigue-el-idilio-de-lando-norris-con-franco-colapinto-es-una-carta-muy-bonita-id766880-ht",
@@ -2618,21 +2588,6 @@
           "addedAt": "2026-10-18T07:11:28.193Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-tc-canapino-y-el-canning-motorsport-apuestan-por-el-motor-preparado-por-bonelli",
-          "title": "TC: Canapino y el Canning Motorsport apuestan por el motor preparado por Bonelli",
-          "summary": "Próspero Bonelli es el nuevo responsable de los motores del Chevrolet Camaro de Agustín Canapino en el Turismo Carretera.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-canapino-y-el-canning-motorsport-apuestan-por-el-motor-preparado-por-bonelli/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/AGUSTIN-CANAPINO-CHEVROLET-CAMARO-PARANA.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-27T22:48:00.000Z",
-          "addedAt": "2026-10-27T14:45:20.446Z",
-          "category": "argentino",
-          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
@@ -2753,6 +2708,21 @@
           "addedAt": "2026-10-24T18:44:40.890Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-tc-canapino-y-el-canning-motorsport-apuestan-por-el-motor-preparado-por-bonelli",
+          "title": "TC: Canapino y el Canning Motorsport apuestan por el motor preparado por Bonelli",
+          "summary": "Próspero Bonelli es el nuevo responsable de los motores del Chevrolet Camaro de Agustín Canapino en el Turismo Carretera.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-canapino-y-el-canning-motorsport-apuestan-por-el-motor-preparado-por-bonelli/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/AGUSTIN-CANAPINO-CHEVROLET-CAMARO-PARANA.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-27T22:48:00.000Z",
+          "addedAt": "2026-10-27T14:45:20.446Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-lema-y-el-alejamiento-de-costanzo-en-tc-no-fue-una-decision-personal-sino-de-todos",
