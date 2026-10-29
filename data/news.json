@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-29T00:48:26.590Z",
-  "checkedAt": "2026-10-29T00:48:26.590Z",
+  "updatedAt": "2026-10-29T06:32:05.702Z",
+  "checkedAt": "2026-10-29T06:32:05.702Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,21 +40,6 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-santino-panetta-6-en-la-primera-carrera-y-con-podio-rookie-en-hungria",
-      "title": "Santino Panetta 6.° en la primera carrera y con podio “Rookie” en Hungría | Campeones",
-      "summary": "El joven piloto de Hitech ganó tres colocaciones respecto a la largada y cerró un gran sábado en un exigente trazado como es el Hungaroring.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/santino-panetta-6-en-la-primera-carrera-y-con-podio-rookie-en-hungria/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/IMG_0104.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-24T13:40:23.000Z",
-      "addedAt": "2026-10-24T18:44:35.564Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-santino-panetta-5-y-9-en-los-ensayos-de-eurocup-3",
       "title": "Santino Panetta: 5° y 7° en los ensayos de Eurocup-3 | Campeones",
       "summary": "En Hungría, la categoría disputa su séptima fecha del calendario y el piloto Hitech se mostró competitivo en ambas practicas, donde además de ubicarse bien arriba, mejoró los tiempos.",
@@ -66,21 +51,6 @@
       "language": "es",
       "publishedAt": "2026-10-23T17:45:04.000Z",
       "addedAt": "2026-10-23T20:32:46.758Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-importante-prueba-para-agustin-canapino-en-el-tn",
-      "title": "Importante prueba para Agustín Canapino en el TN | Campeones",
-      "summary": "\"El Titán\" ensayó en San Nicolás con el Chevrolet Cruze líder de la Clase 3, en la previa de las últimas dos fechas del campeonato.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/importante-prueba-para-agustin-canapino-en-el-tn/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/1792604109_6ad8f7cd83346.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-22T02:03:39.000Z",
-      "addedAt": "2026-10-27T14:45:28.421Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -128,36 +98,6 @@
       "addedAt": "2026-10-27T19:41:09.465Z",
       "category": "general",
       "tag": "Carrera"
-    },
-    {
-      "id": "campeones-com-ar-argento-brindo-detalles-de-la-visita-salta-y-remarco-las-obras-necesarias-en-el-trazado",
-      "title": "Salta sueña con el TC pero necesita muchas obras | Campeones",
-      "summary": "En diálogo con Campeones, Roberto Argento contó los pormenores de la inspección de la ACTC, ocurrida ayer, y de la voluntad de la provincia en recibir categorías de la entidad teceísta.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/argento-brindo-detalles-de-la-visita-salta-y-remarco-las-obras-necesarias-en-el-trazado/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2025/10/SALTA-AUTODROMO.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-28T18:01:21.000Z",
-      "addedAt": "2026-10-28T20:58:15.383Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-75o-aniversario-del-primer-titulo-mundial-de-juan-manuel-fangio-en-formula-1",
-      "title": "75º aniversario del primer título mundial de Juan Manuel Fangio en Fórmula 1 | Campeones",
-      "summary": "Un 28 de octubre de 1951, el \"Checo\" se consagraba campeón de la \"máxima\" en España, comenzando así un recorrido imborrable.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/75o-aniversario-del-primer-titulo-mundial-de-juan-manuel-fangio-en-formula-1/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/o_1793186352.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-28T14:40:32.000Z",
-      "addedAt": "2026-10-28T15:56:17.599Z",
-      "category": "general",
-      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-julian-santero-ante-una-posibilidad-inedita-en-la-historia-del-tc",
@@ -355,6 +295,36 @@
       "tag": "Franco"
     },
     {
+      "id": "campeones-com-ar-argento-brindo-detalles-de-la-visita-salta-y-remarco-las-obras-necesarias-en-el-trazado",
+      "title": "Salta sueña con el TC pero necesita muchas obras | Campeones",
+      "summary": "En diálogo con Campeones, Roberto Argento contó los pormenores de la inspección de la ACTC, ocurrida ayer, y de la voluntad de la provincia en recibir categorías de la entidad teceísta.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/argento-brindo-detalles-de-la-visita-salta-y-remarco-las-obras-necesarias-en-el-trazado/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2025/10/SALTA-AUTODROMO.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-28T18:01:21.000Z",
+      "addedAt": "2026-10-28T20:58:15.383Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-75o-aniversario-del-primer-titulo-mundial-de-juan-manuel-fangio-en-formula-1",
+      "title": "75º aniversario del primer título mundial de Juan Manuel Fangio en Fórmula 1 | Campeones",
+      "summary": "Un 28 de octubre de 1951, el \"Checo\" se consagraba campeón de la \"máxima\" en España, comenzando así un recorrido imborrable.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/75o-aniversario-del-primer-titulo-mundial-de-juan-manuel-fangio-en-formula-1/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/o_1793186352.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-28T14:40:32.000Z",
+      "addedAt": "2026-10-28T15:56:17.599Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-el-mal-tiempo-impidio-que-motogp-corriera-su-ultima-prueba-en-phillip-island",
       "title": "El mal tiempo impidió que MotoGP corriera su última prueba en Phillip Island",
       "summary": "La pista que albergó el Gran Premio de Australia desde 1989 no tuvo su esperada despedida del campeonato mundial al quedar limitada la visibilidad y restringido el vuelo del helicóptero médico.",
@@ -473,6 +443,21 @@
       "addedAt": "2026-10-23T17:19:44.753Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-importante-prueba-para-agustin-canapino-en-el-tn",
+      "title": "Importante prueba para Agustín Canapino en el TN | Campeones",
+      "summary": "\"El Titán\" ensayó en San Nicolás con el Chevrolet Cruze líder de la Clase 3, en la previa de las últimas dos fechas del campeonato.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/importante-prueba-para-agustin-canapino-en-el-tn/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/1792604109_6ad8f7cd83346.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-22T02:03:39.000Z",
+      "addedAt": "2026-10-27T14:45:28.421Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus",
@@ -1378,7 +1363,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-29T00:48:34.526Z",
+      "createdAt": "2026-10-29T06:32:14.007Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-un-periodista-ingles-invitado-por-alpine-al-gp-de-estados-unidos-se-burlo-de-colapinto-p",
@@ -1426,21 +1411,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-fue-elegido-entre-los-grandes-perdedores-del-gp-de-estados-unidos-por-l",
-          "title": "Colapinto fue elegido entre \"los grandes perdedores\" del GP de Estados Unidos",
-          "summary": "El piloto argentino debió abandonar el Austin luego de un toque con Arvid Lindblad y provocó importantes daños en su monoplaza.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-fue-elegido-entre-los-grandes-perdedores-del-gp-de-estados-unidos-por-la-formula-1-id769024.html",
-          "image": "https://media.tycsports.com/files/2026/10/14/995964/franco-colapinto-gp-de-singapur_1440x810.webp",
-          "body": "El piloto argentino debió abandonar el Austin luego de un toque con Arvid Lindblad y provocó importantes daños en su monoplaza.\n\nFranco Colapinto debió abandonar en el GP de Estados Unidos de la Fórmula 1. (Rudy Carezzevoli/Getty Images). + Seguinos en E l Gran Premio de Estados Unidos dejó dos realidades completamente opuestas en Alpine. Mientras Pierre Gasly consiguió terminar entre los diez primeros, Franco Colapinto sufrió otro abandono y recibió duras críticas de la prensa especializada. Incluso, el sitio oficial de la Fórmula 1 lo incluyó entre \"los cinco grandes perdedores\" del fin de semana en Austin.\n\nEl periodista Lawrence Barretto fue el encargado de analizar su actuación en el Circuito de las Américas. El argentino quedó fuera de competencia tras un incidente con Arvid Lindblad, que provocó importantes daños en su monoplaza. “Esta fue una carrera para olvidar para Franco Colapinto, que no logró terminarla por tercera vez en cuatro intentos , después de haber visto la bandera a cuadros en todas sus participaciones anteriores con Alpine. Quedó atrapado entre dos coches en la recta hacia la curva 1 , lo que le provocó daños tan graves en el suelo y el pontón lateral que tuvo que abandonar la carrera” , escribió.\n\nEl toque entre Lindblad y Colapinto que lo obligó a abandonar en Alpine La contracara fue su compañero de equipo, elegido entre los ganadores de la fecha. El francés logró rescatar un punto pese a los inconvenientes mecánicos. “Se quedó a las puertas de la Q3 en la clasificación, pero salió desde el top 10 gracias a la penalización en la parrilla de Arvid Lindblad por cambios en los componentes del motor. A pesar de sufrir lo que el francés describió como ‘daños significativos’ en una colisión con Bearman, aún tuvo el rendimiento suficiente para manten",
-          "language": "es",
-          "publishedAt": "2026-10-28T16:46:52.000Z",
-          "addedAt": "2026-10-28T20:58:14.092Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-como-quedo-la-grilla-definitiva-del-gp-de-estados-unidos-de-la-f1-id768491-html",
           "title": "Cómo quedó la grilla definitiva del GP de Estados Unidos de la F1",
           "summary": "Luego de la qualy quedaron definidas las posiciones de salida para la carrera de este domingo. Colapinto cerró 15° la clasifiación, pero largará penúltimo por una penalización.",
@@ -1482,6 +1452,21 @@
           "language": "es",
           "publishedAt": "2026-10-23T21:52:40.000Z",
           "addedAt": "2026-10-23T23:32:59.910Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-fue-elegido-entre-los-grandes-perdedores-del-gp-de-estados-unidos-por-l",
+          "title": "Colapinto fue elegido entre \"los grandes perdedores\" del GP de Estados Unidos",
+          "summary": "El piloto argentino debió abandonar el Austin luego de un toque con Arvid Lindblad y provocó importantes daños en su monoplaza.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-fue-elegido-entre-los-grandes-perdedores-del-gp-de-estados-unidos-por-la-formula-1-id769024.html",
+          "image": "https://media.tycsports.com/files/2026/10/14/995964/franco-colapinto-gp-de-singapur_1440x810.webp",
+          "body": "El piloto argentino debió abandonar el Austin luego de un toque con Arvid Lindblad y provocó importantes daños en su monoplaza.\n\nFranco Colapinto debió abandonar en el GP de Estados Unidos de la Fórmula 1. (Rudy Carezzevoli/Getty Images). + Seguinos en E l Gran Premio de Estados Unidos dejó dos realidades completamente opuestas en Alpine. Mientras Pierre Gasly consiguió terminar entre los diez primeros, Franco Colapinto sufrió otro abandono y recibió duras críticas de la prensa especializada. Incluso, el sitio oficial de la Fórmula 1 lo incluyó entre \"los cinco grandes perdedores\" del fin de semana en Austin.\n\nEl periodista Lawrence Barretto fue el encargado de analizar su actuación en el Circuito de las Américas. El argentino quedó fuera de competencia tras un incidente con Arvid Lindblad, que provocó importantes daños en su monoplaza. “Esta fue una carrera para olvidar para Franco Colapinto, que no logró terminarla por tercera vez en cuatro intentos , después de haber visto la bandera a cuadros en todas sus participaciones anteriores con Alpine. Quedó atrapado entre dos coches en la recta hacia la curva 1 , lo que le provocó daños tan graves en el suelo y el pontón lateral que tuvo que abandonar la carrera” , escribió.\n\nEl toque entre Lindblad y Colapinto que lo obligó a abandonar en Alpine La contracara fue su compañero de equipo, elegido entre los ganadores de la fecha. El francés logró rescatar un punto pese a los inconvenientes mecánicos. “Se quedó a las puertas de la Q3 en la clasificación, pero salió desde el top 10 gracias a la penalización en la parrilla de Arvid Lindblad por cambios en los componentes del motor. A pesar de sufrir lo que el francés describió como ‘daños significativos’ en una colisión con Bearman, aún tuvo el rendimiento suficiente para manten",
+          "language": "es",
+          "publishedAt": "2026-10-28T16:46:52.000Z",
+          "addedAt": "2026-10-28T20:58:14.092Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1654,8 +1639,23 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-29T00:48:34.526Z",
+      "createdAt": "2026-10-29T06:32:14.007Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-la-fia-revelo-la-cantidad-de-amenazas-de-muerte-que-recibio-gasly-id769119-html",
+          "title": "La FIA reveló la cantidad de amenazas de muerte que recibió Gasly",
+          "summary": "Mohammed Ben Sulayem, presidente de la entidad, informó que el piloto francés, compañero de Colapinto en Alpine, fue amenazado en 13.000 oportunidades a través de redes sociales.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-fia-revelo-la-cantidad-de-amenazas-de-muerte-que-recibio-gasly-id769119.html",
+          "image": "https://media.tycsports.com/files/2026/09/23/990126/pierre-gasly_862x485.webp?v=1",
+          "body": "Mohammed Ben Sulayem, presidente de la entidad, informó que el piloto francés, compañero de Colapinto en Alpine, fue amenazado en 13.000 oportunidades a través de redes sociales.\n\nPierre Gasly (REUTERS) + Seguinos en Mohammed Ben Sulayem, presidente de la Federación Internacional del Automóvil (FIA), reveló la cantidad de amenazas de muerte que recibió Pierre Gasly tras su incidente con Franco Colapinto, su compañero de Alpine, en el GP de España.\n\nEn una entrevista con el medio The Drive , el mandatario afirmó que el piloto francés fue amenazado en 13.000 oportunidades en redes sociales y reflexionó sobre los mensajes de odio. “Pierre Gasly tuvo 13.000 amenazas contra su vida. ¡13.000! Si luchamos contra esto solos, vamos a fracasar; no podemos hacerlo solos”, expresó Mohammed Ben Sulayem, quien también exigió compromiso de los pilotos, equipos y los medios de comunicación.\n\nSobre el final de la carrera en el GP de España, el pilarense le pisaba los talones a su compañero: llegaba con mejor envión y le francés perdía ritmo porque se quedaba sin neumáticos. Mientras, Oscar Piastri (de McLaren) acechaba como amenaza para pasarlos a los dos.\n\nEl pilarense, por radio, le pidió a su equipo para cambiar de posiciones . \"Chicos, no perdamos tiempo. Cambio, cambio. ¿Hola? Vamos, ¡cambio! Honestamente, oh, dios mío\", expresó con frustración.",
+          "language": "es",
+          "publishedAt": "2026-10-29T00:48:55.000Z",
+          "addedAt": "2026-10-29T06:32:06.565Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-alpine-formula-1-gp-de-mexico-id768857-html",
           "title": "Colapinto no estará en la FP1 de México y Alpine ya confirmó a su reemplazante",
@@ -1852,21 +1852,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-rally-argentino-planifica-su-calendario-2027",
-          "title": "Rally Argentino planifica su calendario 2027",
-          "summary": "Los promotores del campeonato delinean el certamen venidero, que tendrá su comienzo en los caminos cordobeses.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/rally-argentino-planifica-su-calendario-2027/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-RallyArg-Parque-Cerrado.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-28T12:53:28.000Z",
-          "addedAt": "2026-10-28T15:56:18.055Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-la-reflexion-de-colapinto-tras-su-abandono-hay-que-cortar-esta-racha",
           "title": "La reflexión de Colapinto tras su abandono: «Hay que cortar esta racha»",
           "summary": "Al concluir el GP de Estados Unidos, el piloto argentino habló con los medios y señaló los inconvenientes que afrontó con el Alpine y que lo obligaron a desertar la carrera.",
@@ -1930,7 +1915,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-29T00:48:34.526Z",
+      "createdAt": "2026-10-29T06:32:14.007Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-era-una-sensacion-de-la-f1-pero-murio-tragicamente-durante-un-gran-premio-como-vaticino-",
@@ -2053,36 +2038,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-turismo-carretera-2000-vuelve-una-de-sus-principales-figuras-en-rafaela",
-          "title": "Turismo Carretera 2000: en Rafaela vuelve una de sus principales figuras | Campeones",
-          "summary": "Facundo Ardusso dirá presente en el Gran Premio Coronación que se desarrollará del 20 al 22 de noviembre.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/turismo-carretera-2000-vuelve-una-de-sus-principales-figuras-en-rafaela/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/ACTC-Facundo-Ardusso.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-28T15:32:01.000Z",
-          "addedAt": "2026-10-28T15:56:16.784Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-tc2000-horarios-para-una-nueva-fecha-en-general-roca",
-          "title": "TC2000: horarios para una nueva fecha en General Roca | Campeones",
-          "summary": "La categoría visita el autódromo rionegrino, junto al Top Race y la Fórmula Nacional, ingresando en la recta final del campeonato.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc2000-horarios-para-una-nueva-fecha-en-general-roca/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SNZ_0686.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-28T13:44:35.000Z",
-          "addedAt": "2026-10-28T15:56:18.553Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id768571-html",
           "title": "Qué necesita Kimi Antonelli para ser campeón de la Fórmula 1 en México",
           "summary": "El italiano se quedó con la victoria en el Gran Premio de Estados Unidos y está cada vez más cerca de levantar su primer título en la Máxima.",
@@ -2124,6 +2079,36 @@
           "language": "es",
           "publishedAt": "2026-10-14T01:34:46.000Z",
           "addedAt": "2026-10-18T07:11:27.970Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
+        {
+          "id": "campeones-com-ar-turismo-carretera-2000-vuelve-una-de-sus-principales-figuras-en-rafaela",
+          "title": "Turismo Carretera 2000: en Rafaela vuelve una de sus principales figuras | Campeones",
+          "summary": "Facundo Ardusso dirá presente en el Gran Premio Coronación que se desarrollará del 20 al 22 de noviembre.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/turismo-carretera-2000-vuelve-una-de-sus-principales-figuras-en-rafaela/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/ACTC-Facundo-Ardusso.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-28T15:32:01.000Z",
+          "addedAt": "2026-10-28T15:56:16.784Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc2000-horarios-para-una-nueva-fecha-en-general-roca",
+          "title": "TC2000: horarios para una nueva fecha en General Roca | Campeones",
+          "summary": "La categoría visita el autódromo rionegrino, junto al Top Race y la Fórmula Nacional, ingresando en la recta final del campeonato.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc2000-horarios-para-una-nueva-fecha-en-general-roca/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SNZ_0686.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-28T13:44:35.000Z",
+          "addedAt": "2026-10-28T15:56:18.553Z",
           "category": "general",
           "tag": "Carrera"
         },
@@ -2206,7 +2191,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-29T00:48:34.526Z",
+      "createdAt": "2026-10-29T06:32:14.007Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -2374,6 +2359,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-rally-argentino-planifica-su-calendario-2027",
+          "title": "Rally Argentino planifica su calendario 2027",
+          "summary": "Los promotores del campeonato delinean el certamen venidero, que tendrá su comienzo en los caminos cordobeses.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/rally-argentino-planifica-su-calendario-2027/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-RallyArg-Parque-Cerrado.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-28T12:53:28.000Z",
+          "addedAt": "2026-10-28T15:56:18.055Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-f1-en-austin-antonelli-va-por-la-coronacion-y-colapinto-quiere-escalar-hasta-los-puntos",
           "title": "F1 en Austin: Antonelli va por la coronación y Colapinto quiere escalar hasta los puntos",
           "summary": "Para el italiano será la primera posibilidad concreta de conseguir su título mundial con el Mercedes, dependiendo ello si no suman Russell y Hamilton; el argentino partirá penúltimo con el Alpine.",
@@ -2462,7 +2462,13 @@
           "addedAt": "2026-10-24T23:28:33.023Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-29T06:32:14.007Z",
+      "items": [
         {
           "id": "campeones-com-ar-f2-argentina-franco-ledesma-cerro-un-sabado-perfecto-en-rosario",
           "title": "F2 Argentina: Ledesma cerró un sábado perfecto en Rosario",
@@ -2477,13 +2483,7 @@
           "addedAt": "2026-10-24T18:44:37.725Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-29T00:48:34.526Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-mattia-colnaghi-campos-racing-formula-3-2027-id767199-html",
           "title": "Mattia Colnaghi correrá en un equipo de punta de la F3 en 2027",
@@ -2738,21 +2738,6 @@
           "addedAt": "2026-10-27T23:14:08.063Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-formula-1-lando-norris-franco-colapinto-gesto-buen-amigo-id766576-html",
-          "title": "El buen gesto de Lando Norris con Colapinto después del cruce en Bakú",
-          "summary": "El campeón de la Fórmula 1 protagonizó una distendida escena durante una transmisión en vivo y dejó en claro que las diferencias quedaron atrás, luego del accidente que terminó con el abandono de ambos y de Pierre Gasly.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-lando-norris-franco-colapinto-gesto-buen-amigo-id766576.html",
-          "image": "https://media.tycsports.com/files/2026/10/01/991982/colapinto-y-norris_1440x810.webp",
-          "body": "El campeón de la Fórmula 1 protagonizó una distendida escena durante una transmisión en vivo y dejó en claro que las diferencias quedaron atrás, luego del accidente que terminó con el abandono de ambos y de Pierre Gasly.\n\n\"Mi buen amigo, Franco\": el gesto de Lando Norris con Colapinto + Seguinos en La relación entre Lando Norris y Franco Colapinto volvió a quedar en el centro de la escena por un gesto del británico que no pasó inadvertido. Durante un streaming junto a Max Fewtrell, el piloto de McLaren recibió figuritas de distintos corredores y, al aparecer la del argentino, lo definió como un “ buen amigo ”.\n\nLa frase cobra relevancia por lo ocurrido en el Gran Premio de Azerbaiyán, cuando un error del representante de Alpine desencadenó un accidente múltiple. En la vuelta 36, durante la reanudación de la carrera tras el ingreso del coche de seguridad, el pilarense bloqueó los neumáticos en la primera curva y perdió el control de su monoplaza.\n\nLa maniobra provocó un choque que involucró inicialmente a su compañero, Pierre Gasly, y luego al McLaren del británico. Los tres pilotos debieron abandonar la competencia, mientras que el argentino asumió la responsabilidad y reconoció: “ Simplemente, un gran error ”.\n\nLos comisarios deportivos también sancionaron al joven de Alpine con 10 segundos de penalización, convertidos en una pérdida de cinco posiciones en la grilla de la siguiente fecha, debido a que no había terminado la prueba.",
-          "language": "es",
-          "publishedAt": "2026-10-15T23:07:18.000Z",
-          "addedAt": "2026-10-18T07:11:28.152Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     }
