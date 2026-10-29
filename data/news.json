@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-29T06:32:05.702Z",
-  "checkedAt": "2026-10-29T06:32:05.702Z",
+  "updatedAt": "2026-10-29T13:44:50.455Z",
+  "checkedAt": "2026-10-29T13:44:50.455Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,19 +40,19 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-santino-panetta-5-y-9-en-los-ensayos-de-eurocup-3",
-      "title": "Santino Panetta: 5° y 7° en los ensayos de Eurocup-3 | Campeones",
-      "summary": "En Hungría, la categoría disputa su séptima fecha del calendario y el piloto Hitech se mostró competitivo en ambas practicas, donde además de ubicarse bien arriba, mejoró los tiempos.",
+      "id": "campeones-com-ar-norris-expande-el-alcance-de-su-equipo-y-llega-a-la-formula-2",
+      "title": "Norris expande el alcance de su equipo y llega a la Fórmula 2",
+      "summary": "El LN4 Fusion, que ya tenía su participación confirmada en cuatro divisiones de monoplazas incluyendo la FIA Fórmula 3, fue aprobada para ingresar al certamen de F2 en 2027.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/santino-panetta-5-y-9-en-los-ensayos-de-eurocup-3/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SaveClip.App_863060244_18067402397665390_2758317790262745744_n-e1792777487273.jpg",
+      "url": "https://campeones.com.ar/norris-expande-el-alcance-de-su-equipo-y-llega-a-la-formula-2/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/LANDO-NORRIS-FORMULA-2-2027.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-23T17:45:04.000Z",
-      "addedAt": "2026-10-23T20:32:46.758Z",
-      "category": "argentino",
-      "tag": "Argentino"
+      "publishedAt": "2026-10-29T10:41:59.000Z",
+      "addedAt": "2026-10-29T13:44:52.863Z",
+      "category": "general",
+      "tag": "Reglamento"
     },
     {
       "id": "www-tycsports-com-automovilismo-lando-norris-f1-baches-dolores-circuitos-pastillas-id768330-html",
@@ -130,21 +130,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-julian-santero-es-el-nuevo-lider-de-la-copa-de-oro-del-tc",
-      "title": "Julián Santero es el nuevo líder de la Copa de Oro del TC | Campeones",
-      "summary": "El mendocino llegó 4º en Rosario y aprovechó el abandono de Otto Fritzler y el 17º puesto de Facundo Chapur para ser el nuevo líder del playoff.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/julian-santero-es-el-nuevo-lider-de-la-copa-de-oro-del-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TC-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-26T12:25:12.000Z",
-      "addedAt": "2026-10-27T19:41:10.381Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-gabriel-bortoleto-formula-1-gp-de-estados-unidos-sancion-80-puestos-id768534-html",
       "title": "La sanción récord de 80 puestos que sufrió un piloto de Fórmula 1 en el GP de Estados Unidos",
       "summary": "El brasileño sufrió un castigo histórico por múltiples modificaciones mecánicas en su monoplaza y quedó relegado al fondo de la grilla en Austin.",
@@ -188,6 +173,21 @@
       "addedAt": "2026-10-27T23:14:09.196Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-julian-santero-es-el-nuevo-lider-de-la-copa-de-oro-del-tc",
+      "title": "Julián Santero es el nuevo líder de la Copa de Oro del TC | Campeones",
+      "summary": "El mendocino llegó 4º en Rosario y aprovechó el abandono de Otto Fritzler y el 17º puesto de Facundo Chapur para ser el nuevo líder del playoff.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/julian-santero-es-el-nuevo-lider-de-la-copa-de-oro-del-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TC-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-26T12:25:12.000Z",
+      "addedAt": "2026-10-27T19:41:10.381Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-el-enojo-de-werner-y-las-dudas-sobre-su-futuro-vere-que-hago-en-el-verano",
@@ -486,6 +486,21 @@
       "language": "es",
       "publishedAt": "2026-10-17T16:06:03.000Z",
       "addedAt": "2026-10-25T06:31:22.163Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada",
+      "title": "Baltazar Frezze piloto RVM oficial en el Dakar: \"Una marca argentina de gente buena y apasionada\"",
+      "summary": "El sueño de un salteño que fue a mirar el Dakar de pequeño y hoy entrena con los Benavides, con el respaldo oficial de una marca argentina.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Baltazar-RVM-Portada-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-15T22:53:49.000Z",
+      "addedAt": "2026-10-29T13:45:00.295Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -1363,8 +1378,23 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-29T06:32:14.007Z",
+      "createdAt": "2026-10-29T13:45:00.308Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159-h",
+          "title": "F1: hora y dónde ver en vivo la práctica libre de Colapinto en el GP de México",
+          "summary": "Este viernes se llevarán a cabo en el Autódromo Hermanos Rodríguez, las prácticas libres 1 y 2 de la 21&ordm; carrera de la temporada 2025 de la Fórmula 1. Conocé los detalles.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159.html",
+          "image": "https://media.tycsports.com/files/2026/10/25/999538/franco-colapinto-en-el-gp-de-estados-unidos-photo-by-stefano-facchinalessio-morgesenurphoto-via-getty-images_1440x810.webp?v=1",
+          "body": "Este viernes se llevarán a cabo en el Autódromo Hermanos Rodríguez, las prácticas libres 1 y 2 de la 21º carrera de la temporada 2025 de la Fórmula 1. Conocé los detalles.\n\nFranco Colapinto en el GP de Estados Unidos (Photo by Stefano Facchin/Alessio Morgese/NurPhoto via Getty Images) + Seguinos en La temporada 2026 de la Fórmula 1, que tiene como líder a Kimi Antonelli de Mercedes, tendrá su 21º carrera del año en el Gran Premio de México y este viernes se desarrollarán las prácticas libres 1 y 2 en el autódromo Hermanos Rodríguez con la presencia de Franco Colapinto únicamente en las PL2, ya que será reemplazado en el inicio de la actividad . Conocé los detalles .\n\nColapinto no estará presente en la primera práctica libre, según confirmó la escudería Alpine, ya que su reemplazante será el italiano Gabriele Minì. El cambio, anunciado este martes por la escudería francesa, forma parte de las sesiones obligatorias que los equipos deben destinar a pilotos debutantes.\n\nDe esta manera, el italiano tendrá su estreno oficial en un fin de semana de la máxima categoría y el piloto argentino volverá al ruedo en las Prácticas Libres 2 por la tarde-noche de Argentina.\n\nEl Autódromo Hermanos Rodríguez se encuentra a más de 2 km sobre el nivel del mar, lo que convierte la vuelta de 4,3 km en una experiencia que te deja sin aliento . La pista sigue en gran medida el trazado del circuito original de 1959; la principal diferencia es que la espectacular -espectacularmente aterradora- curva Peraltada ahora está dividida en dos, y el circuito serpentea a través de un antiguo estadio de béisbol, lo que ofrece una de las vistas más singulares de la Fórmula 1.",
+          "language": "es",
+          "publishedAt": "2026-10-29T13:16:13.000Z",
+          "addedAt": "2026-10-29T13:44:51.131Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
         {
           "id": "www-tycsports-com-automovilismo-un-periodista-ingles-invitado-por-alpine-al-gp-de-estados-unidos-se-burlo-de-colapinto-p",
           "title": "Un periodista inglés invitado por Alpine al GP de Estados Unidos se burló de Colapinto: \"Penalizado por argentino\"",
@@ -1619,7 +1649,13 @@
           "addedAt": "2026-10-23T23:33:02.048Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-29T13:45:00.308Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-arvid-lindblad-franco-colapinto-acusacion-alpine-formula-1-gp-de-estados-unidos-id768644",
           "title": "La fuerte acusación de un piloto de F1 contra Alpine que involcura a Colapinto",
@@ -1632,27 +1668,6 @@
           "language": "es",
           "publishedAt": "2026-10-26T14:47:43.000Z",
           "addedAt": "2026-10-26T19:54:14.876Z",
-          "category": "argentino",
-          "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-29T06:32:14.007Z",
-      "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-la-fia-revelo-la-cantidad-de-amenazas-de-muerte-que-recibio-gasly-id769119-html",
-          "title": "La FIA reveló la cantidad de amenazas de muerte que recibió Gasly",
-          "summary": "Mohammed Ben Sulayem, presidente de la entidad, informó que el piloto francés, compañero de Colapinto en Alpine, fue amenazado en 13.000 oportunidades a través de redes sociales.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-fia-revelo-la-cantidad-de-amenazas-de-muerte-que-recibio-gasly-id769119.html",
-          "image": "https://media.tycsports.com/files/2026/09/23/990126/pierre-gasly_862x485.webp?v=1",
-          "body": "Mohammed Ben Sulayem, presidente de la entidad, informó que el piloto francés, compañero de Colapinto en Alpine, fue amenazado en 13.000 oportunidades a través de redes sociales.\n\nPierre Gasly (REUTERS) + Seguinos en Mohammed Ben Sulayem, presidente de la Federación Internacional del Automóvil (FIA), reveló la cantidad de amenazas de muerte que recibió Pierre Gasly tras su incidente con Franco Colapinto, su compañero de Alpine, en el GP de España.\n\nEn una entrevista con el medio The Drive , el mandatario afirmó que el piloto francés fue amenazado en 13.000 oportunidades en redes sociales y reflexionó sobre los mensajes de odio. “Pierre Gasly tuvo 13.000 amenazas contra su vida. ¡13.000! Si luchamos contra esto solos, vamos a fracasar; no podemos hacerlo solos”, expresó Mohammed Ben Sulayem, quien también exigió compromiso de los pilotos, equipos y los medios de comunicación.\n\nSobre el final de la carrera en el GP de España, el pilarense le pisaba los talones a su compañero: llegaba con mejor envión y le francés perdía ritmo porque se quedaba sin neumáticos. Mientras, Oscar Piastri (de McLaren) acechaba como amenaza para pasarlos a los dos.\n\nEl pilarense, por radio, le pidió a su equipo para cambiar de posiciones . \"Chicos, no perdamos tiempo. Cambio, cambio. ¿Hola? Vamos, ¡cambio! Honestamente, oh, dios mío\", expresó con frustración.",
-          "language": "es",
-          "publishedAt": "2026-10-29T00:48:55.000Z",
-          "addedAt": "2026-10-29T06:32:06.565Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1728,6 +1743,21 @@
           "language": "es",
           "publishedAt": "2026-10-23T14:07:09.000Z",
           "addedAt": "2026-10-23T17:19:41.481Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-la-fia-revelo-la-cantidad-de-amenazas-de-muerte-que-recibio-gasly-id769119-html",
+          "title": "La FIA reveló la cantidad de amenazas de muerte que recibió Gasly",
+          "summary": "Mohammed Ben Sulayem, presidente de la entidad, informó que el piloto francés, compañero de Colapinto en Alpine, fue amenazado en 13.000 oportunidades a través de redes sociales.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-fia-revelo-la-cantidad-de-amenazas-de-muerte-que-recibio-gasly-id769119.html",
+          "image": "https://media.tycsports.com/files/2026/09/23/990126/pierre-gasly_862x485.webp?v=1",
+          "body": "Mohammed Ben Sulayem, presidente de la entidad, informó que el piloto francés, compañero de Colapinto en Alpine, fue amenazado en 13.000 oportunidades a través de redes sociales.\n\nPierre Gasly (REUTERS) + Seguinos en Mohammed Ben Sulayem, presidente de la Federación Internacional del Automóvil (FIA), reveló la cantidad de amenazas de muerte que recibió Pierre Gasly tras su incidente con Franco Colapinto, su compañero de Alpine, en el GP de España.\n\nEn una entrevista con el medio The Drive , el mandatario afirmó que el piloto francés fue amenazado en 13.000 oportunidades en redes sociales y reflexionó sobre los mensajes de odio. “Pierre Gasly tuvo 13.000 amenazas contra su vida. ¡13.000! Si luchamos contra esto solos, vamos a fracasar; no podemos hacerlo solos”, expresó Mohammed Ben Sulayem, quien también exigió compromiso de los pilotos, equipos y los medios de comunicación.\n\nSobre el final de la carrera en el GP de España, el pilarense le pisaba los talones a su compañero: llegaba con mejor envión y le francés perdía ritmo porque se quedaba sin neumáticos. Mientras, Oscar Piastri (de McLaren) acechaba como amenaza para pasarlos a los dos.\n\nEl pilarense, por radio, le pidió a su equipo para cambiar de posiciones . \"Chicos, no perdamos tiempo. Cambio, cambio. ¿Hola? Vamos, ¡cambio! Honestamente, oh, dios mío\", expresó con frustración.",
+          "language": "es",
+          "publishedAt": "2026-10-29T00:48:55.000Z",
+          "addedAt": "2026-10-29T06:32:06.565Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1895,27 +1925,12 @@
           "addedAt": "2026-10-20T22:28:55.340Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
-          "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
-          "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-ranking-peor-f1-gp-singapur-id765831.html",
-          "image": "https://media.tycsports.com/files/2026/10/12/995348/franco_1440x810.webp?v=1",
-          "body": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.\n\nFranco Colapinto tuvo que abandonar en el GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto tuvo un fin de semana para el olvido en el Gran Premio de Singapur de Fórmula 1 . El piloto argentino sufrió dos abandonos, tanto en la Sprint como en la carrera principal, debido a problemas de fiabilidad en su Alpine y no pudo volver a sumar puntos. Ante este panorama, un medio inglés ubicó al #43 entre los peores de su ranking.\n\nSe trata de The Race , un medio especializado que confecciona un ranking luego de cada carrera en el que pondera la actuación de cada corredor. En Singapur, Colapinto ocupó el puesto 19, solo por delante de Alex Albon, Valtteri Bottas y Lance Stroll , quienes también sufrieron complicaciones con sus monoplazas.\n\n“El ritmo subyacente era mejor de lo que parecía, pero la clasificación no se optimizó al máximo” , fue el veredicto final del portal inglés respecto a la performance del #43.\n\n“En la clasificación al sprint, mantuvo un ritmo similar al de su compañero de equipo en Alpine, Gasly. Su eliminación en la segunda ronda de clasificación se debió exclusivamente al tiempo perdido por los frenos y a que los neumáticos no estaban a la temperatura adecuada para la primera curva. Llegó a ocupar brevemente el duodécimo puesto en la carrera al sprint antes de detenerse por un problema en la reserva de energía”, analizó The Race.",
-          "language": "es",
-          "publishedAt": "2026-10-12T21:27:52.000Z",
-          "addedAt": "2026-10-18T07:11:28.307Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-29T06:32:14.007Z",
+      "createdAt": "2026-10-29T13:45:00.308Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-era-una-sensacion-de-la-f1-pero-murio-tragicamente-durante-un-gran-premio-como-vaticino-",
@@ -2023,21 +2038,6 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-clay-regazzoni-subcampeon-del-mundo-f1-paraplejico-dakar-muerte-choque-tragico-op-id7673",
-          "title": "Fue subcampeón del mundo de la F1, se reinventó en el Dakar tras quedar parapléjico y murió trágicamente",
-          "summary": "Clay Regazzoni le dio a Williams su primera victoria, peleó el título de 1974 hasta la última carrera y un pedal de freno roto lo dejó sin poder caminar. Volvió a competir con un auto adaptado y murió en 2006 en un choque en una autopista italiana.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/clay-regazzoni-subcampeon-del-mundo-f1-paraplejico-dakar-muerte-choque-tragico-op-id767355.html",
-          "image": "https://media.tycsports.com/files/2026/10/20/997746/clay-regazzoni_1440x810.webp",
-          "body": "Clay Regazzoni le dio a Williams su primera victoria, peleó el título de 1974 hasta la última carrera y un pedal de freno roto lo dejó sin poder caminar. Volvió a competir con un auto adaptado y murió en 2006 en un choque en una autopista italiana.\n\nAsí fue el trágico accidente de Clay Regazzoni en la F1 que lo dejó parapléjico + Seguinos en El 30 de marzo de 1980, al final de la recta más rápida de Long Beach, el pedal de freno del Ensign de Clay Regazzoni se rompió a unos 280 kilómetros por hora. El auto se estrelló contra el Brabham estacionado de Ricardo Zunino y después contra el muro. El suizo, que seis años antes había peleado el campeonato hasta la última fecha con Ferrari, nunca volvió a caminar. Aun así, no se bajó del auto: volvió a competir con controles manuales y llegó a correr el Rally Dakar . La muerte lo encontró en 2006, en una autopista del norte de Italia.\n\nGianclaudio Giuseppe Regazzoni nació el 5 de septiembre de 1939 en Mendrisio, en el Tesino, la región de Suiza donde se habla italiano. Empezó a correr en 1963 y lo hizo en Italia, porque Suiza había prohibido las carreras de autos después de la tragedia de Le Mans de 1955. En 1970 fue campeón europeo de Fórmula 2 y ese mismo año debutó en la Fórmula 1 con Ferrari. El estreno fue inolvidable: en su primera temporada ganó el Gran Premio de Italia en Monza, la casa de El Caballo Rampante. Corrió para la escudería italiana entre 1970 y 1972 y volvió entre 1974 y 1976, en la época en la que compartió equipo con Niki Lauda. Su mejor año fue 1974: ganó el Gran Premio de Alemania y llegó a la última carrera, en Estados Unidos, con chances de ser campeón. Un amortiguador defectuoso lo dejó 11° y terminó subcampeón, a tres puntos de Emerson Fittipaldi.\n\nDespués sumó otra victoria en Monza, en 1975, y una e",
-          "language": "es",
-          "publishedAt": "2026-10-22T10:19:16.000Z",
-          "addedAt": "2026-10-22T11:40:44.470Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id768571-html",
           "title": "Qué necesita Kimi Antonelli para ser campeón de la Fórmula 1 en México",
           "summary": "El italiano se quedó con la victoria en el Gran Premio de Estados Unidos y está cada vez más cerca de levantar su primer título en la Máxima.",
@@ -2098,21 +2098,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-tc2000-horarios-para-una-nueva-fecha-en-general-roca",
-          "title": "TC2000: horarios para una nueva fecha en General Roca | Campeones",
-          "summary": "La categoría visita el autódromo rionegrino, junto al Top Race y la Fórmula Nacional, ingresando en la recta final del campeonato.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc2000-horarios-para-una-nueva-fecha-en-general-roca/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SNZ_0686.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-28T13:44:35.000Z",
-          "addedAt": "2026-10-28T15:56:18.553Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-anotenelli-f1-mercedes-gran-premio-austin-estados-unidos-id768385-html",
           "title": "La contradicción que preocupa al líder de la F1: mejoró el auto, pero le encontró un problema",
           "summary": "El italiano mostró un salto de rendimiento en Austin y quedó a apenas 42 milésimas del mejor tiempo de las prácticas. La escudería alemana busca encontrar el equilibrio ideal de su monoplaza.",
@@ -2141,6 +2126,36 @@
           "addedAt": "2026-10-22T23:15:42.966Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc2000-horarios-para-una-nueva-fecha-en-general-roca",
+          "title": "TC2000: horarios para una nueva fecha en General Roca | Campeones",
+          "summary": "La categoría visita el autódromo rionegrino, junto al Top Race y la Fórmula Nacional, ingresando en la recta final del campeonato.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc2000-horarios-para-una-nueva-fecha-en-general-roca/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SNZ_0686.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-28T13:44:35.000Z",
+          "addedAt": "2026-10-28T15:56:18.553Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-clay-regazzoni-subcampeon-del-mundo-f1-paraplejico-dakar-muerte-choque-tragico-op-id7673",
+          "title": "Fue subcampeón del mundo de la F1, se reinventó en el Dakar tras quedar parapléjico y murió trágicamente",
+          "summary": "Clay Regazzoni le dio a Williams su primera victoria, peleó el título de 1974 hasta la última carrera y un pedal de freno roto lo dejó sin poder caminar. Volvió a competir con un auto adaptado y murió en 2006 en un choque en una autopista italiana.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/clay-regazzoni-subcampeon-del-mundo-f1-paraplejico-dakar-muerte-choque-tragico-op-id767355.html",
+          "image": "https://media.tycsports.com/files/2026/10/20/997746/clay-regazzoni_1440x810.webp",
+          "body": "Clay Regazzoni le dio a Williams su primera victoria, peleó el título de 1974 hasta la última carrera y un pedal de freno roto lo dejó sin poder caminar. Volvió a competir con un auto adaptado y murió en 2006 en un choque en una autopista italiana.\n\nAsí fue el trágico accidente de Clay Regazzoni en la F1 que lo dejó parapléjico + Seguinos en El 30 de marzo de 1980, al final de la recta más rápida de Long Beach, el pedal de freno del Ensign de Clay Regazzoni se rompió a unos 280 kilómetros por hora. El auto se estrelló contra el Brabham estacionado de Ricardo Zunino y después contra el muro. El suizo, que seis años antes había peleado el campeonato hasta la última fecha con Ferrari, nunca volvió a caminar. Aun así, no se bajó del auto: volvió a competir con controles manuales y llegó a correr el Rally Dakar . La muerte lo encontró en 2006, en una autopista del norte de Italia.\n\nGianclaudio Giuseppe Regazzoni nació el 5 de septiembre de 1939 en Mendrisio, en el Tesino, la región de Suiza donde se habla italiano. Empezó a correr en 1963 y lo hizo en Italia, porque Suiza había prohibido las carreras de autos después de la tragedia de Le Mans de 1955. En 1970 fue campeón europeo de Fórmula 2 y ese mismo año debutó en la Fórmula 1 con Ferrari. El estreno fue inolvidable: en su primera temporada ganó el Gran Premio de Italia en Monza, la casa de El Caballo Rampante. Corrió para la escudería italiana entre 1970 y 1972 y volvió entre 1974 y 1976, en la época en la que compartió equipo con Niki Lauda. Su mejor año fue 1974: ganó el Gran Premio de Alemania y llegó a la última carrera, en Estados Unidos, con chances de ser campeón. Un amortiguador defectuoso lo dejó 11° y terminó subcampeón, a tres puntos de Emerson Fittipaldi.\n\nDespués sumó otra victoria en Monza, en 1975, y una e",
+          "language": "es",
+          "publishedAt": "2026-10-22T10:19:16.000Z",
+          "addedAt": "2026-10-22T11:40:44.470Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "www-tycsports-com-automovilismo-valtteri-bottas-auto-f1-living-de-la-casa-id766041-html",
@@ -2191,7 +2206,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-29T06:32:14.007Z",
+      "createdAt": "2026-10-29T13:45:00.308Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
@@ -2284,17 +2299,17 @@
           "tag": "Carrera"
         },
         {
-          "id": "campeones-com-ar-informe-f1-casualidad-o-consecuencia",
-          "title": "Informe F1: \"Casualidad o consecuencia\" | Campeones",
-          "summary": "Un análisis técnico al detalle del Alpine de Franco Colapinto y Pierre Gasly, y su comparación otros autos de la Fórmula 1.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/informe-f1-casualidad-o-consecuencia/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/steptodown.com787466.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
+          "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
+          "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-ranking-peor-f1-gp-singapur-id765831.html",
+          "image": "https://media.tycsports.com/files/2026/10/12/995348/franco_1440x810.webp?v=1",
+          "body": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.\n\nFranco Colapinto tuvo que abandonar en el GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto tuvo un fin de semana para el olvido en el Gran Premio de Singapur de Fórmula 1 . El piloto argentino sufrió dos abandonos, tanto en la Sprint como en la carrera principal, debido a problemas de fiabilidad en su Alpine y no pudo volver a sumar puntos. Ante este panorama, un medio inglés ubicó al #43 entre los peores de su ranking.\n\nSe trata de The Race , un medio especializado que confecciona un ranking luego de cada carrera en el que pondera la actuación de cada corredor. En Singapur, Colapinto ocupó el puesto 19, solo por delante de Alex Albon, Valtteri Bottas y Lance Stroll , quienes también sufrieron complicaciones con sus monoplazas.\n\n“El ritmo subyacente era mejor de lo que parecía, pero la clasificación no se optimizó al máximo” , fue el veredicto final del portal inglés respecto a la performance del #43.\n\n“En la clasificación al sprint, mantuvo un ritmo similar al de su compañero de equipo en Alpine, Gasly. Su eliminación en la segunda ronda de clasificación se debió exclusivamente al tiempo perdido por los frenos y a que los neumáticos no estaban a la temperatura adecuada para la primera curva. Llegó a ocupar brevemente el duodécimo puesto en la carrera al sprint antes de detenerse por un problema en la reserva de energía”, analizó The Race.",
           "language": "es",
-          "publishedAt": "2026-10-28T18:39:42.000Z",
-          "addedAt": "2026-10-28T20:58:16.396Z",
+          "publishedAt": "2026-10-12T21:27:52.000Z",
+          "addedAt": "2026-10-18T07:11:28.307Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2359,19 +2374,19 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-rally-argentino-planifica-su-calendario-2027",
-          "title": "Rally Argentino planifica su calendario 2027",
-          "summary": "Los promotores del campeonato delinean el certamen venidero, que tendrá su comienzo en los caminos cordobeses.",
+          "id": "campeones-com-ar-informe-f1-casualidad-o-consecuencia",
+          "title": "Informe F1: \"Casualidad o consecuencia\" | Campeones",
+          "summary": "Un análisis técnico al detalle del Alpine de Franco Colapinto y Pierre Gasly, y su comparación otros autos de la Fórmula 1.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/rally-argentino-planifica-su-calendario-2027/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-RallyArg-Parque-Cerrado.jpg",
+          "url": "https://campeones.com.ar/informe-f1-casualidad-o-consecuencia/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/steptodown.com787466.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-28T12:53:28.000Z",
-          "addedAt": "2026-10-28T15:56:18.055Z",
+          "publishedAt": "2026-10-28T18:39:42.000Z",
+          "addedAt": "2026-10-28T20:58:16.396Z",
           "category": "argentino",
-          "tag": "Argentino"
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-f1-en-austin-antonelli-va-por-la-coronacion-y-colapinto-quiere-escalar-hasta-los-puntos",
@@ -2467,7 +2482,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-29T06:32:14.007Z",
+      "createdAt": "2026-10-29T13:45:00.308Z",
       "items": [
         {
           "id": "campeones-com-ar-f2-argentina-franco-ledesma-cerro-un-sabado-perfecto-en-rosario",
@@ -2496,6 +2511,21 @@
           "language": "es",
           "publishedAt": "2026-10-19T15:05:20.000Z",
           "addedAt": "2026-10-19T15:11:27.752Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-rally-argentino-planifica-su-calendario-2027",
+          "title": "Rally Argentino planifica su calendario 2027",
+          "summary": "Los promotores del campeonato delinean el certamen venidero, que tendrá su comienzo en los caminos cordobeses.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/rally-argentino-planifica-su-calendario-2027/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-RallyArg-Parque-Cerrado.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-28T12:53:28.000Z",
+          "addedAt": "2026-10-28T15:56:18.055Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -2721,21 +2751,6 @@
           "language": "es",
           "publishedAt": "2026-10-27T22:48:00.000Z",
           "addedAt": "2026-10-27T14:45:20.446Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-lema-y-el-alejamiento-de-costanzo-en-tc-no-fue-una-decision-personal-sino-de-todos",
-          "title": "Lema y el alejamiento de Costanzo en TC: «No fue una decisión personal, sino de todos» | Campeones",
-          "summary": "En diálogo con Campeones, uno de los titulares de Canning Motorsports, explicó las razones sobre la desvinculación del preparador de Agustín Canapino en TC.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/lema-y-el-alejamiento-de-costanzo-en-tc-no-fue-una-decision-personal-sino-de-todos/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-TC-Costanzo.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-27T19:41:25.000Z",
-          "addedAt": "2026-10-27T23:14:08.063Z",
           "category": "argentino",
           "tag": "Argentino"
         }
