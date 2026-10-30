@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T02:46:15.795Z",
-  "checkedAt": "2026-10-30T02:46:15.795Z",
+  "updatedAt": "2026-10-30T09:03:06.949Z",
+  "checkedAt": "2026-10-30T09:03:06.949Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "www-tycsports-com-automovilismo-antonelli-enciende-las-alarmas-en-mercedes-antes-del-gran-premio-de-mexico-id769332-html",
-      "title": "Antonelli enciende las alarmas en Mercedes antes del Gran Premio de México",
-      "summary": "En vísperas al inicio a las activiades en el Autódromo Hermanos Rodríguez donde puede consagrarse campeón de la Fórmula 1, el joven piloto italiano fue baja en las actividades de este jueves por un estado viral que pone en duda su presencia para las prácticas libres del viernes.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/antonelli-enciende-las-alarmas-en-mercedes-antes-del-gran-premio-de-mexico-id769332.html",
-      "image": "https://media.tycsports.com/files/2026/10/29/1001065/kimi-antonelli-mercedes-formula-1-_1440x810.webp?v=1",
-      "body": "En vísperas al inicio a las activiades en el Autódromo Hermanos Rodríguez donde puede consagrarse campeón de la Fórmula 1, el joven piloto italiano fue baja en las actividades de este jueves por un estado viral que pone en duda su presencia para las prácticas libres del viernes.\n\nKimi Antonelli sufrió un cortatiempo en la antesala del Gran Premio de México de la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en Kimi Antonelli puede consagarse campeón del campeonato de pilotos de la Fórmula 1 en este inminente Gran Premio de México , aunque el fin de semana en el Distrito Federal inició con un contratiempo para el joven italiano que le obligó a perderse el \"media day\" y pone en duda su presencia para las sesiones de prácticas libres de este viernes.\n\n\"Kimi se siente indispuesto hoy mientras se recupera de una enfermedad viral. Como precaución, la FIA lo ha eximido de sus obligaciones mediáticas obligatorias para darle la oportunidad de descansar antes del fin de semana. Esperamos que regrese mañana\" , dio a conocer la escudería alemana para dar a conocer el motivo detrás de la ausencia del corredor de 20 años en las charlas con la prensa obligatorias antes de cada Gran Premio.\n\nEste fin de semana puede ser uno histórico para la categoría reina del automovilismo a nivel mundial, ya que si Antonelli logra coronarse en México se transformará en el piloto más joven en consagrarse campeón , superando la marca que impuso Sebastian Vettel en 2010 al obtener el primero de sus cuatro títulos consecutivos con Red Bull.\n\nEl piloto de Mercedes suma 365 puntos y aventaja por 123 a su compañero de equipo , quien finalizó octavo en Austin y ocupa el segundo lugar con 242. Con 125 unidades aún en juego, a falta de cinco fechas para que concluya el Campeonato, Antonelli tendrá la oportu",
-      "language": "es",
-      "publishedAt": "2026-10-29T22:33:00.000Z",
-      "addedAt": "2026-10-29T23:26:50.398Z",
-      "category": "general",
-      "tag": "F1"
-    },
     {
       "id": "www-tycsports-com-automovilismo-como-entrenan-los-pilotos-de-la-f1-para-poder-competir-id768998-html",
       "title": "Cómo entrenan los pilotos de la F1 para poder competir",
@@ -173,21 +158,6 @@
       "addedAt": "2026-10-29T13:44:52.863Z",
       "category": "general",
       "tag": "Reglamento"
-    },
-    {
-      "id": "campeones-com-ar-toyota-el-reglamento-y-la-actualidad-del-tc2000-2",
-      "title": "Toyota, el reglamento y la actualidad del TC2000 | Campeones",
-      "summary": "Darío Ramonda pasó por Campeones y se refirió al año de la marca en el TC2000 y la llegada de las SUV.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/toyota-el-reglamento-y-la-actualidad-del-tc2000-2/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/04/Rossi-Stang-TC2000-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-29T19:07:28.000Z",
-      "addedAt": "2026-10-29T19:15:04.301Z",
-      "category": "general",
-      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-julian-santero-ante-una-posibilidad-inedita-en-la-historia-del-tc",
@@ -398,6 +368,21 @@
       "addedAt": "2026-10-25T12:02:43.168Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-toyota-el-reglamento-y-la-actualidad-del-tc2000-2",
+      "title": "Toyota, el reglamento y la actualidad del TC2000 | Campeones",
+      "summary": "Darío Ramonda pasó por Campeones y se refirió al año de la marca en el TC2000 y la llegada de las SUV.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/toyota-el-reglamento-y-la-actualidad-del-tc2000-2/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/04/Rossi-Stang-TC2000-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-29T19:07:28.000Z",
+      "addedAt": "2026-10-29T19:15:04.301Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-ardusso-relacion-con-martinez-competicion-y-sus-ingenieros-en-tc",
@@ -1498,7 +1483,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-30T02:46:23.620Z",
+      "createdAt": "2026-10-30T09:03:17.958Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-un-periodista-ingles-invitado-por-alpine-al-gp-de-estados-unidos-se-burlo-de-colapinto-p",
@@ -1546,6 +1531,36 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159-h",
+          "title": "F1: hora y dónde ver en vivo la práctica libre de Colapinto en el GP de México 2026",
+          "summary": "Este viernes se llevarán a cabo en el Autódromo Hermanos Rodríguez, las prácticas libres 1 y 2 de la 21&ordm; carrera de la temporada 2026 de la Fórmula 1. Conocé los detalles.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159.html",
+          "image": "https://media.tycsports.com/files/2026/10/25/999538/franco-colapinto-en-el-gp-de-estados-unidos-photo-by-stefano-facchinalessio-morgesenurphoto-via-getty-images_1440x810.webp?v=1",
+          "body": "Este viernes se llevarán a cabo en el Autódromo Hermanos Rodríguez, las prácticas libres 1 y 2 de la 21º carrera de la temporada 2026 de la Fórmula 1. Conocé los detalles.\n\nFranco Colapinto en el GP de Estados Unidos (Photo by Stefano Facchin/Alessio Morgese/NurPhoto via Getty Images) + Seguinos en La temporada 2026 de la Fórmula 1, que tiene como líder a Kimi Antonelli de Mercedes, tendrá su 21º carrera del año en el Gran Premio de México y este viernes se desarrollarán las prácticas libres 1 y 2 en el autódromo Hermanos Rodríguez con la presencia de Franco Colapinto únicamente en las PL2, ya que será reemplazado en el inicio de la actividad . Conocé los detalles .\n\nColapinto no estará presente en la primera práctica libre, según confirmó la escudería Alpine, ya que su reemplazante será el italiano Gabriele Minì. El cambio, anunciado este martes por la escudería francesa, forma parte de las sesiones obligatorias que los equipos deben destinar a pilotos debutantes.\n\nDe esta manera, el italiano tendrá su estreno oficial en un fin de semana de la máxima categoría y el piloto argentino volverá al ruedo en las Prácticas Libres 2 por la tarde-noche de Argentina.\n\nEl Autódromo Hermanos Rodríguez se encuentra a más de 2 km sobre el nivel del mar, lo que convierte la vuelta de 4,3 km en una experiencia que te deja sin aliento . La pista sigue en gran medida el trazado del circuito original de 1959; la principal diferencia es que la espectacular -espectacularmente aterradora- curva Peraltada ahora está dividida en dos, y el circuito serpentea a través de un antiguo estadio de béisbol, lo que ofrece una de las vistas más singulares de la Fórmula 1.",
+          "language": "es",
+          "publishedAt": "2026-10-30T03:02:19.000Z",
+          "addedAt": "2026-10-29T13:44:51.131Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-ocurrencia-franco-colapinto-para-poder-seguir-superclasico-mientras-corre-gp-de-mexico-i",
+          "title": "La ocurrencia de Franco Colapinto para seguir el Superclásico mientras corre en el GP de México",
+          "summary": "El piloto argentino de Fórmula 1 que volverá a coincidir en su actividad del domingo con el Boca-River bromeó: \"Capaz pregunto por la radio\".",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/ocurrencia-franco-colapinto-para-poder-seguir-superclasico-mientras-corre-gp-de-mexico-id769364.html",
+          "image": "https://media.tycsports.com/files/2026/08/20/980183/colapinto_1440x810.webp?v=1",
+          "body": "El piloto argentino de Fórmula 1 que volverá a coincidir en su actividad del domingo con el Boca-River bromeó: \"Capaz pregunto por la radio\".\n\nColapinto, entre dos pasiones (prensa Alpine). + Seguinos en El calendario de la Fórmula 1 le pondrá nuevamente un desafío especial a Franco Colapinto este domingo: mientras se prepara para correr el Gran Premio de México , también tendrá un ojo puesto en lo que suceda en la Bombonera. El motivo es claro: el piloto es hincha de Boca y no quiere perderse el Superclásico contra River.\n\nLa coincidencia entre ambas competencias ya tiene antecedentes. En otras oportunidades, el representante de Alpine debió repartir su atención entre las obligaciones en la pista y los partidos del Xeneize. Esta vez, incluso, se animó a fantasear con cómo mantenerse informado durante la carrera. En una charla con Fox, el argentino imaginó una alternativa para seguir el encuentro frente al Millonario. “Tremendo. No sé. Capaz pregunto por la radio cómo viene el partido. A ver si me dicen, le dejo a Stuart (su ingeniero, Barlow) el partido en el teléfono y que me vaya diciendo”, explicó serio pero jocoso.\n\nSin embargo, cuando le consultaron si de verdad su apoyo en boxes podía encargarse de esa tarea, descartó que esa fuera una posibilidad. De todas maneras, dejó en claro que buscará la manera de conocer lo que ocurra mientras cumple con sus compromisos deportivos . El horario, dentro de todo, lo ayuda: el partido es a las 15 y la carrera a las 17 hora argentina, aunque claramente en la previa de su competencia tampoco tendrá mucho espacio para seguir de cerca lo que suceda en Buenos Aires.\n\nNo será la primera vez que atraviese una situación de este estilo. En septiembre de 2024, cuando todavía competía para Williams, el Superclásico coincidió con el GP d",
+          "language": "es",
+          "publishedAt": "2026-10-30T02:54:34.000Z",
+          "addedAt": "2026-10-30T09:03:07.692Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-uso-una-camiseta-particular-y-se-ilusiona-con-un-gran-fin-de-semana-en-el-gp-d",
           "title": "Colapinto usó una camiseta particular y se ilusiona con un “gran fin de semana” en el GP de México",
           "summary": "El piloto argentino de Alpine llegó al paddock del Autódromo Hermanos Rodríguez con una indumentaria que, dividida a la mitad, contenía tanto la bandera argentina como mexicana para el reconocimiento de los locales.",
@@ -1557,21 +1572,6 @@
           "language": "es",
           "publishedAt": "2026-10-30T01:10:09.000Z",
           "addedAt": "2026-10-29T23:26:50.570Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159-h",
-          "title": "F1: hora y dónde ver en vivo la práctica libre de Colapinto en el GP de México",
-          "summary": "Este viernes se llevarán a cabo en el Autódromo Hermanos Rodríguez, las prácticas libres 1 y 2 de la 21&ordm; carrera de la temporada 2026 de la Fórmula 1. Conocé los detalles.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159.html",
-          "image": "https://media.tycsports.com/files/2026/10/25/999538/franco-colapinto-en-el-gp-de-estados-unidos-photo-by-stefano-facchinalessio-morgesenurphoto-via-getty-images_1440x810.webp?v=1",
-          "body": "Este viernes se llevarán a cabo en el Autódromo Hermanos Rodríguez, las prácticas libres 1 y 2 de la 21º carrera de la temporada 2026 de la Fórmula 1. Conocé los detalles.\n\nFranco Colapinto en el GP de Estados Unidos (Photo by Stefano Facchin/Alessio Morgese/NurPhoto via Getty Images) + Seguinos en La temporada 2026 de la Fórmula 1, que tiene como líder a Kimi Antonelli de Mercedes, tendrá su 21º carrera del año en el Gran Premio de México y este viernes se desarrollarán las prácticas libres 1 y 2 en el autódromo Hermanos Rodríguez con la presencia de Franco Colapinto únicamente en las PL2, ya que será reemplazado en el inicio de la actividad . Conocé los detalles .\n\nColapinto no estará presente en la primera práctica libre, según confirmó la escudería Alpine, ya que su reemplazante será el italiano Gabriele Minì. El cambio, anunciado este martes por la escudería francesa, forma parte de las sesiones obligatorias que los equipos deben destinar a pilotos debutantes.\n\nDe esta manera, el italiano tendrá su estreno oficial en un fin de semana de la máxima categoría y el piloto argentino volverá al ruedo en las Prácticas Libres 2 por la tarde-noche de Argentina.\n\nEl Autódromo Hermanos Rodríguez se encuentra a más de 2 km sobre el nivel del mar, lo que convierte la vuelta de 4,3 km en una experiencia que te deja sin aliento . La pista sigue en gran medida el trazado del circuito original de 1959; la principal diferencia es que la espectacular -espectacularmente aterradora- curva Peraltada ahora está dividida en dos, y el circuito serpentea a través de un antiguo estadio de béisbol, lo que ofrece una de las vistas más singulares de la Fórmula 1.",
-          "language": "es",
-          "publishedAt": "2026-10-29T20:05:15.000Z",
-          "addedAt": "2026-10-29T13:44:51.131Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1617,21 +1617,6 @@
           "language": "es",
           "publishedAt": "2026-10-23T21:52:40.000Z",
           "addedAt": "2026-10-23T23:32:59.910Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
-          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
-          "summary": "Cobertura especial del GP de Estados Unidos de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-29T19:00:17.000Z",
-          "addedAt": "2026-10-20T22:28:56.803Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1711,6 +1696,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
+          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
+          "summary": "Cobertura especial del GP de Estados Unidos de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-29T19:00:17.000Z",
+          "addedAt": "2026-10-20T22:28:56.803Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-cambia-la-parrilla-del-gp-de-estados-unidos-de-la-formula-1-como-afecta-a-franco-colapin",
           "title": "Cambia la parrilla del GP de Estados Unidos: cómo afecta a Colapinto",
           "summary": "Lance Stroll fue sancionado en la previa de una nueva carrera y largará desde boxes, por lo que representa un rival menos por delante del argentino, que saldrá 21° tras su penalización de diez lugares.",
@@ -1754,7 +1754,13 @@
           "addedAt": "2026-10-29T23:26:50.891Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-30T09:03:17.958Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-fue-elegido-entre-los-grandes-perdedores-del-gp-de-estados-unidos-por-l",
           "title": "Colapinto fue elegido entre \"los grandes perdedores\" del GP de Estados Unidos",
@@ -1769,13 +1775,7 @@
           "addedAt": "2026-10-28T20:58:14.092Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-30T02:46:23.620Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-alpine-formula-1-gp-de-mexico-id768857-html",
           "title": "Colapinto no estará en la FP1 de México y Alpine ya confirmó a su reemplazante",
@@ -2030,28 +2030,28 @@
           "addedAt": "2026-10-22T19:59:10.962Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id",
-          "title": "\"Mucho trabajo por hacer\": Colapinto apunta a la recuperación de Alpine en Austin",
-          "summary": "El piloto argentino de la Fórmula 1 contó que estuvo en Enstone de cara al Gran Premio de Estados Unidos.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id767428.html",
-          "image": "https://media.tycsports.com/files/2026/10/20/997816/franco-colapinto_1440x810.webp",
-          "body": "El piloto argentino de la Fórmula 1 contó que estuvo en Enstone de cara al Gran Premio de Estados Unidos.\n\nFranco Colapinto, piloto de Alpine en la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en El Gran Premio de Estados Unidos representa una nueva oportunidad para Franco Colapinto , que intentará cortar la mala racha de Alpine después de tres fechas consecutivas sin sumar puntos . El piloto argentino se prepara para afrontar el desafío en Austin, donde buscará encontrar respuestas tras un exigente trabajo junto a los ingenieros de la escudería.\n\nLuego de su participación en Singapur, el joven de Pilar viajó a la fábrica de Enstone , en Inglaterra, para analizar los problemas del monoplaza. El objetivo fue identificar aspectos por mejorar antes de encarar la próxima competencia y recuperar competitividad en la Fórmula 1. \"Venimos de una serie de carreras difíciles pero estuve de regreso en Enstone con mis ingenieros y todos trabajamos mucho para asegurarnos de que las próximas sean bastante mejores\", explicó. \" Tenemos mucho trabajo por hacer en la pista y estoy motivado para hacerlo y tener otro buen fin de semana en Austin\" , añadió.\n\nEl pedido de Colapinto por los mensajes de odio en redes El trazado texano le trae buenos recuerdos al argentino. En 2024, cuando apenas disputaba s u cuarta carrera en la máxima categoría con Williams, terminó en zona de puntos y protagonizó una maniobra ante Fernando Alonso que fue elegida como el mejor sobrepaso . Además, el calendario que se aproxima tiene un atractivo especial para él, ya que incluye tres compromisos consecutivos en el continente americano. \"Estoy deseando volver a correr en Austin y comenzar una de las triples fechas más divertidas del año. Manejar en Texas, Ciudad de México y San Pablo es increíble para mí, po",
-          "language": "es",
-          "publishedAt": "2026-10-20T20:01:01.000Z",
-          "addedAt": "2026-10-20T22:28:55.340Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-30T02:46:23.620Z",
+      "createdAt": "2026-10-30T09:03:17.958Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-antonelli-enciende-las-alarmas-en-mercedes-antes-del-gran-premio-de-mexico-id769332-html",
+          "title": "Antonelli enciende las alarmas en Mercedes antes del Gran Premio de México",
+          "summary": "En vísperas al inicio a las activiades en el Autódromo Hermanos Rodríguez donde puede consagrarse campeón de la Fórmula 1, el joven piloto italiano fue baja en las actividades de este jueves por un estado viral que pone en duda su presencia para las prácticas libres del viernes.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/antonelli-enciende-las-alarmas-en-mercedes-antes-del-gran-premio-de-mexico-id769332.html",
+          "image": "https://media.tycsports.com/files/2026/10/29/1001065/kimi-antonelli-mercedes-formula-1-_1440x810.webp?v=1",
+          "body": "En vísperas al inicio a las activiades en el Autódromo Hermanos Rodríguez donde puede consagrarse campeón de la Fórmula 1, el joven piloto italiano fue baja en las actividades de este jueves por un estado viral que pone en duda su presencia para las prácticas libres del viernes.\n\nKimi Antonelli sufrió un cortatiempo en la antesala del Gran Premio de México de la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en Kimi Antonelli puede consagarse campeón del campeonato de pilotos de la Fórmula 1 en este inminente Gran Premio de México , aunque el fin de semana en el Distrito Federal inició con un contratiempo para el joven italiano que le obligó a perderse el \"media day\" y pone en duda su presencia para las sesiones de prácticas libres de este viernes.\n\n\"Kimi se siente indispuesto hoy mientras se recupera de una enfermedad viral. Como precaución, la FIA lo ha eximido de sus obligaciones mediáticas obligatorias para darle la oportunidad de descansar antes del fin de semana. Esperamos que regrese mañana\" , dio a conocer la escudería alemana para dar a conocer el motivo detrás de la ausencia del corredor de 20 años en las charlas con la prensa obligatorias antes de cada Gran Premio.\n\nEste fin de semana puede ser uno histórico para la categoría reina del automovilismo a nivel mundial, ya que si Antonelli logra coronarse en México se transformará en el piloto más joven en consagrarse campeón , superando la marca que impuso Sebastian Vettel en 2010 al obtener el primero de sus cuatro títulos consecutivos con Red Bull.\n\nEl piloto de Mercedes suma 365 puntos y aventaja por 123 a su compañero de equipo , quien finalizó octavo en Austin y ocupa el segundo lugar con 242. Con 125 unidades aún en juego, a falta de cinco fechas para que concluya el Campeonato, Antonelli tendrá la oportu",
+          "language": "es",
+          "publishedAt": "2026-10-29T22:33:00.000Z",
+          "addedAt": "2026-10-29T23:26:50.398Z",
+          "category": "general",
+          "tag": "F1"
+        },
         {
           "id": "www-tycsports-com-automovilismo-era-una-sensacion-de-la-f1-pero-murio-tragicamente-durante-un-gran-premio-como-vaticino-",
           "title": "Era una sensación de la F1, pero murió trágicamente durante un Gran Premio como vaticinó una vidente",
@@ -2306,7 +2306,13 @@
           "addedAt": "2026-10-18T07:11:28.259Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-30T09:03:17.958Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-el-curioso-analisis-de-antonelli-sobre-la-chance-de-ser-campeon-de-la-f1-en-el-gp-de-est",
           "title": "El curioso análisis de Antonelli sobre la chance de ser campeón de la F1 en el GP de Estados Unidos: \"Tiene que pasar algo catastrófico\"",
@@ -2321,13 +2327,7 @@
           "addedAt": "2026-10-22T23:15:42.966Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-30T02:46:23.620Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-era-una-promesa-de-la-f1-un-helicoptero-le-corto-el-brazo-y-termino-en-la-quiebra-id7671",
           "title": "Era una promesa de la F1, un helicóptero le cortó el brazo y terminó en la quiebra",
@@ -2404,19 +2404,19 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-marquez-rinde-honor-liderando-en-una-pista-que-se-despide-del-motogp",
-          "title": "Márquez rinde honor liderando en una pista que se despide del MotoGP",
-          "summary": "El Campeonato Mundial está en el icónico Phillip Island y Marc Márquez fue el mejor del primer entrenamiento delante de Fernández y Miller.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/marquez-rinde-honor-liderando-en-una-pista-que-se-despide-del-motogp/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Marc-Marquez-Ducati-FP1-Australia-2026.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id",
+          "title": "\"Mucho trabajo por hacer\": Colapinto apunta a la recuperación de Alpine en Austin",
+          "summary": "El piloto argentino de la Fórmula 1 contó que estuvo en Enstone de cara al Gran Premio de Estados Unidos.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id767428.html",
+          "image": "https://media.tycsports.com/files/2026/10/20/997816/franco-colapinto_1440x810.webp",
+          "body": "El piloto argentino de la Fórmula 1 contó que estuvo en Enstone de cara al Gran Premio de Estados Unidos.\n\nFranco Colapinto, piloto de Alpine en la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en El Gran Premio de Estados Unidos representa una nueva oportunidad para Franco Colapinto , que intentará cortar la mala racha de Alpine después de tres fechas consecutivas sin sumar puntos . El piloto argentino se prepara para afrontar el desafío en Austin, donde buscará encontrar respuestas tras un exigente trabajo junto a los ingenieros de la escudería.\n\nLuego de su participación en Singapur, el joven de Pilar viajó a la fábrica de Enstone , en Inglaterra, para analizar los problemas del monoplaza. El objetivo fue identificar aspectos por mejorar antes de encarar la próxima competencia y recuperar competitividad en la Fórmula 1. \"Venimos de una serie de carreras difíciles pero estuve de regreso en Enstone con mis ingenieros y todos trabajamos mucho para asegurarnos de que las próximas sean bastante mejores\", explicó. \" Tenemos mucho trabajo por hacer en la pista y estoy motivado para hacerlo y tener otro buen fin de semana en Austin\" , añadió.\n\nEl pedido de Colapinto por los mensajes de odio en redes El trazado texano le trae buenos recuerdos al argentino. En 2024, cuando apenas disputaba s u cuarta carrera en la máxima categoría con Williams, terminó en zona de puntos y protagonizó una maniobra ante Fernando Alonso que fue elegida como el mejor sobrepaso . Además, el calendario que se aproxima tiene un atractivo especial para él, ya que incluye tres compromisos consecutivos en el continente americano. \"Estoy deseando volver a correr en Austin y comenzar una de las triples fechas más divertidas del año. Manejar en Texas, Ciudad de México y San Pablo es increíble para mí, po",
           "language": "es",
-          "publishedAt": "2026-10-23T00:50:07.000Z",
-          "addedAt": "2026-10-23T01:42:09.608Z",
-          "category": "general",
-          "tag": "F1"
+          "publishedAt": "2026-10-20T20:01:01.000Z",
+          "addedAt": "2026-10-20T22:28:55.340Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
@@ -2430,36 +2430,6 @@
           "language": "es",
           "publishedAt": "2026-10-12T21:27:52.000Z",
           "addedAt": "2026-10-18T07:11:28.307Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-colapinto-y-otros-pilotos-no-probaran-en-la-primera-tanda-mexicana-de-f1",
-          "title": "Colapinto y otros nueve pilotos no probarán en la primera tanda mexicana de F1",
-          "summary": "Se conoció el listado quiénes estarán girando en la práctica inicial del GP de México.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-y-otros-pilotos-no-probaran-en-la-primera-tanda-mexicana-de-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261029-F1-Boxes.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-29T16:58:11.000Z",
-          "addedAt": "2026-10-29T23:26:53.040Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-colapinto-y-otros-siete-pilotos-no-probaran-en-la-primera-tanda-mexicana-de-f1",
-          "title": "Colapinto y otros siete pilotos no probarán en la primera tanda mexicana de F1",
-          "summary": "Se conoció el listado de los ocho pilotos que estarán probando en la práctica inicial del GP de México.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-y-otros-siete-pilotos-no-probaran-en-la-primera-tanda-mexicana-de-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261029-F1-Boxes.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-29T16:58:11.000Z",
-          "addedAt": "2026-10-29T19:15:04.887Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2539,21 +2509,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico",
-          "title": "Franco Colapinto y los problemas que puede traer la altitud en el GP de México",
-          "summary": "Un desafío para el manejo por la baja densidad del aire a 2.240 msnm con la potencia, la carga aerodinámica, la refrigeración del Fórmula 1.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Mexico-2026-Jueves.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-29T20:26:37.000Z",
-          "addedAt": "2026-10-29T23:26:51.726Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-que-dijo-briatore-tras-abandono-colapinto-f1-id768713-html",
           "title": "Briatore, decepcionado tras el abandono de Colapinto en el GP de Estados Unidos: “No fue el resultado que esperábamos”",
           "summary": "Tras el abandono de Franco Colapinto y el 10° puesto de Pierre Gasly, el asesor ejecutivo de la escudería francesa se lamentó por la actuación del equipo en Austin. “La suerte no estuvo de nuestro lado”, aseguró.",
@@ -2565,6 +2520,36 @@
           "language": "es",
           "publishedAt": "2026-10-26T20:00:14.000Z",
           "addedAt": "2026-10-26T23:46:29.688Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-y-otros-pilotos-no-probaran-en-la-primera-tanda-mexicana-de-f1",
+          "title": "Colapinto y otros nueve pilotos no probarán en la primera tanda mexicana de F1",
+          "summary": "Se conoció el listado quiénes estarán girando en la práctica inicial del GP de México.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-y-otros-pilotos-no-probaran-en-la-primera-tanda-mexicana-de-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261029-F1-Boxes.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-29T16:58:11.000Z",
+          "addedAt": "2026-10-29T23:26:53.040Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-y-otros-siete-pilotos-no-probaran-en-la-primera-tanda-mexicana-de-f1",
+          "title": "Colapinto y otros siete pilotos no probarán en la primera tanda mexicana de F1",
+          "summary": "Se conoció el listado de los ocho pilotos que estarán probando en la práctica inicial del GP de México.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-y-otros-siete-pilotos-no-probaran-en-la-primera-tanda-mexicana-de-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261029-F1-Boxes.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-29T16:58:11.000Z",
+          "addedAt": "2026-10-29T19:15:04.887Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2602,7 +2587,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-30T02:46:23.620Z",
+      "createdAt": "2026-10-30T09:03:17.959Z",
       "items": [
         {
           "id": "campeones-com-ar-colapinto-no-cree-que-el-ingreso-de-ruanda-a-la-f1-complique-la-posibilidad-de-argentina",
@@ -2620,19 +2605,19 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-agustin-canapino-se-refirio-al-cambio-de-motorista",
-          "title": "Agustín Canapino se refirió al cambio de motorista | Campeones",
-          "summary": "En diálogo con la web oficial de la ACTC, el \"Titán\" se refirió a la incorporación de \"Pope\" Bonelli como preparador del impulsor del Chevrolet Camaro.",
+          "id": "campeones-com-ar-franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico",
+          "title": "Franco Colapinto y los problemas que puede traer la altitud en el GP de México",
+          "summary": "Un desafío para el manejo por la baja densidad del aire a 2.240 msnm con la potencia, la carga aerodinámica, la refrigeración del Fórmula 1.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/agustin-canapino-se-refirio-al-cambio-de-motorista/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/831424346_18633460306059487_7456589413896809953_n-e1793295997380.jpg",
+          "url": "https://campeones.com.ar/franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Mexico-2026-Jueves.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-29T17:46:45.000Z",
-          "addedAt": "2026-10-29T19:15:03.612Z",
+          "publishedAt": "2026-10-29T20:26:37.000Z",
+          "addedAt": "2026-10-29T23:26:51.726Z",
           "category": "argentino",
-          "tag": "Argentino"
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina",
@@ -2815,6 +2800,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-agustin-canapino-se-refirio-al-cambio-de-motorista",
+          "title": "Agustín Canapino se refirió al cambio de motorista | Campeones",
+          "summary": "En diálogo con la web oficial de la ACTC, el \"Titán\" se refirió a la incorporación de \"Pope\" Bonelli como preparador del impulsor del Chevrolet Camaro.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/agustin-canapino-se-refirio-al-cambio-de-motorista/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/831424346_18633460306059487_7456589413896809953_n-e1793295997380.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-29T17:46:45.000Z",
+          "addedAt": "2026-10-29T19:15:03.612Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-se-rompe-la-dupla-campeona-constanzo-deja-de-ser-el-motorista-de-canapino",
           "title": "Se rompe la dupla campeona: Costanzo deja de ser el motorista de Canapino | Campeones",
           "summary": "Fue anunciado por el \"Titán\" y el Canning Motorpsort en las redes sociales tras la carrera en Rosario. Aún no fue confirmado el reemplazo en la preparación de los motores.",
@@ -2858,21 +2858,6 @@
           "addedAt": "2026-10-24T18:44:41.747Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-en-la-ultima-practica-texana-de-f1-colapinto-se-ubico-en-la-15-a-posicion",
-          "title": "En la última práctica texana de F1, Colapinto se ubicó en la .ª posición",
-          "summary": "Continuó probando el Alpine con miras a equilibrar su prestación para las 56 vueltas del GP en Austin y logrando una satisfactoria referencia.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/en-la-ultima-practica-texana-de-f1-colapinto-se-ubico-en-la-15-a-posicion/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-F1-Colapinto-Alpine-box.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-24T18:31:05.000Z",
-          "addedAt": "2026-10-24T18:44:36.091Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     }
