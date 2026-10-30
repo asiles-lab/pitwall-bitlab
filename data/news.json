@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-29T23:26:49.514Z",
-  "checkedAt": "2026-10-29T23:26:49.514Z",
+  "updatedAt": "2026-10-30T02:46:15.795Z",
+  "checkedAt": "2026-10-30T02:46:15.795Z",
   "pageSize": 18,
   "sources": [
     {
@@ -55,36 +55,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-colapinto-y-otros-pilotos-no-probaran-en-la-primera-tanda-mexicana-de-f1",
-      "title": "Colapinto y otros nueve pilotos no probarán en la primera tanda mexicana de F1",
-      "summary": "Se conoció el listado quiénes estarán girando en la práctica inicial del GP de México.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/colapinto-y-otros-pilotos-no-probaran-en-la-primera-tanda-mexicana-de-f1/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261029-F1-Boxes.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-29T16:58:11.000Z",
-      "addedAt": "2026-10-29T23:26:53.040Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
-    {
-      "id": "campeones-com-ar-franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico",
-      "title": "Franco Colapinto y los problemas que puede traer la altitud en el GP de México",
-      "summary": "Un desafío para el manejo por la baja densidad del aire a 2.240 msnm con la potencia, la carga aerodinámica, la refrigeración del Fórmula 1.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Mexico-2026-Jueves.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-29T20:26:37.000Z",
-      "addedAt": "2026-10-29T23:26:51.726Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-como-entrenan-los-pilotos-de-la-f1-para-poder-competir-id768998-html",
       "title": "Cómo entrenan los pilotos de la F1 para poder competir",
       "summary": "Manejar un Fórmula 1 exige mucho más que subirse al auto y acelerar. Los pilotos soportan hasta 6 G, más de 50 grados en el habitáculo y carreras de casi dos horas: así se preparan en lo físico y en lo mental.",
@@ -100,21 +70,6 @@
       "tag": "Carrera"
     },
     {
-      "id": "campeones-com-ar-tc2000-federico-iribarne-se-suma-a-lincoln-motorsport",
-      "title": "TC2000: Federico Iribarne se suma a Lincoln Motorsport",
-      "summary": "El piloto bonaerense de Lanús retornará este fin de semana a la categoría luego de ocho años y estará corriendo en General Roca con una Nissan Kicks.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc2000-federico-iribarne-se-suma-a-lincoln-motorsport/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261029-TC2000-Iribarne-1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-29T21:22:22.000Z",
-      "addedAt": "2026-10-29T23:26:52.779Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-comenzo-el-asfaltado-para-recibir-a-la-f1-en-el-autodromo-oscar-y-juan-galvez-id769224-h",
       "title": "Comenzó el asfaltado para recibir a la F1 en el Autódromo Oscar y Juan Gálvez",
       "summary": "La obra que pondrá al circuito porteño entre los más nuevos de Sudamérica ya apunta al regreso del MotoGP, después de 28 años.",
@@ -126,6 +81,21 @@
       "language": "es",
       "publishedAt": "2026-10-29T15:29:43.000Z",
       "addedAt": "2026-10-29T19:15:02.591Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc2000-federico-iribarne-se-suma-a-lincoln-motorsport",
+      "title": "TC2000: Federico Iribarne se suma a Lincoln Motorsport",
+      "summary": "El piloto bonaerense de Lanús retornará este fin de semana a la categoría luego de ocho años y estará corriendo en General Roca con una Nissan Kicks.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc2000-federico-iribarne-se-suma-a-lincoln-motorsport/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261029-TC2000-Iribarne-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-29T21:22:22.000Z",
+      "addedAt": "2026-10-29T23:26:52.779Z",
       "category": "general",
       "tag": "F1"
     },
@@ -216,21 +186,6 @@
       "language": "es",
       "publishedAt": "2026-10-29T19:07:28.000Z",
       "addedAt": "2026-10-29T19:15:04.301Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-ardusso-relacion-con-martinez-competicion-y-sus-ingenieros-en-tc",
-      "title": "Ardusso: relación con Martínez Competición y sus ingenieros en TC",
-      "summary": "El piloto de Las Parejas habló en \"Buen día, Campeones\" y se refirió a su futuro con la escuadra entrerriana, a bordo del Mustang.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/ardusso-relacion-con-martinez-competicion-y-sus-ingenieros-en-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261029-TC-Ardusso.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-29T14:41:48.000Z",
-      "addedAt": "2026-10-29T19:15:04.304Z",
       "category": "general",
       "tag": "F1"
     },
@@ -443,6 +398,21 @@
       "addedAt": "2026-10-25T12:02:43.168Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-ardusso-relacion-con-martinez-competicion-y-sus-ingenieros-en-tc",
+      "title": "Ardusso: relación con Martínez Competición y sus ingenieros en TC",
+      "summary": "El piloto de Las Parejas habló en \"Buen día, Campeones\" y se refirió a su futuro con la escuadra entrerriana, a bordo del Mustang.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/ardusso-relacion-con-martinez-competicion-y-sus-ingenieros-en-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261029-TC-Ardusso.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-29T14:41:48.000Z",
+      "addedAt": "2026-10-29T19:15:04.304Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-el-mal-tiempo-impidio-que-motogp-corriera-su-ultima-prueba-en-phillip-island",
@@ -1528,7 +1498,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-29T23:26:58.958Z",
+      "createdAt": "2026-10-30T02:46:23.620Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-un-periodista-ingles-invitado-por-alpine-al-gp-de-estados-unidos-se-burlo-de-colapinto-p",
@@ -1583,9 +1553,9 @@
           "sourceLabel": "TyC Sports",
           "url": "https://www.tycsports.com/automovilismo/colapinto-uso-una-camiseta-particular-y-se-ilusiona-con-un-gran-fin-de-semana-en-el-gp-de-mexico--id769283.html",
           "image": "https://media.tycsports.com/files/2026/10/29/1001041/franco-colapinto_1440x810.webp?v=1",
-          "body": "El piloto argentino de Alpine llegó al paddock del Autódromo Hermanos Rodríguez con una indumentaria que, dividida a la mitad, contenía tanto la bandera argentina como mexicana para el reconocimiento de los locales.\n\nColapinto portó una camiseta particular y se ilusiona con un “gran fin de semana” en el GP de México + Seguinos en Tras un fin de semana para el olvido en el Gran Premio de Estados Unidos en la Fórmula 1, Franco Colapinto intentará revertir lo sucedido en el GP de México , cuya carrera principal se llevará a cabo en el Autódromo Hermanos Rodríguez el próximo domingo 1 de noviembre . El piloto de Alpine, fiel a su costumbre, arribó al paddock con una camiseta sumamente particular y, a la vez, presentó la posibilidad de que sea un fin de semana favorable por las características del trazado.\n\nEl argentino, quien debió abandonar en la vuelta 37 en el Circuito de las Américas, dijo presente con una indumentaria que combinó las banderas de dos países: la de Argentina por un lado y la de México por el otro . “Listo para arrancar el día” , escribieron desde las redes sociales oficiales de la escudería junto a una postal del Pilarense que, como no podía ser de otra manera, también llegó con el termo y el mate .\n\nEn otro aspecto, explicó por qué las características del circuito podrían favorecer al monoplaza A526 en su búsqueda por volver a la zona de puntuación. “ Tenemos un buen motor y rectas muy largas . Habrá que ver cómo funciona el auto en la altura” , expresó. Lo cierto es que estará ante una de las rectas más extensas del calendario, aunque deberá tener en cuenta que competirá a más de 2.200 metros sobre el nivel del mar.\n\n“ Se genera mucha menos carga aerodinámica, las llantas se calientan más porque hay menos refrigeración, hay menos aire para enfriar el a",
+          "body": "El piloto argentino de Alpine llegó al paddock del Autódromo Hermanos Rodríguez con una indumentaria que, dividida a la mitad, contenía tanto la bandera argentina como mexicana para el reconocimiento de los locales.\n\nColapinto portó una camiseta particular y se ilusiona con un “gran fin de semana” en el GP de México + Seguinos en Tras un fin de semana para el olvido en el Gran Premio de Estados Unidos en la Fórmula 1, Franco Colapinto intentará revertir lo sucedido en el GP de México , cuya carrera principal se llevará a cabo en el Autódromo Hermanos Rodríguez el próximo domingo 1 de noviembre . El piloto de Alpine, fiel a su costumbre, arribó al paddock con una camiseta sumamente particular y, a la vez, presentó la posibilidad de que sea un fin de semana favorable por las características del trazado.\n\nEl argentino, quien debió abandonar en la vuelta 37 en el Circuito de las Américas, dijo presente con una indumentaria que combinó las banderas de dos países: la de Argentina por un lado y la de México por el otro . “Listo para arrancar el día” , escribieron desde las redes sociales oficiales de la escudería junto a una postal del pilarense que, como no podía ser de otra manera, también llegó con el termo y el mate .\n\nEn otro aspecto, explicó por qué las características del circuito podrían favorecer al monoplaza A526 en su búsqueda por volver a la zona de puntuación. “ Tenemos un buen motor y rectas muy largas . Habrá que ver cómo funciona el auto en la altura” , expresó. Lo cierto es que estará ante una de las rectas más extensas del calendario, aunque deberá tener en cuenta que competirá a más de 2.200 metros sobre el nivel del mar.\n\n“ Se genera mucha menos carga aerodinámica, las llantas se calientan más porque hay menos refrigeración, hay menos aire para enfriar el a",
           "language": "es",
-          "publishedAt": "2026-10-29T20:36:38.000Z",
+          "publishedAt": "2026-10-30T01:10:09.000Z",
           "addedAt": "2026-10-29T23:26:50.570Z",
           "category": "argentino",
           "tag": "Franco"
@@ -1666,21 +1636,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-los-10-cambios-de-pilotos-que-marcaran-un-record-en-la-practica-del-gp-de-mexico-de-form",
-          "title": "Los 10 cambios de pilotos que marcarán un récord en la práctica del GP de México de Fórmula 1",
-          "summary": "Con Colapinto como protagonista, las escuderías realizarán varias modificaciones de cara a la primera sesión de libres en el Autódromo Hermanos Rodríguez-",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/los-10-cambios-de-pilotos-que-marcaran-un-record-en-la-practica-del-gp-de-mexico-de-formula-1-id769311.html",
-          "image": "https://media.tycsports.com/files/2026/10/21/998198/franco-colapinto_862x485.webp",
-          "body": "Con Colapinto como protagonista, las escuderías realizarán varias modificaciones de cara a la primera sesión de libres en el Autódromo Hermanos Rodríguez-\n\n+ Seguinos en El Gran Premio de México de la Fórmula 1 traerá consigo varias caras nuevas y un récord. Es que diez escuderías cederán asientos a sus pilotos novatos durante la primera práctica libre en el Autódromo Hermanos Rodríguez , un hito que igualará el de la FP1 del Gran Premio de Abu Dhabi en 2023.\n\nEn los últimos años, el Gran Premio de México se ha consolidado como un escenario propicio para que las escuderías cumplan con la normativa que les exige que les den rodaje a los pilotos jóvenes de cada programa. Así, esta edición de la carrera contará con 10 cambios en la primera práctica libre, entre los que se destaca el de Franco Colapinto .\n\nCuriosamente, solo Ferrari no modificará a sus pilotos y contará con Charles Leclerc y Lewis Hamilton al frente de sus monoplazas.\n\nLas 10 modificaciones representarán la mayor cantidad de cambios desde Abu Dhabi 2023, cuando el 50 por ciento de los 20 monoplazas hicieron lo mismo . Aquella vez, así como Ferrari ahora, fue Alpha Tauri el equipo que no realizó cambios.",
-          "language": "es",
-          "publishedAt": "2026-10-29T21:42:56.000Z",
-          "addedAt": "2026-10-29T23:26:50.891Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-gran-premio-estados-unidos-formula-1-danos-aleron-id768564-html",
           "title": "Por qué Colapinto abandonó el Gran Premio de Estados Unidos: \"Se rompió mucho el auto\"",
           "summary": "La carrera en el Circuito de las Américas llegó a su fin para el piloto argentino en la vuelta 36, cuando su ingeniero de pista Stuart Barlow le indicó que ingresara a los boxes para retirar su monoplaza.",
@@ -1741,21 +1696,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-messi-balon-de-oro-id767832-html",
-          "title": "Colapinto eligió a Messi como su candidato para el Balón de Oro: “Sería muy lindo que lo vuelva a ganar”",
-          "summary": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-messi-balon-de-oro-id767832.html",
-          "image": "https://media.tycsports.com/files/2026/10/22/998438/franco_862x485.webp?v=1",
-          "body": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.\n\nFrance Football aclaró la polémica en torno al Balón de Oro de todos los tiempos, mientras CR7 aventaja a Messi 22/10/2026 09:33 pm Franco Colapinto eligió a Lionel Messi como su candidato a ganar el Balón de Oro. + Seguinos en Franco Colapinto tiene muy en claro a su favorito para quedarse con el Balón de Oro , que se entregará el próximo lunes en Londres. “Messi” , sentenció el piloto argentino de Alpine en diálogo con DAZN este jueves en el Media Day del Gran Premio de Estados Unidos de Fórmula 1.\n\n“Fue su último Mundial y la rompió. Metió muchísimos goles, ayudó a Argentina a llegar a la final y es un ídolo para todo el fútbol mundial. Creo que tuvo un gran año y se lo merece” , argumentó el pilarense sobre la performance del astro rosarino en este 2026.\n\nAdemás, el corredor de 23 años se deshizo en elogios con el mejor futbolista de todos los tiempos por la vigencia que mantiene a sus 39 años: “Con la edad que tiene, su disciplina; es un ejemplo para el mundo del deporte y, si no es el mejor, tuvo uno de los mejores años entre todos los futbolistas”.\n\nPor último, el #43 le dedicó un sentido mensaje a Leo, con quien se encontró en la previa del Gran Premio de Miami. “Ojalá gane él. Soy uno de sus mayores fanáticos y, con todas las alegrías que nos dio, sería muy lindo que lo vuelva a ganar”, sentenció.",
-          "language": "es",
-          "publishedAt": "2026-10-23T00:33:50.000Z",
-          "addedAt": "2026-10-22T19:59:10.767Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-f1-colapinto-penalizara-otra-vez-ahora-en-el-fin-de-semana-de-austin",
           "title": "F1: Colapinto penalizará otra vez, ahora en el fin de semana de Austin",
           "summary": "Mientras cumplía con la primera práctica del Gran Premio de Estados Unidos, en donde fue 17.°, la FIA anunció que el Alpine del argentino reemplazó elementos de la unidad de potencia.",
@@ -1799,13 +1739,22 @@
           "addedAt": "2026-10-23T23:33:02.048Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-10-29T23:26:58.958Z",
-      "items": [
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-los-10-cambios-de-pilotos-que-marcaran-un-record-en-la-practica-del-gp-de-mexico-de-form",
+          "title": "Los 10 cambios de pilotos que marcarán un récord en la práctica del GP de México de Fórmula 1",
+          "summary": "Con Colapinto como protagonista, las escuderías realizarán varias modificaciones de cara a la primera sesión de libres en el Autódromo Hermanos Rodríguez-",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/los-10-cambios-de-pilotos-que-marcaran-un-record-en-la-practica-del-gp-de-mexico-de-formula-1-id769311.html",
+          "image": "https://media.tycsports.com/files/2026/10/21/998198/franco-colapinto_862x485.webp",
+          "body": "Con Colapinto como protagonista, las escuderías realizarán varias modificaciones de cara a la primera sesión de libres en el Autódromo Hermanos Rodríguez-\n\n+ Seguinos en El Gran Premio de México de la Fórmula 1 traerá consigo varias caras nuevas y un récord. Es que diez escuderías cederán asientos a sus pilotos novatos durante la primera práctica libre en el Autódromo Hermanos Rodríguez , un hito que igualará el de la FP1 del Gran Premio de Abu Dhabi en 2023.\n\nEn los últimos años, el Gran Premio de México se ha consolidado como un escenario propicio para que las escuderías cumplan con la normativa que les exige que les den rodaje a los pilotos jóvenes de cada programa. Así, esta edición de la carrera contará con 10 cambios en la primera práctica libre, entre los que se destaca el de Franco Colapinto .\n\nCuriosamente, solo Ferrari no modificará a sus pilotos y contará con Charles Leclerc y Lewis Hamilton al frente de sus monoplazas.\n\nLas 10 modificaciones representarán la mayor cantidad de cambios desde Abu Dhabi 2023, cuando el 50 por ciento de los 20 monoplazas hicieron lo mismo . Aquella vez, así como Ferrari ahora, fue Alpha Tauri el equipo que no realizó cambios.",
+          "language": "es",
+          "publishedAt": "2026-10-29T21:42:56.000Z",
+          "addedAt": "2026-10-29T23:26:50.891Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-fue-elegido-entre-los-grandes-perdedores-del-gp-de-estados-unidos-por-l",
           "title": "Colapinto fue elegido entre \"los grandes perdedores\" del GP de Estados Unidos",
@@ -1820,7 +1769,13 @@
           "addedAt": "2026-10-28T20:58:14.092Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-10-30T02:46:23.620Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-alpine-formula-1-gp-de-mexico-id768857-html",
           "title": "Colapinto no estará en la FP1 de México y Alpine ya confirmó a su reemplazante",
@@ -1893,21 +1848,6 @@
           "language": "es",
           "publishedAt": "2026-10-23T14:07:09.000Z",
           "addedAt": "2026-10-23T17:19:41.481Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-la-fia-revelo-la-cantidad-de-amenazas-de-muerte-que-recibio-gasly-id769119-html",
-          "title": "La FIA reveló la cantidad de amenazas de muerte que recibió Gasly",
-          "summary": "Mohammed Ben Sulayem, presidente de la entidad, informó que el piloto francés, compañero de Colapinto en Alpine, fue amenazado en 13.000 oportunidades a través de redes sociales.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-fia-revelo-la-cantidad-de-amenazas-de-muerte-que-recibio-gasly-id769119.html",
-          "image": "https://media.tycsports.com/files/2026/09/23/990126/pierre-gasly_862x485.webp?v=1",
-          "body": "Mohammed Ben Sulayem, presidente de la entidad, informó que el piloto francés, compañero de Colapinto en Alpine, fue amenazado en 13.000 oportunidades a través de redes sociales.\n\nPierre Gasly (REUTERS) + Seguinos en Mohammed Ben Sulayem, presidente de la Federación Internacional del Automóvil (FIA), reveló la cantidad de amenazas de muerte que recibió Pierre Gasly tras su incidente con Franco Colapinto, su compañero de Alpine, en el GP de España.\n\nEn una entrevista con el medio The Drive , el mandatario afirmó que el piloto francés fue amenazado en 13.000 oportunidades en redes sociales y reflexionó sobre los mensajes de odio. “Pierre Gasly tuvo 13.000 amenazas contra su vida. ¡13.000! Si luchamos contra esto solos, vamos a fracasar; no podemos hacerlo solos”, expresó Mohammed Ben Sulayem, quien también exigió compromiso de los pilotos, equipos y los medios de comunicación.\n\nSobre el final de la carrera en el GP de España, el pilarense le pisaba los talones a su compañero: llegaba con mejor envión y le francés perdía ritmo porque se quedaba sin neumáticos. Mientras, Oscar Piastri (de McLaren) acechaba como amenaza para pasarlos a los dos.\n\nEl pilarense, por radio, le pidió a su equipo para cambiar de posiciones . \"Chicos, no perdamos tiempo. Cambio, cambio. ¿Hola? Vamos, ¡cambio! Honestamente, oh, dios mío\", expresó con frustración.",
-          "language": "es",
-          "publishedAt": "2026-10-29T00:48:55.000Z",
-          "addedAt": "2026-10-29T06:32:06.565Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2032,6 +1972,36 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-la-fia-revelo-la-cantidad-de-amenazas-de-muerte-que-recibio-gasly-id769119-html",
+          "title": "La FIA reveló la cantidad de amenazas de muerte que recibió Gasly",
+          "summary": "Mohammed Ben Sulayem, presidente de la entidad, informó que el piloto francés, compañero de Colapinto en Alpine, fue amenazado en 13.000 oportunidades a través de redes sociales.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-fia-revelo-la-cantidad-de-amenazas-de-muerte-que-recibio-gasly-id769119.html",
+          "image": "https://media.tycsports.com/files/2026/09/23/990126/pierre-gasly_862x485.webp?v=1",
+          "body": "Mohammed Ben Sulayem, presidente de la entidad, informó que el piloto francés, compañero de Colapinto en Alpine, fue amenazado en 13.000 oportunidades a través de redes sociales.\n\nPierre Gasly (REUTERS) + Seguinos en Mohammed Ben Sulayem, presidente de la Federación Internacional del Automóvil (FIA), reveló la cantidad de amenazas de muerte que recibió Pierre Gasly tras su incidente con Franco Colapinto, su compañero de Alpine, en el GP de España.\n\nEn una entrevista con el medio The Drive , el mandatario afirmó que el piloto francés fue amenazado en 13.000 oportunidades en redes sociales y reflexionó sobre los mensajes de odio. “Pierre Gasly tuvo 13.000 amenazas contra su vida. ¡13.000! Si luchamos contra esto solos, vamos a fracasar; no podemos hacerlo solos”, expresó Mohammed Ben Sulayem, quien también exigió compromiso de los pilotos, equipos y los medios de comunicación.\n\nSobre el final de la carrera en el GP de España, el pilarense le pisaba los talones a su compañero: llegaba con mejor envión y le francés perdía ritmo porque se quedaba sin neumáticos. Mientras, Oscar Piastri (de McLaren) acechaba como amenaza para pasarlos a los dos.\n\nEl pilarense, por radio, le pidió a su equipo para cambiar de posiciones . \"Chicos, no perdamos tiempo. Cambio, cambio. ¿Hola? Vamos, ¡cambio! Honestamente, oh, dios mío\", expresó con frustración.",
+          "language": "es",
+          "publishedAt": "2026-10-29T00:48:55.000Z",
+          "addedAt": "2026-10-29T06:32:06.565Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-messi-balon-de-oro-id767832-html",
+          "title": "Colapinto eligió a Messi como su candidato para el Balón de Oro: “Sería muy lindo que lo vuelva a ganar”",
+          "summary": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-messi-balon-de-oro-id767832.html",
+          "image": "https://media.tycsports.com/files/2026/10/22/998438/franco_862x485.webp?v=1",
+          "body": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.\n\nFrance Football aclaró la polémica en torno al Balón de Oro de todos los tiempos, mientras CR7 aventaja a Messi 22/10/2026 09:33 pm Franco Colapinto eligió a Lionel Messi como su candidato a ganar el Balón de Oro. + Seguinos en Franco Colapinto tiene muy en claro a su favorito para quedarse con el Balón de Oro , que se entregará el próximo lunes en Londres. “Messi” , sentenció el piloto argentino de Alpine en diálogo con DAZN este jueves en el Media Day del Gran Premio de Estados Unidos de Fórmula 1.\n\n“Fue su último Mundial y la rompió. Metió muchísimos goles, ayudó a Argentina a llegar a la final y es un ídolo para todo el fútbol mundial. Creo que tuvo un gran año y se lo merece” , argumentó el pilarense sobre la performance del astro rosarino en este 2026.\n\nAdemás, el corredor de 23 años se deshizo en elogios con el mejor futbolista de todos los tiempos por la vigencia que mantiene a sus 39 años: “Con la edad que tiene, su disciplina; es un ejemplo para el mundo del deporte y, si no es el mejor, tuvo uno de los mejores años entre todos los futbolistas”.\n\nPor último, el #43 le dedicó un sentido mensaje a Leo, con quien se encontró en la previa del Gran Premio de Miami. “Ojalá gane él. Soy uno de sus mayores fanáticos y, con todas las alegrías que nos dio, sería muy lindo que lo vuelva a ganar”, sentenció.",
+          "language": "es",
+          "publishedAt": "2026-10-23T00:33:50.000Z",
+          "addedAt": "2026-10-22T19:59:10.767Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-el-nuevo-casco-que-presento-colapinto-con-los-colores-de-boca-id767936-html",
           "title": "Con \"un poco de Boca\", el nuevo casco que presentó Colapinto",
           "summary": "De cara al inicio de las actividades en el Gran Premio de Estados Unidos de la Fórmula 1, el piloto argentino dio a conocer un nuevo diseño en el cual se destaca el predominio del blanco acompañado por detalles en azul y amarillo.",
@@ -2080,7 +2050,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-29T23:26:58.958Z",
+      "createdAt": "2026-10-30T02:46:23.620Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-era-una-sensacion-de-la-f1-pero-murio-tragicamente-durante-un-gran-premio-como-vaticino-",
@@ -2128,21 +2098,6 @@
           "tag": "Clima"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-confesion-de-russell-sobre-su-fallida-lucha-con-antonelli-por-ser-campeon-de-la-f1-mi",
-          "title": "La confesión de Russell sobre su fallida lucha por ser campeón de la F1: \"Mi visión tuvo altibajos\"",
-          "summary": "Tras un complejo Gran Premio de Estados Unidos donde Kimi Antonelli quedó a las puertas de la coronación, el piloto británico de Mercedes se sinceró sobre lo que fue su temporada.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-confesion-de-russell-sobre-su-fallida-lucha-con-antonelli-por-ser-campeon-de-la-f1-mi-vision-tuvo-altibajos-id768764.html",
-          "image": "https://media.tycsports.com/files/2026/10/26/1000089/george-russell-mercedes-_1440x810.webp?v=1",
-          "body": "Tras un complejo Gran Premio de Estados Unidos donde Kimi Antonelli quedó a las puertas de la coronación, el piloto británico de Mercedes se sinceró sobre lo que fue su temporada.\n\nGeorge Russell se sinceró sobre lo que fue su fallida puja por ganar el Campeonato de Pilotos de la Fórmula 1 en 2026. (Jayce Illman/Getty Images) + Seguinos en Kimi Antonelli quedó a las puertas de coronarse como campeón del Campeonato de Pilotos de la Fórmula 1 en la temporada 2026 tras imponerse el Gran Premio de Estados Unidos , carrera en la cual George Russell tuvo una floja actuación tras la cual entró en detalles sobre el dolor de estar muy cerca de quedar oficialmente sin chances.\n\n\"Supongo que en cuanto a mi mentalidad esta temporada, mi visión del campeonato ha tenido altibajos. A principios de año, cuando tenía un gran déficit de puntos, lo que me quitaba el sueño era mi falta de rendimiento y pensar: '¿Cómo voy a mejorar mi rendimiento? ¿Qué necesito del coche? ¿Qué necesita el coche de mi pilotaje?' Más que pensar en que quizá se me estuviera escapando la oportunidad\" , inició tras el octavo puesto en el Circuito de las Américas que dejó a su compañero de equipo a solo dos puntos de ser campeón.\n\n\"Y luego pasé de estar 70 puntos por detrás a quedar a 25 puntos después de Silverstone, y luego la diferencia aumentó, y entonces ocurrió Bakú. Eso pareció bastante importante de nuevo en cuanto a mis opciones. Una semana después, volvió a bajar en cierto modo y se añadió sal a la herida con la penalización en parrilla en Singapur. Así que esta temporada simplemente no estaba destinada a ser. No estoy amargado por ello, no lo estoy\", completó.\n\nDe cara a la próxima campaña, el ex-Williams trató de trazar las zonas a mejorar para poder conseguir su primera corona, al depender de un mila",
-          "language": "es",
-          "publishedAt": "2026-10-27T01:17:13.000Z",
-          "addedAt": "2026-10-27T02:27:21.510Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-la-chicana-de-mercedes-al-resto-de-la-formula-1-por-antonelli-decian-que-ni-siquiera-deb",
           "title": "La chicana de Mercedes al resto de la Fórmula 1 por Antonelli: \"Decían que ni siquiera...\"",
           "summary": "Con grandes chances de coronar en el inminente Gran Premio de México, Toto Wolff destacó lo hecho por el joven piloto italiano y disparó con munición gruesa ante los detractores.",
@@ -2154,6 +2109,21 @@
           "language": "es",
           "publishedAt": "2026-10-27T22:23:54.000Z",
           "addedAt": "2026-10-27T23:14:06.359Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-la-confesion-de-russell-sobre-su-fallida-lucha-con-antonelli-por-ser-campeon-de-la-f1-mi",
+          "title": "La confesión de Russell sobre su fallida lucha por ser campeón de la F1: \"Mi visión tuvo altibajos\"",
+          "summary": "Tras un complejo Gran Premio de Estados Unidos donde Kimi Antonelli quedó a las puertas de la coronación, el piloto británico de Mercedes se sinceró sobre lo que fue su temporada.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-confesion-de-russell-sobre-su-fallida-lucha-con-antonelli-por-ser-campeon-de-la-f1-mi-vision-tuvo-altibajos-id768764.html",
+          "image": "https://media.tycsports.com/files/2026/10/26/1000089/george-russell-mercedes-_1440x810.webp?v=1",
+          "body": "Tras un complejo Gran Premio de Estados Unidos donde Kimi Antonelli quedó a las puertas de la coronación, el piloto británico de Mercedes se sinceró sobre lo que fue su temporada.\n\nGeorge Russell se sinceró sobre lo que fue su fallida puja por ganar el Campeonato de Pilotos de la Fórmula 1 en 2026. (Jayce Illman/Getty Images) + Seguinos en Kimi Antonelli quedó a las puertas de coronarse como campeón del Campeonato de Pilotos de la Fórmula 1 en la temporada 2026 tras imponerse el Gran Premio de Estados Unidos , carrera en la cual George Russell tuvo una floja actuación tras la cual entró en detalles sobre el dolor de estar muy cerca de quedar oficialmente sin chances.\n\n\"Supongo que en cuanto a mi mentalidad esta temporada, mi visión del campeonato ha tenido altibajos. A principios de año, cuando tenía un gran déficit de puntos, lo que me quitaba el sueño era mi falta de rendimiento y pensar: '¿Cómo voy a mejorar mi rendimiento? ¿Qué necesito del coche? ¿Qué necesita el coche de mi pilotaje?' Más que pensar en que quizá se me estuviera escapando la oportunidad\" , inició tras el octavo puesto en el Circuito de las Américas que dejó a su compañero de equipo a solo dos puntos de ser campeón.\n\n\"Y luego pasé de estar 70 puntos por detrás a quedar a 25 puntos después de Silverstone, y luego la diferencia aumentó, y entonces ocurrió Bakú. Eso pareció bastante importante de nuevo en cuanto a mis opciones. Una semana después, volvió a bajar en cierto modo y se añadió sal a la herida con la penalización en parrilla en Singapur. Así que esta temporada simplemente no estaba destinada a ser. No estoy amargado por ello, no lo estoy\", completó.\n\nDe cara a la próxima campaña, el ex-Williams trató de trazar las zonas a mejorar para poder conseguir su primera corona, al depender de un mila",
+          "language": "es",
+          "publishedAt": "2026-10-27T01:17:13.000Z",
+          "addedAt": "2026-10-27T02:27:21.510Z",
           "category": "general",
           "tag": "F1"
         },
@@ -2356,7 +2326,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-29T23:26:58.958Z",
+      "createdAt": "2026-10-30T02:46:23.620Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-era-una-promesa-de-la-f1-un-helicoptero-le-corto-el-brazo-y-termino-en-la-quiebra-id7671",
@@ -2404,21 +2374,6 @@
           "tag": "F1"
         },
         {
-          "id": "campeones-com-ar-marquez-rinde-honor-liderando-en-una-pista-que-se-despide-del-motogp",
-          "title": "Márquez rinde honor liderando en una pista que se despide del MotoGP",
-          "summary": "El Campeonato Mundial está en el icónico Phillip Island y Marc Márquez fue el mejor del primer entrenamiento delante de Fernández y Miller.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/marquez-rinde-honor-liderando-en-una-pista-que-se-despide-del-motogp/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Marc-Marquez-Ducati-FP1-Australia-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-23T00:50:07.000Z",
-          "addedAt": "2026-10-23T01:42:09.608Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
           "id": "campeones-com-ar-thiago-palotini-carrera-en-ascenso-viajes-a-europa-y-el-desembarco-en-la-formula-4-brasil",
           "title": "Thiago Palotini: carrera en ascenso, competencias en Europa y la llegada a la Fórmula 4 Brasil | Campeones",
           "summary": "Tiene 15 años, es oriundo en Necochea y viene de competir en la F4 España e Italia. En noviembre, compartirá pista con la F1 cuando desembarque en la especialidad brasilera de F4.",
@@ -2449,6 +2404,21 @@
           "tag": "F1"
         },
         {
+          "id": "campeones-com-ar-marquez-rinde-honor-liderando-en-una-pista-que-se-despide-del-motogp",
+          "title": "Márquez rinde honor liderando en una pista que se despide del MotoGP",
+          "summary": "El Campeonato Mundial está en el icónico Phillip Island y Marc Márquez fue el mejor del primer entrenamiento delante de Fernández y Miller.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/marquez-rinde-honor-liderando-en-una-pista-que-se-despide-del-motogp/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Marc-Marquez-Ducati-FP1-Australia-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-23T00:50:07.000Z",
+          "addedAt": "2026-10-23T01:42:09.608Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
           "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
           "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
@@ -2460,6 +2430,21 @@
           "language": "es",
           "publishedAt": "2026-10-12T21:27:52.000Z",
           "addedAt": "2026-10-18T07:11:28.307Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-y-otros-pilotos-no-probaran-en-la-primera-tanda-mexicana-de-f1",
+          "title": "Colapinto y otros nueve pilotos no probarán en la primera tanda mexicana de F1",
+          "summary": "Se conoció el listado quiénes estarán girando en la práctica inicial del GP de México.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-y-otros-pilotos-no-probaran-en-la-primera-tanda-mexicana-de-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261029-F1-Boxes.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-29T16:58:11.000Z",
+          "addedAt": "2026-10-29T23:26:53.040Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2554,6 +2539,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "campeones-com-ar-franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico",
+          "title": "Franco Colapinto y los problemas que puede traer la altitud en el GP de México",
+          "summary": "Un desafío para el manejo por la baja densidad del aire a 2.240 msnm con la potencia, la carga aerodinámica, la refrigeración del Fórmula 1.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Mexico-2026-Jueves.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-29T20:26:37.000Z",
+          "addedAt": "2026-10-29T23:26:51.726Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-que-dijo-briatore-tras-abandono-colapinto-f1-id768713-html",
           "title": "Briatore, decepcionado tras el abandono de Colapinto en el GP de Estados Unidos: “No fue el resultado que esperábamos”",
           "summary": "Tras el abandono de Franco Colapinto y el 10° puesto de Pierre Gasly, el asesor ejecutivo de la escudería francesa se lamentó por la actuación del equipo en Austin. “La suerte no estuvo de nuestro lado”, aseguró.",
@@ -2597,7 +2597,13 @@
           "addedAt": "2026-10-23T17:19:44.582Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-30T02:46:23.620Z",
+      "items": [
         {
           "id": "campeones-com-ar-colapinto-no-cree-que-el-ingreso-de-ruanda-a-la-f1-complique-la-posibilidad-de-argentina",
           "title": "Colapinto no cree que el ingreso de Ruanda a la F1 complique la posibilidad de Argentina",
@@ -2627,13 +2633,7 @@
           "addedAt": "2026-10-29T19:15:03.612Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-29T23:26:58.958Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina",
           "title": "La desafortunada -y repudiada- expresión de un invitado de Alpine sobre Colapinto y Argentina",
@@ -2871,36 +2871,6 @@
           "language": "es",
           "publishedAt": "2026-10-24T18:31:05.000Z",
           "addedAt": "2026-10-24T18:44:36.091Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-colapinto-clasifico-14-y-largara-penultimo-en-el-gp-de-estados-unidos-de-formula-1",
-          "title": "Colapinto clasificó 14.° y largará penúltimo en el GP de Estados Unidos de Fórmula 1",
-          "summary": "Con el Alpine se abocó en cerrar el desarrollo del auto intentando obtener una fiable prestación en el trazado de Austin, en donde empezará desde la 21.ª posición. La \"pole\" la marcó Antonelli con el Mercedes.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-clasifico-14-y-largara-penultimo-en-el-gp-de-estados-unidos-de-formula-1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-F1-Colapinto-A526.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-24T21:46:43.000Z",
-          "addedAt": "2026-10-24T23:28:33.766Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-f2-argentina-franco-ledesma-vencio-en-rosario-y-no-se-baja-de-la-pelea",
-          "title": "F2 Argentina: Franco Ledesma venció en Rosario y no se baja de la pelea",
-          "summary": "El marplatense del Gabriel Werner Competición cerró un fin de semana ideal con una contundente victoria de punta a punta en la Final de la 11ª y anteúltima fecha del campeonato 2026 y buscará la hazaña en La Plata, donde dirimirá el título con Lautaro Videla (Mauro Martínez Competición), quien llegó 5º en el en el “Juan Manuel Fangio” santafesino.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f2-argentina-franco-ledesma-vencio-en-rosario-y-no-se-baja-de-la-pelea/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Ledesma-F2Arg-2026-2.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-25T15:33:06.000Z",
-          "addedAt": "2026-10-25T16:02:51.295Z",
           "category": "argentino",
           "tag": "Franco"
         }
