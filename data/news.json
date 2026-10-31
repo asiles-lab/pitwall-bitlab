@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T11:03:47.765Z",
-  "checkedAt": "2026-10-31T11:03:47.765Z",
+  "updatedAt": "2026-10-31T16:01:47.494Z",
+  "checkedAt": "2026-10-31T16:01:47.494Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,17 +40,17 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-otro-cambio-de-motorista-en-el-turismo-carretera",
-      "title": "Otro cambio de motorista en el Turismo Carretera | Campeones",
-      "summary": "Nicolás Trosset deja los motores de Miguel Franco y contará con la atención de Daniel Berra en el impulsor del Ford Mustang.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/otro-cambio-de-motorista-en-el-turismo-carretera/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Trosset-TC-Rosario-ACTC.jpg",
-      "body": "",
+      "id": "carburando-com-ar-blog-colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
+      "title": "Colapinto no es el único: dos pilotos más suman sanciones en la parrilla de Austin",
+      "summary": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico…",
+      "source": "Carburando",
+      "sourceLabel": "Carburando",
+      "url": "https://carburando.com.ar/blog/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
+      "image": "https://carburando.com.ar/covers/22/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-27815.webp",
+      "body": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico y deportivo que explica estas decisiones.\n\nLa parrilla del Gran Premio de Estados Unidos en el Circuito de las Américas se definirá este fin de semana con más modificaciones de lo habitual. Franco Colapinto no será el único que partirá más atrás de lo que su clasificación indique: dos pilotos adicionales acumulan sanciones que alterarán el orden de largada en Austin.\n\nEn el reglamento deportivo de la FIA, las penalizaciones por cambios de componentes de la unidad de potencia son las más habituales. Cuando un equipo excede el número permitido de motores, turbinas, MGU-K o baterías por temporada, el piloto debe retroceder posiciones en la grilla. Este mecanismo busca equilibrar el desarrollo y el costo de las plantas impulsoras.\n\nColapinto ya había recibido una sanción previa por la sustitución de varios elementos del power unit en las últimas carreras. Ahora se suman a esa lista otros dos corredores que, por motivos técnicos similares o por infracciones durante los entrenamientos, perderán lugares. El detalle exacto de cada penalidad se confirma habitualmente tras la clasificación del sábado, pero los equipos ya anticipan los movimientos.\n\nDesde el punto de vista técnico, el reglamento 2026 de la Fórmula 1 mantiene la filosofía de limitar el número de unidades de potencia por temporada, aunque con ajustes en la potencia y el componente eléctrico. Esto obliga a los fabricantes a ser más precisos en la gestión de fiabilidad, porque cada cambio extra se paga caro en la parrilla.",
       "language": "es",
-      "publishedAt": "2026-10-30T16:02:35.000Z",
-      "addedAt": "2026-10-30T20:41:28.344Z",
+      "publishedAt": "2026-10-23T21:50:17.000Z",
+      "addedAt": "2026-10-31T16:01:48.313Z",
       "category": "argentino",
       "tag": "Franco"
     },
@@ -85,21 +85,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-ducati-abre-su-primer-espacio-integrado-en-un-concesionario-audi-en-argentina",
-      "title": "Ducati abre su primer espacio integrado en un concesionario Audi en Argentina | Campeones",
-      "summary": "Con esta apertura, Ducati da un paso concreto en el desarrollo de su red en Argentina, con Bahía Blanca como uno de sus puntos de crecimiento en el interior del país.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/ducati-abre-su-primer-espacio-integrado-en-un-concesionario-audi-en-argentina/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/ducati-bahia-5.jpeg",
-      "body": "Con esta apertura, Ducati da un paso concreto en el desarrollo de su red en Argentina, con Bahía Blanca como uno de sus puntos de crecimiento en el interior del país.",
-      "language": "es",
-      "publishedAt": "2026-10-30T11:35:03.000Z",
-      "addedAt": "2026-10-30T20:41:30.517Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico",
       "title": "Franco Colapinto y los problemas que puede traer la altitud en el GP de México",
       "summary": "Un desafío para el manejo por la baja densidad del aire a 2.240 msnm con la potencia, la carga aerodinámica, la refrigeración del Fórmula 1.",
@@ -130,6 +115,21 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-formula-1-un-cambio-de-ultimo-momento-en-haas",
+      "title": "Fórmula 1: Un cambio de último momento en Haas",
+      "summary": "La escuadra informó que el japonés Ryo Hirakawa reemplazará a Esteban Ocon a partir de este sábado en el Gran Premio Ciudad de México.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/formula-1-un-cambio-de-ultimo-momento-en-haas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-F1-Hirakawa-Haas.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-31T15:33:29.000Z",
+      "addedAt": "2026-10-31T16:01:49.760Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "www-tycsports-com-automovilismo-como-entrenan-los-pilotos-de-la-f1-para-poder-competir-id768998-html",
       "title": "Cómo entrenan los pilotos de la F1 para poder competir",
       "summary": "Manejar un Fórmula 1 exige mucho más que subirse al auto y acelerar. Los pilotos soportan hasta 6 G, más de 50 grados en el habitáculo y carreras de casi dos horas: así se preparan en lo físico y en lo mental.",
@@ -143,21 +143,6 @@
       "addedAt": "2026-10-29T19:15:02.909Z",
       "category": "general",
       "tag": "Carrera"
-    },
-    {
-      "id": "www-tycsports-com-automovilismo-tension-en-el-gp-de-mexico-un-piloto-empujo-a-un-fanatico-que-le-pidio-una-foto-id769527",
-      "title": "Tensión en el GP de México: un piloto empujó a un fanático que le pidió una foto",
-      "summary": "Isack Hadjar, de Red Bull, se enojó con una persona que se acercó para intentar sacarse una selfie con él luego de la primera práctica libre en el Autódromo Hermanos Rodríguez.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/tension-en-el-gp-de-mexico-un-piloto-empujo-a-un-fanatico-que-le-pidio-una-foto-id769527.html",
-      "image": "https://media.tycsports.com/files/2026/10/30/1001341/tension-en-el-gp-de-mexico-un-piloto-empujo-a-un-fanatico-que-le-pidio-una-foto_416x234.webp",
-      "body": "Isack Hadjar, de Red Bull, se enojó con una persona que se acercó para intentar sacarse una selfie con él luego de la primera práctica libre en el Autódromo Hermanos Rodríguez.\n\nTensión en el GP de México: un piloto empujó a un fanático que le pidió una foto + Seguinos en Isack Hadjar, piloto de Red Bull, tuvo una fuerte reacción con un fanático que le pidió una selfie, en el primer día del Gran Premio de México de la Fórmula 1.\n\nLuego del final de la primera práctica libre, un hincha se acercó para sacarse una foto con el francés. El conductor se lo tomó de mala manera: directamente lo empujó. Hadjar, compañero de Max Verstappen en Red Bull, finalizó 11º en la primera práctica libre y luego octavo en la segunda (+0.580, en una prueba que lideró Charles Leclerc, de Ferrari, con 1:17.827).\n\nPor su parte, Franco Colapinto (Alpine) terminó 16° en la segunda práctica libre, con un mejor tiempo de 1:19.132, y tuvo su primer contacto con el circuito mexicano. Pierre Gasly, su compañero de equipo, terminó octavo con un registro de 1:18.407. De esta manera, el piloto argentino volverá al ruedo en las Prácticas Libres 3 el sábado por la tarde. La carrera será el domingo 1º de noviembre desde las 17 (horario de Argentina).",
-      "language": "es",
-      "publishedAt": "2026-10-30T23:31:43.000Z",
-      "addedAt": "2026-10-31T00:06:25.962Z",
-      "category": "general",
-      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-agustin-canapino-se-refirio-al-cambio-de-motorista",
@@ -175,6 +160,21 @@
       "tag": "Argentino"
     },
     {
+      "id": "www-tycsports-com-automovilismo-tension-en-el-gp-de-mexico-un-piloto-empujo-a-un-fanatico-que-le-pidio-una-foto-id769527",
+      "title": "Tensión en el GP de México: un piloto empujó a un fanático que le pidió una foto",
+      "summary": "Isack Hadjar, de Red Bull, se enojó con una persona que se acercó para intentar sacarse una selfie con él luego de la primera práctica libre en el Autódromo Hermanos Rodríguez.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/tension-en-el-gp-de-mexico-un-piloto-empujo-a-un-fanatico-que-le-pidio-una-foto-id769527.html",
+      "image": "https://media.tycsports.com/files/2026/10/30/1001341/tension-en-el-gp-de-mexico-un-piloto-empujo-a-un-fanatico-que-le-pidio-una-foto_416x234.webp",
+      "body": "Isack Hadjar, de Red Bull, se enojó con una persona que se acercó para intentar sacarse una selfie con él luego de la primera práctica libre en el Autódromo Hermanos Rodríguez.\n\nTensión en el GP de México: un piloto empujó a un fanático que le pidió una foto + Seguinos en Isack Hadjar, piloto de Red Bull, tuvo una fuerte reacción con un fanático que le pidió una selfie, en el primer día del Gran Premio de México de la Fórmula 1.\n\nLuego del final de la primera práctica libre, un hincha se acercó para sacarse una foto con el francés. El conductor se lo tomó de mala manera: directamente lo empujó. Hadjar, compañero de Max Verstappen en Red Bull, finalizó 11º en la primera práctica libre y luego octavo en la segunda (+0.580, en una prueba que lideró Charles Leclerc, de Ferrari, con 1:17.827).\n\nPor su parte, Franco Colapinto (Alpine) terminó 16° en la segunda práctica libre, con un mejor tiempo de 1:19.132, y tuvo su primer contacto con el circuito mexicano. Pierre Gasly, su compañero de equipo, terminó octavo con un registro de 1:18.407. De esta manera, el piloto argentino volverá al ruedo en las Prácticas Libres 3 el sábado por la tarde. La carrera será el domingo 1º de noviembre desde las 17 (horario de Argentina).",
+      "language": "es",
+      "publishedAt": "2026-10-30T23:31:43.000Z",
+      "addedAt": "2026-10-31T00:06:25.962Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "www-tycsports-com-automovilismo-nikola-tsolov-preocupante-momento-me-estoy-quedando-sin-sangre-no-siento-la-pierna-f1-ra",
       "title": "Preocupante momento en la primera práctica libre del GP de México: \"Me estoy quedando sin sangre, no siento la pierna\"",
       "summary": "Nikola Tsolov hizo su estreno en la Fórmula 1 a bordo del monoplaza de Racing Bulls y se vio obligado a frenar su sesión por un complejo inconveniente con el monoplaza.",
@@ -188,6 +188,21 @@
       "addedAt": "2026-10-31T00:06:25.904Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-ducati-abre-su-primer-espacio-integrado-en-un-concesionario-audi-en-argentina",
+      "title": "Ducati abre su primer espacio integrado en un concesionario Audi en Argentina | Campeones",
+      "summary": "Con esta apertura, Ducati da un paso concreto en el desarrollo de su red en Argentina, con Bahía Blanca como uno de sus puntos de crecimiento en el interior del país.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/ducati-abre-su-primer-espacio-integrado-en-un-concesionario-audi-en-argentina/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/ducati-bahia-5.jpeg",
+      "body": "Con esta apertura, Ducati da un paso concreto en el desarrollo de su red en Argentina, con Bahía Blanca como uno de sus puntos de crecimiento en el interior del país.",
+      "language": "es",
+      "publishedAt": "2026-10-30T11:35:03.000Z",
+      "addedAt": "2026-10-30T20:41:30.517Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-tc-canapino-y-el-canning-motorsport-apuestan-por-el-motor-preparado-por-bonelli",
@@ -220,19 +235,19 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-canapino-con-nuevo-equipo-en-tc-pick-up",
-      "title": "Canapino con nuevo equipo en TC Pick Up",
-      "summary": "El arrecifeño fue contactado por Christian Pereyra y Oscar Pettinari para integrar en 2027 el flamante equipo PyP Sport que tendrá su base en Pergamino.",
+      "id": "campeones-com-ar-rossi-mantuvo-la-vanguardia-en-el-primer-entrenamiento-roquense-de-tc2000",
+      "title": "Rossi mantuvo la vanguardia en el primer entrenamiento roquense de TC2000",
+      "summary": "Como en el \"Shakedown\", el piloto de Del Viso (Buenos Aires) marcó el mejor tiempo en la práctica inicial del autódromo de General Roca.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/canapino-con-nuevo-equipo-en-tc-pick-up/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261030-TCPickUp-Canapino.jpg",
+      "url": "https://campeones.com.ar/rossi-mantuvo-la-vanguardia-en-el-primer-entrenamiento-roquense-de-tc2000/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-TC2000-Rossi-TGRA.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-30T14:45:43.000Z",
-      "addedAt": "2026-10-30T15:50:05.213Z",
-      "category": "argentino",
-      "tag": "Argentino"
+      "publishedAt": "2026-10-31T14:42:51.000Z",
+      "addedAt": "2026-10-31T16:01:49.757Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "www-tycsports-com-automovilismo-comenzo-el-asfaltado-para-recibir-a-la-f1-en-el-autodromo-oscar-y-juan-galvez-id769224-h",
@@ -248,6 +263,36 @@
       "addedAt": "2026-10-29T19:15:02.591Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc2000-en-general-roca-rossi-fue-el-mejor-del-shakedown",
+      "title": "TC2000 en General Roca: Rossi fue el mejor del \"Shakedown\"",
+      "summary": "El campeón y actual líder del certamen lideró el primer ensayo en la pista de AVGR, en donde se disputa la décima fecha del calendario.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc2000-en-general-roca-rossi-fue-el-mejor-del-shakedown/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-TC2000-Rossi.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-31T12:25:51.000Z",
+      "addedAt": "2026-10-31T16:01:50.186Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-canapino-con-nuevo-equipo-en-tc-pick-up",
+      "title": "Canapino con nuevo equipo en TC Pick Up",
+      "summary": "El arrecifeño fue contactado por Christian Pereyra y Oscar Pettinari para integrar en 2027 el flamante equipo PyP Sport que tendrá su base en Pergamino.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/canapino-con-nuevo-equipo-en-tc-pick-up/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261030-TCPickUp-Canapino.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-30T14:45:43.000Z",
+      "addedAt": "2026-10-30T15:50:05.213Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-tc2000-federico-iribarne-se-suma-a-lincoln-motorsport",
@@ -640,21 +685,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-75o-aniversario-del-primer-titulo-mundial-de-juan-manuel-fangio-en-formula-1",
-      "title": "75º aniversario del primer título mundial de Juan Manuel Fangio en Fórmula 1 | Campeones",
-      "summary": "Un 28 de octubre de 1951, el \"Checo\" se consagraba campeón de la \"máxima\" en España, comenzando así un recorrido imborrable.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/75o-aniversario-del-primer-titulo-mundial-de-juan-manuel-fangio-en-formula-1/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/o_1793186352.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-28T14:40:32.000Z",
-      "addedAt": "2026-10-28T15:56:17.599Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-lando-norris-f1-baches-dolores-circuitos-pastillas-id768330-html",
       "title": "El piloto de F1 que reveló qué pastillas toma por los dolores que le provocan los baches de los circuitos",
       "summary": "El británico expuso las consecuencias físicas que provocan las irregularidades del asfalto y respaldó las críticas de Max Verstappen al trazado de Austin.",
@@ -681,6 +711,21 @@
       "language": "es",
       "publishedAt": "2026-10-23T11:05:45.000Z",
       "addedAt": "2026-10-23T12:10:31.387Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-75o-aniversario-del-primer-titulo-mundial-de-juan-manuel-fangio-en-formula-1",
+      "title": "75º aniversario del primer título mundial de Juan Manuel Fangio en Fórmula 1 | Campeones",
+      "summary": "Un 28 de octubre de 1951, el \"Checo\" se consagraba campeón de la \"máxima\" en España, comenzando así un recorrido imborrable.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/75o-aniversario-del-primer-titulo-mundial-de-juan-manuel-fangio-en-formula-1/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/o_1793186352.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-28T14:40:32.000Z",
+      "addedAt": "2026-10-28T15:56:17.599Z",
       "category": "general",
       "tag": "F1"
     },
@@ -876,21 +921,6 @@
       "language": "es",
       "publishedAt": "2026-10-24T16:02:00.000Z",
       "addedAt": "2026-10-24T18:44:34.769Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-en-rosario-el-mercedes-de-diego-azar-domino-el-primer-entrenamiento",
-      "title": "TC en Rosario: el Mercedes de Azar dominó el primer entrenamiento",
-      "summary": "El único piloto de los 3 pilotos de la marca alemana que no está en la Copa de Oro lideró el ensayo con el que dio comienzo la 3ª fecha del “play-off”, escoltado por Mauricio Lambiris (Ford Mustang), a 0s077, y Matías Rossi (Toyota Camry), a 0s111.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-en-rosario-el-mercedes-de-diego-azar-domino-el-primer-entrenamiento/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Azar-TC-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-24T14:23:05.000Z",
-      "addedAt": "2026-10-24T18:44:37.902Z",
       "category": "general",
       "tag": "F1"
     },
@@ -1345,6 +1375,21 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-tc-en-rosario-el-mercedes-de-diego-azar-domino-el-primer-entrenamiento",
+      "title": "TC en Rosario: el Mercedes de Azar dominó el primer entrenamiento",
+      "summary": "El único piloto de los 3 pilotos de la marca alemana que no está en la Copa de Oro lideró el ensayo con el que dio comienzo la 3ª fecha del “play-off”, escoltado por Mauricio Lambiris (Ford Mustang), a 0s077, y Matías Rossi (Toyota Camry), a 0s111.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-en-rosario-el-mercedes-de-diego-azar-domino-el-primer-entrenamiento/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Azar-TC-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-24T14:23:05.000Z",
+      "addedAt": "2026-10-24T18:44:37.902Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-tras-caerse-marc-marquez-logro-en-australia-su-epica-78-a-pole-de-motogp",
       "title": "Tras caerse, Marc Márquez logró en Australia su épica 78.ª \"pole\" de MotoGP",
       "summary": "Una vez más el piloto de Cervera consiguió una extraordinaria vuelta ante una condición difícil de pista húmeda en Phillip Island, y con una holgada ventaja a su hermano Álex.",
@@ -1555,6 +1600,21 @@
       "tag": "F1"
     },
     {
+      "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
+      "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
+      "summary": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-entradas-id763683.html",
+      "image": "https://media.tycsports.com/files/2025/01/20/804453/motogp-en-termas_1440x810.webp?v=2",
+      "body": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.\n\nEl Moto GP llegará a Buenos Aires en abril de 2027 + Seguinos en El MotoGP ya tiene los precios de las entradas para su regreso a la Ciudad de Buenos Aires. El Gran Premio se disputará del 9 al 11 de abril en el renovado circuito porteño, que volverá a recibir a la máxima categoría del motociclismo mundial.\n\nEl valor de los tickets parte desde $194.520 para una ubicación en la recta y llega hasta $5.349.300 para el acceso al Apex Club Elite, la alternativa de mayor costo. Entre ambos extremos, habrá distintas opciones de localidades y experiencias para los espectadores.\n\nLa venta se realizará a través del sitio oficial de tickets de MotoGP. Además, entre el 1 y el 7 de octubre habrá una preventa exclusiva para clientes de Banco Ciudad, con la posibilidad de abonar en hasta seis cuotas sin interés.",
+      "language": "es",
+      "publishedAt": "2026-09-30T22:03:28.000Z",
+      "addedAt": "2026-10-31T16:01:48.598Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "carburando-com-ar-blog-el-plan-de-juan-angel-rosso-para-afianzarse-en-el-tcr-south-america",
       "title": "El plan de Juan Ángel Rosso para afianzarse en el TCR South America",
       "summary": "El piloto argentino detalla cómo busca consolidar su vínculo con la marca y escalar en la categoría sudamericana de turismos. Un proyecto técnico…",
@@ -1678,7 +1738,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-31T11:03:57.514Z",
+      "createdAt": "2026-10-31T16:01:59.356Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159-h",
@@ -1756,21 +1816,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-optimista-tras-su-primera-sesion-de-practicas-en-mexico-hay-lugares-claro-para",
-          "title": "Colapinto, optimista tras su primera sesión de prácticas en el GP de México: \"Hay lugares claro para mejorar\"",
-          "summary": "Al finalizar en el decimosexto puesto en la segunda tanda de entrenamientos libres, el argentino observó el vaso medio lleno de cara a la sesión de clasificación en el Autódromo Hermanos Rodríguez.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-optimista-tras-su-primera-sesion-de-practicas-en-mexico-hay-lugares-claro-para-mejorar-id769535.html",
-          "image": "https://media.tycsports.com/files/2026/10/30/1001361/franco-colapinto-alpine_1440x810.webp",
-          "body": "Al finalizar en el decimosexto puesto en la segunda tanda de entrenamientos libres, el argentino observó el vaso medio lleno de cara a la sesión de clasificación en el Autódromo Hermanos Rodríguez.\n\nFranco Colapinto se mostró optimista de cara a la clasificación del Gran Premio de México de la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en Tras ceder su asiento a Gabriele Minì en la primera sesión, Franco Colapinto dijo presente en la segunda tanda de prácticas libres en el Gran Premio de México y expresó su entusiasmo de cara al resto del fin de semana pese a finalizar en el 16° lugar en la clasificación.\n\n\"No tan mal, creo que hay mucho por mejorar\" , se sinceró el argentino y ahondó sobre los motivos que le permiten imaginar un mejor devenir para su fin de semana: \" Perdí mucho en una curva en la parte del estadio (NdeR: el Foro Sol, en el tercer y último sector del trazado) y tengo mucho por ganar ahí y creo que el longrun iba bien \" .\n\n\"Fui encontrando de a poco cosas en la pista que me ayudaron un poco pero hay mucho que trabajar para mañana. Hoy a la noche va a ser importante para entender un par de cositas más y dar un paso pero creo que hay lugares claro para mejorar y veremos qué hay que hacer para mañana \" , planteó el argentino que promete una larga sesión con su ingeniero de pista para intentar maximizar el potencial de su monoplaza y poder cortar la racha de carreras sin puntuar.",
-          "language": "es",
-          "publishedAt": "2026-10-31T00:35:53.000Z",
-          "addedAt": "2026-10-31T05:28:17.883Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-como-quedo-la-grilla-definitiva-del-gp-de-estados-unidos-de-la-f1-id768491-html",
           "title": "Cómo quedó la grilla definitiva del GP de Estados Unidos de la F1",
           "summary": "Luego de la qualy quedaron definidas las posiciones de salida para la carrera de este domingo. Colapinto cerró 15° la clasifiación, pero largará penúltimo por una penalización.",
@@ -1801,17 +1846,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-dia-positivo-de-franco-colapinto-en-el-autodromo-hermanos-rodriguez",
-          "title": "«Día positivo» de Franco Colapinto tras su labor en el autódromo \"Hermanos Rodríguez\"",
-          "summary": "Al culminar la jornada inaugural del Gran Premio Ciudad de México, el piloto argentino se refirió a la prestación del Alpine y qué resta ajustar para sábado y domingo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/dia-positivo-de-franco-colapinto-en-el-autodromo-hermanos-rodriguez/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261030-F1-F-Colapinto-A526.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-colapinto-optimista-tras-su-primera-sesion-de-practicas-en-mexico-hay-lugares-claro-para",
+          "title": "Colapinto, optimista tras su primera sesión de prácticas en el GP de México: \"Hay lugares claro para mejorar\"",
+          "summary": "Al finalizar en el decimosexto puesto en la segunda tanda de entrenamientos libres, el argentino observó el vaso medio lleno de cara a la sesión de clasificación en el Autódromo Hermanos Rodríguez.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-optimista-tras-su-primera-sesion-de-practicas-en-mexico-hay-lugares-claro-para-mejorar-id769535.html",
+          "image": "https://media.tycsports.com/files/2026/10/30/1001361/franco-colapinto-alpine_1440x810.webp",
+          "body": "Al finalizar en el decimosexto puesto en la segunda tanda de entrenamientos libres, el argentino observó el vaso medio lleno de cara a la sesión de clasificación en el Autódromo Hermanos Rodríguez.\n\nFranco Colapinto se mostró optimista de cara a la clasificación del Gran Premio de México de la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en Tras ceder su asiento a Gabriele Minì en la primera sesión, Franco Colapinto dijo presente en la segunda tanda de prácticas libres en el Gran Premio de México y expresó su entusiasmo de cara al resto del fin de semana pese a finalizar en el 16° lugar en la clasificación.\n\n\"No tan mal, creo que hay mucho por mejorar\" , se sinceró el argentino y ahondó sobre los motivos que le permiten imaginar un mejor devenir para su fin de semana: \" Perdí mucho en una curva en la parte del estadio (NdeR: el Foro Sol, en el tercer y último sector del trazado) y tengo mucho por ganar ahí y creo que el longrun iba bien \" .\n\n\"Fui encontrando de a poco cosas en la pista que me ayudaron un poco pero hay mucho que trabajar para mañana. Hoy a la noche va a ser importante para entender un par de cositas más y dar un paso pero creo que hay lugares claro para mejorar y veremos qué hay que hacer para mañana \" , planteó el argentino que promete una larga sesión con su ingeniero de pista para intentar maximizar el potencial de su monoplaza y poder cortar la racha de carreras sin puntuar.",
           "language": "es",
-          "publishedAt": "2026-10-31T01:27:41.000Z",
-          "addedAt": "2026-10-31T05:28:18.911Z",
+          "publishedAt": "2026-10-31T00:35:53.000Z",
+          "addedAt": "2026-10-31T05:28:17.883Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1892,7 +1937,7 @@
         },
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-mexico-id769205-ht",
-          "title": "F1: hora y dónde ver en vivo la clasificación de Colapinto en el GP de México",
+          "title": "F1: horario y dónde ver en vivo la clasificación de Colapinto en el GP de México",
           "summary": "Este sábado se llevará a cabo, en el Autódromo Hermanos Rodríguez, la clasificación de una nueva fecha de la temporada 2026 de la Fórmula 1. Conocé los detalles.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
@@ -1900,7 +1945,7 @@
           "image": "https://media.tycsports.com/files/2026/10/24/999138/colapinto_1440x810.webp",
           "body": "Este sábado se llevará a cabo, en el Autódromo Hermanos Rodríguez, la clasificación de una nueva fecha de la temporada 2026 de la Fórmula 1. Conocé los detalles.\n\nFranco Colapinto (Rudy Carezzevoli/Getty Images). + Seguinos en La temporada 2026 de la Fórmula 1, que tiene como líder a Kimi Antonelli de Mercedes, tendrá su 21º carrera del año en el Gran Premio de México y este sábado se desarrollará la clasificación en el autódromo Hermanos Rodríguez con la presencia de Franco Colapinto de la mano de la escudería Alpine. Conocé los detalles .\n\nEl Autódromo Hermanos Rodríguez se encuentra a más de 2 km sobre el nivel del mar, lo que convierte la vuelta de 4,3 km en una experiencia que te deja sin aliento . La pista sigue en gran medida el trazado del circuito original de 1959; la principal diferencia es que la espectacular -espectacularmente aterradora- curva Peraltada ahora está dividida en dos, y el circuito serpentea a través de un antiguo estadio de béisbol, lo que ofrece una de las vistas más singulares de la Fórmula 1.\n\nBrasil: 18.00 Uruguay: 18.00 Chile: 18.00 Paraguay: 18.00 Bolivia: 17.00 Venezuela: 17.00 Estados Unidos (Este - EST): 17.00 Perú: 17.00 Ecuador: 17.00 Colombia: 17.00 Estados Unidos (Central - CST): 16.00 México: 16.00 Estados Unidos (Montaña - MST): 15.00 Estados Unidos (Pacífico - PST): 14.00\n\nLa carrera de la Fórmula 1 se podrá ver en vivo en la Argentina a través de Fox Sports . Además, vas a poder seguir el minuto a minuto de la competición en el sitio web www.tycsports.com.",
           "language": "es",
-          "publishedAt": "2026-10-31T01:50:20.000Z",
+          "publishedAt": "2026-10-31T12:48:15.000Z",
           "addedAt": "2026-10-30T20:41:26.035Z",
           "category": "argentino",
           "tag": "Franco"
@@ -1917,6 +1962,21 @@
           "language": "es",
           "publishedAt": "2026-10-25T19:02:54.000Z",
           "addedAt": "2026-10-25T21:40:42.380Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-dia-positivo-de-franco-colapinto-en-el-autodromo-hermanos-rodriguez",
+          "title": "«Día positivo» de Franco Colapinto tras su labor en el autódromo \"Hermanos Rodríguez\"",
+          "summary": "Al culminar la jornada inaugural del Gran Premio Ciudad de México, el piloto argentino se refirió a la prestación del Alpine y qué resta ajustar para sábado y domingo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/dia-positivo-de-franco-colapinto-en-el-autodromo-hermanos-rodriguez/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261030-F1-F-Colapinto-A526.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-31T01:27:41.000Z",
+          "addedAt": "2026-10-31T05:28:18.911Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1954,7 +2014,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-31T11:03:57.514Z",
+      "createdAt": "2026-10-31T16:01:59.356Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-fue-elegido-entre-los-grandes-perdedores-del-gp-de-estados-unidos-por-l",
@@ -1998,21 +2058,6 @@
           "language": "es",
           "publishedAt": "2026-10-25T22:50:04.000Z",
           "addedAt": "2026-10-24T23:28:31.272Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-estados-unidos-horarios-y-el-cronograma-completo-id765917-html",
-          "title": "F1 | Colapinto en el GP de Estados Unidos: cronograma completo y horarios",
-          "summary": "Este fin de semana, el argentino disputa la decimoctava fecha de la temporada 2026 de la Fórmula 1 en el Circuito de las Américas. Conocé todos los detalles.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-colapinto-en-el-gp-de-estados-unidos-horarios-y-el-cronograma-completo-id765917.html",
-          "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
-          "body": "Este fin de semana, el argentino disputa la decimoctava fecha de la temporada 2026 de la Fórmula 1 en el Circuito de las Américas. Conocé todos los detalles.\n\nFranco Colapinto. (@AlpineF1Team) + Seguinos en Franco Colapinto se prepara para disputar el Gran Premio de Estados Unidos de la Fórmula 1 . La 18° fecha de la temporada se correrá en el Circuito de las Américas y el argentino buscará reencontrarse con su mejor versión, luego del abandono en Singapur . Conocé el cronograma completo .\n\nFranco Colapinto finalizó 17º y 15° en las prácticas libres del Gran Premio de Estados Unidos de Fórmula 1, en una jornada que tuvo a Charles Leclerc como el más rápido al volante de su Ferrari.El argentino registró un tiempo de 1:38.121 en la primera sesión y de 1:37.201 en la segunda y fue penalizado por el cambio de una nueva unidad de control electrónico, superando el máximo permitido.\n\nEl Circuito Urbano de Marina Bay es uno de los trazados más exigentes de la Fórmula 1 . Su recorrido combina curvas cerradas, fuertes frenadas y sectores rápidos entre las calles de Singapur, con el agregado de un clima extremadamente húmedo. La carrera se disputa de noche y fue la primera competencia nocturna en la historia de la categoría . Desde 2023, el circuito tiene 19 curvas tras una modificación en su trazado.\n\nA su vez, de manera online se podrá seguir por Disney+, el servicio de streaming que ofrece ESPN o accediendo a Fox Sports a través de Telecentro Play, D Go y Flow.",
-          "language": "es",
-          "publishedAt": "2026-10-24T14:56:40.000Z",
-          "addedAt": "2026-10-22T16:03:11.160Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2225,13 +2270,43 @@
           "addedAt": "2026-10-20T22:28:55.340Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
+          "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
+          "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-ranking-peor-f1-gp-singapur-id765831.html",
+          "image": "https://media.tycsports.com/files/2026/10/12/995348/franco_1440x810.webp?v=1",
+          "body": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.\n\nFranco Colapinto tuvo que abandonar en el GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto tuvo un fin de semana para el olvido en el Gran Premio de Singapur de Fórmula 1 . El piloto argentino sufrió dos abandonos, tanto en la Sprint como en la carrera principal, debido a problemas de fiabilidad en su Alpine y no pudo volver a sumar puntos. Ante este panorama, un medio inglés ubicó al #43 entre los peores de su ranking.\n\nSe trata de The Race , un medio especializado que confecciona un ranking luego de cada carrera en el que pondera la actuación de cada corredor. En Singapur, Colapinto ocupó el puesto 19, solo por delante de Alex Albon, Valtteri Bottas y Lance Stroll , quienes también sufrieron complicaciones con sus monoplazas.\n\n“El ritmo subyacente era mejor de lo que parecía, pero la clasificación no se optimizó al máximo” , fue el veredicto final del portal inglés respecto a la performance del #43.\n\n“En la clasificación al sprint, mantuvo un ritmo similar al de su compañero de equipo en Alpine, Gasly. Su eliminación en la segunda ronda de clasificación se debió exclusivamente al tiempo perdido por los frenos y a que los neumáticos no estaban a la temperatura adecuada para la primera curva. Llegó a ocupar brevemente el duodécimo puesto en la carrera al sprint antes de detenerse por un problema en la reserva de energía”, analizó The Race.",
+          "language": "es",
+          "publishedAt": "2026-10-12T21:27:52.000Z",
+          "addedAt": "2026-10-18T07:11:28.307Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-31T11:03:57.514Z",
+      "createdAt": "2026-10-31T16:01:59.356Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-todas-las-sanciones-antes-de-la-qualy-del-gp-de-mexico-id769603-html",
+          "title": "Todas las sanciones antes de la Qualy del GP de México",
+          "summary": "La clasificación en el Autódromo Hermanos Rodríguez se disputará este sábado a las 18. Entre los veintidós pilotos de la parrilla, algunos buscarán un buen punto de partida para el domingo condicionados.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/todas-las-sanciones-antes-de-la-qualy-del-gp-de-mexico-id769603.html",
+          "image": "https://media.tycsports.com/files/2026/10/31/1001465/max-verstappen_1440x810.webp",
+          "body": "La clasificación en el Autódromo Hermanos Rodríguez se disputará este sábado a las 18. Entre los veintidós pilotos de la parrilla, algunos buscarán un buen punto de partida para el domingo condicionados.\n\nMax Verstappen, uno de los pilotos sancionados en la previa de la clasificación del GP de México. + Seguinos en El Gran Premio de México puede ser definitorio en la consagración de Andrea Kimi Antonelli como campeón de la Fórmula 1 . A horas de una nueva clasificación, los pilotos se preparan para competir e intentar retrasar el título del joven italiano. Entre la élite de veintidós, hay algunos que arrastran limitaciones en forma de sanciones. Conocé quiénes y cuáles son .\n\nLa segunda práctica libre en el Autódromo Hermanos Rodríguez regaló un momento tan tensionante como innecesario: sobre el toque entre los autos de Max Verstappen y Liam Lawson —uno tetracampeón del mundo, el otro más relegado; ambos, ex-compañeros en Red Bull—, tomó nota la FIA . Y ya decretó el castigo: una posición más atrás en la carrera y un punto menos en la Superlicencia .\n\nPor otro lado, el más afectado será Valtteri Bottas . El finlandés, que le cedió su auto al estadounidense Colton Herta durante la FP1, superó ampliamente el límite de cambios en cinco de los siete componentes de la unidad de potencia . Las 50 posiciones de penalización (10 por componente) suponen una sanción simbólica . La traducción es que, inevitablemente, saldrá desde el fondo de la parrilla el domingo.\n\nFernando Alonso no está teniendo una temporada fácil en Aston Martin, y su exceso de velocidad en los primeros libres se encuadra en esa lógica viciosa . El exceso del límite de velocidad de salida del pit-lane (80 km/h) por 0,2 km/h acarreó una multa económica de 100 euros que la escudería británica asumió sin inconve",
+          "language": "es",
+          "publishedAt": "2026-10-31T14:32:38.000Z",
+          "addedAt": "2026-10-31T16:01:48.513Z",
+          "category": "general",
+          "tag": "F1"
+        },
         {
           "id": "www-tycsports-com-automovilismo-que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id769464-html",
           "title": "Qué necesita Kimi Antonelli para ser campeón de la Fórmula 1 en México",
@@ -2413,51 +2488,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "www-tycsports-com-automovilismo-anotenelli-f1-mercedes-gran-premio-austin-estados-unidos-id768385-html",
-          "title": "La contradicción que preocupa al líder de la F1: mejoró el auto, pero le encontró un problema",
-          "summary": "El italiano mostró un salto de rendimiento en Austin y quedó a apenas 42 milésimas del mejor tiempo de las prácticas. La escudería alemana busca encontrar el equilibrio ideal de su monoplaza.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/anotenelli-f1-mercedes-gran-premio-austin-estados-unidos-id768385.html",
-          "image": "https://media.tycsports.com/files/2026/10/22/998513/andrea-kimi-antonelli-mercedes-_1440x810.webp",
-          "body": "El italiano mostró un salto de rendimiento en Austin y quedó a apenas 42 milésimas del mejor tiempo de las prácticas. La escudería alemana busca encontrar el equilibrio ideal de su monoplaza.\n\nAndrea Kimi Antonelli puede consagrarse campeón del Mundial de Pilotos 2026 de la Fórmula 1 en el Gran Premio de Estados Unidos. (Mark Sutton/Getty Images) + Seguinos en Mercedes encontró señales alentadoras en el Gran Premio de Estados Unidos de Fórmula 1. Kimi Antonelli terminó la segunda práctica libre a solo 0.042 segundos de Charles Leclerc , quien marcó el ritmo con Ferrari. El resultado alimentó las expectativas del equipo alemán, que todavía trabaja para aprovechar al máximo sus últimas actualizaciones.\n\nLa escudería incorporó un nuevo alerón delantero en Austin , como complemento del paquete aerodinámico estrenado dos carreras atrás, en Malasia. Aunque los cambios aumentaron el potencial del W17, también complicaron su puesta a punto . Con ambos pilotos utilizando la misma configuración, los ingenieros pudieron ampliar las pruebas y comparar datos.\n\n\"Me sentí mejor en el coche en comparación con la FP1\" , dijo Antonelli. además, agregó: \"Todavía hay mucho trabajo por hacer, pero fue un buen paso adelante y ahora intentaremos mejorar aún más. Tener ambos coches con el mismo paquete ayuda , porque podemos probar muchas cosas diferentes y podemos comprender mejor este paquete\".\n\nLa evolución entre las dos sesiones del viernes fue evidente, aunque no todos pudieron reflejarla en el cronómetro . George Russell terminó quinto, a siete décimas de la punta, después de perder su primera vuelta rápida por exceder los límites de pista y arruinar el siguiente intento con una fuerte sacudida en las Esses del Circuito de las Américas.",
-          "language": "es",
-          "publishedAt": "2026-10-24T15:23:46.000Z",
-          "addedAt": "2026-10-24T15:51:11.471Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-turismo-carretera-2000-vuelve-una-de-sus-principales-figuras-en-rafaela",
-          "title": "Turismo Carretera 2000: en Rafaela vuelve una de sus principales figuras | Campeones",
-          "summary": "Facundo Ardusso dirá presente en el Gran Premio Coronación que se desarrollará del 20 al 22 de noviembre.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/turismo-carretera-2000-vuelve-una-de-sus-principales-figuras-en-rafaela/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/ACTC-Facundo-Ardusso.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-28T15:32:01.000Z",
-          "addedAt": "2026-10-28T15:56:16.784Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-tc2000-horarios-para-una-nueva-fecha-en-general-roca",
-          "title": "TC2000: horarios para una nueva fecha en General Roca | Campeones",
-          "summary": "La categoría visita el autódromo rionegrino, junto al Top Race y la Fórmula Nacional, ingresando en la recta final del campeonato.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc2000-horarios-para-una-nueva-fecha-en-general-roca/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SNZ_0686.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-28T13:44:35.000Z",
-          "addedAt": "2026-10-28T15:56:18.553Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-en-vivo-como-ver-el-gp-de-estados-unidos-por-tv-y-online-id767515-html",
           "title": "F1, EN VIVO: cómo ver las prácticas libres del GP de Estados Unidos por TV y ONLINE",
           "summary": "Conocé las opciones para ver en vivo, por televisión y online el Gran Premio de Estados Unidos que se corre en el Circuito de las Américas y es el decimoctavo del 2026.",
@@ -2501,12 +2531,42 @@
           "addedAt": "2026-10-18T07:11:28.067Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-turismo-carretera-2000-vuelve-una-de-sus-principales-figuras-en-rafaela",
+          "title": "Turismo Carretera 2000: en Rafaela vuelve una de sus principales figuras | Campeones",
+          "summary": "Facundo Ardusso dirá presente en el Gran Premio Coronación que se desarrollará del 20 al 22 de noviembre.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/turismo-carretera-2000-vuelve-una-de-sus-principales-figuras-en-rafaela/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/ACTC-Facundo-Ardusso.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-28T15:32:01.000Z",
+          "addedAt": "2026-10-28T15:56:16.784Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-tc2000-horarios-para-una-nueva-fecha-en-general-roca",
+          "title": "TC2000: horarios para una nueva fecha en General Roca | Campeones",
+          "summary": "La categoría visita el autódromo rionegrino, junto al Top Race y la Fórmula Nacional, ingresando en la recta final del campeonato.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc2000-horarios-para-una-nueva-fecha-en-general-roca/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SNZ_0686.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-28T13:44:35.000Z",
+          "addedAt": "2026-10-28T15:56:18.553Z",
+          "category": "general",
+          "tag": "Carrera"
         }
       ]
     },
     {
       "page": 4,
-      "createdAt": "2026-10-31T11:03:57.514Z",
+      "createdAt": "2026-10-31T16:01:59.356Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-corrio-en-el-tc-fue-campeon-del-tc-pista-y-ahora-atiende-un-minimercado-en-san-juan-id76",
@@ -2522,6 +2582,21 @@
           "addedAt": "2026-10-18T07:11:28.079Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-anotenelli-f1-mercedes-gran-premio-austin-estados-unidos-id768385-html",
+          "title": "La contradicción que preocupa al líder de la F1: mejoró el auto, pero le encontró un problema",
+          "summary": "El italiano mostró un salto de rendimiento en Austin y quedó a apenas 42 milésimas del mejor tiempo de las prácticas. La escudería alemana busca encontrar el equilibrio ideal de su monoplaza.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/anotenelli-f1-mercedes-gran-premio-austin-estados-unidos-id768385.html",
+          "image": "https://media.tycsports.com/files/2026/10/22/998513/andrea-kimi-antonelli-mercedes-_1440x810.webp",
+          "body": "El italiano mostró un salto de rendimiento en Austin y quedó a apenas 42 milésimas del mejor tiempo de las prácticas. La escudería alemana busca encontrar el equilibrio ideal de su monoplaza.\n\nAndrea Kimi Antonelli puede consagrarse campeón del Mundial de Pilotos 2026 de la Fórmula 1 en el Gran Premio de Estados Unidos. (Mark Sutton/Getty Images) + Seguinos en Mercedes encontró señales alentadoras en el Gran Premio de Estados Unidos de Fórmula 1. Kimi Antonelli terminó la segunda práctica libre a solo 0.042 segundos de Charles Leclerc , quien marcó el ritmo con Ferrari. El resultado alimentó las expectativas del equipo alemán, que todavía trabaja para aprovechar al máximo sus últimas actualizaciones.\n\nLa escudería incorporó un nuevo alerón delantero en Austin , como complemento del paquete aerodinámico estrenado dos carreras atrás, en Malasia. Aunque los cambios aumentaron el potencial del W17, también complicaron su puesta a punto . Con ambos pilotos utilizando la misma configuración, los ingenieros pudieron ampliar las pruebas y comparar datos.\n\n\"Me sentí mejor en el coche en comparación con la FP1\" , dijo Antonelli. además, agregó: \"Todavía hay mucho trabajo por hacer, pero fue un buen paso adelante y ahora intentaremos mejorar aún más. Tener ambos coches con el mismo paquete ayuda , porque podemos probar muchas cosas diferentes y podemos comprender mejor este paquete\".\n\nLa evolución entre las dos sesiones del viernes fue evidente, aunque no todos pudieron reflejarla en el cronómetro . George Russell terminó quinto, a siete décimas de la punta, después de perder su primera vuelta rápida por exceder los límites de pista y arruinar el siguiente intento con una fuerte sacudida en las Esses del Circuito de las Américas.",
+          "language": "es",
+          "publishedAt": "2026-10-24T15:23:46.000Z",
+          "addedAt": "2026-10-24T15:51:11.471Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-el-curioso-analisis-de-antonelli-sobre-la-chance-de-ser-campeon-de-la-f1-en-el-gp-de-est",
@@ -2582,36 +2657,6 @@
           "addedAt": "2026-10-19T11:11:27.000Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-thiago-palotini-carrera-en-ascenso-viajes-a-europa-y-el-desembarco-en-la-formula-4-brasil",
-          "title": "Thiago Palotini: carrera en ascenso, competencias en Europa y la llegada a la Fórmula 4 Brasil | Campeones",
-          "summary": "Tiene 15 años, es oriundo en Necochea y viene de competir en la F4 España e Italia. En noviembre, compartirá pista con la F1 cuando desembarque en la especialidad brasilera de F4.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/thiago-palotini-carrera-en-ascenso-viajes-a-europa-y-el-desembarco-en-la-formula-4-brasil/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-12.07.47.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-21T18:45:58.000Z",
-          "addedAt": "2026-10-21T19:27:18.076Z",
-          "category": "general",
-          "tag": "Carrera"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
-          "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
-          "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-ranking-peor-f1-gp-singapur-id765831.html",
-          "image": "https://media.tycsports.com/files/2026/10/12/995348/franco_1440x810.webp?v=1",
-          "body": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.\n\nFranco Colapinto tuvo que abandonar en el GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto tuvo un fin de semana para el olvido en el Gran Premio de Singapur de Fórmula 1 . El piloto argentino sufrió dos abandonos, tanto en la Sprint como en la carrera principal, debido a problemas de fiabilidad en su Alpine y no pudo volver a sumar puntos. Ante este panorama, un medio inglés ubicó al #43 entre los peores de su ranking.\n\nSe trata de The Race , un medio especializado que confecciona un ranking luego de cada carrera en el que pondera la actuación de cada corredor. En Singapur, Colapinto ocupó el puesto 19, solo por delante de Alex Albon, Valtteri Bottas y Lance Stroll , quienes también sufrieron complicaciones con sus monoplazas.\n\n“El ritmo subyacente era mejor de lo que parecía, pero la clasificación no se optimizó al máximo” , fue el veredicto final del portal inglés respecto a la performance del #43.\n\n“En la clasificación al sprint, mantuvo un ritmo similar al de su compañero de equipo en Alpine, Gasly. Su eliminación en la segunda ronda de clasificación se debió exclusivamente al tiempo perdido por los frenos y a que los neumáticos no estaban a la temperatura adecuada para la primera curva. Llegó a ocupar brevemente el duodécimo puesto en la carrera al sprint antes de detenerse por un problema en la reserva de energía”, analizó The Race.",
-          "language": "es",
-          "publishedAt": "2026-10-12T21:27:52.000Z",
-          "addedAt": "2026-10-18T07:11:28.307Z",
-          "category": "argentino",
-          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-la-decision-de-alpine-que-afecta-a-colapinto-en-la-recta-final-de-la-f1-id768833-html",
@@ -2764,6 +2809,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-f1-colapinto-en-el-gp-de-estados-unidos-horarios-y-el-cronograma-completo-id765917-html",
+          "title": "F1 | Colapinto en el GP de Estados Unidos: cronograma completo y horarios",
+          "summary": "Este fin de semana, el argentino disputa la decimoctava fecha de la temporada 2026 de la Fórmula 1 en el Circuito de las Américas. Conocé todos los detalles.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-colapinto-en-el-gp-de-estados-unidos-horarios-y-el-cronograma-completo-id765917.html",
+          "image": "https://media.tycsports.com/files/2026/10/03/992524/colapinto_1440x810.webp?v=1",
+          "body": "Este fin de semana, el argentino disputa la decimoctava fecha de la temporada 2026 de la Fórmula 1 en el Circuito de las Américas. Conocé todos los detalles.\n\nFranco Colapinto. (@AlpineF1Team) + Seguinos en Franco Colapinto se prepara para disputar el Gran Premio de Estados Unidos de la Fórmula 1 . La 18° fecha de la temporada se correrá en el Circuito de las Américas y el argentino buscará reencontrarse con su mejor versión, luego del abandono en Singapur . Conocé el cronograma completo .\n\nFranco Colapinto finalizó 17º y 15° en las prácticas libres del Gran Premio de Estados Unidos de Fórmula 1, en una jornada que tuvo a Charles Leclerc como el más rápido al volante de su Ferrari.El argentino registró un tiempo de 1:38.121 en la primera sesión y de 1:37.201 en la segunda y fue penalizado por el cambio de una nueva unidad de control electrónico, superando el máximo permitido.\n\nEl Circuito Urbano de Marina Bay es uno de los trazados más exigentes de la Fórmula 1 . Su recorrido combina curvas cerradas, fuertes frenadas y sectores rápidos entre las calles de Singapur, con el agregado de un clima extremadamente húmedo. La carrera se disputa de noche y fue la primera competencia nocturna en la historia de la categoría . Desde 2023, el circuito tiene 19 curvas tras una modificación en su trazado.\n\nA su vez, de manera online se podrá seguir por Disney+, el servicio de streaming que ofrece ESPN o accediendo a Fox Sports a través de Telecentro Play, D Go y Flow.",
+          "language": "es",
+          "publishedAt": "2026-10-24T14:56:40.000Z",
+          "addedAt": "2026-10-22T16:03:11.160Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-cuanto-dinero-le-deja-a-alpine-cada-punto-de-franco-colapinto-en-la-formula-1-id767503-h",
           "title": "Cuánto dinero le deja a Alpine cada punto de Colapinto en la F1",
           "summary": "La F1 reparte su premio según el puesto final en el campeonato de constructores, y cada posición vale unos 9 millones de dólares. La escudería francesa está sexta, y los 27 puntos del argentino representan casi el 40% de lo que suma el equipo.",
@@ -2782,7 +2842,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-10-31T11:03:57.514Z",
+      "createdAt": "2026-10-31T16:01:59.356Z",
       "items": [
         {
           "id": "campeones-com-ar-la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina",
@@ -2841,21 +2901,6 @@
           "language": "es",
           "publishedAt": "2026-10-19T15:05:20.000Z",
           "addedAt": "2026-10-19T15:11:27.752Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-rally-argentino-planifica-su-calendario-2027",
-          "title": "Rally Argentino planifica su calendario 2027",
-          "summary": "Los promotores del campeonato delinean el certamen venidero, que tendrá su comienzo en los caminos cordobeses.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/rally-argentino-planifica-su-calendario-2027/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-RallyArg-Parque-Cerrado.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-28T12:53:28.000Z",
-          "addedAt": "2026-10-28T15:56:18.055Z",
           "category": "argentino",
           "tag": "Argentino"
         },
@@ -3040,17 +3085,32 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-se-rompe-la-dupla-campeona-constanzo-deja-de-ser-el-motorista-de-canapino",
-          "title": "Se rompe la dupla campeona: Costanzo deja de ser el motorista de Canapino | Campeones",
-          "summary": "Fue anunciado por el \"Titán\" y el Canning Motorpsort en las redes sociales tras la carrera en Rosario. Aún no fue confirmado el reemplazo en la preparación de los motores.",
+          "id": "campeones-com-ar-otro-cambio-de-motorista-en-el-turismo-carretera",
+          "title": "Otro cambio de motorista en el Turismo Carretera | Campeones",
+          "summary": "Nicolás Trosset deja los motores de Miguel Franco y contará con la atención de Daniel Berra en el impulsor del Ford Mustang.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/se-rompe-la-dupla-campeona-constanzo-deja-de-ser-el-motorista-de-canapino/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/12/Canapino-Campeon-01-copa-equipo.jpg",
+          "url": "https://campeones.com.ar/otro-cambio-de-motorista-en-el-turismo-carretera/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Trosset-TC-Rosario-ACTC.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-10-26T15:54:33.000Z",
-          "addedAt": "2026-10-26T19:54:17.690Z",
+          "publishedAt": "2026-10-30T16:02:35.000Z",
+          "addedAt": "2026-10-30T20:41:28.344Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-rally-argentino-planifica-su-calendario-2027",
+          "title": "Rally Argentino planifica su calendario 2027",
+          "summary": "Los promotores del campeonato delinean el certamen venidero, que tendrá su comienzo en los caminos cordobeses.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/rally-argentino-planifica-su-calendario-2027/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-RallyArg-Parque-Cerrado.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-28T12:53:28.000Z",
+          "addedAt": "2026-10-28T15:56:18.055Z",
           "category": "argentino",
           "tag": "Argentino"
         }
