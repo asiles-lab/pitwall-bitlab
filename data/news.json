@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T05:28:16.655Z",
-  "checkedAt": "2026-10-31T05:28:16.655Z",
+  "updatedAt": "2026-10-31T11:03:47.765Z",
+  "checkedAt": "2026-10-31T11:03:47.765Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,34 +40,19 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-f1-leclerc-domino-en-la-primera-practica-del-gp-de-mexico",
-      "title": "F1: Leclerc dominó en la primera práctica del GP de México",
-      "summary": "A bordo de la Ferrari el monegasco superó al Mercedes del italiano Antonelli y a su compañero Hamilton; el Alpine de Colapinto quedó 14.° con Minì.",
+      "id": "campeones-com-ar-otro-cambio-de-motorista-en-el-turismo-carretera",
+      "title": "Otro cambio de motorista en el Turismo Carretera | Campeones",
+      "summary": "Nicolás Trosset deja los motores de Miguel Franco y contará con la atención de Daniel Berra en el impulsor del Ford Mustang.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/f1-leclerc-domino-en-la-primera-practica-del-gp-de-mexico/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261030-F1-Leclerc-SF26.jpg",
+      "url": "https://campeones.com.ar/otro-cambio-de-motorista-en-el-turismo-carretera/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Trosset-TC-Rosario-ACTC.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-30T19:55:17.000Z",
-      "addedAt": "2026-10-30T20:41:28.352Z",
+      "publishedAt": "2026-10-30T16:02:35.000Z",
+      "addedAt": "2026-10-30T20:41:28.344Z",
       "category": "argentino",
       "tag": "Franco"
-    },
-    {
-      "id": "www-tycsports-com-automovilismo-que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id769464-html",
-      "title": "Qué necesita Kimi Antonelli para ser campeón de la Fórmula 1 en México",
-      "summary": "Tras su victoria en el Gran Premio de Estados Unidos, el italiano está a un paso de levantar su primer título en la Máxima este fin de semana en el Autódromo Hermanos Rodríguez.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id769464.html",
-      "image": "https://media.tycsports.com/files/2026/10/25/999624/kimi_1440x810.webp?v=1",
-      "body": "Tras su victoria en el Gran Premio de Estados Unidos, el italiano está a un paso de levantar su primer título en la Máxima este fin de semana en el Autódromo Hermanos Rodríguez.\n\nKimi Antonelli, a un paso de consagrarse campeón de la Máxima. (Getty Images) + Seguinos en Kimi Antonelli está a un paso de consagrarse campeón de la Fórmula 1. Tras su victoria en el Gran Premio de Estados Unidos , el italiano amplió aún más su ventaja sobre George Russell y todo parece indicar que levantará su primer título del mundo este fin de semana en México.\n\nEl piloto de Mercedes suma 365 puntos y aventaja por 123 a su compañero de equipo , quien ocupa el segundo lugar con 242. Con 125 unidades aún en juego, a falta de cinco carreras para que concluya el Campeonato, Antonelli tendrá la oportunidad de cerrar la pelea en esta fecha.\n\nPara levantar el título este domingo en México, al italiano le alcanzará con sumar apenas dos puntos, es decir, cruzar la meta en el noveno lugar o mejor , sin importar cómo terminen sus rivales. De esa manera, alcanzaría los 367 puntos y dejaría sin chances tanto a Russell como a Hamilton (241).\n\nEl único escenario en el que la definición se estiraría una jornada más sería que Antonellí finalice 10° y Russell se quede con el triunfo, o que el italiano sea 11° o peor y Hamilton gane la carrera. Vale la pena aclarar que, si ni Russell ni Hamilton logran cruzar la meta en el primer lugar, Kimi será campeón sin importar su posición final.",
-      "language": "es",
-      "publishedAt": "2026-10-30T18:31:55.000Z",
-      "addedAt": "2026-10-30T20:41:25.999Z",
-      "category": "general",
-      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-actividad-argentina-a-tres-frentes-en-italia",
@@ -83,21 +68,6 @@
       "addedAt": "2026-10-30T20:41:28.180Z",
       "category": "argentino",
       "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-otro-cambio-de-motorista-en-el-turismo-carretera",
-      "title": "Otro cambio de motorista en el Turismo Carretera | Campeones",
-      "summary": "Nicolás Trosset deja los motores de Miguel Franco y contará con la atención de Daniel Berra en el impulsor del Ford Mustang.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/otro-cambio-de-motorista-en-el-turismo-carretera/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Trosset-TC-Rosario-ACTC.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-30T16:02:35.000Z",
-      "addedAt": "2026-10-30T20:41:28.344Z",
-      "category": "argentino",
-      "tag": "Franco"
     },
     {
       "id": "campeones-com-ar-cuando-arrancara-la-temporada-2027-del-automovilismo-argentino",
@@ -130,17 +100,32 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-en-montmelo-tiago-pernia-quedo-13-en-la-clasificacion-de-tcr-europa",
-      "title": "En Montmeló, Tiago Pernía quedó 13.° en la clasificación de TCR Europa",
-      "summary": "Junto a él varios de los candidatos al título, incluido el líder Marco Butti, tuvieron una buena sesión y deberán remontar posiciones en la primera carrera que se disputa a la hora 12:15 de Argentina.",
+      "id": "campeones-com-ar-franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico",
+      "title": "Franco Colapinto y los problemas que puede traer la altitud en el GP de México",
+      "summary": "Un desafío para el manejo por la baja densidad del aire a 2.240 msnm con la potencia, la carga aerodinámica, la refrigeración del Fórmula 1.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/en-montmelo-tiago-pernia-quedo-13-en-la-clasificacion-de-tcr-europa/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-TCR-T-Pernia.jpg",
+      "url": "https://campeones.com.ar/franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Mexico-2026-Jueves.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-24T10:21:02.000Z",
-      "addedAt": "2026-10-31T05:28:21.105Z",
+      "publishedAt": "2026-10-29T20:26:37.000Z",
+      "addedAt": "2026-10-31T11:03:51.247Z",
+      "category": "argentino",
+      "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-cierre-con-sabor-a-poco-de-tiago-pernia-en-la-temporada-de-tcr-europeo",
+      "title": "Cierre con sabor a poco de Tiago Pernía en la temporada de TCR Europeo",
+      "summary": "El representante argentino no pudo completar la Carrera 2 por un toque con Adam Shepard cuando intentaba escalar posiciones con el Honda de Squadra Martino. Marco Butti se coronó campeón.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/cierre-con-sabor-a-poco-de-tiago-pernia-en-la-temporada-de-tcr-europeo/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-TCR-Pernia.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-25T09:44:06.000Z",
+      "addedAt": "2026-10-31T11:03:52.177Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -175,21 +160,6 @@
       "tag": "F1"
     },
     {
-      "id": "www-tycsports-com-automovilismo-nikola-tsolov-preocupante-momento-me-estoy-quedando-sin-sangre-no-siento-la-pierna-f1-ra",
-      "title": "Preocupante momento en la primera práctica libre del GP de México: \"Me estoy quedando sin sangre, no siento la pierna\"",
-      "summary": "Nikola Tsolov hizo su estreno en la Fórmula 1 a bordo del monoplaza de Racing Bulls y se vio obligado a frenar su sesión por un complejo inconveniente con el monoplaza.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/nikola-tsolov-preocupante-momento-me-estoy-quedando-sin-sangre-no-siento-la-pierna-f1-racing-bulls-id769509.html",
-      "image": "https://media.tycsports.com/files/2026/10/30/1001301/nikola-tsolov-racing-bulls-_1440x810.webp?v=1",
-      "body": "Nikola Tsolov hizo su estreno en la Fórmula 1 a bordo del monoplaza de Racing Bulls y se vio obligado a frenar su sesión por un complejo inconveniente con el monoplaza.\n\nNikola Tsolov tuvo su estreno en la Fórmula 1 al comandar el monoplaza de Racing Bulls durante la primera práctica libre del Gran Premio de México. (Rudy Carezzevoli/Getty Images) + Seguinos en La primera sesión de prácticas libres en el Gran Premio de México de la Fórmula 1 estuvo marcada por la presencia de 10 pilotos novatos , con la mira puesta en cumplir con la normativa que les exige que les den rodaje a los jóvenes de cada programa.\n\nLa sesión que finalmente lideró Charles Leclerc contó con un preocupante momento con una de las promesas como protagonista, al conocerse un intercambio de Nikola Tsolov con su equipo que encendió todas las alarmas en el Autódromos Hermanos Rodríguez.\n\nDurante una sesión de entrenamiento donde terminó a poco más de una décima del mejor tiempo de Arvid Lindblad (piloto titular de la escudería), el búlgaro de 19 años se comunicó con su ingeniero de pista para dar a conocer un duro inconveniente que despertó gran preocupación: \"Me estoy quedando sin sangre en mi pierna derecha. No puedo sentir mi pierna\" , soltó.\n\n\"Creo que el asiento está comprimiendo mi pierna y mi sangre se detuvo\" , agregó ante la consulta sobre si el problema inició porque los cinturones de seguridad se encontraba muy ajustado.",
-      "language": "es",
-      "publishedAt": "2026-10-30T21:38:34.000Z",
-      "addedAt": "2026-10-31T00:06:25.904Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-agustin-canapino-se-refirio-al-cambio-de-motorista",
       "title": "Agustín Canapino se refirió al cambio de motorista | Campeones",
       "summary": "En diálogo con la web oficial de la ACTC, el \"Titán\" se refirió a la incorporación de \"Pope\" Bonelli como preparador del impulsor del Chevrolet Camaro.",
@@ -203,6 +173,21 @@
       "addedAt": "2026-10-31T00:06:28.794Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-nikola-tsolov-preocupante-momento-me-estoy-quedando-sin-sangre-no-siento-la-pierna-f1-ra",
+      "title": "Preocupante momento en la primera práctica libre del GP de México: \"Me estoy quedando sin sangre, no siento la pierna\"",
+      "summary": "Nikola Tsolov hizo su estreno en la Fórmula 1 a bordo del monoplaza de Racing Bulls y se vio obligado a frenar su sesión por un complejo inconveniente con el monoplaza.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/nikola-tsolov-preocupante-momento-me-estoy-quedando-sin-sangre-no-siento-la-pierna-f1-racing-bulls-id769509.html",
+      "image": "https://media.tycsports.com/files/2026/10/30/1001301/nikola-tsolov-racing-bulls-_1440x810.webp?v=1",
+      "body": "Nikola Tsolov hizo su estreno en la Fórmula 1 a bordo del monoplaza de Racing Bulls y se vio obligado a frenar su sesión por un complejo inconveniente con el monoplaza.\n\nNikola Tsolov tuvo su estreno en la Fórmula 1 al comandar el monoplaza de Racing Bulls durante la primera práctica libre del Gran Premio de México. (Rudy Carezzevoli/Getty Images) + Seguinos en La primera sesión de prácticas libres en el Gran Premio de México de la Fórmula 1 estuvo marcada por la presencia de 10 pilotos novatos , con la mira puesta en cumplir con la normativa que les exige que les den rodaje a los jóvenes de cada programa.\n\nLa sesión que finalmente lideró Charles Leclerc contó con un preocupante momento con una de las promesas como protagonista, al conocerse un intercambio de Nikola Tsolov con su equipo que encendió todas las alarmas en el Autódromos Hermanos Rodríguez.\n\nDurante una sesión de entrenamiento donde terminó a poco más de una décima del mejor tiempo de Arvid Lindblad (piloto titular de la escudería), el búlgaro de 19 años se comunicó con su ingeniero de pista para dar a conocer un duro inconveniente que despertó gran preocupación: \"Me estoy quedando sin sangre en mi pierna derecha. No puedo sentir mi pierna\" , soltó.\n\n\"Creo que el asiento está comprimiendo mi pierna y mi sangre se detuvo\" , agregó ante la consulta sobre si el problema inició porque los cinturones de seguridad se encontraba muy ajustado.",
+      "language": "es",
+      "publishedAt": "2026-10-30T21:38:34.000Z",
+      "addedAt": "2026-10-31T00:06:25.904Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tc-canapino-y-el-canning-motorsport-apuestan-por-el-motor-preparado-por-bonelli",
@@ -265,21 +250,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-tc-nos-gustaria-hacer-dos-mercedes-benz",
-      "title": "TC: “Nos gustaría hacer dos Mercedes-Benz\" | Campeones",
-      "summary": "Andrés Jakos contó las variantes que maneja el equipo para el 2027, donde podría dejar el Toyota Camry.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-nos-gustaria-hacer-dos-mercedes-benz/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SnapInsta.to_733890382_18605484457043111_1899748737692443832_n.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-30T19:44:30.000Z",
-      "addedAt": "2026-10-30T20:41:28.716Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-tc2000-federico-iribarne-se-suma-a-lincoln-motorsport",
       "title": "TC2000: Federico Iribarne se suma a Lincoln Motorsport",
       "summary": "El piloto bonaerense de Lanús retornará este fin de semana a la categoría luego de ocho años y estará corriendo en General Roca con una Nissan Kicks.",
@@ -308,6 +278,21 @@
       "addedAt": "2026-10-25T18:56:46.951Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-en-montmelo-tiago-pernia-quedo-13-en-la-clasificacion-de-tcr-europa",
+      "title": "En Montmeló, Tiago Pernía quedó 13.° en la clasificación de TCR Europa",
+      "summary": "Junto a él varios de los candidatos al título, incluido el líder Marco Butti, tuvieron una buena sesión y deberán remontar posiciones en la primera carrera que se disputa a la hora 12:15 de Argentina.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/en-montmelo-tiago-pernia-quedo-13-en-la-clasificacion-de-tcr-europa/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-TCR-T-Pernia.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-24T10:21:02.000Z",
+      "addedAt": "2026-10-31T05:28:21.105Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-la-carrera-de-f1-que-no-se-ve-ia-y-datos-en-tiempo-real",
@@ -445,6 +430,21 @@
       "tag": "Franco"
     },
     {
+      "id": "campeones-com-ar-tc-nos-gustaria-hacer-dos-mercedes-benz",
+      "title": "TC: “Nos gustaría hacer dos Mercedes-Benz\" | Campeones",
+      "summary": "Andrés Jakos contó las variantes que maneja el equipo para el 2027, donde podría dejar el Toyota Camry.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-nos-gustaria-hacer-dos-mercedes-benz/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/SnapInsta.to_733890382_18605484457043111_1899748737692443832_n.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-30T19:44:30.000Z",
+      "addedAt": "2026-10-30T20:41:28.716Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-la-formula-1-esta-enferma-de-reglas",
       "title": "¿La Fórmula 1 está \"enferma de reglas\"?",
       "summary": "En diálogo con \"Fórmula 1\" (lunes a las 17 hs. con la conducción de \"Lonchi\" Legnani), Fernando Tornello analizó las diversas reglamentaciones que condicionan las carreras de la \"Máxima\".",
@@ -503,36 +503,6 @@
       "addedAt": "2026-10-25T12:02:46.491Z",
       "category": "general",
       "tag": "Carrera"
-    },
-    {
-      "id": "campeones-com-ar-perdio-el-campeonato-jorge-martin-no-correra-en-la-competencia-dominical-de-motogp",
-      "title": "¿Perdió el campeonato? Jorge Martín no correrá en la competencia dominical de MotoGP",
-      "summary": "El madrileño no fue autorizado por los médicos a competir en Phillip Island al constatarse una fractura en el antebrazo derecho producida por la caída en la carrera Sprint.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/perdio-el-campeonato-jorge-martin-no-correra-en-la-competencia-dominical-de-motogp/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-MotoGP-Jorge-Martin.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-24T09:41:17.000Z",
-      "addedAt": "2026-10-24T21:13:10.797Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
-    {
-      "id": "campeones-com-ar-tcr-world-tour-michelisz-domina-la-lluvia-en-la-clasificacion-en-zhejiang",
-      "title": "TCR World Tour: Michelisz domina la lluvia en la clasificación en Zhejiang",
-      "summary": "El húngaro se adjudicó la “pole” en el circuito chino, donde la categoría desarrolla este fin de semana la 7ª cita. Lo escoltaron Azcona y el uruguayo Urrutia. El ecuatoriano Morán fue 10°.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-world-tour-michelisz-domina-la-lluvia-en-la-clasificacion-en-zhejiang/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/michelisz-humana-zhejiang.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-24T05:41:23.000Z",
-      "addedAt": "2026-10-24T12:07:02.061Z",
-      "category": "general",
-      "tag": "Clima"
     },
     {
       "id": "campeones-com-ar-norris-expande-el-alcance-de-su-equipo-y-llega-a-la-formula-2",
@@ -1150,6 +1120,36 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-perdio-el-campeonato-jorge-martin-no-correra-en-la-competencia-dominical-de-motogp",
+      "title": "¿Perdió el campeonato? Jorge Martín no correrá en la competencia dominical de MotoGP",
+      "summary": "El madrileño no fue autorizado por los médicos a competir en Phillip Island al constatarse una fractura en el antebrazo derecho producida por la caída en la carrera Sprint.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/perdio-el-campeonato-jorge-martin-no-correra-en-la-competencia-dominical-de-motogp/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-MotoGP-Jorge-Martin.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-24T09:41:17.000Z",
+      "addedAt": "2026-10-24T21:13:10.797Z",
+      "category": "general",
+      "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-tcr-world-tour-michelisz-domina-la-lluvia-en-la-clasificacion-en-zhejiang",
+      "title": "TCR World Tour: Michelisz domina la lluvia en la clasificación en Zhejiang",
+      "summary": "El húngaro se adjudicó la “pole” en el circuito chino, donde la categoría desarrolla este fin de semana la 7ª cita. Lo escoltaron Azcona y el uruguayo Urrutia. El ecuatoriano Morán fue 10°.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-world-tour-michelisz-domina-la-lluvia-en-la-clasificacion-en-zhejiang/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/michelisz-humana-zhejiang.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-24T05:41:23.000Z",
+      "addedAt": "2026-10-24T12:07:02.061Z",
+      "category": "general",
+      "tag": "Clima"
+    },
+    {
       "id": "campeones-com-ar-motogp-marc-marquez-vencio-en-la-carrera-sprint-australiana-ante-la-caida-de-jorge-martin",
       "title": "MotoGP: Marc Márquez venció en la carrera Sprint australiana, ante la caída de Jorge Martín",
       "summary": "La competencia quedó definida en favor del piloto de Ducati luego de una emotiva disputa por la vanguardia con el madrileño quien, tras su incidente, fue asistido en el centro médico de Phillip Island.",
@@ -1678,7 +1678,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-31T05:28:25.810Z",
+      "createdAt": "2026-10-31T11:03:57.514Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159-h",
@@ -1692,21 +1692,6 @@
           "language": "es",
           "publishedAt": "2026-10-30T23:33:39.000Z",
           "addedAt": "2026-10-29T13:44:51.131Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-mexico-gp-f1-amigos-relacion-grilla-temporada-2026-checo-perez-hamilton-versta",
-          "title": "Colapinto reveló cuál es su único amigo en la Fórmula 1 y con quiénes tiene una relación más cercana",
-          "summary": "El argentino habló en la previa del Gran Premio de México y reveló que considera a Checo Pérez como el más cercano de toda la grilla.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-mexico-gp-f1-amigos-relacion-grilla-temporada-2026-checo-perez-hamilton-verstappen-id769449.html",
-          "image": "https://media.tycsports.com/files/2026/10/30/1001248/colapinto-bortoletto-y-checo-perez_862x485.webp?v=1",
-          "body": "El argentino habló en la previa del Gran Premio de México y reveló que considera a Checo Pérez como el más cercano de toda la grilla.\n\nColapinto, Bortoletto y Checo Pérez + Seguinos en Franco Colapinto habló en la previa del Gran Premio de México y dio algunos detalles respecto a cómo es su relación con los otros pilotos de la Fórmula 1 fuera de la pista, destacando su amistad con Sergio Checo Pérez.\n\nSi bien el argentino aseguró que se lleva bien “con la mayoría” de sus colegas, reconoció que el mexicano es el único al que considera un amigo. “Obviamente, después hablás, saludás, con respecto tenés una buena relación” , explicó.\n\n“Con Checo me llevó muy bien, lo considero el más cercano de toda la F1” , destacó Colapinto y mencionó con qué otros pilotos tiene una relación más próxima.\n\n“A Max (Verstappen) también lo veo… Con Fernando (Alonso) también hablo, con Lewis (Hamilton) y Kimi (Antonelli), que son todos pilotos muy cercanos con los rookies y cuando tenés alguna consulta, siempre te dan una mano y eso se aprecia”, destacó .",
-          "language": "es",
-          "publishedAt": "2026-10-30T18:15:24.000Z",
-          "addedAt": "2026-10-30T20:41:25.987Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1756,6 +1741,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-colapinto-mexico-gp-f1-amigos-relacion-grilla-temporada-2026-checo-perez-hamilton-versta",
+          "title": "Colapinto reveló cuál es su único amigo en la Fórmula 1 y con quiénes tiene una relación más cercana",
+          "summary": "El argentino habló en la previa del Gran Premio de México y reveló que considera a Checo Pérez como el más cercano de toda la grilla.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-mexico-gp-f1-amigos-relacion-grilla-temporada-2026-checo-perez-hamilton-verstappen-id769449.html",
+          "image": "https://media.tycsports.com/files/2026/10/30/1001248/colapinto-bortoletto-y-checo-perez_862x485.webp?v=1",
+          "body": "El argentino habló en la previa del Gran Premio de México y reveló que considera a Checo Pérez como el más cercano de toda la grilla.\n\nColapinto, Bortoletto y Checo Pérez + Seguinos en Franco Colapinto habló en la previa del Gran Premio de México y dio algunos detalles respecto a cómo es su relación con los otros pilotos de la Fórmula 1 fuera de la pista, destacando su amistad con Sergio Checo Pérez.\n\nSi bien el argentino aseguró que se lleva bien “con la mayoría” de sus colegas, reconoció que el mexicano es el único al que considera un amigo. “Obviamente, después hablás, saludás, con respecto tenés una buena relación” , explicó.\n\n“Con Checo me llevó muy bien, lo considero el más cercano de toda la F1” , destacó Colapinto y mencionó con qué otros pilotos tiene una relación más próxima.\n\n“A Max (Verstappen) también lo veo… Con Fernando (Alonso) también hablo, con Lewis (Hamilton) y Kimi (Antonelli), que son todos pilotos muy cercanos con los rookies y cuando tenés alguna consulta, siempre te dan una mano y eso se aprecia”, destacó .",
+          "language": "es",
+          "publishedAt": "2026-10-30T18:15:24.000Z",
+          "addedAt": "2026-10-30T20:41:25.987Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-optimista-tras-su-primera-sesion-de-practicas-en-mexico-hay-lugares-claro-para",
           "title": "Colapinto, optimista tras su primera sesión de prácticas en el GP de México: \"Hay lugares claro para mejorar\"",
           "summary": "Al finalizar en el decimosexto puesto en la segunda tanda de entrenamientos libres, el argentino observó el vaso medio lleno de cara a la sesión de clasificación en el Autódromo Hermanos Rodríguez.",
@@ -1767,36 +1767,6 @@
           "language": "es",
           "publishedAt": "2026-10-31T00:35:53.000Z",
           "addedAt": "2026-10-31T05:28:17.883Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-quien-es-gabriele-mini-el-reemplazo-de-colapinto-en-el-gp-de-mexico-que-se-subio-a-un-ka",
-          "title": "Quién es Gabriele Min&igrave;, el reemplazo de Colapinto en el GP de México que se subió a un karting de bebé",
-          "summary": "El piloto italiano de 21 años suplantó al argentino en las prácticas libres 1 de la Fórmula 1 en esta fecha. Conocé su historia.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/quien-es-gabriele-mini-el-reemplazo-de-colapinto-en-el-gp-de-mexico-que-se-subio-a-un-karting-de-bebe-id769197.html",
-          "image": "https://media.tycsports.com/files/2026/10/29/1000899/mini_416x234.webp?v=1",
-          "body": "El piloto italiano de 21 años suplantó al argentino en las prácticas libres 1 de la Fórmula 1 en esta fecha. Conocé su historia.\n\nGabriele Miní de niño festejando un título en karting cuando comenzaba en el automovilismo + Seguinos en Gabriele Minì vivió una experiencia que pocos pilotos consiguen alcanzar: subirse a un auto de Fórmula 1. El italiano, integrante del programa de jóvenes talentos de Alpine, tuvo su oportunidad en el Gran Premio de México como reemplazo de Franco Colapinto, tal como exige el reglamento de la Máxima , en una nueva etapa de su recorrido hacia la máxima categoría del automovilismo.\n\nSu historia con las pistas comenzó mucho antes de que pudiera imaginar semejante escenario. Nacido en Palermo y criado en Marineo, un pequeño pueblo del interior de Sicilia, recibió su primer karting como regalo de su padre, Fabrizio , cuando cumplió apenas un año. Sin embargo, al principio no mostraba demasiado interés por conducirlo.\n\nTodo cambió cuando tenía dos años y medio. Su papá, piloto y mecánico, adaptó los pedales para que pudiera alcanzarlos y lo acompañó en sus primeras vueltas en un estacionamiento . A los cuatro años, Minì ya participaba en competencias. La pasión por la velocidad también tenía antecedentes familiares: su abuelo había sido piloto de rally.\n\nEl camino, de todas maneras, estuvo lejos de ser sencillo. Desde Sicilia, competir a nivel nacional implicaba afrontar largos viajes y gastos elevados , mientras que los recursos económicos no siempre alcanzaban para disputar los torneos más importantes. Además de pasar tiempo en los circuitos, el joven piloto se formó en el taller familiar, donde trabajaba junto a su padre.",
-          "language": "es",
-          "publishedAt": "2026-10-30T21:26:39.000Z",
-          "addedAt": "2026-10-30T15:50:03.727Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-como-le-fue-a-mini-en-su-reemplazo-a-colapinto-en-mexico-formula-1-id769489-html",
-          "title": "Cómo le fue a Gabriele Min&igrave; en su reemplazo a Colapinto en el Gran Premio de México de Fórmula 1",
-          "summary": "El piloto italiano de 21 años completó 20 giros y su mejor registro fue de 1m19s210 en la primera práctica libre de este viernes en el Autódromo Hermano Rodríguez.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/como-le-fue-a-mini-en-su-reemplazo-a-colapinto-en-mexico-formula-1-id769489.html",
-          "image": "https://media.tycsports.com/files/2026/10/30/1001274/mini_1440x810.webp?v=1",
-          "body": "El piloto italiano de 21 años completó 20 giros y su mejor registro fue de 1m19s210 en la primera práctica libre de este viernes en el Autódromo Hermano Rodríguez.\n\nGabriele Minì terminó 14° en la FP1 del GP de México. (Getty Images) + Seguinos en Gabriele Minì finalizó 14° este viernes en la primera práctica libre del Gran Premio de México de Fórmula 1. El piloto italiano de 21 años reemplazó a Franco Colapinto en Alpine, tal como exige el reglamento de la Máxima.\n\nMinì salió rápidamente a pista y realizó un extenso stint con neumáticos duros. Luego, regresó a boxes, en donde se mantuvo durante varios minutos y volvió a girar sobre el final de la sesión con el compuesto blando.\n\nA excepción de una salida de pista que tuvo al internar doblar en la curva 1 durante su último giro , el campeón de la F4 italiana en 2020 no sufrió mayores contratiempos con su monoplaza y pudo girar con normalidad.\n\nEn total, completó 20 vueltas a bordo del A526. Su mejor registro fue de 1m19s946 y se ubicó 14°, a +1.818 del tiempo de Charles Leclerc, quien fue el más rápido de la práctica. Por su parte, Pierre Gasly terminó 6° y su vuelta rápida fue de 1m19s210.",
-          "language": "es",
-          "publishedAt": "2026-10-30T20:38:14.000Z",
-          "addedAt": "2026-10-30T20:41:25.956Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1842,6 +1812,36 @@
           "language": "es",
           "publishedAt": "2026-10-31T01:27:41.000Z",
           "addedAt": "2026-10-31T05:28:18.911Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-quien-es-gabriele-mini-el-reemplazo-de-colapinto-en-el-gp-de-mexico-que-se-subio-a-un-ka",
+          "title": "Quién es Gabriele Min&igrave;, el reemplazo de Colapinto en el GP de México que se subió a un karting de bebé",
+          "summary": "El piloto italiano de 21 años suplantó al argentino en las prácticas libres 1 de la Fórmula 1 en esta fecha. Conocé su historia.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/quien-es-gabriele-mini-el-reemplazo-de-colapinto-en-el-gp-de-mexico-que-se-subio-a-un-karting-de-bebe-id769197.html",
+          "image": "https://media.tycsports.com/files/2026/10/29/1000899/mini_416x234.webp?v=1",
+          "body": "El piloto italiano de 21 años suplantó al argentino en las prácticas libres 1 de la Fórmula 1 en esta fecha. Conocé su historia.\n\nGabriele Miní de niño festejando un título en karting cuando comenzaba en el automovilismo + Seguinos en Gabriele Minì vivió una experiencia que pocos pilotos consiguen alcanzar: subirse a un auto de Fórmula 1. El italiano, integrante del programa de jóvenes talentos de Alpine, tuvo su oportunidad en el Gran Premio de México como reemplazo de Franco Colapinto, tal como exige el reglamento de la Máxima , en una nueva etapa de su recorrido hacia la máxima categoría del automovilismo.\n\nSu historia con las pistas comenzó mucho antes de que pudiera imaginar semejante escenario. Nacido en Palermo y criado en Marineo, un pequeño pueblo del interior de Sicilia, recibió su primer karting como regalo de su padre, Fabrizio , cuando cumplió apenas un año. Sin embargo, al principio no mostraba demasiado interés por conducirlo.\n\nTodo cambió cuando tenía dos años y medio. Su papá, piloto y mecánico, adaptó los pedales para que pudiera alcanzarlos y lo acompañó en sus primeras vueltas en un estacionamiento . A los cuatro años, Minì ya participaba en competencias. La pasión por la velocidad también tenía antecedentes familiares: su abuelo había sido piloto de rally.\n\nEl camino, de todas maneras, estuvo lejos de ser sencillo. Desde Sicilia, competir a nivel nacional implicaba afrontar largos viajes y gastos elevados , mientras que los recursos económicos no siempre alcanzaban para disputar los torneos más importantes. Además de pasar tiempo en los circuitos, el joven piloto se formó en el taller familiar, donde trabajaba junto a su padre.",
+          "language": "es",
+          "publishedAt": "2026-10-30T21:26:39.000Z",
+          "addedAt": "2026-10-30T15:50:03.727Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-como-le-fue-a-mini-en-su-reemplazo-a-colapinto-en-mexico-formula-1-id769489-html",
+          "title": "Cómo le fue a Gabriele Min&igrave; en su reemplazo a Colapinto en el Gran Premio de México de Fórmula 1",
+          "summary": "El piloto italiano de 21 años completó 20 giros y su mejor registro fue de 1m19s210 en la primera práctica libre de este viernes en el Autódromo Hermano Rodríguez.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/como-le-fue-a-mini-en-su-reemplazo-a-colapinto-en-mexico-formula-1-id769489.html",
+          "image": "https://media.tycsports.com/files/2026/10/30/1001274/mini_1440x810.webp?v=1",
+          "body": "El piloto italiano de 21 años completó 20 giros y su mejor registro fue de 1m19s210 en la primera práctica libre de este viernes en el Autódromo Hermano Rodríguez.\n\nGabriele Minì terminó 14° en la FP1 del GP de México. (Getty Images) + Seguinos en Gabriele Minì finalizó 14° este viernes en la primera práctica libre del Gran Premio de México de Fórmula 1. El piloto italiano de 21 años reemplazó a Franco Colapinto en Alpine, tal como exige el reglamento de la Máxima.\n\nMinì salió rápidamente a pista y realizó un extenso stint con neumáticos duros. Luego, regresó a boxes, en donde se mantuvo durante varios minutos y volvió a girar sobre el final de la sesión con el compuesto blando.\n\nA excepción de una salida de pista que tuvo al internar doblar en la curva 1 durante su último giro , el campeón de la F4 italiana en 2020 no sufrió mayores contratiempos con su monoplaza y pudo girar con normalidad.\n\nEn total, completó 20 vueltas a bordo del A526. Su mejor registro fue de 1m19s946 y se ubicó 14°, a +1.818 del tiempo de Charles Leclerc, quien fue el más rápido de la práctica. Por su parte, Pierre Gasly terminó 6° y su vuelta rápida fue de 1m19s210.",
+          "language": "es",
+          "publishedAt": "2026-10-30T20:38:14.000Z",
+          "addedAt": "2026-10-30T20:41:25.956Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1954,7 +1954,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-31T05:28:25.810Z",
+      "createdAt": "2026-10-31T11:03:57.514Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-fue-elegido-entre-los-grandes-perdedores-del-gp-de-estados-unidos-por-l",
@@ -2013,21 +2013,6 @@
           "language": "es",
           "publishedAt": "2026-10-24T14:56:40.000Z",
           "addedAt": "2026-10-22T16:03:11.160Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-colapinto-se-sento-en-el-alpine-y-quedo-16-en-la-segunda-practica-mexicana",
-          "title": "Colapinto se sentó en el Alpine y quedó .° en la segunda práctica mexicana",
-          "summary": "El argentino tuvo su primer contacto del fin de semana con el A526, tras cederlo el ensayo inicial a Gabriele Minì.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-se-sento-en-el-alpine-y-quedo-16-en-la-segunda-practica-mexicana/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-Colapinto-Mexico.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-30T23:03:00.000Z",
-          "addedAt": "2026-10-31T00:06:27.429Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2103,6 +2088,21 @@
           "language": "es",
           "publishedAt": "2026-10-23T21:52:40.000Z",
           "addedAt": "2026-10-23T23:32:59.910Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-se-sento-en-el-alpine-y-quedo-16-en-la-segunda-practica-mexicana",
+          "title": "Colapinto se sentó en el Alpine y quedó .° en la segunda práctica mexicana",
+          "summary": "El argentino tuvo su primer contacto del fin de semana con el A526, tras cederlo el ensayo inicial a Gabriele Minì.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-se-sento-en-el-alpine-y-quedo-16-en-la-segunda-practica-mexicana/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-Colapinto-Mexico.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-30T23:03:00.000Z",
+          "addedAt": "2026-10-31T00:06:27.429Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2230,8 +2230,23 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-10-31T05:28:25.810Z",
+      "createdAt": "2026-10-31T11:03:57.514Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id769464-html",
+          "title": "Qué necesita Kimi Antonelli para ser campeón de la Fórmula 1 en México",
+          "summary": "Tras su victoria en el Gran Premio de Estados Unidos, el italiano está a un paso de levantar su primer título en la Máxima este fin de semana en el Autódromo Hermanos Rodríguez.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id769464.html",
+          "image": "https://media.tycsports.com/files/2026/10/25/999624/kimi_1440x810.webp?v=1",
+          "body": "Tras su victoria en el Gran Premio de Estados Unidos, el italiano está a un paso de levantar su primer título en la Máxima este fin de semana en el Autódromo Hermanos Rodríguez.\n\nKimi Antonelli, a un paso de consagrarse campeón de la Máxima. (Getty Images) + Seguinos en Kimi Antonelli está a un paso de consagrarse campeón de la Fórmula 1. Tras su victoria en el Gran Premio de Estados Unidos , el italiano amplió aún más su ventaja sobre George Russell y todo parece indicar que levantará su primer título del mundo este fin de semana en México.\n\nEl piloto de Mercedes suma 365 puntos y aventaja por 123 a su compañero de equipo , quien ocupa el segundo lugar con 242. Con 125 unidades aún en juego, a falta de cinco carreras para que concluya el Campeonato, Antonelli tendrá la oportunidad de cerrar la pelea en esta fecha.\n\nPara levantar el título este domingo en México, al italiano le alcanzará con sumar apenas dos puntos, es decir, cruzar la meta en el noveno lugar o mejor , sin importar cómo terminen sus rivales. De esa manera, alcanzaría los 367 puntos y dejaría sin chances tanto a Russell como a Hamilton (241).\n\nEl único escenario en el que la definición se estiraría una jornada más sería que Antonellí finalice 10° y Russell se quede con el triunfo, o que el italiano sea 11° o peor y Hamilton gane la carrera. Vale la pena aclarar que, si ni Russell ni Hamilton logran cruzar la meta en el primer lugar, Kimi será campeón sin importar su posición final.",
+          "language": "es",
+          "publishedAt": "2026-10-30T18:31:55.000Z",
+          "addedAt": "2026-10-30T20:41:25.999Z",
+          "category": "general",
+          "tag": "F1"
+        },
         {
           "id": "www-tycsports-com-automovilismo-antonelli-enciende-las-alarmas-en-mercedes-antes-del-gran-premio-de-mexico-id769332-html",
           "title": "Antonelli enciende las alarmas en Mercedes antes del Gran Premio de México",
@@ -2244,21 +2259,6 @@
           "language": "es",
           "publishedAt": "2026-10-29T22:33:00.000Z",
           "addedAt": "2026-10-29T23:26:50.398Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-guerra-interna-pilotos-de-f1-id769423-html",
-          "title": "Las explosivas declaraciones de Fernando Alonso que desataron la guerra entre los pilotos de la F1: “Hay un nivel muy bajo”",
-          "summary": "El español apuntó contra Alex Albon luego del incidente que protagonizaron en Austin y también contra un sector de la parrilla. Charles Leclerc, Pierre Gasly, Sergio Pérez, Carlos Sainz y Oliver Bearman salieron a cruzarlo.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/guerra-interna-pilotos-de-f1-id769423.html",
-          "image": "https://media.tycsports.com/files/2026/10/30/1001206/alomnso_1440x810.webp?v=1",
-          "body": "El español apuntó contra Alex Albon luego del incidente que protagonizaron en Austin y también contra un sector de la parrilla. Charles Leclerc, Pierre Gasly, Sergio Pérez, Carlos Sainz y Oliver Bearman salieron a cruzarlo.\n\nFernando Alonso apuntó contra Alex Albon por su incidente en Austin. (Getty Images) + Seguinos en En la previa del Gran Premio de México , estalló una guerra interna entre los pilotos de Fórmula 1. Fernando Alonso apuntó nuevamente contra Alex Albon , con quien protagonizó un incidente durante la última carrera en Austin, e insistió en su controversial postura acerca de que algunos de los corredores que integran la parrilla actual no tienen el talento necesario para estar en la categoría. Ante sus declaraciones, hubo varios pilotos que salieron en defensa del tailandés y discreparon con la opinión del español.\n\nEl origen de la polémica tuvo lugar en la primera vuelta de la última cita en el Circuito de las Américas, cuando Albon intentó superar a Alonso por el interior de la curva 11, pero se produjo un toque entre ambos que provocó daños en el Aston Martin del español, que terminó 16°.\n\n“Creo que la calidad de los pilotos en el último tercio de la parrilla es muy baja” , sentenció el bicampeón de la categoría luego de la carrera y agregó que “Albon se olvidó de que la curva 11 estaba ahí y tenía que doblar a la izquierda”.\n\nð¥ ð¥ ð¥ TOQUE ENTRE ALBON E ALONSO NA CURVA 1! Alexander Albon toca no carro de Fernando Alonso na primeira curva e danifica bastante a lateral do carro. https://t.co/ik379RV7dn",
-          "language": "es",
-          "publishedAt": "2026-10-30T20:28:19.000Z",
-          "addedAt": "2026-10-30T15:50:03.698Z",
           "category": "general",
           "tag": "F1"
         },
@@ -2383,6 +2383,21 @@
           "tag": "Carrera"
         },
         {
+          "id": "www-tycsports-com-automovilismo-guerra-interna-pilotos-de-f1-id769423-html",
+          "title": "Las explosivas declaraciones de Fernando Alonso que desataron la guerra entre los pilotos de la F1: “Hay un nivel muy bajo”",
+          "summary": "El español apuntó contra Alex Albon luego del incidente que protagonizaron en Austin y también contra un sector de la parrilla. Charles Leclerc, Pierre Gasly, Sergio Pérez, Carlos Sainz y Oliver Bearman salieron a cruzarlo.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/guerra-interna-pilotos-de-f1-id769423.html",
+          "image": "https://media.tycsports.com/files/2026/10/30/1001206/alomnso_1440x810.webp?v=1",
+          "body": "El español apuntó contra Alex Albon luego del incidente que protagonizaron en Austin y también contra un sector de la parrilla. Charles Leclerc, Pierre Gasly, Sergio Pérez, Carlos Sainz y Oliver Bearman salieron a cruzarlo.\n\nFernando Alonso apuntó contra Alex Albon por su incidente en Austin. (Getty Images) + Seguinos en En la previa del Gran Premio de México , estalló una guerra interna entre los pilotos de Fórmula 1. Fernando Alonso apuntó nuevamente contra Alex Albon , con quien protagonizó un incidente durante la última carrera en Austin, e insistió en su controversial postura acerca de que algunos de los corredores que integran la parrilla actual no tienen el talento necesario para estar en la categoría. Ante sus declaraciones, hubo varios pilotos que salieron en defensa del tailandés y discreparon con la opinión del español.\n\nEl origen de la polémica tuvo lugar en la primera vuelta de la última cita en el Circuito de las Américas, cuando Albon intentó superar a Alonso por el interior de la curva 11, pero se produjo un toque entre ambos que provocó daños en el Aston Martin del español, que terminó 16°.\n\n“Creo que la calidad de los pilotos en el último tercio de la parrilla es muy baja” , sentenció el bicampeón de la categoría luego de la carrera y agregó que “Albon se olvidó de que la curva 11 estaba ahí y tenía que doblar a la izquierda”.\n\nð¥ ð¥ ð¥ TOQUE ENTRE ALBON E ALONSO NA CURVA 1! Alexander Albon toca no carro de Fernando Alonso na primeira curva e danifica bastante a lateral do carro. https://t.co/ik379RV7dn",
+          "language": "es",
+          "publishedAt": "2026-10-30T20:28:19.000Z",
+          "addedAt": "2026-10-30T15:50:03.698Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
           "title": "La F1 confirmó la vuelta de los motores V8: qué dijo Ben Sulayem",
           "summary": "La categoría prepara un cambio importante en sus unidades de potencia, con autos más livianos y menores costos de desarrollo. La novedad se conoció durante la presentación de una futura carrera en África.",
@@ -2486,7 +2501,13 @@
           "addedAt": "2026-10-18T07:11:28.067Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-10-31T11:03:57.514Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-corrio-en-el-tc-fue-campeon-del-tc-pista-y-ahora-atiende-un-minimercado-en-san-juan-id76",
           "title": "Corrió en el TC, fue campeón del TC Pista y ahora atiende un minimercado en San Juan",
@@ -2501,13 +2522,7 @@
           "addedAt": "2026-10-18T07:11:28.079Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-10-31T05:28:25.810Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-el-curioso-analisis-de-antonelli-sobre-la-chance-de-ser-campeon-de-la-f1-en-el-gp-de-est",
           "title": "El curioso análisis de Antonelli sobre la chance de ser campeón de la F1 en el GP de Estados Unidos: \"Tiene que pasar algo catastrófico\"",
@@ -2582,21 +2597,6 @@
           "addedAt": "2026-10-21T19:27:18.076Z",
           "category": "general",
           "tag": "Carrera"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
-          "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
-          "summary": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-entradas-id763683.html",
-          "image": "https://media.tycsports.com/files/2025/01/20/804453/motogp-en-termas_1440x810.webp?v=2",
-          "body": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.\n\nEl Moto GP llegará a Buenos Aires en abril de 2027 + Seguinos en El MotoGP ya tiene los precios de las entradas para su regreso a la Ciudad de Buenos Aires. El Gran Premio se disputará del 9 al 11 de abril en el renovado circuito porteño, que volverá a recibir a la máxima categoría del motociclismo mundial.\n\nEl valor de los tickets parte desde $194.520 para una ubicación en la recta y llega hasta $5.349.300 para el acceso al Apex Club Elite, la alternativa de mayor costo. Entre ambos extremos, habrá distintas opciones de localidades y experiencias para los espectadores.\n\nLa venta se realizará a través del sitio oficial de tickets de MotoGP. Además, entre el 1 y el 7 de octubre habrá una preventa exclusiva para clientes de Banco Ciudad, con la posibilidad de abonar en hasta seis cuotas sin interés.",
-          "language": "es",
-          "publishedAt": "2026-09-30T22:03:28.000Z",
-          "addedAt": "2026-10-18T07:11:28.259Z",
-          "category": "general",
-          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
@@ -2704,6 +2704,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-f1-leclerc-domino-en-la-primera-practica-del-gp-de-mexico",
+          "title": "F1: Leclerc dominó en la primera práctica del GP de México",
+          "summary": "A bordo de la Ferrari el monegasco superó al Mercedes del italiano Antonelli y a su compañero Hamilton; el Alpine de Colapinto quedó 14.° con Minì.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/f1-leclerc-domino-en-la-primera-practica-del-gp-de-mexico/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261030-F1-Leclerc-SF26.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-30T19:55:17.000Z",
+          "addedAt": "2026-10-30T20:41:28.352Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-ser-efectivo-y-competitivo-en-el-gp-de-mexico-de-f1-son-los-objetivos-de-colapinto",
           "title": "Ser efectivo y competitivo en el GP de México de F1, son los objetivos de Colapinto",
           "summary": "Enfocado en el próximo fin de semana, el piloto argentino espera revertir los malos resultados con el Alpine A526.",
@@ -2762,7 +2777,13 @@
           "addedAt": "2026-10-23T17:19:41.481Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-31T11:03:57.514Z",
+      "items": [
         {
           "id": "campeones-com-ar-la-desafortunada-y-repudiada-expresion-de-un-invitado-de-alpine-sobre-colapinto-y-argentina",
           "title": "La desafortunada -y repudiada- expresión de un invitado de Alpine sobre Colapinto y Argentina",
@@ -2777,13 +2798,7 @@
           "addedAt": "2026-10-25T16:02:51.741Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-31T05:28:25.810Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-franco-colapinto-tras-clasificar-en-austin-el-auto-mejoro-un-poco-pero-no-tanto",
           "title": "Franco Colapinto tras clasificar en Austin: «El auto mejoró un poco, pero no tanto»",
@@ -3038,21 +3053,6 @@
           "addedAt": "2026-10-26T19:54:17.690Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
-        {
-          "id": "carburando-com-ar-blog-colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
-          "title": "Colapinto no es el único: dos pilotos más suman sanciones en la parrilla de Austin",
-          "summary": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico…",
-          "source": "Carburando",
-          "sourceLabel": "Carburando",
-          "url": "https://carburando.com.ar/blog/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
-          "image": "https://carburando.com.ar/covers/22/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-27815.webp",
-          "body": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico y deportivo que explica estas decisiones.\n\nLa parrilla del Gran Premio de Estados Unidos en el Circuito de las Américas se definirá este fin de semana con más modificaciones de lo habitual. Franco Colapinto no será el único que partirá más atrás de lo que su clasificación indique: dos pilotos adicionales acumulan sanciones que alterarán el orden de largada en Austin.\n\nEn el reglamento deportivo de la FIA, las penalizaciones por cambios de componentes de la unidad de potencia son las más habituales. Cuando un equipo excede el número permitido de motores, turbinas, MGU-K o baterías por temporada, el piloto debe retroceder posiciones en la grilla. Este mecanismo busca equilibrar el desarrollo y el costo de las plantas impulsoras.\n\nColapinto ya había recibido una sanción previa por la sustitución de varios elementos del power unit en las últimas carreras. Ahora se suman a esa lista otros dos corredores que, por motivos técnicos similares o por infracciones durante los entrenamientos, perderán lugares. El detalle exacto de cada penalidad se confirma habitualmente tras la clasificación del sábado, pero los equipos ya anticipan los movimientos.\n\nDesde el punto de vista técnico, el reglamento 2026 de la Fórmula 1 mantiene la filosofía de limitar el número de unidades de potencia por temporada, aunque con ajustes en la potencia y el componente eléctrico. Esto obliga a los fabricantes a ser más precisos en la gestión de fiabilidad, porque cada cambio extra se paga caro en la parrilla.",
-          "language": "es",
-          "publishedAt": "2026-10-23T21:50:17.000Z",
-          "addedAt": "2026-10-23T23:33:00.137Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     }
