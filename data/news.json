@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T00:06:24.944Z",
-  "checkedAt": "2026-10-31T00:06:24.944Z",
+  "updatedAt": "2026-10-31T05:28:16.655Z",
+  "checkedAt": "2026-10-31T05:28:16.655Z",
   "pageSize": 18,
   "sources": [
     {
@@ -70,21 +70,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-otro-cambio-de-motorista-en-el-turismo-carretera",
-      "title": "Otro cambio de motorista en el Turismo Carretera | Campeones",
-      "summary": "Nicolás Trosset deja los motores de Miguel Franco y contará con la atención de Daniel Berra en el impulsor del Ford Mustang.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/otro-cambio-de-motorista-en-el-turismo-carretera/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Trosset-TC-Rosario-ACTC.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-30T16:02:35.000Z",
-      "addedAt": "2026-10-30T20:41:28.344Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
-    {
       "id": "campeones-com-ar-actividad-argentina-a-tres-frentes-en-italia",
       "title": "Actividad argentina a tres frentes en Italia | Campeones",
       "summary": "Joaquín Pagola y Joaquín Rubino están presentes en la Fórmula 4 Italiana, Lautaro de la Iglesia en el GT Italiano y Julián Martínez en la Porsche Cup Italia.",
@@ -100,6 +85,21 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-otro-cambio-de-motorista-en-el-turismo-carretera",
+      "title": "Otro cambio de motorista en el Turismo Carretera | Campeones",
+      "summary": "Nicolás Trosset deja los motores de Miguel Franco y contará con la atención de Daniel Berra en el impulsor del Ford Mustang.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/otro-cambio-de-motorista-en-el-turismo-carretera/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Trosset-TC-Rosario-ACTC.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-30T16:02:35.000Z",
+      "addedAt": "2026-10-30T20:41:28.344Z",
+      "category": "argentino",
+      "tag": "Franco"
+    },
+    {
       "id": "campeones-com-ar-cuando-arrancara-la-temporada-2027-del-automovilismo-argentino",
       "title": "¿Cuándo arrancará la temporada 2027 del automovilismo argentino?",
       "summary": "En el programa \"Turismo Pista\" que se emite cada jueves a la hora 14:30, Ezequiel Bosio admitió que, por el momento, el calendario no abrirá el 31 de enero.",
@@ -113,6 +113,51 @@
       "addedAt": "2026-10-30T20:41:28.887Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-ducati-abre-su-primer-espacio-integrado-en-un-concesionario-audi-en-argentina",
+      "title": "Ducati abre su primer espacio integrado en un concesionario Audi en Argentina | Campeones",
+      "summary": "Con esta apertura, Ducati da un paso concreto en el desarrollo de su red en Argentina, con Bahía Blanca como uno de sus puntos de crecimiento en el interior del país.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/ducati-abre-su-primer-espacio-integrado-en-un-concesionario-audi-en-argentina/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/ducati-bahia-5.jpeg",
+      "body": "Con esta apertura, Ducati da un paso concreto en el desarrollo de su red en Argentina, con Bahía Blanca como uno de sus puntos de crecimiento en el interior del país.",
+      "language": "es",
+      "publishedAt": "2026-10-30T11:35:03.000Z",
+      "addedAt": "2026-10-30T20:41:30.517Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-en-montmelo-tiago-pernia-quedo-13-en-la-clasificacion-de-tcr-europa",
+      "title": "En Montmeló, Tiago Pernía quedó 13.° en la clasificación de TCR Europa",
+      "summary": "Junto a él varios de los candidatos al título, incluido el líder Marco Butti, tuvieron una buena sesión y deberán remontar posiciones en la primera carrera que se disputa a la hora 12:15 de Argentina.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/en-montmelo-tiago-pernia-quedo-13-en-la-clasificacion-de-tcr-europa/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261024-TCR-T-Pernia.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-24T10:21:02.000Z",
+      "addedAt": "2026-10-31T05:28:21.105Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-como-entrenan-los-pilotos-de-la-f1-para-poder-competir-id768998-html",
+      "title": "Cómo entrenan los pilotos de la F1 para poder competir",
+      "summary": "Manejar un Fórmula 1 exige mucho más que subirse al auto y acelerar. Los pilotos soportan hasta 6 G, más de 50 grados en el habitáculo y carreras de casi dos horas: así se preparan en lo físico y en lo mental.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/como-entrenan-los-pilotos-de-la-f1-para-poder-competir-id768998.html",
+      "image": "https://media.tycsports.com/files/2026/10/28/1000491/como-entrenan-los-pilotos-de-la-f1-para-poder-competir_862x485.webp?v=1",
+      "body": "Manejar un Fórmula 1 exige mucho más que subirse al auto y acelerar. Los pilotos soportan hasta 6 G, más de 50 grados en el habitáculo y carreras de casi dos horas: así se preparan en lo físico y en lo mental.\n\nCómo entrenan los pilotos de la F1 para poder competir + Seguinos en Una de las ideas más equivocadas sobre la Fórmula 1 es que manejar en un circuito es solo cuestión de subirse al auto y acelerar. En una curva rápida, el cuerpo de un piloto soporta entre 4 y 5 G de manera sostenida, con picos cercanos a 6 G en las frenadas más fuertes. Por eso los pilotos entrenan como atletas de elite, con foco en el cuello, el cardio, el tronco y la cabeza . “Las fuerzas que experimentamos están un poco subestimadas”, explicó el estadounidense Logan Sargeant, ex piloto de Williams. “Podés sentir cómo tu cuerpo se aprieta contra el costado de la butaca, y la fuerza que recorre tu cuello es simplemente extraña”.\n\nPara pelear arriba en la F1 no alcanza con tener un buen auto: el piloto tiene que sacarle el máximo rendimiento, y eso exige una preparación física de elite. Según la Fórmula 1, l a temperatura dentro del habitáculo puede superar los 50 grados, la frecuencia cardíaca se mantiene por encima de las 170 pulsaciones por minuto durante buena parte de la carrera y, en Grandes Premios como el de Singapur, los pilotos pueden perder hasta cuatro kilos de líquido , como contaron Lewis Hamilton y George Russell. Hacen falta piernas, tronco y, sobre todo, cuello. “Convertirse en deportista profesional supone un gran sacrificio, sobre todo para un piloto de F1 que viaja mucho. No se trata solo de entrenar en el gimnasio o cuidar la alimentación” , explicó Ben Jacobs, el preparador físico que acompañó a Sargeant en su primer año en la categoría.\n\nHay una diferencia clave entre esta",
+      "language": "es",
+      "publishedAt": "2026-10-29T14:24:05.000Z",
+      "addedAt": "2026-10-29T19:15:02.909Z",
+      "category": "general",
+      "tag": "Carrera"
     },
     {
       "id": "www-tycsports-com-automovilismo-tension-en-el-gp-de-mexico-un-piloto-empujo-a-un-fanatico-que-le-pidio-una-foto-id769527",
@@ -143,51 +188,6 @@
       "addedAt": "2026-10-31T00:06:25.904Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-ducati-abre-su-primer-espacio-integrado-en-un-concesionario-audi-en-argentina",
-      "title": "Ducati abre su primer espacio integrado en un concesionario Audi en Argentina | Campeones",
-      "summary": "Con esta apertura, Ducati da un paso concreto en el desarrollo de su red en Argentina, con Bahía Blanca como uno de sus puntos de crecimiento en el interior del país.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/ducati-abre-su-primer-espacio-integrado-en-un-concesionario-audi-en-argentina/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/ducati-bahia-5.jpeg",
-      "body": "Con esta apertura, Ducati da un paso concreto en el desarrollo de su red en Argentina, con Bahía Blanca como uno de sus puntos de crecimiento en el interior del país.",
-      "language": "es",
-      "publishedAt": "2026-10-30T11:35:03.000Z",
-      "addedAt": "2026-10-30T20:41:30.517Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "www-tycsports-com-automovilismo-como-entrenan-los-pilotos-de-la-f1-para-poder-competir-id768998-html",
-      "title": "Cómo entrenan los pilotos de la F1 para poder competir",
-      "summary": "Manejar un Fórmula 1 exige mucho más que subirse al auto y acelerar. Los pilotos soportan hasta 6 G, más de 50 grados en el habitáculo y carreras de casi dos horas: así se preparan en lo físico y en lo mental.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/como-entrenan-los-pilotos-de-la-f1-para-poder-competir-id768998.html",
-      "image": "https://media.tycsports.com/files/2026/10/28/1000491/como-entrenan-los-pilotos-de-la-f1-para-poder-competir_862x485.webp?v=1",
-      "body": "Manejar un Fórmula 1 exige mucho más que subirse al auto y acelerar. Los pilotos soportan hasta 6 G, más de 50 grados en el habitáculo y carreras de casi dos horas: así se preparan en lo físico y en lo mental.\n\nCómo entrenan los pilotos de la F1 para poder competir + Seguinos en Una de las ideas más equivocadas sobre la Fórmula 1 es que manejar en un circuito es solo cuestión de subirse al auto y acelerar. En una curva rápida, el cuerpo de un piloto soporta entre 4 y 5 G de manera sostenida, con picos cercanos a 6 G en las frenadas más fuertes. Por eso los pilotos entrenan como atletas de elite, con foco en el cuello, el cardio, el tronco y la cabeza . “Las fuerzas que experimentamos están un poco subestimadas”, explicó el estadounidense Logan Sargeant, ex piloto de Williams. “Podés sentir cómo tu cuerpo se aprieta contra el costado de la butaca, y la fuerza que recorre tu cuello es simplemente extraña”.\n\nPara pelear arriba en la F1 no alcanza con tener un buen auto: el piloto tiene que sacarle el máximo rendimiento, y eso exige una preparación física de elite. Según la Fórmula 1, l a temperatura dentro del habitáculo puede superar los 50 grados, la frecuencia cardíaca se mantiene por encima de las 170 pulsaciones por minuto durante buena parte de la carrera y, en Grandes Premios como el de Singapur, los pilotos pueden perder hasta cuatro kilos de líquido , como contaron Lewis Hamilton y George Russell. Hacen falta piernas, tronco y, sobre todo, cuello. “Convertirse en deportista profesional supone un gran sacrificio, sobre todo para un piloto de F1 que viaja mucho. No se trata solo de entrenar en el gimnasio o cuidar la alimentación” , explicó Ben Jacobs, el preparador físico que acompañó a Sargeant en su primer año en la categoría.\n\nHay una diferencia clave entre esta",
-      "language": "es",
-      "publishedAt": "2026-10-29T14:24:05.000Z",
-      "addedAt": "2026-10-29T19:15:02.909Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
-    {
-      "id": "campeones-com-ar-canapino-con-nuevo-equipo-en-tc-pick-up",
-      "title": "Canapino con nuevo equipo en TC Pick Up",
-      "summary": "El arrecifeño fue contactado por Christian Pereyra y Oscar Pettinari para integrar en 2027 el flamante equipo PyP Sport que tendrá su base en Pergamino.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/canapino-con-nuevo-equipo-en-tc-pick-up/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261030-TCPickUp-Canapino.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-30T14:45:43.000Z",
-      "addedAt": "2026-10-30T15:50:05.213Z",
-      "category": "argentino",
-      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-agustin-canapino-se-refirio-al-cambio-de-motorista",
@@ -235,6 +235,21 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-canapino-con-nuevo-equipo-en-tc-pick-up",
+      "title": "Canapino con nuevo equipo en TC Pick Up",
+      "summary": "El arrecifeño fue contactado por Christian Pereyra y Oscar Pettinari para integrar en 2027 el flamante equipo PyP Sport que tendrá su base en Pergamino.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/canapino-con-nuevo-equipo-en-tc-pick-up/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261030-TCPickUp-Canapino.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-30T14:45:43.000Z",
+      "addedAt": "2026-10-30T15:50:05.213Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "www-tycsports-com-automovilismo-comenzo-el-asfaltado-para-recibir-a-la-f1-en-el-autodromo-oscar-y-juan-galvez-id769224-h",
       "title": "Comenzó el asfaltado para recibir a la F1 en el Autódromo Oscar y Juan Gálvez",
       "summary": "La obra que pondrá al circuito porteño entre los más nuevos de Sudamérica ya apunta al regreso del MotoGP, después de 28 años.",
@@ -246,21 +261,6 @@
       "language": "es",
       "publishedAt": "2026-10-29T15:29:43.000Z",
       "addedAt": "2026-10-29T19:15:02.591Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "www-tycsports-com-automovilismo-lando-norris-f1-baches-dolores-circuitos-pastillas-id768330-html",
-      "title": "El piloto de F1 que reveló qué pastillas toma por los dolores que le provocan los baches de los circuitos",
-      "summary": "El británico expuso las consecuencias físicas que provocan las irregularidades del asfalto y respaldó las críticas de Max Verstappen al trazado de Austin.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/lando-norris-f1-baches-dolores-circuitos-pastillas-id768330.html",
-      "image": "https://media.tycsports.com/files/2026/10/23/998969/lando-norris_1440x810.webp",
-      "body": "El británico expuso las consecuencias físicas que provocan las irregularidades del asfalto y respaldó las críticas de Max Verstappen al trazado de Austin.\n\nLando Norris reveló que toma pastillas por los dolores que le provocan los baches de los circuitos de la F1 (Kym Illman/Getty Images) + Seguinos en Las exigencias físicas de la Fórmula 1 van mucho más allá de las fuerzas que soportan los pilotos en cada curva. Lando Norris confesó que necesita tomar medicamentos para evitar dolores de cabeza debido a los fuertes golpes que recibe por los baches de algunos circuitos, una situación que volvió a generar polémica en Austin.\n\nEl británico respaldó las críticas de Max Verstappen sobre el estado del Circuito de las Américas. El neerlandés había cuestionado las condiciones del trazado y bromeó: \"Necesitaría pedir una columna nueva después del fin de semana, o volverse como Robocop\" .\n\nEl corredor de McLaren sorprendió al revelar cómo se prepara para soportar las vibraciones dentro del monoplaza. “Hay muchos lugares en los que necesito tomar pastillas para el dolor de cabeza antes de salir. Simplemente porque hay tantos baches y te golpeas la cabeza bastante fuerte contra los reposacabezas y demás por culpa de los baches, así que desde luego no es algo agradable\", explicó.\n\nAdemás, el piloto reconoció que los reclamos tienen poco efecto : \"Pero no hay mucho que podamos hacer. Quiero decir, nos quejamos de ello, así que desde luego se ha planteado muchas, muchas veces, pero solo podemos quejarnos hasta cierto punto de las cosas, y él tiene razón. Sin duda tiene razón.”",
-      "language": "es",
-      "publishedAt": "2026-10-24T01:03:19.000Z",
-      "addedAt": "2026-10-24T02:00:16.028Z",
       "category": "general",
       "tag": "F1"
     },
@@ -535,21 +535,6 @@
       "tag": "Clima"
     },
     {
-      "id": "campeones-com-ar-motogp-marc-marquez-vencio-en-la-carrera-sprint-australiana-ante-la-caida-de-jorge-martin",
-      "title": "MotoGP: Marc Márquez venció en la carrera Sprint australiana, ante la caída de Jorge Martín",
-      "summary": "La competencia quedó definida en favor del piloto de Ducati luego de una emotiva disputa por la vanguardia con el madrileño quien, tras su incidente, fue asistido en el centro médico de Phillip Island.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/motogp-marc-marquez-vencio-en-la-carrera-sprint-australiana-ante-la-caida-de-jorge-martin/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261023-MotoGP-Marc-Marquez-sprint.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-24T04:37:15.000Z",
-      "addedAt": "2026-10-24T07:12:19.670Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
-    {
       "id": "campeones-com-ar-norris-expande-el-alcance-de-su-equipo-y-llega-a-la-formula-2",
       "title": "Norris expande el alcance de su equipo y llega a la Fórmula 2",
       "summary": "El LN4 Fusion, que ya tenía su participación confirmada en cuatro divisiones de monoplazas incluyendo la FIA Fórmula 3, fue aprobada para ingresar al certamen de F2 en 2027.",
@@ -696,6 +681,21 @@
       "language": "es",
       "publishedAt": "2026-10-28T14:40:32.000Z",
       "addedAt": "2026-10-28T15:56:17.599Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-lando-norris-f1-baches-dolores-circuitos-pastillas-id768330-html",
+      "title": "El piloto de F1 que reveló qué pastillas toma por los dolores que le provocan los baches de los circuitos",
+      "summary": "El británico expuso las consecuencias físicas que provocan las irregularidades del asfalto y respaldó las críticas de Max Verstappen al trazado de Austin.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/lando-norris-f1-baches-dolores-circuitos-pastillas-id768330.html",
+      "image": "https://media.tycsports.com/files/2026/10/23/998969/lando-norris_1440x810.webp",
+      "body": "El británico expuso las consecuencias físicas que provocan las irregularidades del asfalto y respaldó las críticas de Max Verstappen al trazado de Austin.\n\nLando Norris reveló que toma pastillas por los dolores que le provocan los baches de los circuitos de la F1 (Kym Illman/Getty Images) + Seguinos en Las exigencias físicas de la Fórmula 1 van mucho más allá de las fuerzas que soportan los pilotos en cada curva. Lando Norris confesó que necesita tomar medicamentos para evitar dolores de cabeza debido a los fuertes golpes que recibe por los baches de algunos circuitos, una situación que volvió a generar polémica en Austin.\n\nEl británico respaldó las críticas de Max Verstappen sobre el estado del Circuito de las Américas. El neerlandés había cuestionado las condiciones del trazado y bromeó: \"Necesitaría pedir una columna nueva después del fin de semana, o volverse como Robocop\" .\n\nEl corredor de McLaren sorprendió al revelar cómo se prepara para soportar las vibraciones dentro del monoplaza. “Hay muchos lugares en los que necesito tomar pastillas para el dolor de cabeza antes de salir. Simplemente porque hay tantos baches y te golpeas la cabeza bastante fuerte contra los reposacabezas y demás por culpa de los baches, así que desde luego no es algo agradable\", explicó.\n\nAdemás, el piloto reconoció que los reclamos tienen poco efecto : \"Pero no hay mucho que podamos hacer. Quiero decir, nos quejamos de ello, así que desde luego se ha planteado muchas, muchas veces, pero solo podemos quejarnos hasta cierto punto de las cosas, y él tiene razón. Sin duda tiene razón.”",
+      "language": "es",
+      "publishedAt": "2026-10-24T01:03:19.000Z",
+      "addedAt": "2026-10-24T02:00:16.028Z",
       "category": "general",
       "tag": "F1"
     },
@@ -925,21 +925,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-tras-caerse-marc-marquez-logro-en-australia-su-epica-78-a-pole-de-motogp",
-      "title": "Tras caerse, Marc Márquez logró en Australia su épica 78.ª \"pole\" de MotoGP",
-      "summary": "Una vez más el piloto de Cervera consiguió una extraordinaria vuelta ante una condición difícil de pista húmeda en Phillip Island, y con una holgada ventaja a su hermano Álex.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tras-caerse-marc-marquez-logro-en-australia-su-epica-78-a-pole-de-motogp/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261023-MotoGP-Marc-Marquez.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-24T01:06:53.000Z",
-      "addedAt": "2026-10-24T07:12:19.983Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-escalada-de-panetta-y-cierre-prometedor-del-viernes-en-viterbo",
       "title": "Escalada de Panetta y cierre prometedor del viernes en Viterbo",
       "summary": "El equipo trabajó en la corrección de los inconvenientes con el impulsor, lo que le permitió al de Campana meterse entre los cinco mejores del quinto y último Heat.",
@@ -1165,6 +1150,21 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-motogp-marc-marquez-vencio-en-la-carrera-sprint-australiana-ante-la-caida-de-jorge-martin",
+      "title": "MotoGP: Marc Márquez venció en la carrera Sprint australiana, ante la caída de Jorge Martín",
+      "summary": "La competencia quedó definida en favor del piloto de Ducati luego de una emotiva disputa por la vanguardia con el madrileño quien, tras su incidente, fue asistido en el centro médico de Phillip Island.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/motogp-marc-marquez-vencio-en-la-carrera-sprint-australiana-ante-la-caida-de-jorge-martin/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261023-MotoGP-Marc-Marquez-sprint.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-24T04:37:15.000Z",
+      "addedAt": "2026-10-24T07:12:19.670Z",
+      "category": "general",
+      "tag": "Carrera"
+    },
+    {
       "id": "campeones-com-ar-confirmado-el-turismo-carretera-comienza-el-2027-en-rosario",
       "title": "Confirmado: el Turismo Carretera comienza el 2027 en Rosario | Campeones",
       "summary": "Fernando Miori, Gerente General de la ACTC, lo confirmó en la tarde de viernes, en el marco de la presentación de la carrera de este fin de semana en el “Juan Manuel Fangio”.",
@@ -1341,6 +1341,21 @@
       "language": "es",
       "publishedAt": "2026-10-15T19:55:12.000Z",
       "addedAt": "2026-10-22T23:15:46.223Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tras-caerse-marc-marquez-logro-en-australia-su-epica-78-a-pole-de-motogp",
+      "title": "Tras caerse, Marc Márquez logró en Australia su épica 78.ª \"pole\" de MotoGP",
+      "summary": "Una vez más el piloto de Cervera consiguió una extraordinaria vuelta ante una condición difícil de pista húmeda en Phillip Island, y con una holgada ventaja a su hermano Álex.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tras-caerse-marc-marquez-logro-en-australia-su-epica-78-a-pole-de-motogp/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261023-MotoGP-Marc-Marquez.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-24T01:06:53.000Z",
+      "addedAt": "2026-10-24T07:12:19.983Z",
       "category": "general",
       "tag": "F1"
     },
@@ -1663,7 +1678,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-10-31T00:06:35.177Z",
+      "createdAt": "2026-10-31T05:28:25.810Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159-h",
@@ -1741,6 +1756,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-colapinto-optimista-tras-su-primera-sesion-de-practicas-en-mexico-hay-lugares-claro-para",
+          "title": "Colapinto, optimista tras su primera sesión de prácticas en el GP de México: \"Hay lugares claro para mejorar\"",
+          "summary": "Al finalizar en el decimosexto puesto en la segunda tanda de entrenamientos libres, el argentino observó el vaso medio lleno de cara a la sesión de clasificación en el Autódromo Hermanos Rodríguez.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-optimista-tras-su-primera-sesion-de-practicas-en-mexico-hay-lugares-claro-para-mejorar-id769535.html",
+          "image": "https://media.tycsports.com/files/2026/10/30/1001361/franco-colapinto-alpine_1440x810.webp",
+          "body": "Al finalizar en el decimosexto puesto en la segunda tanda de entrenamientos libres, el argentino observó el vaso medio lleno de cara a la sesión de clasificación en el Autódromo Hermanos Rodríguez.\n\nFranco Colapinto se mostró optimista de cara a la clasificación del Gran Premio de México de la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en Tras ceder su asiento a Gabriele Minì en la primera sesión, Franco Colapinto dijo presente en la segunda tanda de prácticas libres en el Gran Premio de México y expresó su entusiasmo de cara al resto del fin de semana pese a finalizar en el 16° lugar en la clasificación.\n\n\"No tan mal, creo que hay mucho por mejorar\" , se sinceró el argentino y ahondó sobre los motivos que le permiten imaginar un mejor devenir para su fin de semana: \" Perdí mucho en una curva en la parte del estadio (NdeR: el Foro Sol, en el tercer y último sector del trazado) y tengo mucho por ganar ahí y creo que el longrun iba bien \" .\n\n\"Fui encontrando de a poco cosas en la pista que me ayudaron un poco pero hay mucho que trabajar para mañana. Hoy a la noche va a ser importante para entender un par de cositas más y dar un paso pero creo que hay lugares claro para mejorar y veremos qué hay que hacer para mañana \" , planteó el argentino que promete una larga sesión con su ingeniero de pista para intentar maximizar el potencial de su monoplaza y poder cortar la racha de carreras sin puntuar.",
+          "language": "es",
+          "publishedAt": "2026-10-31T00:35:53.000Z",
+          "addedAt": "2026-10-31T05:28:17.883Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-quien-es-gabriele-mini-el-reemplazo-de-colapinto-en-el-gp-de-mexico-que-se-subio-a-un-ka",
           "title": "Quién es Gabriele Min&igrave;, el reemplazo de Colapinto en el GP de México que se subió a un karting de bebé",
           "summary": "El piloto italiano de 21 años suplantó al argentino en las prácticas libres 1 de la Fórmula 1 en esta fecha. Conocé su historia.",
@@ -1801,32 +1831,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-ocurrencia-franco-colapinto-para-poder-seguir-superclasico-mientras-corre-gp-de-mexico-i",
-          "title": "La ocurrencia de Franco Colapinto para seguir el Superclásico mientras corre en el GP de México",
-          "summary": "El piloto argentino de Fórmula 1 que volverá a coincidir en su actividad del domingo con el Boca-River bromeó: \"Capaz pregunto por la radio\".",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/ocurrencia-franco-colapinto-para-poder-seguir-superclasico-mientras-corre-gp-de-mexico-id769364.html",
-          "image": "https://media.tycsports.com/files/2026/08/20/980183/colapinto_1440x810.webp?v=1",
-          "body": "El piloto argentino de Fórmula 1 que volverá a coincidir en su actividad del domingo con el Boca-River bromeó: \"Capaz pregunto por la radio\".\n\nColapinto, entre dos pasiones (prensa Alpine). + Seguinos en El calendario de la Fórmula 1 le pondrá nuevamente un desafío especial a Franco Colapinto este domingo: mientras se prepara para correr el Gran Premio de México , también tendrá un ojo puesto en lo que suceda en la Bombonera. El motivo es claro: el piloto es hincha de Boca y no quiere perderse el Superclásico contra River.\n\nLa coincidencia entre ambas competencias ya tiene antecedentes. En otras oportunidades, el representante de Alpine debió repartir su atención entre las obligaciones en la pista y los partidos del Xeneize. Esta vez, incluso, se animó a fantasear con cómo mantenerse informado durante la carrera. En una charla con Fox, el argentino imaginó una alternativa para seguir el encuentro frente al Millonario. “Tremendo. No sé. Capaz pregunto por la radio cómo viene el partido. A ver si me dicen, le dejo a Stuart (su ingeniero, Barlow) el partido en el teléfono y que me vaya diciendo”, explicó serio pero jocoso.\n\nSin embargo, cuando le consultaron si de verdad su apoyo en boxes podía encargarse de esa tarea, descartó que esa fuera una posibilidad. De todas maneras, dejó en claro que buscará la manera de conocer lo que ocurra mientras cumple con sus compromisos deportivos . El horario, dentro de todo, lo ayuda: el partido es a las 15 y la carrera a las 17 hora argentina, aunque claramente en la previa de su competencia tampoco tendrá mucho espacio para seguir de cerca lo que suceda en Buenos Aires.\n\nNo será la primera vez que atraviese una situación de este estilo. En septiembre de 2024, cuando todavía competía para Williams, el Superclásico coincidió con el GP d",
+          "id": "campeones-com-ar-dia-positivo-de-franco-colapinto-en-el-autodromo-hermanos-rodriguez",
+          "title": "«Día positivo» de Franco Colapinto tras su labor en el autódromo \"Hermanos Rodríguez\"",
+          "summary": "Al culminar la jornada inaugural del Gran Premio Ciudad de México, el piloto argentino se refirió a la prestación del Alpine y qué resta ajustar para sábado y domingo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/dia-positivo-de-franco-colapinto-en-el-autodromo-hermanos-rodriguez/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261030-F1-F-Colapinto-A526.jpg",
+          "body": "",
           "language": "es",
-          "publishedAt": "2026-10-30T02:54:34.000Z",
-          "addedAt": "2026-10-30T09:03:07.692Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-uso-una-camiseta-particular-y-se-ilusiona-con-un-gran-fin-de-semana-en-el-gp-d",
-          "title": "Colapinto usó una camiseta particular y se ilusiona con un “gran fin de semana” en el GP de México",
-          "summary": "El piloto argentino de Alpine llegó al paddock del Autódromo Hermanos Rodríguez con una indumentaria que, dividida a la mitad, contenía tanto la bandera argentina como mexicana para el reconocimiento de los locales.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-uso-una-camiseta-particular-y-se-ilusiona-con-un-gran-fin-de-semana-en-el-gp-de-mexico--id769283.html",
-          "image": "https://media.tycsports.com/files/2026/10/29/1001041/franco-colapinto_1440x810.webp?v=1",
-          "body": "El piloto argentino de Alpine llegó al paddock del Autódromo Hermanos Rodríguez con una indumentaria que, dividida a la mitad, contenía tanto la bandera argentina como mexicana para el reconocimiento de los locales.\n\nColapinto portó una camiseta particular y se ilusiona con un “gran fin de semana” en el GP de México + Seguinos en Tras un fin de semana para el olvido en el Gran Premio de Estados Unidos en la Fórmula 1, Franco Colapinto intentará revertir lo sucedido en el GP de México , cuya carrera principal se llevará a cabo en el Autódromo Hermanos Rodríguez el próximo domingo 1 de noviembre . El piloto de Alpine, fiel a su costumbre, arribó al paddock con una camiseta sumamente particular y, a la vez, presentó la posibilidad de que sea un fin de semana favorable por las características del trazado.\n\nEl argentino, quien debió abandonar en la vuelta 37 en el Circuito de las Américas, dijo presente con una indumentaria que combinó las banderas de dos países: la de Argentina por un lado y la de México por el otro . “Listo para arrancar el día” , escribieron desde las redes sociales oficiales de la escudería junto a una postal del pilarense que, como no podía ser de otra manera, también llegó con el termo y el mate .\n\nEn otro aspecto, explicó por qué las características del circuito podrían favorecer al monoplaza A526 en su búsqueda por volver a la zona de puntuación. “ Tenemos un buen motor y rectas muy largas . Habrá que ver cómo funciona el auto en la altura” , expresó. Lo cierto es que estará ante una de las rectas más extensas del calendario, aunque deberá tener en cuenta que competirá a más de 2.200 metros sobre el nivel del mar.\n\n“ Se genera mucha menos carga aerodinámica, las llantas se calientan más porque hay menos refrigeración, hay menos aire para enfriar el a",
-          "language": "es",
-          "publishedAt": "2026-10-30T01:10:09.000Z",
-          "addedAt": "2026-10-29T23:26:50.570Z",
+          "publishedAt": "2026-10-31T01:27:41.000Z",
+          "addedAt": "2026-10-31T05:28:18.911Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -1876,21 +1891,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-",
-          "title": "Colapinto, entre la preocupación y la esperanza tras las prácticas libres en Austin: “Será muy difícil, pero...”",
-          "summary": "El piloto argentino, que culminó 17&ordm; y 15&ordm; en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-muy-dificil-pero--id768314.html",
-          "image": "https://media.tycsports.com/files/2026/10/23/998965/franco-colapinto_1440x810.webp?v=2",
-          "body": "El piloto argentino, que culminó 17º y 15º en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.\n\nColapinto, entre la preocupación y la esperanza luego de las prácticas libres en Austin (Getty Images: Kym Illman). + Seguinos en Este viernes, Franco Colapinto puso primera en el Gran Premio de Estados Unidos de la Fórmula 1 y lo hizo con las prácticas libres , en las cuales finalizó 17º y 15º respectivamente. Ahora, todavía a la espera de la FP3, y con una penalización de diez lugares para la grilla de salida de la carrera principal del próximo domingo , el piloto de Alpine analizó lo sucedido en la pista. Más allá de que se lo notó preocupado, también exhibió una mínima llamarada de esperanza con la mira puesta en potenciar el rendimiento.\n\nDespués de finalizar con las dos sesiones de la jornada, el pilarense dejó en evidencia su disconformidad con el funcionamiento del monoplaza . “Intentaremos enfocarnos en el balance para la carrera. Ojalá que eso nos ayude . Creo que estamos un poco obligados con la dureza del auto, uno muy rígido y cuesta mucho en una pista muy bacheada, así que va a ser difícil, pero intentaremos dar un salto para mañana (en referencia al sábado)” , expresó en primera instancia.\n\nMás adelante, reconoció que el A526 tiene margen de mejora , aunque la escudería deberá analizar múltiples datos para hacerla efectiva de cara a la clasificación que, con la mencionada sanción, no definirá demasiado . “Hay mucho por mejorar y por entender, o por lo menos bastante performance para encontrar en el auto por la cantidad de baches que hay. Creo que es una pista un poco atípica, aunque por otro lado tendremos que entender cómo mejorar para mañana” , añadió e",
-          "language": "es",
-          "publishedAt": "2026-10-24T00:50:22.000Z",
-          "addedAt": "2026-10-24T02:00:16.108Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-mexico-id769205-ht",
           "title": "F1: hora y dónde ver en vivo la clasificación de Colapinto en el GP de México",
           "summary": "Este sábado se llevará a cabo, en el Autódromo Hermanos Rodríguez, la clasificación de una nueva fecha de la temporada 2026 de la Fórmula 1. Conocé los detalles.",
@@ -1900,7 +1900,7 @@
           "image": "https://media.tycsports.com/files/2026/10/24/999138/colapinto_1440x810.webp",
           "body": "Este sábado se llevará a cabo, en el Autódromo Hermanos Rodríguez, la clasificación de una nueva fecha de la temporada 2026 de la Fórmula 1. Conocé los detalles.\n\nFranco Colapinto (Rudy Carezzevoli/Getty Images). + Seguinos en La temporada 2026 de la Fórmula 1, que tiene como líder a Kimi Antonelli de Mercedes, tendrá su 21º carrera del año en el Gran Premio de México y este sábado se desarrollará la clasificación en el autódromo Hermanos Rodríguez con la presencia de Franco Colapinto de la mano de la escudería Alpine. Conocé los detalles .\n\nEl Autódromo Hermanos Rodríguez se encuentra a más de 2 km sobre el nivel del mar, lo que convierte la vuelta de 4,3 km en una experiencia que te deja sin aliento . La pista sigue en gran medida el trazado del circuito original de 1959; la principal diferencia es que la espectacular -espectacularmente aterradora- curva Peraltada ahora está dividida en dos, y el circuito serpentea a través de un antiguo estadio de béisbol, lo que ofrece una de las vistas más singulares de la Fórmula 1.\n\nBrasil: 18.00 Uruguay: 18.00 Chile: 18.00 Paraguay: 18.00 Bolivia: 17.00 Venezuela: 17.00 Estados Unidos (Este - EST): 17.00 Perú: 17.00 Ecuador: 17.00 Colombia: 17.00 Estados Unidos (Central - CST): 16.00 México: 16.00 Estados Unidos (Montaña - MST): 15.00 Estados Unidos (Pacífico - PST): 14.00\n\nLa carrera de la Fórmula 1 se podrá ver en vivo en la Argentina a través de Fox Sports . Además, vas a poder seguir el minuto a minuto de la competición en el sitio web www.tycsports.com.",
           "language": "es",
-          "publishedAt": "2026-10-30T20:04:43.000Z",
+          "publishedAt": "2026-10-31T01:50:20.000Z",
           "addedAt": "2026-10-30T20:41:26.035Z",
           "category": "argentino",
           "tag": "Franco"
@@ -1921,17 +1921,32 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-colapinto-se-sento-en-el-alpine-y-quedo-16-en-la-segunda-practica-mexicana",
-          "title": "Colapinto se sentó en el Alpine y quedó .° en la segunda práctica mexicana",
-          "summary": "El argentino tuvo su primer contacto del fin de semana con el A526, tras cederlo el ensayo inicial a Gabriele Minì.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-se-sento-en-el-alpine-y-quedo-16-en-la-segunda-practica-mexicana/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-Colapinto-Mexico.jpeg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-ocurrencia-franco-colapinto-para-poder-seguir-superclasico-mientras-corre-gp-de-mexico-i",
+          "title": "La ocurrencia de Franco Colapinto para seguir el Superclásico mientras corre en el GP de México",
+          "summary": "El piloto argentino de Fórmula 1 que volverá a coincidir en su actividad del domingo con el Boca-River bromeó: \"Capaz pregunto por la radio\".",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/ocurrencia-franco-colapinto-para-poder-seguir-superclasico-mientras-corre-gp-de-mexico-id769364.html",
+          "image": "https://media.tycsports.com/files/2026/08/20/980183/colapinto_1440x810.webp?v=1",
+          "body": "El piloto argentino de Fórmula 1 que volverá a coincidir en su actividad del domingo con el Boca-River bromeó: \"Capaz pregunto por la radio\".\n\nColapinto, entre dos pasiones (prensa Alpine). + Seguinos en El calendario de la Fórmula 1 le pondrá nuevamente un desafío especial a Franco Colapinto este domingo: mientras se prepara para correr el Gran Premio de México , también tendrá un ojo puesto en lo que suceda en la Bombonera. El motivo es claro: el piloto es hincha de Boca y no quiere perderse el Superclásico contra River.\n\nLa coincidencia entre ambas competencias ya tiene antecedentes. En otras oportunidades, el representante de Alpine debió repartir su atención entre las obligaciones en la pista y los partidos del Xeneize. Esta vez, incluso, se animó a fantasear con cómo mantenerse informado durante la carrera. En una charla con Fox, el argentino imaginó una alternativa para seguir el encuentro frente al Millonario. “Tremendo. No sé. Capaz pregunto por la radio cómo viene el partido. A ver si me dicen, le dejo a Stuart (su ingeniero, Barlow) el partido en el teléfono y que me vaya diciendo”, explicó serio pero jocoso.\n\nSin embargo, cuando le consultaron si de verdad su apoyo en boxes podía encargarse de esa tarea, descartó que esa fuera una posibilidad. De todas maneras, dejó en claro que buscará la manera de conocer lo que ocurra mientras cumple con sus compromisos deportivos . El horario, dentro de todo, lo ayuda: el partido es a las 15 y la carrera a las 17 hora argentina, aunque claramente en la previa de su competencia tampoco tendrá mucho espacio para seguir de cerca lo que suceda en Buenos Aires.\n\nNo será la primera vez que atraviese una situación de este estilo. En septiembre de 2024, cuando todavía competía para Williams, el Superclásico coincidió con el GP d",
           "language": "es",
-          "publishedAt": "2026-10-30T23:03:00.000Z",
-          "addedAt": "2026-10-31T00:06:27.429Z",
+          "publishedAt": "2026-10-30T02:54:34.000Z",
+          "addedAt": "2026-10-30T09:03:07.692Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-uso-una-camiseta-particular-y-se-ilusiona-con-un-gran-fin-de-semana-en-el-gp-d",
+          "title": "Colapinto usó una camiseta particular y se ilusiona con un “gran fin de semana” en el GP de México",
+          "summary": "El piloto argentino de Alpine llegó al paddock del Autódromo Hermanos Rodríguez con una indumentaria que, dividida a la mitad, contenía tanto la bandera argentina como mexicana para el reconocimiento de los locales.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-uso-una-camiseta-particular-y-se-ilusiona-con-un-gran-fin-de-semana-en-el-gp-de-mexico--id769283.html",
+          "image": "https://media.tycsports.com/files/2026/10/29/1001041/franco-colapinto_1440x810.webp?v=1",
+          "body": "El piloto argentino de Alpine llegó al paddock del Autódromo Hermanos Rodríguez con una indumentaria que, dividida a la mitad, contenía tanto la bandera argentina como mexicana para el reconocimiento de los locales.\n\nColapinto portó una camiseta particular y se ilusiona con un “gran fin de semana” en el GP de México + Seguinos en Tras un fin de semana para el olvido en el Gran Premio de Estados Unidos en la Fórmula 1, Franco Colapinto intentará revertir lo sucedido en el GP de México , cuya carrera principal se llevará a cabo en el Autódromo Hermanos Rodríguez el próximo domingo 1 de noviembre . El piloto de Alpine, fiel a su costumbre, arribó al paddock con una camiseta sumamente particular y, a la vez, presentó la posibilidad de que sea un fin de semana favorable por las características del trazado.\n\nEl argentino, quien debió abandonar en la vuelta 37 en el Circuito de las Américas, dijo presente con una indumentaria que combinó las banderas de dos países: la de Argentina por un lado y la de México por el otro . “Listo para arrancar el día” , escribieron desde las redes sociales oficiales de la escudería junto a una postal del pilarense que, como no podía ser de otra manera, también llegó con el termo y el mate .\n\nEn otro aspecto, explicó por qué las características del circuito podrían favorecer al monoplaza A526 en su búsqueda por volver a la zona de puntuación. “ Tenemos un buen motor y rectas muy largas . Habrá que ver cómo funciona el auto en la altura” , expresó. Lo cierto es que estará ante una de las rectas más extensas del calendario, aunque deberá tener en cuenta que competirá a más de 2.200 metros sobre el nivel del mar.\n\n“ Se genera mucha menos carga aerodinámica, las llantas se calientan más porque hay menos refrigeración, hay menos aire para enfriar el a",
+          "language": "es",
+          "publishedAt": "2026-10-30T01:10:09.000Z",
+          "addedAt": "2026-10-29T23:26:50.570Z",
           "category": "argentino",
           "tag": "Franco"
         }
@@ -1939,7 +1954,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-10-31T00:06:35.177Z",
+      "createdAt": "2026-10-31T05:28:25.810Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-fue-elegido-entre-los-grandes-perdedores-del-gp-de-estados-unidos-por-l",
@@ -1998,6 +2013,21 @@
           "language": "es",
           "publishedAt": "2026-10-24T14:56:40.000Z",
           "addedAt": "2026-10-22T16:03:11.160Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-se-sento-en-el-alpine-y-quedo-16-en-la-segunda-practica-mexicana",
+          "title": "Colapinto se sentó en el Alpine y quedó .° en la segunda práctica mexicana",
+          "summary": "El argentino tuvo su primer contacto del fin de semana con el A526, tras cederlo el ensayo inicial a Gabriele Minì.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-se-sento-en-el-alpine-y-quedo-16-en-la-segunda-practica-mexicana/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-Colapinto-Mexico.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-10-30T23:03:00.000Z",
+          "addedAt": "2026-10-31T00:06:27.429Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2122,6 +2152,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-",
+          "title": "Colapinto, entre la preocupación y la esperanza tras las prácticas libres en Austin: “Será muy difícil, pero...”",
+          "summary": "El piloto argentino, que culminó 17&ordm; y 15&ordm; en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-muy-dificil-pero--id768314.html",
+          "image": "https://media.tycsports.com/files/2026/10/23/998965/franco-colapinto_1440x810.webp?v=2",
+          "body": "El piloto argentino, que culminó 17º y 15º en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.\n\nColapinto, entre la preocupación y la esperanza luego de las prácticas libres en Austin (Getty Images: Kym Illman). + Seguinos en Este viernes, Franco Colapinto puso primera en el Gran Premio de Estados Unidos de la Fórmula 1 y lo hizo con las prácticas libres , en las cuales finalizó 17º y 15º respectivamente. Ahora, todavía a la espera de la FP3, y con una penalización de diez lugares para la grilla de salida de la carrera principal del próximo domingo , el piloto de Alpine analizó lo sucedido en la pista. Más allá de que se lo notó preocupado, también exhibió una mínima llamarada de esperanza con la mira puesta en potenciar el rendimiento.\n\nDespués de finalizar con las dos sesiones de la jornada, el pilarense dejó en evidencia su disconformidad con el funcionamiento del monoplaza . “Intentaremos enfocarnos en el balance para la carrera. Ojalá que eso nos ayude . Creo que estamos un poco obligados con la dureza del auto, uno muy rígido y cuesta mucho en una pista muy bacheada, así que va a ser difícil, pero intentaremos dar un salto para mañana (en referencia al sábado)” , expresó en primera instancia.\n\nMás adelante, reconoció que el A526 tiene margen de mejora , aunque la escudería deberá analizar múltiples datos para hacerla efectiva de cara a la clasificación que, con la mencionada sanción, no definirá demasiado . “Hay mucho por mejorar y por entender, o por lo menos bastante performance para encontrar en el auto por la cantidad de baches que hay. Creo que es una pista un poco atípica, aunque por otro lado tendremos que entender cómo mejorar para mañana” , añadió e",
+          "language": "es",
+          "publishedAt": "2026-10-24T00:50:22.000Z",
+          "addedAt": "2026-10-24T02:00:16.108Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-messi-balon-de-oro-id767832-html",
           "title": "Colapinto eligió a Messi como su candidato para el Balón de Oro: “Sería muy lindo que lo vuelva a ganar”",
           "summary": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.",
@@ -2180,42 +2225,12 @@
           "addedAt": "2026-10-20T22:28:55.340Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
-          "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
-          "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-ranking-peor-f1-gp-singapur-id765831.html",
-          "image": "https://media.tycsports.com/files/2026/10/12/995348/franco_1440x810.webp?v=1",
-          "body": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.\n\nFranco Colapinto tuvo que abandonar en el GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto tuvo un fin de semana para el olvido en el Gran Premio de Singapur de Fórmula 1 . El piloto argentino sufrió dos abandonos, tanto en la Sprint como en la carrera principal, debido a problemas de fiabilidad en su Alpine y no pudo volver a sumar puntos. Ante este panorama, un medio inglés ubicó al #43 entre los peores de su ranking.\n\nSe trata de The Race , un medio especializado que confecciona un ranking luego de cada carrera en el que pondera la actuación de cada corredor. En Singapur, Colapinto ocupó el puesto 19, solo por delante de Alex Albon, Valtteri Bottas y Lance Stroll , quienes también sufrieron complicaciones con sus monoplazas.\n\n“El ritmo subyacente era mejor de lo que parecía, pero la clasificación no se optimizó al máximo” , fue el veredicto final del portal inglés respecto a la performance del #43.\n\n“En la clasificación al sprint, mantuvo un ritmo similar al de su compañero de equipo en Alpine, Gasly. Su eliminación en la segunda ronda de clasificación se debió exclusivamente al tiempo perdido por los frenos y a que los neumáticos no estaban a la temperatura adecuada para la primera curva. Llegó a ocupar brevemente el duodécimo puesto en la carrera al sprint antes de detenerse por un problema en la reserva de energía”, analizó The Race.",
-          "language": "es",
-          "publishedAt": "2026-10-12T21:27:52.000Z",
-          "addedAt": "2026-10-18T07:11:28.307Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-la-decision-de-alpine-que-afecta-a-colapinto-en-la-recta-final-de-la-f1-id768833-html",
-          "title": "La decisión de Alpine que afecta a Colapinto en la recta final de la F1",
-          "summary": "La escudería francesa no podrá hacer más actualizaciones en sus monoplazas por estar cerca del techo presupuestario, según reveló Pierre Gasly.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-decision-de-alpine-que-afecta-a-colapinto-en-la-recta-final-de-la-f1-id768833.html",
-          "image": "https://media.tycsports.com/files/2026/01/05/913226/asi-suena-el-nuevo-alpine-de-colapinto-el-a526-ya-esta-en-marcha_862x485.webp",
-          "body": "La escudería francesa no podrá hacer más actualizaciones en sus monoplazas por estar cerca del techo presupuestario, según reveló Pierre Gasly.\n\nAlpine no hará más actualizaciones de sus monoplazas + Seguinos en En Alpine decidieron que no harán nuevas actualizaciones a los monoplazas de la escudería por \"estar prácticamente en el límite del techo presupuestario\" , según reveló Pierre Gasly . Es decir, que el equipo alcanzó el límite de recursos disponible para la campaña y tendrá que sacarle el mejor rendimiento al paquete actual.\n\nEn diálogo con Motorsport, Gasly deslizó entre risas: “Si yo fuera el director financiero, pueden estar seguros de que llevaría todas las mejoras que pudiera hasta el final del año”.\n\nY sobre la situación interna de la escudería, reveló: \"Creo que estamos prácticamente en el límite de nuestro techo presupuestario. Desde el punto de vista estratégico, no tenemos nada en preparación. Este es el auto que tendremos hasta el final del año”.\n\nPor lo tanto, la decisión que tomó la escudería corresponde a la cercanía al techo presupuestario y a una medida estratégica.",
-          "language": "es",
-          "publishedAt": "2026-10-27T15:48:56.000Z",
-          "addedAt": "2026-10-27T19:41:07.219Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-10-31T00:06:35.177Z",
+      "createdAt": "2026-10-31T05:28:25.810Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-antonelli-enciende-las-alarmas-en-mercedes-antes-del-gran-premio-de-mexico-id769332-html",
@@ -2491,7 +2506,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-10-31T00:06:35.177Z",
+      "createdAt": "2026-10-31T05:28:25.810Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-el-curioso-analisis-de-antonelli-sobre-la-chance-de-ser-campeon-de-la-f1-en-el-gp-de-est",
@@ -2582,6 +2597,36 @@
           "addedAt": "2026-10-18T07:11:28.259Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-ranking-peor-f1-gp-singapur-id765831-html",
+          "title": "Colapinto, entre los peores pilotos del ranking de un medio inglés tras el GP de Singapur",
+          "summary": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-ranking-peor-f1-gp-singapur-id765831.html",
+          "image": "https://media.tycsports.com/files/2026/10/12/995348/franco_1440x810.webp?v=1",
+          "body": "El portal especializado The Race ubicó al argentino en el 19° lugar de su tabla de rendimientos, luego de que el #43 se viera obligado a abandonar la carrera por fallas en su Alpine.\n\nFranco Colapinto tuvo que abandonar en el GP de Singapur. (Getty Images) + Seguinos en Franco Colapinto tuvo un fin de semana para el olvido en el Gran Premio de Singapur de Fórmula 1 . El piloto argentino sufrió dos abandonos, tanto en la Sprint como en la carrera principal, debido a problemas de fiabilidad en su Alpine y no pudo volver a sumar puntos. Ante este panorama, un medio inglés ubicó al #43 entre los peores de su ranking.\n\nSe trata de The Race , un medio especializado que confecciona un ranking luego de cada carrera en el que pondera la actuación de cada corredor. En Singapur, Colapinto ocupó el puesto 19, solo por delante de Alex Albon, Valtteri Bottas y Lance Stroll , quienes también sufrieron complicaciones con sus monoplazas.\n\n“El ritmo subyacente era mejor de lo que parecía, pero la clasificación no se optimizó al máximo” , fue el veredicto final del portal inglés respecto a la performance del #43.\n\n“En la clasificación al sprint, mantuvo un ritmo similar al de su compañero de equipo en Alpine, Gasly. Su eliminación en la segunda ronda de clasificación se debió exclusivamente al tiempo perdido por los frenos y a que los neumáticos no estaban a la temperatura adecuada para la primera curva. Llegó a ocupar brevemente el duodécimo puesto en la carrera al sprint antes de detenerse por un problema en la reserva de energía”, analizó The Race.",
+          "language": "es",
+          "publishedAt": "2026-10-12T21:27:52.000Z",
+          "addedAt": "2026-10-18T07:11:28.307Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-la-decision-de-alpine-que-afecta-a-colapinto-en-la-recta-final-de-la-f1-id768833-html",
+          "title": "La decisión de Alpine que afecta a Colapinto en la recta final de la F1",
+          "summary": "La escudería francesa no podrá hacer más actualizaciones en sus monoplazas por estar cerca del techo presupuestario, según reveló Pierre Gasly.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-decision-de-alpine-que-afecta-a-colapinto-en-la-recta-final-de-la-f1-id768833.html",
+          "image": "https://media.tycsports.com/files/2026/01/05/913226/asi-suena-el-nuevo-alpine-de-colapinto-el-a526-ya-esta-en-marcha_862x485.webp",
+          "body": "La escudería francesa no podrá hacer más actualizaciones en sus monoplazas por estar cerca del techo presupuestario, según reveló Pierre Gasly.\n\nAlpine no hará más actualizaciones de sus monoplazas + Seguinos en En Alpine decidieron que no harán nuevas actualizaciones a los monoplazas de la escudería por \"estar prácticamente en el límite del techo presupuestario\" , según reveló Pierre Gasly . Es decir, que el equipo alcanzó el límite de recursos disponible para la campaña y tendrá que sacarle el mejor rendimiento al paquete actual.\n\nEn diálogo con Motorsport, Gasly deslizó entre risas: “Si yo fuera el director financiero, pueden estar seguros de que llevaría todas las mejoras que pudiera hasta el final del año”.\n\nY sobre la situación interna de la escudería, reveló: \"Creo que estamos prácticamente en el límite de nuestro techo presupuestario. Desde el punto de vista estratégico, no tenemos nada en preparación. Este es el auto que tendremos hasta el final del año”.\n\nPor lo tanto, la decisión que tomó la escudería corresponde a la cercanía al techo presupuestario y a una medida estratégica.",
+          "language": "es",
+          "publishedAt": "2026-10-27T15:48:56.000Z",
+          "addedAt": "2026-10-27T19:41:07.219Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-destacan-un-viaje-muy-productivo-en-austin-con-miras-al-gp-de-f1-en-buenos-aires",
@@ -2732,7 +2777,13 @@
           "addedAt": "2026-10-25T16:02:51.741Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-10-31T05:28:25.810Z",
+      "items": [
         {
           "id": "campeones-com-ar-franco-colapinto-tras-clasificar-en-austin-el-auto-mejoro-un-poco-pero-no-tanto",
           "title": "Franco Colapinto tras clasificar en Austin: «El auto mejoró un poco, pero no tanto»",
@@ -2762,13 +2813,7 @@
           "addedAt": "2026-10-24T18:44:37.725Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-10-31T00:06:35.177Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-mattia-colnaghi-campos-racing-formula-3-2027-id767199-html",
           "title": "Mattia Colnaghi correrá en un equipo de punta de la F3 en 2027",
@@ -3008,36 +3053,6 @@
           "addedAt": "2026-10-23T23:33:00.137Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico",
-          "title": "Franco Colapinto y los problemas que puede traer la altitud en el GP de México",
-          "summary": "Un desafío para el manejo por la baja densidad del aire a 2.240 msnm con la potencia, la carga aerodinámica, la refrigeración del Fórmula 1.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Franco-Colapinto-Mexico-2026-Jueves.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-29T20:26:37.000Z",
-          "addedAt": "2026-10-29T23:26:51.726Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-cierre-con-sabor-a-poco-de-tiago-pernia-en-la-temporada-de-tcr-europeo",
-          "title": "Cierre con sabor a poco de Tiago Pernía en la temporada de TCR Europeo",
-          "summary": "El representante argentino no pudo completar la Carrera 2 por un toque con Adam Shepard cuando intentaba escalar posiciones con el Honda de Squadra Martino. Marco Butti se coronó campeón.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/cierre-con-sabor-a-poco-de-tiago-pernia-en-la-temporada-de-tcr-europeo/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261025-TCR-Pernia.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-25T09:44:06.000Z",
-          "addedAt": "2026-10-25T16:02:57.687Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     }
