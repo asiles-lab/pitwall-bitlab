@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-03T11:50:25.737Z",
-  "checkedAt": "2026-11-03T11:50:25.737Z",
+  "updatedAt": "2026-11-03T19:26:54.434Z",
+  "checkedAt": "2026-11-03T19:26:54.434Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,6 +40,36 @@
   },
   "backlog": [
     {
+      "id": "carburando-com-ar-blog-colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
+      "title": "Colapinto no es el único: dos pilotos más suman sanciones en la parrilla de Austin",
+      "summary": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico…",
+      "source": "Carburando",
+      "sourceLabel": "Carburando",
+      "url": "https://carburando.com.ar/blog/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
+      "image": "https://carburando.com.ar/covers/22/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-27815.webp",
+      "body": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico y deportivo que explica estas decisiones.\n\nLa parrilla del Gran Premio de Estados Unidos en el Circuito de las Américas se definirá este fin de semana con más modificaciones de lo habitual. Franco Colapinto no será el único que partirá más atrás de lo que su clasificación indique: dos pilotos adicionales acumulan sanciones que alterarán el orden de largada en Austin.\n\nEn el reglamento deportivo de la FIA, las penalizaciones por cambios de componentes de la unidad de potencia son las más habituales. Cuando un equipo excede el número permitido de motores, turbinas, MGU-K o baterías por temporada, el piloto debe retroceder posiciones en la grilla. Este mecanismo busca equilibrar el desarrollo y el costo de las plantas impulsoras.\n\nColapinto ya había recibido una sanción previa por la sustitución de varios elementos del power unit en las últimas carreras. Ahora se suman a esa lista otros dos corredores que, por motivos técnicos similares o por infracciones durante los entrenamientos, perderán lugares. El detalle exacto de cada penalidad se confirma habitualmente tras la clasificación del sábado, pero los equipos ya anticipan los movimientos.\n\nDesde el punto de vista técnico, el reglamento 2026 de la Fórmula 1 mantiene la filosofía de limitar el número de unidades de potencia por temporada, aunque con ajustes en la potencia y el componente eléctrico. Esto obliga a los fabricantes a ser más precisos en la gestión de fiabilidad, porque cada cambio extra se paga caro en la parrilla.",
+      "language": "es",
+      "publishedAt": "2026-10-23T21:50:17.000Z",
+      "addedAt": "2026-11-02T23:13:38.970Z",
+      "category": "argentino",
+      "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-julian-santero-hace-todo-facil",
+      "title": "\"Julián Santero hace todo fácil\" | Campeones",
+      "summary": "Marcelo Ambrogio dialogó con Campeones tras un nuevo triunfo del mendocino en el TN bajo su estructura y lo ponderó como uno de los mejores pilotos del país.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/julian-santero-hace-todo-facil/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260901-TN-Santero-Ambrogio.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-03T17:41:31.000Z",
+      "addedAt": "2026-11-03T19:26:57.997Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-no-se-vio-en-tv-cuando-gasly-salva-a-ultimo-momento-un-golpe-a-colapinto",
       "title": "No se vio en TV: Cuando Gasly salva a último momento un golpe a Colapinto",
       "summary": "Sucedió tras un relanzamiento que el francés estuvo a punto de chocar a su compañero de Alpine evitando un duro impacto.",
@@ -51,6 +81,21 @@
       "language": "es",
       "publishedAt": "2026-11-02T13:29:35.000Z",
       "addedAt": "2026-11-02T15:36:51.514Z",
+      "category": "argentino",
+      "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-por-que-se-sanciono-a-colapinto-en-mexico-y-a-gasly-aun-mas",
+      "title": "Por qué se sancionó a Colapinto en México y a Gasly aún más",
+      "summary": "Se penó la reacción de los pilotos ante una situación de bandera amarilla delante de Franco Colapinto y doble amarilla donde Pierre Gasly.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/por-que-se-sanciono-a-colapinto-en-mexico-y-a-gasly-aun-mas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Franco-Colapinto-Alpine-Mexico.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-02T10:58:25.000Z",
+      "addedAt": "2026-11-02T15:36:51.877Z",
       "category": "argentino",
       "tag": "Franco"
     },
@@ -68,51 +113,6 @@
       "addedAt": "2026-11-02T15:36:49.621Z",
       "category": "general",
       "tag": "Carrera"
-    },
-    {
-      "id": "carburando-com-ar-blog-colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
-      "title": "Colapinto no es el único: dos pilotos más suman sanciones en la parrilla de Austin",
-      "summary": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico…",
-      "source": "Carburando",
-      "sourceLabel": "Carburando",
-      "url": "https://carburando.com.ar/blog/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
-      "image": "https://carburando.com.ar/covers/22/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-27815.webp",
-      "body": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico y deportivo que explica estas decisiones.\n\nLa parrilla del Gran Premio de Estados Unidos en el Circuito de las Américas se definirá este fin de semana con más modificaciones de lo habitual. Franco Colapinto no será el único que partirá más atrás de lo que su clasificación indique: dos pilotos adicionales acumulan sanciones que alterarán el orden de largada en Austin.\n\nEn el reglamento deportivo de la FIA, las penalizaciones por cambios de componentes de la unidad de potencia son las más habituales. Cuando un equipo excede el número permitido de motores, turbinas, MGU-K o baterías por temporada, el piloto debe retroceder posiciones en la grilla. Este mecanismo busca equilibrar el desarrollo y el costo de las plantas impulsoras.\n\nColapinto ya había recibido una sanción previa por la sustitución de varios elementos del power unit en las últimas carreras. Ahora se suman a esa lista otros dos corredores que, por motivos técnicos similares o por infracciones durante los entrenamientos, perderán lugares. El detalle exacto de cada penalidad se confirma habitualmente tras la clasificación del sábado, pero los equipos ya anticipan los movimientos.\n\nDesde el punto de vista técnico, el reglamento 2026 de la Fórmula 1 mantiene la filosofía de limitar el número de unidades de potencia por temporada, aunque con ajustes en la potencia y el componente eléctrico. Esto obliga a los fabricantes a ser más precisos en la gestión de fiabilidad, porque cada cambio extra se paga caro en la parrilla.",
-      "language": "es",
-      "publishedAt": "2026-10-23T21:50:17.000Z",
-      "addedAt": "2026-11-02T23:13:38.970Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
-    {
-      "id": "campeones-com-ar-aceleran-un-chevrolet-0-km-que-pernia-se-sube",
-      "title": "Aceleran un Chevrolet \"0 km\": ¿Qué Pernía se sube?",
-      "summary": "El Ambrogio Racing trabaja en el armado de una nueva unidad para sumar a las filas del MG-C Pergamino a partir de la siguiente temporada de TN Clase 3.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/aceleran-un-chevrolet-0-km-que-pernia-se-sube/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261008-TN-Pernia.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-03T10:34:09.000Z",
-      "addedAt": "2026-11-03T11:50:28.265Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-por-que-se-sanciono-a-colapinto-en-mexico-y-a-gasly-aun-mas",
-      "title": "Por qué se sancionó a Colapinto en México y a Gasly aún más",
-      "summary": "Se penó la reacción de los pilotos ante una situación de bandera amarilla delante de Franco Colapinto y doble amarilla donde Pierre Gasly.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/por-que-se-sanciono-a-colapinto-en-mexico-y-a-gasly-aun-mas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Franco-Colapinto-Alpine-Mexico.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-02T10:58:25.000Z",
-      "addedAt": "2026-11-02T15:36:51.877Z",
-      "category": "argentino",
-      "tag": "Franco"
     },
     {
       "id": "campeones-com-ar-franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico",
@@ -145,49 +145,49 @@
       "tag": "Carrera"
     },
     {
-      "id": "www-tycsports-com-automovilismo-inesperada-decision-kimi-antonelli-mercedes-f1-id770003-html",
-      "title": "La inesperada decisión de Kimi Antonelli tras consagrarse campeón de la Fórmula 1",
-      "summary": "El italiano confirmó que no utilizará el 1 la próxima temporada, número que está reservado exclusivamente para el ganador vigente de la Máxima, y continuará llevando el 12.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/inesperada-decision-kimi-antonelli-mercedes-f1-id770003.html",
-      "image": "https://media.tycsports.com/files/2026/11/02/1002195/kimi_1440x810.webp?v=1",
-      "body": "El italiano confirmó que no utilizará el 1 la próxima temporada, número que está reservado exclusivamente para el ganador vigente de la Máxima, y continuará llevando el 12.\n\nKimi Antonelli se convirtió en el campeón más joven de la F1 con apenas 20 años + Seguinos en Tras obtener su primer título en la Fórmula 1 el último domingo en el Gran Premio de México , Kimi Antonelli reveló que no utilizará el 1 , número que está reservado exclusivamente para el campeón vigente de la Máxima, y seguirá usando el número 12 en su monoplaza la próxima temporada.\n\n\"Me quedaré con el número 12 porque, obviamente, es un número muy especial para mí\" , reveló el italiano en diálogo con Motorsport luego de convertirse en el campeón más joven de la categoría con apenas 20 años.\n\nHay que remarcar que, desde su desembarco en la F1 en 2025, Kimi decidió llevar el 12 en homenaje a su ídolo de la infancia, Ayrton Senna. De hecho, el oriundo de Bolonia se convirtió en el primer piloto en asegurar el título usando ese número desde que el brasileño lo había hecho en 1988.\n\n\"También es una forma de mantener los pies sobre la tierra, de seguir siendo humilde. Siento que mantener el número 12 me permite tener un nuevo punto desde el cual empezar y construir todo de nuevo e intentar mejorar más\", expresó el corredor de Mercedes, que también llevó ese número durante su estadía en la Fórmula 4.",
-      "language": "es",
-      "publishedAt": "2026-11-02T18:20:47.000Z",
-      "addedAt": "2026-11-02T23:13:38.916Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "www-tycsports-com-automovilismo-enojo-en-ferrari-por-el-duelo-entre-hamilton-y-leclerc-en-el-gp-de-mexico-una-falta-de-r",
-      "title": "Enojo en Ferrari por el duelo entre Hamilton y Leclerc en el GP de México: \"Una falta de respeto a la marca\"",
-      "summary": "Fred Vasseur, jefe de equipo del Cavallino Rampante, criticó a sus dos pilotos por la pelea que los dejó sin chances de ganar en el Autódromo Hermanos Rodríguez.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/enojo-en-ferrari-por-el-duelo-entre-hamilton-y-leclerc-en-el-gp-de-mexico-una-falta-de-respeto-a-la-marca-id769981.html",
-      "image": "https://media.tycsports.com/files/2026/11/02/1002162/vasseur-apunto-contra-leclerc-y-hamilton_1440x810.webp",
-      "body": "Fred Vasseur, jefe de equipo del Cavallino Rampante, criticó a sus dos pilotos por la pelea que los dejó sin chances de ganar en el Autódromo Hermanos Rodríguez.\n\nVasseur apuntó contra Leclerc y Hamilton (Getty Images) + Seguinos en Fred Vasseur, jefe de equipo de Ferrari, cuestionó a Charles Leclerc y Lewis Hamilton después del Gran Premio de México. El duelo entre ambos tras la largada le costó al Cavallino Rampante una victoria y le dio el triunfo a Max Verstappen, que llegó a su victoria número 74 en la Fórmula 1.\n\nTodo empezó cuando Leclerc atacó a Hamilton y el siete veces campeón del mundo defendió su posición . Ferrari había pasado la primera curva en los dos primeros puestos, pero terminó con Hamilton segundo y Leclerc cuarto. Leclerc recibió una sanción de cinco segundos por salirse de pista y recortar la curva 5 mientras peleaba el liderazgo con su compañero. Había conseguido una ventaja de cinco segundos sobre Verstappen antes de su primera parada, pero estuvo 6,3 segundos más en boxes y cedió la punta.\n\nVasseur consideró que esta situación no fue de la mano con el rendimiento del equipo durante el fin de semana ni con la actitud que debían tener los pilotos: “No es el resultado que esperábamos, sobre todo cuando estábamos primero y segundo tras la primera curva” , afirmó en diálogo con Canal+. Y agregó: “ En Ciudad de México no recuerdo un adelantamiento que valiera la victoria y por tanto me cuesta aceptar el hecho de que hayamos terminado el GP en segunda y cuarta posición”.\n\nEl francés sostuvo que el auto había dado “un verdadero paso adelante en términos de prestaciones” , pero lamentó que esa mejora no haya sido suficiente para lograr el tercer triunfo de la temporada para Ferrari. En diálogo con Motorsport, fue contundente: “Creo que se trata de una f",
-      "language": "es",
-      "publishedAt": "2026-11-02T16:25:17.000Z",
-      "addedAt": "2026-11-02T23:13:39.185Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc2000-yankelevich-sorprende-en-el-cierre-de-los-ensayos-oficiales-de-general-roca",
-      "title": "TC2000: Yankelevich sorprende en el cierre de los ensayos oficiales de General Roca",
-      "summary": "El novel piloto de Buenos Aires extendió el dominio de Toyota Gazoo Racing Argentina en la pista del Alto Valle de Río Negro, en donde se cumple la 10.ª ronda del certamen.",
+      "id": "campeones-com-ar-los-antecedentes-de-los-historicos-resultados-de-toyota-en-tc2000-y-vw-en-tn",
+      "title": "Los antecedentes de los históricos resultados de Toyota en TC2000 y de VW en TN",
+      "summary": "La marca japonesa copó el podio en General Roca con las Corolla Cross GR–S de Yankelevich, Rossi y Stang, mientras que la alemana ganó con Santero (Virtus) en Concordia y sumó su 4ª victoria consecutiva, con Damiani (Vento) completando el “1-2”.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc2000-yankelevich-sorprende-en-el-cierre-de-los-ensayos-oficiales-de-general-roca/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-TC2000-Yankelevich.jpg",
+      "url": "https://campeones.com.ar/los-antecedentes-de-los-historicos-resultados-de-toyota-en-tc2000-y-vw-en-tn/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Santero-Damiani-TN-2026-Podio-Toyota-Roca.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-31T17:14:34.000Z",
-      "addedAt": "2026-11-01T16:13:55.938Z",
+      "publishedAt": "2026-11-03T12:20:32.000Z",
+      "addedAt": "2026-11-03T19:26:57.906Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-aceleran-un-chevrolet-0-km-que-pernia-se-sube",
+      "title": "Aceleran un Chevrolet \"0 km\": ¿Qué Pernía se sube?",
+      "summary": "El Ambrogio Racing trabaja en el armado de una nueva unidad para sumar a las filas del MG-C Pergamino a partir de la siguiente temporada de TN Clase 3.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/aceleran-un-chevrolet-0-km-que-pernia-se-sube/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261008-TN-Pernia.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-03T10:34:09.000Z",
+      "addedAt": "2026-11-03T11:50:28.265Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-spataro-su-gran-rendimiento-en-el-tc-y-la-opinion-calificada-sobre-el-campeonato",
+      "title": "Spataro, su gran rendimiento en el TC y la opinión calificada sobre el campeonato",
+      "summary": "A pesar de terminar la carrera de Rosario \"con una bronca terrible\" se destaca la temporada de Emiliano Spataro en el Turismo Carretera.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/spataro-su-gran-rendimiento-en-el-tc-y-la-opinion-calificada-sobre-el-campeonato/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Emiliano-Spataro-TC-Rosario-2026-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-03T15:53:03.000Z",
+      "addedAt": "2026-11-03T19:26:58.234Z",
+      "category": "general",
+      "tag": "Carrera"
     },
     {
       "id": "campeones-com-ar-otro-cambio-de-motorista-en-el-turismo-carretera",
@@ -250,6 +250,21 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-tc2000-yankelevich-sorprende-en-el-cierre-de-los-ensayos-oficiales-de-general-roca",
+      "title": "TC2000: Yankelevich sorprende en el cierre de los ensayos oficiales de General Roca",
+      "summary": "El novel piloto de Buenos Aires extendió el dominio de Toyota Gazoo Racing Argentina en la pista del Alto Valle de Río Negro, en donde se cumple la 10.ª ronda del certamen.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc2000-yankelevich-sorprende-en-el-cierre-de-los-ensayos-oficiales-de-general-roca/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-TC2000-Yankelevich.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-31T17:14:34.000Z",
+      "addedAt": "2026-11-01T16:13:55.938Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-actividad-argentina-a-tres-frentes-en-italia",
       "title": "Actividad argentina a tres frentes en Italia | Campeones",
       "summary": "Joaquín Pagola y Joaquín Rubino están presentes en la Fórmula 4 Italiana, Lautaro de la Iglesia en el GT Italiano y Julián Martínez en la Porsche Cup Italia.",
@@ -295,17 +310,32 @@
       "tag": "Argentino"
     },
     {
-      "id": "www-tycsports-com-automovilismo-quien-es-ryo-hirakawa-el-sorpresivo-reemplazante-de-esteban-ocon-en-haas-id769627-html",
-      "title": "F1: Quién es Ryō Hirakawa, el sorpresivo reemplazante de Esteban Ocon en Haas",
-      "summary": "El japonés, de 32 años, hará su estreno en el GP de México de la F1, después de varios años como piloto de reserva en McLaren y Alpine.",
+      "id": "www-tycsports-com-automovilismo-inesperada-decision-kimi-antonelli-mercedes-f1-id770003-html",
+      "title": "La inesperada decisión de Kimi Antonelli tras consagrarse campeón de la Fórmula 1",
+      "summary": "El italiano confirmó que no utilizará el 1 la próxima temporada, número que está reservado exclusivamente para el ganador vigente de la Máxima, y continuará llevando el 12.",
       "source": "TyC Sports",
       "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/quien-es-ryo-hirakawa-el-sorpresivo-reemplazante-de-esteban-ocon-en-haas-id769627.html",
-      "image": "https://media.tycsports.com/files/2026/10/31/1001500/ryo-hirakawa_1440x810.webp",
-      "body": "El japonés, de 32 años, hará su estreno en el GP de México de la F1, después de varios años como piloto de reserva en McLaren y Alpine.\n\nRy? Hirakawa + Seguinos en Haas sacudió el fin de semana del Gran Premio de México: anunció que Ryō Hirakawa reemplazará a Esteban Ocon en la última práctica libre, la clasificación y la carrera del domingo . El equipo aclaró que el francés no está enfermo, pero no dio más explicaciones. Así, el japonés de 32 años, ganador de las 24 Horas de Le Mans y bicampeón del Mundial de Resistencia con Toyota, hará su esperado debut en una carrera de Fórmula 1.\n\nEl comunicado de Haas fue breve: Hirakawa ocupará el lugar de Ocon “durante el resto del fin de semana del Gran Premio de la Ciudad de México”. El equipo descartó una enfermedad y cerró con una frase que alimentó las dudas: “No se harán más declaraciones en este momento”. Tampoco confirmó quién manejará el auto en la próxima fecha, en Brasil. El viernes, Hirakawa había manejado el Haas en la primera práctica libre, donde terminó 15°, para cumplir con la regla que obliga a los equipos a darle sesiones a pilotos novatos. Ocon volvió al auto en la segunda práctica y terminó 13°, delante de su compañero Oliver Bearman, aunque tuvo un tenso intercambio por radio con su ingeniera, Laura Mueller, por la elección de neumáticos . Al día siguiente llegó el anuncio.\n\nEl francés ya sabía que no iba a seguir en Haas: a fines de septiembre se anunció que dejará el equipo al final de 2026. Según The Race y Racer, el elegido para reemplazarlo en 2027 es Rafael Camara, joven del programa de Ferrari, que le ganó la pulseada a Hirakawa entre otros candidatos. No es la primera vez que Ocon pierde su butaca antes de terminar la temporada: en 2024, Alpine lo reemplazó por Jack Doohan para la última carrera del",
+      "url": "https://www.tycsports.com/automovilismo/inesperada-decision-kimi-antonelli-mercedes-f1-id770003.html",
+      "image": "https://media.tycsports.com/files/2026/11/02/1002195/kimi_1440x810.webp?v=1",
+      "body": "El italiano confirmó que no utilizará el 1 la próxima temporada, número que está reservado exclusivamente para el ganador vigente de la Máxima, y continuará llevando el 12.\n\nKimi Antonelli se convirtió en el campeón más joven de la F1 con apenas 20 años + Seguinos en Tras obtener su primer título en la Fórmula 1 el último domingo en el Gran Premio de México , Kimi Antonelli reveló que no utilizará el 1 , número que está reservado exclusivamente para el campeón vigente de la Máxima, y seguirá usando el número 12 en su monoplaza la próxima temporada.\n\n\"Me quedaré con el número 12 porque, obviamente, es un número muy especial para mí\" , reveló el italiano en diálogo con Motorsport luego de convertirse en el campeón más joven de la categoría con apenas 20 años.\n\nHay que remarcar que, desde su desembarco en la F1 en 2025, Kimi decidió llevar el 12 en homenaje a su ídolo de la infancia, Ayrton Senna. De hecho, el oriundo de Bolonia se convirtió en el primer piloto en asegurar el título usando ese número desde que el brasileño lo había hecho en 1988.\n\n\"También es una forma de mantener los pies sobre la tierra, de seguir siendo humilde. Siento que mantener el número 12 me permite tener un nuevo punto desde el cual empezar y construir todo de nuevo e intentar mejorar más\", expresó el corredor de Mercedes, que también llevó ese número durante su estadía en la Fórmula 4.",
       "language": "es",
-      "publishedAt": "2026-10-31T18:27:20.000Z",
-      "addedAt": "2026-10-31T19:54:11.959Z",
+      "publishedAt": "2026-11-02T18:20:47.000Z",
+      "addedAt": "2026-11-02T23:13:38.916Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-enojo-en-ferrari-por-el-duelo-entre-hamilton-y-leclerc-en-el-gp-de-mexico-una-falta-de-r",
+      "title": "Enojo en Ferrari por el duelo entre Hamilton y Leclerc en el GP de México: \"Una falta de respeto a la marca\"",
+      "summary": "Fred Vasseur, jefe de equipo del Cavallino Rampante, criticó a sus dos pilotos por la pelea que los dejó sin chances de ganar en el Autódromo Hermanos Rodríguez.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/enojo-en-ferrari-por-el-duelo-entre-hamilton-y-leclerc-en-el-gp-de-mexico-una-falta-de-respeto-a-la-marca-id769981.html",
+      "image": "https://media.tycsports.com/files/2026/11/02/1002162/vasseur-apunto-contra-leclerc-y-hamilton_1440x810.webp",
+      "body": "Fred Vasseur, jefe de equipo del Cavallino Rampante, criticó a sus dos pilotos por la pelea que los dejó sin chances de ganar en el Autódromo Hermanos Rodríguez.\n\nVasseur apuntó contra Leclerc y Hamilton (Getty Images) + Seguinos en Fred Vasseur, jefe de equipo de Ferrari, cuestionó a Charles Leclerc y Lewis Hamilton después del Gran Premio de México. El duelo entre ambos tras la largada le costó al Cavallino Rampante una victoria y le dio el triunfo a Max Verstappen, que llegó a su victoria número 74 en la Fórmula 1.\n\nTodo empezó cuando Leclerc atacó a Hamilton y el siete veces campeón del mundo defendió su posición . Ferrari había pasado la primera curva en los dos primeros puestos, pero terminó con Hamilton segundo y Leclerc cuarto. Leclerc recibió una sanción de cinco segundos por salirse de pista y recortar la curva 5 mientras peleaba el liderazgo con su compañero. Había conseguido una ventaja de cinco segundos sobre Verstappen antes de su primera parada, pero estuvo 6,3 segundos más en boxes y cedió la punta.\n\nVasseur consideró que esta situación no fue de la mano con el rendimiento del equipo durante el fin de semana ni con la actitud que debían tener los pilotos: “No es el resultado que esperábamos, sobre todo cuando estábamos primero y segundo tras la primera curva” , afirmó en diálogo con Canal+. Y agregó: “ En Ciudad de México no recuerdo un adelantamiento que valiera la victoria y por tanto me cuesta aceptar el hecho de que hayamos terminado el GP en segunda y cuarta posición”.\n\nEl francés sostuvo que el auto había dado “un verdadero paso adelante en términos de prestaciones” , pero lamentó que esa mejora no haya sido suficiente para lograr el tercer triunfo de la temporada para Ferrari. En diálogo con Motorsport, fue contundente: “Creo que se trata de una f",
+      "language": "es",
+      "publishedAt": "2026-11-02T16:25:17.000Z",
+      "addedAt": "2026-11-02T23:13:39.185Z",
       "category": "general",
       "tag": "F1"
     },
@@ -336,6 +366,21 @@
       "language": "es",
       "publishedAt": "2026-10-31T21:56:58.000Z",
       "addedAt": "2026-10-31T23:18:12.115Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-quien-es-ryo-hirakawa-el-sorpresivo-reemplazante-de-esteban-ocon-en-haas-id769627-html",
+      "title": "F1: Quién es Ryō Hirakawa, el sorpresivo reemplazante de Esteban Ocon en Haas",
+      "summary": "El japonés, de 32 años, hará su estreno en el GP de México de la F1, después de varios años como piloto de reserva en McLaren y Alpine.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/quien-es-ryo-hirakawa-el-sorpresivo-reemplazante-de-esteban-ocon-en-haas-id769627.html",
+      "image": "https://media.tycsports.com/files/2026/10/31/1001500/ryo-hirakawa_1440x810.webp",
+      "body": "El japonés, de 32 años, hará su estreno en el GP de México de la F1, después de varios años como piloto de reserva en McLaren y Alpine.\n\nRy? Hirakawa + Seguinos en Haas sacudió el fin de semana del Gran Premio de México: anunció que Ryō Hirakawa reemplazará a Esteban Ocon en la última práctica libre, la clasificación y la carrera del domingo . El equipo aclaró que el francés no está enfermo, pero no dio más explicaciones. Así, el japonés de 32 años, ganador de las 24 Horas de Le Mans y bicampeón del Mundial de Resistencia con Toyota, hará su esperado debut en una carrera de Fórmula 1.\n\nEl comunicado de Haas fue breve: Hirakawa ocupará el lugar de Ocon “durante el resto del fin de semana del Gran Premio de la Ciudad de México”. El equipo descartó una enfermedad y cerró con una frase que alimentó las dudas: “No se harán más declaraciones en este momento”. Tampoco confirmó quién manejará el auto en la próxima fecha, en Brasil. El viernes, Hirakawa había manejado el Haas en la primera práctica libre, donde terminó 15°, para cumplir con la regla que obliga a los equipos a darle sesiones a pilotos novatos. Ocon volvió al auto en la segunda práctica y terminó 13°, delante de su compañero Oliver Bearman, aunque tuvo un tenso intercambio por radio con su ingeniera, Laura Mueller, por la elección de neumáticos . Al día siguiente llegó el anuncio.\n\nEl francés ya sabía que no iba a seguir en Haas: a fines de septiembre se anunció que dejará el equipo al final de 2026. Según The Race y Racer, el elegido para reemplazarlo en 2027 es Rafael Camara, joven del programa de Ferrari, que le ganó la pulseada a Hirakawa entre otros candidatos. No es la primera vez que Ocon pierde su butaca antes de terminar la temporada: en 2024, Alpine lo reemplazó por Jack Doohan para la última carrera del",
+      "language": "es",
+      "publishedAt": "2026-10-31T18:27:20.000Z",
+      "addedAt": "2026-10-31T19:54:11.959Z",
       "category": "general",
       "tag": "F1"
     },
@@ -396,36 +441,6 @@
       "language": "es",
       "publishedAt": "2026-10-31T19:46:05.000Z",
       "addedAt": "2026-10-31T19:54:14.117Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-la-clasificacion-de-tc2000-en-general-roca-la-encabezo-franco-vivian",
-      "title": "La clasificación de TC2000 en General Roca la encabezó Franco Vivian",
-      "summary": "Por décima vez en su campaña, el piloto del barrio porteño de Colegiales se quedó con la \"pole\", superando a los nóveles Stang y Carabajal.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/la-clasificacion-de-tc2000-en-general-roca-la-encabezo-franco-vivian/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-TC2000-Vivian.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-31T19:26:45.000Z",
-      "addedAt": "2026-10-31T19:54:14.119Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
-    {
-      "id": "campeones-com-ar-tn-en-concordia-santero-domino-el-ultimo-ensayo-de-la-clase-3",
-      "title": "TN en Concordia: Santero dominó el último ensayo de la Clase 3",
-      "summary": "El piloto del Ambrogio Racing, que está 2º en el campeonato, marcó el rumbo con su VW Virtus en el segundo entrenamiento de la 11ª y anteúltima fecha, en el que Agustín Canapino (Chevrolet Cruze), el líder de la tabla anual, quedó 3º a 0s352.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tn-en-concordia-santero-domino-el-ultimo-ensayo-de-la-clase-3/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TN-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-31T16:09:59.000Z",
-      "addedAt": "2026-10-31T19:54:16.383Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -505,19 +520,34 @@
       "tag": "Carrera"
     },
     {
-      "id": "campeones-com-ar-formula-1-un-cambio-de-ultimo-momento-en-haas",
-      "title": "Fórmula 1: Un cambio de último momento en Haas",
-      "summary": "La escuadra informó que el japonés Ryo Hirakawa reemplazará a Esteban Ocon a partir de este sábado en el Gran Premio Ciudad de México.",
+      "id": "campeones-com-ar-la-clasificacion-de-tc2000-en-general-roca-la-encabezo-franco-vivian",
+      "title": "La clasificación de TC2000 en General Roca la encabezó Franco Vivian",
+      "summary": "Por décima vez en su campaña, el piloto del barrio porteño de Colegiales se quedó con la \"pole\", superando a los nóveles Stang y Carabajal.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/formula-1-un-cambio-de-ultimo-momento-en-haas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-F1-Hirakawa-Haas.jpg",
+      "url": "https://campeones.com.ar/la-clasificacion-de-tc2000-en-general-roca-la-encabezo-franco-vivian/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-TC2000-Vivian.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-31T15:33:29.000Z",
-      "addedAt": "2026-10-31T16:01:49.760Z",
-      "category": "general",
-      "tag": "F1"
+      "publishedAt": "2026-10-31T19:26:45.000Z",
+      "addedAt": "2026-10-31T19:54:14.119Z",
+      "category": "argentino",
+      "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-tn-en-concordia-santero-domino-el-ultimo-ensayo-de-la-clase-3",
+      "title": "TN en Concordia: Santero dominó el último ensayo de la Clase 3",
+      "summary": "El piloto del Ambrogio Racing, que está 2º en el campeonato, marcó el rumbo con su VW Virtus en el segundo entrenamiento de la 11ª y anteúltima fecha, en el que Agustín Canapino (Chevrolet Cruze), el líder de la tabla anual, quedó 3º a 0s352.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tn-en-concordia-santero-domino-el-ultimo-ensayo-de-la-clase-3/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TN-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-31T16:09:59.000Z",
+      "addedAt": "2026-10-31T19:54:16.383Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-canapino-con-nuevo-equipo-en-tc-pick-up",
@@ -550,21 +580,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-julian-santero-ante-una-posibilidad-inedita-en-la-historia-del-tc",
-      "title": "Julián Santero, ante una posibilidad inédita en la historia del TC",
-      "summary": "El piloto de BMW, líder virtual de la Copa de Oro, necesita sumar sólo 4 puntos en Río Cuarto para clasificar al “play-off”, y podría llegar al Coronación con grandes chances de convertirse en el primer campeón de los “3 de Último Minuto” del Turismo Carretera.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/julian-santero-ante-una-posibilidad-inedita-en-la-historia-del-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TC-2026-1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-27T12:27:09.000Z",
-      "addedAt": "2026-10-27T14:45:22.309Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-los-pilotos-de-motogp-que-tienen-una-coartada-para-no-ir-a-qatar",
       "title": "Los pilotos de MotoGP que tienen una coartada para no ir a Qatar",
       "summary": "Los organizadores advierten sobre sanciones, los pilotos no quieren ir si no hay garantías y Yamaha decidió bajarse del viaje a Losail.",
@@ -580,34 +595,19 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-la-formula-1-esta-enferma-de-reglas",
-      "title": "¿La Fórmula 1 está \"enferma de reglas\"?",
-      "summary": "En diálogo con \"Fórmula 1\" (lunes a las 17 hs. con la conducción de \"Lonchi\" Legnani), Fernando Tornello analizó las diversas reglamentaciones que condicionan las carreras de la \"Máxima\".",
+      "id": "campeones-com-ar-formula-1-un-cambio-de-ultimo-momento-en-haas",
+      "title": "Fórmula 1: Un cambio de último momento en Haas",
+      "summary": "La escuadra informó que el japonés Ryo Hirakawa reemplazará a Esteban Ocon a partir de este sábado en el Gran Premio Ciudad de México.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/la-formula-1-esta-enferma-de-reglas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-AUSTIN-2026.jpg",
+      "url": "https://campeones.com.ar/formula-1-un-cambio-de-ultimo-momento-en-haas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-F1-Hirakawa-Haas.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-27T15:59:51.000Z",
-      "addedAt": "2026-10-27T19:41:09.468Z",
+      "publishedAt": "2026-10-31T15:33:29.000Z",
+      "addedAt": "2026-10-31T16:01:49.760Z",
       "category": "general",
-      "tag": "Carrera"
-    },
-    {
-      "id": "campeones-com-ar-turismo-carretera-2000-hacia-rafaela-con-confianza",
-      "title": "Turismo Carretera 2000: Hacia Rafaela con confianza",
-      "summary": "Ariel Espósito hizo un balance del desempeño del MUMU Racing en la última carrera y contó cómo se preparan para Rafaela.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/turismo-carretera-2000-hacia-rafaela-con-confianza/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Esposito-Mumu-Racing-Turismo-Carretera-2000.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-27T13:36:18.000Z",
-      "addedAt": "2026-10-27T23:14:09.196Z",
-      "category": "general",
-      "tag": "Carrera"
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-esteban-ocon-se-manifesto-tras-su-abrupta-salida-de-haas-f1-team",
@@ -745,36 +745,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-rossi-mantuvo-la-vanguardia-en-el-primer-entrenamiento-roquense-de-tc2000",
-      "title": "Rossi mantuvo la vanguardia en el primer entrenamiento roquense de TC2000",
-      "summary": "Como en el \"Shakedown\", el piloto de Del Viso (Buenos Aires) marcó el mejor tiempo en la práctica inicial del autódromo de General Roca.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/rossi-mantuvo-la-vanguardia-en-el-primer-entrenamiento-roquense-de-tc2000/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-TC2000-Rossi-TGRA.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-31T14:42:51.000Z",
-      "addedAt": "2026-10-31T16:01:49.757Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc2000-en-general-roca-rossi-fue-el-mejor-del-shakedown",
-      "title": "TC2000 en General Roca: Rossi fue el mejor del \"Shakedown\"",
-      "summary": "El campeón y actual líder del certamen lideró el primer ensayo en la pista de AVGR, en donde se disputa la décima fecha del calendario.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc2000-en-general-roca-rossi-fue-el-mejor-del-shakedown/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-TC2000-Rossi.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-31T12:25:51.000Z",
-      "addedAt": "2026-10-31T16:01:50.186Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-lando-norris-f1-baches-dolores-circuitos-pastillas-id768330-html",
       "title": "El piloto de F1 que reveló qué pastillas toma por los dolores que le provocan los baches de los circuitos",
       "summary": "El británico expuso las consecuencias físicas que provocan las irregularidades del asfalto y respaldó las críticas de Max Verstappen al trazado de Austin.",
@@ -801,6 +771,36 @@
       "language": "es",
       "publishedAt": "2026-10-23T11:05:45.000Z",
       "addedAt": "2026-10-23T12:10:31.387Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-rossi-mantuvo-la-vanguardia-en-el-primer-entrenamiento-roquense-de-tc2000",
+      "title": "Rossi mantuvo la vanguardia en el primer entrenamiento roquense de TC2000",
+      "summary": "Como en el \"Shakedown\", el piloto de Del Viso (Buenos Aires) marcó el mejor tiempo en la práctica inicial del autódromo de General Roca.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/rossi-mantuvo-la-vanguardia-en-el-primer-entrenamiento-roquense-de-tc2000/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-TC2000-Rossi-TGRA.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-31T14:42:51.000Z",
+      "addedAt": "2026-10-31T16:01:49.757Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc2000-en-general-roca-rossi-fue-el-mejor-del-shakedown",
+      "title": "TC2000 en General Roca: Rossi fue el mejor del \"Shakedown\"",
+      "summary": "El campeón y actual líder del certamen lideró el primer ensayo en la pista de AVGR, en donde se disputa la décima fecha del calendario.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc2000-en-general-roca-rossi-fue-el-mejor-del-shakedown/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-TC2000-Rossi.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-31T12:25:51.000Z",
+      "addedAt": "2026-10-31T16:01:50.186Z",
       "category": "general",
       "tag": "F1"
     },
@@ -880,21 +880,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-marcelo-agrelo-anuncio-no-completara-la-temporada-de-tc",
-      "title": "Agrelo anunció que no completará la temporada de TC",
-      "summary": "El piloto chubutense se desvinculó de Trotta Racing y replanteará su futuro en la categoría, de cara a 2027.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/marcelo-agrelo-anuncio-no-completara-la-temporada-de-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/04/TC-Trotta-Agrelo.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-27T14:47:26.000Z",
-      "addedAt": "2026-10-27T19:41:09.846Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-gabriel-bortoleto-formula-1-gp-de-estados-unidos-sancion-80-puestos-id768534-html",
       "title": "La sanción récord de 80 puestos que sufrió un piloto de Fórmula 1 en el GP de Estados Unidos",
       "summary": "El brasileño sufrió un castigo histórico por múltiples modificaciones mecánicas en su monoplaza y quedó relegado al fondo de la grilla en Austin.",
@@ -923,6 +908,21 @@
       "addedAt": "2026-10-27T19:41:09.465Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-julian-santero-ante-una-posibilidad-inedita-en-la-historia-del-tc",
+      "title": "Julián Santero, ante una posibilidad inédita en la historia del TC",
+      "summary": "El piloto de BMW, líder virtual de la Copa de Oro, necesita sumar sólo 4 puntos en Río Cuarto para clasificar al “play-off”, y podría llegar al Coronación con grandes chances de convertirse en el primer campeón de los “3 de Último Minuto” del Turismo Carretera.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/julian-santero-ante-una-posibilidad-inedita-en-la-historia-del-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Santero-TC-2026-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-27T12:27:09.000Z",
+      "addedAt": "2026-10-27T14:45:22.309Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-santero-la-exagerada-maniobra-de-fritzler-y-no-opino-mas-de-werner",
@@ -1225,6 +1225,36 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-la-formula-1-esta-enferma-de-reglas",
+      "title": "¿La Fórmula 1 está \"enferma de reglas\"?",
+      "summary": "En diálogo con \"Fórmula 1\" (lunes a las 17 hs. con la conducción de \"Lonchi\" Legnani), Fernando Tornello analizó las diversas reglamentaciones que condicionan las carreras de la \"Máxima\".",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/la-formula-1-esta-enferma-de-reglas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/F1-AUSTIN-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-27T15:59:51.000Z",
+      "addedAt": "2026-10-27T19:41:09.468Z",
+      "category": "general",
+      "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-turismo-carretera-2000-hacia-rafaela-con-confianza",
+      "title": "Turismo Carretera 2000: Hacia Rafaela con confianza",
+      "summary": "Ariel Espósito hizo un balance del desempeño del MUMU Racing en la última carrera y contó cómo se preparan para Rafaela.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/turismo-carretera-2000-hacia-rafaela-con-confianza/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Esposito-Mumu-Racing-Turismo-Carretera-2000.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-27T13:36:18.000Z",
+      "addedAt": "2026-10-27T23:14:09.196Z",
+      "category": "general",
+      "tag": "Carrera"
+    },
+    {
       "id": "campeones-com-ar-el-mal-tiempo-impidio-que-motogp-corriera-su-ultima-prueba-en-phillip-island",
       "title": "El mal tiempo impidió que MotoGP corriera su última prueba en Phillip Island",
       "summary": "La pista que albergó el Gran Premio de Australia desde 1989 no tuvo su esperada despedida del campeonato mundial al quedar limitada la visibilidad y restringido el vuelo del helicóptero médico.",
@@ -1491,6 +1521,21 @@
       "language": "es",
       "publishedAt": "2026-10-15T19:55:12.000Z",
       "addedAt": "2026-10-22T23:15:46.223Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-marcelo-agrelo-anuncio-no-completara-la-temporada-de-tc",
+      "title": "Agrelo anunció que no completará la temporada de TC",
+      "summary": "El piloto chubutense se desvinculó de Trotta Racing y replanteará su futuro en la categoría, de cara a 2027.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/marcelo-agrelo-anuncio-no-completara-la-temporada-de-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/04/TC-Trotta-Agrelo.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-27T14:47:26.000Z",
+      "addedAt": "2026-10-27T19:41:09.846Z",
       "category": "general",
       "tag": "F1"
     },
@@ -2053,23 +2098,8 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-03T11:50:33.236Z",
+      "createdAt": "2026-11-03T19:27:05.123Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-es-frustrante-no-haber-conseguido-nada-briatore-se-expreso-tras-las-penalizaciones-a-col",
-          "title": "\"Es frustrante\": Briatore se expresó tras las penalizaciones a Colapinto y Gasly",
-          "summary": "El asesor ejecutivo de Alpine habló luego del Gran Premio de México en la Fórmula 1, donde fueron sancionados ambos pilotos.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/es-frustrante-no-haber-conseguido-nada-briatore-se-expreso-tras-las-penalizaciones-a-colapinto-y-gasly-id769858.html",
-          "image": "https://media.tycsports.com/files/2026/11/02/1002129/flavio-briatore-franco-colapinto_1440x810.webp",
-          "body": "El asesor ejecutivo de Alpine habló luego del Gran Premio de México en la Fórmula 1, donde fueron sancionados ambos pilotos.\n\nFlavio Briatore junto a Franco Colapinto. (Kym Illman/Getty Images) + Seguinos en La ilusión de Alpine por volver a sumar en la Fórmula 1 se desvaneció después del Gran Premio de México. Flavio Briatore respaldó a Franco Colapinto y Pierre Gasly, quienes habían terminado octavo y décimo, respectivamente, pero perdieron sus posiciones por sanciones de la FIA.\n\nEl asesor ejecutivo de la escudería francesa reconoció su frustración por el desenlace: \" Estoy contento con el rendimiento y el ritmo que mostramos en la carrera en comparación con la clasificación, pero no tanto con el resultado final. Tras las penalizaciones posteriores a la carrera, nos vamos de Ciudad de México sin puntos, lo cual es una lástima después de que ambos coches terminaran en los puntos\".\n\nEl encuentro entre Briatore, Colapinto y Gasly antes del GP de México Más allá de la decepción, el italiano destacó especialmente la recuperación del piloto argentino: \"Franco hizo una carrera muy buena y consistente, algo que necesitaba después de una racha de mala suerte en las últimas. Pierre también lo hizo bien y tuvo algunos problemas de potencia en la salida, pero hizo un buen trabajo recuperándose. Por lo tanto, es frustrante no haber conseguido nada en esta carrera\".\n\nVer esta publicaciÃ³n en Instagram Una publicaciÃ³n compartida por Flavio Briatore (@briatoreflavio)",
-          "language": "es",
-          "publishedAt": "2026-11-02T13:54:42.000Z",
-          "addedAt": "2026-11-02T15:36:49.682Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
         {
           "id": "www-tycsports-com-automovilismo-como-quedo-colapinto-en-el-campeonato-de-pilotos-de-la-f1-tras-subir-un-puesto-en-mexico",
           "title": "Cómo quedó Colapinto en el Campeonato de Pilotos de la F1 tras la sanción en México",
@@ -2097,6 +2127,21 @@
           "language": "es",
           "publishedAt": "2026-10-31T23:35:38.000Z",
           "addedAt": "2026-11-01T02:23:50.209Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-es-frustrante-no-haber-conseguido-nada-briatore-se-expreso-tras-las-penalizaciones-a-col",
+          "title": "\"Es frustrante\": Briatore se expresó tras las penalizaciones a Colapinto y Gasly",
+          "summary": "El asesor ejecutivo de Alpine habló luego del Gran Premio de México en la Fórmula 1, donde fueron sancionados ambos pilotos.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/es-frustrante-no-haber-conseguido-nada-briatore-se-expreso-tras-las-penalizaciones-a-colapinto-y-gasly-id769858.html",
+          "image": "https://media.tycsports.com/files/2026/11/02/1002129/flavio-briatore-franco-colapinto_1440x810.webp",
+          "body": "El asesor ejecutivo de Alpine habló luego del Gran Premio de México en la Fórmula 1, donde fueron sancionados ambos pilotos.\n\nFlavio Briatore junto a Franco Colapinto. (Kym Illman/Getty Images) + Seguinos en La ilusión de Alpine por volver a sumar en la Fórmula 1 se desvaneció después del Gran Premio de México. Flavio Briatore respaldó a Franco Colapinto y Pierre Gasly, quienes habían terminado octavo y décimo, respectivamente, pero perdieron sus posiciones por sanciones de la FIA.\n\nEl asesor ejecutivo de la escudería francesa reconoció su frustración por el desenlace: \" Estoy contento con el rendimiento y el ritmo que mostramos en la carrera en comparación con la clasificación, pero no tanto con el resultado final. Tras las penalizaciones posteriores a la carrera, nos vamos de Ciudad de México sin puntos, lo cual es una lástima después de que ambos coches terminaran en los puntos\".\n\nEl encuentro entre Briatore, Colapinto y Gasly antes del GP de México Más allá de la decepción, el italiano destacó especialmente la recuperación del piloto argentino: \"Franco hizo una carrera muy buena y consistente, algo que necesitaba después de una racha de mala suerte en las últimas. Pierre también lo hizo bien y tuvo algunos problemas de potencia en la salida, pero hizo un buen trabajo recuperándose. Por lo tanto, es frustrante no haber conseguido nada en esta carrera\".\n\nVer esta publicaciÃ³n en Instagram Una publicaciÃ³n compartida por Flavio Briatore (@briatoreflavio)",
+          "language": "es",
+          "publishedAt": "2026-11-02T13:54:42.000Z",
+          "addedAt": "2026-11-02T15:36:49.682Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2176,21 +2221,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159-h",
-          "title": "Cómo le fue a Franco Colapinto en la FP3 del Gran Premio de México de Fórmula 1",
-          "summary": "El piloto argentino volverá a la pista el sábado para la Qualy y con la esperanza de meterse entre los 10 primeros.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159.html",
-          "image": "https://media.tycsports.com/files/2026/10/25/999538/franco-colapinto-en-el-gp-de-estados-unidos-photo-by-stefano-facchinalessio-morgesenurphoto-via-getty-images_1440x810.webp?v=1",
-          "body": "El piloto argentino volverá a la pista el sábado para la Qualy y con la esperanza de meterse entre los 10 primeros.\n\nFranco Colapinto en el GP de Estados Unidos (Photo by Stefano Facchin/Alessio Morgese/NurPhoto via Getty Images) + Seguinos en La temporada 2026 de la Fórmula 1, que tiene como líder a Kimi Antonelli de Mercedes, tendrá su 21º carrera del año en el Gran Premio de México y este viernes se desarrollarán las prácticas libres 1 y 2, y ya se llevó a cabo la PL3 en el primer turno del sábado, en el autódromo Hermanos Rodríguez. Conocé los detalles del rendimiento de Franco Colapinto .\n\nEn la primera práctica libre, en la que Colapinto no estuvo presente , Charles Leclerc encabezó la clasificación de la sesión con un tiempo de 1:18.128. El segundo lugar fue para Kimi Antonelli , quien registró 1:18.787 con Mercedes, mientras que Fred Vesti completó el podio con 1:18.861 al volante del monoplaza de George Russell. Ferrari fue la única escudería que contó con sus dos pilotos titulares en pista.\n\nEn Alpine, Gabriele Minì reemplazó a Colapinto, completó 20 vueltas y finalizó 14°, con un mejor tiempo de 1:19.946 . Por su parte, Pierre Gasly marcó 1:19.210, fue 0.736 segundos más rápido y terminó en la sexta posición.\n\nColapinto terminó 16° en la segunda práctica libre, con un mejor tiempo de 1:19.132, y tuvo su primer contacto con el circuito mexicano. Su compañero de equipo terminó octavo con un registro de 1:18.407.",
-          "language": "es",
-          "publishedAt": "2026-10-31T19:17:15.000Z",
-          "addedAt": "2026-10-29T13:44:51.131Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-en-mexico-antonelli-se-corono-campeon-mundial-de-f1-y-colapinto-fue-top10",
           "title": "En México, Antonelli se coronó campeón mundial de F1 y Colapinto fue penalizado tras ser Top10",
           "summary": "Con el Mercedes y a los 20 años, el italiano es el piloto más joven en obtener el cetro llegando en pista detrás del ganador Verstappen y su escolta Hamilton; en tanto el argentino había terminado octavo con el Alpine, pero por una infracción con banderas amarillas lo recargaron con 10 segundos y perdió los puntos de la fecha.",
@@ -2217,6 +2247,21 @@
           "language": "es",
           "publishedAt": "2026-11-02T09:57:54.000Z",
           "addedAt": "2026-11-02T15:36:50.914Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159-h",
+          "title": "Cómo le fue a Franco Colapinto en la FP3 del Gran Premio de México de Fórmula 1",
+          "summary": "El piloto argentino volverá a la pista el sábado para la Qualy y con la esperanza de meterse entre los 10 primeros.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159.html",
+          "image": "https://media.tycsports.com/files/2026/10/25/999538/franco-colapinto-en-el-gp-de-estados-unidos-photo-by-stefano-facchinalessio-morgesenurphoto-via-getty-images_1440x810.webp?v=1",
+          "body": "El piloto argentino volverá a la pista el sábado para la Qualy y con la esperanza de meterse entre los 10 primeros.\n\nFranco Colapinto en el GP de Estados Unidos (Photo by Stefano Facchin/Alessio Morgese/NurPhoto via Getty Images) + Seguinos en La temporada 2026 de la Fórmula 1, que tiene como líder a Kimi Antonelli de Mercedes, tendrá su 21º carrera del año en el Gran Premio de México y este viernes se desarrollarán las prácticas libres 1 y 2, y ya se llevó a cabo la PL3 en el primer turno del sábado, en el autódromo Hermanos Rodríguez. Conocé los detalles del rendimiento de Franco Colapinto .\n\nEn la primera práctica libre, en la que Colapinto no estuvo presente , Charles Leclerc encabezó la clasificación de la sesión con un tiempo de 1:18.128. El segundo lugar fue para Kimi Antonelli , quien registró 1:18.787 con Mercedes, mientras que Fred Vesti completó el podio con 1:18.861 al volante del monoplaza de George Russell. Ferrari fue la única escudería que contó con sus dos pilotos titulares en pista.\n\nEn Alpine, Gabriele Minì reemplazó a Colapinto, completó 20 vueltas y finalizó 14°, con un mejor tiempo de 1:19.946 . Por su parte, Pierre Gasly marcó 1:19.210, fue 0.736 segundos más rápido y terminó en la sexta posición.\n\nColapinto terminó 16° en la segunda práctica libre, con un mejor tiempo de 1:19.132, y tuvo su primer contacto con el circuito mexicano. Su compañero de equipo terminó octavo con un registro de 1:18.407.",
+          "language": "es",
+          "publishedAt": "2026-10-31T19:17:15.000Z",
+          "addedAt": "2026-10-29T13:44:51.131Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2329,8 +2374,23 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-11-03T11:50:33.236Z",
+      "createdAt": "2026-11-03T19:27:05.123Z",
       "items": [
+        {
+          "id": "campeones-com-ar-colapinto-llego-a-san-pablo-para-mantener-el-ritmo-de-mexico-ser-solidos-y-sumar",
+          "title": "Colapinto llegó a San Pablo para «mantener el ritmo de México, ser sólidos y sumar» | Campeones",
+          "summary": "Tras el frustrado resultado en el autódromo \"Hermanos Rodríguez\", el piloto argentino se prepara para continuar evolucionando y ser Top10 con el Alpine en Interlagos.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-llego-a-san-pablo-para-mantener-el-ritmo-de-mexico-ser-solidos-y-sumar/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261103-F1-Colapinto-e1793727360600.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-03T16:24:18.000Z",
+          "addedAt": "2026-11-03T19:26:57.354Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-optimista-tras-su-primera-sesion-de-practicas-en-mexico-hay-lugares-claro-para",
           "title": "Colapinto, optimista tras su primera sesión de prácticas en el GP de México: \"Hay lugares claro para mejorar\"",
@@ -2422,19 +2482,19 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-alpine-formula-1-gp-de-mexico-id768857-html",
-          "title": "Colapinto no estará en la FP1 de México y Alpine ya confirmó a su reemplazante",
-          "summary": "La escudería francesa le cederá el monoplaza del argentino a la joven promesa italiana durante el ensayo inicial del viernes, en cumplimiento de una exigencia reglamentaria.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-alpine-formula-1-gp-de-mexico-id768857.html",
-          "image": "https://media.tycsports.com/files/2026/10/20/997816/franco-colapinto_1440x810.webp",
-          "body": "La escudería francesa le cederá el monoplaza del argentino a la joven promesa italiana durante el ensayo inicial del viernes, en cumplimiento de una exigencia reglamentaria.\n\nFranco Colapinto, piloto de Alpine en la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en El piloto argentino Franco Colapinto deberá esperar este fin de semana para tener acción en el Gran Premio de México de la Fórmula 1 porque no estará presente en la primera práctica libre , según confirmó la escudería Alpine, ya que su reemplazante será el italaiano Gabriele Minì.\n\nLa joven promesa manejará el A526 durante el primer entrenamiento del viernes en el Autódromo Hermanos Rodríguez, en una decisión vinculada con el reglamento de la categoría. Ante esto, el bonaerense reaparecería recién en la FP2. El cambio, anunciado este martes por la escudería francesa, forma parte de las sesiones obligatorias que los equipos deben destinar a pilotos debutantes. De esta manera, el italiano tendrá su estreno oficial en un fin de semana de la máxima categoría.\n\nEl joven de 21 años integra la Academia Alpine desde 2023 y actualmente ocupa el cuarto puesto en el campeonato de Fórmula 2, donde acumula dos triunfos y otros siete podios. Aunque todavía no participó de una práctica libre de F1, ya tuvo contacto con estos vehículos mediante ensayos privados al volante del A525 de la temporada anterior.\n\nTras conocerse la noticia, Minì manifestó su entusiasmo por la posibilidad de dar otro paso en su carrera. \" Tengo muchas ganas de subirme al A526 y participar en mi primera práctica libre de Fórmula 1. Después de formar parte de la Academia Alpine durante varios años y progresar por las categorías formativas, competir en una sesión oficial de Fórmula 1 será un momento realmente especial para mí\" , aseguró en declaracion",
+          "id": "campeones-com-ar-un-nombre-fuerte-se-suma-al-tcr-south-america-en-rosario",
+          "title": "Un nombre fuerte se suma al TCR South America en Rosario | Campeones",
+          "summary": "Lucas Carabajal se suma a la divisional con un Peugeot 208 de la Scuderia URT, en lo que será el fin de la seguidilla de carreras por Argentina.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/un-nombre-fuerte-se-suma-al-tcr-south-america-en-rosario/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/tcr-sa.jpg",
+          "body": "",
           "language": "es",
-          "publishedAt": "2026-10-27T17:29:12.000Z",
-          "addedAt": "2026-10-27T19:41:07.175Z",
+          "publishedAt": "2026-11-03T18:04:50.000Z",
+          "addedAt": "2026-11-03T19:26:57.751Z",
           "category": "argentino",
-          "tag": "Franco"
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-briatore-elogio-la-carrera-de-colapinto-y-lamento-irse-sin-nada-de-mexico",
@@ -2585,27 +2645,12 @@
           "addedAt": "2026-10-25T01:26:40.513Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-",
-          "title": "Colapinto, entre la preocupación y la esperanza tras las prácticas libres en Austin: “Será muy difícil, pero...”",
-          "summary": "El piloto argentino, que culminó 17&ordm; y 15&ordm; en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-muy-dificil-pero--id768314.html",
-          "image": "https://media.tycsports.com/files/2026/10/23/998965/franco-colapinto_1440x810.webp?v=2",
-          "body": "El piloto argentino, que culminó 17º y 15º en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.\n\nColapinto, entre la preocupación y la esperanza luego de las prácticas libres en Austin (Getty Images: Kym Illman). + Seguinos en Este viernes, Franco Colapinto puso primera en el Gran Premio de Estados Unidos de la Fórmula 1 y lo hizo con las prácticas libres , en las cuales finalizó 17º y 15º respectivamente. Ahora, todavía a la espera de la FP3, y con una penalización de diez lugares para la grilla de salida de la carrera principal del próximo domingo , el piloto de Alpine analizó lo sucedido en la pista. Más allá de que se lo notó preocupado, también exhibió una mínima llamarada de esperanza con la mira puesta en potenciar el rendimiento.\n\nDespués de finalizar con las dos sesiones de la jornada, el pilarense dejó en evidencia su disconformidad con el funcionamiento del monoplaza . “Intentaremos enfocarnos en el balance para la carrera. Ojalá que eso nos ayude . Creo que estamos un poco obligados con la dureza del auto, uno muy rígido y cuesta mucho en una pista muy bacheada, así que va a ser difícil, pero intentaremos dar un salto para mañana (en referencia al sábado)” , expresó en primera instancia.\n\nMás adelante, reconoció que el A526 tiene margen de mejora , aunque la escudería deberá analizar múltiples datos para hacerla efectiva de cara a la clasificación que, con la mencionada sanción, no definirá demasiado . “Hay mucho por mejorar y por entender, o por lo menos bastante performance para encontrar en el auto por la cantidad de baches que hay. Creo que es una pista un poco atípica, aunque por otro lado tendremos que entender cómo mejorar para mañana” , añadió e",
-          "language": "es",
-          "publishedAt": "2026-10-24T00:50:22.000Z",
-          "addedAt": "2026-10-24T02:00:16.108Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-11-03T11:50:33.236Z",
+      "createdAt": "2026-11-03T19:27:05.123Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-fernando-alonso-bombazo-formula-1-gp-de-mexico-id769666-html",
@@ -2638,36 +2683,6 @@
           "tag": "Carrera"
         },
         {
-          "id": "www-tycsports-com-automovilismo-todas-las-sanciones-antes-de-la-qualy-del-gp-de-mexico-id769603-html",
-          "title": "Todas las sanciones antes de la Qualy del GP de México",
-          "summary": "La clasificación en el Autódromo Hermanos Rodríguez se disputará este sábado a las 18. Entre los veintidós pilotos de la parrilla, algunos buscarán un buen punto de partida para el domingo condicionados.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/todas-las-sanciones-antes-de-la-qualy-del-gp-de-mexico-id769603.html",
-          "image": "https://media.tycsports.com/files/2026/10/31/1001465/max-verstappen_1440x810.webp",
-          "body": "La clasificación en el Autódromo Hermanos Rodríguez se disputará este sábado a las 18. Entre los veintidós pilotos de la parrilla, algunos buscarán un buen punto de partida para el domingo condicionados.\n\nMax Verstappen, uno de los pilotos sancionados en la previa de la clasificación del GP de México. + Seguinos en El Gran Premio de México puede ser definitorio en la consagración de Andrea Kimi Antonelli como campeón de la Fórmula 1 . A horas de una nueva clasificación, los pilotos se preparan para competir e intentar retrasar el título del joven italiano. Entre la élite de veintidós, hay algunos que arrastran limitaciones en forma de sanciones. Conocé quiénes y cuáles son .\n\nLa segunda práctica libre en el Autódromo Hermanos Rodríguez regaló un momento tan tensionante como innecesario: sobre el toque entre los autos de Max Verstappen y Liam Lawson —uno tetracampeón del mundo, el otro más relegado; ambos, ex-compañeros en Red Bull—, tomó nota la FIA . Y ya decretó el castigo: una posición más atrás en la carrera y un punto menos en la Superlicencia .\n\nPor otro lado, el más afectado será Valtteri Bottas . El finlandés, que le cedió su auto al estadounidense Colton Herta durante la FP1, superó ampliamente el límite de cambios en cinco de los siete componentes de la unidad de potencia . Las 50 posiciones de penalización (10 por componente) suponen una sanción simbólica . La traducción es que, inevitablemente, saldrá desde el fondo de la parrilla el domingo.\n\nFernando Alonso no está teniendo una temporada fácil en Aston Martin, y su exceso de velocidad en los primeros libres se encuadra en esa lógica viciosa . El exceso del límite de velocidad de salida del pit-lane (80 km/h) por 0,2 km/h acarreó una multa económica de 100 euros que la escudería británica asumió sin inconve",
-          "language": "es",
-          "publishedAt": "2026-10-31T14:32:38.000Z",
-          "addedAt": "2026-10-31T16:01:48.513Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-era-una-sensacion-de-la-f1-pero-murio-tragicamente-durante-un-gran-premio-como-vaticino-",
-          "title": "Era una sensación de la F1, pero murió trágicamente durante un Gran Premio como vaticinó una vidente",
-          "summary": "Fran&ccedil;ois Cevert fue uno de los nombres más importantes de la Máxima en su época, brilló en Tyrell pero murió en 1973 en un accidente durante un entrenamiento.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/era-una-sensacion-de-la-f1-pero-murio-tragicamente-durante-un-gran-premio-como-vaticino-una-vidente--id768687.html",
-          "image": "https://media.tycsports.com/files/2026/10/26/999939/cevert_862x485.webp",
-          "body": "François Cevert fue uno de los nombres más importantes de la Máxima en su época, brilló en Tyrell pero murió en 1973 en un accidente durante un entrenamiento.\n\nMcCarthy/Express/Hulton Archive/Getty Images) + Seguinos en Un día, una mujer francesa que estaba casada visitó a una vidente, quien le dijo que conocería a un hombre de ojos azules en el mar, que se dedicaría al automovilismo, que el éxito se interpondría en la relación y que no llegaría a cumplir los 30 . Esa mujer era Anne \"Nanou\" Van Malderen, que en 1964 se topó con François Cevert , cuya vida estaría marcada por cada una de las cosas que anticipó la futuróloga.\n\nCevert fue uno de los grandes nombres de la Fórmula 1 en su época . El piloto francés deslumbraba por su velocidad, su estilo al volante y su personalidad, características que lo habían convertido en una de las figuras con mayor proyección de la categoría. Sin embargo, su prometedora trayectoria terminó de manera abrupta en 1973, durante un fin de semana que quedó grabado en la historia del automovilismo .\n\nNacido el 25 de febrero de 1944 en París, el corredor \"con los ojos más lindos de la F1\" llevaba el apellido materno porque su padre, Charles Goldenberg, era un judío que había escapado de Rusia en la Segunda Guerra Mundial. Cevert encontró su oportunidad en la máxima categoría de la mano de Tyrrell. Su llegada al equipo le permitió compartir estructura con Jackie Stewart, tricampeón mundial y una de las grandes referencias de aquella época . Con el respaldo del escocés, se consolidó como uno de los talentos más destacados de su generación.\n\nEl francés, que se volvió una figura de los paparazzi por su romance con Brigitte Bardot, consiguió su primera y única victoria en la Fórmula 1 en el Gran Premio de Estados Unidos de 1971, disputado en Watkin",
-          "language": "es",
-          "publishedAt": "2026-10-27T14:13:29.000Z",
-          "addedAt": "2026-10-27T14:45:19.524Z",
-          "category": "general",
-          "tag": "Estrategia"
-        },
-        {
           "id": "campeones-com-ar-crisis-en-motogp-organizadores-pilotos-y-equipos-discrepan-por-hacer-la-carrera-en-qatar",
           "title": "¿Crisis en MotoGP? Organizadores, pilotos y equipos discrepan por hacer la carrera en Qatar",
           "summary": "El equipo Yamaha anunció que no se presentará en Lusail y podría ser sancionado; los promotores qataríes \"ofrecen garantías\" y un \"plan de evacuación\".",
@@ -2681,6 +2696,21 @@
           "addedAt": "2026-11-01T20:39:53.068Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-todas-las-sanciones-antes-de-la-qualy-del-gp-de-mexico-id769603-html",
+          "title": "Todas las sanciones antes de la Qualy del GP de México",
+          "summary": "La clasificación en el Autódromo Hermanos Rodríguez se disputará este sábado a las 18. Entre los veintidós pilotos de la parrilla, algunos buscarán un buen punto de partida para el domingo condicionados.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/todas-las-sanciones-antes-de-la-qualy-del-gp-de-mexico-id769603.html",
+          "image": "https://media.tycsports.com/files/2026/10/31/1001465/max-verstappen_1440x810.webp",
+          "body": "La clasificación en el Autódromo Hermanos Rodríguez se disputará este sábado a las 18. Entre los veintidós pilotos de la parrilla, algunos buscarán un buen punto de partida para el domingo condicionados.\n\nMax Verstappen, uno de los pilotos sancionados en la previa de la clasificación del GP de México. + Seguinos en El Gran Premio de México puede ser definitorio en la consagración de Andrea Kimi Antonelli como campeón de la Fórmula 1 . A horas de una nueva clasificación, los pilotos se preparan para competir e intentar retrasar el título del joven italiano. Entre la élite de veintidós, hay algunos que arrastran limitaciones en forma de sanciones. Conocé quiénes y cuáles son .\n\nLa segunda práctica libre en el Autódromo Hermanos Rodríguez regaló un momento tan tensionante como innecesario: sobre el toque entre los autos de Max Verstappen y Liam Lawson —uno tetracampeón del mundo, el otro más relegado; ambos, ex-compañeros en Red Bull—, tomó nota la FIA . Y ya decretó el castigo: una posición más atrás en la carrera y un punto menos en la Superlicencia .\n\nPor otro lado, el más afectado será Valtteri Bottas . El finlandés, que le cedió su auto al estadounidense Colton Herta durante la FP1, superó ampliamente el límite de cambios en cinco de los siete componentes de la unidad de potencia . Las 50 posiciones de penalización (10 por componente) suponen una sanción simbólica . La traducción es que, inevitablemente, saldrá desde el fondo de la parrilla el domingo.\n\nFernando Alonso no está teniendo una temporada fácil en Aston Martin, y su exceso de velocidad en los primeros libres se encuadra en esa lógica viciosa . El exceso del límite de velocidad de salida del pit-lane (80 km/h) por 0,2 km/h acarreó una multa económica de 100 euros que la escudería británica asumió sin inconve",
+          "language": "es",
+          "publishedAt": "2026-10-31T14:32:38.000Z",
+          "addedAt": "2026-10-31T16:01:48.513Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id769464-html",
@@ -2756,6 +2786,21 @@
           "addedAt": "2026-10-30T15:50:03.698Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-era-una-sensacion-de-la-f1-pero-murio-tragicamente-durante-un-gran-premio-como-vaticino-",
+          "title": "Era una sensación de la F1, pero murió trágicamente durante un Gran Premio como vaticinó una vidente",
+          "summary": "Fran&ccedil;ois Cevert fue uno de los nombres más importantes de la Máxima en su época, brilló en Tyrell pero murió en 1973 en un accidente durante un entrenamiento.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/era-una-sensacion-de-la-f1-pero-murio-tragicamente-durante-un-gran-premio-como-vaticino-una-vidente--id768687.html",
+          "image": "https://media.tycsports.com/files/2026/10/26/999939/cevert_862x485.webp",
+          "body": "François Cevert fue uno de los nombres más importantes de la Máxima en su época, brilló en Tyrell pero murió en 1973 en un accidente durante un entrenamiento.\n\nMcCarthy/Express/Hulton Archive/Getty Images) + Seguinos en Un día, una mujer francesa que estaba casada visitó a una vidente, quien le dijo que conocería a un hombre de ojos azules en el mar, que se dedicaría al automovilismo, que el éxito se interpondría en la relación y que no llegaría a cumplir los 30 . Esa mujer era Anne \"Nanou\" Van Malderen, que en 1964 se topó con François Cevert , cuya vida estaría marcada por cada una de las cosas que anticipó la futuróloga.\n\nCevert fue uno de los grandes nombres de la Fórmula 1 en su época . El piloto francés deslumbraba por su velocidad, su estilo al volante y su personalidad, características que lo habían convertido en una de las figuras con mayor proyección de la categoría. Sin embargo, su prometedora trayectoria terminó de manera abrupta en 1973, durante un fin de semana que quedó grabado en la historia del automovilismo .\n\nNacido el 25 de febrero de 1944 en París, el corredor \"con los ojos más lindos de la F1\" llevaba el apellido materno porque su padre, Charles Goldenberg, era un judío que había escapado de Rusia en la Segunda Guerra Mundial. Cevert encontró su oportunidad en la máxima categoría de la mano de Tyrrell. Su llegada al equipo le permitió compartir estructura con Jackie Stewart, tricampeón mundial y una de las grandes referencias de aquella época . Con el respaldo del escocés, se consolidó como uno de los talentos más destacados de su generación.\n\nEl francés, que se volvió una figura de los paparazzi por su romance con Brigitte Bardot, consiguió su primera y única victoria en la Fórmula 1 en el Gran Premio de Estados Unidos de 1971, disputado en Watkin",
+          "language": "es",
+          "publishedAt": "2026-10-27T14:13:29.000Z",
+          "addedAt": "2026-10-27T14:45:19.524Z",
+          "category": "general",
+          "tag": "Estrategia"
         },
         {
           "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-mexico-id768545-html",
@@ -2881,7 +2926,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-11-03T11:50:33.236Z",
+      "createdAt": "2026-11-03T19:27:05.123Z",
       "items": [
         {
           "id": "campeones-com-ar-tc2000-horarios-para-una-nueva-fecha-en-general-roca",
@@ -2974,6 +3019,21 @@
           "tag": "F1"
         },
         {
+          "id": "www-tycsports-com-automovilismo-colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-",
+          "title": "Colapinto, entre la preocupación y la esperanza tras las prácticas libres en Austin: “Será muy difícil, pero...”",
+          "summary": "El piloto argentino, que culminó 17&ordm; y 15&ordm; en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-muy-dificil-pero--id768314.html",
+          "image": "https://media.tycsports.com/files/2026/10/23/998965/franco-colapinto_1440x810.webp?v=2",
+          "body": "El piloto argentino, que culminó 17º y 15º en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.\n\nColapinto, entre la preocupación y la esperanza luego de las prácticas libres en Austin (Getty Images: Kym Illman). + Seguinos en Este viernes, Franco Colapinto puso primera en el Gran Premio de Estados Unidos de la Fórmula 1 y lo hizo con las prácticas libres , en las cuales finalizó 17º y 15º respectivamente. Ahora, todavía a la espera de la FP3, y con una penalización de diez lugares para la grilla de salida de la carrera principal del próximo domingo , el piloto de Alpine analizó lo sucedido en la pista. Más allá de que se lo notó preocupado, también exhibió una mínima llamarada de esperanza con la mira puesta en potenciar el rendimiento.\n\nDespués de finalizar con las dos sesiones de la jornada, el pilarense dejó en evidencia su disconformidad con el funcionamiento del monoplaza . “Intentaremos enfocarnos en el balance para la carrera. Ojalá que eso nos ayude . Creo que estamos un poco obligados con la dureza del auto, uno muy rígido y cuesta mucho en una pista muy bacheada, así que va a ser difícil, pero intentaremos dar un salto para mañana (en referencia al sábado)” , expresó en primera instancia.\n\nMás adelante, reconoció que el A526 tiene margen de mejora , aunque la escudería deberá analizar múltiples datos para hacerla efectiva de cara a la clasificación que, con la mencionada sanción, no definirá demasiado . “Hay mucho por mejorar y por entender, o por lo menos bastante performance para encontrar en el auto por la cantidad de baches que hay. Creo que es una pista un poco atípica, aunque por otro lado tendremos que entender cómo mejorar para mañana” , añadió e",
+          "language": "es",
+          "publishedAt": "2026-10-24T00:50:22.000Z",
+          "addedAt": "2026-10-24T02:00:16.108Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-messi-balon-de-oro-id767832-html",
           "title": "Colapinto eligió a Messi como su candidato para el Balón de Oro: “Sería muy lindo que lo vuelva a ganar”",
           "summary": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.",
@@ -3045,21 +3105,6 @@
           "language": "es",
           "publishedAt": "2026-10-12T21:27:52.000Z",
           "addedAt": "2026-10-18T07:11:28.307Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-la-decision-de-alpine-que-afecta-a-colapinto-en-la-recta-final-de-la-f1-id768833-html",
-          "title": "La decisión de Alpine que afecta a Colapinto en la recta final de la F1",
-          "summary": "La escudería francesa no podrá hacer más actualizaciones en sus monoplazas por estar cerca del techo presupuestario, según reveló Pierre Gasly.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-decision-de-alpine-que-afecta-a-colapinto-en-la-recta-final-de-la-f1-id768833.html",
-          "image": "https://media.tycsports.com/files/2026/01/05/913226/asi-suena-el-nuevo-alpine-de-colapinto-el-a526-ya-esta-en-marcha_862x485.webp",
-          "body": "La escudería francesa no podrá hacer más actualizaciones en sus monoplazas por estar cerca del techo presupuestario, según reveló Pierre Gasly.\n\nAlpine no hará más actualizaciones de sus monoplazas + Seguinos en En Alpine decidieron que no harán nuevas actualizaciones a los monoplazas de la escudería por \"estar prácticamente en el límite del techo presupuestario\" , según reveló Pierre Gasly . Es decir, que el equipo alcanzó el límite de recursos disponible para la campaña y tendrá que sacarle el mejor rendimiento al paquete actual.\n\nEn diálogo con Motorsport, Gasly deslizó entre risas: “Si yo fuera el director financiero, pueden estar seguros de que llevaría todas las mejoras que pudiera hasta el final del año”.\n\nY sobre la situación interna de la escudería, reveló: \"Creo que estamos prácticamente en el límite de nuestro techo presupuestario. Desde el punto de vista estratégico, no tenemos nada en preparación. Este es el auto que tendremos hasta el final del año”.\n\nPor lo tanto, la decisión que tomó la escudería corresponde a la cercanía al techo presupuestario y a una medida estratégica.",
-          "language": "es",
-          "publishedAt": "2026-10-27T15:48:56.000Z",
-          "addedAt": "2026-10-27T19:41:07.219Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3157,7 +3202,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-11-03T11:50:33.236Z",
+      "createdAt": "2026-11-03T19:27:05.123Z",
       "items": [
         {
           "id": "campeones-com-ar-nos-enfocamos-en-la-carrera-ratifico-franco-colapinto-en-texas",
@@ -3175,21 +3220,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-el-prototipo-modificado-para-los-argentinos-en-la-baja-1000",
-          "title": "El prototipo modificado para los argentinos en la BAJA SCORE 1000",
-          "summary": "Alfredo Olmedo, Federico Villagra, Tomás Olmedo y Daniel López entran a los días previos a la carrera de off-road más loca del mundo.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-prototipo-modificado-para-los-argentinos-en-la-baja-1000/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/OLMEDO-VILLAGRA-OLMEDO-LOPEZ-v2.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-02T18:21:35.000Z",
-          "addedAt": "2026-11-02T23:13:40.638Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-colapinto-tras-su-gran-labor-en-mexico-fue-una-muy-buena-carrera-ejecute-todo-perfecto",
           "title": "Colapinto tras su gran labor en México: «Fue una muy buena carrera, ejecuté todo perfecto»",
           "summary": "El piloto de Alpine habló al concluir la carrera y detalló cómo desarrolló su estrategia; posteriormente fue sancionado con 10 segundos y se lo reclasificó en el 15.° lugar.",
@@ -3199,7 +3229,7 @@
           "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261101-F1-Franco-Colapinto.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-11-02T00:52:58.000Z",
+          "publishedAt": "2026-11-01T22:52:58.000Z",
           "addedAt": "2026-11-02T05:51:32.698Z",
           "category": "argentino",
           "tag": "Franco"
@@ -3216,21 +3246,6 @@
           "language": "es",
           "publishedAt": "2026-10-27T21:58:50.000Z",
           "addedAt": "2026-10-27T23:14:08.565Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-franco-colapinto-no-estara-girando-en-la-primera-practica-de-f1-del-gp-de-mexico",
-          "title": "Franco Colapinto no estará girando en la primera práctica de F1 del GP de México",
-          "summary": "El auto del piloto argentino será conducido por el italiano Gabriele Minì en la sesión que abrirá las actividades el viernes.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/franco-colapinto-no-estara-girando-en-la-primera-practica-de-f1-del-gp-de-mexico/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261027-F1-Colapinto.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-27T16:24:51.000Z",
-          "addedAt": "2026-10-27T19:41:09.515Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3323,6 +3338,21 @@
           "addedAt": "2026-10-19T15:11:27.752Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-alpine-formula-1-gp-de-mexico-id768857-html",
+          "title": "Colapinto no estará en la FP1 de México y Alpine ya confirmó a su reemplazante",
+          "summary": "La escudería francesa le cederá el monoplaza del argentino a la joven promesa italiana durante el ensayo inicial del viernes, en cumplimiento de una exigencia reglamentaria.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-alpine-formula-1-gp-de-mexico-id768857.html",
+          "image": "https://media.tycsports.com/files/2026/10/20/997816/franco-colapinto_1440x810.webp",
+          "body": "La escudería francesa le cederá el monoplaza del argentino a la joven promesa italiana durante el ensayo inicial del viernes, en cumplimiento de una exigencia reglamentaria.\n\nFranco Colapinto, piloto de Alpine en la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en El piloto argentino Franco Colapinto deberá esperar este fin de semana para tener acción en el Gran Premio de México de la Fórmula 1 porque no estará presente en la primera práctica libre , según confirmó la escudería Alpine, ya que su reemplazante será el italaiano Gabriele Minì.\n\nLa joven promesa manejará el A526 durante el primer entrenamiento del viernes en el Autódromo Hermanos Rodríguez, en una decisión vinculada con el reglamento de la categoría. Ante esto, el bonaerense reaparecería recién en la FP2. El cambio, anunciado este martes por la escudería francesa, forma parte de las sesiones obligatorias que los equipos deben destinar a pilotos debutantes. De esta manera, el italiano tendrá su estreno oficial en un fin de semana de la máxima categoría.\n\nEl joven de 21 años integra la Academia Alpine desde 2023 y actualmente ocupa el cuarto puesto en el campeonato de Fórmula 2, donde acumula dos triunfos y otros siete podios. Aunque todavía no participó de una práctica libre de F1, ya tuvo contacto con estos vehículos mediante ensayos privados al volante del A525 de la temporada anterior.\n\nTras conocerse la noticia, Minì manifestó su entusiasmo por la posibilidad de dar otro paso en su carrera. \" Tengo muchas ganas de subirme al A526 y participar en mi primera práctica libre de Fórmula 1. Después de formar parte de la Academia Alpine durante varios años y progresar por las categorías formativas, competir en una sesión oficial de Fórmula 1 será un momento realmente especial para mí\" , aseguró en declaracion",
+          "language": "es",
+          "publishedAt": "2026-10-27T17:29:12.000Z",
+          "addedAt": "2026-10-27T19:41:07.175Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-hablo-tras-las-polemicas-declaraciones-de-jeremy-clarkson-id768655-html",
@@ -3428,6 +3458,21 @@
           "addedAt": "2026-10-18T07:11:27.967Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-el-prototipo-modificado-para-los-argentinos-en-la-baja-1000",
+          "title": "El prototipo modificado para los argentinos en la BAJA SCORE 1000",
+          "summary": "Alfredo Olmedo, Federico Villagra, Tomás Olmedo y Daniel López entran a los días previos a la carrera de off-road más loca del mundo.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-prototipo-modificado-para-los-argentinos-en-la-baja-1000/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/OLMEDO-VILLAGRA-OLMEDO-LOPEZ-v2.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-02T18:21:35.000Z",
+          "addedAt": "2026-11-02T23:13:40.638Z",
+          "category": "argentino",
+          "tag": "Argentino"
         }
       ]
     }
