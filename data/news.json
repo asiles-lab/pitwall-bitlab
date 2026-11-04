@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-04T14:21:13.843Z",
-  "checkedAt": "2026-11-04T14:21:13.843Z",
+  "updatedAt": "2026-11-04T20:52:04.553Z",
+  "checkedAt": "2026-11-04T20:52:04.553Z",
   "pageSize": 18,
   "sources": [
     {
@@ -100,21 +100,6 @@
       "tag": "Carrera"
     },
     {
-      "id": "campeones-com-ar-rafael-camara-debutara-en-la-f1-en-el-gp-de-san-pablo-y-ocon-no-regresara-a-haas",
-      "title": "Rafael Camara debutará en la F1 en el GP de San Pablo y Ocon no regresará a Haas",
-      "summary": "El piloto de F2 llegará a la Fórmula 1 en el Gran Premio de San Pablo a tiempo que Haas confirmó que Esteban Ocon no regresará.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/rafael-camara-debutara-en-la-f1-en-el-gp-de-san-pablo-y-ocon-no-regresara-a-haas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Camara-F1-debut-Invicta.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-03T20:00:56.000Z",
-      "addedAt": "2026-11-04T00:03:31.837Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico",
       "title": "Franco Colapinto y los problemas que puede traer la altitud en el GP de México",
       "summary": "Un desafío para el manejo por la baja densidad del aire a 2.240 msnm con la potencia, la carga aerodinámica, la refrigeración del Fórmula 1.",
@@ -143,6 +128,21 @@
       "addedAt": "2026-10-29T19:15:02.909Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-mauro-medina-y-actc-dialogo-por-los-costos-y-posibles-cambios-en-las-categorias",
+      "title": "Mauro Medina y ACTC: diálogo por los costos y posibles cambios en las categorías | Campeones",
+      "summary": "Luego de declarar ante la CAF, el director deportivo del Rus Med Team pasó por Campeones y dejó varias definiciones sobre el automovilismo nacional, la situación de Tobías Martínez en Pick Up y sus dichos sobre Mariano Werner.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/mauro-medina-y-actc-dialogo-por-los-costos-y-posibles-cambios-en-las-categorias/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2024/05/Mauro-Medina-RUS-MED-Team.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-04T15:04:52.000Z",
+      "addedAt": "2026-11-04T20:52:07.395Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "www-tycsports-com-automovilismo-haas-despidio-a-esteban-ocon-y-confirmo-a-rafa-camara-como-su-reemplazante-en-la-formula",
@@ -190,34 +190,19 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-pechito-lopez-corre-el-fin-de-semana-en-monza-cerrando-la-temporada-de-wec",
-      "title": "\"Pechito\" López corre el fin de semana en Monza, cerrando la temporada de WEC",
-      "summary": "Competirá en LMGT3 con el Lexus de Akkodis ASP Team; en la división Hypercar los pilotos de Toyota desputarán el cetro en la pista italiana.",
+      "id": "campeones-com-ar-rafael-camara-debutara-en-la-f1-en-el-gp-de-san-pablo-y-ocon-no-regresara-a-haas",
+      "title": "Rafael Camara debutará en la F1 en el GP de San Pablo y Ocon no regresará a Haas",
+      "summary": "El piloto de F2 llegará a la Fórmula 1 en el Gran Premio de San Pablo a tiempo que Haas confirmó que Esteban Ocon no regresará.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/pechito-lopez-corre-el-fin-de-semana-en-monza-cerrando-la-temporada-de-wec/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261103-WEC-Pechito.jpg",
+      "url": "https://campeones.com.ar/rafael-camara-debutara-en-la-f1-en-el-gp-de-san-pablo-y-ocon-no-regresara-a-haas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Camara-F1-debut-Invicta.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-03T19:50:33.000Z",
-      "addedAt": "2026-11-04T00:03:32.435Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-julian-santero-hace-todo-facil",
-      "title": "\"Julián Santero hace todo fácil\" | Campeones",
-      "summary": "Marcelo Ambrogio dialogó con Campeones tras un nuevo triunfo del mendocino en el TN bajo su estructura y lo ponderó como uno de los mejores pilotos del país.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/julian-santero-hace-todo-facil/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260901-TN-Santero-Ambrogio.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-03T17:41:31.000Z",
-      "addedAt": "2026-11-03T19:26:57.997Z",
-      "category": "argentino",
-      "tag": "Argentino"
+      "publishedAt": "2026-11-03T20:00:56.000Z",
+      "addedAt": "2026-11-04T00:03:31.837Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tc2000-yankelevich-sorprende-en-el-cierre-de-los-ensayos-oficiales-de-general-roca",
@@ -280,49 +265,19 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-11-tc-pick-up-se-presentan-en-la-plata",
-      "title": "11 TC Pick Up se presentan en La Plata | Campeones",
-      "summary": "Es el parque más bajo de la temporada, en lo que será la anteúltima fecha del campeonato. Mientras que las TC Pista Pick Up suman 11inscriptos, TC Mouras 13 y Pista Mouras 14.",
+      "id": "campeones-com-ar-otra-categoria-junto-al-tc-para-cerrar-el-2026",
+      "title": "Otra categoría junto al TC para cerrar el 2026",
+      "summary": "La Fórmula 3 Metropolitana compartirá el autódromo de La Plata para el coronación de su campeonato. Antes correrán en Río Cuarto.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/11-tc-pick-up-se-presentan-en-la-plata/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/07/TC-PICK-UP-LA-PLATA-2026-1.jpg",
+      "url": "https://campeones.com.ar/otra-categoria-junto-al-tc-para-cerrar-el-2026/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/F3Metro261104.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-04T11:46:19.000Z",
-      "addedAt": "2026-11-04T14:21:16.193Z",
+      "publishedAt": "2026-11-04T18:49:21.000Z",
+      "addedAt": "2026-11-04T20:52:06.510Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-el-tc2000-vuelve-a-olavarria-tras-20-anos",
-      "title": "El TC2000 vuelve a Olavarría tras 20 años | Campeones",
-      "summary": "La categoría se decidió por el trazado bonaerense para la anteúltima cita del campeonato, mientras que el coronación será en el “Oscar Cabalén” de Córdoba.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-tc2000-vuelve-a-olavarria-tras-20-anos/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/IMG_0406.png",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-04T11:21:39.000Z",
-      "addedAt": "2026-11-04T14:21:16.194Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-spataro-su-gran-rendimiento-en-el-tc-y-la-opinion-calificada-sobre-el-campeonato",
-      "title": "Spataro, su gran rendimiento en el TC y la opinión calificada sobre el campeonato",
-      "summary": "A pesar de terminar la carrera de Rosario \"con una bronca terrible\" se destaca la temporada de Emiliano Spataro en el Turismo Carretera.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/spataro-su-gran-rendimiento-en-el-tc-y-la-opinion-calificada-sobre-el-campeonato/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Emiliano-Spataro-TC-Rosario-2026-1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-03T15:53:03.000Z",
-      "addedAt": "2026-11-03T19:26:58.234Z",
-      "category": "general",
-      "tag": "Carrera"
     },
     {
       "id": "www-tycsports-com-automovilismo-inesperada-decision-kimi-antonelli-mercedes-f1-id770003-html",
@@ -385,6 +340,81 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-motogp-jorge-martin-viaja-a-qatar-para-dar-pelea-en-el-campeonato",
+      "title": "MotoGP: Jorge Martín viaja a Qatar para dar pelea en el campeonato",
+      "summary": "El piloto de Aprilia irá hasta Qatar para intentar correr, a pesar de no estar recuperado de su fractura en el radio del brazo derecho.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/motogp-jorge-martin-viaja-a-qatar-para-dar-pelea-en-el-campeonato/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2025/07/Jorge-Martin-Aprilia.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-04T15:15:09.000Z",
+      "addedAt": "2026-11-04T20:52:07.884Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-11-tc-pick-up-se-presentan-en-la-plata",
+      "title": "11 TC Pick Up se presentan en La Plata | Campeones",
+      "summary": "Es el parque más bajo de la temporada, en lo que será la anteúltima fecha del campeonato. Mientras que las TC Pista Pick Up suman 11inscriptos, TC Mouras 13 y Pista Mouras 14.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/11-tc-pick-up-se-presentan-en-la-plata/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/07/TC-PICK-UP-LA-PLATA-2026-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-04T11:46:19.000Z",
+      "addedAt": "2026-11-04T14:21:16.193Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-el-tc2000-vuelve-a-olavarria-tras-20-anos",
+      "title": "El TC2000 vuelve a Olavarría tras 20 años | Campeones",
+      "summary": "La categoría se decidió por el trazado bonaerense para la anteúltima cita del campeonato, mientras que el coronación será en el “Oscar Cabalén” de Córdoba.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/el-tc2000-vuelve-a-olavarria-tras-20-anos/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/IMG_0406.png",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-04T11:21:39.000Z",
+      "addedAt": "2026-11-04T14:21:16.194Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-pechito-lopez-corre-el-fin-de-semana-en-monza-cerrando-la-temporada-de-wec",
+      "title": "\"Pechito\" López corre el fin de semana en Monza, cerrando la temporada de WEC",
+      "summary": "Competirá en LMGT3 con el Lexus de Akkodis ASP Team; en la división Hypercar los pilotos de Toyota desputarán el cetro en la pista italiana.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/pechito-lopez-corre-el-fin-de-semana-en-monza-cerrando-la-temporada-de-wec/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261103-WEC-Pechito.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-03T19:50:33.000Z",
+      "addedAt": "2026-11-04T00:03:32.435Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-julian-santero-hace-todo-facil",
+      "title": "\"Julián Santero hace todo fácil\" | Campeones",
+      "summary": "Marcelo Ambrogio dialogó con Campeones tras un nuevo triunfo del mendocino en el TN bajo su estructura y lo ponderó como uno de los mejores pilotos del país.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/julian-santero-hace-todo-facil/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260901-TN-Santero-Ambrogio.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-03T17:41:31.000Z",
+      "addedAt": "2026-11-03T19:26:57.997Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-los-antecedentes-de-los-historicos-resultados-de-toyota-en-tc2000-y-vw-en-tn",
       "title": "Los antecedentes de los históricos resultados de Toyota en TC2000 y de VW en TN",
       "summary": "La marca japonesa copó el podio en General Roca con las Corolla Cross GR–S de Yankelevich, Rossi y Stang, mientras que la alemana ganó con Santero (Virtus) en Concordia y sumó su 4ª victoria consecutiva, con Damiani (Vento) completando el “1-2”.",
@@ -411,36 +441,6 @@
       "language": "es",
       "publishedAt": "2026-11-03T10:34:09.000Z",
       "addedAt": "2026-11-03T11:50:28.265Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-tn-clase-3-santero-sumo-su-3a-victoria-del-ano-y-mantiene-vivas-las-ilusiones",
-      "title": "TN Clase 3: Santero sumó su 3ª victoria del año y mantiene vivas las ilusiones",
-      "summary": "El piloto del Ambrogio Racing, ganador en 3 de las últimas 4 Finales, se impuso de punta a punta en Concordia con el VW Virtus, modelo que suma 4 triunfos consecutivos. El mendocino llega al Coronación a 22 puntos de Agustín Canapino (Chevrolet Cruze), que terminó 7º.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tn-clase-3-santero-sumo-su-3a-victoria-del-ano-y-mantiene-vivas-las-ilusiones/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Santero-TN-2026-1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-01T18:07:04.000Z",
-      "addedAt": "2026-11-01T20:39:50.716Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-tn-clase-3-demoledor-triunfo-de-santero-en-la-1a-serie-entrerriana",
-      "title": "TN Clase 3: demoledor triunfo de Santero en la 1ª serie entrerriana",
-      "summary": "El mendocino marcó diferencias en Concordia desde la largada con el VW Virtus y se impuso por una diferencia de 9s628 sobre Mauricio Lambiris (Ford Focus) para lograr su 6ª victoria parcial de la temporada 2026.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tn-clase-3-demoledor-triunfo-de-santero-en-la-1a-serie-entrerriana/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Santero-TN-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-01T14:44:19.000Z",
-      "addedAt": "2026-11-01T16:13:48.315Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -531,6 +531,51 @@
       "language": "es",
       "publishedAt": "2026-10-24T10:21:02.000Z",
       "addedAt": "2026-10-31T05:28:21.105Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-spataro-su-gran-rendimiento-en-el-tc-y-la-opinion-calificada-sobre-el-campeonato",
+      "title": "Spataro, su gran rendimiento en el TC y la opinión calificada sobre el campeonato",
+      "summary": "A pesar de terminar la carrera de Rosario \"con una bronca terrible\" se destaca la temporada de Emiliano Spataro en el Turismo Carretera.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/spataro-su-gran-rendimiento-en-el-tc-y-la-opinion-calificada-sobre-el-campeonato/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Emiliano-Spataro-TC-Rosario-2026-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-03T15:53:03.000Z",
+      "addedAt": "2026-11-03T19:26:58.234Z",
+      "category": "general",
+      "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-tn-clase-3-santero-sumo-su-3a-victoria-del-ano-y-mantiene-vivas-las-ilusiones",
+      "title": "TN Clase 3: Santero sumó su 3ª victoria del año y mantiene vivas las ilusiones",
+      "summary": "El piloto del Ambrogio Racing, ganador en 3 de las últimas 4 Finales, se impuso de punta a punta en Concordia con el VW Virtus, modelo que suma 4 triunfos consecutivos. El mendocino llega al Coronación a 22 puntos de Agustín Canapino (Chevrolet Cruze), que terminó 7º.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tn-clase-3-santero-sumo-su-3a-victoria-del-ano-y-mantiene-vivas-las-ilusiones/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Santero-TN-2026-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-01T18:07:04.000Z",
+      "addedAt": "2026-11-01T20:39:50.716Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tn-clase-3-demoledor-triunfo-de-santero-en-la-1a-serie-entrerriana",
+      "title": "TN Clase 3: demoledor triunfo de Santero en la 1ª serie entrerriana",
+      "summary": "El mendocino marcó diferencias en Concordia desde la largada con el VW Virtus y se impuso por una diferencia de 9s628 sobre Mauricio Lambiris (Ford Focus) para lograr su 6ª victoria parcial de la temporada 2026.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tn-clase-3-demoledor-triunfo-de-santero-en-la-1a-serie-entrerriana/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Santero-TN-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-01T14:44:19.000Z",
+      "addedAt": "2026-11-01T16:13:48.315Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -775,21 +820,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-yankelevich-festejo-su-primer-triunfo-en-tc2000-en-el-1-2-3-de-toyota-gazoo-racing",
-      "title": "Yankelevich festejó su primer triunfo en TC2000, en el \"1-2-3\" de Toyota Gazoo Racing",
-      "summary": "En su primera temporada en la categoría y a los 23 años celebró en General Roca su bautismo triunfal, superando a sus compañeros Rossi y Stang.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/yankelevich-festejo-su-primer-triunfo-en-tc2000-en-el-1-2-3-de-toyota-gazoo-racing/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261101-TC2000-Yankelevich.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-01T16:59:04.000Z",
-      "addedAt": "2026-11-01T20:39:51.803Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-esteban-ocon-se-manifesto-tras-su-abrupta-salida-de-haas-f1-team",
       "title": "Esteban Ocon se manifestó tras su abrupta salida de Haas F1 Team",
       "summary": "El piloto francés difundió por sus redes sociales un comunicado en donde se refiere a su sorpresiva ausencia del GP Ciudad de México.",
@@ -831,6 +861,21 @@
       "language": "es",
       "publishedAt": "2026-10-23T11:05:45.000Z",
       "addedAt": "2026-10-23T12:10:31.387Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-yankelevich-festejo-su-primer-triunfo-en-tc2000-en-el-1-2-3-de-toyota-gazoo-racing",
+      "title": "Yankelevich festejó su primer triunfo en TC2000, en el \"1-2-3\" de Toyota Gazoo Racing",
+      "summary": "En su primera temporada en la categoría y a los 23 años celebró en General Roca su bautismo triunfal, superando a sus compañeros Rossi y Stang.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/yankelevich-festejo-su-primer-triunfo-en-tc2000-en-el-1-2-3-de-toyota-gazoo-racing/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261101-TC2000-Yankelevich.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-01T16:59:04.000Z",
+      "addedAt": "2026-11-01T20:39:51.803Z",
       "category": "general",
       "tag": "F1"
     },
@@ -921,36 +966,6 @@
       "language": "es",
       "publishedAt": "2026-10-29T14:41:48.000Z",
       "addedAt": "2026-10-29T19:15:04.304Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-argento-brindo-detalles-de-la-visita-salta-y-remarco-las-obras-necesarias-en-el-trazado",
-      "title": "Salta sueña con el TC pero necesita muchas obras | Campeones",
-      "summary": "En diálogo con Campeones, Roberto Argento contó los pormenores de la inspección de la ACTC, ocurrida ayer, y de la voluntad de la provincia en recibir categorías de la entidad teceísta.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/argento-brindo-detalles-de-la-visita-salta-y-remarco-las-obras-necesarias-en-el-trazado/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2025/10/SALTA-AUTODROMO.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-28T18:01:21.000Z",
-      "addedAt": "2026-10-28T20:58:15.383Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-75o-aniversario-del-primer-titulo-mundial-de-juan-manuel-fangio-en-formula-1",
-      "title": "75º aniversario del primer título mundial de Juan Manuel Fangio en Fórmula 1 | Campeones",
-      "summary": "Un 28 de octubre de 1951, el \"Checo\" se consagraba campeón de la \"máxima\" en España, comenzando así un recorrido imborrable.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/75o-aniversario-del-primer-titulo-mundial-de-juan-manuel-fangio-en-formula-1/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/o_1793186352.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-28T14:40:32.000Z",
-      "addedAt": "2026-10-28T15:56:17.599Z",
       "category": "general",
       "tag": "F1"
     },
@@ -1600,6 +1615,36 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-argento-brindo-detalles-de-la-visita-salta-y-remarco-las-obras-necesarias-en-el-trazado",
+      "title": "Salta sueña con el TC pero necesita muchas obras | Campeones",
+      "summary": "En diálogo con Campeones, Roberto Argento contó los pormenores de la inspección de la ACTC, ocurrida ayer, y de la voluntad de la provincia en recibir categorías de la entidad teceísta.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/argento-brindo-detalles-de-la-visita-salta-y-remarco-las-obras-necesarias-en-el-trazado/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2025/10/SALTA-AUTODROMO.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-28T18:01:21.000Z",
+      "addedAt": "2026-10-28T20:58:15.383Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-75o-aniversario-del-primer-titulo-mundial-de-juan-manuel-fangio-en-formula-1",
+      "title": "75º aniversario del primer título mundial de Juan Manuel Fangio en Fórmula 1 | Campeones",
+      "summary": "Un 28 de octubre de 1951, el \"Checo\" se consagraba campeón de la \"máxima\" en España, comenzando así un recorrido imborrable.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/75o-aniversario-del-primer-titulo-mundial-de-juan-manuel-fangio-en-formula-1/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/o_1793186352.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-28T14:40:32.000Z",
+      "addedAt": "2026-10-28T15:56:17.599Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-marcelo-agrelo-anuncio-no-completara-la-temporada-de-tc",
       "title": "Agrelo anunció que no completará la temporada de TC",
       "summary": "El piloto chubutense se desvinculó de Trotta Racing y replanteará su futuro en la categoría, de cara a 2027.",
@@ -2173,8 +2218,23 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-04T14:21:21.373Z",
+      "createdAt": "2026-11-04T20:52:11.743Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-nuevo-buzo-alpine-colores-de-boca-franco-colapinto-id770346-html",
+          "title": "Con los colores de Boca: el nuevo buzo de Alpine que hace sonreír a Colapinto",
+          "summary": "La escudería francesa presentó la indumentaria que lucirán sus pilotos en el Gran Premio de Brasil y las redes sociales se inundaron con comentarios en alusión al Xeneize.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/nuevo-buzo-alpine-colores-de-boca-franco-colapinto-id770346.html",
+          "image": "https://media.tycsports.com/files/2026/11/04/1002813/alpine_1440x810.webp?v=1",
+          "body": "La escudería francesa presentó la indumentaria que lucirán sus pilotos en el Gran Premio de Brasil y las redes sociales se inundaron con comentarios en alusión al Xeneize.\n\nEl nuevo buzo de Alpine con los colores de Boca + Seguinos en Alpine presentó el nuevo look que sus pilotos, Franco Colapinto y Pierre Gasly, lucirán en el Gran Premio de Brasil , que se desarrollará entre el 6 y el 8 de noviembre en el Autódromo José Carlos Pace. La flamante indumentaria no pasó desapercibida en redes sociales debido a que lleva los colores de Boca , club del cual es hincha el corredor argentino.\n\nEl nuevo buzo antiflama es amarillo en su totalidad y cuenta con detalles azules en los hombros, los laterales, las muñecas y las piernas, además de los sponsors en la parte frontal y el logo del equipo en el pecho.\n\nEl cambio de colores para la cita en Interlagos se debe a un acuerdo de patrocinio con la compañía argentina de comercio electrónico Mercado Libre, uno de los principales auspiciantes de la escudería francesa y también del pilarense.\n\nAlpine compartió este miércoles imágenes de Colapinto y Gasly en sus redes sociales vistiendo la nueva indumentaria y los miles de comentarios en alusión a Boca no tardaron en aparecer.",
+          "language": "es",
+          "publishedAt": "2026-11-04T18:56:03.000Z",
+          "addedAt": "2026-11-04T20:52:05.670Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-enfoca-brasil-nos-gustaria-trasladar-ritmo-carrera-que-mostramos-mexico",
           "title": "Franco Colapinto se enfoca en Brasil: \"Nos gustaría trasladar el ritmo de carrera que mostramos en México\"",
@@ -2429,7 +2489,13 @@
           "addedAt": "2026-10-22T11:40:44.409Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-11-04T20:52:11.743Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-mexico-id769199-html",
           "title": "Kimi Antonelli gritó campeón de la Fórmula 1 en México: Colapinto terminó 15° por una sanción",
@@ -2442,27 +2508,6 @@
           "language": "es",
           "publishedAt": "2026-11-02T02:13:03.000Z",
           "addedAt": "2026-10-31T23:18:12.186Z",
-          "category": "argentino",
-          "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-11-04T14:21:21.373Z",
-      "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-alpine-vuelve-a-cambiar-de-piloto-para-la-formula-1-en-brasil-id770218-html",
-          "title": "Alpine vuelve a cambiar de piloto para la Fórmula 1 en Brasil",
-          "summary": "Gabriele Min&igrave; ocupará la butaca de Pierre Gasly durante el primer entrenamiento en Interlagos. Franco Colapinto, en tanto, tendrá la posibilidad de girar desde el comienzo del viernes.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/alpine-vuelve-a-cambiar-de-piloto-para-la-formula-1-en-brasil-id770218.html",
-          "image": "https://media.tycsports.com/files/2026/11/01/1002028/franco-colapinto-alpine_1440x810.webp?v=1",
-          "body": "Gabriele Minì ocupará la butaca de Pierre Gasly durante el primer entrenamiento en Interlagos. Franco Colapinto, en tanto, tendrá la posibilidad de girar desde el comienzo del viernes.\n\nColapinto cedió su asiento a Mini en México y ahora Gasly hará lo propio en Brasil (Rudy Carezzevoli/Getty Images). + Seguinos en El Gran Premio de Brasil asoma en el horizonte y la actividad del viernes en Interlagos tendrá una particularidad para Alpine. Es que la escudería francesa confirmó que Gabriele Minì volverá a participar de la primera práctica libre, en reemplazo de Pierre Gasly este 6 de noviembre.\n\nLa decisión modifica el escenario que se había presentado en México. En aquella oportunidad, Franco Colapinto había cedido su lugar al italiano para que tuviera su primera experiencia en una sesión oficial de Fórmula 1 . Ahora será el francés quien cumpla con el requisito reglamentario de darle una oportunidad a un joven piloto. Luego recuperará su monoplaza para la segunda tanda.\n\nEl antecedente inmediato de Minì dejó un registro de 22 vueltas en el Autódromo Hermanos Rodríguez, con un mejor tiempo de 1:19.946s . Su marca quedó a 1s818 del giro más rápido de Charles Leclerc. En Brasil afrontará su segunda participación oficial y estrenará el auto de Gasly.\n\nPara el argentino, la noticia representa una oportunidad importante: contará con toda la primera práctica para trabajar en la puesta a punto y comenzar a encontrar el equilibrio del A526. Además, buscará sostener el rendimiento que exhibió en México, donde terminó octavo en pista, aunque una penalización de diez segundos lo hizo caer al 15° puesto.",
-          "language": "es",
-          "publishedAt": "2026-11-03T20:09:02.000Z",
-          "addedAt": "2026-11-04T00:03:29.615Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2572,21 +2617,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-fue-elegido-entre-los-grandes-perdedores-del-gp-de-estados-unidos-por-l",
-          "title": "Colapinto fue elegido entre \"los grandes perdedores\" del GP de Estados Unidos",
-          "summary": "El piloto argentino debió abandonar el Austin luego de un toque con Arvid Lindblad y provocó importantes daños en su monoplaza.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-fue-elegido-entre-los-grandes-perdedores-del-gp-de-estados-unidos-por-la-formula-1-id769024.html",
-          "image": "https://media.tycsports.com/files/2026/10/14/995964/franco-colapinto-gp-de-singapur_1440x810.webp",
-          "body": "El piloto argentino debió abandonar el Austin luego de un toque con Arvid Lindblad y provocó importantes daños en su monoplaza.\n\nFranco Colapinto debió abandonar en el GP de Estados Unidos de la Fórmula 1. (Rudy Carezzevoli/Getty Images). + Seguinos en E l Gran Premio de Estados Unidos dejó dos realidades completamente opuestas en Alpine. Mientras Pierre Gasly consiguió terminar entre los diez primeros, Franco Colapinto sufrió otro abandono y recibió duras críticas de la prensa especializada. Incluso, el sitio oficial de la Fórmula 1 lo incluyó entre \"los cinco grandes perdedores\" del fin de semana en Austin.\n\nEl periodista Lawrence Barretto fue el encargado de analizar su actuación en el Circuito de las Américas. El argentino quedó fuera de competencia tras un incidente con Arvid Lindblad, que provocó importantes daños en su monoplaza. “Esta fue una carrera para olvidar para Franco Colapinto, que no logró terminarla por tercera vez en cuatro intentos , después de haber visto la bandera a cuadros en todas sus participaciones anteriores con Alpine. Quedó atrapado entre dos coches en la recta hacia la curva 1 , lo que le provocó daños tan graves en el suelo y el pontón lateral que tuvo que abandonar la carrera” , escribió.\n\nEl toque entre Lindblad y Colapinto que lo obligó a abandonar en Alpine La contracara fue su compañero de equipo, elegido entre los ganadores de la fecha. El francés logró rescatar un punto pese a los inconvenientes mecánicos. “Se quedó a las puertas de la Q3 en la clasificación, pero salió desde el top 10 gracias a la penalización en la parrilla de Arvid Lindblad por cambios en los componentes del motor. A pesar de sufrir lo que el francés describió como ‘daños significativos’ en una colisión con Bearman, aún tuvo el rendimiento suficiente para manten",
-          "language": "es",
-          "publishedAt": "2026-10-28T16:46:52.000Z",
-          "addedAt": "2026-10-28T20:58:14.092Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-briatore-elogio-la-carrera-de-colapinto-y-lamento-irse-sin-nada-de-mexico",
           "title": "Briatore elogió la carrera de Colapinto y lamentó irse \"sin nada\" de México",
           "summary": "El asesor ejecutivo de Alpine resaltó la tarea del piloto argentino luego de una \"racha de mala suerte\", A su vez, señaló como \"frustrante\" terminar sin sumar.",
@@ -2662,21 +2692,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-colapinto-llego-a-san-pablo-para-mantener-el-ritmo-de-mexico-ser-solidos-y-sumar",
-          "title": "Colapinto llegó a San Pablo para «mantener el ritmo de México, ser sólidos y sumar» | Campeones",
-          "summary": "Tras el frustrado resultado en el autódromo \"Hermanos Rodríguez\", el piloto argentino se prepara para continuar evolucionando y ser Top10 con el Alpine en Interlagos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-llego-a-san-pablo-para-mantener-el-ritmo-de-mexico-ser-solidos-y-sumar/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261103-F1-Colapinto-e1793727360600.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-03T16:24:18.000Z",
-          "addedAt": "2026-11-03T19:26:57.354Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-gp-de-mexico-colapinto-largara-11-con-el-alpine-por-una-sancion-a-lawson",
           "title": "GP de México: Colapinto largará 11.° con el Alpine por una sanción a Lawson",
           "summary": "Debido a una infracción técnica con la unidad de potencia de su Racing Bulls, el neozelandés deberá comenzar la carrera último y por él los demás participantes, incluido el argentino, avanzarán un lugar.",
@@ -2707,6 +2722,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-alpine-vuelve-a-cambiar-de-piloto-para-la-formula-1-en-brasil-id770218-html",
+          "title": "Alpine vuelve a cambiar de piloto para la Fórmula 1 en Brasil",
+          "summary": "Gabriele Min&igrave; ocupará la butaca de Pierre Gasly durante el primer entrenamiento en Interlagos. Franco Colapinto, en tanto, tendrá la posibilidad de girar desde el comienzo del viernes.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/alpine-vuelve-a-cambiar-de-piloto-para-la-formula-1-en-brasil-id770218.html",
+          "image": "https://media.tycsports.com/files/2026/11/01/1002028/franco-colapinto-alpine_1440x810.webp?v=1",
+          "body": "Gabriele Minì ocupará la butaca de Pierre Gasly durante el primer entrenamiento en Interlagos. Franco Colapinto, en tanto, tendrá la posibilidad de girar desde el comienzo del viernes.\n\nColapinto cedió su asiento a Mini en México y ahora Gasly hará lo propio en Brasil (Rudy Carezzevoli/Getty Images). + Seguinos en El Gran Premio de Brasil asoma en el horizonte y la actividad del viernes en Interlagos tendrá una particularidad para Alpine. Es que la escudería francesa confirmó que Gabriele Minì volverá a participar de la primera práctica libre, en reemplazo de Pierre Gasly este 6 de noviembre.\n\nLa decisión modifica el escenario que se había presentado en México. En aquella oportunidad, Franco Colapinto había cedido su lugar al italiano para que tuviera su primera experiencia en una sesión oficial de Fórmula 1 . Ahora será el francés quien cumpla con el requisito reglamentario de darle una oportunidad a un joven piloto. Luego recuperará su monoplaza para la segunda tanda.\n\nEl antecedente inmediato de Minì dejó un registro de 22 vueltas en el Autódromo Hermanos Rodríguez, con un mejor tiempo de 1:19.946s . Su marca quedó a 1s818 del giro más rápido de Charles Leclerc. En Brasil afrontará su segunda participación oficial y estrenará el auto de Gasly.\n\nPara el argentino, la noticia representa una oportunidad importante: contará con toda la primera práctica para trabajar en la puesta a punto y comenzar a encontrar el equilibrio del A526. Además, buscará sostener el rendimiento que exhibió en México, donde terminó octavo en pista, aunque una penalización de diez segundos lo hizo caer al 15° puesto.",
+          "language": "es",
+          "publishedAt": "2026-11-03T20:09:02.000Z",
+          "addedAt": "2026-11-04T00:03:29.615Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-gran-premio-estados-unidos-formula-1-danos-aleron-id768564-html",
           "title": "Por qué Colapinto abandonó el Gran Premio de Estados Unidos: \"Se rompió mucho el auto\"",
           "summary": "La carrera en el Circuito de las Américas llegó a su fin para el piloto argentino en la vuelta 36, cuando su ingeniero de pista Stuart Barlow le indicó que ingresara a los boxes para retirar su monoplaza.",
@@ -2720,27 +2750,42 @@
           "addedAt": "2026-10-25T21:40:42.408Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-manager-jamie-campbell-walter-fuerte-mensaje-id768541-html",
+          "title": "El fuerte mensaje del representante de Franco Colapinto a Clarkson por su burla contra Argentina: \"Merecen...\"",
+          "summary": "Jamie Campbell-Walter, representante de Franco Colapinto, repudió las declaraciones contra el piloto argentino durante el Gran Premio de Estados Unidos.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-manager-jamie-campbell-walter-fuerte-mensaje-id768541.html",
+          "image": "https://media.tycsports.com/files/2026/10/25/999476/franco-colapinto_862x485.webp",
+          "body": "Jamie Campbell-Walter, representante de Franco Colapinto, repudió las declaraciones contra el piloto argentino durante el Gran Premio de Estados Unidos.\n\nFranco Colapinto junto a Jamie Campbell-Walter, su mánager. + Seguinos en Jamie Campbell-Walter, representante de Franco Colapinto, repudió las declaraciones de Jeremy Clarkson contra el piloto argentino durante el Gran Premio de Estados Unidos. Luego del respaldo público de Alpine, el manager expresó en sus redes sociales: \"Los comentarios de Jeremy Clarkson sobre la nacionalidad de Franco fueron completamente inaceptables\" .\n\nEl agente del pilarense rechazó cualquier justificación de los dichos del británico y advirtió: \" No hay lugar para observaciones como esta en la Fórmula 1, independientemente de quién las haga o si se pretendían como una broma \" . Su descargo llegó después de que el propio corredor impulsara una campaña para frenar las agresiones entre los fanáticos en las redes sociales. En ese sentido, Campbell-Walter remarcó: \" Hemos trabajado duro para promover el respeto y poner fin a la hostilidad y el abuso. Ese respeto debe ser mutuo. No podemos pedirle a nadie que se comporte de manera responsable mientras aceptamos comentarios como estos de figuras prominentes que visitan nuestro deporte\" . Y concluyó: \"Franco y sus seguidores merecen algo mejor que esto. No permitamos que esto deshaga el progreso que hemos logrado y elevémonos por encima de los comentarios maliciosos\".\n\nLa controversia comenzó durante una entrevista con Sky Sports F1, cuando Clarkson se refirió a la penalización de diez posiciones que recibió Colapinto en Austin: “Franco tiene una penalización en la grilla por ser argentino. Probablemente. Bueno, yo le daría una por eso. Pero, en fin, eso es solo por lo que pasó cuando fuimos allí” .",
+          "language": "es",
+          "publishedAt": "2026-10-25T18:09:44.000Z",
+          "addedAt": "2026-10-25T18:56:46.890Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-11-04T14:21:21.373Z",
+      "createdAt": "2026-11-04T20:52:11.743Z",
       "items": [
         {
-          "id": "www-tycsports-com-automovilismo-alerta-en-la-formula-1-aseguran-que-la-escuderia-cadillac-podria-ser-vendida-tras-su-pri",
-          "title": "Alerta en la Fórmula 1: aseguran que la escudería Cadillac podría ser vendida tras su primera temporada",
-          "summary": "Tras una primera campaña donde no sumó punto a falta de cuatro carreras para su conclusión, el accionista mayoritario le puso precio a su porción y ya habría siete candidatos para quedarse con el equipo estadounidense.",
+          "id": "www-tycsports-com-automovilismo-dueno-equipo-premier-league-podria-comprar-cadillac-f1-id770413-html",
+          "title": "Los dueños de un club de la Premier League podrían adquirir a Cadillac en la F1",
+          "summary": "Fenway Sports Group, propietario del Liverpool, sería uno de los interesados en quedarse con la escudería estadounidense ante las versiones de su posible venta.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/alerta-en-la-formula-1-aseguran-que-la-escuderia-cadillac-podria-ser-vendida-tras-su-primera-temporada-id770222.html",
-          "image": "https://media.tycsports.com/files/2026/11/03/1002597/cadillac-formula-1_1440x810.webp?v=2",
-          "body": "Tras una primera campaña donde no sumó punto a falta de cuatro carreras para su conclusión, el accionista mayoritario le puso precio a su porción y ya habría siete candidatos para quedarse con el equipo estadounidense.\n\nCadillac podría cambiar de dueño tras su primera temporada en la Fórmula 1. (Rudy Carezzevoli/Getty Images) + Seguinos en Cadillac tuvo su esperado debut en la Fórmula 1 durante la temporada 2026 y antes de finalizar su primera campaña surgieron versiones de que el equipo podría ser vendido luego de que el dueño del principal paquete accionario le pusiera precio a la escudería.\n\nSegún Sportico , el empresario estadounidense Mark Walter puso sobre la mesa la posibilidad de vender las acciones correspondientes al grupo TWG Global en una cifra cerca a los tres mil millones de dólares ; un monto exorbitante pero que despertó el interés dentro del mundo del automovilismo.\n\nEl motivo detrás de la posible venta es la reorganización dentro de las inversiones deportivas del grupo empresarial liderado por Mark Walter, que forma parte del consorcio que meses atrás adquirió Los Angeles Lakers por 12.500 millones de dólares . Ante esta gran inversión, Walter vendió sus acciones en Chelsea, las cuales oscilaban un 13%, al accionista mayoritario Clearlake Capital y aseguran que busca desprenderse de Los Angeles Sparks, franquicia de la WNBA.\n\nEl único activo \"intocable\" para el magnate es Los Angeles Dodgers , el equipo de la MLB con el que se consagró campeón en las temporadas 2024 y 2025 siendo una de las franquicias mejores valuados en todos los Estados Unidos.",
+          "url": "https://www.tycsports.com/automovilismo/dueno-equipo-premier-league-podria-comprar-cadillac-f1-id770413.html",
+          "image": "https://media.tycsports.com/files/2026/11/04/1002839/cadillac_1440x810.webp?v=1",
+          "body": "Fenway Sports Group, propietario del Liverpool, sería uno de los interesados en quedarse con la escudería estadounidense ante las versiones de su posible venta.\n\nCadillac podría ser vendido tras su primera temporada en la F1. (Getty Images) + Seguinos en Las dudas en torno al futuro de la propiedad mayoritaria del equipo Cadillac de Fórmula 1 continúan apareciendo. Tras las versiones que indican que TWG Global, propiedad de Mark Walter, busca desprenderse de su paquete accionario , Fenway Sports Group, dueño del Liverpool, sería uno de los tantos interesados en adquirirlo.\n\nEl Departamento de Justicia de Estados Unidos lleva adelante una investigación federal contra Walter y sus compañías por una presunta inversión indebida de fondos entre sus firmas afiliadas. Las transacciones involucradas ascenderían a los 20000 millones de dólares entre préstamos e inversiones, los cuales no habrían sido revelados adecuadamente.\n\nLa investigación indica que parte de esos fondos habrían sido utilizados para expandir el imperio deportivo de Walter, que meses atrás adquirió a Los Angeles Lakers por 12.500 millones de dólares. Ante esta gran inversión, el estadounidense vendió sus acciones en Chelsea, las cuales oscilaban un 13%, al accionista mayoritario Clearlake Capital, y aseguran que busca desprenderse de Los Angeles Sparks, franquicia de la WNBA.\n\nEl único activo \"intocable\" para el magnate es Los Angeles Dodgers , el equipo de la MLB con el que se consagró campeón en las temporadas 2024 y 2025, siendo una de las franquicias mejor valuadas en Estados Unidos.",
           "language": "es",
-          "publishedAt": "2026-11-03T20:49:06.000Z",
-          "addedAt": "2026-11-04T00:03:29.602Z",
+          "publishedAt": "2026-11-04T20:37:59.000Z",
+          "addedAt": "2026-11-04T20:52:05.683Z",
           "category": "general",
-          "tag": "Carrera"
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-fernando-alonso-bombazo-formula-1-gp-de-mexico-id769666-html",
@@ -2756,6 +2801,21 @@
           "addedAt": "2026-10-31T23:18:12.134Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-alerta-en-la-formula-1-aseguran-que-la-escuderia-cadillac-podria-ser-vendida-tras-su-pri",
+          "title": "Alerta en la Fórmula 1: aseguran que la escudería Cadillac podría ser vendida tras su primera temporada",
+          "summary": "Tras una primera campaña donde no sumó punto a falta de cuatro carreras para su conclusión, el accionista mayoritario le puso precio a su porción y ya habría siete candidatos para quedarse con el equipo estadounidense.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/alerta-en-la-formula-1-aseguran-que-la-escuderia-cadillac-podria-ser-vendida-tras-su-primera-temporada-id770222.html",
+          "image": "https://media.tycsports.com/files/2026/11/03/1002597/cadillac-formula-1_1440x810.webp?v=2",
+          "body": "Tras una primera campaña donde no sumó punto a falta de cuatro carreras para su conclusión, el accionista mayoritario le puso precio a su porción y ya habría siete candidatos para quedarse con el equipo estadounidense.\n\nCadillac podría cambiar de dueño tras su primera temporada en la Fórmula 1. (Rudy Carezzevoli/Getty Images) + Seguinos en Cadillac tuvo su esperado debut en la Fórmula 1 durante la temporada 2026 y antes de finalizar su primera campaña surgieron versiones de que el equipo podría ser vendido luego de que el dueño del principal paquete accionario le pusiera precio a la escudería.\n\nSegún Sportico , el empresario estadounidense Mark Walter puso sobre la mesa la posibilidad de vender las acciones correspondientes al grupo TWG Global en una cifra cerca a los tres mil millones de dólares ; un monto exorbitante pero que despertó el interés dentro del mundo del automovilismo.\n\nEl motivo detrás de la posible venta es la reorganización dentro de las inversiones deportivas del grupo empresarial liderado por Mark Walter, que forma parte del consorcio que meses atrás adquirió Los Angeles Lakers por 12.500 millones de dólares . Ante esta gran inversión, Walter vendió sus acciones en Chelsea, las cuales oscilaban un 13%, al accionista mayoritario Clearlake Capital y aseguran que busca desprenderse de Los Angeles Sparks, franquicia de la WNBA.\n\nEl único activo \"intocable\" para el magnate es Los Angeles Dodgers , el equipo de la MLB con el que se consagró campeón en las temporadas 2024 y 2025 siendo una de las franquicias mejores valuados en todos los Estados Unidos.",
+          "language": "es",
+          "publishedAt": "2026-11-03T20:49:06.000Z",
+          "addedAt": "2026-11-04T00:03:29.602Z",
+          "category": "general",
+          "tag": "Carrera"
         },
         {
           "id": "www-tycsports-com-automovilismo-sorpresa-en-la-f1-esteban-ocon-no-correra-el-resto-del-gran-premio-de-mexico-en-haas-id7",
@@ -2981,27 +3041,12 @@
           "addedAt": "2026-10-18T07:11:28.067Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "campeones-com-ar-turismo-carretera-2000-vuelve-una-de-sus-principales-figuras-en-rafaela",
-          "title": "Turismo Carretera 2000: en Rafaela vuelve una de sus principales figuras | Campeones",
-          "summary": "Facundo Ardusso dirá presente en el Gran Premio Coronación que se desarrollará del 20 al 22 de noviembre.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/turismo-carretera-2000-vuelve-una-de-sus-principales-figuras-en-rafaela/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/08/ACTC-Facundo-Ardusso.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-10-28T15:32:01.000Z",
-          "addedAt": "2026-10-28T15:56:16.784Z",
-          "category": "general",
-          "tag": "F1"
         }
       ]
     },
     {
       "page": 4,
-      "createdAt": "2026-11-04T14:21:21.373Z",
+      "createdAt": "2026-11-04T20:52:11.743Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-chicana-de-mercedes-al-resto-de-la-formula-1-por-antonelli-decian-que-ni-siquiera-deb",
@@ -3092,21 +3137,6 @@
           "addedAt": "2026-10-22T23:15:42.966Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-manager-jamie-campbell-walter-fuerte-mensaje-id768541-html",
-          "title": "El fuerte mensaje del representante de Franco Colapinto a Clarkson por su burla contra Argentina: \"Merecen...\"",
-          "summary": "Jamie Campbell-Walter, representante de Franco Colapinto, repudió las declaraciones contra el piloto argentino durante el Gran Premio de Estados Unidos.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-manager-jamie-campbell-walter-fuerte-mensaje-id768541.html",
-          "image": "https://media.tycsports.com/files/2026/10/25/999476/franco-colapinto_862x485.webp",
-          "body": "Jamie Campbell-Walter, representante de Franco Colapinto, repudió las declaraciones contra el piloto argentino durante el Gran Premio de Estados Unidos.\n\nFranco Colapinto junto a Jamie Campbell-Walter, su mánager. + Seguinos en Jamie Campbell-Walter, representante de Franco Colapinto, repudió las declaraciones de Jeremy Clarkson contra el piloto argentino durante el Gran Premio de Estados Unidos. Luego del respaldo público de Alpine, el manager expresó en sus redes sociales: \"Los comentarios de Jeremy Clarkson sobre la nacionalidad de Franco fueron completamente inaceptables\" .\n\nEl agente del pilarense rechazó cualquier justificación de los dichos del británico y advirtió: \" No hay lugar para observaciones como esta en la Fórmula 1, independientemente de quién las haga o si se pretendían como una broma \" . Su descargo llegó después de que el propio corredor impulsara una campaña para frenar las agresiones entre los fanáticos en las redes sociales. En ese sentido, Campbell-Walter remarcó: \" Hemos trabajado duro para promover el respeto y poner fin a la hostilidad y el abuso. Ese respeto debe ser mutuo. No podemos pedirle a nadie que se comporte de manera responsable mientras aceptamos comentarios como estos de figuras prominentes que visitan nuestro deporte\" . Y concluyó: \"Franco y sus seguidores merecen algo mejor que esto. No permitamos que esto deshaga el progreso que hemos logrado y elevémonos por encima de los comentarios maliciosos\".\n\nLa controversia comenzó durante una entrevista con Sky Sports F1, cuando Clarkson se refirió a la penalización de diez posiciones que recibió Colapinto en Austin: “Franco tiene una penalización en la grilla por ser argentino. Probablemente. Bueno, yo le daría una por eso. Pero, en fin, eso es solo por lo que pasó cuando fuimos allí” .",
-          "language": "es",
-          "publishedAt": "2026-10-25T18:09:44.000Z",
-          "addedAt": "2026-10-25T18:56:46.890Z",
-          "category": "argentino",
-          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda",
@@ -3272,13 +3302,7 @@
           "addedAt": "2026-10-29T06:32:06.565Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-11-04T14:21:21.373Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-cambia-la-parrilla-del-gp-de-estados-unidos-de-la-formula-1-como-afecta-a-franco-colapin",
           "title": "Cambia la parrilla del GP de Estados Unidos: cómo afecta a Colapinto",
@@ -3293,7 +3317,13 @@
           "addedAt": "2026-10-25T21:40:42.380Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-11-04T20:52:11.743Z",
+      "items": [
         {
           "id": "campeones-com-ar-nos-enfocamos-en-la-carrera-ratifico-franco-colapinto-en-texas",
           "title": "«Nos enfocamos en la carrera», ratificó Franco Colapinto en Texas",
@@ -3310,19 +3340,19 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-un-nombre-fuerte-se-suma-al-tcr-south-america-en-rosario",
-          "title": "Un nombre fuerte se suma al TCR South America en Rosario | Campeones",
-          "summary": "Lucas Carabajal se suma a la divisional con un Peugeot 208 de la Scuderia URT, en lo que será el fin de la seguidilla de carreras por Argentina.",
+          "id": "campeones-com-ar-colapinto-llego-a-san-pablo-para-mantener-el-ritmo-de-mexico-ser-solidos-y-sumar",
+          "title": "Colapinto llegó a San Pablo para «mantener el ritmo de México, ser sólidos y sumar» | Campeones",
+          "summary": "Tras el frustrado resultado en el autódromo \"Hermanos Rodríguez\", el piloto argentino se prepara para continuar evolucionando y ser Top10 con el Alpine en Interlagos.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/un-nombre-fuerte-se-suma-al-tcr-south-america-en-rosario/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/tcr-sa.jpg",
+          "url": "https://campeones.com.ar/colapinto-llego-a-san-pablo-para-mantener-el-ritmo-de-mexico-ser-solidos-y-sumar/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Alpine-Franco-Colapinto-Brasil-2026-Ropa-1.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-11-03T18:04:50.000Z",
-          "addedAt": "2026-11-03T19:26:57.751Z",
+          "publishedAt": "2026-11-03T16:24:18.000Z",
+          "addedAt": "2026-11-03T19:26:57.354Z",
           "category": "argentino",
-          "tag": "Argentino"
+          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-colapinto-tras-su-gran-labor-en-mexico-fue-una-muy-buena-carrera-ejecute-todo-perfecto",
@@ -3349,7 +3379,7 @@
           "image": "https://campeones.com.ar/wp-content/uploads/2026/11/LOPEZ-COLAPINTO-BICICLETA-2.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-11-03T20:33:11.000Z",
+          "publishedAt": "2026-11-04T00:33:11.000Z",
           "addedAt": "2026-11-04T00:03:31.372Z",
           "category": "argentino",
           "tag": "Franco"
@@ -3473,6 +3503,21 @@
           "addedAt": "2026-10-19T15:11:27.752Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-fue-elegido-entre-los-grandes-perdedores-del-gp-de-estados-unidos-por-l",
+          "title": "Colapinto fue elegido entre \"los grandes perdedores\" del GP de Estados Unidos",
+          "summary": "El piloto argentino debió abandonar el Austin luego de un toque con Arvid Lindblad y provocó importantes daños en su monoplaza.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-fue-elegido-entre-los-grandes-perdedores-del-gp-de-estados-unidos-por-la-formula-1-id769024.html",
+          "image": "https://media.tycsports.com/files/2026/10/14/995964/franco-colapinto-gp-de-singapur_1440x810.webp",
+          "body": "El piloto argentino debió abandonar el Austin luego de un toque con Arvid Lindblad y provocó importantes daños en su monoplaza.\n\nFranco Colapinto debió abandonar en el GP de Estados Unidos de la Fórmula 1. (Rudy Carezzevoli/Getty Images). + Seguinos en E l Gran Premio de Estados Unidos dejó dos realidades completamente opuestas en Alpine. Mientras Pierre Gasly consiguió terminar entre los diez primeros, Franco Colapinto sufrió otro abandono y recibió duras críticas de la prensa especializada. Incluso, el sitio oficial de la Fórmula 1 lo incluyó entre \"los cinco grandes perdedores\" del fin de semana en Austin.\n\nEl periodista Lawrence Barretto fue el encargado de analizar su actuación en el Circuito de las Américas. El argentino quedó fuera de competencia tras un incidente con Arvid Lindblad, que provocó importantes daños en su monoplaza. “Esta fue una carrera para olvidar para Franco Colapinto, que no logró terminarla por tercera vez en cuatro intentos , después de haber visto la bandera a cuadros en todas sus participaciones anteriores con Alpine. Quedó atrapado entre dos coches en la recta hacia la curva 1 , lo que le provocó daños tan graves en el suelo y el pontón lateral que tuvo que abandonar la carrera” , escribió.\n\nEl toque entre Lindblad y Colapinto que lo obligó a abandonar en Alpine La contracara fue su compañero de equipo, elegido entre los ganadores de la fecha. El francés logró rescatar un punto pese a los inconvenientes mecánicos. “Se quedó a las puertas de la Q3 en la clasificación, pero salió desde el top 10 gracias a la penalización en la parrilla de Arvid Lindblad por cambios en los componentes del motor. A pesar de sufrir lo que el francés describió como ‘daños significativos’ en una colisión con Bearman, aún tuvo el rendimiento suficiente para manten",
+          "language": "es",
+          "publishedAt": "2026-10-28T16:46:52.000Z",
+          "addedAt": "2026-10-28T20:58:14.092Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-alpine-formula-1-gp-de-mexico-id768857-html",
