@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-07T08:40:49.658Z",
-  "checkedAt": "2026-11-07T08:40:49.658Z",
+  "updatedAt": "2026-11-07T15:11:19.503Z",
+  "checkedAt": "2026-11-07T15:11:19.503Z",
   "pageSize": 18,
   "sources": [
     {
@@ -55,17 +55,17 @@
       "tag": "Franco"
     },
     {
-      "id": "campeones-com-ar-actividad-argentina-en-interlagos-con-la-f4-brasil",
-      "title": "Actividad argentina en Interlagos con la F4 Brasil | Campeones",
-      "summary": "Nuevamente, la categoría de monoplazas es \"telonera\" de la Fórmula 1 y tres argentinos dijeron presente en la clasificación.",
+      "id": "campeones-com-ar-rally-argentino-zeballos-acelero-en-la-noche-de-villa-dolores",
+      "title": "Rally Argentino: Zeballos aceleró en la noche de Villa Dolores",
+      "summary": "El Súper Especial abrió el Rally de Traslasierra, penúltima fecha del certamen, con el dominio del piloto uruguayo quien es navegado por Diego Cagnotti.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/actividad-argentina-en-interlagos-con-la-f4-brasil/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261105-F1-San-Pablo-Interlagos.jpg",
+      "url": "https://campeones.com.ar/rally-argentino-zeballos-acelero-en-la-noche-de-villa-dolores/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-RallyArg-Zeballos.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-06T23:39:04.000Z",
-      "addedAt": "2026-11-07T02:05:46.946Z",
+      "publishedAt": "2026-11-07T11:23:44.000Z",
+      "addedAt": "2026-11-07T15:11:22.724Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -98,6 +98,51 @@
       "addedAt": "2026-11-02T23:13:38.970Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-tcr-joaquin-cafaro-y-el-hyundai-son-la-primera-referencia-en-rosario",
+      "title": "TCR: Joaquín Cafaro y el Hyundai son la primera referencia en Rosario | Campeones",
+      "summary": "El uruguayo se quedó con el primer entrenamiento de sábado, seguido por Leonel Pernía (Honda) y Néstor Girolami (Hyundai). El Shakedown lo había liderado Juan Ángel Rosso (Lynk & Co).",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-joaquin-cafaro-y-el-hyundai-son-la-primera-referencia-en-rosario/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/08/260821-TCRSA-Cafaro.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-07T15:00:34.000Z",
+      "addedAt": "2026-11-07T15:11:22.477Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tc-pick-up-palazzo-lidero-el-primer-entrenamiento-en-la-plata",
+      "title": "TC Pick Up: Palazzo lideró el primer entrenamiento en La Plata",
+      "summary": "El pinamarense del EZE-B Team fue la referencia en el comienzo de la actividad en el “Roberto Mouras”, donde se desarrolla la la 3ª y anteúltima fecha de la Copa de Oro 2026 del TCPK. Agustín Canapino (Chevrolet S10), el líder del “play-off”, quedó 2º a 0s166.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-pick-up-palazzo-lidero-el-primer-entrenamiento-en-la-plata/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Palazzo-TCPK-2026.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-07T14:27:02.000Z",
+      "addedAt": "2026-11-07T15:11:21.961Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-actividad-argentina-en-interlagos-con-la-f4-brasil",
+      "title": "Actividad argentina en Interlagos con la F4 Brasil | Campeones",
+      "summary": "Nuevamente, la categoría de monoplazas es \"telonera\" de la Fórmula 1 y tres argentinos dijeron presente en la clasificación.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/actividad-argentina-en-interlagos-con-la-f4-brasil/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261105-F1-San-Pablo-Interlagos.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-06T23:39:04.000Z",
+      "addedAt": "2026-11-07T02:05:46.946Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-el-autodromo-de-rio-cuarto-recibio-otra-inspeccion-de-la-actc",
@@ -265,21 +310,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-girolami-y-hyundai-juntos-en-macao-con-el-tcr-world-tour",
-      "title": "Girolami y Hyundai, juntos en Macao con el TCR World Tour | Campeones",
-      "summary": "El piloto de Isla Verde comunicó en sus redes sociales que regresa a la categoría mundial en el mítico trazado chino, tras varios meses de ausencia.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/girolami-y-hyundai-juntos-en-macao-con-el-tcr-world-tour/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/881736045_18644021137063555_4190803564161622908_n-e1793972980107.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-06T13:50:00.000Z",
-      "addedAt": "2026-11-06T17:24:57.781Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "campeones-com-ar-tc2000-yankelevich-sorprende-en-el-cierre-de-los-ensayos-oficiales-de-general-roca",
       "title": "TC2000: Yankelevich sorprende en el cierre de los ensayos oficiales de General Roca",
       "summary": "El novel piloto de Buenos Aires extendió el dominio de Toyota Gazoo Racing Argentina en la pista del Alto Valle de Río Negro, en donde se cumple la 10.ª ronda del certamen.",
@@ -293,6 +323,36 @@
       "addedAt": "2026-11-01T16:13:55.938Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tc-pista-pick-up-boccanera-volvio-y-domino-el-primer-ensayo",
+      "title": "TC Pista Pick Up: Boccanera volvió y dominó el primer ensayo",
+      "summary": "Tras su frustrada participación en Balcarce, el piloto de Nicanor Otamendi marcó el mejor tiempo en el entrenamiento que abrió la actividad del TCPPK en La Plata, donde se realiza la 3ª y anteúltima fecha de la Copa Coronación 2026.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-pista-pick-up-boccanera-volvio-y-domino-el-primer-ensayo/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Boccanera-TCPPK-2026.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-07T14:07:50.000Z",
+      "addedAt": "2026-11-07T15:11:22.480Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-bezzecchi-se-quedo-con-la-clasificacion-qatari-de-motogp-antes-que-marquez",
+      "title": "Bezzecchi se quedó con la clasificación qatarí de MotoGP antes que Márquez",
+      "summary": "A bordo de la Aprilia, el piloto de Rimini registró su quinta \"pole\" en la temporada y superando a la Ducati del vigente campeón mundial; su compañero, Jorge Martín quedó 11.°.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/bezzecchi-se-quedo-con-la-clasificacion-qatari-de-motogp-antes-que-marquez/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-MotoGP-Bezzecchi.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-07T12:27:44.000Z",
+      "addedAt": "2026-11-07T15:11:22.310Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "www-tycsports-com-automovilismo-cumbre-clave-en-brasil-entre-jorge-macri-y-el-presidente-de-la-f1-id770573-html",
@@ -355,17 +415,17 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-mauro-medina-y-actc-dialogo-por-los-costos-y-posibles-cambios-en-las-categorias",
-      "title": "Mauro Medina y ACTC: diálogo por los costos y posibles cambios en las categorías | Campeones",
-      "summary": "Luego de declarar ante la CAF, el director deportivo del Rus Med Team pasó por Campeones y dejó varias definiciones sobre el automovilismo nacional, la situación de Tobías Martínez en Pick Up y sus dichos sobre Mariano Werner.",
+      "id": "campeones-com-ar-girolami-y-hyundai-juntos-en-macao-con-el-tcr-world-tour",
+      "title": "Girolami y Hyundai, juntos en Macao con el TCR World Tour | Campeones",
+      "summary": "El piloto de Isla Verde comunicó en sus redes sociales que regresa a la categoría mundial en el mítico trazado chino, tras varios meses de ausencia.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/mauro-medina-y-actc-dialogo-por-los-costos-y-posibles-cambios-en-las-categorias/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2024/05/Mauro-Medina-RUS-MED-Team.jpg",
+      "url": "https://campeones.com.ar/girolami-y-hyundai-juntos-en-macao-con-el-tcr-world-tour/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/881736045_18644021137063555_4190803564161622908_n-e1793972980107.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-04T15:04:52.000Z",
-      "addedAt": "2026-11-04T20:52:07.395Z",
+      "publishedAt": "2026-11-06T13:50:00.000Z",
+      "addedAt": "2026-11-06T17:24:57.781Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -488,6 +548,21 @@
       "addedAt": "2026-11-06T17:24:56.016Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-mauro-medina-y-actc-dialogo-por-los-costos-y-posibles-cambios-en-las-categorias",
+      "title": "Mauro Medina y ACTC: diálogo por los costos y posibles cambios en las categorías | Campeones",
+      "summary": "Luego de declarar ante la CAF, el director deportivo del Rus Med Team pasó por Campeones y dejó varias definiciones sobre el automovilismo nacional, la situación de Tobías Martínez en Pick Up y sus dichos sobre Mariano Werner.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/mauro-medina-y-actc-dialogo-por-los-costos-y-posibles-cambios-en-las-categorias/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2024/05/Mauro-Medina-RUS-MED-Team.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-04T15:04:52.000Z",
+      "addedAt": "2026-11-04T20:52:07.395Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-pechito-lopez-corre-el-fin-de-semana-en-monza-cerrando-la-temporada-de-wec",
@@ -681,36 +756,6 @@
       "language": "es",
       "publishedAt": "2026-11-06T16:18:11.000Z",
       "addedAt": "2026-11-06T17:24:57.479Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-el-declive-de-chevrolet-desde-el-ultimo-retoque-reglamentario",
-      "title": "TC: el declive de Chevrolet desde el último retoque reglamentario",
-      "summary": "Con el actual reglamento técnico, el Turismo Carretera disputó 4 fechas con formato estándar, y en ese lapso Chevrolet no sólo cosechó sus peores resultados de la temporada 2026 sino que también fue la más relegada de las 7 marcas.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-el-declive-de-chevrolet-desde-el-ultimo-retoque-reglamentario/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Canapino-Aguirre-TC-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-06T12:18:45.000Z",
-      "addedAt": "2026-11-06T17:24:57.289Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-motogp-en-qatar-marquez-fue-el-mejor-del-primer-ensayo-martin-quedo-5",
-      "title": "MotoGP en Qatar: Márquez fue el mejor del primer ensayo, Martín quedó 5.°",
-      "summary": "La práctica inicial en Losail tuvo al piloto de Ducati liderando sobre Bezzecchi y Di Giannantonio; el madrileño, en tanto, giró con la Aprilia a menos de un segundo.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/motogp-en-qatar-marquez-fue-el-mejor-del-primer-ensayo-martin-quedo-5/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261106-MotoGP-MMarquez.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-06T10:21:21.000Z",
-      "addedAt": "2026-11-06T17:24:58.678Z",
       "category": "general",
       "tag": "F1"
     },
@@ -955,6 +1000,36 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-tc-el-declive-de-chevrolet-desde-el-ultimo-retoque-reglamentario",
+      "title": "TC: el declive de Chevrolet desde el último retoque reglamentario",
+      "summary": "Con el actual reglamento técnico, el Turismo Carretera disputó 4 fechas con formato estándar, y en ese lapso Chevrolet no sólo cosechó sus peores resultados de la temporada 2026 sino que también fue la más relegada de las 7 marcas.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-el-declive-de-chevrolet-desde-el-ultimo-retoque-reglamentario/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Canapino-Aguirre-TC-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-06T12:18:45.000Z",
+      "addedAt": "2026-11-06T17:24:57.289Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-motogp-en-qatar-marquez-fue-el-mejor-del-primer-ensayo-martin-quedo-5",
+      "title": "MotoGP en Qatar: Márquez fue el mejor del primer ensayo, Martín quedó 5.°",
+      "summary": "La práctica inicial en Losail tuvo al piloto de Ducati liderando sobre Bezzecchi y Di Giannantonio; el madrileño, en tanto, giró con la Aprilia a menos de un segundo.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/motogp-en-qatar-marquez-fue-el-mejor-del-primer-ensayo-martin-quedo-5/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261106-MotoGP-MMarquez.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-06T10:21:21.000Z",
+      "addedAt": "2026-11-06T17:24:58.678Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-ugalde-prepara-su-retorno-a-turismo-carretera",
       "title": "Ugalde prepara su retorno a Turismo Carretera",
       "summary": "El marplatense habló en \"Buen día, Campeones\" y detalló su proyecto para estar nuevamente compitiendo en 2027 con un renovado Torino.",
@@ -1011,36 +1086,6 @@
       "language": "es",
       "publishedAt": "2026-11-04T15:15:09.000Z",
       "addedAt": "2026-11-04T20:52:07.884Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-11-tc-pick-up-se-presentan-en-la-plata",
-      "title": "11 TC Pick Up se presentan en La Plata | Campeones",
-      "summary": "Es el parque más bajo de la temporada, en lo que será la anteúltima fecha del campeonato. Mientras que las TC Pista Pick Up suman 11inscriptos, TC Mouras 13 y Pista Mouras 14.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/11-tc-pick-up-se-presentan-en-la-plata/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/07/TC-PICK-UP-LA-PLATA-2026-1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-04T11:46:19.000Z",
-      "addedAt": "2026-11-04T14:21:16.193Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-el-tc2000-vuelve-a-olavarria-tras-20-anos",
-      "title": "El TC2000 vuelve a Olavarría tras 20 años | Campeones",
-      "summary": "La categoría se decidió por el trazado bonaerense para la anteúltima cita del campeonato, mientras que el coronación será en el “Oscar Cabalén” de Córdoba.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-tc2000-vuelve-a-olavarria-tras-20-anos/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/IMG_0406.png",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-04T11:21:39.000Z",
-      "addedAt": "2026-11-04T14:21:16.194Z",
       "category": "general",
       "tag": "F1"
     },
@@ -1105,6 +1150,36 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-11-tc-pick-up-se-presentan-en-la-plata",
+      "title": "11 TC Pick Up se presentan en La Plata | Campeones",
+      "summary": "Es el parque más bajo de la temporada, en lo que será la anteúltima fecha del campeonato. Mientras que las TC Pista Pick Up suman 11inscriptos, TC Mouras 13 y Pista Mouras 14.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/11-tc-pick-up-se-presentan-en-la-plata/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/07/TC-PICK-UP-LA-PLATA-2026-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-04T11:46:19.000Z",
+      "addedAt": "2026-11-04T14:21:16.193Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-el-tc2000-vuelve-a-olavarria-tras-20-anos",
+      "title": "El TC2000 vuelve a Olavarría tras 20 años | Campeones",
+      "summary": "La categoría se decidió por el trazado bonaerense para la anteúltima cita del campeonato, mientras que el coronación será en el “Oscar Cabalén” de Córdoba.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/el-tc2000-vuelve-a-olavarria-tras-20-anos/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/IMG_0406.png",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-04T11:21:39.000Z",
+      "addedAt": "2026-11-04T14:21:16.194Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-los-pilotos-de-motogp-que-tienen-una-coartada-para-no-ir-a-qatar",
       "title": "Los pilotos de MotoGP que tienen una coartada para no ir a Qatar",
       "summary": "Los organizadores advierten sobre sanciones, los pilotos no quieren ir si no hay garantías y Yamaha decidió bajarse del viaje a Losail.",
@@ -1146,36 +1221,6 @@
       "language": "es",
       "publishedAt": "2026-11-01T14:10:22.000Z",
       "addedAt": "2026-11-01T16:13:48.512Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-rossi-mantuvo-la-vanguardia-en-el-primer-entrenamiento-roquense-de-tc2000",
-      "title": "Rossi mantuvo la vanguardia en el primer entrenamiento roquense de TC2000",
-      "summary": "Como en el \"Shakedown\", el piloto de Del Viso (Buenos Aires) marcó el mejor tiempo en la práctica inicial del autódromo de General Roca.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/rossi-mantuvo-la-vanguardia-en-el-primer-entrenamiento-roquense-de-tc2000/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-TC2000-Rossi-TGRA.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-31T14:42:51.000Z",
-      "addedAt": "2026-10-31T16:01:49.757Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc2000-en-general-roca-rossi-fue-el-mejor-del-shakedown",
-      "title": "TC2000 en General Roca: Rossi fue el mejor del \"Shakedown\"",
-      "summary": "El campeón y actual líder del certamen lideró el primer ensayo en la pista de AVGR, en donde se disputa la décima fecha del calendario.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc2000-en-general-roca-rossi-fue-el-mejor-del-shakedown/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-TC2000-Rossi.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-31T12:25:51.000Z",
-      "addedAt": "2026-10-31T16:01:50.186Z",
       "category": "general",
       "tag": "F1"
     },
@@ -1915,6 +1960,36 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-rossi-mantuvo-la-vanguardia-en-el-primer-entrenamiento-roquense-de-tc2000",
+      "title": "Rossi mantuvo la vanguardia en el primer entrenamiento roquense de TC2000",
+      "summary": "Como en el \"Shakedown\", el piloto de Del Viso (Buenos Aires) marcó el mejor tiempo en la práctica inicial del autódromo de General Roca.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/rossi-mantuvo-la-vanguardia-en-el-primer-entrenamiento-roquense-de-tc2000/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-TC2000-Rossi-TGRA.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-31T14:42:51.000Z",
+      "addedAt": "2026-10-31T16:01:49.757Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc2000-en-general-roca-rossi-fue-el-mejor-del-shakedown",
+      "title": "TC2000 en General Roca: Rossi fue el mejor del \"Shakedown\"",
+      "summary": "El campeón y actual líder del certamen lideró el primer ensayo en la pista de AVGR, en donde se disputa la décima fecha del calendario.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc2000-en-general-roca-rossi-fue-el-mejor-del-shakedown/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-TC2000-Rossi.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-10-31T12:25:51.000Z",
+      "addedAt": "2026-10-31T16:01:50.186Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-tc-nos-gustaria-hacer-dos-mercedes-benz",
       "title": "TC: “Nos gustaría hacer dos Mercedes-Benz\" | Campeones",
       "summary": "Andrés Jakos contó las variantes que maneja el equipo para el 2027, donde podría dejar el Toyota Camry.",
@@ -2563,50 +2638,50 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-07T08:40:55.840Z",
+      "createdAt": "2026-11-07T15:11:30.733Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-brasil-2026-id770",
-          "title": "F1: hora y dónde ver en vivo la práctica libre de Colapinto en el GP de Brasil",
-          "summary": "Finalizaron las Prácticas Libres de la jornada de viernes del 21° Gran Premio de la temporada 2026 de la Fórmula 1 con la participación de Colapinto.",
+          "title": "◉ F1: seguí EN VIVO la práctica libre de Colapinto en el GP de Brasil",
+          "summary": "Este sábado se lleva a cabo la última práctica libre del 21° Gran Premio de la temporada 2026 de la Fórmula 1 con la participación de Colapinto, antes de la clasificación.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
           "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-brasil-2026-id770258.html",
           "image": "https://media.tycsports.com/files/2026/11/06/1003380/colapinto-en-las-pls-del-viernes-en-brasil-ryan-piersegetty-images_1440x810.webp?v=1",
-          "body": "Finalizaron las Prácticas Libres de la jornada de viernes del 21° Gran Premio de la temporada 2026 de la Fórmula 1 con la participación de Colapinto.\n\nColapinto en las PLs del viernes en Brasil (Ryan Pierse/Getty Images) + Seguinos en La temporada 2026 de la Fórmula 1, que ya tiene a Kimi Antonelli de Mercedes como campeón del año , tendrá su vigesimoprimera carrera del año con el Gran Premio de Brasil , y este viernes ya se desarrollaron las Prácticas Libres 1 y2, donde Colapinto culminó noveno y undécimo. Conocé todos los detalles .\n\nTambién podés seguir la cobertura de la Fórmula 1 en vivo por Carburando.com .\n\nColapinto comenzó su actividad en Interlagos con un noveno puesto en las Prácticas Libres 1 . El argentino logró buen ritmo y su mejor vuelta la hizo con un tiempo de 1:14.832, pero culminó por detrás del joven Gabriele Mini, quien reemplazó a Pierre Gasly y terminó 7º. Más tarde, en la Práctica Libre 2, el oriundo de Pilar finalizó en la 11° colocación . Marcó un tiempo de 1:11.996 con neumáticos blandos y quedó por delante de su compañero de equipo, Pierre Gasly, quien volvió a subirse al Alpine #10. La práctica quedó en manos del flamante campeón, quien fue escoltado por Norris y Verstappen.\n\nEl Autódromo José Carlos Pace, ubicado en la ciudad de San Pablo, fue construido 1938 y forma parte del calendario de la Fórmula Uno desde 1973. Este trazado representa un verdadero desafio para los pilotos, ya que se caracteriza por su sentido antihorario y sus significativos desniveles. Tiene un total de 15 curvas y se intercalan giros de alta y baja velocidad.",
+          "body": "Este sábado se lleva a cabo la última práctica libre del 21° Gran Premio de la temporada 2026 de la Fórmula 1 con la participación de Colapinto, antes de la clasificación.\n\nColapinto en las PLs del viernes en Brasil (Ryan Pierse/Getty Images) + Seguinos en La temporada 2026 de la Fórmula 1, que ya tiene a Kimi Antonelli de Mercedes como campeón del año , tendrá su vigesimoprimera carrera del año con el Gran Premio de Brasil , y este viernes ya se desarrollaron las Prácticas Libres 1 y2, donde Colapinto culminó noveno y undécimo, y este sábado por la mañana se terminan los entrenamientos con las FP3. Conocé todos los detalles .\n\nTambién podés seguir la cobertura de la Fórmula 1 en vivo por Carburando.com .\n\nColapinto comenzó su actividad en Interlagos con un noveno puesto en las Prácticas Libres 1 . El argentino logró buen ritmo y su mejor vuelta la hizo con un tiempo de 1:14.832, pero culminó por detrás del joven Gabriele Mini, quien reemplazó a Pierre Gasly y terminó 7º. Más tarde, en la Práctica Libre 2, el oriundo de Pilar finalizó en la 11° colocación . Marcó un tiempo de 1:11.996 con neumáticos blandos y quedó por delante de su compañero de equipo, Pierre Gasly, quien volvió a subirse al Alpine #10. La práctica quedó en manos del flamante campeón, quien fue escoltado por Norris y Verstappen.\n\nEl Autódromo José Carlos Pace, ubicado en la ciudad de San Pablo, fue construido 1938 y forma parte del calendario de la Fórmula Uno desde 1973. Este trazado representa un verdadero desafio para los pilotos, ya que se caracteriza por su sentido antihorario y sus significativos desniveles. Tiene un total de 15 curvas y se intercalan giros de alta y baja velocidad.",
           "language": "es",
-          "publishedAt": "2026-11-07T03:03:44.000Z",
+          "publishedAt": "2026-11-07T15:05:09.000Z",
           "addedAt": "2026-11-06T17:24:55.432Z",
           "category": "argentino",
           "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-brasil-id770258-h",
-          "title": "F1: hora y dónde ver en vivo la práctica libre de Colapinto en el GP de Brasil",
-          "summary": "Finalizaron las Prácticas Libres de la jornada de viernes del 21° Gran Premio de la temporada 2026 de la Fórmula 1 con la participación de Colapinto.",
+          "title": "◉ F1: seguí EN VIVO la práctica libre de Colapinto en el GP de Brasil",
+          "summary": "Este sábado se lleva a cabo la última práctica libre del 21° Gran Premio de la temporada 2026 de la Fórmula 1 con la participación de Colapinto, antes de la clasificación.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
           "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-brasil-id770258.html",
           "image": "https://media.tycsports.com/files/2026/11/06/1003380/colapinto-en-las-pls-del-viernes-en-brasil-ryan-piersegetty-images_1440x810.webp?v=1",
-          "body": "Finalizaron las Prácticas Libres de la jornada de viernes del 21° Gran Premio de la temporada 2026 de la Fórmula 1 con la participación de Colapinto.\n\nColapinto en las PLs del viernes en Brasil (Ryan Pierse/Getty Images) + Seguinos en La temporada 2026 de la Fórmula 1, que ya tiene a Kimi Antonelli de Mercedes como campeón del año , tendrá su vigesimoprimera carrera del año con el Gran Premio de Brasil , y este viernes ya se desarrollaron las Prácticas Libres 1 y2, donde Colapinto culminó noveno y undécimo. Conocé todos los detalles .\n\nTambién podés seguir la cobertura de la Fórmula 1 en vivo por Carburando.com .\n\nColapinto comenzó su actividad en Interlagos con un noveno puesto en las Prácticas Libres 1 . El argentino logró buen ritmo y su mejor vuelta la hizo con un tiempo de 1:14.832, pero culminó por detrás del joven Gabriele Mini, quien reemplazó a Pierre Gasly y terminó 7º. Más tarde, en la Práctica Libre 2, el oriundo de Pilar finalizó en la 11° colocación . Marcó un tiempo de 1:11.996 con neumáticos blandos y quedó por delante de su compañero de equipo, Pierre Gasly, quien volvió a subirse al Alpine #10. La práctica quedó en manos del flamante campeón, quien fue escoltado por Norris y Verstappen.\n\nEl Autódromo José Carlos Pace, ubicado en la ciudad de San Pablo, fue construido 1938 y forma parte del calendario de la Fórmula Uno desde 1973. Este trazado representa un verdadero desafio para los pilotos, ya que se caracteriza por su sentido antihorario y sus significativos desniveles. Tiene un total de 15 curvas y se intercalan giros de alta y baja velocidad.",
+          "body": "Este sábado se lleva a cabo la última práctica libre del 21° Gran Premio de la temporada 2026 de la Fórmula 1 con la participación de Colapinto, antes de la clasificación.\n\nColapinto en las PLs del viernes en Brasil (Ryan Pierse/Getty Images) + Seguinos en La temporada 2026 de la Fórmula 1, que ya tiene a Kimi Antonelli de Mercedes como campeón del año , tendrá su vigesimoprimera carrera del año con el Gran Premio de Brasil , y este viernes ya se desarrollaron las Prácticas Libres 1 y2, donde Colapinto culminó noveno y undécimo, y este sábado por la mañana se terminan los entrenamientos con las FP3. Conocé todos los detalles .\n\nTambién podés seguir la cobertura de la Fórmula 1 en vivo por Carburando.com .\n\nColapinto comenzó su actividad en Interlagos con un noveno puesto en las Prácticas Libres 1 . El argentino logró buen ritmo y su mejor vuelta la hizo con un tiempo de 1:14.832, pero culminó por detrás del joven Gabriele Mini, quien reemplazó a Pierre Gasly y terminó 7º. Más tarde, en la Práctica Libre 2, el oriundo de Pilar finalizó en la 11° colocación . Marcó un tiempo de 1:11.996 con neumáticos blandos y quedó por delante de su compañero de equipo, Pierre Gasly, quien volvió a subirse al Alpine #10. La práctica quedó en manos del flamante campeón, quien fue escoltado por Norris y Verstappen.\n\nEl Autódromo José Carlos Pace, ubicado en la ciudad de San Pablo, fue construido 1938 y forma parte del calendario de la Fórmula Uno desde 1973. Este trazado representa un verdadero desafio para los pilotos, ya que se caracteriza por su sentido antihorario y sus significativos desniveles. Tiene un total de 15 curvas y se intercalan giros de alta y baja velocidad.",
           "language": "es",
-          "publishedAt": "2026-11-07T03:03:44.000Z",
+          "publishedAt": "2026-11-07T15:05:09.000Z",
           "addedAt": "2026-11-05T16:25:25.615Z",
           "category": "argentino",
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-multado-por-fia-por-exceso-velocidad-brasil-id770727-html",
-          "title": "Colapinto fue multado por la FIA en el inicio de la actividad del GP de Brasil de F1",
-          "summary": "Alpine deberá pagar por sanción al argentino por superar en 0.6 kilómetros por hora el tope permitido para el ingreso a boxes en Interlagos durante el viernes de prácticas de la Fórmula 1.",
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-gp-de-brasil-id770765-html",
+          "title": "La advertencia de Colapinto antes de la clasificación en el GP de Brasil",
+          "summary": "El piloto argentino se refirió a la posibilidad de que llueva en el circuito de Interlagos, donde sufrió accidentes en 2024 y 2025.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-multado-por-fia-por-exceso-velocidad-brasil-id770727.html",
-          "image": "https://media.tycsports.com/files/2026/09/03/984229/franco-colapinto-en-el-gp-de-monza_1440x810.webp",
-          "body": "Alpine deberá pagar por sanción al argentino por superar en 0.6 kilómetros por hora el tope permitido para el ingreso a boxes en Interlagos durante el viernes de prácticas de la Fórmula 1.\n\nFranco Colapinto ¿y un fin de semana de revancha? + Seguinos en Una vez más, la FIA parece empeñada en hacerle hostil la experiencia de la Fórmula 1 a Franco Colapinto, el eterno ejemplo de la aplicación más estricta del reglamento. Después de la tan polémica sanción que lo dejó sin puntos en México por no considerar suficiente su reducción de velocidad con bandera amarilla, el argentino recibió una multa durante el viernes de entrenamientos en Brasil, que deberá pagar Alpine.\n\nLa sanción, dentro de todo bastante usual aunque irrisoria, consiste en abonar 100 euros luego de que se detectara un exceso de velocidad en la salida de los boxes de Interlagos. Allí, el límite está establecido en 80 kilómetros por hora, y el pilarense habría pasado a 80.6 en la primera práctica . La semana anterior, por ejemplo, lo padeció Fernando Alonso cuando le registraron una velocidad de 80.2.\n\nPor suerte para Franco, este castigo ni lo despeina de cara al fin de semana puesto que no acarrea más consecuencias ni coletazos deportivos, pero le deja en claro que lo siguen manteniendo bien vigilado.\n\nDe esta manera, el piloto bonaerense conserva el noveno puesto conseguido durante la FP1, donde marcó un tiempo de 1:12.654 y terminó a 937 milésimas de Lando Norris, quien encabezó los registros. Después , en la FP2, fue undécimo con 1:11.996 y quedó a 1.233 segundos de Kimi Antonelli, el más rápido de la sesión.",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-gp-de-brasil-id770765.html",
+          "image": "https://media.tycsports.com/files/2026/11/07/1003485/franco-colapinto_1440x810.webp?v=1",
+          "body": "El piloto argentino se refirió a la posibilidad de que llueva en el circuito de Interlagos, donde sufrió accidentes en 2024 y 2025.\n\nFranco Colapinto sufrió accidentes en el circuito de Intergalos en 2024 y 2025 (Clive Mason/Getty Images) + Seguinos en El piloto argentino Franco Colapinto advirtió sobre los riesgos de correr con lluvia en el circuito de Interlagos, donde sufrió fuertes accidentes en 2024 y 2025, después de completar un viernes positivo con Alpine en el Gran Premio de Brasil de Fórmula 1: \"En mojado, buena suerte\".\n\nEl pialrense de de 23 años terminó 11° en la segunda práctica libre, a solo cinco milésimas de ingresar al top 10, y destacó que el asfalto presentó mejores condiciones de adherencia de las esperadas. Sin embargo, advirtió ante la posibilidad de precipitaciones durante la clasificación que los sectores reasfaltados podrían complicar el comportamiento de los monoplazas si la pista se moja, especialmente durante las frenadas y las entradas a las curvas. Los antecedentes en Brasil explican su preocupación. En 2024, cuando representaba a Williams, protagonizó dos accidentes en una jornada marcada por las intensas lluvias . El primero ocurrió durante la clasificación y el segundo en la carrera, cuando perdió el control del auto en la vuelta 32, con el Safety Car en pista. El impacto contra las defensas provocó su abandono y una bandera roja.\n\nAsí fue el durísimo choque de Colapinto en el GP de Brasil en 2024 En 2025, la historia se repitió con Alpine durante la carrera Sprint. Tras pasar por un piano que acumulaba agua , el argentino perdió el control y terminó contra las barreras de contención. En aquella competencia también se accidentaron Oscar Piastri y Nico Hülkenberg, mientras que el equipo francés debió trabajar contrarreloj para reparar lo",
           "language": "es",
-          "publishedAt": "2026-11-06T22:53:50.000Z",
-          "addedAt": "2026-11-06T22:13:52.274Z",
+          "publishedAt": "2026-11-07T12:41:17.000Z",
+          "addedAt": "2026-11-07T15:11:20.611Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2641,32 +2716,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-alpine-elogio-el-trabajo-de-colapinto-valoro-lo-hecho-por-mini-y-revelo-por-que-gasly-no",
-          "title": "Alpine elogió el trabajo de Colapinto, valoró lo hecho por Min&igrave; y reveló por qué Gasly no se sintió cómodo",
-          "summary": "El jefe de Alpine se refirió al argentino, quien terminó noveno en la primera práctica libre y undécimo en la segunda, por delante de Pierre Gasly, quien finalizó 14°.",
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-brasil-id770647-ht",
+          "title": "F1: horario y dónde ver en vivo la clasificación de Colapinto en el GP de Brasil",
+          "summary": "Continúa la actividad en Interlagos con la Qualy de la Fórmula 1 y la participación de Franco Colapinto.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/alpine-elogio-el-trabajo-de-colapinto-valoro-lo-hecho-por-mini-y-revelo-por-que-gasly-no-se-sintio-comodo-id770736.html",
-          "image": "https://media.tycsports.com/files/2026/11/01/1002028/franco-colapinto-alpine_1440x810.webp?v=1",
-          "body": "El jefe de Alpine se refirió al argentino, quien terminó noveno en la primera práctica libre y undécimo en la segunda, por delante de Pierre Gasly, quien finalizó 14°.\n\nColapinto cedió su asiento a Mini en México y ahora Gasly hará lo propio en Brasil (Rudy Carezzevoli/Getty Images). + Seguinos en Steve Nielsen, el jefe de Alpine, destacó el rendimiento de Franco Colapinto y Gabriele Minì durante las prácticas libres del Gran Premio de Brasil , aunque reconoció que Pierre Gasly todavía no logró encontrar buenas sensaciones con el auto. El argentino terminó noveno en la primera práctica libre y undécimo en la segunda, por delante de Pierre Gasly, quien finalizó 14°.\n\nEn cuanto al desempeño de Colapinto, que registró un noveno puesto en la primera práctica y un undécimo en la segunda, Nielsen consideró que el rendimiento del monoplaza permite aspirar a mejores resultados. “Con Franco estando arriba en las dos sesiones, está claro que el auto tiene el potencial para marcar buenos tiempos” , sostuvo.\n\nAdemás, anticipó el objetivo de Alpine para la clasificación y la carrera: “Ahora depende de nosotros hacer esos ajustes en la puesta a punto y darles a Pierre y Franco las herramientas necesarias para pelear por entrar en Q3, algo que, viendo las diferencias de hoy, va a estar muy ajustado. Sabemos que tenemos ritmo y nuestro objetivo es aprovechar al máximo lo que tenemos entre manos y, ojalá, terminar el domingo con los dos autos dentro de los puntos”. Nielsen valoró especialmente la actuación de Minì, quien volvió a ocupar uno de los autos de Alpine durante la primera práctica libre. “Tuvimos a Gabriele en el auto durante la FP1 por segunda carrera consecutiva. Se adaptó muy rápido a un circuito que era nuevo para él y no cometió ningún error. Fue muy bueno verlo tan arrib",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-brasil-id770647.html",
+          "image": "https://media.tycsports.com/files/2026/11/06/1003267/franco-colapinto-alpine-2026_1440x810.webp",
+          "body": "Continúa la actividad en Interlagos con la Qualy de la Fórmula 1 y la participación de Franco Colapinto.\n\nFranco Colapinto - Alpine 2026 + Seguinos en Tras las prácticas libres, la Fórmula 1, con Kimi Antonelli como campeón mundial, continúa la actividad en el Gran Premio de Brasil con la clasificación, este sábado a las 15.00. Franco Colapinto va en busca de una buena posición de partida en Interlagos, a bordo de su Alpine A526. Conocé todos los detalles.\n\nEl argentino comenzó su actividad en Interlagos con un noveno puesto en las Prácticas Libres 1. Logró buen ritmo y su mejor vuelta la hizo con un tiempo de 1:14.832, pero culminó por detrás del joven Gabriele Mini, quien reemplazó a Pierre Gasly y terminó 7º. Más tarde, en la Práctica Libre 2, el oriundo de Pilar finalizó en la 11° colocación . Marcó un tiempo de 1:11.996 con neumáticos blandos y quedó por delante de su compañero de equipo, Pierre Gasly, quien volvió a subirse al Alpine #10. La práctica quedó en manos del flamante campeón, quien fue escoltado por Norris y Verstappen.\n\nEl Autódromo José Carlos Pace, ubicado en la ciudad de San Pablo, fue construido 1938 y forma parte del calendario de la Fórmula Uno desde 1973. Este trazado representa un verdadero desafio para los pilotos, ya que se caracteriza por su sentido antihorario y sus significativos desniveles. Tiene un total de 15 curvas y se intercalan giros de alta y baja velocidad.\n\nTodo el fin de semana de la Fórmula 1 se podrá ver en vivo en la Argentina a través de Fox Sports . Además, vas a poder seguir el minuto a minuto de la competición en el sitio web www.tycsports.com .",
           "language": "es",
-          "publishedAt": "2026-11-07T00:32:56.000Z",
-          "addedAt": "2026-11-07T02:05:45.526Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-analizo-el-rendimiento-de-alpine-en-las-practicas-en-interlagos-f1-formula-1-b",
-          "title": "Colapinto analizó el rendimiento de Alpine en las prácticas en Interlagos: \"Trabajaremos para mejorar mañana”",
-          "summary": "El argentino terminó noveno en la primera práctica y undécimo en la segunda, por delante de Pierre Gasly, quien finalizó 14°.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-analizo-el-rendimiento-de-alpine-en-las-practicas-en-interlagos-f1-formula-1-brasil-id770726.html",
-          "image": "https://media.tycsports.com/files/2026/10/30/1001361/franco-colapinto-alpine_1440x810.webp",
-          "body": "El argentino terminó noveno en la primera práctica y undécimo en la segunda, por delante de Pierre Gasly, quien finalizó 14°.\n\nEl argentino terminó noveno en la primera práctica y undécimo en la segunda en Brasil + Seguinos en Franco Colapinto cerró el viernes del Gran Premio de Brasil con buenas sensaciones en cuanto al ritmo de su Alpine, aunque reconoció que el equipo todavía debe trabajar en el balance y la estabilidad del monoplaza de cara a la clasificación. El argentino terminó noveno en la primera práctica libre y undécimo en la segunda , por delante de Pierre Gasly, quien finalizó 14°.\n\nEn diálogo con ESPN el piloto se refirió a la competitividad de los tiempos: “Está todo muy apretado”. Luego, agregó: “En cuanto a velocidad del auto, estamos bien. El balance y la consistencia falta, no está” . Colapinto explicó que Alpine probó una configuración diferente en la FP1 para evaluar posibles mejoras, pero los resultados no fueron los esperados.\n\n“Era muy inconsistente y se movía mucho en los baches. Así que en la FP2 volvimos un poco para atrás. Estuvo un poco mejor el auto, pero todavía falta. Estoy bloqueando en todos lados, falta tracción y consistencia en el auto. Trabajaremos para mejorar mañana” , detalló sobre los problemas que detectó durante las tandas. El argentino también destacó que el descenso de la temperatura sobre el final de la segunda práctica favoreció el comportamiento del monoplaza. “Creo que ahí el ritmo de carrera fue un pelín mejor. Hay mucho por trabajar hoy a la noche, para entender y seguir aprendiendo” , señaló. En la misma línea, ante Motorsport, remarcó que Alpine cuenta con margen para dar un paso adelante: “Hay mucho por mejorar y creo que tenemos bastante margen y varias áreas en las que podemos concentrarnos para mañana”.\n\nPese a l",
-          "language": "es",
-          "publishedAt": "2026-11-06T22:11:49.000Z",
-          "addedAt": "2026-11-06T22:13:52.217Z",
+          "publishedAt": "2026-11-07T13:13:49.000Z",
+          "addedAt": "2026-11-06T17:24:55.173Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2686,17 +2746,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-en-interlagos-segun-colapinto-el-alpine-tiene-velocidad-pero-no-traccion",
-          "title": "En Interlagos, según Colapinto: «el Alpine tiene velocidad pero no tracción»",
-          "summary": "Tras concluir el primer día del Gran Premio de San Pablo con las dos prácticas de F1, el piloto argentino analizó el rendimiento de su auto y cómo pretende seguir mejorando el sábado.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/en-interlagos-segun-colapinto-el-alpine-tiene-velocidad-pero-no-traccion/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261106-F1-FColapinto.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-multado-por-fia-por-exceso-velocidad-brasil-id770727-html",
+          "title": "Colapinto fue multado por la FIA en el inicio de la actividad del GP de Brasil de F1",
+          "summary": "Alpine deberá pagar por sanción al argentino por superar en 0.6 kilómetros por hora el tope permitido para el ingreso a boxes en Interlagos durante el viernes de prácticas de la Fórmula 1.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-multado-por-fia-por-exceso-velocidad-brasil-id770727.html",
+          "image": "https://media.tycsports.com/files/2026/09/03/984229/franco-colapinto-en-el-gp-de-monza_1440x810.webp",
+          "body": "Alpine deberá pagar por sanción al argentino por superar en 0.6 kilómetros por hora el tope permitido para el ingreso a boxes en Interlagos durante el viernes de prácticas de la Fórmula 1.\n\nFranco Colapinto ¿y un fin de semana de revancha? + Seguinos en Una vez más, la FIA parece empeñada en hacerle hostil la experiencia de la Fórmula 1 a Franco Colapinto, el eterno ejemplo de la aplicación más estricta del reglamento. Después de la tan polémica sanción que lo dejó sin puntos en México por no considerar suficiente su reducción de velocidad con bandera amarilla, el argentino recibió una multa durante el viernes de entrenamientos en Brasil, que deberá pagar Alpine.\n\nLa sanción, dentro de todo bastante usual aunque irrisoria, consiste en abonar 100 euros luego de que se detectara un exceso de velocidad en la salida de los boxes de Interlagos. Allí, el límite está establecido en 80 kilómetros por hora, y el pilarense habría pasado a 80.6 en la primera práctica . La semana anterior, por ejemplo, lo padeció Fernando Alonso cuando le registraron una velocidad de 80.2.\n\nPor suerte para Franco, este castigo ni lo despeina de cara al fin de semana puesto que no acarrea más consecuencias ni coletazos deportivos, pero le deja en claro que lo siguen manteniendo bien vigilado.\n\nDe esta manera, el piloto bonaerense conserva el noveno puesto conseguido durante la FP1, donde marcó un tiempo de 1:12.654 y terminó a 937 milésimas de Lando Norris, quien encabezó los registros. Después , en la FP2, fue undécimo con 1:11.996 y quedó a 1.233 segundos de Kimi Antonelli, el más rápido de la sesión.",
           "language": "es",
-          "publishedAt": "2026-11-06T21:20:43.000Z",
-          "addedAt": "2026-11-07T02:05:46.741Z",
+          "publishedAt": "2026-11-06T22:53:50.000Z",
+          "addedAt": "2026-11-06T22:13:52.274Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2742,6 +2802,36 @@
           "language": "es",
           "publishedAt": "2026-11-02T13:54:42.000Z",
           "addedAt": "2026-11-02T15:36:49.682Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-alpine-elogio-el-trabajo-de-colapinto-valoro-lo-hecho-por-mini-y-revelo-por-que-gasly-no",
+          "title": "Alpine elogió el trabajo de Colapinto, valoró lo hecho por Min&igrave; y reveló por qué Gasly no se sintió cómodo",
+          "summary": "El jefe de Alpine se refirió al argentino, quien terminó noveno en la primera práctica libre y undécimo en la segunda, por delante de Pierre Gasly, quien finalizó 14°.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/alpine-elogio-el-trabajo-de-colapinto-valoro-lo-hecho-por-mini-y-revelo-por-que-gasly-no-se-sintio-comodo-id770736.html",
+          "image": "https://media.tycsports.com/files/2026/11/01/1002028/franco-colapinto-alpine_1440x810.webp?v=1",
+          "body": "El jefe de Alpine se refirió al argentino, quien terminó noveno en la primera práctica libre y undécimo en la segunda, por delante de Pierre Gasly, quien finalizó 14°.\n\nColapinto cedió su asiento a Mini en México y ahora Gasly hará lo propio en Brasil (Rudy Carezzevoli/Getty Images). + Seguinos en Steve Nielsen, el jefe de Alpine, destacó el rendimiento de Franco Colapinto y Gabriele Minì durante las prácticas libres del Gran Premio de Brasil , aunque reconoció que Pierre Gasly todavía no logró encontrar buenas sensaciones con el auto. El argentino terminó noveno en la primera práctica libre y undécimo en la segunda, por delante de Pierre Gasly, quien finalizó 14°.\n\nEn cuanto al desempeño de Colapinto, que registró un noveno puesto en la primera práctica y un undécimo en la segunda, Nielsen consideró que el rendimiento del monoplaza permite aspirar a mejores resultados. “Con Franco estando arriba en las dos sesiones, está claro que el auto tiene el potencial para marcar buenos tiempos” , sostuvo.\n\nAdemás, anticipó el objetivo de Alpine para la clasificación y la carrera: “Ahora depende de nosotros hacer esos ajustes en la puesta a punto y darles a Pierre y Franco las herramientas necesarias para pelear por entrar en Q3, algo que, viendo las diferencias de hoy, va a estar muy ajustado. Sabemos que tenemos ritmo y nuestro objetivo es aprovechar al máximo lo que tenemos entre manos y, ojalá, terminar el domingo con los dos autos dentro de los puntos”. Nielsen valoró especialmente la actuación de Minì, quien volvió a ocupar uno de los autos de Alpine durante la primera práctica libre. “Tuvimos a Gabriele en el auto durante la FP1 por segunda carrera consecutiva. Se adaptó muy rápido a un circuito que era nuevo para él y no cometió ningún error. Fue muy bueno verlo tan arrib",
+          "language": "es",
+          "publishedAt": "2026-11-07T00:32:56.000Z",
+          "addedAt": "2026-11-07T02:05:45.526Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-analizo-el-rendimiento-de-alpine-en-las-practicas-en-interlagos-f1-formula-1-b",
+          "title": "Colapinto analizó el rendimiento de Alpine en las prácticas en Interlagos: \"Trabajaremos para mejorar mañana”",
+          "summary": "El argentino terminó noveno en la primera práctica y undécimo en la segunda, por delante de Pierre Gasly, quien finalizó 14°.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-analizo-el-rendimiento-de-alpine-en-las-practicas-en-interlagos-f1-formula-1-brasil-id770726.html",
+          "image": "https://media.tycsports.com/files/2026/10/30/1001361/franco-colapinto-alpine_1440x810.webp",
+          "body": "El argentino terminó noveno en la primera práctica y undécimo en la segunda, por delante de Pierre Gasly, quien finalizó 14°.\n\nEl argentino terminó noveno en la primera práctica y undécimo en la segunda en Brasil + Seguinos en Franco Colapinto cerró el viernes del Gran Premio de Brasil con buenas sensaciones en cuanto al ritmo de su Alpine, aunque reconoció que el equipo todavía debe trabajar en el balance y la estabilidad del monoplaza de cara a la clasificación. El argentino terminó noveno en la primera práctica libre y undécimo en la segunda , por delante de Pierre Gasly, quien finalizó 14°.\n\nEn diálogo con ESPN el piloto se refirió a la competitividad de los tiempos: “Está todo muy apretado”. Luego, agregó: “En cuanto a velocidad del auto, estamos bien. El balance y la consistencia falta, no está” . Colapinto explicó que Alpine probó una configuración diferente en la FP1 para evaluar posibles mejoras, pero los resultados no fueron los esperados.\n\n“Era muy inconsistente y se movía mucho en los baches. Así que en la FP2 volvimos un poco para atrás. Estuvo un poco mejor el auto, pero todavía falta. Estoy bloqueando en todos lados, falta tracción y consistencia en el auto. Trabajaremos para mejorar mañana” , detalló sobre los problemas que detectó durante las tandas. El argentino también destacó que el descenso de la temperatura sobre el final de la segunda práctica favoreció el comportamiento del monoplaza. “Creo que ahí el ritmo de carrera fue un pelín mejor. Hay mucho por trabajar hoy a la noche, para entender y seguir aprendiendo” , señaló. En la misma línea, ante Motorsport, remarcó que Alpine cuenta con margen para dar un paso adelante: “Hay mucho por mejorar y creo que tenemos bastante margen y varias áreas en las que podemos concentrarnos para mañana”.\n\nPese a l",
+          "language": "es",
+          "publishedAt": "2026-11-06T22:11:49.000Z",
+          "addedAt": "2026-11-06T22:13:52.217Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2819,7 +2909,13 @@
           "addedAt": "2026-11-02T05:51:30.787Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-11-07T15:11:30.733Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-gano-un-puesto-antes-de-la-largada-en-el-gp-de-mexico-id769714-html",
           "title": "Por qué Colapinto ganó un puesto antes de la largada en el GP de México",
@@ -2834,13 +2930,7 @@
           "addedAt": "2026-11-01T16:13:46.297Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-11-07T08:40:55.840Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159-h",
           "title": "Cómo le fue a Franco Colapinto en la FP3 del Gran Premio de México de Fórmula 1",
@@ -2872,17 +2962,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-brasil-id770647-ht",
-          "title": "F1: horario y dónde ver en vivo la clasificación de Colapinto en el GP de Brasil",
-          "summary": "Continúa la actividad en Interlagos con la Qualy de la Fórmula 1 y la participación de Franco Colapinto.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-brasil-id770647.html",
-          "image": "https://media.tycsports.com/files/2026/11/06/1003267/franco-colapinto-alpine-2026_1440x810.webp",
-          "body": "Continúa la actividad en Interlagos con la Qualy de la Fórmula 1 y la participación de Franco Colapinto.\n\nFranco Colapinto - Alpine 2026 + Seguinos en Tras las prácticas libres, la Fórmula 1, con Kimi Antonelli como campeón mundial, continúa la actividad en el Gran Premio de Brasil con la clasificación, este sábado a las 15.00. Franco Colapinto va en busca de una buena posición de partida en Interlagos, a bordo de su Alpine A526. Conocé todos los detalles.\n\nEl argentino comenzó su actividad en Interlagos con un noveno puesto en las Prácticas Libres 1. Logró buen ritmo y su mejor vuelta la hizo con un tiempo de 1:14.832, pero culminó por detrás del joven Gabriele Mini, quien reemplazó a Pierre Gasly y terminó 7º. Más tarde, en la Práctica Libre 2, el oriundo de Pilar finalizó en la 11° colocación . Marcó un tiempo de 1:11.996 con neumáticos blandos y quedó por delante de su compañero de equipo, Pierre Gasly, quien volvió a subirse al Alpine #10. La práctica quedó en manos del flamante campeón, quien fue escoltado por Norris y Verstappen.\n\nEl Autódromo José Carlos Pace, ubicado en la ciudad de San Pablo, fue construido 1938 y forma parte del calendario de la Fórmula Uno desde 1973. Este trazado representa un verdadero desafio para los pilotos, ya que se caracteriza por su sentido antihorario y sus significativos desniveles. Tiene un total de 15 curvas y se intercalan giros de alta y baja velocidad.\n\nTodo el fin de semana de la Fórmula 1 se podrá ver en vivo en la Argentina a través de Fox Sports . Además, vas a poder seguir el minuto a minuto de la competición en el sitio web www.tycsports.com .",
+          "id": "campeones-com-ar-en-interlagos-segun-colapinto-el-alpine-tiene-velocidad-pero-no-traccion",
+          "title": "En Interlagos, según Colapinto: «el Alpine tiene velocidad pero no tracción»",
+          "summary": "Tras concluir el primer día del Gran Premio de San Pablo con las dos prácticas de F1, el piloto argentino analizó el rendimiento de su auto y cómo pretende seguir mejorando el sábado.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/en-interlagos-segun-colapinto-el-alpine-tiene-velocidad-pero-no-traccion/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261106-F1-FColapinto.jpg",
+          "body": "",
           "language": "es",
-          "publishedAt": "2026-11-07T03:04:48.000Z",
-          "addedAt": "2026-11-06T17:24:55.173Z",
+          "publishedAt": "2026-11-06T21:20:43.000Z",
+          "addedAt": "2026-11-07T02:05:46.741Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3095,27 +3185,12 @@
           "addedAt": "2026-10-30T20:41:26.035Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-colapinto-cerro-el-viernes-de-f1-siendo-11-en-las-practicas-brasilenas",
-          "title": "Colapinto cerró el viernes de F1 siendo 11.° en las prácticas brasileñas",
-          "summary": "A bordo del Alpine el piloto argentino concluyó con el primer día de preparación en Interlagos, en una sesión que tuvo cielo plomizo y una neblina que incidió en la temperatura de pista.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-cerro-el-viernes-de-f1-siendo-11-en-las-practicas-brasilenas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261106-F1-Colapinto-Alpine.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-06T20:06:26.000Z",
-          "addedAt": "2026-11-07T02:05:46.941Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-11-07T08:40:55.840Z",
+      "createdAt": "2026-11-07T15:11:30.733Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-fernando-alonso-bombazo-formula-1-gp-de-mexico-id769666-html",
@@ -3161,21 +3236,6 @@
           "addedAt": "2026-11-04T00:03:29.602Z",
           "category": "general",
           "tag": "Carrera"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-todas-las-sanciones-antes-de-la-qualy-del-gp-de-mexico-id769603-html",
-          "title": "Todas las sanciones antes de la Qualy del GP de México",
-          "summary": "La clasificación en el Autódromo Hermanos Rodríguez se disputará este sábado a las 18. Entre los veintidós pilotos de la parrilla, algunos buscarán un buen punto de partida para el domingo condicionados.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/todas-las-sanciones-antes-de-la-qualy-del-gp-de-mexico-id769603.html",
-          "image": "https://media.tycsports.com/files/2026/10/31/1001465/max-verstappen_1440x810.webp",
-          "body": "La clasificación en el Autódromo Hermanos Rodríguez se disputará este sábado a las 18. Entre los veintidós pilotos de la parrilla, algunos buscarán un buen punto de partida para el domingo condicionados.\n\nMax Verstappen, uno de los pilotos sancionados en la previa de la clasificación del GP de México. + Seguinos en El Gran Premio de México puede ser definitorio en la consagración de Andrea Kimi Antonelli como campeón de la Fórmula 1 . A horas de una nueva clasificación, los pilotos se preparan para competir e intentar retrasar el título del joven italiano. Entre la élite de veintidós, hay algunos que arrastran limitaciones en forma de sanciones. Conocé quiénes y cuáles son .\n\nLa segunda práctica libre en el Autódromo Hermanos Rodríguez regaló un momento tan tensionante como innecesario: sobre el toque entre los autos de Max Verstappen y Liam Lawson —uno tetracampeón del mundo, el otro más relegado; ambos, ex-compañeros en Red Bull—, tomó nota la FIA . Y ya decretó el castigo: una posición más atrás en la carrera y un punto menos en la Superlicencia .\n\nPor otro lado, el más afectado será Valtteri Bottas . El finlandés, que le cedió su auto al estadounidense Colton Herta durante la FP1, superó ampliamente el límite de cambios en cinco de los siete componentes de la unidad de potencia . Las 50 posiciones de penalización (10 por componente) suponen una sanción simbólica . La traducción es que, inevitablemente, saldrá desde el fondo de la parrilla el domingo.\n\nFernando Alonso no está teniendo una temporada fácil en Aston Martin, y su exceso de velocidad en los primeros libres se encuadra en esa lógica viciosa . El exceso del límite de velocidad de salida del pit-lane (80 km/h) por 0,2 km/h acarreó una multa económica de 100 euros que la escudería británica asumió sin inconve",
-          "language": "es",
-          "publishedAt": "2026-10-31T14:32:38.000Z",
-          "addedAt": "2026-10-31T16:01:48.513Z",
-          "category": "general",
-          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-la-formula-1-confirmo-cuando-volveran-los-motores-v8-el-anuncio-de-mohammed-ben-sulayem-",
@@ -3343,6 +3403,21 @@
           "tag": "F1"
         },
         {
+          "id": "www-tycsports-com-automovilismo-todas-las-sanciones-antes-de-la-qualy-del-gp-de-mexico-id769603-html",
+          "title": "Todas las sanciones antes de la Qualy del GP de México",
+          "summary": "La clasificación en el Autódromo Hermanos Rodríguez se disputará este sábado a las 18. Entre los veintidós pilotos de la parrilla, algunos buscarán un buen punto de partida para el domingo condicionados.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/todas-las-sanciones-antes-de-la-qualy-del-gp-de-mexico-id769603.html",
+          "image": "https://media.tycsports.com/files/2026/10/31/1001465/max-verstappen_1440x810.webp",
+          "body": "La clasificación en el Autódromo Hermanos Rodríguez se disputará este sábado a las 18. Entre los veintidós pilotos de la parrilla, algunos buscarán un buen punto de partida para el domingo condicionados.\n\nMax Verstappen, uno de los pilotos sancionados en la previa de la clasificación del GP de México. + Seguinos en El Gran Premio de México puede ser definitorio en la consagración de Andrea Kimi Antonelli como campeón de la Fórmula 1 . A horas de una nueva clasificación, los pilotos se preparan para competir e intentar retrasar el título del joven italiano. Entre la élite de veintidós, hay algunos que arrastran limitaciones en forma de sanciones. Conocé quiénes y cuáles son .\n\nLa segunda práctica libre en el Autódromo Hermanos Rodríguez regaló un momento tan tensionante como innecesario: sobre el toque entre los autos de Max Verstappen y Liam Lawson —uno tetracampeón del mundo, el otro más relegado; ambos, ex-compañeros en Red Bull—, tomó nota la FIA . Y ya decretó el castigo: una posición más atrás en la carrera y un punto menos en la Superlicencia .\n\nPor otro lado, el más afectado será Valtteri Bottas . El finlandés, que le cedió su auto al estadounidense Colton Herta durante la FP1, superó ampliamente el límite de cambios en cinco de los siete componentes de la unidad de potencia . Las 50 posiciones de penalización (10 por componente) suponen una sanción simbólica . La traducción es que, inevitablemente, saldrá desde el fondo de la parrilla el domingo.\n\nFernando Alonso no está teniendo una temporada fácil en Aston Martin, y su exceso de velocidad en los primeros libres se encuadra en esa lógica viciosa . El exceso del límite de velocidad de salida del pit-lane (80 km/h) por 0,2 km/h acarreó una multa económica de 100 euros que la escudería británica asumió sin inconve",
+          "language": "es",
+          "publishedAt": "2026-10-31T14:32:38.000Z",
+          "addedAt": "2026-10-31T16:01:48.513Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id769464-html",
           "title": "Qué necesita Kimi Antonelli para ser campeón de la Fórmula 1 en México",
           "summary": "Tras su victoria en el Gran Premio de Estados Unidos, el italiano está a un paso de levantar su primer título en la Máxima este fin de semana en el Autódromo Hermanos Rodríguez.",
@@ -3391,7 +3466,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-11-07T08:40:55.840Z",
+      "createdAt": "2026-11-07T15:11:30.733Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id768571-html",
@@ -3482,6 +3557,21 @@
           "addedAt": "2026-10-30T15:50:03.698Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "campeones-com-ar-colapinto-cerro-el-viernes-de-f1-siendo-11-en-las-practicas-brasilenas",
+          "title": "Colapinto cerró el viernes de F1 siendo 11.° en las prácticas brasileñas",
+          "summary": "A bordo del Alpine el piloto argentino concluyó con el primer día de preparación en Interlagos, en una sesión que tuvo cielo plomizo y una neblina que incidió en la temperatura de pista.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-cerro-el-viernes-de-f1-siendo-11-en-las-practicas-brasilenas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261106-F1-Colapinto-Alpine.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-06T20:06:26.000Z",
+          "addedAt": "2026-11-07T02:05:46.941Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-como-quedo-la-grilla-definitiva-del-gp-de-estados-unidos-de-la-f1-id768491-html",
@@ -3647,7 +3737,13 @@
           "addedAt": "2026-10-24T02:00:16.108Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-11-07T15:11:30.733Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-messi-balon-de-oro-id767832-html",
           "title": "Colapinto eligió a Messi como su candidato para el Balón de Oro: “Sería muy lindo que lo vuelva a ganar”",
@@ -3662,13 +3758,7 @@
           "addedAt": "2026-10-22T19:59:10.767Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-11-07T08:40:55.840Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-el-nuevo-casco-que-presento-colapinto-con-los-colores-de-boca-id767936-html",
           "title": "Con \"un poco de Boca\", el nuevo casco que presentó Colapinto",
@@ -3820,6 +3910,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-panetta-avanzo-y-quedo-a-las-puertas-de-los-puntos-en-barcelona",
+          "title": "Panetta avanzó y quedó a las puertas de los puntos en Barcelona",
+          "summary": "Luego de largar 13° en la primera carrera, Santino se las arregló para escalar dos posiciones, finalizando 11° en la general y octavo entre los \"Rookies\" de la Eurocup-3.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/panetta-avanzo-y-quedo-a-las-puertas-de-los-puntos-en-barcelona/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/PANETTA-SANTINO-EUROCUP-3-MONTMELO-2026-e1794050255275.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-07T13:09:23.000Z",
+          "addedAt": "2026-11-07T15:11:22.726Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-colapinto-se-mostro-conforme-con-el-alpine-y-hablo-de-curitas-hasta-el-2027",
           "title": "Colapinto se mostró conforme con el Alpine y habló de \"curitas\" hasta el 2027 | Campeones",
           "summary": "El argentino ya se encuentra en San Pablo y dialogó con la prensa acerca del rendimiento del A526, la evolución respecto al año pasado y las reformas que vendrán una vez terminada la corriente temporada.",
@@ -3906,36 +4011,6 @@
           "language": "es",
           "publishedAt": "2026-10-23T14:07:09.000Z",
           "addedAt": "2026-10-23T17:19:41.481Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-colapinto-llego-a-san-pablo-para-mantener-el-ritmo-de-mexico-ser-solidos-y-sumar",
-          "title": "Colapinto llegó a San Pablo para «mantener el ritmo de México, ser sólidos y sumar» | Campeones",
-          "summary": "Tras el frustrado resultado en el autódromo \"Hermanos Rodríguez\", el piloto argentino se prepara para continuar evolucionando y ser Top10 con el Alpine en Interlagos.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-llego-a-san-pablo-para-mantener-el-ritmo-de-mexico-ser-solidos-y-sumar/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Alpine-Franco-Colapinto-Brasil-2026-Ropa-1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-03T16:24:18.000Z",
-          "addedAt": "2026-11-03T19:26:57.354Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-colapinto-tras-su-gran-labor-en-mexico-fue-una-muy-buena-carrera-ejecute-todo-perfecto",
-          "title": "Colapinto tras su gran labor en México: «Fue una muy buena carrera, ejecuté todo perfecto»",
-          "summary": "El piloto de Alpine habló al concluir la carrera y detalló cómo desarrolló su estrategia; posteriormente fue sancionado con 10 segundos y se lo reclasificó en el 15.° lugar.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-tras-su-gran-labor-en-mexico-fue-una-muy-buena-carrera-ejecute-todo-perfecto/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261101-F1-Franco-Colapinto.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-01T22:52:58.000Z",
-          "addedAt": "2026-11-02T05:51:32.698Z",
           "category": "argentino",
           "tag": "Franco"
         }
