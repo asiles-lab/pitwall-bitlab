@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-08T02:20:22.745Z",
-  "checkedAt": "2026-11-08T02:20:22.745Z",
+  "updatedAt": "2026-11-08T09:16:22.367Z",
+  "checkedAt": "2026-11-08T09:16:22.367Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,51 +40,6 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-gp-de-san-pablo-colapinto-se-ubico-17-en-la-demorada-clasificacion-de-f1",
-      "title": "GP de San Pablo: Colapinto quedó 17.° en la demorada clasificación de F1",
-      "summary": "Tras la espera de más de una hora por las mejoras en las condiciones del tiempo por una fuerte lluvia, se concretó la sesión en la cual el piloto argentino y su compañero Gasly quedaron eliminados en la primera parte.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/gp-de-san-pablo-colapinto-se-ubico-17-en-la-demorada-clasificacion-de-f1/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-F1-Colapinto-Qualy.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-07T22:46:53.000Z",
-      "addedAt": "2026-11-07T23:03:39.594Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
-    {
-      "id": "campeones-com-ar-el-alpine-de-colapinto-no-tuvo-agarre-ritmo-ni-velocidad-bajo-la-lluvia-de-san-pablo",
-      "title": "Un Alpine sin \"agarre, ritmo y velocidad\" condicionó a Colapinto en la clasificación paulista de F1",
-      "summary": "El piloto argentino señaló que el coche no rindió como esperaba en la pista húmeda de Interlagos, en donde solo pudo girar en la primera sesión cronometrada quedando en el 17.° puesto.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-alpine-de-colapinto-no-tuvo-agarre-ritmo-ni-velocidad-bajo-la-lluvia-de-san-pablo/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-F1-F-Colapinto-paddock.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-07T22:02:16.000Z",
-      "addedAt": "2026-11-07T23:03:39.752Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
-    {
-      "id": "www-tycsports-com-automovilismo-duro-castigo-para-max-verstappen-partira-desde-el-final-de-la-parrilla-en-el-gp-de-brasi",
-      "title": "Duro castigo para Max Verstappen: partirá desde el final de la parrilla en el GP de Brasil",
-      "summary": "Lewis Hamilton y Charles Leclerc perderán diez puestos y Sergio Checo Pérez también saldrá último.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/duro-castigo-para-max-verstappen-partira-desde-el-final-de-la-parrilla-en-el-gp-de-brasil-id770785.html",
-      "image": "https://media.tycsports.com/files/2026/10/31/1001465/max-verstappen_1440x810.webp",
-      "body": "Lewis Hamilton y Charles Leclerc perderán diez puestos y Sergio Checo Pérez también saldrá último.\n\nMax Verstappen, uno de los pilotos sancionados en la previa de la clasificación del GP de México. + Seguinos en Max Verstappen largará desde el fondo de la grilla en el Gran Premio de San Pablo ya que Red Bull cambió componentes de la unidad de potencia de su monoplaza tras los problemas que tuvo el neerlandés en los entrenamientos libres del viernes. Por eso, lo que haga en la clasificación no tendrá incidencia en su posición de partida.\n\nEl neerlandés no será el único de los pilotos en ser sancionado. Lewis Hamilton y Charles Leclerc perderán diez lugares porque montaron su quinto motor de combustión interna (ICE) en los monoplazas de Ferrari. Estos múltiples cambios de componentes provocaron que la grilla sea muy diferente a la que resultará de la clasificación , que se llevará a cabo desde las 15 del sábado. Para el Cavallino Rampante será un domingo complicado : sus dos pilotos tendrán que remontar desde puestos inesperados, después de un viernes que no dejó grandes sensaciones en Maranello.\n\nSergio Checo Pérez también largará desde el fondo , al igual que Verstappen. Los dos excompañeros de Red Bull coincidirán así en una situación adversa, aunque con más dificultades para el mexicano, que corre con Cadillac .\n\nEn Mercedes, George Russell también tiene pendientes cinco puestos de sanción por cambiar parte de su unidad de potencia. La carrera se correrá este domingo desde las 14 en el circuito de Interlagos.",
-      "language": "es",
-      "publishedAt": "2026-11-07T16:54:59.000Z",
-      "addedAt": "2026-11-07T19:30:25.014Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "campeones-com-ar-sorprendente-dominio-de-santino-rossi-en-el-rally-de-traslasierra",
       "title": "Sorprendente dominio de Santino Rossi en el Rally de Traslasierra",
       "summary": "El piloto fueguino se impone tras la primera etapa de la penúltima fecha del Rally Argentino, superando a los campeones nacionales Villagra y Baldoni.",
@@ -113,6 +68,21 @@
       "addedAt": "2026-11-08T02:20:26.145Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-duro-castigo-para-max-verstappen-partira-desde-el-final-de-la-parrilla-en-el-gp-de-brasi",
+      "title": "Duro castigo para Max Verstappen: partirá desde el final de la parrilla en el GP de Brasil",
+      "summary": "Lewis Hamilton y Charles Leclerc perderán diez puestos y Sergio Checo Pérez también saldrá último.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/duro-castigo-para-max-verstappen-partira-desde-el-final-de-la-parrilla-en-el-gp-de-brasil-id770785.html",
+      "image": "https://media.tycsports.com/files/2026/10/31/1001465/max-verstappen_1440x810.webp",
+      "body": "Lewis Hamilton y Charles Leclerc perderán diez puestos y Sergio Checo Pérez también saldrá último.\n\nMax Verstappen, uno de los pilotos sancionados en la previa de la clasificación del GP de México. + Seguinos en Max Verstappen largará desde el fondo de la grilla en el Gran Premio de San Pablo ya que Red Bull cambió componentes de la unidad de potencia de su monoplaza tras los problemas que tuvo el neerlandés en los entrenamientos libres del viernes. Por eso, lo que haga en la clasificación no tendrá incidencia en su posición de partida.\n\nEl neerlandés no será el único de los pilotos en ser sancionado. Lewis Hamilton y Charles Leclerc perderán diez lugares porque montaron su quinto motor de combustión interna (ICE) en los monoplazas de Ferrari. Estos múltiples cambios de componentes provocaron que la grilla sea muy diferente a la que resultará de la clasificación , que se llevará a cabo desde las 15 del sábado. Para el Cavallino Rampante será un domingo complicado : sus dos pilotos tendrán que remontar desde puestos inesperados, después de un viernes que no dejó grandes sensaciones en Maranello.\n\nSergio Checo Pérez también largará desde el fondo , al igual que Verstappen. Los dos excompañeros de Red Bull coincidirán así en una situación adversa, aunque con más dificultades para el mexicano, que corre con Cadillac .\n\nEn Mercedes, George Russell también tiene pendientes cinco puestos de sanción por cambiar parte de su unidad de potencia. La carrera se correrá este domingo desde las 14 en el circuito de Interlagos.",
+      "language": "es",
+      "publishedAt": "2026-11-07T16:54:59.000Z",
+      "addedAt": "2026-11-07T19:30:25.014Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-en-brasil-colapinto-fue-noveno-en-el-primer-entrenamiento-de-f1",
@@ -158,21 +128,6 @@
       "addedAt": "2026-11-02T23:13:38.970Z",
       "category": "argentino",
       "tag": "Franco"
-    },
-    {
-      "id": "www-tycsports-com-automovilismo-por-que-hamilton-largara-desde-el-fondo-en-el-gp-de-brasil-de-la-f1-id770795-html",
-      "title": "Por qué Hamilton largará desde el fondo en el GP de Brasil de la F1",
-      "summary": "Ferrari amplió el reemplazo de componentes en la unidad de potencia del monoplaza del británico, que acumula 30 lugares de castigo, y partirá desde atrás en San Pablo junto a Verstappen y Checo Pérez.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/por-que-hamilton-largara-desde-el-fondo-en-el-gp-de-brasil-de-la-f1-id770795.html",
-      "image": "https://media.tycsports.com/files/2026/11/07/1003560/lewis-hamilton-_1440x810.webp",
-      "body": "Ferrari amplió el reemplazo de componentes en la unidad de potencia del monoplaza del británico, que acumula 30 lugares de castigo, y partirá desde atrás en San Pablo junto a Verstappen y Checo Pérez.\n\nLewis Hamilton + Seguinos en El domingo de Lewis Hamilton se complicó antes de que siquiera saliera a clasificar. Lo que empezaba como una penalización de diez puestos se convirtió en condena al fondo de la parrilla del Gran Premio de Brasil, después de que Ferrari ampliara el reemplazo de componentes de su unidad de potencia y el castigo acumulado llegara a 30 posiciones . El británico largará desde atrás junto a Max Verstappen y Checo Pérez, y su actuación del sábado solo servirá para definir el orden entre los tres.\n\nLa clave está en cómo funciona la acumulación de sanciones. El reglamento establece diez lugares de penalización la primera vez que se supera el cupo permitido de cada componente, y cinco en los reemplazos posteriores del mismo elemento. Cuando se cambian varias piezas que exceden sus respectivas asignaciones, los castigos se suman. El escenario inicial contemplaba diez puestos para cada Ferrari por incorporar su quinto motor de combustión interna , cuando e l máximo autorizado es cuatro por temporada. Charles Leclerc mantiene esa penalización. Hamilton, en cambio, sumó reemplazos adicionales que elevaron su castigo total a 30 posiciones.\n\nA partir de los 15 puestos acumulados, el reglamento obliga a largar desde el fondo de la grilla, sin importar el tiempo que se marque en la clasificación. Además, la sanción por componentes no implica salida desde boxes: Hamilton queda relegado al final de la parrilla, pero arranca desde su posición.\n\nHamilton no estará solo atrás . Max Verstappen también quedó enviado al fondo por incorporar su quinto motor de combusti",
-      "language": "es",
-      "publishedAt": "2026-11-07T18:50:40.000Z",
-      "addedAt": "2026-11-07T19:30:24.865Z",
-      "category": "general",
-      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-rally-argentino-zeballos-acelero-en-la-noche-de-villa-dolores",
@@ -235,19 +190,19 @@
       "tag": "Franco"
     },
     {
-      "id": "campeones-com-ar-la-lluvia-altero-la-clasificacion-de-formula-1-en-interlagos",
-      "title": "La lluvia alteró la clasificación de F1 en Interlagos",
-      "summary": "Por el agua acumulada en varios sectores de la pista, la dirección de carrera postergó la sesión cronometrada del Gran Premio de San Pablo.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/la-lluvia-altero-la-clasificacion-de-formula-1-en-interlagos/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-F1-box-Interlagos.jpg",
-      "body": "",
+      "id": "www-tycsports-com-automovilismo-por-que-hamilton-largara-desde-el-fondo-en-el-gp-de-brasil-de-la-f1-id770795-html",
+      "title": "Por qué Hamilton largará desde el fondo en el GP de Brasil de la F1",
+      "summary": "Ferrari amplió el reemplazo de componentes en la unidad de potencia del monoplaza del británico, que acumula 30 lugares de castigo, y partirá desde atrás en San Pablo junto a Verstappen y Checo Pérez.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/por-que-hamilton-largara-desde-el-fondo-en-el-gp-de-brasil-de-la-f1-id770795.html",
+      "image": "https://media.tycsports.com/files/2026/11/07/1003560/lewis-hamilton-_1440x810.webp",
+      "body": "Ferrari amplió el reemplazo de componentes en la unidad de potencia del monoplaza del británico, que acumula 30 lugares de castigo, y partirá desde atrás en San Pablo junto a Verstappen y Checo Pérez.\n\nLewis Hamilton + Seguinos en El domingo de Lewis Hamilton se complicó antes de que siquiera saliera a clasificar. Lo que empezaba como una penalización de diez puestos se convirtió en condena al fondo de la parrilla del Gran Premio de Brasil, después de que Ferrari ampliara el reemplazo de componentes de su unidad de potencia y el castigo acumulado llegara a 30 posiciones . El británico largará desde atrás junto a Max Verstappen y Checo Pérez, y su actuación del sábado solo servirá para definir el orden entre los tres.\n\nLa clave está en cómo funciona la acumulación de sanciones. El reglamento establece diez lugares de penalización la primera vez que se supera el cupo permitido de cada componente, y cinco en los reemplazos posteriores del mismo elemento. Cuando se cambian varias piezas que exceden sus respectivas asignaciones, los castigos se suman. El escenario inicial contemplaba diez puestos para cada Ferrari por incorporar su quinto motor de combustión interna , cuando e l máximo autorizado es cuatro por temporada. Charles Leclerc mantiene esa penalización. Hamilton, en cambio, sumó reemplazos adicionales que elevaron su castigo total a 30 posiciones.\n\nA partir de los 15 puestos acumulados, el reglamento obliga a largar desde el fondo de la grilla, sin importar el tiempo que se marque en la clasificación. Además, la sanción por componentes no implica salida desde boxes: Hamilton queda relegado al final de la parrilla, pero arranca desde su posición.\n\nHamilton no estará solo atrás . Max Verstappen también quedó enviado al fondo por incorporar su quinto motor de combusti",
       "language": "es",
-      "publishedAt": "2026-11-07T19:03:05.000Z",
-      "addedAt": "2026-11-07T19:30:26.277Z",
+      "publishedAt": "2026-11-07T18:50:40.000Z",
+      "addedAt": "2026-11-07T19:30:24.865Z",
       "category": "general",
-      "tag": "Clima"
+      "tag": "F1"
     },
     {
       "id": "www-tycsports-com-automovilismo-fue-promesa-de-la-f1-casi-muere-en-un-accidente-perdio-la-memoria-y-su-historia-inspiro-",
@@ -263,6 +218,51 @@
       "addedAt": "2026-11-02T15:36:49.621Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-actividad-argentina-en-interlagos-con-la-f4-brasil",
+      "title": "Actividad argentina en Interlagos con la F4 Brasil | Campeones",
+      "summary": "Nuevamente, la categoría de monoplazas es \"telonera\" de la Fórmula 1 y tres argentinos dijeron presente en la clasificación.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/actividad-argentina-en-interlagos-con-la-f4-brasil/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261105-F1-San-Pablo-Interlagos.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-06T23:39:04.000Z",
+      "addedAt": "2026-11-07T02:05:46.946Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-el-autodromo-de-rio-cuarto-recibio-otra-inspeccion-de-la-actc",
+      "title": "El autódromo de Río Cuarto recibió otra inspección de la ACTC",
+      "summary": "Roberto Argento realizó una nueva visita al circuito acompañado por Leonel López, integrante de la comisión directiva del Automóvil Club Río Cuarto, de cara a la carrera que marcará el retorno de TC tras 14 años.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/el-autodromo-de-rio-cuarto-recibio-otra-inspeccion-de-la-actc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/AUTODROMO-RIO-CUARTO-e1780083834569.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-06T15:29:37.000Z",
+      "addedAt": "2026-11-06T17:24:57.982Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-la-lluvia-altero-la-clasificacion-de-formula-1-en-interlagos",
+      "title": "La lluvia alteró la clasificación de F1 en Interlagos",
+      "summary": "Por el agua acumulada en varios sectores de la pista, la dirección de carrera postergó la sesión cronometrada del Gran Premio de San Pablo.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/la-lluvia-altero-la-clasificacion-de-formula-1-en-interlagos/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-F1-box-Interlagos.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-07T19:03:05.000Z",
+      "addedAt": "2026-11-07T19:30:26.277Z",
+      "category": "general",
+      "tag": "Clima"
     },
     {
       "id": "campeones-com-ar-girolami-y-hyundai-en-lo-mas-alto-de-la-clasificacion-del-tcr-en-rosario",
@@ -370,51 +370,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-gran-premio-de-qatar-marc-marquez-vencio-en-convulsionada-carrera-sprint-de-motogp",
-      "title": "Gran Premio de Qatar: Marc Márquez venció en \"convulsionada\" carrera Sprint de MotoGP",
-      "summary": "Una fuerte caída de su compañero Bagnaia motivó la interrupción con bandera roja en el inicio; en la segunda parte salió indemne de un toque con Bezzecchi.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/gran-premio-de-qatar-marc-marquez-vencio-en-convulsionada-carrera-sprint-de-motogp/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-MotoGP-Marc-Marquez.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-07T16:56:28.000Z",
-      "addedAt": "2026-11-07T19:30:27.252Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
-    {
-      "id": "campeones-com-ar-actividad-argentina-en-interlagos-con-la-f4-brasil",
-      "title": "Actividad argentina en Interlagos con la F4 Brasil | Campeones",
-      "summary": "Nuevamente, la categoría de monoplazas es \"telonera\" de la Fórmula 1 y tres argentinos dijeron presente en la clasificación.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/actividad-argentina-en-interlagos-con-la-f4-brasil/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261105-F1-San-Pablo-Interlagos.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-06T23:39:04.000Z",
-      "addedAt": "2026-11-07T02:05:46.946Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-el-autodromo-de-rio-cuarto-recibio-otra-inspeccion-de-la-actc",
-      "title": "El autódromo de Río Cuarto recibió otra inspección de la ACTC",
-      "summary": "Roberto Argento realizó una nueva visita al circuito acompañado por Leonel López, integrante de la comisión directiva del Automóvil Club Río Cuarto, de cara a la carrera que marcará el retorno de TC tras 14 años.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-autodromo-de-rio-cuarto-recibio-otra-inspeccion-de-la-actc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/AUTODROMO-RIO-CUARTO-e1780083834569.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-06T15:29:37.000Z",
-      "addedAt": "2026-11-06T17:24:57.982Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-colton-herta-consiguio-la-superlicencia-para-correr-en-f1-en-2027-pero-bottas-no-se-rind",
       "title": "La decisión de Cadillac que pone en riesgo el asiento de Bottas para 2027 en la F1",
       "summary": "El estadounidense completó el requisito que le faltaba en Interlagos y quedó habilitado para debutar en la categoría. Sin embargo, el finlandés confía en mantener su butaca.",
@@ -490,6 +445,36 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-el-gran-premio-de-sao-paulo-extiende-su-contrato-con-la-formula-1-hasta-2035",
+      "title": "El Gran Premio de San Pablo extiende su contrato con la Fórmula 1 hasta 2035",
+      "summary": "Interlagos seguirá en el calendario del Gran Circo por cinco temporadas más. Stefano Domenicali, Ricardo Nunes y Alan Adler celebraron el acuerdo y destacaron la importancia para el automovilismo de la ciudad de São Paulo.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/el-gran-premio-de-sao-paulo-extiende-su-contrato-con-la-formula-1-hasta-2035/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/SAO-PAULO-FORMULA-1-INTERLAGOS-2026-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-07T18:50:10.000Z",
+      "addedAt": "2026-11-08T09:16:26.875Z",
+      "category": "general",
+      "tag": "Mercado"
+    },
+    {
+      "id": "campeones-com-ar-gran-premio-de-qatar-marc-marquez-vencio-en-convulsionada-carrera-sprint-de-motogp",
+      "title": "Gran Premio de Qatar: Marc Márquez venció en \"convulsionada\" carrera Sprint de MotoGP",
+      "summary": "Una fuerte caída de su compañero Bagnaia motivó la interrupción con bandera roja en el inicio; en la segunda parte salió indemne de un toque con Bezzecchi.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/gran-premio-de-qatar-marc-marquez-vencio-en-convulsionada-carrera-sprint-de-motogp/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-MotoGP-Marc-Marquez.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-07T16:56:28.000Z",
+      "addedAt": "2026-11-07T19:30:27.252Z",
+      "category": "general",
+      "tag": "Carrera"
+    },
+    {
       "id": "www-tycsports-com-automovilismo-liam-lawson-puso-en-duda-su-continuidad-en-la-formula-1-y-expreso-su-frustracion-no-se-q",
       "title": "Liam Lawson consiguió sus mejores resultados, pero todavía no sabe si seguirá en la Fórmula 1: “No sé qué más quieren que haga”",
       "summary": "A pesar de estar noveno en el campeonato de pilotos, el integrante de Racing Bulls no está confirmado para el año próximo y los rumores que indican que puede ser reemplazado por Tsolov crecen.",
@@ -516,51 +501,6 @@
       "language": "es",
       "publishedAt": "2026-11-03T20:00:56.000Z",
       "addedAt": "2026-11-04T00:03:31.837Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-mouras-arrigoni-dominador-del-sabado-en-la-plata",
-      "title": "TC Mouras: Arrigoni, dominador del sábado en La Plata | Campeones",
-      "summary": "Se quedó con la clasificación a bordo del Dodge del Rus Med Team, luego de ser el más veloz en los ensayos previos. Nicolás Jaime, líder del campeonato, se colocó 2° a solo 12 milésimas y cerró el \"1-2\" de la marca.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-mouras-arrigoni-dominador-del-sabado-en-la-plata/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/dsc-7927-jpg-crop-1794064680821-609400123.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-07T20:46:06.000Z",
-      "addedAt": "2026-11-07T23:03:41.559Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-pista-mouras-ignacio-vilas-revalido-su-buen-andar-y-se-quedo-con-la-clasificacion",
-      "title": "TC Pista Mouras: Ignacio Vilas revalidó su buen andar y se quedó con la clasificación | Campeones",
-      "summary": "El correntino fue el más rápido con la Dodge del Galarza Racing tras liderar los ensayos matutinos. Damián Pérez fue segundo y lo acompañará en la primera fila de la Serie Única.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-pista-mouras-ignacio-vilas-revalido-su-buen-andar-y-se-quedo-con-la-clasificacion/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/PHOTO-2026-11-07-14-32-06.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-07T20:27:16.000Z",
-      "addedAt": "2026-11-07T23:03:41.378Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-mouras-arrigoni-arranco-adelante-en-la-plata",
-      "title": "TC Mouras: Arrigoni arrancó adelante en La Plata | Campeones",
-      "summary": "El piloto del Rus Med Team lideró con la Dodge en la mañana de sábado en La Plata, mientras que el Ford de Matías Frano se quedó con el segundo ensayo.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-mouras-arrigoni-arranco-adelante-en-la-plata/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/dsc-7927-jpg-crop-1794064680821-609400123.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-07T16:47:28.000Z",
-      "addedAt": "2026-11-07T19:30:28.823Z",
       "category": "general",
       "tag": "F1"
     },
@@ -818,6 +758,51 @@
       "addedAt": "2026-10-29T19:15:02.909Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-tc-mouras-arrigoni-dominador-del-sabado-en-la-plata",
+      "title": "TC Mouras: Arrigoni, dominador del sábado en La Plata | Campeones",
+      "summary": "Se quedó con la clasificación a bordo del Dodge del Rus Med Team, luego de ser el más veloz en los ensayos previos. Nicolás Jaime, líder del campeonato, se colocó 2° a solo 12 milésimas y cerró el \"1-2\" de la marca.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-mouras-arrigoni-dominador-del-sabado-en-la-plata/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/dsc-7927-jpg-crop-1794064680821-609400123.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-07T20:46:06.000Z",
+      "addedAt": "2026-11-07T23:03:41.559Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc-pista-mouras-ignacio-vilas-revalido-su-buen-andar-y-se-quedo-con-la-clasificacion",
+      "title": "TC Pista Mouras: Ignacio Vilas revalidó su buen andar y se quedó con la clasificación | Campeones",
+      "summary": "El correntino fue el más rápido con la Dodge del Galarza Racing tras liderar los ensayos matutinos. Damián Pérez fue segundo y lo acompañará en la primera fila de la Serie Única.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-pista-mouras-ignacio-vilas-revalido-su-buen-andar-y-se-quedo-con-la-clasificacion/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/PHOTO-2026-11-07-14-32-06.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-07T20:27:16.000Z",
+      "addedAt": "2026-11-07T23:03:41.378Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc-mouras-arrigoni-arranco-adelante-en-la-plata",
+      "title": "TC Mouras: Arrigoni arrancó adelante en La Plata | Campeones",
+      "summary": "El piloto del Rus Med Team lideró con la Dodge en la mañana de sábado en La Plata, mientras que el Ford de Matías Frano se quedó con el segundo ensayo.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-mouras-arrigoni-arranco-adelante-en-la-plata/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/dsc-7927-jpg-crop-1794064680821-609400123.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-07T16:47:28.000Z",
+      "addedAt": "2026-11-07T19:30:28.823Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tc-pista-pick-up-boccanera-volvio-y-domino-el-primer-ensayo",
@@ -2738,12 +2723,27 @@
       "addedAt": "2026-10-18T07:11:27.895Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "carburando-com-ar-blog-la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-encara-a-todo",
+      "title": "La mentalidad de Ignacio Faín: “Estas cinco carreras uno las encara a todo o nada”",
+      "summary": "El piloto de Junín debuta en la Copa de Oro del Turismo Carretera y explica cómo cambia el chip cuando llega la fase decisiva del campeonato. Análisis…",
+      "source": "Carburando",
+      "sourceLabel": "Carburando",
+      "url": "https://carburando.com.ar/blog/la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-encara-a-todo",
+      "image": "https://carburando.com.ar/covers/22/la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-e-23080.webp",
+      "body": "El piloto de Junín debuta en la Copa de Oro del Turismo Carretera y explica cómo cambia el chip cuando llega la fase decisiva del campeonato. Análisis de su preparación y objetivos para las cinco finales.\n\nIgnacio Faín encara su primera Copa de Oro del Turismo Carretera con la convicción de que las cinco carreras finales se disputan de manera distinta al resto del año. “Estas cinco carreras uno las encara a todo o nada”, afirma el piloto de Junín, que clasificó a la instancia decisiva tras una temporada regular sólida con el Chevrolet del equipo de José Savino.\n\nEn el TC, la Copa de Oro representa el momento donde el campeonato se reinicia con un nuevo formato. Los doce clasificados llegan con el puntaje reseteado y solo cuentan los puntos que se sumen en las cinco fechas restantes. Esa particularidad obliga a cambiar la mentalidad: ya no alcanza con sumar de a poco, hay que ir por las victorias o al menos por podios consistentes si se quiere pelear el título.\n\nFaín llega con experiencia acumulada en la categoría, pero reconoce que debutar en la Copa implica un salto. Durante la fase regular se prioriza la regularidad, evitar abandonos y acumular la mayor cantidad de puntos posible para entrar entre los doce. Una vez adentro, el enfoque pasa a ser más agresivo. “Hay que tener el auto para pelear adelante todas las fechas y no cometer errores”, explica.\n\nDesde el punto de vista técnico, su equipo trabajó en la puesta a punto pensando en circuitos que se vienen: mezcla de autódromos rápidos y semipermanentes donde el grip y la confiabilidad del motor V8 serán claves. El Chevrolet ya demostró velocidad en varias carreras, pero ahora la exigencia es mantener ese nivel sin fisuras durante las cinco finales.",
+      "language": "es",
+      "publishedAt": "2026-09-11T20:50:23.000Z",
+      "addedAt": "2026-11-08T09:16:23.652Z",
+      "category": "argentino",
+      "tag": "Argentino"
     }
   ],
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-08T02:20:30.178Z",
+      "createdAt": "2026-11-08T09:16:32.232Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-boca-campeon-formula-1-gran-premio-de-brasil-id770818-html",
@@ -2761,6 +2761,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-colapinto-pidio-cambios-en-alpine-y-reflexiono-sobre-la-f1-los-pilotos-hoy-tienen-que-se",
+          "title": "Colapinto pidió cambios en Alpine y reflexionó sobre la F1: \"Los pilotos hoy tienen que ser ingenieros también\"",
+          "summary": "En la antesala del Gran Premio de Brasil, el argentino solicitó la introducción de modificaciones profundas en la escudería francesa, en caso de querer mejorar el rendimiento para la próxima temporada de la Máxima.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-pidio-cambios-en-alpine-y-reflexiono-sobre-la-f1-los-pilotos-hoy-tienen-que-ser-ingenieros-tambien-id770556.html",
+          "image": "https://media.tycsports.com/files/2026/11/05/1003140/franco-colapinto_1440x810.webp?v=1",
+          "body": "En la antesala del Gran Premio de Brasil, el argentino solicitó la introducción de modificaciones profundas en la escudería francesa, en caso de querer mejorar el rendimiento para la próxima temporada de la Máxima.\n\nColapinto pidió cambios en Alpine y reflexionó sobre la F1: \"Los pilotos hoy tienen que ser ingenieros también\" (Getty Images: Clive Mason). + Seguinos en Franco Colapinto afrontará el Gran Premio de Brasil de la Fórmula 1 con cierta sed de revancha , luego de ser sancionado por no reducir la velocidad durante banderas amarillas, lo que le quitó el octavo puesto que había ganado en la pista. Más allá de la desilusión por lo sucedido en el Circuito de las Américas, el piloto concentra toda su atención en la próxima carrera y, en la previa de la misma, pidió por la implementación de cambios profundos en Alpine para elevar el rendimiento en la próxima temporada.\n\nEn la víspera del comienzo de los entrenamientos libres, el pilarense solicitó modificaciones profundas en el monoplaza para poder ilusionarse con un progreso en 2027. “Creo que cada año que empieza de cero es un poco reaprender otra vez en dónde hay que mejorar. Sabemos en la dirección a la que tenemos que ir para mejorar algunos problemas que tenemos, pero obviamente hasta que no lo probemos es difícil saber. En general, creo que va a ser mejor que este año” , expresó ante la prensa.\n\nA continuación, fue consultado sobre el hipotético regreso de los motores V8 , una cuestión que tiene entre sus principales impulsores a Mohammed Ben Sulayem , presidente de la FIA. “El motor V8... Algo más fácil de manejar. Creo que se volvió muy tecnológica y también se volvió muy difícil de entender. Creo que algo que sea más simple, que sea más fácil para los pilotos. Prácticamente hoy los pilotos tienen que ser ing",
+          "language": "es",
+          "publishedAt": "2026-11-05T20:38:07.000Z",
+          "addedAt": "2026-11-05T22:09:40.400Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-enojado-por-la-mala-qualy-en-brasil-por-que-tan-lentos-id770819-html",
           "title": "Franco Colapinto, enojado por la mala qualy en Brasil: \"¿Por qué tan lentos?\"",
           "summary": "El argentino volcó toda su bronca en la radio con Stuart Barlow después de una jornada de Fórmula 1 decepcionante en la que no superó la primera tanda clasificatoria.",
@@ -2772,6 +2787,36 @@
           "language": "es",
           "publishedAt": "2026-11-07T23:46:23.000Z",
           "addedAt": "2026-11-08T02:20:23.848Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-brasil-multiples-penalizaciones-asi-quedo-la-grilla-id770807-ht",
+          "title": "La grilla del GP de Brasil de la Fórmula 1 después de todas las sanciones: cómo larga Colapinto",
+          "summary": "Después de una hora y media de demora por la lluvia y con varios pilotos afectados por cambios en las unidades de potencia, así largarán los pilotos en Interlagos.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-gran-premio-de-brasil-multiples-penalizaciones-asi-quedo-la-grilla-id770807.html",
+          "image": "https://media.tycsports.com/files/2026/11/07/1003618/lando-norris-pole-brasil_1440x810.webp",
+          "body": "Después de una hora y media de demora por la lluvia y con varios pilotos afectados por cambios en las unidades de potencia, así largarán los pilotos en Interlagos.\n\nLando Norris, el dueño de la pole bajo la intensa lluvia del Gran Premio de Brasil (Clive Rose/Getty Images). + Seguinos en Después de una espera de casi una hora y media por la intensa lluvia que cayó sobre San Pablo , el Gran Premio de Brasil pudo tener su clasificación y, con múltiples cambios por penalizaciones, los pilotos ya saben cómo largarán en la carrera del domingo.\n\nDespués de una sesión de Q3 que tan solo contó con un intento por el retorno de la lluvia, Lando Norris se quedó con la pole con un mejor registro de 1:24.470s en Interlagos . El piloto de McLaren fue seguido por George Russell, de Mercedes (+0.204s) y el flamante campeón del mundo, Kimi Antonelli (+0.625s). Sin embargo, e l orden de largada no tendrá al británico en el segundo lugar, como consecuencia de una penalización de cinco posiciones por el cambio de motor.\n\nNo fue una buena sesión para Franco Colapinto, dado que el argentino de Alpine quedó eliminado en Q1, con una mejor marca de 1:33.32s que le alcanzó para el 17° puesto . Sin embargo, aquí es donde entran en juego más penalizaciones. Es que Max Verstappen, Charles Leclerc, Lewis Hamilton y Sergio Pérez fueron penalizados por realizar cambios en sus unidades de potencia . De esta manera, Colapinto largará 15°, ganando así dos puestos.",
+          "language": "es",
+          "publishedAt": "2026-11-07T22:17:46.000Z",
+          "addedAt": "2026-11-07T23:03:38.386Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-gp-de-san-pablo-colapinto-se-ubico-17-en-la-demorada-clasificacion-de-f1",
+          "title": "GP de San Pablo: Colapinto quedó 17.° en la demorada clasificación de F1",
+          "summary": "Tras la espera de más de una hora por las mejoras en las condiciones del tiempo por una fuerte lluvia, se concretó la sesión en la cual el piloto argentino y su compañero Gasly quedaron eliminados en la primera parte.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/gp-de-san-pablo-colapinto-se-ubico-17-en-la-demorada-clasificacion-de-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-F1-Colapinto-Qualy.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-07T22:46:53.000Z",
+          "addedAt": "2026-11-07T23:03:39.594Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2836,51 +2881,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-pidio-cambios-en-alpine-y-reflexiono-sobre-la-f1-los-pilotos-hoy-tienen-que-se",
-          "title": "Colapinto pidió cambios en Alpine y reflexionó sobre la F1: \"Los pilotos hoy tienen que ser ingenieros también\"",
-          "summary": "En la antesala del Gran Premio de Brasil, el argentino solicitó la introducción de modificaciones profundas en la escudería francesa, en caso de querer mejorar el rendimiento para la próxima temporada de la Máxima.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-pidio-cambios-en-alpine-y-reflexiono-sobre-la-f1-los-pilotos-hoy-tienen-que-ser-ingenieros-tambien-id770556.html",
-          "image": "https://media.tycsports.com/files/2026/11/05/1003140/franco-colapinto_1440x810.webp?v=1",
-          "body": "En la antesala del Gran Premio de Brasil, el argentino solicitó la introducción de modificaciones profundas en la escudería francesa, en caso de querer mejorar el rendimiento para la próxima temporada de la Máxima.\n\nColapinto pidió cambios en Alpine y reflexionó sobre la F1: \"Los pilotos hoy tienen que ser ingenieros también\" (Getty Images: Clive Mason). + Seguinos en Franco Colapinto afrontará el Gran Premio de Brasil de la Fórmula 1 con cierta sed de revancha , luego de ser sancionado por no reducir la velocidad durante banderas amarillas, lo que le quitó el octavo puesto que había ganado en la pista. Más allá de la desilusión por lo sucedido en el Circuito de las Américas, el piloto concentra toda su atención en la próxima carrera y, en la previa de la misma, pidió por la implementación de cambios profundos en Alpine para elevar el rendimiento en la próxima temporada.\n\nEn la víspera del comienzo de los entrenamientos libres, el pilarense solicitó modificaciones profundas en el monoplaza para poder ilusionarse con un progreso en 2027. “Creo que cada año que empieza de cero es un poco reaprender otra vez en dónde hay que mejorar. Sabemos en la dirección a la que tenemos que ir para mejorar algunos problemas que tenemos, pero obviamente hasta que no lo probemos es difícil saber. En general, creo que va a ser mejor que este año” , expresó ante la prensa.\n\nA continuación, fue consultado sobre el hipotético regreso de los motores V8 , una cuestión que tiene entre sus principales impulsores a Mohammed Ben Sulayem , presidente de la FIA. “El motor V8... Algo más fácil de manejar. Creo que se volvió muy tecnológica y también se volvió muy difícil de entender. Creo que algo que sea más simple, que sea más fácil para los pilotos. Prácticamente hoy los pilotos tienen que ser ing",
-          "language": "es",
-          "publishedAt": "2026-11-05T20:38:07.000Z",
-          "addedAt": "2026-11-05T22:09:40.400Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-brasil-multiples-penalizaciones-asi-quedo-la-grilla-id770807-ht",
-          "title": "La grilla del GP de Brasil de la Fórmula 1 después de todas las sanciones: cómo larga Colapinto",
-          "summary": "Después de una hora y media de demora por la lluvia y con varios pilotos afectados por cambios en las unidades de potencia, así largarán los pilotos en Interlagos.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-gran-premio-de-brasil-multiples-penalizaciones-asi-quedo-la-grilla-id770807.html",
-          "image": "https://media.tycsports.com/files/2026/11/07/1003618/lando-norris-pole-brasil_1440x810.webp",
-          "body": "Después de una hora y media de demora por la lluvia y con varios pilotos afectados por cambios en las unidades de potencia, así largarán los pilotos en Interlagos.\n\nLando Norris, el dueño de la pole bajo la intensa lluvia del Gran Premio de Brasil (Clive Rose/Getty Images). + Seguinos en Después de una espera de casi una hora y media por la intensa lluvia que cayó sobre San Pablo , el Gran Premio de Brasil pudo tener su clasificación y, con múltiples cambios por penalizaciones, los pilotos ya saben cómo largarán en la carrera del domingo.\n\nDespués de una sesión de Q3 que tan solo contó con un intento por el retorno de la lluvia, Lando Norris se quedó con la pole con un mejor registro de 1:24.470s en Interlagos . El piloto de McLaren fue seguido por George Russell, de Mercedes (+0.204s) y el flamante campeón del mundo, Kimi Antonelli (+0.625s). Sin embargo, e l orden de largada no tendrá al británico en el segundo lugar, como consecuencia de una penalización de cinco posiciones por el cambio de motor.\n\nNo fue una buena sesión para Franco Colapinto, dado que el argentino de Alpine quedó eliminado en Q1, con una mejor marca de 1:33.32s que le alcanzó para el 17° puesto . Sin embargo, aquí es donde entran en juego más penalizaciones. Es que Max Verstappen, Charles Leclerc, Lewis Hamilton y Sergio Pérez fueron penalizados por realizar cambios en sus unidades de potencia . De esta manera, Colapinto largará 15°, ganando así dos puestos.",
-          "language": "es",
-          "publishedAt": "2026-11-07T22:17:46.000Z",
-          "addedAt": "2026-11-07T23:03:38.386Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-brasil-id770647-ht",
-          "title": "Franco Colapinto no pasó la Q1 pero largará 15° en el GP de Brasil: Norris hizo la pole",
-          "summary": "El argentino no pasó de la primera etapa, pero las sanciones para Hamilton y Verstappen lo dejaron decimoquinto. Por otro lado, el piloto de McLaren largará primero.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-brasil-id770647.html",
-          "image": "https://media.tycsports.com/files/2026/11/07/1003585/colapinto_1440x810.webp?v=1",
-          "body": "El argentino no pasó de la primera etapa, pero las sanciones para Hamilton y Verstappen lo dejaron decimoquinto. Por otro lado, el piloto de McLaren largará primero.\n\nColapinto largará 17° en el GP de Brasil. (@F1) + Seguinos en Este sábado se disputó la clasificación del Gran Premio de Brasil de la Fórmula 1, donde Franco Colapinto obtuvo la decimoquinta posición de cara a la carrera del domingo, mientras que Lando Norris (McLaren) se quedó con la pole posicion . El argentino no pudo superar la Q1, pero como Max Verstappen y Lewis Hamilton fueron sancionados terminó ganando dos puestos.\n\nLa actividad en la clasificación estuvo marcada por las tormentas : apenas segundos después de iniciada la Q1 (15:00hs) apareció la bandera roja porque la lluvia no dejaba que los pilotos pudieran moverse en pista con normalidad. Así estuvo todo por más de una hora, pero antes de las 16:30 empezó la acción .\n\nEn la primera etapa los tiempos fueron variando constantemente y cada automovilista mejoraba al anterior porque poco a poco el agua se iba del asfalto. Allí, Colapinto no pudo asentarse y terminó eliminado quedando 17°, pero tanto Hamilton como Verstappen estaban sancionados y como avanzaron a Q2 le dieron dos puestos más al argentino . De hecho, Mad Max ni siquiera se subió a su Red Bull para participar de la segunda etapa.\n\nEn la Q2, Rafael Cámara, rookie de Haas que reemplazó a Ocon, se despistó e impactó contra los carteles , pero podría estar presente en la carrera. Por otro lado, la Q3 no pudo finalizar con normalidad porque en el cierre volvió a llover con fuerza y los pilotos optaron por quedarse en boxes con su posición ganada y no arriesgar los autos. Esto hizo que Lando Norris se quedara con la pole posicion , mientras que George Russell culminó segundo. Sin embargo, el",
-          "language": "es",
-          "publishedAt": "2026-11-07T20:59:33.000Z",
-          "addedAt": "2026-11-06T17:24:55.173Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-siempre-boca-la-reaccion-de-colapinto-cuando-le-preguntaron-por-equipos-de-brasil-y-cuan",
           "title": "Siempre Boca: la reacción de Colapinto cuando le preguntaron por equipos de Brasil",
           "summary": "En vísperas al Gran Premio de F1 en Interlagos, el piloto argentino fue parte de una divertida entrevista en la que le consultaron por el país vecino y contestó con un palito al hablar de sus clubes.",
@@ -2922,6 +2922,21 @@
           "language": "es",
           "publishedAt": "2026-11-02T13:54:42.000Z",
           "addedAt": "2026-11-02T15:36:49.682Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-brasil-id770647-ht",
+          "title": "Franco Colapinto no pasó la Q1 pero largará 15° en el GP de Brasil: Norris hizo la pole",
+          "summary": "El argentino no pasó de la primera etapa, pero las sanciones para Hamilton y Verstappen lo dejaron decimoquinto. Por otro lado, el piloto de McLaren largará primero.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-brasil-id770647.html",
+          "image": "https://media.tycsports.com/files/2026/11/07/1003585/colapinto_1440x810.webp?v=1",
+          "body": "El argentino no pasó de la primera etapa, pero las sanciones para Hamilton y Verstappen lo dejaron decimoquinto. Por otro lado, el piloto de McLaren largará primero.\n\nColapinto largará 17° en el GP de Brasil. (@F1) + Seguinos en Este sábado se disputó la clasificación del Gran Premio de Brasil de la Fórmula 1, donde Franco Colapinto obtuvo la decimoquinta posición de cara a la carrera del domingo, mientras que Lando Norris (McLaren) se quedó con la pole posicion . El argentino no pudo superar la Q1, pero como Max Verstappen y Lewis Hamilton fueron sancionados terminó ganando dos puestos.\n\nLa actividad en la clasificación estuvo marcada por las tormentas : apenas segundos después de iniciada la Q1 (15:00hs) apareció la bandera roja porque la lluvia no dejaba que los pilotos pudieran moverse en pista con normalidad. Así estuvo todo por más de una hora, pero antes de las 16:30 empezó la acción .\n\nEn la primera etapa los tiempos fueron variando constantemente y cada automovilista mejoraba al anterior porque poco a poco el agua se iba del asfalto. Allí, Colapinto no pudo asentarse y terminó eliminado quedando 17°, pero tanto Hamilton como Verstappen estaban sancionados y como avanzaron a Q2 le dieron dos puestos más al argentino . De hecho, Mad Max ni siquiera se subió a su Red Bull para participar de la segunda etapa.\n\nEn la Q2, Rafael Cámara, rookie de Haas que reemplazó a Ocon, se despistó e impactó contra los carteles , pero podría estar presente en la carrera. Por otro lado, la Q3 no pudo finalizar con normalidad porque en el cierre volvió a llover con fuerza y los pilotos optaron por quedarse en boxes con su posición ganada y no arriesgar los autos. Esto hizo que Lando Norris se quedara con la pole posicion , mientras que George Russell culminó segundo. Sin embargo, el",
+          "language": "es",
+          "publishedAt": "2026-11-07T20:59:33.000Z",
+          "addedAt": "2026-11-06T17:24:55.173Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2999,7 +3014,13 @@
           "addedAt": "2026-11-02T05:51:30.877Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-11-08T09:16:32.232Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-alegria-de-colapinto-por-cortar-la-mala-racha-sin-sumar-puntos-volvimos-a-donde-tenem",
           "title": "La alegría de Franco Colapinto antes de otra sanción de la FIA: \"Volvimos a donde tenemos que estar\"",
@@ -3014,13 +3035,7 @@
           "addedAt": "2026-11-02T05:51:30.838Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-11-08T02:20:30.178Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-como-hizo-franco-colapinto-para-enterarse-resultado-superclasico-pleno-gp-de-mexico-id76",
           "title": "Cómo hizo Franco Colapinto para enterarse del resultado del Superclásico en pleno GP de México",
@@ -3202,17 +3217,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-colapinto-quedo-14-en-la-ultima-practica-de-f1-paulista",
-          "title": "Colapinto quedó 14.° en la última práctica de F1 paulista",
-          "summary": "Con mejores condiciones del tiempo, se desarrolló la sesión en el trazado de Interlagos, en donde el argentino intentó corregir cierta inestabilidad del Alpine, antes de clasificar.",
+          "id": "campeones-com-ar-el-alpine-de-colapinto-no-tuvo-agarre-ritmo-ni-velocidad-bajo-la-lluvia-de-san-pablo",
+          "title": "Un Alpine sin \"agarre, ritmo y velocidad\" condicionó a Colapinto en la clasificación paulista de F1",
+          "summary": "El piloto argentino señaló que el coche no rindió como esperaba en la pista húmeda de Interlagos, en donde solo pudo girar en la primera sesión cronometrada quedando en el 17.° puesto.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-quedo-14-en-la-ultima-practica-de-f1-paulista/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261106-F1-Colapinto-Alpine-SP.jpg",
+          "url": "https://campeones.com.ar/el-alpine-de-colapinto-no-tuvo-agarre-ritmo-ni-velocidad-bajo-la-lluvia-de-san-pablo/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-F1-F-Colapinto-paddock.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-11-07T15:36:34.000Z",
-          "addedAt": "2026-11-07T19:30:26.712Z",
+          "publishedAt": "2026-11-07T22:02:16.000Z",
+          "addedAt": "2026-11-07T23:03:39.752Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3228,21 +3243,6 @@
           "language": "es",
           "publishedAt": "2026-11-06T21:20:43.000Z",
           "addedAt": "2026-11-07T02:05:46.741Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
-          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
-          "summary": "Cobertura especial del GP de Estados Unidos de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-05T03:00:17.000Z",
-          "addedAt": "2026-10-20T22:28:56.803Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3295,7 +3295,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-11-08T02:20:30.178Z",
+      "createdAt": "2026-11-08T09:16:32.232Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-alerta-en-la-formula-1-aseguran-que-la-escuderia-cadillac-podria-ser-vendida-tras-su-pri",
@@ -3571,7 +3571,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-11-08T02:20:30.178Z",
+      "createdAt": "2026-11-08T09:16:32.232Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id768571-html",
@@ -3694,32 +3694,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-me-costo-un-poco-mas-la-qualy-el-lamento-de-colapinto-tras-clasificar-12a-en-el-gp-de-me",
-          "title": "El lamento de Colapinto tras la qualy del GP de México: \"Me...\"",
-          "summary": "El argentino quedó eliminado en la Q2, pero el jefe de Alpine confía en que la larga recta hasta la curva 1 le permitirá ganar lugares en el arranque. Largará 11° por una descalificación a Liam Lawson.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/me-costo-un-poco-mas-la-qualy-el-lamento-de-colapinto-tras-clasificar-12a-en-el-gp-de-mexico-id769690.html",
-          "image": "https://media.tycsports.com/files/2026/10/11/994992/franco-colapinto_1440x810.webp",
-          "body": "El argentino quedó eliminado en la Q2, pero el jefe de Alpine confía en que la larga recta hasta la curva 1 le permitirá ganar lugares en el arranque. Largará 11° por una descalificación a Liam Lawson.\n\nFranco Colapinto se lamentó por quedar 12° en la clasificación del GP de México. (Rudy Carezzevoli/Getty Images) + Seguinos en Franco Colapinto largará 11° en el Gran Premio de México de la Fórmula 1 , que se correrá este domingo desde las 17 (hora argentina), por una descalificación de Liam Lawson que le permitió avanzar un puesto en la parrilla. El piloto de Alpine quedó eliminado en la Q2 y, tras la clasificación, expresó: “ Me costó un poco más la qualy . Creo que me costó especialmente la última parte de la vuelta”.\n\nEl pilarense de 23 años, en diálogo con ESPN, explicó dónde perdió el tiempo que lo dejó afuera de los diez primeros: “ No tuve el ritmo desde la curva 10 . Al principio iba bien, pero me empezó a costar un poquito más al final. Obviamente, faltó eso. Hay que trabajar para mañana de cara a la carrera” . Y sobre lo que viene, agregó: “Vamos a intentar entrar en los puntos e ir para adelante. Es la idea”. Su compañero Pierre Gasly sí avanzó a la Q3 y largará 9°. Colapinto había terminado la última práctica libre del sábado en el puesto 12, por encima del francés. Antes, se había perdido la primera práctica libre del viernes porque cedió su auto al italiano Gabriele Mini, para cumplir con el reglamento que obliga a utilizar pilotos novatos durante el calendario. En la segunda práctica, terminó 16°.\n\nLuego, Colapinto fue más autocrítico: “ No estoy muy contento con el resultado de hoy , porque pensé que había más rendimiento disponible y una posibilidad de llegar a la Q3. No me sentí del todo cómodo en el auto durante la clasificación y fue complicado sacar",
+          "id": "campeones-com-ar-colapinto-quedo-14-en-la-ultima-practica-de-f1-paulista",
+          "title": "Colapinto quedó 14.° en la última práctica de F1 paulista",
+          "summary": "Con mejores condiciones del tiempo, se desarrolló la sesión en el trazado de Interlagos, en donde el argentino intentó corregir cierta inestabilidad del Alpine, antes de clasificar.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/colapinto-quedo-14-en-la-ultima-practica-de-f1-paulista/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261106-F1-Colapinto-Alpine-SP.jpg",
+          "body": "",
           "language": "es",
-          "publishedAt": "2026-11-01T02:53:18.000Z",
-          "addedAt": "2026-11-01T02:23:50.203Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-mexico-id769205-ht",
-          "title": "Colapinto terminó 12° en la clasificación del GP de México, pero saldrá 11° y Hamilton se quedó con la pole",
-          "summary": "El argentino logró superar la Q1, pero no consiguió meterse entre los diez mejores con su Alpine. Partirá 11° por una infracción al reglamento técnico de Lawson. El británico de Ferrari fue el más rápido en el Autódromo Hermanos Rodríguez.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-mexico-id769205.html",
-          "image": "https://media.tycsports.com/files/2026/10/24/999138/colapinto_1440x810.webp",
-          "body": "El argentino logró superar la Q1, pero no consiguió meterse entre los diez mejores con su Alpine. Partirá 11° por una infracción al reglamento técnico de Lawson. El británico de Ferrari fue el más rápido en el Autódromo Hermanos Rodríguez.\n\nFranco Colapinto (Rudy Carezzevoli/Getty Images). + Seguinos en Franco Colapinto terminó 12° este sábado en la clasificación del Gran Premio de México , correspondiente a la 19ª fecha de la temporada 2026 de la Fórmula 1. El argentino logró avanzar a la Q2, pero no pudo meterse entre los diez mejores con su Alpine, mientras que Lewis Hamilton se quedó con la pole position en el Autódromo Hermanos Rodríguez y largará desde el primer lugar en la carrera del domingo. En tanto, el pilarense partirá 11° por una descalificación de Liam Lawson.\n\nEl piloto bonarense llegó a la clasificación después de una tercera práctica libre alentadora, en la que terminó 12° y superó por apenas 22 milésimas a su compañero Pierre Gasly. Sin embargo, debió trabajar para superar el primer corte de la jornada, en una Q1 que estuvo interrumpida por una bandera roja debido a los problemas mecánicos de Fernando Alonso .\n\nColapinto consiguió registrar una vuelta de 1:18.517 que le permitió finalizar 15° y avanzar a la siguiente instancia. En esa primera tanda quedaron eliminados Alexander Albon, Fernando Alonso, Ryo Hirakawa, Lance Stroll, Sergio Pérez y Valtteri Bottas.\n\nEn la Q2, el argentino no logró encontrar el ritmo necesario para pelear por un lugar entre los diez mejores y terminó 12°, por delante de Oscar Piastri, Gabriel Bortoleto, Oliver Bearman y Carlos Sainz . El australiano de McLaren protagonizó una de las sorpresas de la jornada al quedar eliminado antes de la definición de la pole.",
-          "language": "es",
-          "publishedAt": "2026-11-01T02:42:19.000Z",
-          "addedAt": "2026-10-30T20:41:26.035Z",
+          "publishedAt": "2026-11-07T15:36:34.000Z",
+          "addedAt": "2026-11-07T19:30:26.712Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3735,6 +3720,21 @@
           "language": "es",
           "publishedAt": "2026-10-25T00:16:51.000Z",
           "addedAt": "2026-10-25T01:26:40.594Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
+          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
+          "summary": "Cobertura especial del GP de Estados Unidos de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-05T03:00:17.000Z",
+          "addedAt": "2026-10-20T22:28:56.803Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3847,7 +3847,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-11-08T02:20:30.178Z",
+      "createdAt": "2026-11-08T09:16:32.232Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-gran-premio-estados-unidos-formula-1-danos-aleron-id768564-html",
