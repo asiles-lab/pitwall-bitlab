@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-11T01:21:57.934Z",
-  "checkedAt": "2026-11-11T01:21:57.934Z",
+  "updatedAt": "2026-11-11T07:54:59.781Z",
+  "checkedAt": "2026-11-11T07:54:59.781Z",
   "pageSize": 18,
   "sources": [
     {
@@ -83,6 +83,21 @@
       "addedAt": "2026-11-11T01:21:58.471Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-agustin-canapino-con-asistencia-perfecta-en-las-definiciones",
+      "title": "Agustín Canapino, con asistencia perfecta en las definiciones",
+      "summary": "Desde su regreso a tiempo completo al automovilismo argentino, el arrecifeño llegó a la última fecha de los 6 campeonatos que disputó con posibilidades de ser campeón: fue campeón en las 3 categorías en las que compitió en 2025 y ahora va por otros 3 títulos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/agustin-canapino-con-asistencia-perfecta-en-las-definiciones/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Canapino-Victoria-TCPK-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-10T15:39:49.000Z",
+      "addedAt": "2026-11-11T07:55:01.617Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-en-brasil-colapinto-fue-noveno-en-el-primer-entrenamiento-de-f1",
@@ -370,21 +385,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-norris-explico-el-incidente-del-podio-de-f1-en-san-pablo",
-      "title": "Norris explicó el incidente del podio de F1 en San Pablo",
-      "summary": "Durante la celebración en Interlagos, el piloto de McLaren vivió una infortunada con su botellón de champagne, el cual se rompió en el momento de destaparlo.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/norris-explico-el-incidente-del-podio-de-f1-en-san-pablo/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261110-F1-Norris.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-10T16:21:57.000Z",
-      "addedAt": "2026-11-10T21:27:10.781Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-por-que-hamilton-largara-desde-el-fondo-en-el-gp-de-brasil-de-la-f1-id770795-html",
       "title": "Por qué Hamilton largará desde el fondo en el GP de Brasil de la F1",
       "summary": "Ferrari amplió el reemplazo de componentes en la unidad de potencia del monoplaza del británico, que acumula 30 lugares de castigo, y partirá desde atrás en San Pablo junto a Verstappen y Checo Pérez.",
@@ -486,21 +486,6 @@
       "language": "es",
       "publishedAt": "2026-11-10T20:16:58.000Z",
       "addedAt": "2026-11-10T21:27:09.933Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-antes-de-la-penultima-fecha-de-tc-en-rio-cuarto-dianda-cumplira-con-una-cena-benefica",
-      "title": "Antes de la penúltima fecha de TC en Río Cuarto, Dianda cumplirá con una cena benéfica",
-      "summary": "La cruzada solidaria será en su ciudad, Guatimozín, en donde exhibirá su Dodge Challenger y sus expectativas por ser uno de los \"3 de último minuto\" en la Copa de Oro.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/antes-de-la-penultima-fecha-de-tc-en-rio-cuarto-dianda-cumplira-con-una-cena-benefica/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261110-TC-Dianda.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-10T15:32:25.000Z",
-      "addedAt": "2026-11-10T15:48:03.899Z",
       "category": "general",
       "tag": "F1"
     },
@@ -638,6 +623,21 @@
       "addedAt": "2026-11-08T23:51:31.141Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-norris-explico-el-incidente-del-podio-de-f1-en-san-pablo",
+      "title": "Norris explicó el incidente del podio de F1 en San Pablo",
+      "summary": "Durante la celebración en Interlagos, el piloto de McLaren vivió una infortunada con su botellón de champagne, el cual se rompió en el momento de destaparlo.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/norris-explico-el-incidente-del-podio-de-f1-en-san-pablo/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261110-F1-Norris.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-10T16:21:57.000Z",
+      "addedAt": "2026-11-10T21:27:10.781Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-la-lluvia-altero-la-clasificacion-de-formula-1-en-interlagos",
@@ -908,6 +908,21 @@
       "addedAt": "2026-10-29T19:15:02.909Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-antes-de-la-penultima-fecha-de-tc-en-rio-cuarto-dianda-cumplira-con-una-cena-benefica",
+      "title": "Antes de la penúltima fecha de TC en Río Cuarto, Dianda cumplirá con una cena benéfica",
+      "summary": "La cruzada solidaria será en su ciudad, Guatimozín, en donde exhibirá su Dodge Challenger y sus expectativas por ser uno de los \"3 de último minuto\" en la Copa de Oro.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/antes-de-la-penultima-fecha-de-tc-en-rio-cuarto-dianda-cumplira-con-una-cena-benefica/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261110-TC-Dianda.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-10T15:32:25.000Z",
+      "addedAt": "2026-11-10T15:48:03.899Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-el-gran-premio-de-sao-paulo-extiende-su-contrato-con-la-formula-1-hasta-2035",
@@ -2723,27 +2738,12 @@
       "addedAt": "2026-10-25T16:02:51.798Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-triunfos-de-gallo-y-reutemann-en-las-series-del-tc-pista",
-      "title": "Triunfos de Gallo y Reutemann en las series del TC Pista",
-      "summary": "El piloto de Ford se adjudicó el parcial más veloz y tiene la “pole position” para la Final de la 3ª fecha de la Copa de Plata 2026, que se disputa en Rosario.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/triunfos-de-gallo-y-reutemann-en-las-series-del-tc-pista/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Gallo-TCP-2026-1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-25T13:46:48.000Z",
-      "addedAt": "2026-10-25T16:02:51.730Z",
-      "category": "general",
-      "tag": "F1"
     }
   ],
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-11T01:22:06.418Z",
+      "createdAt": "2026-11-11T07:55:07.714Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-san",
@@ -2757,6 +2757,21 @@
           "language": "es",
           "publishedAt": "2026-11-11T00:42:48.000Z",
           "addedAt": "2026-11-11T01:21:58.803Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-salio-luz-video-lucha-con-franco-colapinto-que-llevo-sancion-nico-hulkenberg-id771058-ht",
+          "title": "Salió a la luz el video de la lucha con Franco Colapinto que llevó a la sanción a Nico Hulkenberg",
+          "summary": "A bordo de su Alpine, le aguantó el ataque al alemán por cinco minutos en el GP de Brasil de Fórmula 1 y la resolución del mano a mano fue una victoria moral del argentino.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/salio-luz-video-lucha-con-franco-colapinto-que-llevo-sancion-nico-hulkenberg-id771058.html",
+          "image": "https://media.tycsports.com/files/2026/11/10/1004147/colapinto-hulkenberg_1440x810.webp",
+          "body": "A bordo de su Alpine, le aguantó el ataque al alemán por cinco minutos en el GP de Brasil de Fórmula 1 y la resolución del mano a mano fue una victoria moral del argentino.\n\nColapinto y su defensa ante Hulkenberg en Brasil + Seguinos en El Gran Premio de Brasil de Fórmula 1 sigue dando que hablar y ni el puesto 13 de Franco Colapinto en otro fin de semana padeciendo los vaivenes de su Alpine logró empañar los momentos en los que pudo derrochar su capacidad de manejo.\n\nEs que , además del sobrepaso a Pierre Gasly bajo la lluvia antes del cambio de cubiertas, también se dio a conocer el video en el que realiza una defensa espectacular con neumáticos gastados frente a Nico Hulkenberg, al que su frustración del final le trajo consecuencias con la FIA. El de Audi salió de boxes con gomas nuevas y comenzó a atacarlo por todos lados, pero siempre se encontraba con las notables maniobras del pilarense. El juego del gato y el ratón se extendió durante largos cinco minutos , un escenario que favorecía hasta al compañero del argentino, Pierre Gasly, que venía detrás y no quería que el alemán se le escapara.\n\nLa resolución de la pugna llegaría en la vuelta 50, y de la forma que mejor dejó parado a Franco. Hulkenberg, cansado de perder, lo superó cortando pista por la derecha en la S de Senna . La acción le valdría una penalización de 10 segundos que cumpliría en la última parada en boxes, con la lluvia declarada.",
+          "language": "es",
+          "publishedAt": "2026-11-11T01:39:50.000Z",
+          "addedAt": "2026-11-11T07:55:00.655Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2832,21 +2847,6 @@
           "language": "es",
           "publishedAt": "2026-11-04T20:54:42.000Z",
           "addedAt": "2026-11-05T01:25:39.869Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-enfoca-brasil-nos-gustaria-trasladar-ritmo-carrera-que-mostramos-mexico",
-          "title": "Franco Colapinto se enfoca en Brasil: \"Nos gustaría trasladar el ritmo de carrera que mostramos en México\"",
-          "summary": "El piloto argentino de Fórmula 1 intentará en Interlagos dejar atrás la página del sinsabor de la sanción de la FIA que lo despojó de sumar puntos en el DF.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-enfoca-brasil-nos-gustaria-trasladar-ritmo-carrera-que-mostramos-mexico-id770259.html",
-          "image": "https://media.tycsports.com/files/2026/10/26/999867/franco-colapinto_1440x810.webp?v=1",
-          "body": "El piloto argentino de Fórmula 1 intentará en Interlagos dejar atrás la página del sinsabor de la sanción de la FIA que lo despojó de sumar puntos en el DF.\n\nFranco Colapinto, piloto argentino de Alpine en la F1. (Jayce Illman/Getty Images) + Seguinos en Se avecina el Gran Premio de Brasil de la Fórmula 1 y Franco Colapinto se enfoca en una revancha después de cumplir con una gran actuación en México y quedarse sin puntos por una polémica sanción de la FIA por no bajar lo suficiente la velocidad durante una bandera amarilla.\n\nEste martes, el argentino realizó declaraciones a su proía escudería, Alpine, con un discurso renovado y la ilusión de que se venga la carrera que él siempre define como \"mi casa\": se trata de la más cercana a la Argentina en el circuito actual, lo que multiplicará aún más su ya numerosa hinchada. \"El circuito de Interlagos es realmente histórico y es un lugar que ofrece oportunidades para aprovechar. Nos gustaría trasladar a este fin de semana el ritmo de carrera que mostramos en Ciudad de México y cerrar la triple cita con un buen resultado\" , se esperanzó el de Pilar.\n\nTras haber pedido disculpas por lo que asumió como un error propio que derivó en la sanción, Colapinto volvió sobre el tema de lo sucedido en el DF, donde el reparto de sanciones también dejó con las manos vacías a su compañero, Pierre Gasly: \"Fue una pena irnos de Ciudad de México sin puntos tras una tarde muy luchada\".\n\nEnseguida, Colapinto se centró en los mejores aspectos de la jornada del domingo antes de la desazón del desenlace: \"Fue una carrera muy movida y lo positivo fue que pudimos ejecutarla muy bien, mostrar buen ritmo y competir en el top ten, que es lo que debemos seguir haciendo este fin de semana en San Pablo\".",
-          "language": "es",
-          "publishedAt": "2026-11-04T01:44:52.000Z",
-          "addedAt": "2026-11-04T06:03:18.336Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3019,23 +3019,8 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-11-11T01:22:06.418Z",
+      "createdAt": "2026-11-11T07:55:07.714Z",
       "items": [
-        {
-          "id": "campeones-com-ar-audi-duda-de-la-defensa-de-colapinto-con-hulkenberg-lo-empujo-hacia-fuera",
-          "title": "Audi duda de la defensa de Colapinto con Hulkenberg: \"Lo empujó hacia fuera\"",
-          "summary": "El punto de vista de Allan McNish, director de competición en Audi, el argentino obligó a su piloto a salirse de la pista.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/audi-duda-de-la-defensa-de-colapinto-con-hulkenberg-lo-empujo-hacia-fuera/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Portada-Colapinto-Hulkenberg-Brasil-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-10T18:16:56.000Z",
-          "addedAt": "2026-11-10T21:27:10.345Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-enojado-por-la-mala-qualy-en-brasil-por-que-tan-lentos-id770819-html",
           "title": "Franco Colapinto, enojado por la mala qualy en Brasil: \"¿Por qué tan lentos?\"",
@@ -3290,12 +3275,27 @@
           "addedAt": "2026-11-02T05:51:30.906Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-lo-desplazo-de-la-f1-y-podria-volver-tras-el-escandalo-de-ocon-en-haas-id76968",
+          "title": "Colapinto lo desplazó de la F1 y podría volver tras el escándalo de Ocon en Haas",
+          "summary": "Jack Doohan, que perdió su butaca en Alpine cuando asumió el piloto argentino, aparece como una opción para reemplazar a Esteban Ocon en el Gran Premio de Brasil.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-lo-desplazo-de-la-f1-y-podria-volver-tras-el-escandalo-de-ocon-en-haas-id769680.html",
+          "image": "https://media.tycsports.com/files/2026/10/31/1001662/jack-doohan_1440x810.webp",
+          "body": "Jack Doohan, que perdió su butaca en Alpine cuando asumió el piloto argentino, aparece como una opción para reemplazar a Esteban Ocon en el Gran Premio de Brasil.\n\nJack Doohan podría regresar a la F1 (Getty Images) + Seguinos en Jack Doohan podría regresar a la Fórmula 1 la semana próxima. El australiano suena para ser el nuevo piloto de Haas en el Gran Premio de São Paulo, en lugar de Esteban Ocon tras el escándalo que protagonizó este fin de semana en México.\n\nEsta opción nace a partir de la situación de Ryo Hirakawa. Se espera que el japonés, piloto de reserva de Haas, no esté disponible ya que ese fin de semana tendrá compromisos en el Campeonato Mundial de Resistencia (WEC) con Toyota. Por lo tanto, la escudería necesitará un reemplazante. Es por eso que el nombre de Doohan aparece entre las alternativas. Según se informó, en Haas quedaron impresionados por lo que mostró en pruebas anteriores, y eso lo ubica en la consideración del equipo.\n\nPara el piloto, sería una revancha: él había debutado como titular de Alpine en 2025, pero fue desplazado de la escudería después de las primeras fechas de la temporada, cuando Franco Colapinto ocupó su asiento. Desde aquel entonces, su posible vuelta a la categoría no estaba en los planes.\n\nDoohan había arrancado 2025 como titular, pero no sumó puntos en las primeras seis fechas . Tras el GP de Miami, Alpine anunció que lo sacaba y ponía a Colapinto desde la fecha siguiente, en el GP de Emilia-Romagna, en Imola. A partir de ese momento, el argentino corrió junto a Pierre Gasly, y de a poco se fue consolidando en la escudería.",
+          "language": "es",
+          "publishedAt": "2026-10-31T23:35:38.000Z",
+          "addedAt": "2026-11-01T02:23:50.209Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-11-11T01:22:06.418Z",
+      "createdAt": "2026-11-11T07:55:07.714Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-cerrara-su-temporada-en-catar-y-abu-dabi-id771013-html",
@@ -3571,7 +3571,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-11-11T01:22:06.418Z",
+      "createdAt": "2026-11-11T07:55:07.714Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id768571-html",
@@ -3664,21 +3664,6 @@
           "tag": "F1"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-lo-desplazo-de-la-f1-y-podria-volver-tras-el-escandalo-de-ocon-en-haas-id76968",
-          "title": "Colapinto lo desplazó de la F1 y podría volver tras el escándalo de Ocon en Haas",
-          "summary": "Jack Doohan, que perdió su butaca en Alpine cuando asumió el piloto argentino, aparece como una opción para reemplazar a Esteban Ocon en el Gran Premio de Brasil.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-lo-desplazo-de-la-f1-y-podria-volver-tras-el-escandalo-de-ocon-en-haas-id769680.html",
-          "image": "https://media.tycsports.com/files/2026/10/31/1001662/jack-doohan_1440x810.webp",
-          "body": "Jack Doohan, que perdió su butaca en Alpine cuando asumió el piloto argentino, aparece como una opción para reemplazar a Esteban Ocon en el Gran Premio de Brasil.\n\nJack Doohan podría regresar a la F1 (Getty Images) + Seguinos en Jack Doohan podría regresar a la Fórmula 1 la semana próxima. El australiano suena para ser el nuevo piloto de Haas en el Gran Premio de São Paulo, en lugar de Esteban Ocon tras el escándalo que protagonizó este fin de semana en México.\n\nEsta opción nace a partir de la situación de Ryo Hirakawa. Se espera que el japonés, piloto de reserva de Haas, no esté disponible ya que ese fin de semana tendrá compromisos en el Campeonato Mundial de Resistencia (WEC) con Toyota. Por lo tanto, la escudería necesitará un reemplazante. Es por eso que el nombre de Doohan aparece entre las alternativas. Según se informó, en Haas quedaron impresionados por lo que mostró en pruebas anteriores, y eso lo ubica en la consideración del equipo.\n\nPara el piloto, sería una revancha: él había debutado como titular de Alpine en 2025, pero fue desplazado de la escudería después de las primeras fechas de la temporada, cuando Franco Colapinto ocupó su asiento. Desde aquel entonces, su posible vuelta a la categoría no estaba en los planes.\n\nDoohan había arrancado 2025 como titular, pero no sumó puntos en las primeras seis fechas . Tras el GP de Miami, Alpine anunció que lo sacaba y ponía a Colapinto desde la fecha siguiente, en el GP de Emilia-Romagna, en Imola. A partir de ese momento, el argentino corrió junto a Pierre Gasly, y de a poco se fue consolidando en la escudería.",
-          "language": "es",
-          "publishedAt": "2026-10-31T23:35:38.000Z",
-          "addedAt": "2026-11-01T02:23:50.209Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-alpine-revelo-la-gran-virtud-de-colapinto-en-la-f1-para-dar-el-golpe-en-el-gp-de-estados",
           "title": "Alpine reveló la gran virtud de Colapinto en la F1 para dar el golpe en el GP de Estados Unidos",
           "summary": "Steve Nielsen elogió la agresividad del argentino en las salidas y confió en que el ritmo de carrera puede ser clave para que recupere posiciones en Circuito de las Américas.",
@@ -3709,6 +3694,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-audi-duda-de-la-defensa-de-colapinto-con-hulkenberg-lo-empujo-hacia-fuera",
+          "title": "Audi duda de la defensa de Colapinto con Hulkenberg: \"Lo empujó hacia fuera\"",
+          "summary": "El punto de vista de Allan McNish, director de competición en Audi, el argentino obligó a su piloto a salirse de la pista.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/audi-duda-de-la-defensa-de-colapinto-con-hulkenberg-lo-empujo-hacia-fuera/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Portada-Colapinto-Hulkenberg-Brasil-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-10T18:16:56.000Z",
+          "addedAt": "2026-11-10T21:27:10.345Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-es-frustrante-no-haber-conseguido-nada-briatore-se-expreso-tras-las-penalizaciones-a-col",
           "title": "\"Es frustrante\": Briatore se expresó tras las penalizaciones a Colapinto y Gasly",
           "summary": "El asesor ejecutivo de Alpine habló luego del Gran Premio de México en la Fórmula 1, donde fueron sancionados ambos pilotos.",
@@ -3722,6 +3722,21 @@
           "addedAt": "2026-11-02T15:36:49.682Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-el-publico-de-la-score-baja-1000-con-274-anotados-y-los-rivales-de-los-argentinos",
+          "title": "El público de la Score Baja 1000 con 274 anotados y los rivales de los argentinos",
+          "summary": "Campeones está presente en una carrera que reúne 450 mil espectadores para hacerla un clásico del off road junto al equipo argentino.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-publico-de-la-score-baja-1000-con-274-anotados-y-los-rivales-de-los-argentinos/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Baja-1000-Publico-Largada.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-11T04:14:37.000Z",
+          "addedAt": "2026-11-11T07:55:03.045Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-hay-mucho-que-revisar-como-equipo-flavio-briatore-autocritico-tras-el-gp-de-brasil-de-al",
@@ -3769,6 +3784,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-enfoca-brasil-nos-gustaria-trasladar-ritmo-carrera-que-mostramos-mexico",
+          "title": "Franco Colapinto se enfoca en Brasil: \"Nos gustaría trasladar el ritmo de carrera que mostramos en México\"",
+          "summary": "El piloto argentino de Fórmula 1 intentará en Interlagos dejar atrás la página del sinsabor de la sanción de la FIA que lo despojó de sumar puntos en el DF.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-enfoca-brasil-nos-gustaria-trasladar-ritmo-carrera-que-mostramos-mexico-id770259.html",
+          "image": "https://media.tycsports.com/files/2026/10/26/999867/franco-colapinto_1440x810.webp?v=1",
+          "body": "El piloto argentino de Fórmula 1 intentará en Interlagos dejar atrás la página del sinsabor de la sanción de la FIA que lo despojó de sumar puntos en el DF.\n\nFranco Colapinto, piloto argentino de Alpine en la F1. (Jayce Illman/Getty Images) + Seguinos en Se avecina el Gran Premio de Brasil de la Fórmula 1 y Franco Colapinto se enfoca en una revancha después de cumplir con una gran actuación en México y quedarse sin puntos por una polémica sanción de la FIA por no bajar lo suficiente la velocidad durante una bandera amarilla.\n\nEste martes, el argentino realizó declaraciones a su proía escudería, Alpine, con un discurso renovado y la ilusión de que se venga la carrera que él siempre define como \"mi casa\": se trata de la más cercana a la Argentina en el circuito actual, lo que multiplicará aún más su ya numerosa hinchada. \"El circuito de Interlagos es realmente histórico y es un lugar que ofrece oportunidades para aprovechar. Nos gustaría trasladar a este fin de semana el ritmo de carrera que mostramos en Ciudad de México y cerrar la triple cita con un buen resultado\" , se esperanzó el de Pilar.\n\nTras haber pedido disculpas por lo que asumió como un error propio que derivó en la sanción, Colapinto volvió sobre el tema de lo sucedido en el DF, donde el reparto de sanciones también dejó con las manos vacías a su compañero, Pierre Gasly: \"Fue una pena irnos de Ciudad de México sin puntos tras una tarde muy luchada\".\n\nEnseguida, Colapinto se centró en los mejores aspectos de la jornada del domingo antes de la desazón del desenlace: \"Fue una carrera muy movida y lo positivo fue que pudimos ejecutarla muy bien, mostrar buen ritmo y competir en el top ten, que es lo que debemos seguir haciendo este fin de semana en San Pablo\".",
+          "language": "es",
+          "publishedAt": "2026-11-04T01:44:52.000Z",
+          "addedAt": "2026-11-04T06:03:18.336Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-devastado-tras-sancion-mexico-es-final-muy-amargo-pido-disculpas-id7698",
           "title": "Franco Colapinto, devastado tras la sanción en México: \"Es un final muy amargo, les pido disculpas\"",
           "summary": "El piloto argentino se hizo cargo de la infracción durante la carrera de Fórmula 1 que lo dejó sin puntos tras alcanzar el séptimo puesto y lamentó que una buena actuación de la escudería terminara sin recompensa. Gasly, otro castigado, también reconoció su responsabilidad.",
@@ -3812,7 +3842,13 @@
           "addedAt": "2026-11-02T05:51:30.838Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-11-11T07:55:07.714Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-como-hizo-franco-colapinto-para-enterarse-resultado-superclasico-pleno-gp-de-mexico-id76",
           "title": "Cómo hizo Franco Colapinto para enterarse del resultado del Superclásico en pleno GP de México",
@@ -3842,13 +3878,7 @@
           "addedAt": "2026-11-01T16:13:46.297Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-11-11T01:22:06.418Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159-h",
           "title": "Cómo le fue a Franco Colapinto en la FP3 del Gran Premio de México de Fórmula 1",
@@ -4075,21 +4105,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-equipo-argentino-listo-para-la-score-baja-1000-tras-probar-el-canam",
-          "title": "Equipo argentino listo para la Score Baja 1000 tras probar el CanAm",
-          "summary": "Campeones junto a Alfredo y Tomás Olmedo, que comparten manejo con Federico Villagra y Daniel López en una carrera de casi 24 horas off road.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/equipo-argentino-listo-para-la-score-baja-1000-tras-probar-el-canam/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Olmedo-Monasterolo-Villagra-Pilotos-Baja-1000-e1794274280903.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-10T01:28:42.000Z",
-          "addedAt": "2026-11-10T07:33:45.588Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-que-le-ocurrio-al-alpine-de-colapinto-en-la-largada-del-gp-de-san-pablo",
           "title": "¿Qué le ocurrió al Alpine de Colapinto en la largada del GP de San Pablo?",
           "summary": "Al concluir 13.° con el Alpine A526 en la pista de Interlagos, el piloto argentino describió cómo afrontó la competencia brasileña.",
@@ -4101,21 +4116,6 @@
           "language": "es",
           "publishedAt": "2026-11-09T02:57:59.000Z",
           "addedAt": "2026-11-10T21:27:11.042Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-el-alpine-de-colapinto-no-tuvo-agarre-ritmo-ni-velocidad-bajo-la-lluvia-de-san-pablo",
-          "title": "Un Alpine sin \"agarre, ritmo y velocidad\" condicionó a Colapinto en la clasificación paulista de F1",
-          "summary": "El piloto argentino señaló que el coche no rindió como esperaba en la pista húmeda de Interlagos, en donde solo pudo girar en la primera sesión cronometrada quedando en el 17.° puesto.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/el-alpine-de-colapinto-no-tuvo-agarre-ritmo-ni-velocidad-bajo-la-lluvia-de-san-pablo/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-F1-F-Colapinto-paddock.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-07T22:02:16.000Z",
-          "addedAt": "2026-11-07T23:03:39.752Z",
           "category": "argentino",
           "tag": "Franco"
         }
