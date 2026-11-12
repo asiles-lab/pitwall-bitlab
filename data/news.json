@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-11T22:37:33.749Z",
-  "checkedAt": "2026-11-11T22:37:33.749Z",
+  "updatedAt": "2026-11-12T03:23:47.801Z",
+  "checkedAt": "2026-11-12T03:23:47.801Z",
   "pageSize": 18,
   "sources": [
     {
@@ -55,17 +55,47 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-que-le-ocurrio-al-alpine-de-colapinto-en-la-largada-del-gp-de-san-pablo",
-      "title": "¿Qué le ocurrió al Alpine de Colapinto en la largada del GP de San Pablo?",
-      "summary": "Al concluir 13.° con el Alpine A526 en la pista de Interlagos, el piloto argentino describió cómo afrontó la competencia brasileña.",
+      "id": "campeones-com-ar-el-combo-al-que-apunta-canapino-para-ser-competitivo-en-rio-cuarto",
+      "title": "El combo al que apunta Canapino para ser competitivo en Río Cuarto | Campeones",
+      "summary": "El \"Titán\" dialogó con Campeones en la previa de la anteúltima fecha del Turismo Carretera en la ciudad cordobesa. Llega con un cambio de motorista y la necesidad de sumar fuerte para prenderse en lo más alto.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/que-le-ocurrio-al-alpine-de-colapinto-en-la-largada-del-gp-de-san-pablo/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261108-F1-Colapinto-Brasil.jpg",
+      "url": "https://campeones.com.ar/el-combo-al-que-apunta-canapino-para-ser-competitivo-en-rio-cuarto/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/03/CANAPINO-AGUSTIN-NEUQUEN-FOTO-DARIO-GALLARDO-e1794274596246.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-09T02:57:59.000Z",
-      "addedAt": "2026-11-11T22:37:38.296Z",
+      "publishedAt": "2026-11-09T16:59:35.000Z",
+      "addedAt": "2026-11-11T01:22:02.870Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-un-entrenamiento-privado-genero-un-revuelo-interno-en-la-escuderia-revelacion-de-la-form",
+      "title": "Un entrenamiento privado generó un revuelo interno en la escudería revelación de la Fórmula 1",
+      "summary": "El búlgaro Nikola Tsolov fue protagonista de una jornada de pruebas con uno de los monoplazas de Racing Bulls y desató la incertidumbre, ya que Liam Lawson todavía no tiene confirmada su butaca para 2027.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/un-entrenamiento-privado-genero-un-revuelo-interno-en-la-escuderia-revelacion-de-la-formula-1-id771208.html",
+      "image": "https://media.tycsports.com/files/2026/11/11/1004396/nikola-tsolov-_1440x810.webp?v=1",
+      "body": "El búlgaro Nikola Tsolov fue protagonista de una jornada de pruebas con uno de los monoplazas de Racing Bulls y desató la incertidumbre, ya que Liam Lawson todavía no tiene confirmada su butaca para 2027.\n\nUn entrenamiento privado generó un revuelo interno en la escudería revelación de la Fórmula 1 (Getty Images: Chris Graythen). + Seguinos en Con apenas tres carreras para la finalización de la temporada 2026 de la Fórmula 1, Racing Bulls comienza a pensar con cierta cautela en lo que será el 2027 , ya que todavía compite por sostener el quinto puesto que ostenta en el campeonato de constructores. Con ese panorama por delante, la escudería planificó dos días de pruebas junto al búlgaro Nikola Tsolov y sembró la incógnita con respecto a la dupla de pilotos titulares para el año que viene .\n\nSegún informó el medio especializado Racing News 365 , el programa que encabezó el búlgaro corresponde a una modalidad denominada como Pruebas de Coches Anteriores (TPC por sus siglas en inglés) , la cual le permite a los equipos de la Máxima trabajar con monoplazas de años anteriores bajo un marco regulatorio distinto al de las pruebas con los autos actuales. Así, Tsolov se subió y utilizó el VCARB 02 de 2025. El entrenamiento privado se desarrolló en un momento de definiciones , ya que la escudería está analizando cómo será la dupla de pilotos para la próxima temporada. Todavía a la espera de una confirmación formal, una de las posibilidades más firmes hoy en día es la continuidad de la pareja conformada por Liam Lawson y Arvid Lindbland , quienes aportaron lo suyo para conseguir la mejor posición histórica de Racing Bulls en el Campeonato Mundial de Constructores : ocupa el quinto puesto con 110 puntos.\n\nEl búlgaro Nikola Tsolov fue protagonista de una jornada de pruebas con uno de",
+      "language": "es",
+      "publishedAt": "2026-11-12T02:55:04.000Z",
+      "addedAt": "2026-11-12T03:23:49.008Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "carburando-com-ar-blog-colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
+      "title": "Colapinto no es el único: dos pilotos más suman sanciones en la parrilla de Austin",
+      "summary": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico…",
+      "source": "Carburando",
+      "sourceLabel": "Carburando",
+      "url": "https://carburando.com.ar/blog/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
+      "image": "https://carburando.com.ar/covers/22/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-27815.webp",
+      "body": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico y deportivo que explica estas decisiones.\n\nLa parrilla del Gran Premio de Estados Unidos en el Circuito de las Américas se definirá este fin de semana con más modificaciones de lo habitual. Franco Colapinto no será el único que partirá más atrás de lo que su clasificación indique: dos pilotos adicionales acumulan sanciones que alterarán el orden de largada en Austin.\n\nEn el reglamento deportivo de la FIA, las penalizaciones por cambios de componentes de la unidad de potencia son las más habituales. Cuando un equipo excede el número permitido de motores, turbinas, MGU-K o baterías por temporada, el piloto debe retroceder posiciones en la grilla. Este mecanismo busca equilibrar el desarrollo y el costo de las plantas impulsoras.\n\nColapinto ya había recibido una sanción previa por la sustitución de varios elementos del power unit en las últimas carreras. Ahora se suman a esa lista otros dos corredores que, por motivos técnicos similares o por infracciones durante los entrenamientos, perderán lugares. El detalle exacto de cada penalidad se confirma habitualmente tras la clasificación del sábado, pero los equipos ya anticipan los movimientos.\n\nDesde el punto de vista técnico, el reglamento 2026 de la Fórmula 1 mantiene la filosofía de limitar el número de unidades de potencia por temporada, aunque con ajustes en la potencia y el componente eléctrico. Esto obliga a los fabricantes a ser más precisos en la gestión de fiabilidad, porque cada cambio extra se paga caro en la parrilla.",
+      "language": "es",
+      "publishedAt": "2026-10-23T21:50:17.000Z",
+      "addedAt": "2026-11-02T23:13:38.970Z",
       "category": "argentino",
       "tag": "Franco"
     },
@@ -83,36 +113,6 @@
       "addedAt": "2026-11-11T22:37:35.162Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-el-combo-al-que-apunta-canapino-para-ser-competitivo-en-rio-cuarto",
-      "title": "El combo al que apunta Canapino para ser competitivo en Río Cuarto | Campeones",
-      "summary": "El \"Titán\" dialogó con Campeones en la previa de la anteúltima fecha del Turismo Carretera en la ciudad cordobesa. Llega con un cambio de motorista y la necesidad de sumar fuerte para prenderse en lo más alto.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-combo-al-que-apunta-canapino-para-ser-competitivo-en-rio-cuarto/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/03/CANAPINO-AGUSTIN-NEUQUEN-FOTO-DARIO-GALLARDO-e1794274596246.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-09T16:59:35.000Z",
-      "addedAt": "2026-11-11T01:22:02.870Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "carburando-com-ar-blog-colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
-      "title": "Colapinto no es el único: dos pilotos más suman sanciones en la parrilla de Austin",
-      "summary": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico…",
-      "source": "Carburando",
-      "sourceLabel": "Carburando",
-      "url": "https://carburando.com.ar/blog/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
-      "image": "https://carburando.com.ar/covers/22/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-27815.webp",
-      "body": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico y deportivo que explica estas decisiones.\n\nLa parrilla del Gran Premio de Estados Unidos en el Circuito de las Américas se definirá este fin de semana con más modificaciones de lo habitual. Franco Colapinto no será el único que partirá más atrás de lo que su clasificación indique: dos pilotos adicionales acumulan sanciones que alterarán el orden de largada en Austin.\n\nEn el reglamento deportivo de la FIA, las penalizaciones por cambios de componentes de la unidad de potencia son las más habituales. Cuando un equipo excede el número permitido de motores, turbinas, MGU-K o baterías por temporada, el piloto debe retroceder posiciones en la grilla. Este mecanismo busca equilibrar el desarrollo y el costo de las plantas impulsoras.\n\nColapinto ya había recibido una sanción previa por la sustitución de varios elementos del power unit en las últimas carreras. Ahora se suman a esa lista otros dos corredores que, por motivos técnicos similares o por infracciones durante los entrenamientos, perderán lugares. El detalle exacto de cada penalidad se confirma habitualmente tras la clasificación del sábado, pero los equipos ya anticipan los movimientos.\n\nDesde el punto de vista técnico, el reglamento 2026 de la Fórmula 1 mantiene la filosofía de limitar el número de unidades de potencia por temporada, aunque con ajustes en la potencia y el componente eléctrico. Esto obliga a los fabricantes a ser más precisos en la gestión de fiabilidad, porque cada cambio extra se paga caro en la parrilla.",
-      "language": "es",
-      "publishedAt": "2026-10-23T21:50:17.000Z",
-      "addedAt": "2026-11-02T23:13:38.970Z",
-      "category": "argentino",
-      "tag": "Franco"
     },
     {
       "id": "campeones-com-ar-en-brasil-colapinto-fue-noveno-en-el-primer-entrenamiento-de-f1",
@@ -143,6 +143,21 @@
       "addedAt": "2026-11-07T02:05:47.823Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-alpine-baja-clave-2027-id771191-html",
+      "title": "Alpine pierde un integrante clave para la temporada 2027",
+      "summary": "Michal Paczkowski, quien se desempeñaba como ingeniero senior en integración electrónica, no continuará en la estructura de trabajo de la escudería francesa.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/alpine-baja-clave-2027-id771191.html",
+      "image": "https://media.tycsports.com/files/2026/11/11/1004351/alpine_1440x810.webp?v=1",
+      "body": "Michal Paczkowski, quien se desempeñaba como ingeniero senior en integración electrónica, no continuará en la estructura de trabajo de la escudería francesa.\n\nAlpine sufrirá una significativa baja en su equipo de trabajo para 2027. (@AlpineF1Team) + Seguinos en A solo tres carreras para el final de la temporada de la Fórmula 1, Alpine sufrió una pérdida clave en su equipo de trabajo de cara a 2027. Se trata de Michal Paczkowski , uno de los ingenieros principales en el desarrollo de la parte electrónica del A526.\n\nEl ingeniero polaco se había incorporado a la escudería francesa en enero y se desempeñaba como ingeniero senior en integración electrónica. De hecho, cumplió un rol clave en la integración de los sistemas electrónicos del monoplaza que manejan Franco Colapinto y Pierre Gasly cada fin de semana.\n\nA pesar de que no llegó a completar un año completo de trabajo en el equipo galo, Paczkowski dejará su puesto de trabajo antes del final de la temporada. Sin embargo, Alpine no comunicó oficialmente los motivos de su salida. Por lo tanto, no formará parte del grupo de trabajo de la escudería de cara al próximo año, en el que Alpine intentará consolidarse como el mejor equipo de la zona media de la parrilla.\n\nPrevio a su breve experiencia en Alpine, Paczkowski había formado parte de los equipos de trabajo de Williams entre 2021 y 2022, y luego de Mercedes desde 2023 a 2025.",
+      "language": "es",
+      "publishedAt": "2026-11-11T22:51:04.000Z",
+      "addedAt": "2026-11-12T03:23:49.049Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-agustin-canapino-con-asistencia-perfecta-en-las-definiciones",
@@ -2723,27 +2738,12 @@
       "addedAt": "2026-10-25T18:56:49.887Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-en-rosario-fritzler-prevalecio-sin-sobresaltos-en-la-ultima-bateria",
-      "title": "TC en Rosario: Fritzler prevaleció en la última batería",
-      "summary": "Con su compañero Diego Azar como escudero, el piloto oficial Mercedes-Benz se adjudicó el parcial más lento de la 3ª fecha de la Copa de Oro 2026 del Turismo Carretera y consiguió su 3ª victoria parcial del año.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-en-rosario-fritzler-prevalecio-sin-sobresaltos-en-la-ultima-bateria/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Fritzler-TC-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-25T15:02:03.000Z",
-      "addedAt": "2026-10-25T16:02:50.004Z",
-      "category": "general",
-      "tag": "F1"
     }
   ],
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-11T22:37:43.911Z",
+      "createdAt": "2026-11-12T03:24:01.329Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-san",
@@ -2776,21 +2776,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-el-tierno-gesto-de-franco-colapinto-con-un-nino-en-un-aeropuerto-abrazo-fotos-y-un-regal",
-          "title": "El tierno gesto de Colapinto con un niño en un aeropuerto",
-          "summary": "El piloto argentino protagonizó un encuentro inesperado con un pequeño fanático de la Fórmula 1, a quien sorprendió con un obsequio. La escena quedó registrada en un video que se viralizó en redes sociales.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/el-tierno-gesto-de-franco-colapinto-con-un-nino-en-un-aeropuerto-abrazo-fotos-y-un-regalo-especial-id771093.html",
-          "image": "https://media.tycsports.com/files/2026/11/11/1004187/el-tierno-gesto-de-franco-colapinto-con-un-pequeno-fan-1_1440x810.webp",
-          "body": "El piloto argentino protagonizó un encuentro inesperado con un pequeño fanático de la Fórmula 1, a quien sorprendió con un obsequio. La escena quedó registrada en un video que se viralizó en redes sociales.\n\nEl tierno gesto de Franco Colapinto con un pequeño fan + Seguinos en Un pequeño fanático de la Fórmula 1 vivió un momento que difícilmente olvidará . Durante un encuentro casual en un aeropuerto, F ranco Colapinto se detuvo para saludar a un niño que lo había reconocido y protagonizó una emotiva escena que rápidamente se viralizó en las redes sociales.\n\nEl chico no pudo ocultar su sorpresa al encontrarse frente a uno de sus ídolos . Lejos de seguir su camino, el piloto argentino se tomó unos minutos para conversar con él, sacarse fotos y darle un abrazo , ante la mirada de quienes presenciaron la situación.\n\nSin embargo, lo más especial todavía estaba por llegar. En medio del encuentro, el corredor de Alpine abrió su mochila, sacó una gorra de la escudería francesa y se la regaló al pequeño , que reaccionó con una enorme sonrisa mientras los presentes acompañaban el gesto con aplausos.\n\nLa secuencia quedó registrada en un video que comenzó a circular por las redes sociales y volvió a mostrar una faceta del pilarense que sus seguidores conocen bien: su cercanía con los fanáticos y la predisposición para compartir momentos con ellos fuera de las pistas.",
-          "language": "es",
-          "publishedAt": "2026-11-11T13:05:00.000Z",
-          "addedAt": "2026-11-11T16:04:12.899Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-colapinto-pidio-cambios-en-alpine-y-reflexiono-sobre-la-f1-los-pilotos-hoy-tienen-que-se",
           "title": "Colapinto pidió cambios en Alpine y reflexionó sobre la F1: \"Los pilotos hoy tienen que ser ingenieros también\"",
           "summary": "En la antesala del Gran Premio de Brasil, el argentino solicitó la introducción de modificaciones profundas en la escudería francesa, en caso de querer mejorar el rendimiento para la próxima temporada de la Máxima.",
@@ -2806,32 +2791,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-siempre-boca-la-reaccion-de-colapinto-cuando-le-preguntaron-por-equipos-de-brasil-y-cuan",
-          "title": "Siempre Boca: la reacción de Colapinto cuando le preguntaron por equipos de Brasil",
-          "summary": "En vísperas al Gran Premio de F1 en Interlagos, el piloto argentino fue parte de una divertida entrevista en la que le consultaron por el país vecino y contestó con un palito al hablar de sus clubes.",
+          "id": "www-tycsports-com-automovilismo-el-tierno-gesto-de-franco-colapinto-con-un-nino-en-un-aeropuerto-abrazo-fotos-y-un-regal",
+          "title": "El tierno gesto de Colapinto con un niño en un aeropuerto",
+          "summary": "El piloto argentino protagonizó un encuentro inesperado con un pequeño fanático de la Fórmula 1, a quien sorprendió con un obsequio. La escena quedó registrada en un video que se viralizó en redes sociales.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/siempre-boca-la-reaccion-de-colapinto-cuando-le-preguntaron-por-equipos-de-brasil-y-cuantos-mundiales-tenia-id770447.html",
-          "image": "https://media.tycsports.com/files/2026/11/01/1002027/franco-colapinto-alpine_862x485.webp?v=1",
-          "body": "En vísperas al Gran Premio de F1 en Interlagos, el piloto argentino fue parte de una divertida entrevista en la que le consultaron por el país vecino y contestó con un palito al hablar de sus clubes.\n\nFranco Colapinto se prepara para su tercer Gran Premio de San Pablo, en el histórico circuito de Interlagos en Brasil. + Seguinos en Franco Colapinto ya se encuentra en Brasil para disputar el Gran Premio de San Pablo de la Fórmula 1 , que tendrá lugar este domingo en el mítico circuito de Interlagos. En vísperas al media day de este jueves, el piloto argentino de Alpine participó de una divertida entrevista junto a Pierre Gasly en la que volvió a dejar en claro su fanatismo por Boca al ser consultado por equipos del país vecino.\n\nEn diálogo con UOL Esporte , tanto al oriundo de Pilar como a su compañero le hicieron mencionar equipos que conocían del fútbol brasileño. \"Boca, el número 1\" , inició entre risas Colapinto antes de dar su respuesta: \"Flamengo, Santos, Palmeiras, todos equipos que no me gustan\" , completó.\n\nPor su parte, Gasly nombró a \"Corinthians, Flamengo, Santos, San Pablo\" y ante la consulta sobre quién es el más grande hizo notar su fanatismo por PSG, al mencionar la escuadra liderada por un jugador que brilló en su equipo: \"Me gusta Neymar, voy por Santos a pesar de que no lo es\" .\n\nSiempre Boca: la reacción de Colapinto cuando le preguntaron por equipos de Brasil y cuántos Mundiales tenía Mirá también",
+          "url": "https://www.tycsports.com/automovilismo/el-tierno-gesto-de-franco-colapinto-con-un-nino-en-un-aeropuerto-abrazo-fotos-y-un-regalo-especial-id771093.html",
+          "image": "https://media.tycsports.com/files/2026/11/11/1004187/el-tierno-gesto-de-franco-colapinto-con-un-pequeno-fan-1_1440x810.webp",
+          "body": "El piloto argentino protagonizó un encuentro inesperado con un pequeño fanático de la Fórmula 1, a quien sorprendió con un obsequio. La escena quedó registrada en un video que se viralizó en redes sociales.\n\nEl tierno gesto de Franco Colapinto con un pequeño fan + Seguinos en Un pequeño fanático de la Fórmula 1 vivió un momento que difícilmente olvidará . Durante un encuentro casual en un aeropuerto, F ranco Colapinto se detuvo para saludar a un niño que lo había reconocido y protagonizó una emotiva escena que rápidamente se viralizó en las redes sociales.\n\nEl chico no pudo ocultar su sorpresa al encontrarse frente a uno de sus ídolos . Lejos de seguir su camino, el piloto argentino se tomó unos minutos para conversar con él, sacarse fotos y darle un abrazo , ante la mirada de quienes presenciaron la situación.\n\nSin embargo, lo más especial todavía estaba por llegar. En medio del encuentro, el corredor de Alpine abrió su mochila, sacó una gorra de la escudería francesa y se la regaló al pequeño , que reaccionó con una enorme sonrisa mientras los presentes acompañaban el gesto con aplausos.\n\nLa secuencia quedó registrada en un video que comenzó a circular por las redes sociales y volvió a mostrar una faceta del pilarense que sus seguidores conocen bien: su cercanía con los fanáticos y la predisposición para compartir momentos con ellos fuera de las pistas.",
           "language": "es",
-          "publishedAt": "2026-11-05T01:27:07.000Z",
-          "addedAt": "2026-11-05T01:25:40.088Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-salio-luz-video-lucha-con-franco-colapinto-que-llevo-sancion-nico-hulkenberg-id771058-ht",
-          "title": "Salió a la luz el video de la lucha con Franco Colapinto que llevó a la sanción a Nico Hulkenberg",
-          "summary": "A bordo de su Alpine, le aguantó el ataque al alemán por cinco minutos en el GP de Brasil de Fórmula 1 y la resolución del mano a mano fue una victoria moral del argentino.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/salio-luz-video-lucha-con-franco-colapinto-que-llevo-sancion-nico-hulkenberg-id771058.html",
-          "image": "https://media.tycsports.com/files/2026/11/10/1004147/colapinto-hulkenberg_1440x810.webp",
-          "body": "A bordo de su Alpine, le aguantó el ataque al alemán por cinco minutos en el GP de Brasil de Fórmula 1 y la resolución del mano a mano fue una victoria moral del argentino.\n\nColapinto y su defensa ante Hulkenberg en Brasil + Seguinos en El Gran Premio de Brasil de Fórmula 1 sigue dando que hablar y ni el puesto 13 de Franco Colapinto en otro fin de semana padeciendo los vaivenes de su Alpine logró empañar los momentos en los que pudo derrochar su capacidad de manejo.\n\nEs que , además del sobrepaso a Pierre Gasly bajo la lluvia antes del cambio de cubiertas, también se dio a conocer el video en el que realiza una defensa espectacular con neumáticos gastados frente a Nico Hulkenberg, al que su frustración del final le trajo consecuencias con la FIA. El de Audi salió de boxes con gomas nuevas y comenzó a atacarlo por todos lados, pero siempre se encontraba con las notables maniobras del pilarense. El juego del gato y el ratón se extendió durante largos cinco minutos , un escenario que favorecía hasta al compañero del argentino, Pierre Gasly, que venía detrás y no quería que el alemán se le escapara.\n\nLa resolución de la pugna llegaría en la vuelta 50, y de la forma que mejor dejó parado a Franco. Hulkenberg, cansado de perder, lo superó cortando pista por la derecha en la S de Senna . La acción le valdría una penalización de 10 segundos que cumpliría en la última parada en boxes, con la lluvia declarada.",
-          "language": "es",
-          "publishedAt": "2026-11-11T01:39:50.000Z",
-          "addedAt": "2026-11-11T07:55:00.655Z",
+          "publishedAt": "2026-11-11T13:05:00.000Z",
+          "addedAt": "2026-11-11T16:04:12.899Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2911,17 +2881,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-gasly-apunto-contra-el-rendimiento-de-alpine-y-lamento-no-sumar-en-brasil-fue-decepciona",
-          "title": "Gasly apuntó contra el rendimiento de Alpine y lamentó no sumar en Brasil: “Fue decepcionante”",
-          "summary": "El francés finalizó 14° en Interlagos, detrás de Colapinto, y cuestionó su actuación en la lluvia. Además, reconoció su frustración por no haber sumado puntos y ya piensa en Las Vegas.",
+          "id": "www-tycsports-com-automovilismo-salio-luz-video-lucha-con-franco-colapinto-que-llevo-sancion-nico-hulkenberg-id771058-ht",
+          "title": "Salió a la luz el video de la lucha con Franco Colapinto que llevó a la sanción a Nico Hulkenberg",
+          "summary": "A bordo de su Alpine, le aguantó el ataque al alemán por cinco minutos en el GP de Brasil de Fórmula 1 y la resolución del mano a mano fue una victoria moral del argentino.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/gasly-apunto-contra-el-rendimiento-de-alpine-y-lamento-no-sumar-en-brasil-fue-decepcionante-id770876.html",
-          "image": "https://media.tycsports.com/files/2026/09/10/986411/pierre-gasly_1440x810.webp",
-          "body": "El francés finalizó 14° en Interlagos, detrás de Colapinto, y cuestionó su actuación en la lluvia. Además, reconoció su frustración por no haber sumado puntos y ya piensa en Las Vegas.\n\nPierre Gasly + Seguinos en Pierre Gasly terminó 14° en el Gran Premio de Brasil de Fórmula 1 y expresó su frustración por no haber podido sumar puntos en Interlagos . El piloto de Alpine, que finalizó por detrás de Franco Colapinto (13°), también apuntó contra el rendimiento del auto en condiciones de lluvia y adelantó que el equipo tendrá varios aspectos para analizar antes de la próxima carrera.\n\n\"Fue una tarde desafiante para nosotros y es decepcionante no volver a sumar puntos, especialmente considerando las condiciones impredecibles, que por lo general me gustan mucho\" , reconoció el francés después de la competencia. Además, remarcó que el agarre fue uno de los principales problemas durante la jornada: \"Tenemos mucho que revisar, especialmente con respecto a nuestro rendimiento sobre mojado este fin de semana, ya que el agarre fue muy pobre tanto con los neumáticos Intermedios como con los de Lluvia Extrema\".\n\nEl malestar de Gasly no comenzó el domingo. Tras la clasificación del sábado, el piloto ya había advertido algunas irregularidades en el comportamiento del monoplaza : \"Tras la frustración de ayer en la Clasificación, vimos algunas cosas extrañas en los datos aerodinámicos del auto sobre mojado, las cuales sé que nos tomará tiempo revisar y entender mejor \". De todas maneras, destacó el rendimiento que consiguió con los neumáticos blandos cuando la pista estuvo seca. \"Estuve bastante contento con los neumáticos Blandos en la carrera de hoy y estuvimos entre los autos más rápidos en pista durante la parte seca de la carrera \", señaló.\n\nPor último, el francés reconoció que las ",
+          "url": "https://www.tycsports.com/automovilismo/salio-luz-video-lucha-con-franco-colapinto-que-llevo-sancion-nico-hulkenberg-id771058.html",
+          "image": "https://media.tycsports.com/files/2026/11/10/1004147/colapinto-hulkenberg_1440x810.webp",
+          "body": "A bordo de su Alpine, le aguantó el ataque al alemán por cinco minutos en el GP de Brasil de Fórmula 1 y la resolución del mano a mano fue una victoria moral del argentino.\n\nColapinto y su defensa ante Hulkenberg en Brasil + Seguinos en El Gran Premio de Brasil de Fórmula 1 sigue dando que hablar y ni el puesto 13 de Franco Colapinto en otro fin de semana padeciendo los vaivenes de su Alpine logró empañar los momentos en los que pudo derrochar su capacidad de manejo.\n\nEs que , además del sobrepaso a Pierre Gasly bajo la lluvia antes del cambio de cubiertas, también se dio a conocer el video en el que realiza una defensa espectacular con neumáticos gastados frente a Nico Hulkenberg, al que su frustración del final le trajo consecuencias con la FIA. El de Audi salió de boxes con gomas nuevas y comenzó a atacarlo por todos lados, pero siempre se encontraba con las notables maniobras del pilarense. El juego del gato y el ratón se extendió durante largos cinco minutos , un escenario que favorecía hasta al compañero del argentino, Pierre Gasly, que venía detrás y no quería que el alemán se le escapara.\n\nLa resolución de la pugna llegaría en la vuelta 50, y de la forma que mejor dejó parado a Franco. Hulkenberg, cansado de perder, lo superó cortando pista por la derecha en la S de Senna . La acción le valdría una penalización de 10 segundos que cumpliría en la última parada en boxes, con la lluvia declarada.",
           "language": "es",
-          "publishedAt": "2026-11-09T01:11:46.000Z",
-          "addedAt": "2026-11-09T06:05:57.849Z",
+          "publishedAt": "2026-11-11T01:39:50.000Z",
+          "addedAt": "2026-11-11T07:55:00.655Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3001,6 +2971,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-gasly-apunto-contra-el-rendimiento-de-alpine-y-lamento-no-sumar-en-brasil-fue-decepciona",
+          "title": "Gasly apuntó contra el rendimiento de Alpine y lamentó no sumar en Brasil: “Fue decepcionante”",
+          "summary": "El francés finalizó 14° en Interlagos, detrás de Colapinto, y cuestionó su actuación en la lluvia. Además, reconoció su frustración por no haber sumado puntos y ya piensa en Las Vegas.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/gasly-apunto-contra-el-rendimiento-de-alpine-y-lamento-no-sumar-en-brasil-fue-decepcionante-id770876.html",
+          "image": "https://media.tycsports.com/files/2026/09/10/986411/pierre-gasly_1440x810.webp",
+          "body": "El francés finalizó 14° en Interlagos, detrás de Colapinto, y cuestionó su actuación en la lluvia. Además, reconoció su frustración por no haber sumado puntos y ya piensa en Las Vegas.\n\nPierre Gasly + Seguinos en Pierre Gasly terminó 14° en el Gran Premio de Brasil de Fórmula 1 y expresó su frustración por no haber podido sumar puntos en Interlagos . El piloto de Alpine, que finalizó por detrás de Franco Colapinto (13°), también apuntó contra el rendimiento del auto en condiciones de lluvia y adelantó que el equipo tendrá varios aspectos para analizar antes de la próxima carrera.\n\n\"Fue una tarde desafiante para nosotros y es decepcionante no volver a sumar puntos, especialmente considerando las condiciones impredecibles, que por lo general me gustan mucho\" , reconoció el francés después de la competencia. Además, remarcó que el agarre fue uno de los principales problemas durante la jornada: \"Tenemos mucho que revisar, especialmente con respecto a nuestro rendimiento sobre mojado este fin de semana, ya que el agarre fue muy pobre tanto con los neumáticos Intermedios como con los de Lluvia Extrema\".\n\nEl malestar de Gasly no comenzó el domingo. Tras la clasificación del sábado, el piloto ya había advertido algunas irregularidades en el comportamiento del monoplaza : \"Tras la frustración de ayer en la Clasificación, vimos algunas cosas extrañas en los datos aerodinámicos del auto sobre mojado, las cuales sé que nos tomará tiempo revisar y entender mejor \". De todas maneras, destacó el rendimiento que consiguió con los neumáticos blandos cuando la pista estuvo seca. \"Estuve bastante contento con los neumáticos Blandos en la carrera de hoy y estuvimos entre los autos más rápidos en pista durante la parte seca de la carrera \", señaló.\n\nPor último, el francés reconoció que las ",
+          "language": "es",
+          "publishedAt": "2026-11-09T01:11:46.000Z",
+          "addedAt": "2026-11-09T06:05:57.849Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-enojado-por-la-mala-qualy-en-brasil-por-que-tan-lentos-id770819-html",
           "title": "Franco Colapinto, enojado por la mala qualy en Brasil: \"¿Por qué tan lentos?\"",
           "summary": "El argentino volcó toda su bronca en la radio con Stuart Barlow después de una jornada de Fórmula 1 decepcionante en la que no superó la primera tanda clasificatoria.",
@@ -3014,13 +2999,7 @@
           "addedAt": "2026-11-08T02:20:23.848Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-11-11T22:37:43.911Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-brasil-multiples-penalizaciones-asi-quedo-la-grilla-id770807-ht",
           "title": "La grilla del GP de Brasil de la Fórmula 1 después de todas las sanciones: cómo larga Colapinto",
@@ -3035,7 +3014,13 @@
           "addedAt": "2026-11-07T23:03:38.386Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-11-12T03:24:01.329Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-brasil-id770647-ht",
           "title": "Franco Colapinto no pasó la Q1 pero largará 15° en el GP de Brasil: Norris hizo la pole",
@@ -3123,36 +3108,6 @@
           "language": "es",
           "publishedAt": "2026-11-05T17:36:43.000Z",
           "addedAt": "2026-11-05T22:09:40.465Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-increible-historia-renoleta-sus-fans-que-franco-colapinto-manejo-brasil-id770442-html",
-          "title": "La increíble historia de la Renoleta de sus fans que Franco Colapinto manejó en Brasil",
-          "summary": "Tres amigos santafesinos recorrieron más de 2.000 kilómetros para llegar a San Pablo con un Renault 6 de 1977. El encuentro con el piloto argentino, que terminó conduciendo la reliquia, fue su recompensa con creces.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/increible-historia-renoleta-sus-fans-que-franco-colapinto-manejo-brasil-id770442.html",
-          "image": "https://media.tycsports.com/files/2026/11/04/1002900/renault-6-colapinto_862x485.webp",
-          "body": "Tres amigos santafesinos recorrieron más de 2.000 kilómetros para llegar a San Pablo con un Renault 6 de 1977. El encuentro con el piloto argentino, que terminó conduciendo la reliquia, fue su recompensa con creces.\n\nAntes de encontrarse con su ídolo, los santafesinos vivieron una odisea para llegar a Brasil. + Seguinos en La pasión por la Fórmula 1 puede llevar a los hinchas a protagonizar historias fascinantes. Esta vez, tres fanáticos de Santa Fe llegaron hasta San Pablo con un Renault 6 tuneado como un Alpine de la máxima categoría -al fin y al cabo, son la misma marca- y consiguieron que Franco Colapinto no solo los conociera, sino que también se sentara al volante y manejara la reliquia por las calles paulistas.\n\nLa travesía comenzó el domingo anterior en Esperanza. Hernán Bonvín, Claudio Goddio y Pablo Quaino emprendieron el viaje a bordo del coche de 1 977, al que previsiblemente bautizaron como La Renoleta y también como Alpine A527, en referencia al monoplaza que utilizará el argentino la próxima temporada.\n\nEl vehículo luce los colores rosa y celeste de la escudería francesa, además del número 43, que identifica al piloto de Pilar. La expedición tuvo un acompañante especial: Julio Amherdt, quien siguió el recorrido en un Valiant de 1966 para brindar asistencia durante los más de dos mil kilómetros.\n\nSin embargo, el camino no estuvo libre de complicaciones . Una falla en el alternador amenazó con terminar anticipadamente la aventura, ya que el repuesto que llevaban tampoco funcionó. La solución apareció en Concordia, donde por fortuna se disputaba una fecha del Turismo Nacional. Mecánicos de distintos equipos se acercaron para darles una mano y permitirles continuar.",
-          "language": "es",
-          "publishedAt": "2026-11-05T01:34:17.000Z",
-          "addedAt": "2026-11-05T01:25:40.243Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-gasly-revelo-la-leccion-que-aprendio-este-ano-y-lanzo-una-frase-que-ilusiona-a-colapinto",
-          "title": "Gasly reveló la lección que aprendió y lanzó una frase que ilusiona a Colapinto y Alpine en Interlagos",
-          "summary": "En la antesala del Gran Premio de San Pablo, el piloto francés se expidió sobre lo que fue la temporada 2026 para la escudería francesa y se mostró optimista de cara al inicio de las acciones en el país vecino.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/gasly-revelo-la-leccion-que-aprendio-este-ano-y-lanzo-una-frase-que-ilusiona-a-colapinto-y-alpine-en-interlagos-id770441.html",
-          "image": "https://media.tycsports.com/files/2026/11/04/1002894/pierre-gasly-alpine_862x485.webp?v=1",
-          "body": "En la antesala del Gran Premio de San Pablo, el piloto francés se expidió sobre lo que fue la temporada 2026 para la escudería francesa y se mostró optimista de cara al inicio de las acciones en el país vecino.\n\nPierre Gasly, con el especial traje que utilizarán los pilotos de Alpine para el Gran Premio de San Pablo en Interlagos. + Seguinos en Alpine buscará dejar atrás en el Gran Premio de San Pablo en Interlagos el sabor amargo que dejaron las sanciones que le sacaron de los puntos en México , un fin de semana en Brasil que anticipó Pierre Gasly dando a conocer la lección que le dejará la temporada 2026 y el motivo que lo ilusiona con lograr su tercer podio en el mítico trazado.\n\n“ Para mí, la principal lección de este año es que en la Fórmula 1 todo es posible. He logrado una pole position, algo que nadie esperaba . Si miramos la parrilla, no somos muchos los que hemos conseguido una pole, lo que demuestra que, si te esforzás al máximo, tarde o temprano podés alcanzar grandes logros” , marcó en diálogo con Clarín el experimentado piloto francés, quien en esta campaña logró la pole position en Monza y tuvo un podio en Mónaco que le fue quitado por una sanción .\n\n“Como equipo, aprendimos mucho de esa carrera: aprendimos a creer realmente en nosotros mismos, a entender que somos capaces de obtener este tipo de resultados . Ahora, el desafío es encontrar la manera de repetirlo y lograr constancia” , remarcó sobre el Gran Premio de Italia, en la terminó finalizando en el séptimo puesto.\n\nGasly sabe y muy bien lo que es terminar arriba del podio en Interlagos , al lograrlo por primera vez en 2019 (el primero en su trayectoria) y nuevamente en 2024 ya en Alpine. De cara a este fin de semana, el francés no descartó la posibilidad sumar uno más , aunque para ello marcó la ne",
-          "language": "es",
-          "publishedAt": "2026-11-05T01:20:03.000Z",
-          "addedAt": "2026-11-05T01:25:40.110Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3247,17 +3202,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
-          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
-          "summary": "Cobertura especial del GP de Estados Unidos de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
-          "body": "",
+          "id": "www-tycsports-com-automovilismo-siempre-boca-la-reaccion-de-colapinto-cuando-le-preguntaron-por-equipos-de-brasil-y-cuan",
+          "title": "Siempre Boca: la reacción de Colapinto cuando le preguntaron por equipos de Brasil",
+          "summary": "En vísperas al Gran Premio de F1 en Interlagos, el piloto argentino fue parte de una divertida entrevista en la que le consultaron por el país vecino y contestó con un palito al hablar de sus clubes.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/siempre-boca-la-reaccion-de-colapinto-cuando-le-preguntaron-por-equipos-de-brasil-y-cuantos-mundiales-tenia-id770447.html",
+          "image": "https://media.tycsports.com/files/2026/11/01/1002027/franco-colapinto-alpine_862x485.webp?v=1",
+          "body": "En vísperas al Gran Premio de F1 en Interlagos, el piloto argentino fue parte de una divertida entrevista en la que le consultaron por el país vecino y contestó con un palito al hablar de sus clubes.\n\nFranco Colapinto se prepara para su tercer Gran Premio de San Pablo, en el histórico circuito de Interlagos en Brasil. + Seguinos en Franco Colapinto ya se encuentra en Brasil para disputar el Gran Premio de San Pablo de la Fórmula 1 , que tendrá lugar este domingo en el mítico circuito de Interlagos. En vísperas al media day de este jueves, el piloto argentino de Alpine participó de una divertida entrevista junto a Pierre Gasly en la que volvió a dejar en claro su fanatismo por Boca al ser consultado por equipos del país vecino.\n\nEn diálogo con UOL Esporte , tanto al oriundo de Pilar como a su compañero le hicieron mencionar equipos que conocían del fútbol brasileño. \"Boca, el número 1\" , inició entre risas Colapinto antes de dar su respuesta: \"Flamengo, Santos, Palmeiras, todos equipos que no me gustan\" , completó.\n\nPor su parte, Gasly nombró a \"Corinthians, Flamengo, Santos, San Pablo\" y ante la consulta sobre quién es el más grande hizo notar su fanatismo por PSG, al mencionar la escuadra liderada por un jugador que brilló en su equipo: \"Me gusta Neymar, voy por Santos a pesar de que no lo es\" .\n\nSiempre Boca: la reacción de Colapinto cuando le preguntaron por equipos de Brasil y cuántos Mundiales tenía Mirá también",
           "language": "es",
-          "publishedAt": "2026-11-05T03:00:17.000Z",
-          "addedAt": "2026-10-20T22:28:56.803Z",
+          "publishedAt": "2026-11-05T01:27:07.000Z",
+          "addedAt": "2026-11-05T01:25:40.088Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3290,12 +3245,57 @@
           "addedAt": "2026-11-01T02:23:50.209Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-alpine-revelo-la-gran-virtud-de-colapinto-en-la-f1-para-dar-el-golpe-en-el-gp-de-estados",
+          "title": "Alpine reveló la gran virtud de Colapinto en la F1 para dar el golpe en el GP de Estados Unidos",
+          "summary": "Steve Nielsen elogió la agresividad del argentino en las salidas y confió en que el ritmo de carrera puede ser clave para que recupere posiciones en Circuito de las Américas.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/alpine-revelo-la-gran-virtud-de-colapinto-en-la-f1-para-dar-el-golpe-en-el-gp-de-estados-unidos-id768422.html",
+          "image": "https://media.tycsports.com/files/2026/10/23/998956/franco-colapinto_1440x810.webp",
+          "body": "Steve Nielsen elogió la agresividad del argentino en las salidas y confió en que el ritmo de carrera puede ser clave para que recupere posiciones en Circuito de las Américas.\n\nFranco Colapinto, en acción en el Circuito de las Américas en el Gran Premio de Estados Unidos (Getty Images: Chris Graythen). + Seguinos en El panorama no es el mejor, pero en Alpine no resignan nada. Franco Colapinto llegará al Gran Premio de Estados Unidos con una penalización de diez posiciones en la grilla por el cambio de un componente de su unidad de potencia , y en las prácticas libres dejó más dudas que certezas sobre la competitividad del A526. Sin embargo, Steve Nielsen, director general del equipo, encontró motivos para confiar: la agresividad del argentino en las salidas puede ser la llave para empezar la remontada en Austin.\n\nNielsen fue directo al hablar de las chances de su piloto. “Franco es bueno en las salidas, normalmente sabe sacar los codos y ganar posiciones” , afirmó, antes de ampliar su razonamiento: “Por supuesto, cuanto más atrás estás, generalmente más fácil resulta adelantar a los coches de la parte trasera. Habrá presión sobre Franco, pero estoy seguro de que, si hace una de sus buenas salidas habituales, podrá superar a varios coches y empezar a remontar desde ahí”. El director general incluso se animó a proyectar un objetivo concreto para el domingo: “Ojalá pueda hacer una buena carrera y conseguir algún punto”.\n\nNielsen no ocultó las limitaciones del equipo en las prácticas libres. “Fue un comienzo complicado. No estábamos demasiado contentos con el equilibrio del coche, probamos diferentes configuraciones y aprendimos algunas cosas en la FP1 que aplicamos después en la FP2”, reconoció.\n\n“Franco tiene una penalización aquí, así que los dos coches siguieron programa",
+          "language": "es",
+          "publishedAt": "2026-10-24T19:40:21.000Z",
+          "addedAt": "2026-10-24T21:13:09.032Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-formula-1-argentina-id768274-html",
+          "title": "La revelación de Colapinto sobre el regreso de la F1 a la Argentina: \"Por lo que escucho...\"",
+          "summary": "El piloto de Alpine aseguró que la incorporación del circuito africano al calendario desde 2030 no perjudica las posibilidades de disputar una carrera en Buenos Aires.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-formula-1-argentina-id768274.html",
+          "image": "https://media.tycsports.com/files/2026/10/23/998899/franco-colapinto_1440x810.webp?v=1",
+          "body": "El piloto de Alpine aseguró que la incorporación del circuito africano al calendario desde 2030 no perjudica las posibilidades de disputar una carrera en Buenos Aires.\n\nColapinto finalizó 17º en la FP1 del GP de Estados Unidos 23/10/2026 06:52 pm Franco Colapinto se ilusionó con la vuelta de la Fórmula 1 a la Argentina (Clive Mason/Getty Images) + Seguinos en El piloto de Alpine Franco Colapinto opinó que Argentina mantiene intactas sus posibilidades de volver a recibir a la Fórmula 1 , pese a la confirmación del Gran Premio de Ruanda a partir de 2030 , durante el encuentro con la prensa en Austin. “Las probabilidades realmente no han cambiado. Además, lo de Ruanda es en 2030, así que todavía falta mucho; por lo que escucho de los rumores, lo de Argentina sería para un poco antes. Ojalá suceda y podamos ir a todos lados. Pero sin tener muchas más carreras... que podemos repartir un poco”, expresó el bonaerense sobre la posibilidad de correr en el Autódromo Oscar y Juan Gálvez.\n\nLejos de mostrarse preocupado por la llegada de nuevos destinos al calendario, Colapinto celebró la expansión de la categoría hacia África: “En primer lugar, me encanta ir a África. C reo que es algo muy bueno para el deporte incorporar nuevos países, nuevos continentes e incluir a una parte diferente del mundo en esto ” . En esa misma línea, el argentino destacó la importancia de recuperar escenarios históricos y sumar alternativas para los pilotos. “Necesitamos circuitos, necesitamos carreras, nuevos lugares a los que ir. Malasia fue una carrera muy positiva. Volver a un circuito que los pilotos disfrutan tanto es algo muy especial” , señaló y, sobre Ruanda, agregó: “ Ir allí va a ser increíble. Tengo muchas ganas” .\n\nEl inicio del fin de semana en el Gran Premio de Austin trajo consigo una mal",
+          "language": "es",
+          "publishedAt": "2026-10-23T21:52:40.000Z",
+          "addedAt": "2026-10-23T23:32:59.910Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-es-frustrante-no-haber-conseguido-nada-briatore-se-expreso-tras-las-penalizaciones-a-col",
+          "title": "\"Es frustrante\": Briatore se expresó tras las penalizaciones a Colapinto y Gasly",
+          "summary": "El asesor ejecutivo de Alpine habló luego del Gran Premio de México en la Fórmula 1, donde fueron sancionados ambos pilotos.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/es-frustrante-no-haber-conseguido-nada-briatore-se-expreso-tras-las-penalizaciones-a-colapinto-y-gasly-id769858.html",
+          "image": "https://media.tycsports.com/files/2026/11/02/1002129/flavio-briatore-franco-colapinto_1440x810.webp",
+          "body": "El asesor ejecutivo de Alpine habló luego del Gran Premio de México en la Fórmula 1, donde fueron sancionados ambos pilotos.\n\nFlavio Briatore junto a Franco Colapinto. (Kym Illman/Getty Images) + Seguinos en La ilusión de Alpine por volver a sumar en la Fórmula 1 se desvaneció después del Gran Premio de México. Flavio Briatore respaldó a Franco Colapinto y Pierre Gasly, quienes habían terminado octavo y décimo, respectivamente, pero perdieron sus posiciones por sanciones de la FIA.\n\nEl asesor ejecutivo de la escudería francesa reconoció su frustración por el desenlace: \" Estoy contento con el rendimiento y el ritmo que mostramos en la carrera en comparación con la clasificación, pero no tanto con el resultado final. Tras las penalizaciones posteriores a la carrera, nos vamos de Ciudad de México sin puntos, lo cual es una lástima después de que ambos coches terminaran en los puntos\".\n\nEl encuentro entre Briatore, Colapinto y Gasly antes del GP de México Más allá de la decepción, el italiano destacó especialmente la recuperación del piloto argentino: \"Franco hizo una carrera muy buena y consistente, algo que necesitaba después de una racha de mala suerte en las últimas. Pierre también lo hizo bien y tuvo algunos problemas de potencia en la salida, pero hizo un buen trabajo recuperándose. Por lo tanto, es frustrante no haber conseguido nada en esta carrera\".\n\nVer esta publicaciÃ³n en Instagram Una publicaciÃ³n compartida por Flavio Briatore (@briatoreflavio)",
+          "language": "es",
+          "publishedAt": "2026-11-02T13:54:42.000Z",
+          "addedAt": "2026-11-02T15:36:49.682Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-11-11T22:37:43.911Z",
+      "createdAt": "2026-11-12T03:24:01.329Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-cerrara-su-temporada-en-catar-y-abu-dabi-id771013-html",
@@ -3571,7 +3571,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-11-11T22:37:43.911Z",
+      "createdAt": "2026-11-12T03:24:01.329Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-disney-en-vivo-como-ver-el-gp-de-estados-unidos-por-tv-y-online-id767516-html",
@@ -3662,51 +3662,6 @@
           "addedAt": "2026-10-22T23:15:42.966Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-alpine-revelo-la-gran-virtud-de-colapinto-en-la-f1-para-dar-el-golpe-en-el-gp-de-estados",
-          "title": "Alpine reveló la gran virtud de Colapinto en la F1 para dar el golpe en el GP de Estados Unidos",
-          "summary": "Steve Nielsen elogió la agresividad del argentino en las salidas y confió en que el ritmo de carrera puede ser clave para que recupere posiciones en Circuito de las Américas.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/alpine-revelo-la-gran-virtud-de-colapinto-en-la-f1-para-dar-el-golpe-en-el-gp-de-estados-unidos-id768422.html",
-          "image": "https://media.tycsports.com/files/2026/10/23/998956/franco-colapinto_1440x810.webp",
-          "body": "Steve Nielsen elogió la agresividad del argentino en las salidas y confió en que el ritmo de carrera puede ser clave para que recupere posiciones en Circuito de las Américas.\n\nFranco Colapinto, en acción en el Circuito de las Américas en el Gran Premio de Estados Unidos (Getty Images: Chris Graythen). + Seguinos en El panorama no es el mejor, pero en Alpine no resignan nada. Franco Colapinto llegará al Gran Premio de Estados Unidos con una penalización de diez posiciones en la grilla por el cambio de un componente de su unidad de potencia , y en las prácticas libres dejó más dudas que certezas sobre la competitividad del A526. Sin embargo, Steve Nielsen, director general del equipo, encontró motivos para confiar: la agresividad del argentino en las salidas puede ser la llave para empezar la remontada en Austin.\n\nNielsen fue directo al hablar de las chances de su piloto. “Franco es bueno en las salidas, normalmente sabe sacar los codos y ganar posiciones” , afirmó, antes de ampliar su razonamiento: “Por supuesto, cuanto más atrás estás, generalmente más fácil resulta adelantar a los coches de la parte trasera. Habrá presión sobre Franco, pero estoy seguro de que, si hace una de sus buenas salidas habituales, podrá superar a varios coches y empezar a remontar desde ahí”. El director general incluso se animó a proyectar un objetivo concreto para el domingo: “Ojalá pueda hacer una buena carrera y conseguir algún punto”.\n\nNielsen no ocultó las limitaciones del equipo en las prácticas libres. “Fue un comienzo complicado. No estábamos demasiado contentos con el equilibrio del coche, probamos diferentes configuraciones y aprendimos algunas cosas en la FP1 que aplicamos después en la FP2”, reconoció.\n\n“Franco tiene una penalización aquí, así que los dos coches siguieron programa",
-          "language": "es",
-          "publishedAt": "2026-10-24T19:40:21.000Z",
-          "addedAt": "2026-10-24T21:13:09.032Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-formula-1-argentina-id768274-html",
-          "title": "La revelación de Colapinto sobre el regreso de la F1 a la Argentina: \"Por lo que escucho...\"",
-          "summary": "El piloto de Alpine aseguró que la incorporación del circuito africano al calendario desde 2030 no perjudica las posibilidades de disputar una carrera en Buenos Aires.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-formula-1-argentina-id768274.html",
-          "image": "https://media.tycsports.com/files/2026/10/23/998899/franco-colapinto_1440x810.webp?v=1",
-          "body": "El piloto de Alpine aseguró que la incorporación del circuito africano al calendario desde 2030 no perjudica las posibilidades de disputar una carrera en Buenos Aires.\n\nColapinto finalizó 17º en la FP1 del GP de Estados Unidos 23/10/2026 06:52 pm Franco Colapinto se ilusionó con la vuelta de la Fórmula 1 a la Argentina (Clive Mason/Getty Images) + Seguinos en El piloto de Alpine Franco Colapinto opinó que Argentina mantiene intactas sus posibilidades de volver a recibir a la Fórmula 1 , pese a la confirmación del Gran Premio de Ruanda a partir de 2030 , durante el encuentro con la prensa en Austin. “Las probabilidades realmente no han cambiado. Además, lo de Ruanda es en 2030, así que todavía falta mucho; por lo que escucho de los rumores, lo de Argentina sería para un poco antes. Ojalá suceda y podamos ir a todos lados. Pero sin tener muchas más carreras... que podemos repartir un poco”, expresó el bonaerense sobre la posibilidad de correr en el Autódromo Oscar y Juan Gálvez.\n\nLejos de mostrarse preocupado por la llegada de nuevos destinos al calendario, Colapinto celebró la expansión de la categoría hacia África: “En primer lugar, me encanta ir a África. C reo que es algo muy bueno para el deporte incorporar nuevos países, nuevos continentes e incluir a una parte diferente del mundo en esto ” . En esa misma línea, el argentino destacó la importancia de recuperar escenarios históricos y sumar alternativas para los pilotos. “Necesitamos circuitos, necesitamos carreras, nuevos lugares a los que ir. Malasia fue una carrera muy positiva. Volver a un circuito que los pilotos disfrutan tanto es algo muy especial” , señaló y, sobre Ruanda, agregó: “ Ir allí va a ser increíble. Tengo muchas ganas” .\n\nEl inicio del fin de semana en el Gran Premio de Austin trajo consigo una mal",
-          "language": "es",
-          "publishedAt": "2026-10-23T21:52:40.000Z",
-          "addedAt": "2026-10-23T23:32:59.910Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-es-frustrante-no-haber-conseguido-nada-briatore-se-expreso-tras-las-penalizaciones-a-col",
-          "title": "\"Es frustrante\": Briatore se expresó tras las penalizaciones a Colapinto y Gasly",
-          "summary": "El asesor ejecutivo de Alpine habló luego del Gran Premio de México en la Fórmula 1, donde fueron sancionados ambos pilotos.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/es-frustrante-no-haber-conseguido-nada-briatore-se-expreso-tras-las-penalizaciones-a-colapinto-y-gasly-id769858.html",
-          "image": "https://media.tycsports.com/files/2026/11/02/1002129/flavio-briatore-franco-colapinto_1440x810.webp",
-          "body": "El asesor ejecutivo de Alpine habló luego del Gran Premio de México en la Fórmula 1, donde fueron sancionados ambos pilotos.\n\nFlavio Briatore junto a Franco Colapinto. (Kym Illman/Getty Images) + Seguinos en La ilusión de Alpine por volver a sumar en la Fórmula 1 se desvaneció después del Gran Premio de México. Flavio Briatore respaldó a Franco Colapinto y Pierre Gasly, quienes habían terminado octavo y décimo, respectivamente, pero perdieron sus posiciones por sanciones de la FIA.\n\nEl asesor ejecutivo de la escudería francesa reconoció su frustración por el desenlace: \" Estoy contento con el rendimiento y el ritmo que mostramos en la carrera en comparación con la clasificación, pero no tanto con el resultado final. Tras las penalizaciones posteriores a la carrera, nos vamos de Ciudad de México sin puntos, lo cual es una lástima después de que ambos coches terminaran en los puntos\".\n\nEl encuentro entre Briatore, Colapinto y Gasly antes del GP de México Más allá de la decepción, el italiano destacó especialmente la recuperación del piloto argentino: \"Franco hizo una carrera muy buena y consistente, algo que necesitaba después de una racha de mala suerte en las últimas. Pierre también lo hizo bien y tuvo algunos problemas de potencia en la salida, pero hizo un buen trabajo recuperándose. Por lo tanto, es frustrante no haber conseguido nada en esta carrera\".\n\nVer esta publicaciÃ³n en Instagram Una publicaciÃ³n compartida por Flavio Briatore (@briatoreflavio)",
-          "language": "es",
-          "publishedAt": "2026-11-02T13:54:42.000Z",
-          "addedAt": "2026-11-02T15:36:49.682Z",
-          "category": "argentino",
-          "tag": "Franco"
         },
         {
           "id": "campeones-com-ar-argentinos-reunidos-tras-varios-dias-preparando-la-ruta-de-la-score-baja-1000",
@@ -3842,13 +3797,7 @@
           "addedAt": "2026-11-01T16:13:46.297Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-11-11T22:37:43.911Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159-h",
           "title": "Cómo le fue a Franco Colapinto en la FP3 del Gran Premio de México de Fórmula 1",
@@ -3893,7 +3842,13 @@
           "addedAt": "2026-10-25T21:40:42.408Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-11-12T03:24:01.329Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-manager-jamie-campbell-walter-fuerte-mensaje-id768541-html",
           "title": "El fuerte mensaje del representante de Franco Colapinto a Clarkson por su burla contra Argentina: \"Merecen...\"",
@@ -4075,6 +4030,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-asi-correra-milla-por-milla-el-equipo-argentino-en-la-score-baja-1000",
+          "title": "Así correrá milla por milla el equipo argentino en la Score Baja 1000",
+          "summary": "Detalles reveladores de una logística detallada a los que accedió Campeones en México, junto al equipo argentino.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/asi-correra-milla-por-milla-el-equipo-argentino-en-la-score-baja-1000/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Auto-y-equipo-Baja-1000-Olmedo.jpeg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-12T03:14:29.000Z",
+          "addedAt": "2026-11-12T03:23:50.297Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-el-publico-de-la-score-baja-1000-con-274-anotados-y-los-rivales-de-los-argentinos",
           "title": "El público de la Score Baja 1000 con 274 anotados y los rivales de los argentinos",
           "summary": "Campeones está presente en una carrera que reúne 450 mil espectadores para hacerla un clásico del off road junto al equipo argentino.",
@@ -4116,6 +4086,36 @@
           "language": "es",
           "publishedAt": "2026-11-08T19:49:27.000Z",
           "addedAt": "2026-11-08T23:51:30.772Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-que-le-ocurrio-al-alpine-de-colapinto-en-la-largada-del-gp-de-san-pablo",
+          "title": "¿Qué le ocurrió al Alpine de Colapinto en la largada del GP de San Pablo?",
+          "summary": "Al concluir 13.° con el Alpine A526 en la pista de Interlagos, el piloto argentino describió cómo afrontó la competencia brasileña.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/que-le-ocurrio-al-alpine-de-colapinto-en-la-largada-del-gp-de-san-pablo/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261108-F1-Colapinto-Brasil.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-09T02:57:59.000Z",
+          "addedAt": "2026-11-11T22:37:38.296Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-increible-historia-renoleta-sus-fans-que-franco-colapinto-manejo-brasil-id770442-html",
+          "title": "La increíble historia de la Renoleta de sus fans que Franco Colapinto manejó en Brasil",
+          "summary": "Tres amigos santafesinos recorrieron más de 2.000 kilómetros para llegar a San Pablo con un Renault 6 de 1977. El encuentro con el piloto argentino, que terminó conduciendo la reliquia, fue su recompensa con creces.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/increible-historia-renoleta-sus-fans-que-franco-colapinto-manejo-brasil-id770442.html",
+          "image": "https://media.tycsports.com/files/2026/11/04/1002900/renault-6-colapinto_862x485.webp",
+          "body": "Tres amigos santafesinos recorrieron más de 2.000 kilómetros para llegar a San Pablo con un Renault 6 de 1977. El encuentro con el piloto argentino, que terminó conduciendo la reliquia, fue su recompensa con creces.\n\nAntes de encontrarse con su ídolo, los santafesinos vivieron una odisea para llegar a Brasil. + Seguinos en La pasión por la Fórmula 1 puede llevar a los hinchas a protagonizar historias fascinantes. Esta vez, tres fanáticos de Santa Fe llegaron hasta San Pablo con un Renault 6 tuneado como un Alpine de la máxima categoría -al fin y al cabo, son la misma marca- y consiguieron que Franco Colapinto no solo los conociera, sino que también se sentara al volante y manejara la reliquia por las calles paulistas.\n\nLa travesía comenzó el domingo anterior en Esperanza. Hernán Bonvín, Claudio Goddio y Pablo Quaino emprendieron el viaje a bordo del coche de 1 977, al que previsiblemente bautizaron como La Renoleta y también como Alpine A527, en referencia al monoplaza que utilizará el argentino la próxima temporada.\n\nEl vehículo luce los colores rosa y celeste de la escudería francesa, además del número 43, que identifica al piloto de Pilar. La expedición tuvo un acompañante especial: Julio Amherdt, quien siguió el recorrido en un Valiant de 1966 para brindar asistencia durante los más de dos mil kilómetros.\n\nSin embargo, el camino no estuvo libre de complicaciones . Una falla en el alternador amenazó con terminar anticipadamente la aventura, ya que el repuesto que llevaban tampoco funcionó. La solución apareció en Concordia, donde por fortuna se disputaba una fecha del Turismo Nacional. Mecánicos de distintos equipos se acercaron para darles una mano y permitirles continuar.",
+          "language": "es",
+          "publishedAt": "2026-11-05T01:34:17.000Z",
+          "addedAt": "2026-11-05T01:25:40.243Z",
           "category": "argentino",
           "tag": "Franco"
         }
