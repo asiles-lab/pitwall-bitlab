@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T20:06:10.321Z",
-  "checkedAt": "2026-11-14T20:06:10.321Z",
+  "updatedAt": "2026-11-14T23:51:08.931Z",
+  "checkedAt": "2026-11-14T23:51:08.931Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,6 +40,21 @@
   },
   "backlog": [
     {
+      "id": "campeones-com-ar-f3-metro-nazareno-lopez-fue-la-referencia-en-las-dos-practicas",
+      "title": "F3 Metro: Nazareno López fue las referencia en las prácticas",
+      "summary": "El entrerriano del Dital Fórmula dominó los dos entrenamientos que, con condición de pista disímil, la Fórmula 3 Metropolitana llevó a cabo en Río Cuarto, escenario de la 3ª y anteúltima fecha de la Copa de Oro 2026.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/f3-metro-nazareno-lopez-fue-la-referencia-en-las-dos-practicas/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Naza-Lopez-F3-Metro-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-14T15:17:55.000Z",
+      "addedAt": "2026-11-14T23:51:13.016Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-jonatan-castellano-resurgio-en-rio-cuarto-y-logro-la-pole-position-del-tc",
       "title": "Jonatan Castellano resurgió en Río Cuarto y logró la “pole position” del TC",
       "summary": "El piloto del Galarza Racing, que volvió a dominar una clasificación del Turismo Carretera luego de 3 años y medio, deberá cumplir una sanción de 5 puestos de recargo aplicada por la CAF de la ACTC a raíz de la maniobra peligrosa en perjuicio de su compañero Dianda en la Final de Rosario. Fritzler (Mercedes-Benz) y Canapino (Chevrolet) escoltaron al “Pinchito”.",
@@ -70,6 +85,21 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-tc-como-anduvo-el-nuevo-motor-de-canapino-en-el-rolo",
+      "title": "TC: ¿Cómo anduvo el nuevo motor de Canapino en el 'rolo'?",
+      "summary": "En \"Buen día, Campeones\", Nicolás Bonelli se refirió a la prueba satisfactoria para poner a punto el impulsor del Chevrolet del arrecifeño.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-como-anduvo-el-nuevo-motor-de-canapino-en-el-rolo/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261112-TC-Canapino.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-12T21:06:18.000Z",
+      "addedAt": "2026-11-14T23:51:13.396Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-shell-acompana-el-regreso-del-tc-a-rio-cuarto-despues-de-14-anos",
       "title": "Shell acompaña el regreso del TC a Río Cuarto después de 14 años | Campeones",
       "summary": "La categoría vuelve a la ciudad cordobesa el 14 y 15 de noviembre para disputar la Copa Shell, en una fecha clave para la definición del campeonato. En la antesala de la gran final, Shell reafirma su histórica relación con el automovilismo argentino y su alianza con la ACTC hasta 2035.",
@@ -96,21 +126,6 @@
       "language": "es",
       "publishedAt": "2026-11-12T18:27:10.000Z",
       "addedAt": "2026-11-13T15:32:32.706Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-la-vuelta-del-rally-mundial-se-va-acercando",
-      "title": "La vuelta del Rally Mundial se va acercando",
-      "summary": "El regreso del WRC a la Argentina se estaría encaminando para concretarse en la temporada 2028. El anuncio de cosas importantes llegaría en pocas horas.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/la-vuelta-del-rally-mundial-se-va-acercando/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2025/07/WRC-ARGENTINA-2019-RALLY-MUNDIAL.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-11T21:07:34.000Z",
-      "addedAt": "2026-11-11T22:37:35.749Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -156,6 +171,21 @@
       "language": "es",
       "publishedAt": "2026-11-08T13:55:07.000Z",
       "addedAt": "2026-11-08T16:07:45.404Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-la-vuelta-del-rally-mundial-se-va-acercando",
+      "title": "La vuelta del Rally Mundial se va acercando",
+      "summary": "El regreso del WRC a la Argentina se estaría encaminando para concretarse en la temporada 2028. El anuncio de cosas importantes llegaría en pocas horas.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/la-vuelta-del-rally-mundial-se-va-acercando/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2025/07/WRC-ARGENTINA-2019-RALLY-MUNDIAL.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-11T21:07:34.000Z",
+      "addedAt": "2026-11-11T22:37:35.749Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -280,66 +310,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-sorprendente-dominio-de-santino-rossi-en-el-rally-de-traslasierra",
-      "title": "Sorprendente dominio de Santino Rossi en el Rally de Traslasierra",
-      "summary": "El piloto fueguino se impone tras la primera etapa de la penúltima fecha del Rally Argentino, superando a los campeones nacionales Villagra y Baldoni.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/sorprendente-dominio-de-santino-rossi-en-el-rally-de-traslasierra/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-RallyArg-Rossi.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-07T22:39:45.000Z",
-      "addedAt": "2026-11-07T23:03:40.834Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-federico-villagra-toma-la-vanguardia-en-el-rally-de-traslasierra",
-      "title": "Federico Villagra toma la vanguardia en el Rally de Traslasierra",
-      "summary": "El piloto fueguino se impone tras la primera etapa de la penúltima fecha del Rally Argentino, superando a los campeones nacionales Villagra y Baldoni.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/federico-villagra-toma-la-vanguardia-en-el-rally-de-traslasierra/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-RallyArg-Villagra.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-07T22:39:45.000Z",
-      "addedAt": "2026-11-08T02:20:26.145Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-borgert-se-quedo-con-la-pole-de-tc-pista-en-rio-cuarto",
-      "title": "Borgert se quedó con la \"pole\" de TC Pista en Río Cuarto",
-      "summary": "A bordo del Ford de FPA Racing, el piloto entrerriano de General Ramírez superó a Damiani, el líder de la Copa de Plata, y a Thomas Pozner.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/borgert-se-quedo-con-la-pole-de-tc-pista-en-rio-cuarto/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261114-TCP-Borgert.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-14T19:16:28.000Z",
-      "addedAt": "2026-11-14T20:06:12.654Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "www-tycsports-com-automovilismo-antonelli-cumplio-su-promesa-y-se-tino-el-pelo-el-nuevo-look-del-campeon-mas-joven-en-la",
-      "title": "Antonelli cumplió su promesa y se tiñó el pelo: el nuevo look del campeón más joven en la historia de la F1",
-      "summary": "El campeón más joven de la historia de la Fórmula 1 arribó a la sede de Mercedes Benz con el pelo teñido con los colores de la bandera de Italia y, como se podía prever, llamó la atención de propios y extraños.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/antonelli-cumplio-su-promesa-y-se-tino-el-pelo-el-nuevo-look-del-campeon-mas-joven-en-la-historia-de-la-f1-id771180.html",
-      "image": "https://media.tycsports.com/files/2026/11/11/1004347/kimi-antonelli_1440x810.webp",
-      "body": "El campeón más joven de la historia de la Fórmula 1 arribó a la sede de Mercedes Benz con el pelo teñido con los colores de la bandera de Italia y, como se podía prever, llamó la atención de propios y extraños.\n\nAntonelli cumplió la promesa y se tiñó el pelo: el nuevo look del campeón más joven en la historia de la F1 + Seguinos en Kimi Antonelli está transitando una temporada de ensueño , ya que se ha proclamado como el campeón más joven en la historia de la Fórmula 1 y, como si fuera poco, una carrera después, también festejó con Mercedes Benz el campeonato de constructores. Ahora, además de deslumbrar por sus habilidades en la pista, el piloto de 20 años lo hizo fuera de ella al modificar radicalmente su aspecto cumpliendo con lo que él mismo había prometido tiempo atrás: se tiñó el pelo con los colores de la bandera de Italia .\n\nEl italiano había prometido que, en caso de consagrarse en la Máxima, haría una modificación notable en su pelo . En primera instancia, barajó la posibilidad de pintarse de azul y granate por el Bologna -el equipo de fútbol de su ciudad natal- , aunque finalmente la desestimó y se inclinó por recrear los colores de su país. Evidentemente, el cambio de look trajo consigo una multiplicidad de reacciones dentro de los integrantes de la escudería , quienes se encontraban festejando la obtención del campeonato. Cuando arribó al evento, uno de los más sorprendidos fue Toto Wolff , jefe de equipo de Mercedes, quien lo recibió con un paternal abrazo y una sonrisa de oreja a oreja, pese a que se quedó incrédulo durante unos segundos al verlo.\n\nEl resto de la jornada en la localidad de Brackley, Inglaterra, donde la organización tiene la base de su equipo de Fórmula 1, continuó con un ambiente festivo . La celebración, además de mucha alegría por lo c",
-      "language": "es",
-      "publishedAt": "2026-11-11T22:26:22.000Z",
-      "addedAt": "2026-11-11T22:37:35.162Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-que-resta-confirmarse-en-la-grilla-de-la-formula-1-2027-tras-el-anuncio-de-racing-bulls-",
       "title": "Qué resta confirmarse en la grilla de la Fórmula 1 2027 tras el anuncio de Racing Bulls",
       "summary": "Liam Lawson fue ratificado por el segundo equipo de Red Bull para el año que viene pero aún quedan dos lugares por definir, y uno puede traer noveea.",
@@ -370,17 +340,17 @@
       "tag": "F1"
     },
     {
-      "id": "www-tycsports-com-automovilismo-alpine-baja-clave-2027-id771191-html",
-      "title": "Alpine pierde un integrante clave para la temporada 2027",
-      "summary": "Michal Paczkowski, quien se desempeñaba como ingeniero senior en integración electrónica, no continuará en la estructura de trabajo de la escudería francesa.",
+      "id": "www-tycsports-com-automovilismo-antonelli-cumplio-su-promesa-y-se-tino-el-pelo-el-nuevo-look-del-campeon-mas-joven-en-la",
+      "title": "Antonelli cumplió su promesa y se tiñó el pelo: el nuevo look del campeón más joven en la historia de la F1",
+      "summary": "El campeón más joven de la historia de la Fórmula 1 arribó a la sede de Mercedes Benz con el pelo teñido con los colores de la bandera de Italia y, como se podía prever, llamó la atención de propios y extraños.",
       "source": "TyC Sports",
       "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/alpine-baja-clave-2027-id771191.html",
-      "image": "https://media.tycsports.com/files/2026/11/11/1004351/alpine_1440x810.webp?v=1",
-      "body": "Michal Paczkowski, quien se desempeñaba como ingeniero senior en integración electrónica, no continuará en la estructura de trabajo de la escudería francesa.\n\nAlpine sufrirá una significativa baja en su equipo de trabajo para 2027. (@AlpineF1Team) + Seguinos en A solo tres carreras para el final de la temporada de la Fórmula 1, Alpine sufrió una pérdida clave en su equipo de trabajo de cara a 2027. Se trata de Michal Paczkowski , uno de los ingenieros principales en el desarrollo de la parte electrónica del A526.\n\nEl ingeniero polaco se había incorporado a la escudería francesa en enero y se desempeñaba como ingeniero senior en integración electrónica. De hecho, cumplió un rol clave en la integración de los sistemas electrónicos del monoplaza que manejan Franco Colapinto y Pierre Gasly cada fin de semana.\n\nA pesar de que no llegó a completar un año completo de trabajo en el equipo galo, Paczkowski dejará su puesto de trabajo antes del final de la temporada. Sin embargo, Alpine no comunicó oficialmente los motivos de su salida. Por lo tanto, no formará parte del grupo de trabajo de la escudería de cara al próximo año, en el que Alpine intentará consolidarse como el mejor equipo de la zona media de la parrilla.\n\nPrevio a su breve experiencia en Alpine, Paczkowski había formado parte de los equipos de trabajo de Williams entre 2021 y 2022, y luego de Mercedes desde 2023 a 2025.",
+      "url": "https://www.tycsports.com/automovilismo/antonelli-cumplio-su-promesa-y-se-tino-el-pelo-el-nuevo-look-del-campeon-mas-joven-en-la-historia-de-la-f1-id771180.html",
+      "image": "https://media.tycsports.com/files/2026/11/11/1004347/kimi-antonelli_1440x810.webp",
+      "body": "El campeón más joven de la historia de la Fórmula 1 arribó a la sede de Mercedes Benz con el pelo teñido con los colores de la bandera de Italia y, como se podía prever, llamó la atención de propios y extraños.\n\nAntonelli cumplió la promesa y se tiñó el pelo: el nuevo look del campeón más joven en la historia de la F1 + Seguinos en Kimi Antonelli está transitando una temporada de ensueño , ya que se ha proclamado como el campeón más joven en la historia de la Fórmula 1 y, como si fuera poco, una carrera después, también festejó con Mercedes Benz el campeonato de constructores. Ahora, además de deslumbrar por sus habilidades en la pista, el piloto de 20 años lo hizo fuera de ella al modificar radicalmente su aspecto cumpliendo con lo que él mismo había prometido tiempo atrás: se tiñó el pelo con los colores de la bandera de Italia .\n\nEl italiano había prometido que, en caso de consagrarse en la Máxima, haría una modificación notable en su pelo . En primera instancia, barajó la posibilidad de pintarse de azul y granate por el Bologna -el equipo de fútbol de su ciudad natal- , aunque finalmente la desestimó y se inclinó por recrear los colores de su país. Evidentemente, el cambio de look trajo consigo una multiplicidad de reacciones dentro de los integrantes de la escudería , quienes se encontraban festejando la obtención del campeonato. Cuando arribó al evento, uno de los más sorprendidos fue Toto Wolff , jefe de equipo de Mercedes, quien lo recibió con un paternal abrazo y una sonrisa de oreja a oreja, pese a que se quedó incrédulo durante unos segundos al verlo.\n\nEl resto de la jornada en la localidad de Brackley, Inglaterra, donde la organización tiene la base de su equipo de Fórmula 1, continuó con un ambiente festivo . La celebración, además de mucha alegría por lo c",
       "language": "es",
-      "publishedAt": "2026-11-11T22:51:04.000Z",
-      "addedAt": "2026-11-12T03:23:49.049Z",
+      "publishedAt": "2026-11-11T22:26:22.000Z",
+      "addedAt": "2026-11-11T22:37:35.162Z",
       "category": "general",
       "tag": "F1"
     },
@@ -396,6 +366,21 @@
       "language": "es",
       "publishedAt": "2026-11-10T22:14:25.000Z",
       "addedAt": "2026-11-11T01:21:58.471Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-borgert-se-quedo-con-la-pole-de-tc-pista-en-rio-cuarto",
+      "title": "Borgert se quedó con la \"pole\" de TC Pista en Río Cuarto",
+      "summary": "A bordo del Ford de FPA Racing, el piloto entrerriano de General Ramírez superó a Damiani, el líder de la Copa de Plata, y a Thomas Pozner.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/borgert-se-quedo-con-la-pole-de-tc-pista-en-rio-cuarto/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261114-TCP-Borgert.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-14T19:16:28.000Z",
+      "addedAt": "2026-11-14T20:06:12.654Z",
       "category": "general",
       "tag": "F1"
     },
@@ -456,6 +441,21 @@
       "language": "es",
       "publishedAt": "2026-11-14T13:20:50.000Z",
       "addedAt": "2026-11-14T20:06:12.671Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-alpine-baja-clave-2027-id771191-html",
+      "title": "Alpine pierde un integrante clave para la temporada 2027",
+      "summary": "Michal Paczkowski, quien se desempeñaba como ingeniero senior en integración electrónica, no continuará en la estructura de trabajo de la escudería francesa.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/alpine-baja-clave-2027-id771191.html",
+      "image": "https://media.tycsports.com/files/2026/11/11/1004351/alpine_1440x810.webp?v=1",
+      "body": "Michal Paczkowski, quien se desempeñaba como ingeniero senior en integración electrónica, no continuará en la estructura de trabajo de la escudería francesa.\n\nAlpine sufrirá una significativa baja en su equipo de trabajo para 2027. (@AlpineF1Team) + Seguinos en A solo tres carreras para el final de la temporada de la Fórmula 1, Alpine sufrió una pérdida clave en su equipo de trabajo de cara a 2027. Se trata de Michal Paczkowski , uno de los ingenieros principales en el desarrollo de la parte electrónica del A526.\n\nEl ingeniero polaco se había incorporado a la escudería francesa en enero y se desempeñaba como ingeniero senior en integración electrónica. De hecho, cumplió un rol clave en la integración de los sistemas electrónicos del monoplaza que manejan Franco Colapinto y Pierre Gasly cada fin de semana.\n\nA pesar de que no llegó a completar un año completo de trabajo en el equipo galo, Paczkowski dejará su puesto de trabajo antes del final de la temporada. Sin embargo, Alpine no comunicó oficialmente los motivos de su salida. Por lo tanto, no formará parte del grupo de trabajo de la escudería de cara al próximo año, en el que Alpine intentará consolidarse como el mejor equipo de la zona media de la parrilla.\n\nPrevio a su breve experiencia en Alpine, Paczkowski había formado parte de los equipos de trabajo de Williams entre 2021 y 2022, y luego de Mercedes desde 2023 a 2025.",
+      "language": "es",
+      "publishedAt": "2026-11-11T22:51:04.000Z",
+      "addedAt": "2026-11-12T03:23:49.049Z",
       "category": "general",
       "tag": "F1"
     },
@@ -606,21 +606,6 @@
       "language": "es",
       "publishedAt": "2026-11-08T13:34:15.000Z",
       "addedAt": "2026-11-08T16:07:46.749Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-girolami-y-hyundai-en-lo-mas-alto-de-la-clasificacion-del-tcr-en-rosario",
-      "title": "Girolami y Hyundai, en lo más alto de la clasificación del TCR en Rosario | Campeones",
-      "summary": "El cordobés logró quedarse con el segundo corte clasificatorio para alzarse con la\"pole\", por solo 67 milésimas de ventaja sobre el uruguayo Joaquín Cafaro, que cerró el \"1-2\" de la marca.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/girolami-y-hyundai-en-lo-mas-alto-de-la-clasificacion-del-tcr-en-rosario/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/PHOTO-2026-11-07-17-22-50-e1794086725305.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-07T20:07:41.000Z",
-      "addedAt": "2026-11-07T23:03:39.742Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -835,6 +820,36 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-sorprendente-dominio-de-santino-rossi-en-el-rally-de-traslasierra",
+      "title": "Sorprendente dominio de Santino Rossi en el Rally de Traslasierra",
+      "summary": "El piloto fueguino se impone tras la primera etapa de la penúltima fecha del Rally Argentino, superando a los campeones nacionales Villagra y Baldoni.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/sorprendente-dominio-de-santino-rossi-en-el-rally-de-traslasierra/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-RallyArg-Rossi.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-07T22:39:45.000Z",
+      "addedAt": "2026-11-07T23:03:40.834Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-federico-villagra-toma-la-vanguardia-en-el-rally-de-traslasierra",
+      "title": "Federico Villagra toma la vanguardia en el Rally de Traslasierra",
+      "summary": "El piloto fueguino se impone tras la primera etapa de la penúltima fecha del Rally Argentino, superando a los campeones nacionales Villagra y Baldoni.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/federico-villagra-toma-la-vanguardia-en-el-rally-de-traslasierra/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-RallyArg-Villagra.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-07T22:39:45.000Z",
+      "addedAt": "2026-11-08T02:20:26.145Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-rally-argentino-zeballos-acelero-en-la-noche-de-villa-dolores",
       "title": "Rally Argentino: Zeballos aceleró en la noche de Villa Dolores",
       "summary": "El Súper Especial abrió el Rally de Traslasierra, penúltima fecha del certamen, con el dominio del piloto uruguayo quien es navegado por Diego Cagnotti.",
@@ -981,21 +996,6 @@
       "language": "es",
       "publishedAt": "2026-10-17T16:06:03.000Z",
       "addedAt": "2026-10-25T06:31:22.163Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada",
-      "title": "Baltazar Frezze piloto RVM oficial en el Dakar: \"Una marca argentina de gente buena y apasionada\"",
-      "summary": "El sueño de un salteño que fue a mirar el Dakar de pequeño y hoy entrena con los Benavides, con el respaldo oficial de una marca argentina.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/baltazar-frezze-piloto-rvm-oficial-en-el-dakar-una-marca-argentina-de-gente-buena-y-apasionada/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Baltazar-RVM-Portada-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-15T22:53:49.000Z",
-      "addedAt": "2026-10-29T13:45:00.295Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -1315,36 +1315,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-tc-mouras-arrigoni-dominador-del-sabado-en-la-plata",
-      "title": "TC Mouras: Arrigoni, dominador del sábado en La Plata | Campeones",
-      "summary": "Se quedó con la clasificación a bordo del Dodge del Rus Med Team, luego de ser el más veloz en los ensayos previos. Nicolás Jaime, líder del campeonato, se colocó 2° a solo 12 milésimas y cerró el \"1-2\" de la marca.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-mouras-arrigoni-dominador-del-sabado-en-la-plata/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/dsc-7927-jpg-crop-1794064680821-609400123.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-07T20:46:06.000Z",
-      "addedAt": "2026-11-07T23:03:41.559Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-pista-mouras-ignacio-vilas-revalido-su-buen-andar-y-se-quedo-con-la-clasificacion",
-      "title": "TC Pista Mouras: Ignacio Vilas revalidó su buen andar y se quedó con la clasificación | Campeones",
-      "summary": "El correntino fue el más rápido con la Dodge del Galarza Racing tras liderar los ensayos matutinos. Damián Pérez fue segundo y lo acompañará en la primera fila de la Serie Única.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-pista-mouras-ignacio-vilas-revalido-su-buen-andar-y-se-quedo-con-la-clasificacion/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/PHOTO-2026-11-07-14-32-06.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-07T20:27:16.000Z",
-      "addedAt": "2026-11-07T23:03:41.378Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-liam-lawson-puso-en-duda-su-continuidad-en-la-formula-1-y-expreso-su-frustracion-no-se-q",
       "title": "Liam Lawson consiguió sus mejores resultados, pero todavía no sabe si seguirá en la Fórmula 1: “No sé qué más quieren que haga”",
       "summary": "A pesar de estar noveno en el campeonato de pilotos, el integrante de Racing Bulls no está confirmado para el año próximo y los rumores que indican que puede ser reemplazado por Tsolov crecen.",
@@ -1508,6 +1478,21 @@
       "addedAt": "2026-10-27T19:41:09.465Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-girolami-y-hyundai-en-lo-mas-alto-de-la-clasificacion-del-tcr-en-rosario",
+      "title": "Girolami y Hyundai, en lo más alto de la clasificación del TCR en Rosario | Campeones",
+      "summary": "El cordobés logró quedarse con el segundo corte clasificatorio para alzarse con la\"pole\", por solo 67 milésimas de ventaja sobre el uruguayo Joaquín Cafaro, que cerró el \"1-2\" de la marca.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/girolami-y-hyundai-en-lo-mas-alto-de-la-clasificacion-del-tcr-en-rosario/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/PHOTO-2026-11-07-17-22-50-e1794086725305.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-07T20:07:41.000Z",
+      "addedAt": "2026-11-07T23:03:39.742Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-tc-pick-up-canapino-logro-en-la-plata-su-1a-pole-de-2026",
@@ -2470,6 +2455,36 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-tc-mouras-arrigoni-dominador-del-sabado-en-la-plata",
+      "title": "TC Mouras: Arrigoni, dominador del sábado en La Plata | Campeones",
+      "summary": "Se quedó con la clasificación a bordo del Dodge del Rus Med Team, luego de ser el más veloz en los ensayos previos. Nicolás Jaime, líder del campeonato, se colocó 2° a solo 12 milésimas y cerró el \"1-2\" de la marca.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-mouras-arrigoni-dominador-del-sabado-en-la-plata/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/dsc-7927-jpg-crop-1794064680821-609400123.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-07T20:46:06.000Z",
+      "addedAt": "2026-11-07T23:03:41.559Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc-pista-mouras-ignacio-vilas-revalido-su-buen-andar-y-se-quedo-con-la-clasificacion",
+      "title": "TC Pista Mouras: Ignacio Vilas revalidó su buen andar y se quedó con la clasificación | Campeones",
+      "summary": "El correntino fue el más rápido con la Dodge del Galarza Racing tras liderar los ensayos matutinos. Damián Pérez fue segundo y lo acompañará en la primera fila de la Serie Única.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-pista-mouras-ignacio-vilas-revalido-su-buen-andar-y-se-quedo-con-la-clasificacion/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/PHOTO-2026-11-07-14-32-06.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-07T20:27:16.000Z",
+      "addedAt": "2026-11-07T23:03:41.378Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-tc-mouras-arrigoni-arranco-adelante-en-la-plata",
       "title": "TC Mouras: Arrigoni arrancó adelante en La Plata | Campeones",
       "summary": "El piloto del Rus Med Team lideró con la Dodge en la mañana de sábado en La Plata, mientras que el Ford de Matías Frano se quedó con el segundo ensayo.",
@@ -2723,27 +2738,12 @@
       "addedAt": "2026-10-31T16:01:49.757Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc2000-en-general-roca-rossi-fue-el-mejor-del-shakedown",
-      "title": "TC2000 en General Roca: Rossi fue el mejor del \"Shakedown\"",
-      "summary": "El campeón y actual líder del certamen lideró el primer ensayo en la pista de AVGR, en donde se disputa la décima fecha del calendario.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc2000-en-general-roca-rossi-fue-el-mejor-del-shakedown/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261031-TC2000-Rossi.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-31T12:25:51.000Z",
-      "addedAt": "2026-10-31T16:01:50.186Z",
-      "category": "general",
-      "tag": "F1"
     }
   ],
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-14T20:06:21.159Z",
+      "createdAt": "2026-11-14T23:51:19.612Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-san",
@@ -2772,21 +2772,6 @@
           "language": "es",
           "publishedAt": "2026-11-08T20:12:23.000Z",
           "addedAt": "2026-11-08T20:25:29.391Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-boca-campeon-formula-1-gran-premio-de-brasil-id770818-html",
-          "title": "Desde Interlagos, Colapinto celebró el título de Boca junto a Bizarrap",
-          "summary": "Tras la clasificación del Gran Premio de Brasil, el piloto argentino observó los minutos finales del encuentro contra Defensa y Justicia desde el Autódromo José Carlos Pace de San Pablo.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-boca-campeon-formula-1-gran-premio-de-brasil--id770818.html",
-          "image": "https://media.tycsports.com/files/2026/11/07/1003660/franco-colapinto-boca-bizarrap-_862x485.webp",
-          "body": "Tras la clasificación del Gran Premio de Brasil, el piloto argentino observó los minutos finales del encuentro contra Defensa y Justicia desde el Autódromo José Carlos Pace de San Pablo.\n\nColapinto y Bizarrap vieron juntos el final del partido que consagró a Boca desde Interlagos + Seguinos en Franco Colapinto no quiso perderse las acciones en La Bombonera tras la clasificación del Gran Premio de Brasil observó la agónica victoria que consagró campeón a Boca de la Liga Profesional 2026 desde el Autódromo José Carlos Pace, en San Pablo.\n\nLuego de finalizar en el decimoséptimo lugar en una clasificación pasada por agua en Interlagos, su representante María Catarineu subió un video a su cuenta de Instagram donde se muestra al piloto -con la camiseta del Xeneize con el número y apellido de Leandro Paredes- viendo el partido desde una computadora junto a Bizarrap , íntimo amigo que fue c lave para conseguir apoyo económico cuando se encontraba en Fórmula 2 .\n\nFinalmente el agónico gol de Enner Valencia le dio la consagración al Club de la Ribera, lo cual despertó un puño apretado por parte de Colapinto que Bizarrap inmortalizó al subir una foto del momento en su cuenta de Instagram.\n\nJustamente para este fin de semana el piloto argentino estrenó un nuevo diseño de su casco, el cual cuenta con un claro guiño al club de sus amores. El mismo es a zul marino con una franja amarilla horizontal que lo atraviesa por completo . En la parte superior dice ‘Colapinto’ con una tipografía especial y el número 43 en blanco, atravesado por una línea amarilla, similar a los dorsales de la camiseta del Xeneize .",
-          "language": "es",
-          "publishedAt": "2026-11-07T23:41:31.000Z",
-          "addedAt": "2026-11-08T02:20:23.826Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2926,51 +2911,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-enojado-por-la-mala-qualy-en-brasil-por-que-tan-lentos-id770819-html",
-          "title": "Franco Colapinto, enojado por la mala qualy en Brasil: \"¿Por qué tan lentos?\"",
-          "summary": "El argentino volcó toda su bronca en la radio con Stuart Barlow después de una jornada de Fórmula 1 decepcionante en la que no superó la primera tanda clasificatoria.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-enojado-por-la-mala-qualy-en-brasil-por-que-tan-lentos-id770819.html",
-          "image": "https://media.tycsports.com/files/2026/11/07/1003667/colapinto-brasil_1440x810.webp?v=1",
-          "body": "El argentino volcó toda su bronca en la radio con Stuart Barlow después de una jornada de Fórmula 1 decepcionante en la que no superó la primera tanda clasificatoria.\n\nColapinto, frustrado por el andar del Alpine bajo la lluvia de San Pablo (Kym Illman/Getty Images). + Seguinos en Franco Colapinto no pudo superar las dificultades de su Alpine bajo la lluvia en la clasificación del Gran Premio de Brasil de la Fórmula 1 y, junto a su compañero Pierre Gasly, debieron conformarse con largar este domingo en el puesto 15 (el argentino) y 16 (el francés). En ese marco, antes de enfrentar a la prensa más tranquilo, el argentino se mostró hecho una furia con su ingeniero, Stuart Barlow.\n\nLas dificultades de agarre de los neumáticos sobre la pista mojada, la nula visibilidad y problemas específicos en el sector 2 encabezaron sus quejas, que matizó con algunos insultos al aire producto de su frustración. Consumado su puesto 17 (luego subiría dos lugares por las sanciones a Max Verstappen y Lewis Hamilton), Franco se despachó por la radio : \" ¡La puta madre! ¿Qué pasó? ¿Por qué éramos tan lentos? Mis neumáticos estaban muertos en la última vuelta\".\n\n\"Hubo un par de patinadas, todo se fue degradando desde allí. Curvas 4 y 5\", le respondieron desde la base, a lo que el argentino preguntó: \"¿Qué tan lejos estuvimos?\". La respuesta le gustó menos: \"Fuimos 17°. El 16° fue 1:33:150, a unas dos décimas\". Colapinto retomó entonces su bronca: \"¡Puta madre! ¿Entonces fue en el sector 2 o...?\".\n\n\"Fue en el sector 2 , amigo. Fue un buen primer sector, y luego segundo y medio en el sector 2... y otro segundo y medio en el 3\", le resumió Barlow.",
-          "language": "es",
-          "publishedAt": "2026-11-07T23:46:23.000Z",
-          "addedAt": "2026-11-08T02:20:23.848Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-brasil-multiples-penalizaciones-asi-quedo-la-grilla-id770807-ht",
-          "title": "La grilla del GP de Brasil de la Fórmula 1 después de todas las sanciones: cómo larga Colapinto",
-          "summary": "Después de una hora y media de demora por la lluvia y con varios pilotos afectados por cambios en las unidades de potencia, así largarán los pilotos en Interlagos.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-gran-premio-de-brasil-multiples-penalizaciones-asi-quedo-la-grilla-id770807.html",
-          "image": "https://media.tycsports.com/files/2026/11/07/1003618/lando-norris-pole-brasil_1440x810.webp",
-          "body": "Después de una hora y media de demora por la lluvia y con varios pilotos afectados por cambios en las unidades de potencia, así largarán los pilotos en Interlagos.\n\nLando Norris, el dueño de la pole bajo la intensa lluvia del Gran Premio de Brasil (Clive Rose/Getty Images). + Seguinos en Después de una espera de casi una hora y media por la intensa lluvia que cayó sobre San Pablo , el Gran Premio de Brasil pudo tener su clasificación y, con múltiples cambios por penalizaciones, los pilotos ya saben cómo largarán en la carrera del domingo.\n\nDespués de una sesión de Q3 que tan solo contó con un intento por el retorno de la lluvia, Lando Norris se quedó con la pole con un mejor registro de 1:24.470s en Interlagos . El piloto de McLaren fue seguido por George Russell, de Mercedes (+0.204s) y el flamante campeón del mundo, Kimi Antonelli (+0.625s). Sin embargo, e l orden de largada no tendrá al británico en el segundo lugar, como consecuencia de una penalización de cinco posiciones por el cambio de motor.\n\nNo fue una buena sesión para Franco Colapinto, dado que el argentino de Alpine quedó eliminado en Q1, con una mejor marca de 1:33.32s que le alcanzó para el 17° puesto . Sin embargo, aquí es donde entran en juego más penalizaciones. Es que Max Verstappen, Charles Leclerc, Lewis Hamilton y Sergio Pérez fueron penalizados por realizar cambios en sus unidades de potencia . De esta manera, Colapinto largará 15°, ganando así dos puestos.",
-          "language": "es",
-          "publishedAt": "2026-11-07T22:17:46.000Z",
-          "addedAt": "2026-11-07T23:03:38.386Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-brasil-id770647-ht",
-          "title": "Franco Colapinto no pasó la Q1 pero largará 15° en el GP de Brasil: Norris hizo la pole",
-          "summary": "El argentino no pasó de la primera etapa, pero las sanciones para Hamilton y Verstappen lo dejaron decimoquinto. Por otro lado, el piloto de McLaren largará primero.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-brasil-id770647.html",
-          "image": "https://media.tycsports.com/files/2026/11/07/1003585/colapinto_1440x810.webp?v=1",
-          "body": "El argentino no pasó de la primera etapa, pero las sanciones para Hamilton y Verstappen lo dejaron decimoquinto. Por otro lado, el piloto de McLaren largará primero.\n\nColapinto largará 17° en el GP de Brasil. (@F1) + Seguinos en Este sábado se disputó la clasificación del Gran Premio de Brasil de la Fórmula 1, donde Franco Colapinto obtuvo la decimoquinta posición de cara a la carrera del domingo, mientras que Lando Norris (McLaren) se quedó con la pole posicion . El argentino no pudo superar la Q1, pero como Max Verstappen y Lewis Hamilton fueron sancionados terminó ganando dos puestos.\n\nLa actividad en la clasificación estuvo marcada por las tormentas : apenas segundos después de iniciada la Q1 (15:00hs) apareció la bandera roja porque la lluvia no dejaba que los pilotos pudieran moverse en pista con normalidad. Así estuvo todo por más de una hora, pero antes de las 16:30 empezó la acción .\n\nEn la primera etapa los tiempos fueron variando constantemente y cada automovilista mejoraba al anterior porque poco a poco el agua se iba del asfalto. Allí, Colapinto no pudo asentarse y terminó eliminado quedando 17°, pero tanto Hamilton como Verstappen estaban sancionados y como avanzaron a Q2 le dieron dos puestos más al argentino . De hecho, Mad Max ni siquiera se subió a su Red Bull para participar de la segunda etapa.\n\nEn la Q2, Rafael Cámara, rookie de Haas que reemplazó a Ocon, se despistó e impactó contra los carteles , pero podría estar presente en la carrera. Por otro lado, la Q3 no pudo finalizar con normalidad porque en el cierre volvió a llover con fuerza y los pilotos optaron por quedarse en boxes con su posición ganada y no arriesgar los autos. Esto hizo que Lando Norris se quedara con la pole posicion , mientras que George Russell culminó segundo. Sin embargo, el",
-          "language": "es",
-          "publishedAt": "2026-11-07T20:59:33.000Z",
-          "addedAt": "2026-11-06T17:24:55.173Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-tras-las-penalizaciones-en-f1-colapinto-largara-13-en-el-gp-de-san-pablo",
           "title": "Tras las penalizaciones en F1, Colapinto largará 13.° en el GP de San Pablo",
           "summary": "Desde la hora 14:00 de nuestro país, y atento al estado meteorológico que pronostica lluvias, se disputará la 20.ª fecha del campeonato mundial, con Norris largando en \"pole\".",
@@ -3000,27 +2940,6 @@
           "category": "argentino",
           "tag": "Franco"
         },
-        {
-          "id": "campeones-com-ar-gp-de-san-pablo-colapinto-se-ubico-17-en-la-demorada-clasificacion-de-f1",
-          "title": "GP de San Pablo: Colapinto quedó 17.° en la demorada clasificación de F1",
-          "summary": "Tras la espera de más de una hora por las mejoras en las condiciones del tiempo por una fuerte lluvia, se concretó la sesión en la cual el piloto argentino y su compañero Gasly quedaron eliminados en la primera parte.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/gp-de-san-pablo-colapinto-se-ubico-17-en-la-demorada-clasificacion-de-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-F1-Colapinto-Qualy.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-07T22:46:53.000Z",
-          "addedAt": "2026-11-07T23:03:39.594Z",
-          "category": "argentino",
-          "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-11-14T20:06:21.159Z",
-      "items": [
         {
           "id": "www-tycsports-com-automovilismo-como-quedo-la-grilla-definitiva-del-gp-de-estados-unidos-de-la-f1-id768491-html",
           "title": "Cómo quedó la grilla definitiva del GP de Estados Unidos de la F1",
@@ -3095,7 +3014,13 @@
           "addedAt": "2026-11-01T02:23:50.209Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-11-14T23:51:19.612Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-alpine-revelo-la-gran-virtud-de-colapinto-en-la-f1-para-dar-el-golpe-en-el-gp-de-estados",
           "title": "Alpine reveló la gran virtud de Colapinto en la F1 para dar el golpe en el GP de Estados Unidos",
@@ -3138,6 +3063,21 @@
           "language": "es",
           "publishedAt": "2026-11-02T13:54:42.000Z",
           "addedAt": "2026-11-02T15:36:49.682Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-boca-campeon-formula-1-gran-premio-de-brasil-id770818-html",
+          "title": "Desde Interlagos, Colapinto celebró el título de Boca junto a Bizarrap",
+          "summary": "Tras la clasificación del Gran Premio de Brasil, el piloto argentino observó los minutos finales del encuentro contra Defensa y Justicia desde el Autódromo José Carlos Pace de San Pablo.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-boca-campeon-formula-1-gran-premio-de-brasil--id770818.html",
+          "image": "https://media.tycsports.com/files/2026/11/07/1003660/franco-colapinto-boca-bizarrap-_862x485.webp",
+          "body": "Tras la clasificación del Gran Premio de Brasil, el piloto argentino observó los minutos finales del encuentro contra Defensa y Justicia desde el Autódromo José Carlos Pace de San Pablo.\n\nColapinto y Bizarrap vieron juntos el final del partido que consagró a Boca desde Interlagos + Seguinos en Franco Colapinto no quiso perderse las acciones en La Bombonera tras la clasificación del Gran Premio de Brasil observó la agónica victoria que consagró campeón a Boca de la Liga Profesional 2026 desde el Autódromo José Carlos Pace, en San Pablo.\n\nLuego de finalizar en el decimoséptimo lugar en una clasificación pasada por agua en Interlagos, su representante María Catarineu subió un video a su cuenta de Instagram donde se muestra al piloto -con la camiseta del Xeneize con el número y apellido de Leandro Paredes- viendo el partido desde una computadora junto a Bizarrap , íntimo amigo que fue c lave para conseguir apoyo económico cuando se encontraba en Fórmula 2 .\n\nFinalmente el agónico gol de Enner Valencia le dio la consagración al Club de la Ribera, lo cual despertó un puño apretado por parte de Colapinto que Bizarrap inmortalizó al subir una foto del momento en su cuenta de Instagram.\n\nJustamente para este fin de semana el piloto argentino estrenó un nuevo diseño de su casco, el cual cuenta con un claro guiño al club de sus amores. El mismo es a zul marino con una franja amarilla horizontal que lo atraviesa por completo . En la parte superior dice ‘Colapinto’ con una tipografía especial y el número 43 en blanco, atravesado por una línea amarilla, similar a los dorsales de la camiseta del Xeneize .",
+          "language": "es",
+          "publishedAt": "2026-11-07T23:41:31.000Z",
+          "addedAt": "2026-11-08T02:20:23.826Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3290,27 +3230,87 @@
           "addedAt": "2026-10-25T21:40:42.408Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-manager-jamie-campbell-walter-fuerte-mensaje-id768541-html",
+          "title": "El fuerte mensaje del representante de Franco Colapinto a Clarkson por su burla contra Argentina: \"Merecen...\"",
+          "summary": "Jamie Campbell-Walter, representante de Franco Colapinto, repudió las declaraciones contra el piloto argentino durante el Gran Premio de Estados Unidos.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-manager-jamie-campbell-walter-fuerte-mensaje-id768541.html",
+          "image": "https://media.tycsports.com/files/2026/10/25/999476/franco-colapinto_862x485.webp",
+          "body": "Jamie Campbell-Walter, representante de Franco Colapinto, repudió las declaraciones contra el piloto argentino durante el Gran Premio de Estados Unidos.\n\nFranco Colapinto junto a Jamie Campbell-Walter, su mánager. + Seguinos en Jamie Campbell-Walter, representante de Franco Colapinto, repudió las declaraciones de Jeremy Clarkson contra el piloto argentino durante el Gran Premio de Estados Unidos. Luego del respaldo público de Alpine, el manager expresó en sus redes sociales: \"Los comentarios de Jeremy Clarkson sobre la nacionalidad de Franco fueron completamente inaceptables\" .\n\nEl agente del pilarense rechazó cualquier justificación de los dichos del británico y advirtió: \" No hay lugar para observaciones como esta en la Fórmula 1, independientemente de quién las haga o si se pretendían como una broma \" . Su descargo llegó después de que el propio corredor impulsara una campaña para frenar las agresiones entre los fanáticos en las redes sociales. En ese sentido, Campbell-Walter remarcó: \" Hemos trabajado duro para promover el respeto y poner fin a la hostilidad y el abuso. Ese respeto debe ser mutuo. No podemos pedirle a nadie que se comporte de manera responsable mientras aceptamos comentarios como estos de figuras prominentes que visitan nuestro deporte\" . Y concluyó: \"Franco y sus seguidores merecen algo mejor que esto. No permitamos que esto deshaga el progreso que hemos logrado y elevémonos por encima de los comentarios maliciosos\".\n\nLa controversia comenzó durante una entrevista con Sky Sports F1, cuando Clarkson se refirió a la penalización de diez posiciones que recibió Colapinto en Austin: “Franco tiene una penalización en la grilla por ser argentino. Probablemente. Bueno, yo le daría una por eso. Pero, en fin, eso es solo por lo que pasó cuando fuimos allí” .",
+          "language": "es",
+          "publishedAt": "2026-10-25T18:09:44.000Z",
+          "addedAt": "2026-10-25T18:56:46.890Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda",
+          "title": "Colapinto calificó de “rara” su clasificación en el GP de Austin y explicó qué le complicó la tanda",
+          "summary": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda-id768484.html",
+          "image": "https://media.tycsports.com/files/2026/10/22/998500/franco-colapinto-casco_1440x810.webp",
+          "body": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.\n\nFranco Colapinto estrenó un nuevo diseño de su casco en el Gran Premio de Estados Unidos de la Fórmula 1. + Seguinos en Franco Colapinto terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21 . Tras la sesión en el circuito de Austin, el argentino reconoció que Alpine no logró encontrar el rendimiento esperado y apuntó a las dificultades que tuvo con el auto.\n\n“Fue una clasificación rara. Nos estuvo costando toda la sesión” , resumió el piloto, que no consiguió sentirse cómodo con el monoplaza desde el inicio del fin de semana. Además, señaló que los sectores irregulares del trazado le generaron problemas cuando intentaba acelerar el ritmo.\n\n“Desde ayer que no encontramos el auto y cuando vamos rápido por los pianos y la parte más bacheada de la pista se complica un poco” , explicó Colapinto, que buscará revertir esas sensaciones en la carrera del domingo.\n\nPese a las dificultades, el argentino logró superar la Q1 y avanzar hasta la Q2, donde terminó en el 14° lugar. Sin embargo, la penalización lo relegará al fondo de la grilla y condicionará su estrategia para la competencia.",
+          "language": "es",
+          "publishedAt": "2026-10-24T23:45:17.000Z",
+          "addedAt": "2026-10-25T01:26:40.513Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-",
+          "title": "Colapinto, entre la preocupación y la esperanza tras las prácticas libres en Austin: “Será muy difícil, pero...”",
+          "summary": "El piloto argentino, que culminó 17&ordm; y 15&ordm; en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-muy-dificil-pero--id768314.html",
+          "image": "https://media.tycsports.com/files/2026/10/23/998965/franco-colapinto_1440x810.webp?v=2",
+          "body": "El piloto argentino, que culminó 17º y 15º en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.\n\nColapinto, entre la preocupación y la esperanza luego de las prácticas libres en Austin (Getty Images: Kym Illman). + Seguinos en Este viernes, Franco Colapinto puso primera en el Gran Premio de Estados Unidos de la Fórmula 1 y lo hizo con las prácticas libres , en las cuales finalizó 17º y 15º respectivamente. Ahora, todavía a la espera de la FP3, y con una penalización de diez lugares para la grilla de salida de la carrera principal del próximo domingo , el piloto de Alpine analizó lo sucedido en la pista. Más allá de que se lo notó preocupado, también exhibió una mínima llamarada de esperanza con la mira puesta en potenciar el rendimiento.\n\nDespués de finalizar con las dos sesiones de la jornada, el pilarense dejó en evidencia su disconformidad con el funcionamiento del monoplaza . “Intentaremos enfocarnos en el balance para la carrera. Ojalá que eso nos ayude . Creo que estamos un poco obligados con la dureza del auto, uno muy rígido y cuesta mucho en una pista muy bacheada, así que va a ser difícil, pero intentaremos dar un salto para mañana (en referencia al sábado)” , expresó en primera instancia.\n\nMás adelante, reconoció que el A526 tiene margen de mejora , aunque la escudería deberá analizar múltiples datos para hacerla efectiva de cara a la clasificación que, con la mencionada sanción, no definirá demasiado . “Hay mucho por mejorar y por entender, o por lo menos bastante performance para encontrar en el auto por la cantidad de baches que hay. Creo que es una pista un poco atípica, aunque por otro lado tendremos que entender cómo mejorar para mañana” , añadió e",
+          "language": "es",
+          "publishedAt": "2026-10-24T00:50:22.000Z",
+          "addedAt": "2026-10-24T02:00:16.108Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-messi-balon-de-oro-id767832-html",
+          "title": "Colapinto eligió a Messi como su candidato para el Balón de Oro: “Sería muy lindo que lo vuelva a ganar”",
+          "summary": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-messi-balon-de-oro-id767832.html",
+          "image": "https://media.tycsports.com/files/2026/10/22/998438/franco_862x485.webp?v=1",
+          "body": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.\n\nFrance Football aclaró la polémica en torno al Balón de Oro de todos los tiempos, mientras CR7 aventaja a Messi 22/10/2026 09:33 pm Franco Colapinto eligió a Lionel Messi como su candidato a ganar el Balón de Oro. + Seguinos en Franco Colapinto tiene muy en claro a su favorito para quedarse con el Balón de Oro , que se entregará el próximo lunes en Londres. “Messi” , sentenció el piloto argentino de Alpine en diálogo con DAZN este jueves en el Media Day del Gran Premio de Estados Unidos de Fórmula 1.\n\n“Fue su último Mundial y la rompió. Metió muchísimos goles, ayudó a Argentina a llegar a la final y es un ídolo para todo el fútbol mundial. Creo que tuvo un gran año y se lo merece” , argumentó el pilarense sobre la performance del astro rosarino en este 2026.\n\nAdemás, el corredor de 23 años se deshizo en elogios con el mejor futbolista de todos los tiempos por la vigencia que mantiene a sus 39 años: “Con la edad que tiene, su disciplina; es un ejemplo para el mundo del deporte y, si no es el mejor, tuvo uno de los mejores años entre todos los futbolistas”.\n\nPor último, el #43 le dedicó un sentido mensaje a Leo, con quien se encontró en la previa del Gran Premio de Miami. “Ojalá gane él. Soy uno de sus mayores fanáticos y, con todas las alegrías que nos dio, sería muy lindo que lo vuelva a ganar”, sentenció.",
+          "language": "es",
+          "publishedAt": "2026-10-23T00:33:50.000Z",
+          "addedAt": "2026-10-22T19:59:10.767Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-11-14T20:06:21.159Z",
+      "createdAt": "2026-11-14T23:51:19.612Z",
       "items": [
         {
-          "id": "www-tycsports-com-automovilismo-periodista-suspendido-de-la-formula-1-f1-por-insultar-a-charles-leclerc-id771499-html",
-          "title": "\"Pequeño bastardo traicionero\": la drástica decisión de la FIA hacia un periodista por insultar a un piloto de la F1",
-          "summary": "Jonathan McEvoy, corresponsal del Daily Mail, no podrá cubrir los últimos tres Grandes Premios de 2026 tras publicar una columna con fuertes críticas al piloto de Ferrari. La medida generó rechazo y abrió el debate sobre la libertad de prensa.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/periodista-suspendido-de-la-formula-1-f1-por-insultar-a-charles-leclerc-id771499.html",
-          "image": "https://media.tycsports.com/files/2026/11/13/1004769/mohammed-ben-sulayem_1440x810.webp?v=1",
-          "body": "Jonathan McEvoy, corresponsal del Daily Mail, no podrá cubrir los últimos tres Grandes Premios de 2026 tras publicar una columna con fuertes críticas al piloto de Ferrari. La medida generó rechazo y abrió el debate sobre la libertad de prensa.\n\nMohammed Ben Sulayem es el presidente de la FIA desde 2021. (Kym Illman/Getty Images) + Seguinos en La Fórmula 1 quedó envuelta en una inesperada polémica luego de que la Federación Internacional del Automóvil (FIA) le retirara la acreditación a Jonathan McEvoy , periodista del diario británico Daily Mail, por un artículo en el que utilizó un fuerte insulto para referirse a Charles Leclerc. Como consecuencia, no podrá ingresar a los últimos tres Grandes Premios de la temporada.\n\nEl conflicto comenzó después del Gran Premio de México, disputado el 1° de noviembre, cuando el piloto de Ferrari protagonizó un incidente con su compañero Lewis Hamilton durante la primera vuelta. En ese contexto, McEvoy publicó una columna de opinión en la que calificó al monegasco como un \"pequeño bastardo traicionero\" , una expresión que generó controversia.\n\nLa respuesta de la FIA llegó mediante una comunicación firmada por su director general, Alberto Villarreal. La entidad consideró que el artículo no cumplía con los estándares de profesionalismo exigidos a los representantes de los medios acreditados para cubrir el Campeonato Mundial de Fórmula 1 y resolvió retirarle el permiso de manera inmediata hasta el final de la temporada.\n\nDe esta manera, el periodista de extensa trayectoria no podrá cubrir presencialmente los Grandes Premios de Las Vegas, Qatar y Abu Dhabi. La determinación provocó el rechazo del Daily Mail: Chris Dean, responsable de Deportes del periódico, calificó la medida como un ataque \"sin precedentes y escandaloso\" contra la libert",
+          "id": "campeones-com-ar-tc-en-rio-cuarto-asi-se-largan-las-series-de-la-anteultima-fecha",
+          "title": "TC en Río Cuarto: así se largan las series de la anteúltima fecha",
+          "summary": "A partir de los recargos al “poleman” Jonatan Castellano (Dodge Challenger), por una maniobra en la Final de Rosario, y a José Manuel Urcera (Mercedes-Benz CLE 53), por cambio de motor, la grilla de las baterías de la 4ª y anteúltima fecha de la Copa de Oro 2026 tendrá cambios sustanciales respecto de la clasificación.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/tc-en-rio-cuarto-asi-se-largan-las-series-de-la-anteultima-fecha/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/TC-Boxes-Rio-Cuarto-2026.jpg",
+          "body": "",
           "language": "es",
-          "publishedAt": "2026-11-13T21:39:50.000Z",
-          "addedAt": "2026-11-13T21:40:15.847Z",
+          "publishedAt": "2026-11-14T21:31:30.000Z",
+          "addedAt": "2026-11-14T23:51:11.879Z",
           "category": "general",
-          "tag": "Reglamento"
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-f1-cerrara-su-temporada-en-catar-y-abu-dabi-id771013-html",
@@ -3326,6 +3326,21 @@
           "addedAt": "2026-11-10T21:27:08.923Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-periodista-suspendido-de-la-formula-1-f1-por-insultar-a-charles-leclerc-id771499-html",
+          "title": "\"Pequeño bastardo traicionero\": la drástica decisión de la FIA hacia un periodista por insultar a un piloto de la F1",
+          "summary": "Jonathan McEvoy, corresponsal del Daily Mail, no podrá cubrir los últimos tres Grandes Premios de 2026 tras publicar una columna con fuertes críticas al piloto de Ferrari. La medida generó rechazo y abrió el debate sobre la libertad de prensa.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/periodista-suspendido-de-la-formula-1-f1-por-insultar-a-charles-leclerc-id771499.html",
+          "image": "https://media.tycsports.com/files/2026/11/13/1004769/mohammed-ben-sulayem_1440x810.webp?v=1",
+          "body": "Jonathan McEvoy, corresponsal del Daily Mail, no podrá cubrir los últimos tres Grandes Premios de 2026 tras publicar una columna con fuertes críticas al piloto de Ferrari. La medida generó rechazo y abrió el debate sobre la libertad de prensa.\n\nMohammed Ben Sulayem es el presidente de la FIA desde 2021. (Kym Illman/Getty Images) + Seguinos en La Fórmula 1 quedó envuelta en una inesperada polémica luego de que la Federación Internacional del Automóvil (FIA) le retirara la acreditación a Jonathan McEvoy , periodista del diario británico Daily Mail, por un artículo en el que utilizó un fuerte insulto para referirse a Charles Leclerc. Como consecuencia, no podrá ingresar a los últimos tres Grandes Premios de la temporada.\n\nEl conflicto comenzó después del Gran Premio de México, disputado el 1° de noviembre, cuando el piloto de Ferrari protagonizó un incidente con su compañero Lewis Hamilton durante la primera vuelta. En ese contexto, McEvoy publicó una columna de opinión en la que calificó al monegasco como un \"pequeño bastardo traicionero\" , una expresión que generó controversia.\n\nLa respuesta de la FIA llegó mediante una comunicación firmada por su director general, Alberto Villarreal. La entidad consideró que el artículo no cumplía con los estándares de profesionalismo exigidos a los representantes de los medios acreditados para cubrir el Campeonato Mundial de Fórmula 1 y resolvió retirarle el permiso de manera inmediata hasta el final de la temporada.\n\nDe esta manera, el periodista de extensa trayectoria no podrá cubrir presencialmente los Grandes Premios de Las Vegas, Qatar y Abu Dhabi. La determinación provocó el rechazo del Daily Mail: Chris Dean, responsable de Deportes del periódico, calificó la medida como un ataque \"sin precedentes y escandaloso\" contra la libert",
+          "language": "es",
+          "publishedAt": "2026-11-13T21:39:50.000Z",
+          "addedAt": "2026-11-13T21:40:15.847Z",
+          "category": "general",
+          "tag": "Reglamento"
         },
         {
           "id": "www-tycsports-com-automovilismo-la-reaccion-de-gasly-a-la-abrupta-salida-de-ocon-de-la-f1-me-parece-bastante-extrana-id7",
@@ -3551,7 +3566,13 @@
           "addedAt": "2026-10-29T23:26:50.398Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-11-14T23:51:19.612Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-chicana-de-mercedes-al-resto-de-la-formula-1-por-antonelli-decian-que-ni-siquiera-deb",
           "title": "La chicana de Mercedes al resto de la Fórmula 1 por Antonelli: \"Decían que ni siquiera...\"",
@@ -3566,13 +3587,7 @@
           "addedAt": "2026-10-27T23:14:06.359Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-11-14T20:06:21.159Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id768571-html",
           "title": "Qué necesita Kimi Antonelli para ser campeón de la Fórmula 1 en México",
@@ -3647,81 +3662,6 @@
           "addedAt": "2026-10-24T15:51:11.471Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-el-curioso-analisis-de-antonelli-sobre-la-chance-de-ser-campeon-de-la-f1-en-el-gp-de-est",
-          "title": "El curioso análisis de Antonelli sobre la chance de ser campeón de la F1 en el GP de Estados Unidos: \"Tiene que pasar algo catastrófico\"",
-          "summary": "Ante su primera oportunidad de coronarse en la categoría reina, el joven piloto italiano trató de poner paños fríos al necesitar que George Russell y Lewis Hamilton protagonicen muy malos desempeños.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/el-curioso-analisis-de-antonelli-sobre-la-chance-de-ser-campeon-de-la-f1-en-el-gp-de-estados-unidos-tiene-que-pasar-algo-catastrofico-id767951.html",
-          "image": "https://media.tycsports.com/files/2026/10/22/998513/andrea-kimi-antonelli-mercedes-_1440x810.webp",
-          "body": "Ante su primera oportunidad de coronarse en la categoría reina, el joven piloto italiano trató de poner paños fríos al necesitar que George Russell y Lewis Hamilton protagonicen muy malos desempeños.\n\nAndrea Kimi Antonelli puede consagrarse campeón del Mundial de Pilotos 2026 de la Fórmula 1 en el Gran Premio de Estados Unidos. (Mark Sutton/Getty Images) + Seguinos en Kimi Antonelli llega al Gran Premio de Estados Unidos con su primera oportunidad de consagrarse campeón de la Fórmula 1 , objetivo del cual se mostró poco optimista en vísperas al inicio de las actividades dado que no le alcanza con ganar sino que también necesitaria que sus inmediatos perseguidores tengan muy malas actuaciones.\n\nAl ser consultado en concreto por la chance de asegurarse el primer puesto en el campeonato de pilotos, el joven italiano de 20 años trató de no sumarse aún más presión al aclarar que es poco probable que defina el título en este fin de semana: \"Tiene que pasar algo catastrófico para que se logre. Yo tengo que obtener un resultado perfecto y los demás algo malísimo\".\n\n\"Tuve una reunión con Bono (Peter Bonnington, su ingeniero de pista) y sólo me dijo que me divierta. Así que quiero hacer lo mismo que en el resto del año, y los resultados llegarán si todo va bien\" , marcó el oriundo de Bologna que atraviesa su segunda campaña en la categoría reina del automovilismo a nivel mundial.\n\n\"El título es algo con lo que sueño desde pequeño, pero debemos seguir apretando\" , completó respecto a la concreta chance de lograr la consagración; algo que parece muy probable a falta de seis carreras para el final de la temporada.",
-          "language": "es",
-          "publishedAt": "2026-10-22T22:16:02.000Z",
-          "addedAt": "2026-10-22T23:15:42.966Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-manager-jamie-campbell-walter-fuerte-mensaje-id768541-html",
-          "title": "El fuerte mensaje del representante de Franco Colapinto a Clarkson por su burla contra Argentina: \"Merecen...\"",
-          "summary": "Jamie Campbell-Walter, representante de Franco Colapinto, repudió las declaraciones contra el piloto argentino durante el Gran Premio de Estados Unidos.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-manager-jamie-campbell-walter-fuerte-mensaje-id768541.html",
-          "image": "https://media.tycsports.com/files/2026/10/25/999476/franco-colapinto_862x485.webp",
-          "body": "Jamie Campbell-Walter, representante de Franco Colapinto, repudió las declaraciones contra el piloto argentino durante el Gran Premio de Estados Unidos.\n\nFranco Colapinto junto a Jamie Campbell-Walter, su mánager. + Seguinos en Jamie Campbell-Walter, representante de Franco Colapinto, repudió las declaraciones de Jeremy Clarkson contra el piloto argentino durante el Gran Premio de Estados Unidos. Luego del respaldo público de Alpine, el manager expresó en sus redes sociales: \"Los comentarios de Jeremy Clarkson sobre la nacionalidad de Franco fueron completamente inaceptables\" .\n\nEl agente del pilarense rechazó cualquier justificación de los dichos del británico y advirtió: \" No hay lugar para observaciones como esta en la Fórmula 1, independientemente de quién las haga o si se pretendían como una broma \" . Su descargo llegó después de que el propio corredor impulsara una campaña para frenar las agresiones entre los fanáticos en las redes sociales. En ese sentido, Campbell-Walter remarcó: \" Hemos trabajado duro para promover el respeto y poner fin a la hostilidad y el abuso. Ese respeto debe ser mutuo. No podemos pedirle a nadie que se comporte de manera responsable mientras aceptamos comentarios como estos de figuras prominentes que visitan nuestro deporte\" . Y concluyó: \"Franco y sus seguidores merecen algo mejor que esto. No permitamos que esto deshaga el progreso que hemos logrado y elevémonos por encima de los comentarios maliciosos\".\n\nLa controversia comenzó durante una entrevista con Sky Sports F1, cuando Clarkson se refirió a la penalización de diez posiciones que recibió Colapinto en Austin: “Franco tiene una penalización en la grilla por ser argentino. Probablemente. Bueno, yo le daría una por eso. Pero, en fin, eso es solo por lo que pasó cuando fuimos allí” .",
-          "language": "es",
-          "publishedAt": "2026-10-25T18:09:44.000Z",
-          "addedAt": "2026-10-25T18:56:46.890Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda",
-          "title": "Colapinto calificó de “rara” su clasificación en el GP de Austin y explicó qué le complicó la tanda",
-          "summary": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda-id768484.html",
-          "image": "https://media.tycsports.com/files/2026/10/22/998500/franco-colapinto-casco_1440x810.webp",
-          "body": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.\n\nFranco Colapinto estrenó un nuevo diseño de su casco en el Gran Premio de Estados Unidos de la Fórmula 1. + Seguinos en Franco Colapinto terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21 . Tras la sesión en el circuito de Austin, el argentino reconoció que Alpine no logró encontrar el rendimiento esperado y apuntó a las dificultades que tuvo con el auto.\n\n“Fue una clasificación rara. Nos estuvo costando toda la sesión” , resumió el piloto, que no consiguió sentirse cómodo con el monoplaza desde el inicio del fin de semana. Además, señaló que los sectores irregulares del trazado le generaron problemas cuando intentaba acelerar el ritmo.\n\n“Desde ayer que no encontramos el auto y cuando vamos rápido por los pianos y la parte más bacheada de la pista se complica un poco” , explicó Colapinto, que buscará revertir esas sensaciones en la carrera del domingo.\n\nPese a las dificultades, el argentino logró superar la Q1 y avanzar hasta la Q2, donde terminó en el 14° lugar. Sin embargo, la penalización lo relegará al fondo de la grilla y condicionará su estrategia para la competencia.",
-          "language": "es",
-          "publishedAt": "2026-10-24T23:45:17.000Z",
-          "addedAt": "2026-10-25T01:26:40.513Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-",
-          "title": "Colapinto, entre la preocupación y la esperanza tras las prácticas libres en Austin: “Será muy difícil, pero...”",
-          "summary": "El piloto argentino, que culminó 17&ordm; y 15&ordm; en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-muy-dificil-pero--id768314.html",
-          "image": "https://media.tycsports.com/files/2026/10/23/998965/franco-colapinto_1440x810.webp?v=2",
-          "body": "El piloto argentino, que culminó 17º y 15º en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.\n\nColapinto, entre la preocupación y la esperanza luego de las prácticas libres en Austin (Getty Images: Kym Illman). + Seguinos en Este viernes, Franco Colapinto puso primera en el Gran Premio de Estados Unidos de la Fórmula 1 y lo hizo con las prácticas libres , en las cuales finalizó 17º y 15º respectivamente. Ahora, todavía a la espera de la FP3, y con una penalización de diez lugares para la grilla de salida de la carrera principal del próximo domingo , el piloto de Alpine analizó lo sucedido en la pista. Más allá de que se lo notó preocupado, también exhibió una mínima llamarada de esperanza con la mira puesta en potenciar el rendimiento.\n\nDespués de finalizar con las dos sesiones de la jornada, el pilarense dejó en evidencia su disconformidad con el funcionamiento del monoplaza . “Intentaremos enfocarnos en el balance para la carrera. Ojalá que eso nos ayude . Creo que estamos un poco obligados con la dureza del auto, uno muy rígido y cuesta mucho en una pista muy bacheada, así que va a ser difícil, pero intentaremos dar un salto para mañana (en referencia al sábado)” , expresó en primera instancia.\n\nMás adelante, reconoció que el A526 tiene margen de mejora , aunque la escudería deberá analizar múltiples datos para hacerla efectiva de cara a la clasificación que, con la mencionada sanción, no definirá demasiado . “Hay mucho por mejorar y por entender, o por lo menos bastante performance para encontrar en el auto por la cantidad de baches que hay. Creo que es una pista un poco atípica, aunque por otro lado tendremos que entender cómo mejorar para mañana” , añadió e",
-          "language": "es",
-          "publishedAt": "2026-10-24T00:50:22.000Z",
-          "addedAt": "2026-10-24T02:00:16.108Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-messi-balon-de-oro-id767832-html",
-          "title": "Colapinto eligió a Messi como su candidato para el Balón de Oro: “Sería muy lindo que lo vuelva a ganar”",
-          "summary": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-messi-balon-de-oro-id767832.html",
-          "image": "https://media.tycsports.com/files/2026/10/22/998438/franco_862x485.webp?v=1",
-          "body": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.\n\nFrance Football aclaró la polémica en torno al Balón de Oro de todos los tiempos, mientras CR7 aventaja a Messi 22/10/2026 09:33 pm Franco Colapinto eligió a Lionel Messi como su candidato a ganar el Balón de Oro. + Seguinos en Franco Colapinto tiene muy en claro a su favorito para quedarse con el Balón de Oro , que se entregará el próximo lunes en Londres. “Messi” , sentenció el piloto argentino de Alpine en diálogo con DAZN este jueves en el Media Day del Gran Premio de Estados Unidos de Fórmula 1.\n\n“Fue su último Mundial y la rompió. Metió muchísimos goles, ayudó a Argentina a llegar a la final y es un ídolo para todo el fútbol mundial. Creo que tuvo un gran año y se lo merece” , argumentó el pilarense sobre la performance del astro rosarino en este 2026.\n\nAdemás, el corredor de 23 años se deshizo en elogios con el mejor futbolista de todos los tiempos por la vigencia que mantiene a sus 39 años: “Con la edad que tiene, su disciplina; es un ejemplo para el mundo del deporte y, si no es el mejor, tuvo uno de los mejores años entre todos los futbolistas”.\n\nPor último, el #43 le dedicó un sentido mensaje a Leo, con quien se encontró en la previa del Gran Premio de Miami. “Ojalá gane él. Soy uno de sus mayores fanáticos y, con todas las alegrías que nos dio, sería muy lindo que lo vuelva a ganar”, sentenció.",
-          "language": "es",
-          "publishedAt": "2026-10-23T00:33:50.000Z",
-          "addedAt": "2026-10-22T19:59:10.767Z",
-          "category": "argentino",
-          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-el-nuevo-casco-que-presento-colapinto-con-los-colores-de-boca-id767936-html",
@@ -3842,13 +3782,7 @@
           "addedAt": "2026-11-07T23:03:38.394Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-11-14T20:06:21.159Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-briatore-evaluo-el-decepcionante-fin-de-semana-de-colapinto-y-gasly-en-interlagos",
           "title": "Briatore evaluó el \"decepcionante\" fin de semana de Colapinto y Gasly en Interlagos",
@@ -3908,7 +3842,13 @@
           "addedAt": "2026-11-07T19:30:24.736Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-11-14T23:51:19.612Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-brasil-2026-id770",
           "title": "F1: Franco Colapinto cerró los entrenamientos en el GP de Brasil con un 14° puesto en la práctica libre 3",
@@ -4030,6 +3970,51 @@
           "tag": "Argentino"
         },
         {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-enojado-por-la-mala-qualy-en-brasil-por-que-tan-lentos-id770819-html",
+          "title": "Franco Colapinto, enojado por la mala qualy en Brasil: \"¿Por qué tan lentos?\"",
+          "summary": "El argentino volcó toda su bronca en la radio con Stuart Barlow después de una jornada de Fórmula 1 decepcionante en la que no superó la primera tanda clasificatoria.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-enojado-por-la-mala-qualy-en-brasil-por-que-tan-lentos-id770819.html",
+          "image": "https://media.tycsports.com/files/2026/11/07/1003667/colapinto-brasil_1440x810.webp?v=1",
+          "body": "El argentino volcó toda su bronca en la radio con Stuart Barlow después de una jornada de Fórmula 1 decepcionante en la que no superó la primera tanda clasificatoria.\n\nColapinto, frustrado por el andar del Alpine bajo la lluvia de San Pablo (Kym Illman/Getty Images). + Seguinos en Franco Colapinto no pudo superar las dificultades de su Alpine bajo la lluvia en la clasificación del Gran Premio de Brasil de la Fórmula 1 y, junto a su compañero Pierre Gasly, debieron conformarse con largar este domingo en el puesto 15 (el argentino) y 16 (el francés). En ese marco, antes de enfrentar a la prensa más tranquilo, el argentino se mostró hecho una furia con su ingeniero, Stuart Barlow.\n\nLas dificultades de agarre de los neumáticos sobre la pista mojada, la nula visibilidad y problemas específicos en el sector 2 encabezaron sus quejas, que matizó con algunos insultos al aire producto de su frustración. Consumado su puesto 17 (luego subiría dos lugares por las sanciones a Max Verstappen y Lewis Hamilton), Franco se despachó por la radio : \" ¡La puta madre! ¿Qué pasó? ¿Por qué éramos tan lentos? Mis neumáticos estaban muertos en la última vuelta\".\n\n\"Hubo un par de patinadas, todo se fue degradando desde allí. Curvas 4 y 5\", le respondieron desde la base, a lo que el argentino preguntó: \"¿Qué tan lejos estuvimos?\". La respuesta le gustó menos: \"Fuimos 17°. El 16° fue 1:33:150, a unas dos décimas\". Colapinto retomó entonces su bronca: \"¡Puta madre! ¿Entonces fue en el sector 2 o...?\".\n\n\"Fue en el sector 2 , amigo. Fue un buen primer sector, y luego segundo y medio en el sector 2... y otro segundo y medio en el 3\", le resumió Barlow.",
+          "language": "es",
+          "publishedAt": "2026-11-07T23:46:23.000Z",
+          "addedAt": "2026-11-08T02:20:23.848Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-brasil-multiples-penalizaciones-asi-quedo-la-grilla-id770807-ht",
+          "title": "La grilla del GP de Brasil de la Fórmula 1 después de todas las sanciones: cómo larga Colapinto",
+          "summary": "Después de una hora y media de demora por la lluvia y con varios pilotos afectados por cambios en las unidades de potencia, así largarán los pilotos en Interlagos.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-gran-premio-de-brasil-multiples-penalizaciones-asi-quedo-la-grilla-id770807.html",
+          "image": "https://media.tycsports.com/files/2026/11/07/1003618/lando-norris-pole-brasil_1440x810.webp",
+          "body": "Después de una hora y media de demora por la lluvia y con varios pilotos afectados por cambios en las unidades de potencia, así largarán los pilotos en Interlagos.\n\nLando Norris, el dueño de la pole bajo la intensa lluvia del Gran Premio de Brasil (Clive Rose/Getty Images). + Seguinos en Después de una espera de casi una hora y media por la intensa lluvia que cayó sobre San Pablo , el Gran Premio de Brasil pudo tener su clasificación y, con múltiples cambios por penalizaciones, los pilotos ya saben cómo largarán en la carrera del domingo.\n\nDespués de una sesión de Q3 que tan solo contó con un intento por el retorno de la lluvia, Lando Norris se quedó con la pole con un mejor registro de 1:24.470s en Interlagos . El piloto de McLaren fue seguido por George Russell, de Mercedes (+0.204s) y el flamante campeón del mundo, Kimi Antonelli (+0.625s). Sin embargo, e l orden de largada no tendrá al británico en el segundo lugar, como consecuencia de una penalización de cinco posiciones por el cambio de motor.\n\nNo fue una buena sesión para Franco Colapinto, dado que el argentino de Alpine quedó eliminado en Q1, con una mejor marca de 1:33.32s que le alcanzó para el 17° puesto . Sin embargo, aquí es donde entran en juego más penalizaciones. Es que Max Verstappen, Charles Leclerc, Lewis Hamilton y Sergio Pérez fueron penalizados por realizar cambios en sus unidades de potencia . De esta manera, Colapinto largará 15°, ganando así dos puestos.",
+          "language": "es",
+          "publishedAt": "2026-11-07T22:17:46.000Z",
+          "addedAt": "2026-11-07T23:03:38.386Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-brasil-id770647-ht",
+          "title": "Franco Colapinto no pasó la Q1 pero largará 15° en el GP de Brasil: Norris hizo la pole",
+          "summary": "El argentino no pasó de la primera etapa, pero las sanciones para Hamilton y Verstappen lo dejaron decimoquinto. Por otro lado, el piloto de McLaren largará primero.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-brasil-id770647.html",
+          "image": "https://media.tycsports.com/files/2026/11/07/1003585/colapinto_1440x810.webp?v=1",
+          "body": "El argentino no pasó de la primera etapa, pero las sanciones para Hamilton y Verstappen lo dejaron decimoquinto. Por otro lado, el piloto de McLaren largará primero.\n\nColapinto largará 17° en el GP de Brasil. (@F1) + Seguinos en Este sábado se disputó la clasificación del Gran Premio de Brasil de la Fórmula 1, donde Franco Colapinto obtuvo la decimoquinta posición de cara a la carrera del domingo, mientras que Lando Norris (McLaren) se quedó con la pole posicion . El argentino no pudo superar la Q1, pero como Max Verstappen y Lewis Hamilton fueron sancionados terminó ganando dos puestos.\n\nLa actividad en la clasificación estuvo marcada por las tormentas : apenas segundos después de iniciada la Q1 (15:00hs) apareció la bandera roja porque la lluvia no dejaba que los pilotos pudieran moverse en pista con normalidad. Así estuvo todo por más de una hora, pero antes de las 16:30 empezó la acción .\n\nEn la primera etapa los tiempos fueron variando constantemente y cada automovilista mejoraba al anterior porque poco a poco el agua se iba del asfalto. Allí, Colapinto no pudo asentarse y terminó eliminado quedando 17°, pero tanto Hamilton como Verstappen estaban sancionados y como avanzaron a Q2 le dieron dos puestos más al argentino . De hecho, Mad Max ni siquiera se subió a su Red Bull para participar de la segunda etapa.\n\nEn la Q2, Rafael Cámara, rookie de Haas que reemplazó a Ocon, se despistó e impactó contra los carteles , pero podría estar presente en la carrera. Por otro lado, la Q3 no pudo finalizar con normalidad porque en el cierre volvió a llover con fuerza y los pilotos optaron por quedarse en boxes con su posición ganada y no arriesgar los autos. Esto hizo que Lando Norris se quedara con la pole posicion , mientras que George Russell culminó segundo. Sin embargo, el",
+          "language": "es",
+          "publishedAt": "2026-11-07T20:59:33.000Z",
+          "addedAt": "2026-11-06T17:24:55.173Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-gp-de-brasil-id770765-html",
           "title": "La advertencia de Colapinto antes de la clasificación en el GP de Brasil",
           "summary": "El piloto argentino se refirió a la posibilidad de que llueva en el circuito de Interlagos, donde sufrió accidentes en 2024 y 2025.",
@@ -4118,6 +4103,21 @@
           "addedAt": "2026-11-13T00:35:37.610Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-gp-de-san-pablo-colapinto-se-ubico-17-en-la-demorada-clasificacion-de-f1",
+          "title": "GP de San Pablo: Colapinto quedó 17.° en la demorada clasificación de F1",
+          "summary": "Tras la espera de más de una hora por las mejoras en las condiciones del tiempo por una fuerte lluvia, se concretó la sesión en la cual el piloto argentino y su compañero Gasly quedaron eliminados en la primera parte.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/gp-de-san-pablo-colapinto-se-ubico-17-en-la-demorada-clasificacion-de-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-F1-Colapinto-Qualy.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-07T22:46:53.000Z",
+          "addedAt": "2026-11-07T23:03:39.594Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     }
