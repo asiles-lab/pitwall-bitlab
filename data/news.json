@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T01:50:13.975Z",
-  "checkedAt": "2026-11-14T01:50:13.975Z",
+  "updatedAt": "2026-11-14T08:53:37.167Z",
+  "checkedAt": "2026-11-14T08:53:37.167Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-tc-como-anduvo-el-nuevo-motor-de-canapino-en-el-rolo",
-      "title": "TC: ¿Cómo anduvo el nuevo motor de Canapino en el 'rolo'?",
-      "summary": "En \"Buen día, Campeones\", Nicolás Bonelli se refirió a la prueba satisfactoria para poner a punto el impulsor del Chevrolet del arrecifeño.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-como-anduvo-el-nuevo-motor-de-canapino-en-el-rolo/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261112-TC-Canapino.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-12T21:06:18.000Z",
-      "addedAt": "2026-11-13T21:40:16.452Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-shell-acompana-el-regreso-del-tc-a-rio-cuarto-despues-de-14-anos",
       "title": "Shell acompaña el regreso del TC a Río Cuarto después de 14 años | Campeones",
@@ -411,21 +396,6 @@
       "language": "es",
       "publishedAt": "2026-11-07T18:50:40.000Z",
       "addedAt": "2026-11-07T19:30:24.865Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-azar-y-su-objetivo-en-integrarse-entre-uno-de-los-3-de-ultimo-minuto",
-      "title": "TC: Azar y su objetivo en integrarse entre uno de los \"3 de Último Minuto\"",
-      "summary": "En Río Cuarto es la penúltima competencia de la temporada del certamen y en la cual el piloto de Del Viso buscará con el Mercedes-Benz ser protagonista.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-azar-y-su-objetivo-en-integrarse-entre-uno-de-los-3-de-ultimo-minuto/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261113-TC-Azar.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-13T15:07:09.000Z",
-      "addedAt": "2026-11-13T15:32:32.203Z",
       "category": "general",
       "tag": "F1"
     },
@@ -788,6 +758,21 @@
       "addedAt": "2026-10-29T19:15:02.909Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-tc-azar-y-su-objetivo-en-integrarse-entre-uno-de-los-3-de-ultimo-minuto",
+      "title": "TC: Azar y su objetivo en integrarse entre uno de los \"3 de Último Minuto\"",
+      "summary": "En Río Cuarto es la penúltima competencia de la temporada del certamen y en la cual el piloto de Del Viso buscará con el Mercedes-Benz ser protagonista.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-azar-y-su-objetivo-en-integrarse-entre-uno-de-los-3-de-ultimo-minuto/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261113-TC-Azar.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-13T15:07:09.000Z",
+      "addedAt": "2026-11-13T15:32:32.203Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-en-qatar-marco-bezzecchi-se-impuso-y-dilato-la-definicion-de-motogp",
@@ -2738,28 +2723,28 @@
       "addedAt": "2026-11-14T01:50:15.227Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "carburando-com-ar-blog-la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-encara-a-todo",
+      "title": "La mentalidad de Ignacio Faín: “Estas cinco carreras uno las encara a todo o nada”",
+      "summary": "El piloto de Junín debuta en la Copa de Oro del Turismo Carretera y explica cómo cambia el chip cuando llega la fase decisiva del campeonato. Análisis…",
+      "source": "Carburando",
+      "sourceLabel": "Carburando",
+      "url": "https://carburando.com.ar/blog/la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-encara-a-todo",
+      "image": "https://carburando.com.ar/covers/22/la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-e-23080.webp",
+      "body": "El piloto de Junín debuta en la Copa de Oro del Turismo Carretera y explica cómo cambia el chip cuando llega la fase decisiva del campeonato. Análisis de su preparación y objetivos para las cinco finales.\n\nIgnacio Faín encara su primera Copa de Oro del Turismo Carretera con la convicción de que las cinco carreras finales se disputan de manera distinta al resto del año. “Estas cinco carreras uno las encara a todo o nada”, afirma el piloto de Junín, que clasificó a la instancia decisiva tras una temporada regular sólida con el Chevrolet del equipo de José Savino.\n\nEn el TC, la Copa de Oro representa el momento donde el campeonato se reinicia con un nuevo formato. Los doce clasificados llegan con el puntaje reseteado y solo cuentan los puntos que se sumen en las cinco fechas restantes. Esa particularidad obliga a cambiar la mentalidad: ya no alcanza con sumar de a poco, hay que ir por las victorias o al menos por podios consistentes si se quiere pelear el título.\n\nFaín llega con experiencia acumulada en la categoría, pero reconoce que debutar en la Copa implica un salto. Durante la fase regular se prioriza la regularidad, evitar abandonos y acumular la mayor cantidad de puntos posible para entrar entre los doce. Una vez adentro, el enfoque pasa a ser más agresivo. “Hay que tener el auto para pelear adelante todas las fechas y no cometer errores”, explica.\n\nDesde el punto de vista técnico, su equipo trabajó en la puesta a punto pensando en circuitos que se vienen: mezcla de autódromos rápidos y semipermanentes donde el grip y la confiabilidad del motor V8 serán claves. El Chevrolet ya demostró velocidad en varias carreras, pero ahora la exigencia es mantener ese nivel sin fisuras durante las cinco finales.",
+      "language": "es",
+      "publishedAt": "2026-09-11T20:50:23.000Z",
+      "addedAt": "2026-11-14T08:53:38.321Z",
+      "category": "argentino",
+      "tag": "Argentino"
     }
   ],
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-14T01:50:27.983Z",
+      "createdAt": "2026-11-14T08:53:47.632Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-audi-ninguneo-la-defensa-de-franco-colapinto-que-provoco-la-sancion-a-nico-hulkenberg-lo",
-          "title": "La respuesta de Audi a la defensa de Colapinto que provocó la sanción a Hulkenberg: \"Lo...\"",
-          "summary": "Allan McNish, director de competición de la escudería de Fórmula 1, justificó la maniobra del alemán por fuera de la pista tras no poder superar al argentino durante cinco minutos y criticó el castigo impuesto por la FIA.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/audi-ninguneo-la-defensa-de-franco-colapinto-que-provoco-la-sancion-a-nico-hulkenberg-lo-empujo-id771424.html",
-          "image": "https://media.tycsports.com/files/2026/11/10/1004147/colapinto-hulkenberg_1440x810.webp",
-          "body": "Allan McNish, director de competición de la escudería de Fórmula 1, justificó la maniobra del alemán por fuera de la pista tras no poder superar al argentino durante cinco minutos y criticó el castigo impuesto por la FIA.\n\nHulkenberg, apuntándole al exterior de la pista en su enésimo intento de superar al argentino (Alex Pantling/Getty Images). + Seguinos en Uno de los momentos que regaló Franco Colapinto el fin de semana en el Gran Premio de Brasil sigue dando que hablar. Luego de ser aclamado por algunas maniobras en Interlagos, desde Audi, escudería del alemán Nico Hulkenberg, salieron a relativizar sus méritos y a criticar la sanción a su piloto en lo que, a los ojos del mundo, quedó como una derrota en la pista.\n\nCuando Hulkenberg salió de boxes con neumáticos nuevos, se encontró con el argentino rodando con gomas desgastadas y comenzó a atacarlo por todos lados, topándose con las notables maniobras del pilarense . El juego del gato y el ratón se extendió durante largos cinco minutos, un escenario que favorecía hasta al compañero del argentino, Pierre Gasly, que venía detrás y no quería que el alemán se le escapara. La resolución de la pugna llegaría en la vuelta 50, y de la forma que mejor dejó parado a Franco. Hulkenberg, cansado de perder, lo superó cortando groseramente pista por la derecha en la S de Senna . La acción le valdría una penalización de 10 segundos que cumpliría en la última parada en boxes varios giros después, con la lluvia declarada.\n\nColapinto y su defensa ante Hulkenberg en Brasil Ahora, se viralizaron las quejas desde Audi al respecto, en la voz de su director de competición, Allan McNish, quien aseguró que el argentino nunca había ganado el vértice de la curva y que por ello el germano no merecía castigo. “Para nosotros, la coyuntura no esta",
-          "language": "es",
-          "publishedAt": "2026-11-13T03:39:49.000Z",
-          "addedAt": "2026-11-13T07:21:08.404Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
         {
           "id": "www-tycsports-com-automovilismo-aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-san",
           "title": "Aclamación por Franco Colapinto en ataque y defensa en Brasil: audaz sobrepaso a Pierre Gasly y sanción a Nico Hulkenberg",
@@ -2862,6 +2847,21 @@
           "language": "es",
           "publishedAt": "2026-10-24T19:14:36.000Z",
           "addedAt": "2026-10-22T11:40:44.409Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-audi-ninguneo-la-defensa-de-franco-colapinto-que-provoco-la-sancion-a-nico-hulkenberg-lo",
+          "title": "La respuesta de Audi a la defensa de Colapinto que provocó la sanción a Hulkenberg: \"Lo...\"",
+          "summary": "Allan McNish, director de competición de la escudería de Fórmula 1, justificó la maniobra del alemán por fuera de la pista tras no poder superar al argentino durante cinco minutos y criticó el castigo impuesto por la FIA.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/audi-ninguneo-la-defensa-de-franco-colapinto-que-provoco-la-sancion-a-nico-hulkenberg-lo-empujo-id771424.html",
+          "image": "https://media.tycsports.com/files/2026/11/10/1004147/colapinto-hulkenberg_1440x810.webp",
+          "body": "Allan McNish, director de competición de la escudería de Fórmula 1, justificó la maniobra del alemán por fuera de la pista tras no poder superar al argentino durante cinco minutos y criticó el castigo impuesto por la FIA.\n\nHulkenberg, apuntándole al exterior de la pista en su enésimo intento de superar al argentino (Alex Pantling/Getty Images). + Seguinos en Uno de los momentos que regaló Franco Colapinto el fin de semana en el Gran Premio de Brasil sigue dando que hablar. Luego de ser aclamado por algunas maniobras en Interlagos, desde Audi, escudería del alemán Nico Hulkenberg, salieron a relativizar sus méritos y a criticar la sanción a su piloto en lo que, a los ojos del mundo, quedó como una derrota en la pista.\n\nCuando Hulkenberg salió de boxes con neumáticos nuevos, se encontró con el argentino rodando con gomas desgastadas y comenzó a atacarlo por todos lados, topándose con las notables maniobras del pilarense . El juego del gato y el ratón se extendió durante largos cinco minutos, un escenario que favorecía hasta al compañero del argentino, Pierre Gasly, que venía detrás y no quería que el alemán se le escapara. La resolución de la pugna llegaría en la vuelta 50, y de la forma que mejor dejó parado a Franco. Hulkenberg, cansado de perder, lo superó cortando groseramente pista por la derecha en la S de Senna . La acción le valdría una penalización de 10 segundos que cumpliría en la última parada en boxes varios giros después, con la lluvia declarada.\n\nColapinto y su defensa ante Hulkenberg en Brasil Ahora, se viralizaron las quejas desde Audi al respecto, en la voz de su director de competición, Allan McNish, quien aseguró que el argentino nunca había ganado el vértice de la curva y que por ello el germano no merecía castigo. “Para nosotros, la coyuntura no esta",
+          "language": "es",
+          "publishedAt": "2026-11-13T03:39:49.000Z",
+          "addedAt": "2026-11-13T07:21:08.404Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3019,7 +3019,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-11-14T01:50:27.983Z",
+      "createdAt": "2026-11-14T08:53:47.632Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-gp-de-brasil-id770765-html",
@@ -3295,7 +3295,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-11-14T01:50:27.983Z",
+      "createdAt": "2026-11-14T08:53:47.632Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-periodista-suspendido-de-la-formula-1-f1-por-insultar-a-charles-leclerc-id771499-html",
@@ -3571,7 +3571,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-11-14T01:50:27.983Z",
+      "createdAt": "2026-11-14T08:53:47.632Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id768571-html",
@@ -3847,7 +3847,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-11-14T01:50:27.983Z",
+      "createdAt": "2026-11-14T08:53:47.632Z",
       "items": [
         {
           "id": "campeones-com-ar-en-mexico-antonelli-se-corono-campeon-mundial-de-f1-y-colapinto-fue-top10",
@@ -4015,36 +4015,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-mundial-rotax-los-argentinos-completaron-las-mangas-y-se-definieron-las-grillas-en-portimao",
-          "title": "Mundial Rotax: Los argentinos completaron las mangas y se definieron las grillas en Portimão",
-          "summary": "Los catorce pilotos argentinos pusieron punto final a la actividad del jueves en el kartódromo de Algarve, que definió el orden de largada para las nueve divisiones.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/mundial-rotax-los-argentinos-completaron-las-mangas-y-se-definieron-las-grillas-en-portimao/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/ROTAX-PORTIMAO-2026.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-13T17:04:42.000Z",
-          "addedAt": "2026-11-13T21:40:17.794Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-baja-1000-largada-de-los-argentinos-y-orden-de-conduccion-para-cada-piloto",
-          "title": "Baja 1000: Largada de los argentinos y orden de conducción para cada piloto",
-          "summary": "Salida a las 14:41hs para el equipo argentino con 23 anotados en su clase y 282 en total para la Baja Score 1.000.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/baja-1000-largada-de-los-argentinos-y-orden-de-conduccion-para-cada-piloto/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Lonchi-Olmedo-Villagra-equipo-completo.jpeg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-13T13:58:27.000Z",
-          "addedAt": "2026-11-13T15:32:31.156Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-alpine-elogio-el-trabajo-de-colapinto-valoro-lo-hecho-por-mini-y-revelo-por-que-gasly-no",
           "title": "Alpine elogió el trabajo de Colapinto, valoró lo hecho por Min&igrave; y reveló por qué Gasly no se sintió cómodo",
           "summary": "El jefe de Alpine se refirió al argentino, quien terminó noveno en la primera práctica libre y undécimo en la segunda, por delante de Pierre Gasly, quien finalizó 14°.",
@@ -4116,6 +4086,36 @@
           "language": "es",
           "publishedAt": "2026-11-12T23:46:12.000Z",
           "addedAt": "2026-11-13T00:35:37.610Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "carburando-com-ar-blog-colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
+          "title": "Colapinto no es el único: dos pilotos más suman sanciones en la parrilla de Austin",
+          "summary": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico…",
+          "source": "Carburando",
+          "sourceLabel": "Carburando",
+          "url": "https://carburando.com.ar/blog/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
+          "image": "https://carburando.com.ar/covers/22/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-27815.webp",
+          "body": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico y deportivo que explica estas decisiones.\n\nLa parrilla del Gran Premio de Estados Unidos en el Circuito de las Américas se definirá este fin de semana con más modificaciones de lo habitual. Franco Colapinto no será el único que partirá más atrás de lo que su clasificación indique: dos pilotos adicionales acumulan sanciones que alterarán el orden de largada en Austin.\n\nEn el reglamento deportivo de la FIA, las penalizaciones por cambios de componentes de la unidad de potencia son las más habituales. Cuando un equipo excede el número permitido de motores, turbinas, MGU-K o baterías por temporada, el piloto debe retroceder posiciones en la grilla. Este mecanismo busca equilibrar el desarrollo y el costo de las plantas impulsoras.\n\nColapinto ya había recibido una sanción previa por la sustitución de varios elementos del power unit en las últimas carreras. Ahora se suman a esa lista otros dos corredores que, por motivos técnicos similares o por infracciones durante los entrenamientos, perderán lugares. El detalle exacto de cada penalidad se confirma habitualmente tras la clasificación del sábado, pero los equipos ya anticipan los movimientos.\n\nDesde el punto de vista técnico, el reglamento 2026 de la Fórmula 1 mantiene la filosofía de limitar el número de unidades de potencia por temporada, aunque con ajustes en la potencia y el componente eléctrico. Esto obliga a los fabricantes a ser más precisos en la gestión de fiabilidad, porque cada cambio extra se paga caro en la parrilla.",
+          "language": "es",
+          "publishedAt": "2026-10-23T21:50:17.000Z",
+          "addedAt": "2026-11-14T08:53:38.077Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-mundial-rotax-los-argentinos-completaron-las-mangas-y-se-definieron-las-grillas-en-portimao",
+          "title": "Mundial Rotax: Los argentinos completaron las mangas y se definieron las grillas en Portimão",
+          "summary": "Los catorce pilotos argentinos pusieron punto final a la actividad del jueves en el kartódromo de Algarve, que definió el orden de largada para las nueve divisiones.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/mundial-rotax-los-argentinos-completaron-las-mangas-y-se-definieron-las-grillas-en-portimao/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/ROTAX-PORTIMAO-2026.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-13T17:04:42.000Z",
+          "addedAt": "2026-11-13T21:40:17.794Z",
           "category": "argentino",
           "tag": "Argentino"
         }
