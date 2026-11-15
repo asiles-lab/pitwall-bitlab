@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T06:14:00.390Z",
-  "checkedAt": "2026-11-15T06:14:00.390Z",
+  "updatedAt": "2026-11-15T14:09:54.130Z",
+  "checkedAt": "2026-11-15T14:09:54.130Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,36 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-jonatan-castellano-resurgio-en-rio-cuarto-y-logro-la-pole-position-del-tc",
-      "title": "Jonatan Castellano resurgió en Río Cuarto y logró la “pole position” del TC",
-      "summary": "El piloto del Galarza Racing, que volvió a dominar una clasificación del Turismo Carretera luego de 3 años y medio, deberá cumplir una sanción de 5 puestos de recargo aplicada por la CAF de la ACTC a raíz de la maniobra peligrosa en perjuicio de su compañero Dianda en la Final de Rosario. Fritzler (Mercedes-Benz) y Canapino (Chevrolet) escoltaron al “Pinchito”.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/jonatan-castellano-resurgio-en-rio-cuarto-y-logro-la-pole-position-del-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Castellano-II-TC-2026.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-14T19:56:31.000Z",
-      "addedAt": "2026-11-14T20:06:13.469Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-tc-como-anduvo-el-nuevo-motor-de-canapino-en-el-rolo",
-      "title": "TC: ¿Cómo anduvo el nuevo motor de Canapino en el 'rolo'?",
-      "summary": "En \"Buen día, Campeones\", Nicolás Bonelli se refirió a la prueba satisfactoria para poner a punto el impulsor del Chevrolet del arrecifeño.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-como-anduvo-el-nuevo-motor-de-canapino-en-el-rolo/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261112-TC-Canapino.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-12T21:06:18.000Z",
-      "addedAt": "2026-11-14T23:51:13.396Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
     {
       "id": "campeones-com-ar-shell-acompana-el-regreso-del-tc-a-rio-cuarto-despues-de-14-anos",
       "title": "Shell acompaña el regreso del TC a Río Cuarto después de 14 años | Campeones",
@@ -130,17 +100,17 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-tc-pick-up-en-la-plata-agustin-canapino-vencio-en-la-serie-unica",
-      "title": "TC Pick Up en La Plata: Agustín Canapino venció en la serie única",
-      "summary": "El arrecifeño del Canning Motorsports logró su 2º triunfo parcial de la temporada 2026 y encara la Final de la 3ª y anteúltima fecha de la Copa de Oro 2026 con una diferencia de 3,5 puntos en el “play-off”.",
+      "id": "campeones-com-ar-jonatan-castellano-resurgio-en-rio-cuarto-y-logro-la-pole-position-del-tc",
+      "title": "Jonatan Castellano resurgió en Río Cuarto y logró la “pole position” del TC",
+      "summary": "El piloto del Galarza Racing, que volvió a dominar una clasificación del Turismo Carretera luego de 3 años y medio, deberá cumplir una sanción de 5 puestos de recargo aplicada por la CAF de la ACTC a raíz de la maniobra peligrosa en perjuicio de su compañero Dianda en la Final de Rosario. Fritzler (Mercedes-Benz) y Canapino (Chevrolet) escoltaron al “Pinchito”.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-pick-up-en-la-plata-agustin-canapino-vencio-en-la-serie-unica/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Canapino-TCPK-2026-1.jpg",
+      "url": "https://campeones.com.ar/jonatan-castellano-resurgio-en-rio-cuarto-y-logro-la-pole-position-del-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Castellano-II-TC-2026.jpeg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-08T13:55:07.000Z",
-      "addedAt": "2026-11-08T16:07:45.404Z",
+      "publishedAt": "2026-11-14T19:56:31.000Z",
+      "addedAt": "2026-11-14T20:06:13.469Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -265,34 +235,49 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-girolami-gano-con-el-hyundai-una-luchada-primera-carrera-del-tcr",
-      "title": "Girolami ganó con el Hyundai una luchada primera carrera del TCR | Campeones",
-      "summary": "La pelea tuvo un mano a mano electrizante entre el “Bebu” y Leonel Pernía, con el de Córdoba imponiéndose por 5ª vez en la temporada. Joaquín Cafaro era segundo cuando tuvo que abandonar por una rotura en Rosario.",
+      "id": "campeones-com-ar-tc-otto-fritzler-el-dueno-de-la-1a-bateria-en-rio-cuarto",
+      "title": "TC: Otto Fritzler, el dueño de la 1ª batería en Río Cuarto",
+      "summary": "En una serie que tuvo la intervención del auto de seguridad, el piloto de Mercedes-Benz controló a Mauricio Lambiris (Ford Mustang) y logró su 4ª victoria parcial de la temporada.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/girolami-gano-con-el-hyundai-una-luchada-primera-carrera-del-tcr/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/IMG_0458.jpeg",
+      "url": "https://campeones.com.ar/tc-otto-fritzler-el-dueno-de-la-1a-bateria-en-rio-cuarto/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Fritzler-TC-2026.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-08T13:48:40.000Z",
-      "addedAt": "2026-11-08T16:07:45.408Z",
-      "category": "argentino",
-      "tag": "Argentino"
+      "publishedAt": "2026-11-15T14:07:27.000Z",
+      "addedAt": "2026-11-15T14:09:55.728Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-simon-bulbarella-cerro-su-ano-de-formula-4-espanola-con-un-17-puesto",
-      "title": "Simón Bulbarella cerró su año de Fórmula 4 Española con un 17° puesto",
-      "summary": "El piloto argentino logró su mejor resultado del fin de semana en Barcelona-Cataluña junto al equipo Drivex, donde la especialidad puso punto final a su 2026.",
+      "id": "campeones-com-ar-en-rio-cuarto-damiani-se-quedo-con-la-serie-mas-rapida-de-tc-pista",
+      "title": "En Río Cuarto, Borgert y se quedaron con las series de TC Pista",
+      "summary": "Se disputaron las baterías de la divisional, el líder de la Copa de Plata se impuso y compartirá con Borgert la primera fila de la penúltima fecha de la Copa de Plata.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/simon-bulbarella-cerro-su-ano-de-formula-4-espanola-con-un-17-puesto/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/BULBARELLA-MONTMELO-2026-e1794139619386.jpg",
+      "url": "https://campeones.com.ar/en-rio-cuarto-damiani-se-quedo-con-la-serie-mas-rapida-de-tc-pista/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261115-TCP-Damiani.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-08T12:36:07.000Z",
-      "addedAt": "2026-11-08T16:07:46.351Z",
-      "category": "argentino",
-      "tag": "Argentino"
+      "publishedAt": "2026-11-15T13:47:31.000Z",
+      "addedAt": "2026-11-15T14:09:56.565Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-rio-cuarto-sede-de-la-cuarta-fecha-del-campeonato-2027-del-tc",
+      "title": "Río Cuarto, sede de la cuarta fecha del campeonato 2027 del TC | Campeones",
+      "summary": "La categoría volverá en abril a la ciudad donde disputa la anteúltima fecha del calendario 2026.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/rio-cuarto-sede-de-la-cuarta-fecha-del-campeonato-2027-del-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Autodromo-Rio-Cuarto.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-15T12:27:59.000Z",
+      "addedAt": "2026-11-15T14:09:58.792Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "www-tycsports-com-automovilismo-que-resta-confirmarse-en-la-grilla-de-la-formula-1-2027-tras-el-anuncio-de-racing-bulls-",
@@ -336,21 +321,6 @@
       "language": "es",
       "publishedAt": "2026-11-10T22:14:25.000Z",
       "addedAt": "2026-11-11T01:21:58.471Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-borgert-se-quedo-con-la-pole-de-tc-pista-en-rio-cuarto",
-      "title": "Borgert se quedó con la \"pole\" de TC Pista en Río Cuarto",
-      "summary": "A bordo del Ford de FPA Racing, el piloto entrerriano de General Ramírez superó a Damiani, el líder de la Copa de Plata, y a Thomas Pozner.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/borgert-se-quedo-con-la-pole-de-tc-pista-en-rio-cuarto/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261114-TCP-Borgert.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-14T19:16:28.000Z",
-      "addedAt": "2026-11-14T20:06:12.654Z",
       "category": "general",
       "tag": "F1"
     },
@@ -520,21 +490,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-tc-pista-pick-up-pellandino-ratifico-en-la-serie-la-pole-del-sabado",
-      "title": "TC Pista Pick Up: Pellandino ratificó en la serie la “pole” del sábado",
-      "summary": "El entrerriano del SAP Team se impuso con contundencia en la única batería de la 3ª y anteúltima fecha de la Copa Coronación 2026 del TCPPK y redujo la diferencia con Santiago Biagi (Toyota Hilux) a 3 puntos.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-pista-pick-up-pellandino-ratifico-en-la-serie-la-pole-del-sabado/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Pellandino-TCPPK-2026-1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-08T13:34:15.000Z",
-      "addedAt": "2026-11-08T16:07:46.749Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-salio-ranking-destructores-formula-1-con-enorme-brecha-entre-franco-colapinto-y-pierre-g",
       "title": "Salió el ranking de destructores de la Fórmula 1, con enorme brecha entre Franco Colapinto y Pierre Gasly",
       "summary": "La tabla contabiliza los costos por accidentes y roturas de los autos durante la temporada 2026. Oliver Bearman lidera una clasificación que también refleja el elevado gasto de Alpine.",
@@ -625,6 +580,21 @@
       "tag": "Carrera"
     },
     {
+      "id": "campeones-com-ar-borgert-se-quedo-con-la-pole-de-tc-pista-en-rio-cuarto",
+      "title": "Borgert se quedó con la \"pole\" de TC Pista en Río Cuarto",
+      "summary": "A bordo del Ford de FPA Racing, el piloto entrerriano de General Ramírez superó a Damiani, el líder de la Copa de Plata, y a Thomas Pozner.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/borgert-se-quedo-con-la-pole-de-tc-pista-en-rio-cuarto/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261114-TCP-Borgert.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-14T19:16:28.000Z",
+      "addedAt": "2026-11-14T20:06:12.654Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-tc-en-rio-cuarto-matias-rossi-marco-el-rumbo-en-el-ultimo-ensayo",
       "title": "TC en Río Cuarto: Matías Rossi marcó el rumbo en el último ensayo",
       "summary": "Con su Toyota Camry, el “Misil” mejoró en 0s307 el tiempo que Jonatan Castellano (Dodge Challenger) había establecido en la primera práctica. Valentín Aguirre (Chevrolet Camaro) completó el “1-2” del Pradecon Racing, a 0s135.",
@@ -651,36 +621,6 @@
       "language": "es",
       "publishedAt": "2026-11-14T14:37:25.000Z",
       "addedAt": "2026-11-14T15:44:08.180Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-pista-provens-lidero-el-primer-entrenamiento-de-rio-cuarto",
-      "title": "TC Pista: Provens lideró el primer entrenamiento de Río Cuarto",
-      "summary": "Con el Dodge de Galarza Racing, el piloto de Isla Verde fue el referente de la tanda inicial; el lider de la Copa de Plata, Damiani fue sexto.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-pista-provens-lidero-el-primer-entrenamiento-de-rio-cuarto/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261114-TC-Pista-Provens.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-14T13:31:55.000Z",
-      "addedAt": "2026-11-14T15:44:08.214Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
-      "title": "Campeones Clasificación con el TC desde San Nicolás",
-      "summary": "No te pierdas los detalles de la 12.ª fecha de la categoría más popular del automovilismo nacional y los detalles de la actividad en el circuito nicoleño, por nuestras plataformas y AM590 Continental.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/este-sabado-campeones-clasificacion-con-el-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2025/03/Campeones-Clasificacion.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-14T13:20:50.000Z",
-      "addedAt": "2026-11-14T20:06:12.671Z",
       "category": "general",
       "tag": "F1"
     },
@@ -713,6 +653,21 @@
       "addedAt": "2026-11-07T19:30:25.014Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc-pick-up-en-la-plata-agustin-canapino-vencio-en-la-serie-unica",
+      "title": "TC Pick Up en La Plata: Agustín Canapino venció en la serie única",
+      "summary": "El arrecifeño del Canning Motorsports logró su 2º triunfo parcial de la temporada 2026 y encara la Final de la 3ª y anteúltima fecha de la Copa de Oro 2026 con una diferencia de 3,5 puntos en el “play-off”.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-pick-up-en-la-plata-agustin-canapino-vencio-en-la-serie-unica/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Canapino-TCPK-2026-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-08T13:55:07.000Z",
+      "addedAt": "2026-11-08T16:07:45.404Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-otro-cambio-de-motorista-en-el-turismo-carretera",
@@ -803,6 +758,36 @@
       "addedAt": "2026-11-12T19:09:39.014Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-girolami-gano-con-el-hyundai-una-luchada-primera-carrera-del-tcr",
+      "title": "Girolami ganó con el Hyundai una luchada primera carrera del TCR | Campeones",
+      "summary": "La pelea tuvo un mano a mano electrizante entre el “Bebu” y Leonel Pernía, con el de Córdoba imponiéndose por 5ª vez en la temporada. Joaquín Cafaro era segundo cuando tuvo que abandonar por una rotura en Rosario.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/girolami-gano-con-el-hyundai-una-luchada-primera-carrera-del-tcr/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/IMG_0458.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-08T13:48:40.000Z",
+      "addedAt": "2026-11-08T16:07:45.408Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-simon-bulbarella-cerro-su-ano-de-formula-4-espanola-con-un-17-puesto",
+      "title": "Simón Bulbarella cerró su año de Fórmula 4 Española con un 17° puesto",
+      "summary": "El piloto argentino logró su mejor resultado del fin de semana en Barcelona-Cataluña junto al equipo Drivex, donde la especialidad puso punto final a su 2026.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/simon-bulbarella-cerro-su-ano-de-formula-4-espanola-con-un-17-puesto/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/BULBARELLA-MONTMELO-2026-e1794139619386.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-08T12:36:07.000Z",
+      "addedAt": "2026-11-08T16:07:46.351Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-sorprendente-dominio-de-santino-rossi-en-el-rally-de-traslasierra",
@@ -983,6 +968,36 @@
       "addedAt": "2026-10-25T06:31:22.163Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tc-pista-provens-lidero-el-primer-entrenamiento-de-rio-cuarto",
+      "title": "TC Pista: Provens lideró el primer entrenamiento de Río Cuarto",
+      "summary": "Con el Dodge de Galarza Racing, el piloto de Isla Verde fue el referente de la tanda inicial; el lider de la Copa de Plata, Damiani fue sexto.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-pista-provens-lidero-el-primer-entrenamiento-de-rio-cuarto/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261114-TC-Pista-Provens.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-14T13:31:55.000Z",
+      "addedAt": "2026-11-14T15:44:08.214Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-este-sabado-campeones-clasificacion-con-el-tc",
+      "title": "Campeones Clasificación con el TC desde San Nicolás",
+      "summary": "No te pierdas los detalles de la 12.ª fecha de la categoría más popular del automovilismo nacional y los detalles de la actividad en el circuito nicoleño, por nuestras plataformas y AM590 Continental.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/este-sabado-campeones-clasificacion-con-el-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2025/03/Campeones-Clasificacion.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-14T13:20:50.000Z",
+      "addedAt": "2026-11-14T20:06:12.671Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tc-azar-y-su-objetivo-en-integrarse-entre-uno-de-los-3-de-ultimo-minuto",
@@ -1285,21 +1300,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-series-en-la-plata-arrigoni-gano-en-tc-mouras-y-perez-en-pista-mouras",
-      "title": "Series en La Plata: Arrigoni ganó en TC Mouras y Pérez en Pista Mouras | Campeones",
-      "summary": "La mañana de domingo comenzó con las baterías, donde en la divisional mayor, el piloto del Rus Med Team mantuvo la cima y se quedó con la Serie Única. Mientras que en la telonera, Damián Pérez pudo dar cuenta de Ignacio Vilas para llevarse el triunfo.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/series-en-la-plata-arrigoni-gano-en-tc-mouras-y-perez-en-pista-mouras/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/dsc-7927-jpg-crop-1794064680821-609400123.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-08T13:27:37.000Z",
-      "addedAt": "2026-11-08T16:07:46.081Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-liam-lawson-puso-en-duda-su-continuidad-en-la-formula-1-y-expreso-su-frustracion-no-se-q",
       "title": "Liam Lawson consiguió sus mejores resultados, pero todavía no sabe si seguirá en la Fórmula 1: “No sé qué más quieren que haga”",
       "summary": "A pesar de estar noveno en el campeonato de pilotos, el integrante de Racing Bulls no está confirmado para el año próximo y los rumores que indican que puede ser reemplazado por Tsolov crecen.",
@@ -1463,6 +1463,21 @@
       "addedAt": "2026-10-27T19:41:09.465Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-tc-pista-pick-up-pellandino-ratifico-en-la-serie-la-pole-del-sabado",
+      "title": "TC Pista Pick Up: Pellandino ratificó en la serie la “pole” del sábado",
+      "summary": "El entrerriano del SAP Team se impuso con contundencia en la única batería de la 3ª y anteúltima fecha de la Copa Coronación 2026 del TCPPK y redujo la diferencia con Santiago Biagi (Toyota Hilux) a 3 puntos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-pista-pick-up-pellandino-ratifico-en-la-serie-la-pole-del-sabado/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Pellandino-TCPPK-2026-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-08T13:34:15.000Z",
+      "addedAt": "2026-11-08T16:07:46.749Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-girolami-y-hyundai-en-lo-mas-alto-de-la-clasificacion-del-tcr-en-rosario",
@@ -2035,21 +2050,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-wec-en-barcelona-ferrari-pisa-fuerte-en-hypercar-y-lmgt3-pechito-fue-14",
-      "title": "WEC en Barcelona: Ferrari pisa fuerte en Hypercar y LMGT3 en la cual \"Pechito\" fue 14.° | Campeones",
-      "summary": "La penúltima ronda del Campeonato Mundial de Resistencia se desarrolla en Montmeló, en donde la actividad tuvo el primero de los dos ensayos del día.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/wec-en-barcelona-ferrari-pisa-fuerte-en-hypercar-y-lmgt3-pechito-fue-14/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261016-WEC-Pechito.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-16T11:49:53.000Z",
-      "addedAt": "2026-10-23T17:19:51.834Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-agustin-canapino-gano-la-final-del-turismo-carretera-en-neuquen-en-una-carrera-accidenta",
       "title": "Agustín Canapino ganó la final del Turismo Carretera en Neuquén en una carrera accidentada",
       "summary": "El Titán de Arrecifes aprovechó el problema que tuvo Matías Rossi y se convirtió en el primer piloto en ganar dos veces en ese autódromo.",
@@ -2440,6 +2440,21 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-series-en-la-plata-arrigoni-gano-en-tc-mouras-y-perez-en-pista-mouras",
+      "title": "Series en La Plata: Arrigoni ganó en TC Mouras y Pérez en Pista Mouras | Campeones",
+      "summary": "La mañana de domingo comenzó con las baterías, donde en la divisional mayor, el piloto del Rus Med Team mantuvo la cima y se quedó con la Serie Única. Mientras que en la telonera, Damián Pérez pudo dar cuenta de Ignacio Vilas para llevarse el triunfo.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/series-en-la-plata-arrigoni-gano-en-tc-mouras-y-perez-en-pista-mouras/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/dsc-7927-jpg-crop-1794064680821-609400123.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-08T13:27:37.000Z",
+      "addedAt": "2026-11-08T16:07:46.081Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-tc-mouras-arrigoni-dominador-del-sabado-en-la-plata",
       "title": "TC Mouras: Arrigoni, dominador del sábado en La Plata | Campeones",
       "summary": "Se quedó con la clasificación a bordo del Dodge del Rus Med Team, luego de ser el más veloz en los ensayos previos. Nicolás Jaime, líder del campeonato, se colocó 2° a solo 12 milésimas y cerró el \"1-2\" de la marca.",
@@ -2723,27 +2738,12 @@
       "addedAt": "2026-10-31T16:01:49.757Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
-      "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
-      "summary": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-entradas-id763683.html",
-      "image": "https://media.tycsports.com/files/2025/01/20/804453/motogp-en-termas_1440x810.webp?v=2",
-      "body": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.\n\nEl Moto GP llegará a Buenos Aires en abril de 2027 + Seguinos en El MotoGP ya tiene los precios de las entradas para su regreso a la Ciudad de Buenos Aires. El Gran Premio se disputará del 9 al 11 de abril en el renovado circuito porteño, que volverá a recibir a la máxima categoría del motociclismo mundial.\n\nEl valor de los tickets parte desde $194.520 para una ubicación en la recta y llega hasta $5.349.300 para el acceso al Apex Club Elite, la alternativa de mayor costo. Entre ambos extremos, habrá distintas opciones de localidades y experiencias para los espectadores.\n\nLa venta se realizará a través del sitio oficial de tickets de MotoGP. Además, entre el 1 y el 7 de octubre habrá una preventa exclusiva para clientes de Banco Ciudad, con la posibilidad de abonar en hasta seis cuotas sin interés.",
-      "language": "es",
-      "publishedAt": "2026-09-30T22:03:28.000Z",
-      "addedAt": "2026-11-15T06:14:01.683Z",
-      "category": "general",
-      "tag": "F1"
     }
   ],
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-15T06:14:08.346Z",
+      "createdAt": "2026-11-15T14:10:11.354Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-san",
@@ -3019,7 +3019,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-11-15T06:14:08.346Z",
+      "createdAt": "2026-11-15T14:10:11.354Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-alpine-revelo-la-gran-virtud-de-colapinto-en-la-f1-para-dar-el-golpe-en-el-gp-de-estados",
@@ -3295,7 +3295,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-11-15T06:14:08.346Z",
+      "createdAt": "2026-11-15T14:10:11.354Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-cerrara-su-temporada-en-catar-y-abu-dabi-id771013-html",
@@ -3571,7 +3571,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-11-15T06:14:08.346Z",
+      "createdAt": "2026-11-15T14:10:11.354Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-la-chicana-de-mercedes-al-resto-de-la-formula-1-por-antonelli-decian-que-ni-siquiera-deb",
@@ -3847,7 +3847,7 @@
     },
     {
       "page": 5,
-      "createdAt": "2026-11-15T06:14:08.346Z",
+      "createdAt": "2026-11-15T14:10:11.354Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-brasil-2026-id770",
@@ -4105,17 +4105,17 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-argentina-con-buenos-resultados-en-las-finales-de-la-rotax-grand-finals",
-          "title": "Argentina con buenos resultados en las Finales de la Rotax Grand Finals",
-          "summary": "Nuestro país obtuvo cinco 'Top 10' en las disputas que cerraron la actividad en el kartódromo internacional de Algarve.",
+          "id": "campeones-com-ar-futuro-ovalado-para-ignacio-fain-en-el-tc",
+          "title": "¿Futuro “ovalado” para Ignacio Fain en el TC?",
+          "summary": "El santafesino, que actualmente corre con un Torino del Trotta Racing Team, suena para conducir el segundo Ford Mustang del JPG Racing de Juan Pablo Gianini.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/argentina-con-buenos-resultados-en-las-finales-de-la-rotax-grand-finals/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/PORTIMAO-ROTAX-2026.jpg",
+          "url": "https://campeones.com.ar/futuro-ovalado-para-ignacio-fain-en-el-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/07/Ignacio-Fain-Torino-1.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-11-14T16:10:41.000Z",
-          "addedAt": "2026-11-14T20:06:12.631Z",
+          "publishedAt": "2026-11-15T13:37:25.000Z",
+          "addedAt": "2026-11-15T14:09:56.714Z",
           "category": "argentino",
           "tag": "Argentino"
         }
