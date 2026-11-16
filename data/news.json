@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T06:12:35.265Z",
-  "checkedAt": "2026-11-16T06:12:35.265Z",
+  "updatedAt": "2026-11-16T16:11:45.989Z",
+  "checkedAt": "2026-11-16T16:11:45.989Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,6 +40,36 @@
   },
   "backlog": [
     {
+      "id": "campeones-com-ar-werner-advierte-quien-lo-cierra-reiteradas-veces-es-mandado-de-esa-manera",
+      "title": "Werner advierte quién lo cierra reiteradas veces: \"es mandado de esa manera\"",
+      "summary": "La decepción de Mariano Werner tras la Final de Turismo Carretera en Río Cuarto y las maniobras: ¿Se despidió de la pelea por el campeonato?",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/werner-advierte-quien-lo-cierra-reiteradas-veces-es-mandado-de-esa-manera/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Mariano-Werner-TC-Rio-Cuarto-1-de-espaldas.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-16T14:17:04.000Z",
+      "addedAt": "2026-11-16T16:11:48.534Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-haas-confirmo-que-piloto-volvera-a-reemplazar-a-ocon-en-el-gp-de-las-vegas-f1-formula-1-",
+      "title": "Haas confirmó qué piloto volverá a reemplazar a Ocon en la próxima carrera de F1",
+      "summary": "La escudería informó que el brasileño volverá a compartir equipo con Oliver Bearman, mientras que Ryō Hirakawa participará de la primera práctica libre.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/haas-confirmo-que-piloto-volvera-a-reemplazar-a-ocon-en-el-gp-de-las-vegas-f1-formula-1-id771693.html",
+      "image": "https://media.tycsports.com/files/2026/11/16/1005225/haas_862x485.webp?v=1",
+      "body": "La escudería informó que el brasileño volverá a compartir equipo con Oliver Bearman, mientras que Ryō Hirakawa participará de la primera práctica libre.\n\nHaas confirmó a su próximo piloto + Seguinos en Haas confirmó que Rafael Câmara volverá a reemplazar a Esteban Ocon en el Gran Premio de Las Vegas de Fórmula 1. El brasileño compartirá equipo con Oliver Bearman y tendrá una nueva oportunidad de subirse al monoplaza de la escudería estadounidense, luego de su debut en la categoría durante la última carrera en Brasil.\n\nCâmara ya había ocupado el lugar de Ocon en el Gran Premio de Brasil, tras la salida del piloto francés. Su primera participación dejó buenas sensaciones en el equipo, que decidió mantenerlo como sustituto para la próxima fecha del calendario.\n\nAyao Komatsu, director de Haas, destacó el rendimiento del brasileño en su primera experiencia en la Fórmula 1 y recordó que será parte de la estructura a partir de 2027. \"En Brasil, nuestro fichaje de 2027, Rafa Câmara, debutó en condiciones extremadamente difíciles y nos demostró, tanto a nosotros como al mundo, por qué lo fichamos para 2027\" , expresó. Por su parte, el joven piloto se mostró entusiasmado con la posibilidad de volver a competir y reconoció que tendrá un nuevo desafío en un circuito que todavía no conoce. \"Tengo muchas ganas de volver a subirme al coche en Las Vegas. Brasil fue una buena experiencia de aprendizaje, y ahora el objetivo es seguir mejorando, progresando paso a paso y aprovechando al máximo cada sesión\" , manifestó.\n\nAdemás, Câmara señaló que buscará aprovechar cada salida a pista para continuar adaptándose al monoplaza y sumar experiencia en la categoría. \"Es un circuito nuevo para mí, así que hay mucho que aprender, pero haré todo lo posible por seguir progresando durante el fin de s",
+      "language": "es",
+      "publishedAt": "2026-11-16T11:14:27.000Z",
+      "addedAt": "2026-11-16T16:11:46.887Z",
+      "category": "general",
+      "tag": "Carrera"
+    },
+    {
       "id": "campeones-com-ar-damiani-se-impuso-en-rio-cuarto-y-tomo-distancia-en-la-copa-de-plata-de-tc-pista",
       "title": "Damiani se impuso en Río Cuarto y tomó distancia en la Copa de Plata de TC Pista",
       "summary": "Contundente victoria logró el nuevejuliense con el Chevrolet de Canning Motorsports en la pista cordobesa y con ello amplió la ventaja de cara a la definición en La Plata.",
@@ -53,21 +83,6 @@
       "addedAt": "2026-11-15T19:52:39.047Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-futuro-ovalado-para-ignacio-fain-en-el-tc",
-      "title": "¿Futuro “ovalado” para Ignacio Fain en el TC?",
-      "summary": "El santafesino, que actualmente corre con un Torino del Trotta Racing Team, suena para conducir el segundo Ford Mustang del JPG Racing de Juan Pablo Gianini.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/futuro-ovalado-para-ignacio-fain-en-el-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2025/07/Ignacio-Fain-Torino-1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-15T13:37:25.000Z",
-      "addedAt": "2026-11-16T06:12:38.488Z",
-      "category": "argentino",
-      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-shell-acompana-el-regreso-del-tc-a-rio-cuarto-despues-de-14-anos",
@@ -145,34 +160,34 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-canapino-la-regularidad-durante-el-ano-y-la-ventaja-rumbo-al-coronacion-de-las-pick-up",
-      "title": "Canapino, la regularidad durante el año y la ventaja rumbo al Coronación de las Pick Up | Campeones",
-      "summary": "El \"Titán\" ganó nuevamente en las camionetas y con la Chevrolet S-10, extendió su ventaja de 1 a 9.5 puntos sobre Otto Fritzler, con solo una carrera por disputarse.",
+      "id": "campeones-com-ar-que-le-ocurrio-al-alpine-de-colapinto-en-la-largada-del-gp-de-san-pablo",
+      "title": "¿Qué le ocurrió al Alpine de Colapinto en la largada del GP de San Pablo?",
+      "summary": "Al concluir 13.° con el Alpine A526 en la pista de Interlagos, el piloto argentino describió cómo afrontó la competencia brasileña.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/canapino-la-regularidad-durante-el-ano-y-la-ventaja-rumbo-al-coronacion-de-las-pick-up/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261030-TCPickUp-Canapino.jpg",
+      "url": "https://campeones.com.ar/que-le-ocurrio-al-alpine-de-colapinto-en-la-largada-del-gp-de-san-pablo/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261108-F1-Colapinto-Brasil.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-09T16:07:11.000Z",
-      "addedAt": "2026-11-10T00:10:20.843Z",
+      "publishedAt": "2026-11-09T02:57:59.000Z",
+      "addedAt": "2026-11-16T16:11:54.006Z",
       "category": "argentino",
-      "tag": "Argentino"
+      "tag": "Franco"
     },
     {
-      "id": "campeones-com-ar-turismo-carretera-2000-test-de-zanatta-en-rafaela",
-      "title": "Turismo Carretera 2000: Test de Zanatta en Rafaela",
-      "summary": "El bicampeón argentino de motociclismo y automovilismo se prepara para su despedida con el Citroën de Dose Competición y aportará su experiencia recabando datos para la categoría en el óvalo.",
+      "id": "campeones-com-ar-marcos-landa-y-un-destino-incierto-en-turismo-carretera",
+      "title": "Marcos Landa y un destino incierto en Turismo Carretera",
+      "summary": "Si bien mantiene contactos, el piloto uruguayo no tiene confirmada su continuidad en la categoría para 2027.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/turismo-carretera-2000-test-de-zanatta-en-rafaela/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261029-Turcar2000-Zanatta.jpeg",
+      "url": "https://campeones.com.ar/marcos-landa-y-un-destino-incierto-en-turismo-carretera/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261116-TC-Marcos-Landa.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-09T15:59:21.000Z",
-      "addedAt": "2026-11-09T16:03:51.986Z",
-      "category": "argentino",
-      "tag": "Argentino"
+      "publishedAt": "2026-11-16T15:48:33.000Z",
+      "addedAt": "2026-11-16T16:11:49.294Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "www-tycsports-com-automovilismo-antonelli-cumplio-su-promesa-y-se-tino-el-pelo-el-nuevo-look-del-campeon-mas-joven-en-la",
@@ -203,6 +218,21 @@
       "addedAt": "2026-11-11T01:21:58.471Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-futuro-ovalado-para-ignacio-fain-en-el-tc",
+      "title": "¿Futuro “ovalado” para Ignacio Fain en el TC?",
+      "summary": "El santafesino, que actualmente corre con un Torino del Trotta Racing Team, suena para conducir el segundo Ford Mustang del JPG Racing de Juan Pablo Gianini.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/futuro-ovalado-para-ignacio-fain-en-el-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2025/07/Ignacio-Fain-Torino-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-15T13:37:25.000Z",
+      "addedAt": "2026-11-16T06:12:38.488Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-jonatan-castellano-resurgio-en-rio-cuarto-y-logro-la-pole-position-del-tc",
@@ -445,66 +475,6 @@
       "tag": "Carrera"
     },
     {
-      "id": "campeones-com-ar-tc-el-ultimo-parcial-en-rio-cuarto-termino-con-festejo-de-rossi",
-      "title": "TC: el último parcial en Río Cuarto terminó con festejo de Rossi",
-      "summary": "El “Misil” no le dio posibilidades con su Toyota Camry a Marcos Landa (Chevrolet Camaro) y alcanzó su 5ª victoria parcial de la temporada 2026, lo que lo transforma en el más ganador del año en ese rubro y le da la “pole” para la Final.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-el-ultimo-parcial-en-rio-cuarto-termino-con-festejo-de-rossi/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Rossi-TC-2026.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-15T14:59:35.000Z",
-      "addedAt": "2026-11-15T19:52:39.185Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-otto-fritzler-el-dueno-de-la-1a-bateria-en-rio-cuarto",
-      "title": "TC: Otto Fritzler, el dueño de la 1ª batería en Río Cuarto",
-      "summary": "En una serie que tuvo la intervención del auto de seguridad, el piloto de Mercedes-Benz controló a Mauricio Lambiris (Ford Mustang) y logró su 4ª victoria parcial de la temporada.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-otto-fritzler-el-dueno-de-la-1a-bateria-en-rio-cuarto/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Fritzler-TC-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-15T14:07:27.000Z",
-      "addedAt": "2026-11-15T14:09:55.728Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-en-rio-cuarto-damiani-se-quedo-con-la-serie-mas-rapida-de-tc-pista",
-      "title": "En Río Cuarto, Borgert y se quedaron con las series de TC Pista",
-      "summary": "Se disputaron las baterías de la divisional, el líder de la Copa de Plata se impuso y compartirá con Borgert la primera fila de la penúltima fecha de la Copa de Plata.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/en-rio-cuarto-damiani-se-quedo-con-la-serie-mas-rapida-de-tc-pista/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261115-TCP-Damiani.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-15T13:47:31.000Z",
-      "addedAt": "2026-11-15T14:09:56.565Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-rio-cuarto-sede-de-la-cuarta-fecha-del-campeonato-2027-del-tc",
-      "title": "Río Cuarto, sede de la cuarta fecha del campeonato 2027 del TC | Campeones",
-      "summary": "La categoría volverá en abril a la ciudad donde disputa la anteúltima fecha del calendario 2026.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/rio-cuarto-sede-de-la-cuarta-fecha-del-campeonato-2027-del-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Autodromo-Rio-Cuarto.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-15T12:27:59.000Z",
-      "addedAt": "2026-11-15T14:09:58.792Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-briatore-autocritico-alpine-gp-brasil-id770867-html",
       "title": "Briatore, disconforme con el rendimiento de Alpine en el GP de Brasil: “Estuvimos muy por debajo de nuestro nivel”",
       "summary": "El director de equipo de la escudería francesa hizo una fuerte autocrítica tras la carrera en Interlagos en la que ninguno de los dos autos logró sumar puntos. “Tenemos mucho que revisar”, aseguró.",
@@ -621,6 +591,36 @@
       "language": "es",
       "publishedAt": "2026-10-27T19:41:25.000Z",
       "addedAt": "2026-10-29T19:15:06.068Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-canapino-la-regularidad-durante-el-ano-y-la-ventaja-rumbo-al-coronacion-de-las-pick-up",
+      "title": "Canapino, la regularidad durante el año y la ventaja rumbo al Coronación de las Pick Up | Campeones",
+      "summary": "El \"Titán\" ganó nuevamente en las camionetas y con la Chevrolet S-10, extendió su ventaja de 1 a 9.5 puntos sobre Otto Fritzler, con solo una carrera por disputarse.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/canapino-la-regularidad-durante-el-ano-y-la-ventaja-rumbo-al-coronacion-de-las-pick-up/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261030-TCPickUp-Canapino.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-09T16:07:11.000Z",
+      "addedAt": "2026-11-10T00:10:20.843Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-turismo-carretera-2000-test-de-zanatta-en-rafaela",
+      "title": "Turismo Carretera 2000: Test de Zanatta en Rafaela",
+      "summary": "El bicampeón argentino de motociclismo y automovilismo se prepara para su despedida con el Citroën de Dose Competición y aportará su experiencia recabando datos para la categoría en el óvalo.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/turismo-carretera-2000-test-de-zanatta-en-rafaela/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261029-Turcar2000-Zanatta.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-09T15:59:21.000Z",
+      "addedAt": "2026-11-09T16:03:51.986Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -850,19 +850,64 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole",
-      "title": "WEC en Barcelona: Genesis supera a Toyota y logra su 1ª “pole”",
-      "summary": "A bordo del prototipo coreano GMR-001, Mathys Jaubert se quedó con la clasificación en Hypercar. El argentino José María López, con el Lexus, arrancará 7° las “6 Horas” en LMGT3.",
+      "id": "campeones-com-ar-tc-el-ultimo-parcial-en-rio-cuarto-termino-con-festejo-de-rossi",
+      "title": "TC: el último parcial en Río Cuarto terminó con festejo de Rossi",
+      "summary": "El “Misil” no le dio posibilidades con su Toyota Camry a Marcos Landa (Chevrolet Camaro) y alcanzó su 5ª victoria parcial de la temporada 2026, lo que lo transforma en el más ganador del año en ese rubro y le da la “pole” para la Final.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/wec-en-barcelona-genesis-supera-a-toyota-y-logra-su-1a-pole/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/genesis-barcelona-wec.jpg.webp",
+      "url": "https://campeones.com.ar/tc-el-ultimo-parcial-en-rio-cuarto-termino-con-festejo-de-rossi/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Rossi-TC-2026.jpeg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-17T16:06:03.000Z",
-      "addedAt": "2026-10-25T06:31:22.163Z",
-      "category": "argentino",
-      "tag": "Argentino"
+      "publishedAt": "2026-11-15T14:59:35.000Z",
+      "addedAt": "2026-11-15T19:52:39.185Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc-otto-fritzler-el-dueno-de-la-1a-bateria-en-rio-cuarto",
+      "title": "TC: Otto Fritzler, el dueño de la 1ª batería en Río Cuarto",
+      "summary": "En una serie que tuvo la intervención del auto de seguridad, el piloto de Mercedes-Benz controló a Mauricio Lambiris (Ford Mustang) y logró su 4ª victoria parcial de la temporada.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-otto-fritzler-el-dueno-de-la-1a-bateria-en-rio-cuarto/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Fritzler-TC-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-15T14:07:27.000Z",
+      "addedAt": "2026-11-15T14:09:55.728Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-en-rio-cuarto-damiani-se-quedo-con-la-serie-mas-rapida-de-tc-pista",
+      "title": "En Río Cuarto, Borgert y se quedaron con las series de TC Pista",
+      "summary": "Se disputaron las baterías de la divisional, el líder de la Copa de Plata se impuso y compartirá con Borgert la primera fila de la penúltima fecha de la Copa de Plata.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/en-rio-cuarto-damiani-se-quedo-con-la-serie-mas-rapida-de-tc-pista/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261115-TCP-Damiani.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-15T13:47:31.000Z",
+      "addedAt": "2026-11-15T14:09:56.565Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-rio-cuarto-sede-de-la-cuarta-fecha-del-campeonato-2027-del-tc",
+      "title": "Río Cuarto, sede de la cuarta fecha del campeonato 2027 del TC | Campeones",
+      "summary": "La categoría volverá en abril a la ciudad donde disputa la anteúltima fecha del calendario 2026.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/rio-cuarto-sede-de-la-cuarta-fecha-del-campeonato-2027-del-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Autodromo-Rio-Cuarto.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-15T12:27:59.000Z",
+      "addedAt": "2026-11-15T14:09:58.792Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-borgert-se-quedo-con-la-pole-de-tc-pista-en-rio-cuarto",
@@ -936,21 +981,6 @@
       "language": "es",
       "publishedAt": "2026-11-14T13:20:50.000Z",
       "addedAt": "2026-11-14T20:06:12.671Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-azar-y-su-objetivo-en-integrarse-entre-uno-de-los-3-de-ultimo-minuto",
-      "title": "TC: Azar y su objetivo en integrarse entre uno de los \"3 de Último Minuto\"",
-      "summary": "En Río Cuarto es la penúltima competencia de la temporada del certamen y en la cual el piloto de Del Viso buscará con el Mercedes-Benz ser protagonista.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-azar-y-su-objetivo-en-integrarse-entre-uno-de-los-3-de-ultimo-minuto/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261113-TC-Azar.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-13T15:07:09.000Z",
-      "addedAt": "2026-11-13T15:32:32.203Z",
       "category": "general",
       "tag": "F1"
     },
@@ -1180,6 +1210,21 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-tc-azar-y-su-objetivo-en-integrarse-entre-uno-de-los-3-de-ultimo-minuto",
+      "title": "TC: Azar y su objetivo en integrarse entre uno de los \"3 de Último Minuto\"",
+      "summary": "En Río Cuarto es la penúltima competencia de la temporada del certamen y en la cual el piloto de Del Viso buscará con el Mercedes-Benz ser protagonista.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-azar-y-su-objetivo-en-integrarse-entre-uno-de-los-3-de-ultimo-minuto/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261113-TC-Azar.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-13T15:07:09.000Z",
+      "addedAt": "2026-11-13T15:32:32.203Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-castellano-define-su-futuro-en-turismo-carretera-sigue-con-dodge-o-ford",
       "title": "Castellano dirime su futuro en Turismo Carretera: ¿sigue con Dodge o Ford?",
       "summary": "En diálogo con Campeones, el piloto de Lobería detalló su actualidad y cómo planifica la temporada venidera; también señaló qué pasará con su participación en TN Clase 3.",
@@ -1236,21 +1281,6 @@
       "language": "es",
       "publishedAt": "2026-11-10T15:32:25.000Z",
       "addedAt": "2026-11-10T15:48:03.899Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-trucco-confirmo-su-futuro-en-el-turismo-carretera",
-      "title": "Juan Martín Trucco confirmó su futuro en el Turismo Carretera | Campeones",
-      "summary": "El piloto de Tres Algarrobos cambió de atención en el Dodge Challenger a mitad de temporada y ya sabe como encarará el año próximo dentro de la \"máxima\".",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/trucco-confirmo-su-futuro-en-el-turismo-carretera/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/juan-martin-trucco-1536x864-1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-09T15:21:46.000Z",
-      "addedAt": "2026-11-09T16:03:51.441Z",
       "category": "general",
       "tag": "F1"
     },
@@ -2050,21 +2080,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-victoria-de-santiago-urrutia-en-tcr-world-tour",
-      "title": "Victoria de Santiago Urrutia en TCR World Tour",
-      "summary": "Con el Geely, el piloto uruguayo encabezó el \"1-2\" del equipo Cyan Racing en la pista china de Chengdu, escoltado por Yann Ehrlacher.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/victoria-de-santiago-urrutia-en-tcr-world-tour/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/261017-TCRWT-Urrutia.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-17T10:11:06.000Z",
-      "addedAt": "2026-10-24T18:44:42.561Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-agustin-canapino-gano-la-final-del-turismo-carretera-en-neuquen-en-una-carrera-accidenta",
       "title": "Agustín Canapino ganó la final del Turismo Carretera en Neuquén en una carrera accidentada",
       "summary": "El Titán de Arrecifes aprovechó el problema que tuvo Matías Rossi y se convirtió en el primer piloto en ganar dos veces en ese autódromo.",
@@ -2470,6 +2485,21 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-trucco-confirmo-su-futuro-en-el-turismo-carretera",
+      "title": "Juan Martín Trucco confirmó su futuro en el Turismo Carretera | Campeones",
+      "summary": "El piloto de Tres Algarrobos cambió de atención en el Dodge Challenger a mitad de temporada y ya sabe como encarará el año próximo dentro de la \"máxima\".",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/trucco-confirmo-su-futuro-en-el-turismo-carretera/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/juan-martin-trucco-1536x864-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-09T15:21:46.000Z",
+      "addedAt": "2026-11-09T16:03:51.441Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-segundo-triunfo-de-ignacio-vilas-en-tc-pista-mouras",
       "title": "Segundo triunfo de Ignacio Vilas en TC Pista Mouras | Campeones",
       "summary": "En La Plata, el correntino se impuso de manera categórica con el Dodge y se llevó otro triunfo, seguido de Damián Pérez e Ignacio Lovich. Iñaki Arrías fue 4° y llega como líder al coronación.",
@@ -2708,42 +2738,12 @@
       "addedAt": "2026-11-04T14:21:16.193Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-el-tc2000-vuelve-a-olavarria-tras-20-anos",
-      "title": "El TC2000 vuelve a Olavarría tras 20 años | Campeones",
-      "summary": "La categoría se decidió por el trazado bonaerense para la anteúltima cita del campeonato, mientras que el coronación será en el “Oscar Cabalén” de Córdoba.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-tc2000-vuelve-a-olavarria-tras-20-anos/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/IMG_0406.png",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-04T11:21:39.000Z",
-      "addedAt": "2026-11-04T14:21:16.194Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-yankelevich-festejo-su-primer-triunfo-en-tc2000-en-el-1-2-3-de-toyota-gazoo-racing",
-      "title": "Yankelevich festejó su primer triunfo en TC2000, en el \"1-2-3\" de Toyota Gazoo Racing",
-      "summary": "En su primera temporada en la categoría y a los 23 años celebró en General Roca su bautismo triunfal, superando a sus compañeros Rossi y Stang.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/yankelevich-festejo-su-primer-triunfo-en-tc2000-en-el-1-2-3-de-toyota-gazoo-racing/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261101-TC2000-Yankelevich.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-01T16:59:04.000Z",
-      "addedAt": "2026-11-16T06:12:42.406Z",
-      "category": "general",
-      "tag": "F1"
     }
   ],
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-16T06:12:44.131Z",
+      "createdAt": "2026-11-16T16:11:59.207Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-san",
@@ -2866,21 +2866,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-un-piloto-argentino-estuvo-presente-en-el-cumpleanos-de-lando-norris-es-un-personaje-id7",
-          "title": "Un piloto argentino estuvo presente en el cumpleaños de Lando Norris: “Es un personaje”",
-          "summary": "Con el sueño de subirse a un Fórmula 1 y trabajando para Ferrari, Sacha Fenestraz compartió la celebración junto al ex-campeón del mundo, con quien mantiene una relación de amistad desde hace muchos años.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/un-piloto-argentino-estuvo-presente-en-el-cumpleanos-de-lando-norris-es-un-personaje-id771659.html",
-          "image": "https://media.tycsports.com/files/2026/11/15/1005155/lando-norris-y-sacha-fenestraz-_862x485.webp?v=1",
-          "body": "Con el sueño de subirse a un Fórmula 1 y trabajando para Ferrari, Sacha Fenestraz compartió la celebración junto al ex-campeón del mundo, con quien mantiene una relación de amistad desde hace muchos años.\n\nLando Norris festejó su cumpleaños número 27, con la presencia del piloto argentino Sacha Fenestraz (@lando). + Seguinos en Lando Norris vivió un día a puro festejo por la celebración de su cumpleaños número 27 y, entre los numerosos amigos que se hicieron presentes para acompañarlo, se encontraba el piloto argentino Sacha Fenestraz , con quien sostiene una relación estrecha desde hace años. Ambos colocaron los cimientos de lo que sería un gran vínculo durante su convivencia en 2018 , cuando competían en diversas categorías del automovilismo mundial con el sueño de llegar a la Fórmula 1.\n\n“27 velas, el mejor momento de todos, con la gente que quiero. Gracias por todos los mensajes” , escribió el británico en una publicación en su cuenta de Instagram, en la cual incluyó múltiples postales de lo vivido en la jornada. “Gracias por el dolor de cabeza compañero y felices 27” , replicó en los comentarios el corredor que, si bien nació en Annecy -Francia-, representa a Argentina.\n\nFenestraz, en una entrevista con Infobae hace algunos años, recordó cómo fue el comienzo de su relación con Lando . “Fue en el equipo Tech 1. Ahí corría contra él y nos hicimos amigos en esa época . A finales de 2016 se me acercó el manager de Lando, Fraser Shader, quien sigue siendo mi representante hoy en día” , explicó. En ese momento, recibió una oportunidad para competir en la Fórmula Renault Europea, temporada en la que finalizó en la quinta posición y Norris, en cambio, fue campeón de la categoría.\n\nNo obstante, la relación alcanzó su punto más álgido después de una cena posterior a la gala ",
-          "language": "es",
-          "publishedAt": "2026-11-15T21:42:31.000Z",
-          "addedAt": "2026-11-15T23:55:40.424Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-como-quedo-la-grilla-definitiva-del-gp-de-estados-unidos-de-la-f1-id768491-html",
           "title": "Cómo quedó la grilla definitiva del GP de Estados Unidos de la F1",
           "summary": "Luego de la qualy quedaron definidas las posiciones de salida para la carrera de este domingo. Colapinto cerró 15° la clasifiación, pero largará penúltimo por una penalización.",
@@ -3001,6 +2986,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-un-piloto-argentino-estuvo-presente-en-el-cumpleanos-de-lando-norris-es-un-personaje-id7",
+          "title": "Un piloto argentino estuvo presente en el cumpleaños de Lando Norris: “Es un personaje”",
+          "summary": "Con el sueño de subirse a un Fórmula 1 y trabajando para Ferrari, Sacha Fenestraz compartió la celebración junto al ex-campeón del mundo, con quien mantiene una relación de amistad desde hace muchos años.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/un-piloto-argentino-estuvo-presente-en-el-cumpleanos-de-lando-norris-es-un-personaje-id771659.html",
+          "image": "https://media.tycsports.com/files/2026/11/15/1005155/lando-norris-y-sacha-fenestraz-_862x485.webp?v=1",
+          "body": "Con el sueño de subirse a un Fórmula 1 y trabajando para Ferrari, Sacha Fenestraz compartió la celebración junto al ex-campeón del mundo, con quien mantiene una relación de amistad desde hace muchos años.\n\nLando Norris festejó su cumpleaños número 27, con la presencia del piloto argentino Sacha Fenestraz (@lando). + Seguinos en Lando Norris vivió un día a puro festejo por la celebración de su cumpleaños número 27 y, entre los numerosos amigos que se hicieron presentes para acompañarlo, se encontraba el piloto argentino Sacha Fenestraz , con quien sostiene una relación estrecha desde hace años. Ambos colocaron los cimientos de lo que sería un gran vínculo durante su convivencia en 2018 , cuando competían en diversas categorías del automovilismo mundial con el sueño de llegar a la Fórmula 1.\n\n“27 velas, el mejor momento de todos, con la gente que quiero. Gracias por todos los mensajes” , escribió el británico en una publicación en su cuenta de Instagram, en la cual incluyó múltiples postales de lo vivido en la jornada. “Gracias por el dolor de cabeza compañero y felices 27” , replicó en los comentarios el corredor que, si bien nació en Annecy -Francia-, representa a Argentina.\n\nFenestraz, en una entrevista con Infobae hace algunos años, recordó cómo fue el comienzo de su relación con Lando . “Fue en el equipo Tech 1. Ahí corría contra él y nos hicimos amigos en esa época . A finales de 2016 se me acercó el manager de Lando, Fraser Shader, quien sigue siendo mi representante hoy en día” , explicó. En ese momento, recibió una oportunidad para competir en la Fórmula Renault Europea, temporada en la que finalizó en la quinta posición y Norris, en cambio, fue campeón de la categoría.\n\nNo obstante, la relación alcanzó su punto más álgido después de una cena posterior a la gala ",
+          "language": "es",
+          "publishedAt": "2026-11-15T21:42:31.000Z",
+          "addedAt": "2026-11-15T23:55:40.424Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-autocritica-post-gp-brasil-id770862-html",
           "title": "Colapinto, autocrítico tras el GP de Brasil: “Largamos pésimo, fue la peor del año”",
           "summary": "El piloto argentino terminó 13° en la cita en Interlagos y, aunque se lamentó por no haber podido sumar puntos, destacó su rendimiento en pista. “Fui al límite toda la carrera”, aseguró.",
@@ -3019,7 +3019,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-11-16T06:12:44.131Z",
+      "createdAt": "2026-11-16T16:11:59.207Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-boca-campeon-formula-1-gran-premio-de-brasil-id770818-html",
@@ -3295,23 +3295,8 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-11-16T06:12:44.131Z",
+      "createdAt": "2026-11-16T16:11:59.207Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-turismo-carretera-augusto-carinelli-joaquin-ochoa-discusion-id771654-html",
-          "title": "“Te vas a matar y vas a matar a uno”: fuerte cruce entre dos pilotos del Turismo Carretera",
-          "summary": "El conflicto comenzó durante la clasificación del sábado, cuando una maniobra dejó al Toyota Camry del joven fuera de competencia. El enfrentamiento continuó en boxes, donde intercambiaron acusaciones y tuvieron que ser separados.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/turismo-carretera-augusto-carinelli-joaquin-ochoa-discusion-id771654.html",
-          "image": "https://media.tycsports.com/files/2026/11/15/1005132/discusion-carinelli-y-ochoa-en-el-tc_416x234.webp",
-          "body": "El conflicto comenzó durante la clasificación del sábado, cuando una maniobra dejó al Toyota Camry del joven fuera de competencia. El enfrentamiento continuó en boxes, donde intercambiaron acusaciones y tuvieron que ser separados.\n\nAugusto Carinelli y Joaquín Ochoa largaron desde los puestos 47° y 44°, respectivamente, en la final en Río Cuarto. + Seguinos en El Turismo Carretera tuvo un momento de tensión este domingo en el autódromo de Río Cuarto, donde Augusto Carinelli y Joaquín Ochoa protagonizaron una fuerte discusión después de las series de la penúltima fecha del campeonato. El conflicto comenzó el sábado, durante la clasificación, cuando ambos pilotos tuvieron un incidente en pista que terminó con el Toyota Camry del rionegrino fuera de competencia.\n\nLa situación generó el enojo de Ochoa, quien se bajó de su auto, pateó la trompa dañada y le hizo gestos a Carinelli cuando pasó por el sector. Los comisarios deportivos responsabilizaron al chaqueño por ingresar de manera peligrosa a la pista y le retiraron todos sus tiempos de clasificación.\n\nSin embargo, el episodio no terminó ahí. Después de la tercera serie de este domingo, Ochoa fue a buscar a su rival para reclamarle por lo sucedido y cuestionarle su comportamiento ante la bandera amarilla. La discusión subió de tono y hasta intervino la madre del joven piloto , por lo que otras personas presentes en boxes tuvieron que separarlos. Entre ellas estuvo Omar Martínez, responsable del equipo de Carinelli.\n\nLa discusión entre Augusto Carinelli y Joaquín Ochoa en Río Cuarto. En medio de la discusión, Carinelli le advirtió que debía ser más prudente y lanzó una fuerte frase dirigida a la madre de Ochoa. \"Te vas a matar y vas a matar a uno , tenés que ser más prudente. Señora, en Posadas le salvé la vida a su hijo\", ",
-          "language": "es",
-          "publishedAt": "2026-11-15T18:44:07.000Z",
-          "addedAt": "2026-11-15T19:52:36.686Z",
-          "category": "general",
-          "tag": "F1"
-        },
         {
           "id": "www-tycsports-com-automovilismo-f1-cerrara-su-temporada-en-catar-y-abu-dabi-id771013-html",
           "title": "La decisión de la F1 de cara al final del campeonato 2026",
@@ -3326,6 +3311,21 @@
           "addedAt": "2026-11-10T21:27:08.923Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-turismo-carretera-augusto-carinelli-joaquin-ochoa-discusion-id771654-html",
+          "title": "“Te vas a matar y vas a matar a uno”: fuerte cruce entre dos pilotos del Turismo Carretera",
+          "summary": "El conflicto comenzó durante la clasificación del sábado, cuando una maniobra dejó al Toyota Camry del joven fuera de competencia. El enfrentamiento continuó en boxes, donde intercambiaron acusaciones y tuvieron que ser separados.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/turismo-carretera-augusto-carinelli-joaquin-ochoa-discusion-id771654.html",
+          "image": "https://media.tycsports.com/files/2026/11/15/1005132/discusion-carinelli-y-ochoa-en-el-tc_416x234.webp",
+          "body": "El conflicto comenzó durante la clasificación del sábado, cuando una maniobra dejó al Toyota Camry del joven fuera de competencia. El enfrentamiento continuó en boxes, donde intercambiaron acusaciones y tuvieron que ser separados.\n\nAugusto Carinelli y Joaquín Ochoa largaron desde los puestos 47° y 44°, respectivamente, en la final en Río Cuarto. + Seguinos en El Turismo Carretera tuvo un momento de tensión este domingo en el autódromo de Río Cuarto, donde Augusto Carinelli y Joaquín Ochoa protagonizaron una fuerte discusión después de las series de la penúltima fecha del campeonato. El conflicto comenzó el sábado, durante la clasificación, cuando ambos pilotos tuvieron un incidente en pista que terminó con el Toyota Camry del rionegrino fuera de competencia.\n\nLa situación generó el enojo de Ochoa, quien se bajó de su auto, pateó la trompa dañada y le hizo gestos a Carinelli cuando pasó por el sector. Los comisarios deportivos responsabilizaron al chaqueño por ingresar de manera peligrosa a la pista y le retiraron todos sus tiempos de clasificación.\n\nSin embargo, el episodio no terminó ahí. Después de la tercera serie de este domingo, Ochoa fue a buscar a su rival para reclamarle por lo sucedido y cuestionarle su comportamiento ante la bandera amarilla. La discusión subió de tono y hasta intervino la madre del joven piloto , por lo que otras personas presentes en boxes tuvieron que separarlos. Entre ellas estuvo Omar Martínez, responsable del equipo de Carinelli.\n\nLa discusión entre Augusto Carinelli y Joaquín Ochoa en Río Cuarto. En medio de la discusión, Carinelli le advirtió que debía ser más prudente y lanzó una fuerte frase dirigida a la madre de Ochoa. \"Te vas a matar y vas a matar a uno , tenés que ser más prudente. Señora, en Posadas le salvé la vida a su hijo\", ",
+          "language": "es",
+          "publishedAt": "2026-11-15T18:44:07.000Z",
+          "addedAt": "2026-11-15T19:52:36.686Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-periodista-suspendido-de-la-formula-1-f1-por-insultar-a-charles-leclerc-id771499-html",
@@ -3571,7 +3571,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-11-16T06:12:44.131Z",
+      "createdAt": "2026-11-16T16:11:59.207Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-antonelli-enciende-las-alarmas-en-mercedes-antes-del-gran-premio-de-mexico-id769332-html",
@@ -3690,21 +3690,6 @@
           "language": "es",
           "publishedAt": "2026-10-23T18:30:51.000Z",
           "addedAt": "2026-10-23T20:32:45.647Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-hay-mucho-que-revisar-como-equipo-flavio-briatore-autocritico-tras-el-gp-de-brasil-de-al",
-          "title": "\"Hay mucho que revisar como equipo\": Briatore, autocrítico tras el GP de Brasil de Alpine",
-          "summary": "El asesor ejecutivo de la escudería francesa habló luego de la problemática jornada en Interlagos de Franco Colapinto y Pierre Gasly.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/hay-mucho-que-revisar-como-equipo-flavio-briatore-autocritico-tras-el-gp-de-brasil-de-alpine-id770922.html",
-          "image": "https://media.tycsports.com/files/2026/11/09/1003897/flavio-briatore_1440x810.webp?v=1",
-          "body": "El asesor ejecutivo de la escudería francesa habló luego de la problemática jornada en Interlagos de Franco Colapinto y Pierre Gasly.\n\nFlavio Briatore, asesor ejecutivo de Alpine, escudería de Franco Colapinto. (Kym Illman/Getty Images) + Seguinos en El Gran Premio de Brasil de la Fórmula 1 dejó más preocupaciones que certezas en Alpine. Después de otra carrera sin sumar puntos, Flavio Briatore hizo una fuerte autocrítica sobre el rendimiento del equipo y reconoció que deberán encontrar soluciones para revertir los problemas que afectaron a Franco Colapinto y Pierre Gasly en Interlagos.\n\nA través de su cuenta de Instagram, el italiano no ocultó su malestar por el resultado: \"Un final decepcionante para un fin de semana en el que, en general, hemos tenido un rendimiento bajo\" , expresó.\n\nMás allá del balance negativo, el dirigente identificó uno de los principales inconvenientes que sufrió la escudería francesa durante la competencia: la falta de competitividad del monoplaza en condiciones de lluvia. \"Está claro que tenemos trabajo que hacer para entender cómo maximizar el coche en el mojado, ya que fue una debilidad para nosotros este fin de semana\" , aseguró, dejando en evidencia que el comportamiento del auto será uno de los aspectos a analizar.\n\nEn ese sentido, Briatore explicó que Alpine había mostrado señales positivas cuando la pista comenzó a secarse, aunque esa mejora desapareció con el regreso de las precipitaciones. \"Estábamos entre los más rápidos en los neumáticos Soft en la fase de la carrera cuando todos cambiaron a neumáticos secos, pero pronto ya no fue el caso cuando volvió la lluvia. Hay mucho que revisar como equipo antes de mirar hacia delante la próxima carrera en Las Vegas\" , detalló.",
-          "language": "es",
-          "publishedAt": "2026-11-09T15:26:56.000Z",
-          "addedAt": "2026-11-09T16:03:49.708Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3842,13 +3827,7 @@
           "addedAt": "2026-11-11T22:37:35.185Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-11-16T06:12:44.131Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-gasly-apunto-contra-el-rendimiento-de-alpine-y-lamento-no-sumar-en-brasil-fue-decepciona",
           "title": "Gasly apuntó contra el rendimiento de Alpine y lamentó no sumar en Brasil: “Fue decepcionante”",
@@ -3863,7 +3842,13 @@
           "addedAt": "2026-11-09T06:05:57.849Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-11-16T16:11:59.207Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-enojado-por-la-mala-qualy-en-brasil-por-que-tan-lentos-id770819-html",
           "title": "Franco Colapinto, enojado por la mala qualy en Brasil: \"¿Por qué tan lentos?\"",
@@ -4030,21 +4015,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-tc-agustin-canapino-se-llevo-la-2a-serie-riocuartense-sin-apremios",
-          "title": "TC: Agustín Canapino se llevó la 2ª serie riocuartense sin apremios",
-          "summary": "El “Titán” estrenó la motorización de “Pope” Bonelli en su Chevrolet Camaro con su 2º triunfo parcial de 2026, tras prevalecer en la disputa con Jonatan Castellano (Dodge Challenger), que había hecho la “pole” pero largó 2º en la serie.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-agustin-canapino-se-llevo-la-2a-serie-riocuartense-sin-apremios/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Canapino-TC-2026-1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-15T14:32:49.000Z",
-          "addedAt": "2026-11-15T19:52:39.181Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "carburando-com-ar-blog-colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
           "title": "Colapinto no es el único: dos pilotos más suman sanciones en la parrilla de Austin",
           "summary": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico…",
@@ -4058,6 +4028,36 @@
           "addedAt": "2026-11-15T06:14:01.040Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-santero-es-el-lider-de-ultimo-minuto-sabiamos-que-iba-a-ser-asi-de-apretado",
+          "title": "Santero es el líder de último minuto: \"Sabíamos que iba a ser así de apretado\"",
+          "summary": "El mendocino ingresó a la Copa de Oro del Turismo Carretera delante de todos, con una ventaja de 10 puntos sobre Agustín Canapino.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/santero-es-el-lider-de-ultimo-minuto-sabiamos-que-iba-a-ser-asi-de-apretado/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/TC-Santero-Rio-Cuarto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-16T16:04:39.000Z",
+          "addedAt": "2026-11-16T16:11:47.525Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
+          "id": "campeones-com-ar-trotta-enojado-por-la-falta-de-etica-de-otros-equipos-de-tc",
+          "title": "Trotta enojado por la \"falta de ética\" de otros equipos de TC",
+          "summary": "Quien dirige el equipo Trotta Racing manifestó su molestia porque tanto Chapur como Faín fueron llamados por otras escuadras.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/trotta-enojado-por-la-falta-de-etica-de-otros-equipos-de-tc/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261116-TC-Esteban-Trotta.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-16T14:41:22.000Z",
+          "addedAt": "2026-11-16T16:11:48.532Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-tc-en-rio-cuarto-rossi-volvio-a-la-victoria-y-canapino-hizo-negocio-en-la-copa-de-oro",
@@ -4105,19 +4105,19 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-f1-colapinto-termino-13-en-san-pablo-tras-resistir-con-el-alpine",
-          "title": "F1: Colapinto terminó 13.° en San Pablo, tras resistir con el Alpine",
-          "summary": "Las condiciones de pista por la lluvia, junto a la inestabilidad del A526, fueron los desafíos que debió afrontar en Interlagos para completar la carrera que ganó Lando Norris, con el McLaren.",
+          "id": "campeones-com-ar-tc-agustin-canapino-se-llevo-la-2a-serie-riocuartense-sin-apremios",
+          "title": "TC: Agustín Canapino se llevó la 2ª serie riocuartense sin apremios",
+          "summary": "El “Titán” estrenó la motorización de “Pope” Bonelli en su Chevrolet Camaro con su 2º triunfo parcial de 2026, tras prevalecer en la disputa con Jonatan Castellano (Dodge Challenger), que había hecho la “pole” pero largó 2º en la serie.",
           "source": "Campeones",
           "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/f1-colapinto-termino-13-en-san-pablo-tras-resistir-con-el-alpine/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261108-F1-Colapinto-A526-GPSP.jpg",
+          "url": "https://campeones.com.ar/tc-agustin-canapino-se-llevo-la-2a-serie-riocuartense-sin-apremios/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Canapino-TC-2026-1.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-11-08T19:49:27.000Z",
-          "addedAt": "2026-11-15T23:55:44.090Z",
+          "publishedAt": "2026-11-15T14:32:49.000Z",
+          "addedAt": "2026-11-15T19:52:39.181Z",
           "category": "argentino",
-          "tag": "Franco"
+          "tag": "Argentino"
         }
       ]
     }
