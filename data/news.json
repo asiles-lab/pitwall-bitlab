@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-18T07:12:37.964Z",
-  "checkedAt": "2026-11-18T07:12:37.964Z",
+  "updatedAt": "2026-11-18T16:37:27.077Z",
+  "checkedAt": "2026-11-18T16:37:27.077Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,6 +40,21 @@
   },
   "backlog": [
     {
+      "id": "campeones-com-ar-nacho-fain-anuncio-que-deja-el-trotta-racing",
+      "title": "\"Nacho\" Fain anunció que deja el Trotta Racing | Campeones",
+      "summary": "El de Villa Minetti no seguirá formando parte de la estructura con sede en Chacabuco, algo que se venía comentando desde la carrera en Río Cuarto.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/nacho-fain-anuncio-que-deja-el-trotta-racing/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/SaveClip.App_836571177_18469702723140148_5516655084561381431_n-e1795005796257.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-18T12:43:34.000Z",
+      "addedAt": "2026-11-18T16:37:28.602Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "www-tycsports-com-automovilismo-el-novedoso-cambio-de-reglamento-que-podria-transformar-las-carreras-de-la-formula-1-id7",
       "title": "El novedoso cambio de reglamento que podría transformar las carreras de la Fórmula 1",
       "summary": "Algunos autos de la parrilla está pidiendo modificaciones en el límite de velocidad para que se puedan hacer más adelantamientos durante las carreras.",
@@ -53,36 +68,6 @@
       "addedAt": "2026-11-17T23:58:21.608Z",
       "category": "general",
       "tag": "Carrera"
-    },
-    {
-      "id": "campeones-com-ar-esta-noche-grandes-campeones-69",
-      "title": "Esta noche: Grandes Campeones",
-      "summary": "Martes a las 22 hs: Osvaldo «Cocho» López, Ángel Guerra, Gabriel Raies y José Luis Di Palma por El Garage TV y en simultáneo por nuestra web.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/esta-noche-grandes-campeones-69/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2025/02/GRANDES-CAMPEONES-2025-GUERRA-COCHO-LOPEZ-RAIES-DI-PALMA.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-17T20:50:58.000Z",
-      "addedAt": "2026-11-17T23:58:22.724Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-turismo-carretera-la-grilla-de-largada-de-la-final-en-rio-cuarto",
-      "title": "Turismo Carretera: la grilla de largada de la Final en Río Cuarto",
-      "summary": "Como sucedió en la recordada carrera de San Nicolás 2025, Matías Rossi (Toyota Camry), que necesita ganar para llegar con posibilidades al Coronación, y Agustín Canapino (Chevrolet Camaro), que está 3º en la Copa de Oro, compartirán la primera fila.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/turismo-carretera-la-grilla-de-largada-de-la-final-en-rio-cuarto/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/TC-Boxes-Rio-Cuarto-2026-1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-15T16:20:55.000Z",
-      "addedAt": "2026-11-17T08:12:49.296Z",
-      "category": "argentino",
-      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-briatore-evaluo-el-decepcionante-fin-de-semana-de-colapinto-y-gasly-en-interlagos",
@@ -115,6 +100,21 @@
       "tag": "Franco"
     },
     {
+      "id": "campeones-com-ar-esta-noche-grandes-campeones-69",
+      "title": "Esta noche: Grandes Campeones",
+      "summary": "Martes a las 22 hs: Osvaldo «Cocho» López, Ángel Guerra, Gabriel Raies y José Luis Di Palma por El Garage TV y en simultáneo por nuestra web.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/esta-noche-grandes-campeones-69/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2025/02/GRANDES-CAMPEONES-2025-GUERRA-COCHO-LOPEZ-RAIES-DI-PALMA.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-17T20:50:58.000Z",
+      "addedAt": "2026-11-17T23:58:22.724Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-acuerdo-en-formula-1-aprueba-volver-a-usar-motores-v8",
       "title": "Acuerdo en Fórmula 1 aprueba volver a usar motores V8",
       "summary": "Tras la reunión que se llevó a cabo en Londres entre la FIA, FOM y fabricantes coincidieron en las nuevas regulaciones a partir de 2030.",
@@ -128,6 +128,21 @@
       "addedAt": "2026-11-17T23:58:23.059Z",
       "category": "general",
       "tag": "Reglamento"
+    },
+    {
+      "id": "campeones-com-ar-turismo-carretera-la-grilla-de-largada-de-la-final-en-rio-cuarto",
+      "title": "Turismo Carretera: la grilla de largada de la Final en Río Cuarto",
+      "summary": "Como sucedió en la recordada carrera de San Nicolás 2025, Matías Rossi (Toyota Camry), que necesita ganar para llegar con posibilidades al Coronación, y Agustín Canapino (Chevrolet Camaro), que está 3º en la Copa de Oro, compartirán la primera fila.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/turismo-carretera-la-grilla-de-largada-de-la-final-en-rio-cuarto/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/TC-Boxes-Rio-Cuarto-2026-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-15T16:20:55.000Z",
+      "addedAt": "2026-11-17T08:12:49.296Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-shell-acompana-el-regreso-del-tc-a-rio-cuarto-despues-de-14-anos",
@@ -205,21 +220,6 @@
       "tag": "Franco"
     },
     {
-      "id": "campeones-com-ar-tc-rossi-puso-fin-a-su-peor-sequia-y-accedio-al-top-10-historicos-de-ganadores",
-      "title": "TC: Rossi puso fin a su peor sequía y accedió al “top 10” histórico de ganadores",
-      "summary": "En Río Cuarto, el “Misil” cortó una racha de 33 carreras sin éxitos y alcanzó su 27ª victoria en el Turismo Carretera, con lo que igualó la línea histórica de Oscar Castellano, Emilio Satriano y Christian Ledesma.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-rossi-puso-fin-a-su-peor-sequia-y-accedio-al-top-10-historicos-de-ganadores/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Rossi-Victoria-TC-2026-e1794918765936.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-17T12:29:26.000Z",
-      "addedAt": "2026-11-17T17:43:05.411Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-antonelli-cumplio-su-promesa-y-se-tino-el-pelo-el-nuevo-look-del-campeon-mas-joven-en-la",
       "title": "Antonelli cumplió su promesa y se tiñó el pelo: el nuevo look del campeón más joven en la historia de la F1",
       "summary": "El campeón más joven de la historia de la Fórmula 1 arribó a la sede de Mercedes Benz con el pelo teñido con los colores de la bandera de Italia y, como se podía prever, llamó la atención de propios y extraños.",
@@ -250,34 +250,49 @@
       "tag": "Carrera"
     },
     {
-      "id": "campeones-com-ar-sensaciones-de-los-candidatos-por-el-titulo-de-tc",
-      "title": "Las sensaciones de los candidatos por el título de TC",
-      "summary": "Seis de los potenciales candidatos que definirán la \"Copa de Oro RUS\" en La Plata, evaluaron sus pretensiones tras la penúltima fecha disputada en Río Cuarto.",
+      "id": "campeones-com-ar-tres-ascensos-confirmados-al-tc-pista",
+      "title": "Tres ascensos confirmados al TC Pista | Campeones",
+      "summary": "La CAF habilitó a participar en la \"telonera\" del Turismo Carretera a Matías Frano, Juan Pablo Alberti y Marcelo Beraldi, a partir de la fecha en La Plata.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/sensaciones-de-los-candidatos-por-el-titulo-de-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Rossi-Santero.jpg",
+      "url": "https://campeones.com.ar/tres-ascensos-confirmados-al-tc-pista/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/gui2901-1794772070267-447497928.thumb_.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-17T22:05:53.000Z",
-      "addedAt": "2026-11-17T23:58:23.058Z",
+      "publishedAt": "2026-11-18T13:00:29.000Z",
+      "addedAt": "2026-11-18T16:37:29.728Z",
       "category": "general",
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-ebarlin-en-tiempos-de-decisiones-para-continuar-en-turismo-carretera",
-      "title": "Ebarlín en tiempos de decisiones para continuar en Turismo Carretera",
-      "summary": "El vínculo del piloto de Benito Juárez con el equipo de Diego De Carlo podría culminar en La Plata y ante ello está analizando opciones de cara a 2027.",
+      "id": "campeones-com-ar-las-cuentas-de-marc-marquez-para-ser-campeon-de-motogp-en-portugal",
+      "title": "Las cuentas de Marc Márquez para ser campeón de MotoGP en Portugal",
+      "summary": "El 10mo título mundial lo pondría delante de Valentino Rossi en la estadística y a la par de Giacomo Agostini en la clase mayor.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/ebarlin-en-tiempos-de-decisiones-para-continuar-en-turismo-carretera/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Ebarlin.jpg",
+      "url": "https://campeones.com.ar/las-cuentas-de-marc-marquez-para-ser-campeon-de-motogp-en-portugal/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Marc-Marquez-Ducati-archivo-v2.jpeg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-17T20:35:39.000Z",
-      "addedAt": "2026-11-17T23:58:23.049Z",
+      "publishedAt": "2026-11-18T12:10:05.000Z",
+      "addedAt": "2026-11-18T16:37:30.083Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-mangoni-aclaro-lo-que-paso-con-werner-y-el-pedido-de-disculpas-que-recibio",
+      "title": "Mangoni aclaró lo que pasó con Werner y el pedido de disculpas que recibió",
+      "summary": "El balcarceño recibió duros mensajes en redes sociales pero a la vez contó algo de Werner: \"Me pidió disculpas y haciéndose cargo del error\".",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/mangoni-aclaro-lo-que-paso-con-werner-y-el-pedido-de-disculpas-que-recibio/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Mangoni-Rio-Cuarto-TC-rostro-piloto.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-17T14:20:12.000Z",
+      "addedAt": "2026-11-18T16:37:29.719Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-otro-bmw-en-el-2027-rodrigo-lugon-se-plantea-un-cambio-en-el-turismo-carretera",
@@ -321,36 +336,6 @@
       "language": "es",
       "publishedAt": "2026-11-16T14:17:04.000Z",
       "addedAt": "2026-11-16T16:11:48.534Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-damiani-se-impuso-en-rio-cuarto-y-tomo-distancia-en-la-copa-de-plata-de-tc-pista",
-      "title": "Damiani se impuso en Río Cuarto y tomó distancia en la Copa de Plata de TC Pista",
-      "summary": "Contundente victoria logró el nuevejuliense con el Chevrolet de Canning Motorsports en la pista cordobesa y con ello amplió la ventaja de cara a la definición en La Plata.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/damiani-se-impuso-en-rio-cuarto-y-tomo-distancia-en-la-copa-de-plata-de-tc-pista/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261114-TCPista-BDamiani.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-15T16:29:48.000Z",
-      "addedAt": "2026-11-15T19:52:39.047Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-futuro-ovalado-para-ignacio-fain-en-el-tc",
-      "title": "¿Futuro “ovalado” para Ignacio Fain en el TC?",
-      "summary": "El santafesino, que actualmente corre con un Torino del Trotta Racing Team, suena para conducir el segundo Ford Mustang del JPG Racing de Juan Pablo Gianini.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/futuro-ovalado-para-ignacio-fain-en-el-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2025/07/Ignacio-Fain-Torino-1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-15T13:37:25.000Z",
-      "addedAt": "2026-11-16T06:12:38.488Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -460,6 +445,21 @@
       "tag": "Franco"
     },
     {
+      "id": "campeones-com-ar-tc-rossi-puso-fin-a-su-peor-sequia-y-accedio-al-top-10-historicos-de-ganadores",
+      "title": "TC: Rossi puso fin a su peor sequía y accedió al “top 10” histórico de ganadores",
+      "summary": "En Río Cuarto, el “Misil” cortó una racha de 33 carreras sin éxitos y alcanzó su 27ª victoria en el Turismo Carretera, con lo que igualó la línea histórica de Oscar Castellano, Emilio Satriano y Christian Ledesma.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-rossi-puso-fin-a-su-peor-sequia-y-accedio-al-top-10-historicos-de-ganadores/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Rossi-Victoria-TC-2026-e1794918765936.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-17T12:29:26.000Z",
+      "addedAt": "2026-11-17T17:43:05.411Z",
+      "category": "general",
+      "tag": "Carrera"
+    },
+    {
       "id": "campeones-com-ar-tc2000-confirmo-que-cierra-la-temporada-en-el-autodromo-oscar-cabalen",
       "title": "TC2000 confirmó que cierra la temporada en el autódromo \"Oscar Cabalén\"",
       "summary": "El Gran Premio Coronación será en la pista cordobesa, por quinta vez en su historial, y se disputará el fin de semana del 12 y 13 de diciembre.",
@@ -473,6 +473,36 @@
       "addedAt": "2026-11-17T00:20:53.564Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-damiani-se-impuso-en-rio-cuarto-y-tomo-distancia-en-la-copa-de-plata-de-tc-pista",
+      "title": "Damiani se impuso en Río Cuarto y tomó distancia en la Copa de Plata de TC Pista",
+      "summary": "Contundente victoria logró el nuevejuliense con el Chevrolet de Canning Motorsports en la pista cordobesa y con ello amplió la ventaja de cara a la definición en La Plata.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/damiani-se-impuso-en-rio-cuarto-y-tomo-distancia-en-la-copa-de-plata-de-tc-pista/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261114-TCPista-BDamiani.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-15T16:29:48.000Z",
+      "addedAt": "2026-11-15T19:52:39.047Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-futuro-ovalado-para-ignacio-fain-en-el-tc",
+      "title": "¿Futuro “ovalado” para Ignacio Fain en el TC?",
+      "summary": "El santafesino, que actualmente corre con un Torino del Trotta Racing Team, suena para conducir el segundo Ford Mustang del JPG Racing de Juan Pablo Gianini.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/futuro-ovalado-para-ignacio-fain-en-el-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2025/07/Ignacio-Fain-Torino-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-15T13:37:25.000Z",
+      "addedAt": "2026-11-16T06:12:38.488Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-jonatan-castellano-resurgio-en-rio-cuarto-y-logro-la-pole-position-del-tc",
@@ -595,6 +625,36 @@
       "tag": "Carrera"
     },
     {
+      "id": "campeones-com-ar-sensaciones-de-los-candidatos-por-el-titulo-de-tc",
+      "title": "Las sensaciones de los candidatos por el título de TC",
+      "summary": "Seis de los potenciales candidatos que definirán la \"Copa de Oro RUS\" en La Plata, evaluaron sus pretensiones tras la penúltima fecha disputada en Río Cuarto.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/sensaciones-de-los-candidatos-por-el-titulo-de-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Rossi-Santero.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-17T22:05:53.000Z",
+      "addedAt": "2026-11-17T23:58:23.058Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-ebarlin-en-tiempos-de-decisiones-para-continuar-en-turismo-carretera",
+      "title": "Ebarlín en tiempos de decisiones para continuar en Turismo Carretera",
+      "summary": "El vínculo del piloto de Benito Juárez con el equipo de Diego De Carlo podría culminar en La Plata y ante ello está analizando opciones de cara a 2027.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/ebarlin-en-tiempos-de-decisiones-para-continuar-en-turismo-carretera/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Ebarlin.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-17T20:35:39.000Z",
+      "addedAt": "2026-11-17T23:58:23.049Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-chapur-y-una-contundente-confesion-se-nos-escapo-el-campeonato-de-tc",
       "title": "Chapur y una contundente confesión: «Se nos escapó el campeonato de TC»",
       "summary": "En diálogo con Campeones, el piloto cordobés habló sobre sus posibilidades para la definición de la \"Copa de Oro\" y se refirió respecto a su continuidad con Trotta Racing.",
@@ -606,21 +666,6 @@
       "language": "es",
       "publishedAt": "2026-11-17T17:39:50.000Z",
       "addedAt": "2026-11-17T17:43:04.383Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-se-armaran-otros-dos-mercedes-benz-de-turismo-carretera",
-      "title": "Se armarán otros dos Mercedes-Benz de Turismo Carretera",
-      "summary": "Ambas unidades son alistadas en el taller de la familia Jakos, en la localidad bonaerense de Ramos Mejía, siendo Andrés Jakos uno de sus pilotos.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/se-armaran-otros-dos-mercedes-benz-de-turismo-carretera/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Mercedes-Benz.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-17T15:08:31.000Z",
-      "addedAt": "2026-11-17T17:43:04.391Z",
       "category": "general",
       "tag": "F1"
     },
@@ -1015,19 +1060,19 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus",
-      "title": "'Pechito' López se enfoca en la próxima cita del WEC: \"Será la última carrera del Lexus\"",
-      "summary": "Los esfuerzos en la fecha de Barcelona no lograron recuperar al N°87 de los contratiempos y la vista está en la última del año.",
+      "id": "campeones-com-ar-se-armaran-otros-dos-mercedes-benz-de-turismo-carretera",
+      "title": "Se armarán otros dos Mercedes-Benz de Turismo Carretera",
+      "summary": "Ambas unidades son alistadas en el taller de la familia Jakos, en la localidad bonaerense de Ramos Mejía, siendo Andrés Jakos uno de sus pilotos.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/DPPI-WEC-Akkodis-Lopez-Lexus-Barcelona-2026-3.jpg",
+      "url": "https://campeones.com.ar/se-armaran-otros-dos-mercedes-benz-de-turismo-carretera/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Mercedes-Benz.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-10-19T15:03:50.000Z",
-      "addedAt": "2026-10-26T23:46:34.595Z",
-      "category": "argentino",
-      "tag": "Argentino"
+      "publishedAt": "2026-11-17T15:08:31.000Z",
+      "addedAt": "2026-11-17T17:43:04.391Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-marcos-landa-y-un-destino-incierto-en-turismo-carretera",
@@ -1041,66 +1086,6 @@
       "language": "es",
       "publishedAt": "2026-11-16T15:48:33.000Z",
       "addedAt": "2026-11-16T16:11:49.294Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-el-ultimo-parcial-en-rio-cuarto-termino-con-festejo-de-rossi",
-      "title": "TC: el último parcial en Río Cuarto terminó con festejo de Rossi",
-      "summary": "El “Misil” no le dio posibilidades con su Toyota Camry a Marcos Landa (Chevrolet Camaro) y alcanzó su 5ª victoria parcial de la temporada 2026, lo que lo transforma en el más ganador del año en ese rubro y le da la “pole” para la Final.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-el-ultimo-parcial-en-rio-cuarto-termino-con-festejo-de-rossi/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Rossi-TC-2026.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-15T14:59:35.000Z",
-      "addedAt": "2026-11-15T19:52:39.185Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-otto-fritzler-el-dueno-de-la-1a-bateria-en-rio-cuarto",
-      "title": "TC: Otto Fritzler, el dueño de la 1ª batería en Río Cuarto",
-      "summary": "En una serie que tuvo la intervención del auto de seguridad, el piloto de Mercedes-Benz controló a Mauricio Lambiris (Ford Mustang) y logró su 4ª victoria parcial de la temporada.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-otto-fritzler-el-dueno-de-la-1a-bateria-en-rio-cuarto/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Fritzler-TC-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-15T14:07:27.000Z",
-      "addedAt": "2026-11-15T14:09:55.728Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-en-rio-cuarto-damiani-se-quedo-con-la-serie-mas-rapida-de-tc-pista",
-      "title": "En Río Cuarto, Borgert y se quedaron con las series de TC Pista",
-      "summary": "Se disputaron las baterías de la divisional, el líder de la Copa de Plata se impuso y compartirá con Borgert la primera fila de la penúltima fecha de la Copa de Plata.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/en-rio-cuarto-damiani-se-quedo-con-la-serie-mas-rapida-de-tc-pista/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261115-TCP-Damiani.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-15T13:47:31.000Z",
-      "addedAt": "2026-11-15T14:09:56.565Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-rio-cuarto-sede-de-la-cuarta-fecha-del-campeonato-2027-del-tc",
-      "title": "Río Cuarto, sede de la cuarta fecha del campeonato 2027 del TC | Campeones",
-      "summary": "La categoría volverá en abril a la ciudad donde disputa la anteúltima fecha del calendario 2026.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/rio-cuarto-sede-de-la-cuarta-fecha-del-campeonato-2027-del-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Autodromo-Rio-Cuarto.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-15T12:27:59.000Z",
-      "addedAt": "2026-11-15T14:09:58.792Z",
       "category": "general",
       "tag": "F1"
     },
@@ -1311,6 +1296,66 @@
       "language": "es",
       "publishedAt": "2026-10-23T11:05:45.000Z",
       "addedAt": "2026-10-23T12:10:31.387Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc-el-ultimo-parcial-en-rio-cuarto-termino-con-festejo-de-rossi",
+      "title": "TC: el último parcial en Río Cuarto terminó con festejo de Rossi",
+      "summary": "El “Misil” no le dio posibilidades con su Toyota Camry a Marcos Landa (Chevrolet Camaro) y alcanzó su 5ª victoria parcial de la temporada 2026, lo que lo transforma en el más ganador del año en ese rubro y le da la “pole” para la Final.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-el-ultimo-parcial-en-rio-cuarto-termino-con-festejo-de-rossi/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Rossi-TC-2026.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-15T14:59:35.000Z",
+      "addedAt": "2026-11-15T19:52:39.185Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-tc-otto-fritzler-el-dueno-de-la-1a-bateria-en-rio-cuarto",
+      "title": "TC: Otto Fritzler, el dueño de la 1ª batería en Río Cuarto",
+      "summary": "En una serie que tuvo la intervención del auto de seguridad, el piloto de Mercedes-Benz controló a Mauricio Lambiris (Ford Mustang) y logró su 4ª victoria parcial de la temporada.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-otto-fritzler-el-dueno-de-la-1a-bateria-en-rio-cuarto/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Fritzler-TC-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-15T14:07:27.000Z",
+      "addedAt": "2026-11-15T14:09:55.728Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-en-rio-cuarto-damiani-se-quedo-con-la-serie-mas-rapida-de-tc-pista",
+      "title": "En Río Cuarto, Borgert y se quedaron con las series de TC Pista",
+      "summary": "Se disputaron las baterías de la divisional, el líder de la Copa de Plata se impuso y compartirá con Borgert la primera fila de la penúltima fecha de la Copa de Plata.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/en-rio-cuarto-damiani-se-quedo-con-la-serie-mas-rapida-de-tc-pista/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261115-TCP-Damiani.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-15T13:47:31.000Z",
+      "addedAt": "2026-11-15T14:09:56.565Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-rio-cuarto-sede-de-la-cuarta-fecha-del-campeonato-2027-del-tc",
+      "title": "Río Cuarto, sede de la cuarta fecha del campeonato 2027 del TC | Campeones",
+      "summary": "La categoría volverá en abril a la ciudad donde disputa la anteúltima fecha del calendario 2026.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/rio-cuarto-sede-de-la-cuarta-fecha-del-campeonato-2027-del-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Autodromo-Rio-Cuarto.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-15T12:27:59.000Z",
+      "addedAt": "2026-11-15T14:09:58.792Z",
       "category": "general",
       "tag": "F1"
     },
@@ -2693,57 +2738,12 @@
       "addedAt": "2026-11-07T23:03:41.559Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-pista-mouras-ignacio-vilas-revalido-su-buen-andar-y-se-quedo-con-la-clasificacion",
-      "title": "TC Pista Mouras: Ignacio Vilas revalidó su buen andar y se quedó con la clasificación | Campeones",
-      "summary": "El correntino fue el más rápido con la Dodge del Galarza Racing tras liderar los ensayos matutinos. Damián Pérez fue segundo y lo acompañará en la primera fila de la Serie Única.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-pista-mouras-ignacio-vilas-revalido-su-buen-andar-y-se-quedo-con-la-clasificacion/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/PHOTO-2026-11-07-14-32-06.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-07T20:27:16.000Z",
-      "addedAt": "2026-11-07T23:03:41.378Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-mouras-arrigoni-arranco-adelante-en-la-plata",
-      "title": "TC Mouras: Arrigoni arrancó adelante en La Plata | Campeones",
-      "summary": "El piloto del Rus Med Team lideró con la Dodge en la mañana de sábado en La Plata, mientras que el Ford de Matías Frano se quedó con el segundo ensayo.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-mouras-arrigoni-arranco-adelante-en-la-plata/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/dsc-7927-jpg-crop-1794064680821-609400123.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-07T16:47:28.000Z",
-      "addedAt": "2026-11-07T19:30:28.823Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc-pista-pick-up-boccanera-volvio-y-domino-el-primer-ensayo",
-      "title": "TC Pista Pick Up: Boccanera volvió y dominó el primer ensayo",
-      "summary": "Tras su frustrada participación en Balcarce, el piloto de Nicanor Otamendi marcó el mejor tiempo en el entrenamiento que abrió la actividad del TCPPK en La Plata, donde se realiza la 3ª y anteúltima fecha de la Copa Coronación 2026.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-pista-pick-up-boccanera-volvio-y-domino-el-primer-ensayo/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Boccanera-TCPPK-2026.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-07T14:07:50.000Z",
-      "addedAt": "2026-11-07T15:11:22.480Z",
-      "category": "general",
-      "tag": "F1"
     }
   ],
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-18T07:12:45.948Z",
+      "createdAt": "2026-11-18T16:37:34.453Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-alpine-mejora-motor-franco-colapinto-gran-premio-de-las-vegas-id771939-html",
@@ -2761,17 +2761,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-nuevo-diseno-alpine-formula-1-id771942-html",
-          "title": "Colapinto y Alpine lucirán un nuevo diseño en las tres últimas carreras de la Fórmula 1",
-          "summary": "La escudería francesa anunció la nueva decoración que utilizará en los Grandes Premios de Las Vegas, Catar y Abu Dabi.",
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-las-vegas-id77183",
+          "title": "F1: hora y dónde ver en vivo la práctica libre de Colapinto en el GP de Las Vegas",
+          "summary": "Este jueves, en el Circuito de Las Vegas, se llevarán a cabo las Prácticas Libres 1 y 2 de una nueva fecha de la Fórmula 1 2026 con la participación de Colapinto.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/nuevo-diseno-alpine-formula-1-id771942.html",
-          "image": "https://media.tycsports.com/files/2026/11/17/1005649/aslpine_862x485.webp?v=1",
-          "body": "La escudería francesa anunció la nueva decoración que utilizará en los Grandes Premios de Las Vegas, Catar y Abu Dabi.\n\nEl nuevo diseño del A526 para las tres últimas carreras de la F1. + Seguinos en Alpine estrenará un nuevo diseño en sus monoplazas en el cierre de la temporada 2026 de la Fórmula 1 . La escudería francesa presentó la nueva livery que lucirán los autos de Franco Colapinto y Pierre Gasly en los Grandes Premios de Las Vegas, Catar y Abu Dhabi.\n\nLa principal novedad estética está vinculada a uno de sus patrocinadores principales, BWT. La nueva decoración le dará mayor protagonismo al color rosa , característico de la compañía austríaca.\n\nA diferencia del diseño que el equipo galo utilizó a lo largo de la temporada, en el que el azul era preponderante, ahora los pompones laterales del A526 pasarán a ser rosas en su totalidad y las letras del sponsor aparecerán en azul.\n\nAnte esta modificación, el rosa volverá a ser protagonista en los monoplazas de Colapinto y Gasly bajo las luces del circuito callejero de Las Vegas, ya que la carrera se correrá de noche y luego en las citas en Medio Oriente.",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-las-vegas-id771834.html",
+          "image": "https://media.tycsports.com/files/2026/11/16/1005424/alpine_1440x810.webp?v=1",
+          "body": "Este jueves, en el Circuito de Las Vegas, se llevarán a cabo las Prácticas Libres 1 y 2 de una nueva fecha de la Fórmula 1 2026 con la participación de Colapinto.\n\nFranco Colapinto marcha 12° con 31 puntos en el Campeonato de Pilotos. (Photo by Clive Rose/Getty Images) + Seguinos en La temporada 2026 de la Fórmula 1, que ya tiene a Kimi Antonelli (Mercedes) como campeón, tendrá su 22° carrera del año en el Gran Premio de Las Vegas . Durante la noche del jueves y la madrugada del viernes en Argentina se desarrollarán las prácticas libres 1 y 2 con la presencia de Franco Colapinto de la mano de Alpine , luego de culminar decimotercero en el GP de Brasil. Conocé los detalles.\n\nTambién podés seguir la cobertura de la Fórmula 1 en vivo por Carburando.com .\n\nUbicado en el corazón de Las Vegas, el nuevo circuito urbano de 6,2 km y 17 curvas serpentea pasando por lugares emblemáticos como el Caesars Palace, el Bellagio y el Venetian . Con velocidades promedio similares a las de Monza, también conocido como el \"Templo de la Velocidad\" de la Fórmula 1, los aficionados tienen garantizada mucha acción y adelantamientos espectaculares.\n\nTodo el fin de semana de la Fórmula 1 se podrá ver en vivo en la Argentina a través de Fox Sports . Además, vas a poder seguir el minuto a minuto de la competición en el sitio web www.tycsports.com .",
           "language": "es",
-          "publishedAt": "2026-11-18T00:03:25.000Z",
-          "addedAt": "2026-11-18T07:12:38.843Z",
+          "publishedAt": "2026-11-18T15:33:48.000Z",
+          "addedAt": "2026-11-18T16:37:28.055Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2787,6 +2787,21 @@
           "language": "es",
           "publishedAt": "2026-11-16T21:25:24.000Z",
           "addedAt": "2026-11-17T00:20:51.607Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-nuevo-diseno-alpine-formula-1-id771942-html",
+          "title": "Colapinto y Alpine lucirán un nuevo diseño en las tres últimas carreras de la Fórmula 1",
+          "summary": "La escudería francesa anunció la nueva decoración que utilizará en los Grandes Premios de Las Vegas, Catar y Abu Dabi.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/nuevo-diseno-alpine-formula-1-id771942.html",
+          "image": "https://media.tycsports.com/files/2026/11/17/1005649/aslpine_862x485.webp?v=1",
+          "body": "La escudería francesa anunció la nueva decoración que utilizará en los Grandes Premios de Las Vegas, Catar y Abu Dabi.\n\nEl nuevo diseño del A526 para las tres últimas carreras de la F1. + Seguinos en Alpine estrenará un nuevo diseño en sus monoplazas en el cierre de la temporada 2026 de la Fórmula 1 . La escudería francesa presentó la nueva livery que lucirán los autos de Franco Colapinto y Pierre Gasly en los Grandes Premios de Las Vegas, Catar y Abu Dhabi.\n\nLa principal novedad estética está vinculada a uno de sus patrocinadores principales, BWT. La nueva decoración le dará mayor protagonismo al color rosa , característico de la compañía austríaca.\n\nA diferencia del diseño que el equipo galo utilizó a lo largo de la temporada, en el que el azul era preponderante, ahora los pompones laterales del A526 pasarán a ser rosas en su totalidad y las letras del sponsor aparecerán en azul.\n\nAnte esta modificación, el rosa volverá a ser protagonista en los monoplazas de Colapinto y Gasly bajo las luces del circuito callejero de Las Vegas, ya que la carrera se correrá de noche y luego en las citas en Medio Oriente.",
+          "language": "es",
+          "publishedAt": "2026-11-18T00:03:25.000Z",
+          "addedAt": "2026-11-18T07:12:38.843Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2836,21 +2851,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-posible-salida-de-oscar-piastri-de-mclaren-que-podria-abrirle-la-puerta-a-franco-cola",
-          "title": "El piloto de la F1 que podría cambiar de escudería y cómo afectaría a Colapinto",
-          "summary": "El australiano de 25 años podría despedirse de la escudería británica y entre sus posibles reemplazantes suena Carlos Sainz, lo que abriría un nuevo puente entre el argentino y James Wolves.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-posible-salida-de-oscar-piastri-de-mclaren-que-podria-abrirle-la-puerta-a-franco-colapinto-en-williams-id771070.html",
-          "image": "https://media.tycsports.com/files/2026/11/11/1004163/franco-colapinto_1440x810.webp",
-          "body": "El australiano de 25 años podría despedirse de la escudería británica y entre sus posibles reemplazantes suena Carlos Sainz, lo que abriría un nuevo puente entre el argentino y James Wolves.\n\nOscar Piastri podría abandonar McLaren. (Buda Mendes/Getty Images) + Seguinos en El mercado de pilotos de la Fórmula 1 podría sufrir una revolución en los próximos años. La separación entre Oscar Piastri y su histórico representante, Mark Webber, alimentó las versiones sobre una posible salida de McLaren, una situación que podría desencadenar varios movimientos entre las principales escuderías y hasta abrirle una puerta a Franco Colapinto para regresar a Williams.\n\nEl australiano, de 25 años, atraviesa un presente complicado en la escudería británica. Después de luchar por el campeonato de 2025 hasta la última carrera, todavía no consiguió victorias en 2026 y marcha séptimo en el Mundial, a 94 puntos de su compañero Lando Norris , quien viene de imponerse en el Gran Premio de San Pablo. Durante el fin de semana en Interlagos, además, se lo vio incómodo en diferentes apariciones públicas.\n\nEn ese contexto, la ruptura con Webber habría estado relacionada con la imposibilidad de conseguirle un asiento en otro equipo. El piloto renovó su contrato de manera multianual el año pasado y, según Motorsport , su vínculo con McLaren se extendería hasta 2028. Por su parte, Norris tendría asegurada su continuidad hasta 2030, una situación que condicionaría las aspiraciones de su compañero .\n\nLa relación entre ambos había comenzado durante el ascenso del oceánico hacia la Máxima, después de conquistar los títulos de Fórmula Renault Europea, Fórmula 3 y Fórmula 2 entre 2019 y 2021. Su representante también fue determinante en la conflictiv a desvinculación de Alpine en 2022 , cuando una disputa co",
-          "language": "es",
-          "publishedAt": "2026-11-11T11:17:38.000Z",
-          "addedAt": "2026-11-11T16:04:13.013Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
           "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
           "summary": "Cobertura especial del GP de Las Vegas de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
@@ -2877,21 +2877,6 @@
           "language": "es",
           "publishedAt": "2026-11-13T03:39:49.000Z",
           "addedAt": "2026-11-13T07:21:08.404Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-el-tierno-gesto-de-franco-colapinto-con-un-nino-en-un-aeropuerto-abrazo-fotos-y-un-regal",
-          "title": "El tierno gesto de Colapinto con un niño en un aeropuerto",
-          "summary": "El piloto argentino protagonizó un encuentro inesperado con un pequeño fanático de la Fórmula 1, a quien sorprendió con un obsequio. La escena quedó registrada en un video que se viralizó en redes sociales.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/el-tierno-gesto-de-franco-colapinto-con-un-nino-en-un-aeropuerto-abrazo-fotos-y-un-regalo-especial-id771093.html",
-          "image": "https://media.tycsports.com/files/2026/11/11/1004187/el-tierno-gesto-de-franco-colapinto-con-un-pequeno-fan-1_1440x810.webp",
-          "body": "El piloto argentino protagonizó un encuentro inesperado con un pequeño fanático de la Fórmula 1, a quien sorprendió con un obsequio. La escena quedó registrada en un video que se viralizó en redes sociales.\n\nEl tierno gesto de Franco Colapinto con un pequeño fan + Seguinos en Un pequeño fanático de la Fórmula 1 vivió un momento que difícilmente olvidará . Durante un encuentro casual en un aeropuerto, F ranco Colapinto se detuvo para saludar a un niño que lo había reconocido y protagonizó una emotiva escena que rápidamente se viralizó en las redes sociales.\n\nEl chico no pudo ocultar su sorpresa al encontrarse frente a uno de sus ídolos . Lejos de seguir su camino, el piloto argentino se tomó unos minutos para conversar con él, sacarse fotos y darle un abrazo , ante la mirada de quienes presenciaron la situación.\n\nSin embargo, lo más especial todavía estaba por llegar. En medio del encuentro, el corredor de Alpine abrió su mochila, sacó una gorra de la escudería francesa y se la regaló al pequeño , que reaccionó con una enorme sonrisa mientras los presentes acompañaban el gesto con aplausos.\n\nLa secuencia quedó registrada en un video que comenzó a circular por las redes sociales y volvió a mostrar una faceta del pilarense que sus seguidores conocen bien: su cercanía con los fanáticos y la predisposición para compartir momentos con ellos fuera de las pistas.",
-          "language": "es",
-          "publishedAt": "2026-11-11T13:05:00.000Z",
-          "addedAt": "2026-11-11T16:04:12.899Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3014,13 +2999,7 @@
           "addedAt": "2026-11-02T15:36:49.682Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-11-18T07:12:45.948Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-san",
           "title": "Aclamación por Franco Colapinto en ataque y defensa en Brasil: audaz sobrepaso a Pierre Gasly y sanción a Nico Hulkenberg",
@@ -3035,7 +3014,13 @@
           "addedAt": "2026-11-11T01:21:58.803Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-11-18T16:37:34.453Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-autocritica-post-gp-brasil-id770862-html",
           "title": "Colapinto, autocrítico tras el GP de Brasil: “Largamos pésimo, fue la peor del año”",
@@ -3290,13 +3275,43 @@
           "addedAt": "2026-10-22T23:15:42.889Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-entrada-triunfal-en-moto-paddock-gp-estados-unidos-id767807-html",
+          "title": "“Franco trayendo aura”: la entrada triunfal de Colapinto al Gran Premio de Estados Unidos",
+          "summary": "El argentino ingresó al paddock del Circuito de Austin arriba de una Yamaha YZR-M1 del equipo Prima Pramac de MotoGP y se robó todas las miradas.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-entrada-triunfal-en-moto-paddock-gp-estados-unidos-id767807.html",
+          "image": "https://media.tycsports.com/files/2026/10/22/998411/franco_1440x810.webp?v=2",
+          "body": "El argentino ingresó al paddock del Circuito de Austin arriba de una Yamaha YZR-M1 del equipo Prima Pramac de MotoGP y se robó todas las miradas.\n\nLa entrada triunfal de Colapinto al Circuito de Austin + Seguinos en Franco Colapinto se robó todas las miradas este jueves en el paddock del Circuito de Austin en el Media Day del Gran Premio de Estados Unidos de Fórmula 1. El piloto argentino recorrió los primeros metros del trazado estadounidense arriba de una moto Yamaha de MotoGP del equipo Prima Pramac, que tiene un convenio con Alpine.\n\n“¡¿Perdón, queee?!” , fue la frase elegida por la escudería francesa para acompañar el video que posteó en sus redes sociales sobre el estelar ingreso del pilarense al paddock. Luciendo la remera del equipo y el casco que utiliza para correr en F1 cada fin de semana, el #43 atrajo la atención de todos mientras hacía rugir a la Yamaha YZR-M1.\n\n“Franco trayendo aura” , agregó Alpine en un carrusel de imágenes de Colapinto con su nuevo vehículo. Además, el equipo francés publicó un tercer posteo, en el que el piloto de 23 años contó rápidamente sus sensaciones. “Está bueno, me dan ganas de manejar un poco más ahora”, expresó.\n\nLa organización explicó que la moto se encontraba en punto muerto, por lo que el argentino solo podía acelerar para hacer sentir el ruido del motor , pero fue ayudado por un auxiliar para trasladarse durante su breve recorrido.",
+          "language": "es",
+          "publishedAt": "2026-10-22T18:40:30.000Z",
+          "addedAt": "2026-10-22T19:59:10.962Z",
+          "category": "argentino",
+          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-11-18T07:12:45.948Z",
+      "createdAt": "2026-11-18T16:37:34.453Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-sancion-piastri-f1gp-las-vegas-id772009-html",
+          "title": "Cambios en la grilla de salida del GP de Las Vegas de F1 por la penalización a un piloto",
+          "summary": "McLaren informó que montará un quinto motor de combustión interna en el auto del australiano, quien deberá retroceder 10 lugares en la grilla de partida de la carrera en suelo estadounidense por exceder el límite permitido.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/sancion-piastri-f1gp-las-vegas-id772009.html",
+          "image": "https://media.tycsports.com/files/2026/11/16/1005419/autos_1440x810.webp?v=1",
+          "body": "McLaren informó que montará un quinto motor de combustión interna en el auto del australiano, quien deberá retroceder 10 lugares en la grilla de partida de la carrera en suelo estadounidense por exceder el límite permitido.\n\nOscar Piastri tuvo un 2026 lejos de las expectativas. (Photo by Clive Rose/Getty Images) + Seguinos en La grilla de salida de la Fórmula 1 para el Gran Premio de Las Vegas sufrirá cambios debido a la sanción que recibió uno de los pilotos. Se trata de Oscar Piastri, quien recibirá una penalización de 10 puestos por exceder su asignación de motores en su McLaren esta temporada.\n\n\"Oscar montará un nuevo motor de combustión interna en Las Vegas después de un problema de fiabilidad\" , informó la escudería inglesa en la previa de la cita en territorio estadounidense.\n\nEl australiano de 25 años se encontraba al límite de lo permitido, ya que había utilizado cuatro motores de combustión interna en lo que va del año, pero necesitará un quinto motor V6 Mercedes para las últimas tres carreras de la temporada. Como es la primera vez que excede su asignación de ICE (motor de combustión interna), partirá 10 puestos más atrás en la carrera del próximo sábado.\n\nA pesar de la sanción, en McLaren se mostraron optimistas de cara al fin de semana: “Como es el quinto de la temporada, recibirá una penalización de 10 puestos en la parrilla, pero tiene una buena oportunidad de recuperar posiciones con adelantamientos en la carrera del sábado”.",
+          "language": "es",
+          "publishedAt": "2026-11-18T16:01:39.000Z",
+          "addedAt": "2026-11-18T16:37:27.877Z",
+          "category": "general",
+          "tag": "Carrera"
+        },
         {
           "id": "www-tycsports-com-automovilismo-ricciardo-revelo-la-humillacion-que-llevo-a-su-retiro-de-la-f1-me-estaban-dando-una-pali",
           "title": "El histórico de la F1 que reveló la \"humillación\" que llevó a su retiro: \"Me estaban dando una paliza\"",
@@ -3551,7 +3566,13 @@
           "addedAt": "2026-10-23T12:10:31.357Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-11-18T16:37:34.453Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-clay-regazzoni-subcampeon-del-mundo-f1-paraplejico-dakar-muerte-choque-tragico-op-id7673",
           "title": "Fue subcampeón del mundo de la F1, se reinventó en el Dakar tras quedar parapléjico y murió trágicamente",
@@ -3566,13 +3587,7 @@
           "addedAt": "2026-10-22T11:40:44.470Z",
           "category": "general",
           "tag": "Carrera"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-11-18T07:12:45.948Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-alerta-en-la-formula-1-aseguran-que-la-escuderia-cadillac-podria-ser-vendida-tras-su-pri",
           "title": "Alerta en la Fórmula 1: aseguran que la escudería Cadillac podría ser vendida tras su primera temporada",
@@ -3647,36 +3662,6 @@
           "addedAt": "2026-10-27T23:14:06.359Z",
           "category": "general",
           "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id768571-html",
-          "title": "Qué necesita Kimi Antonelli para ser campeón de la Fórmula 1 en México",
-          "summary": "El italiano se quedó con la victoria en el Gran Premio de Estados Unidos y está cada vez más cerca de levantar su primer título en la Máxima.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/que-necesita-antonelli-para-ser-campeon-de-la-formula-1-en-mexico-id768571.html",
-          "image": "https://media.tycsports.com/files/2026/10/25/999624/kimi_1440x810.webp?v=1",
-          "body": "El italiano se quedó con la victoria en el Gran Premio de Estados Unidos y está cada vez más cerca de levantar su primer título en la Máxima.\n\nKimi Antonelli ganó el GP de Estados Unidos. (Getty Images) + Seguinos en Kimi Antonelli ganó el Gran Premio de Estados Unidos y quedó a un paso de consagrarse campeón de la Fórmula 1. El italiano amplió aún más su ventaja sobre George Russell y todo parece indicar que levantará su primer título del mundo el próximo fin de semana en México.\n\nEl piloto de Mercedes suma 365 puntos y aventaja por 123 a su compañero de equipo , quien finalizó octavo en Austin y ocupa el segundo lugar con 242. Con 125 unidades aún en juego, a falta de cinco fechas para que concluya el Campeonato, Antonelli tendrá la oportunidad de cerrar la pelea en la próxima fecha.\n\nPara levantar el título el próximo domingo en México, al italiano le alcanzará con sumar apenas dos puntos, es decir, cruzar la meta en el noveno lugar o mejor , sin importar cómo terminen sus rivales. De esa manera, alcanzaría los 367 puntos y dejaría sin chances tanto a Russell como a Hamilton (241).\n\nEl único escenario en el que la definición se estiraría una jornada más sería que Antonellí finalice 10° y Russell se quede con el triunfo, o que el italiano sea 11° o peor y Hamilton gane la carrera. Vale la pena aclarar que, si ni Russell ni Hamilton logran cruzar la meta en el primer lugar, Kimi será campeón sin importar su posición final.",
-          "language": "es",
-          "publishedAt": "2026-10-25T22:36:31.000Z",
-          "addedAt": "2026-10-25T23:34:59.624Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-entrada-triunfal-en-moto-paddock-gp-estados-unidos-id767807-html",
-          "title": "“Franco trayendo aura”: la entrada triunfal de Colapinto al Gran Premio de Estados Unidos",
-          "summary": "El argentino ingresó al paddock del Circuito de Austin arriba de una Yamaha YZR-M1 del equipo Prima Pramac de MotoGP y se robó todas las miradas.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-entrada-triunfal-en-moto-paddock-gp-estados-unidos-id767807.html",
-          "image": "https://media.tycsports.com/files/2026/10/22/998411/franco_1440x810.webp?v=2",
-          "body": "El argentino ingresó al paddock del Circuito de Austin arriba de una Yamaha YZR-M1 del equipo Prima Pramac de MotoGP y se robó todas las miradas.\n\nLa entrada triunfal de Colapinto al Circuito de Austin + Seguinos en Franco Colapinto se robó todas las miradas este jueves en el paddock del Circuito de Austin en el Media Day del Gran Premio de Estados Unidos de Fórmula 1. El piloto argentino recorrió los primeros metros del trazado estadounidense arriba de una moto Yamaha de MotoGP del equipo Prima Pramac, que tiene un convenio con Alpine.\n\n“¡¿Perdón, queee?!” , fue la frase elegida por la escudería francesa para acompañar el video que posteó en sus redes sociales sobre el estelar ingreso del pilarense al paddock. Luciendo la remera del equipo y el casco que utiliza para correr en F1 cada fin de semana, el #43 atrajo la atención de todos mientras hacía rugir a la Yamaha YZR-M1.\n\n“Franco trayendo aura” , agregó Alpine en un carrusel de imágenes de Colapinto con su nuevo vehículo. Además, el equipo francés publicó un tercer posteo, en el que el piloto de 23 años contó rápidamente sus sensaciones. “Está bueno, me dan ganas de manejar un poco más ahora”, expresó.\n\nLa organización explicó que la moto se encontraba en punto muerto, por lo que el argentino solo podía acelerar para hacer sentir el ruido del motor , pero fue ayudado por un auxiliar para trasladarse durante su breve recorrido.",
-          "language": "es",
-          "publishedAt": "2026-10-22T18:40:30.000Z",
-          "addedAt": "2026-10-22T19:59:10.962Z",
-          "category": "argentino",
-          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-mucho-trabajo-por-hacer-franco-colapinto-apunta-a-la-recuperacion-de-alpine-en-austin-id",
@@ -3754,6 +3739,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "www-tycsports-com-automovilismo-la-posible-salida-de-oscar-piastri-de-mclaren-que-podria-abrirle-la-puerta-a-franco-cola",
+          "title": "El piloto de la F1 que podría cambiar de escudería y cómo afectaría a Colapinto",
+          "summary": "El australiano de 25 años podría despedirse de la escudería británica y entre sus posibles reemplazantes suena Carlos Sainz, lo que abriría un nuevo puente entre el argentino y James Wolves.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-posible-salida-de-oscar-piastri-de-mclaren-que-podria-abrirle-la-puerta-a-franco-colapinto-en-williams-id771070.html",
+          "image": "https://media.tycsports.com/files/2026/11/11/1004163/franco-colapinto_1440x810.webp",
+          "body": "El australiano de 25 años podría despedirse de la escudería británica y entre sus posibles reemplazantes suena Carlos Sainz, lo que abriría un nuevo puente entre el argentino y James Wolves.\n\nOscar Piastri podría abandonar McLaren. (Buda Mendes/Getty Images) + Seguinos en El mercado de pilotos de la Fórmula 1 podría sufrir una revolución en los próximos años. La separación entre Oscar Piastri y su histórico representante, Mark Webber, alimentó las versiones sobre una posible salida de McLaren, una situación que podría desencadenar varios movimientos entre las principales escuderías y hasta abrirle una puerta a Franco Colapinto para regresar a Williams.\n\nEl australiano, de 25 años, atraviesa un presente complicado en la escudería británica. Después de luchar por el campeonato de 2025 hasta la última carrera, todavía no consiguió victorias en 2026 y marcha séptimo en el Mundial, a 94 puntos de su compañero Lando Norris , quien viene de imponerse en el Gran Premio de San Pablo. Durante el fin de semana en Interlagos, además, se lo vio incómodo en diferentes apariciones públicas.\n\nEn ese contexto, la ruptura con Webber habría estado relacionada con la imposibilidad de conseguirle un asiento en otro equipo. El piloto renovó su contrato de manera multianual el año pasado y, según Motorsport , su vínculo con McLaren se extendería hasta 2028. Por su parte, Norris tendría asegurada su continuidad hasta 2030, una situación que condicionaría las aspiraciones de su compañero .\n\nLa relación entre ambos había comenzado durante el ascenso del oceánico hacia la Máxima, después de conquistar los títulos de Fórmula Renault Europea, Fórmula 3 y Fórmula 2 entre 2019 y 2021. Su representante también fue determinante en la conflictiv a desvinculación de Alpine en 2022 , cuando una disputa co",
+          "language": "es",
+          "publishedAt": "2026-11-11T11:17:38.000Z",
+          "addedAt": "2026-11-11T16:04:13.013Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-f1-forumula-1-gp-brasil-interlagos-campeonato-op-id770860-html",
           "title": "Cómo quedó Colapinto en el Campeonato de Pilotos de la F1 tras el GP de Brasil",
           "summary": "El argentino finalizó 13° en Interlagos, no sumó puntos y se mantiene en el 12° lugar de la clasificación.",
@@ -3829,27 +3829,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-un-podio-que-refleja-el-estilo-argentino-ante-el-mundo-de-las-bajas",
-          "title": "Un podio que refleja el estilo argentino ante el mundo de las Bajas",
-          "summary": "Sangre fría en la adversidad y efervescencia cuando toca acelerar fueron la clave para remontar hasta el podio luego de un vuelco.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/un-podio-que-refleja-el-estilo-argentino-ante-el-mundo-de-las-bajas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/PODIO-BAJA-1000-Olmedo-Villagra-Lopez-Monasterolo-2.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-17T21:32:57.000Z",
-          "addedAt": "2026-11-17T23:58:23.371Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-11-18T07:12:45.948Z",
-      "items": [
-        {
           "id": "www-tycsports-com-automovilismo-el-rally-vuelve-a-la-argentina-en-2028-id771274-html",
           "title": "El Rally vuelve a la Argentina en 2028",
           "summary": "La categoría firmó un contrato plurianual con el Gobierno de Córdoba y regresará al país por primera vez desde 2019.",
@@ -3863,7 +3842,13 @@
           "addedAt": "2026-11-12T19:09:34.582Z",
           "category": "argentino",
           "tag": "Argentino"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-11-18T16:37:34.453Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-un-piloto-argentino-sera-reserva-en-indycar-a-partir-de-2027-id771138-html",
           "title": "Un piloto argentino será reserva en IndyCar a partir de 2027",
@@ -3878,6 +3863,21 @@
           "addedAt": "2026-11-11T22:37:35.185Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-el-tierno-gesto-de-franco-colapinto-con-un-nino-en-un-aeropuerto-abrazo-fotos-y-un-regal",
+          "title": "El tierno gesto de Colapinto con un niño en un aeropuerto",
+          "summary": "El piloto argentino protagonizó un encuentro inesperado con un pequeño fanático de la Fórmula 1, a quien sorprendió con un obsequio. La escena quedó registrada en un video que se viralizó en redes sociales.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/el-tierno-gesto-de-franco-colapinto-con-un-nino-en-un-aeropuerto-abrazo-fotos-y-un-regalo-especial-id771093.html",
+          "image": "https://media.tycsports.com/files/2026/11/11/1004187/el-tierno-gesto-de-franco-colapinto-con-un-pequeno-fan-1_1440x810.webp",
+          "body": "El piloto argentino protagonizó un encuentro inesperado con un pequeño fanático de la Fórmula 1, a quien sorprendió con un obsequio. La escena quedó registrada en un video que se viralizó en redes sociales.\n\nEl tierno gesto de Franco Colapinto con un pequeño fan + Seguinos en Un pequeño fanático de la Fórmula 1 vivió un momento que difícilmente olvidará . Durante un encuentro casual en un aeropuerto, F ranco Colapinto se detuvo para saludar a un niño que lo había reconocido y protagonizó una emotiva escena que rápidamente se viralizó en las redes sociales.\n\nEl chico no pudo ocultar su sorpresa al encontrarse frente a uno de sus ídolos . Lejos de seguir su camino, el piloto argentino se tomó unos minutos para conversar con él, sacarse fotos y darle un abrazo , ante la mirada de quienes presenciaron la situación.\n\nSin embargo, lo más especial todavía estaba por llegar. En medio del encuentro, el corredor de Alpine abrió su mochila, sacó una gorra de la escudería francesa y se la regaló al pequeño , que reaccionó con una enorme sonrisa mientras los presentes acompañaban el gesto con aplausos.\n\nLa secuencia quedó registrada en un video que comenzó a circular por las redes sociales y volvió a mostrar una faceta del pilarense que sus seguidores conocen bien: su cercanía con los fanáticos y la predisposición para compartir momentos con ellos fuera de las pistas.",
+          "language": "es",
+          "publishedAt": "2026-11-11T13:05:00.000Z",
+          "addedAt": "2026-11-11T16:04:12.899Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-salio-luz-video-lucha-con-franco-colapinto-que-llevo-sancion-nico-hulkenberg-id771058-ht",
@@ -4090,6 +4090,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-un-podio-que-refleja-el-estilo-argentino-ante-el-mundo-de-las-bajas",
+          "title": "Un podio que refleja el estilo argentino ante el mundo de las Bajas",
+          "summary": "Sangre fría en la adversidad y efervescencia cuando toca acelerar fueron la clave para remontar hasta el podio luego de un vuelco.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/un-podio-que-refleja-el-estilo-argentino-ante-el-mundo-de-las-bajas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/PODIO-BAJA-1000-Olmedo-Villagra-Lopez-Monasterolo-2.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-17T21:32:57.000Z",
+          "addedAt": "2026-11-17T23:58:23.371Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "campeones-com-ar-el-equipo-argentino-definio-el-plan-de-24-horas-de-carrera-en-la-score-baja-1000",
           "title": "El equipo argentino definió el plan de 24 horas de carrera en la Score Baja 1000",
           "summary": "El cuarteto argentino conformado por Alfredo Olmedo, Dani López, Federico Villagra y Tomás Olmedo en la competencia más grande del off-road.",
@@ -4101,21 +4116,6 @@
           "language": "es",
           "publishedAt": "2026-11-12T23:46:12.000Z",
           "addedAt": "2026-11-13T00:35:37.610Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-tc-agustin-canapino-se-llevo-la-2a-serie-riocuartense-sin-apremios",
-          "title": "TC: Agustín Canapino se llevó la 2ª serie riocuartense sin apremios",
-          "summary": "El “Titán” estrenó la motorización de “Pope” Bonelli en su Chevrolet Camaro con su 2º triunfo parcial de 2026, tras prevalecer en la disputa con Jonatan Castellano (Dodge Challenger), que había hecho la “pole” pero largó 2º en la serie.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-agustin-canapino-se-llevo-la-2a-serie-riocuartense-sin-apremios/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Canapino-TC-2026-1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-15T14:32:49.000Z",
-          "addedAt": "2026-11-15T19:52:39.181Z",
           "category": "argentino",
           "tag": "Argentino"
         }
