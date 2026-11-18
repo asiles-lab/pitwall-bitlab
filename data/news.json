@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-17T23:58:21.112Z",
-  "checkedAt": "2026-11-17T23:58:21.112Z",
+  "updatedAt": "2026-11-18T07:12:37.964Z",
+  "checkedAt": "2026-11-18T07:12:37.964Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,21 +40,6 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-un-podio-que-refleja-el-estilo-argentino-ante-el-mundo-de-las-bajas",
-      "title": "Un podio que refleja el estilo argentino ante el mundo de las Bajas",
-      "summary": "Sangre fría en la adversidad y efervescencia cuando toca acelerar fueron la clave para remontar hasta el podio luego de un vuelco.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/un-podio-que-refleja-el-estilo-argentino-ante-el-mundo-de-las-bajas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/PODIO-BAJA-1000-Olmedo-Villagra-Lopez-Monasterolo-2.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-17T21:32:57.000Z",
-      "addedAt": "2026-11-17T23:58:23.371Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-el-novedoso-cambio-de-reglamento-que-podria-transformar-las-carreras-de-la-formula-1-id7",
       "title": "El novedoso cambio de reglamento que podría transformar las carreras de la Fórmula 1",
       "summary": "Algunos autos de la parrilla está pidiendo modificaciones en el límite de velocidad para que se puedan hacer más adelantamientos durante las carreras.",
@@ -83,36 +68,6 @@
       "addedAt": "2026-11-17T23:58:22.724Z",
       "category": "argentino",
       "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-acuerdo-en-formula-1-aprueba-volver-a-usar-motores-v8",
-      "title": "Acuerdo en Fórmula 1 aprueba volver a usar motores V8",
-      "summary": "Tras la reunión que se llevó a cabo en Londres entre la FIA, FOM y fabricantes coincidieron en las nuevas regulaciones a partir de 2030.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/acuerdo-en-formula-1-aprueba-volver-a-usar-motores-v8/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-F1-Motor-V8-Honda.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-17T18:35:09.000Z",
-      "addedAt": "2026-11-17T23:58:23.059Z",
-      "category": "general",
-      "tag": "Reglamento"
-    },
-    {
-      "id": "campeones-com-ar-tc-rossi-puso-fin-a-su-peor-sequia-y-accedio-al-top-10-historicos-de-ganadores",
-      "title": "TC: Rossi puso fin a su peor sequía y accedió al “top 10” histórico de ganadores",
-      "summary": "En Río Cuarto, el “Misil” cortó una racha de 33 carreras sin éxitos y alcanzó su 27ª victoria en el Turismo Carretera, con lo que igualó la línea histórica de Oscar Castellano, Emilio Satriano y Christian Ledesma.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-rossi-puso-fin-a-su-peor-sequia-y-accedio-al-top-10-historicos-de-ganadores/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Rossi-Victoria-TC-2026-e1794918765936.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-17T12:29:26.000Z",
-      "addedAt": "2026-11-17T17:43:05.411Z",
-      "category": "general",
-      "tag": "Carrera"
     },
     {
       "id": "campeones-com-ar-turismo-carretera-la-grilla-de-largada-de-la-final-en-rio-cuarto",
@@ -160,6 +115,21 @@
       "tag": "Franco"
     },
     {
+      "id": "campeones-com-ar-acuerdo-en-formula-1-aprueba-volver-a-usar-motores-v8",
+      "title": "Acuerdo en Fórmula 1 aprueba volver a usar motores V8",
+      "summary": "Tras la reunión que se llevó a cabo en Londres entre la FIA, FOM y fabricantes coincidieron en las nuevas regulaciones a partir de 2030.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/acuerdo-en-formula-1-aprueba-volver-a-usar-motores-v8/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-F1-Motor-V8-Honda.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-17T18:35:09.000Z",
+      "addedAt": "2026-11-17T23:58:23.059Z",
+      "category": "general",
+      "tag": "Reglamento"
+    },
+    {
       "id": "campeones-com-ar-shell-acompana-el-regreso-del-tc-a-rio-cuarto-despues-de-14-anos",
       "title": "Shell acompaña el regreso del TC a Río Cuarto después de 14 años | Campeones",
       "summary": "La categoría vuelve a la ciudad cordobesa el 14 y 15 de noviembre para disputar la Copa Shell, en una fecha clave para la definición del campeonato. En la antesala de la gran final, Shell reafirma su histórica relación con el automovilismo argentino y su alianza con la ACTC hasta 2035.",
@@ -205,6 +175,21 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-audi-duda-de-la-defensa-de-colapinto-con-hulkenberg-lo-empujo-hacia-fuera",
+      "title": "Audi duda de la defensa de Colapinto con Hulkenberg: \"Lo empujó hacia fuera\"",
+      "summary": "El punto de vista de Allan McNish, director de competición en Audi, el argentino obligó a su piloto a salirse de la pista.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/audi-duda-de-la-defensa-de-colapinto-con-hulkenberg-lo-empujo-hacia-fuera/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Portada-Colapinto-Hulkenberg-Brasil-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-10T18:16:56.000Z",
+      "addedAt": "2026-11-18T07:12:42.762Z",
+      "category": "argentino",
+      "tag": "Franco"
+    },
+    {
       "id": "campeones-com-ar-que-le-ocurrio-al-alpine-de-colapinto-en-la-largada-del-gp-de-san-pablo",
       "title": "¿Qué le ocurrió al Alpine de Colapinto en la largada del GP de San Pablo?",
       "summary": "Al concluir 13.° con el Alpine A526 en la pista de Interlagos, el piloto argentino describió cómo afrontó la competencia brasileña.",
@@ -220,19 +205,19 @@
       "tag": "Franco"
     },
     {
-      "id": "campeones-com-ar-sensaciones-de-los-candidatos-por-el-titulo-de-tc",
-      "title": "Las sensaciones de los candidatos por el título de TC",
-      "summary": "Seis de los potenciales candidatos que definirán la \"Copa de Oro RUS\" en La Plata, evaluaron sus pretensiones tras la penúltima fecha disputada en Río Cuarto.",
+      "id": "campeones-com-ar-tc-rossi-puso-fin-a-su-peor-sequia-y-accedio-al-top-10-historicos-de-ganadores",
+      "title": "TC: Rossi puso fin a su peor sequía y accedió al “top 10” histórico de ganadores",
+      "summary": "En Río Cuarto, el “Misil” cortó una racha de 33 carreras sin éxitos y alcanzó su 27ª victoria en el Turismo Carretera, con lo que igualó la línea histórica de Oscar Castellano, Emilio Satriano y Christian Ledesma.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/sensaciones-de-los-candidatos-por-el-titulo-de-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Rossi-Santero.jpg",
+      "url": "https://campeones.com.ar/tc-rossi-puso-fin-a-su-peor-sequia-y-accedio-al-top-10-historicos-de-ganadores/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Rossi-Victoria-TC-2026-e1794918765936.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-17T22:05:53.000Z",
-      "addedAt": "2026-11-17T23:58:23.058Z",
+      "publishedAt": "2026-11-17T12:29:26.000Z",
+      "addedAt": "2026-11-17T17:43:05.411Z",
       "category": "general",
-      "tag": "F1"
+      "tag": "Carrera"
     },
     {
       "id": "www-tycsports-com-automovilismo-antonelli-cumplio-su-promesa-y-se-tino-el-pelo-el-nuevo-look-del-campeon-mas-joven-en-la",
@@ -265,6 +250,21 @@
       "tag": "Carrera"
     },
     {
+      "id": "campeones-com-ar-sensaciones-de-los-candidatos-por-el-titulo-de-tc",
+      "title": "Las sensaciones de los candidatos por el título de TC",
+      "summary": "Seis de los potenciales candidatos que definirán la \"Copa de Oro RUS\" en La Plata, evaluaron sus pretensiones tras la penúltima fecha disputada en Río Cuarto.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/sensaciones-de-los-candidatos-por-el-titulo-de-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Rossi-Santero.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-17T22:05:53.000Z",
+      "addedAt": "2026-11-17T23:58:23.058Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-ebarlin-en-tiempos-de-decisiones-para-continuar-en-turismo-carretera",
       "title": "Ebarlín en tiempos de decisiones para continuar en Turismo Carretera",
       "summary": "El vínculo del piloto de Benito Juárez con el equipo de Diego De Carlo podría culminar en La Plata y ante ello está analizando opciones de cara a 2027.",
@@ -276,36 +276,6 @@
       "language": "es",
       "publishedAt": "2026-11-17T20:35:39.000Z",
       "addedAt": "2026-11-17T23:58:23.049Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-chapur-y-una-contundente-confesion-se-nos-escapo-el-campeonato-de-tc",
-      "title": "Chapur y una contundente confesión: «Se nos escapó el campeonato de TC»",
-      "summary": "En diálogo con Campeones, el piloto cordobés habló sobre sus posibilidades para la definición de la \"Copa de Oro\" y se refirió respecto a su continuidad con Trotta Racing.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/chapur-y-una-contundente-confesion-se-nos-escapo-el-campeonato-de-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Chapur.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-17T17:39:50.000Z",
-      "addedAt": "2026-11-17T17:43:04.383Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-se-armaran-otros-dos-mercedes-benz-de-turismo-carretera",
-      "title": "Se armarán otros dos Mercedes-Benz de Turismo Carretera",
-      "summary": "Ambas unidades son alistadas en el taller de la familia Jakos, en la localidad bonaerense de Ramos Mejía, siendo Andrés Jakos uno de sus pilotos.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/se-armaran-otros-dos-mercedes-benz-de-turismo-carretera/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Mercedes-Benz.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-17T15:08:31.000Z",
-      "addedAt": "2026-11-17T17:43:04.391Z",
       "category": "general",
       "tag": "F1"
     },
@@ -323,6 +293,21 @@
       "addedAt": "2026-11-17T00:20:53.418Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-santero-es-el-lider-de-ultimo-minuto-sabiamos-que-iba-a-ser-asi-de-apretado",
+      "title": "Santero es el líder de último minuto: \"Sabíamos que iba a ser así de apretado\"",
+      "summary": "El mendocino ingresó a la Copa de Oro del Turismo Carretera delante de todos, con una ventaja de 10 puntos sobre Agustín Canapino.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/santero-es-el-lider-de-ultimo-minuto-sabiamos-que-iba-a-ser-asi-de-apretado/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/TC-Santero-Rio-Cuarto.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-16T19:04:39.000Z",
+      "addedAt": "2026-11-18T07:12:42.402Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-werner-advierte-quien-lo-cierra-reiteradas-veces-es-mandado-de-esa-manera",
@@ -608,6 +593,36 @@
       "addedAt": "2026-10-29T19:15:02.909Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-chapur-y-una-contundente-confesion-se-nos-escapo-el-campeonato-de-tc",
+      "title": "Chapur y una contundente confesión: «Se nos escapó el campeonato de TC»",
+      "summary": "En diálogo con Campeones, el piloto cordobés habló sobre sus posibilidades para la definición de la \"Copa de Oro\" y se refirió respecto a su continuidad con Trotta Racing.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/chapur-y-una-contundente-confesion-se-nos-escapo-el-campeonato-de-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Chapur.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-17T17:39:50.000Z",
+      "addedAt": "2026-11-17T17:43:04.383Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-se-armaran-otros-dos-mercedes-benz-de-turismo-carretera",
+      "title": "Se armarán otros dos Mercedes-Benz de Turismo Carretera",
+      "summary": "Ambas unidades son alistadas en el taller de la familia Jakos, en la localidad bonaerense de Ramos Mejía, siendo Andrés Jakos uno de sus pilotos.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/se-armaran-otros-dos-mercedes-benz-de-turismo-carretera/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Mercedes-Benz.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-17T15:08:31.000Z",
+      "addedAt": "2026-11-17T17:43:04.391Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "www-tycsports-com-automovilismo-briatore-autocritico-alpine-gp-brasil-id770867-html",
@@ -2723,27 +2738,12 @@
       "addedAt": "2026-11-07T15:11:22.480Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-bezzecchi-se-quedo-con-la-clasificacion-qatari-de-motogp-antes-que-marquez",
-      "title": "Bezzecchi se quedó con la clasificación qatarí de MotoGP antes que Márquez",
-      "summary": "A bordo de la Aprilia, el piloto de Rimini registró su quinta \"pole\" en la temporada y superando a la Ducati del vigente campeón mundial; su compañero, Jorge Martín quedó 11.°.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/bezzecchi-se-quedo-con-la-clasificacion-qatari-de-motogp-antes-que-marquez/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261107-MotoGP-Bezzecchi.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-07T12:27:44.000Z",
-      "addedAt": "2026-11-07T15:11:22.310Z",
-      "category": "general",
-      "tag": "F1"
     }
   ],
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-17T23:58:25.248Z",
+      "createdAt": "2026-11-18T07:12:45.948Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-formula-1-alpine-mejora-motor-franco-colapinto-gran-premio-de-las-vegas-id771939-html",
@@ -2761,6 +2761,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-nuevo-diseno-alpine-formula-1-id771942-html",
+          "title": "Colapinto y Alpine lucirán un nuevo diseño en las tres últimas carreras de la Fórmula 1",
+          "summary": "La escudería francesa anunció la nueva decoración que utilizará en los Grandes Premios de Las Vegas, Catar y Abu Dabi.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/nuevo-diseno-alpine-formula-1-id771942.html",
+          "image": "https://media.tycsports.com/files/2026/11/17/1005649/aslpine_862x485.webp?v=1",
+          "body": "La escudería francesa anunció la nueva decoración que utilizará en los Grandes Premios de Las Vegas, Catar y Abu Dabi.\n\nEl nuevo diseño del A526 para las tres últimas carreras de la F1. + Seguinos en Alpine estrenará un nuevo diseño en sus monoplazas en el cierre de la temporada 2026 de la Fórmula 1 . La escudería francesa presentó la nueva livery que lucirán los autos de Franco Colapinto y Pierre Gasly en los Grandes Premios de Las Vegas, Catar y Abu Dhabi.\n\nLa principal novedad estética está vinculada a uno de sus patrocinadores principales, BWT. La nueva decoración le dará mayor protagonismo al color rosa , característico de la compañía austríaca.\n\nA diferencia del diseño que el equipo galo utilizó a lo largo de la temporada, en el que el azul era preponderante, ahora los pompones laterales del A526 pasarán a ser rosas en su totalidad y las letras del sponsor aparecerán en azul.\n\nAnte esta modificación, el rosa volverá a ser protagonista en los monoplazas de Colapinto y Gasly bajo las luces del circuito callejero de Las Vegas, ya que la carrera se correrá de noche y luego en las citas en Medio Oriente.",
+          "language": "es",
+          "publishedAt": "2026-11-18T00:03:25.000Z",
+          "addedAt": "2026-11-18T07:12:38.843Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-anticipo-el-desafio-interesante-que-enfrentara-alpine-en-el-gran-premio-de-las",
           "title": "Colapinto anticipó el \"desafío interesante\" que enfrentará Alpine en el GP de Las Vegas",
           "summary": "El piloto argentino se expidió sobre lo que será el retorno de la Fórmula 1 a la ciudad estadounidense y puso la mira en superar las adversas condiciones climáticas que trae consigo disputar una carrera de noche en el desierto.",
@@ -2772,36 +2787,6 @@
           "language": "es",
           "publishedAt": "2026-11-16T21:25:24.000Z",
           "addedAt": "2026-11-17T00:20:51.607Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-san",
-          "title": "Aclamación por Franco Colapinto en ataque y defensa en Brasil: audaz sobrepaso a Pierre Gasly y sanción a Nico Hulkenberg",
-          "summary": "Después de la carrera de Fórmula 1 en Interlagos, se viralizaron las maniobras del argentino causando una lluvia de elogios por su talento.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-sancion-nico-hulkenberg-id771049.html",
-          "image": "https://media.tycsports.com/files/2026/11/10/1004144/colapinto_862x485.webp",
-          "body": "Después de la carrera de Fórmula 1 en Interlagos, se viralizaron las maniobras del argentino causando una lluvia de elogios por su talento.\n\nEl sobrepaso de Colapinto a Gasly en el GP de Brasil + Seguinos en Franco Colapinto causa admiración por estas horas en redes sociales, luego de que se hicieran virales videos de sus mejores momentos en el Gran Premio de Brasil de Fórmula 1. Allí, ni su 13° puesto ni los dolores de cabeza que suele provocarle el Alpine lograron empañar sus fortalezas, e incluso las agigantaron teniendo en cuenta las limitaciones de su coche y la dificultad extra de la lluvia.\n\nLa maniobra más aclamada volvió a involucrar a Pierre Gasly y resultó clave para el resultado final de la carrera, en el que logró quedar por encima de su compañero de equipo. A falta de 10 giros para el cierre, la copiosa lluvia sobre Interlagos obligó a las escuderías a llamar a sus pilotos a cambiar neumáticos, y el argentino avisó que pretendía ingresar cuanto antes. Inentendiblemente, Alpine convocó a ambos en la misma vuelta, la 63, cuando el francés aún aventajaba al pilarense... O no. Desde la cámara onboard, el ataque del argentino hiela la sangre: la lluvia volvía al Alpine aún más inmanejable y Franco corregía a cada curva el volante con tensa precisión para evitarse resbalar. Arrancó muy lejos -dos segundos- pero su audacia y la ayuda de unas gomas más frescas lo llevó al sobrepaso por adentro en la penúltima curva antes del ingreso a los boxes, zafando por muy poco de un toque rueda a rueda con su compañero y todo lo que ello hubiese implicado.\n\nEl sobrepaso de Colapinto a Gasly en el GP de Brasil La maniobra lo llevó a ingresar primero a boxes pareciendo sorprender al equipo que esperaba primero a Gasly y, con alguna dificultad extra, su parada duró unos largos ",
-          "language": "es",
-          "publishedAt": "2026-11-11T00:42:48.000Z",
-          "addedAt": "2026-11-11T01:21:58.803Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
-          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
-          "summary": "Cobertura especial del GP de Las Vegas de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-17T03:00:17.000Z",
-          "addedAt": "2026-11-17T23:58:22.902Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2866,6 +2851,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
+          "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
+          "summary": "Cobertura especial del GP de Las Vegas de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2025/05/Franco-Colapinto-Monaco.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-17T03:00:17.000Z",
+          "addedAt": "2026-11-17T23:58:22.902Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-audi-ninguneo-la-defensa-de-franco-colapinto-que-provoco-la-sancion-a-nico-hulkenberg-lo",
           "title": "La respuesta de Audi a la defensa de Colapinto que provocó la sanción a Hulkenberg: \"Lo...\"",
           "summary": "Allan McNish, director de competición de la escudería de Fórmula 1, justificó la maniobra del alemán por fuera de la pista tras no poder superar al argentino durante cinco minutos y criticó el castigo impuesto por la FIA.",
@@ -2892,21 +2892,6 @@
           "language": "es",
           "publishedAt": "2026-11-11T13:05:00.000Z",
           "addedAt": "2026-11-11T16:04:12.899Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-salio-luz-video-lucha-con-franco-colapinto-que-llevo-sancion-nico-hulkenberg-id771058-ht",
-          "title": "Salió a la luz el video de la lucha con Franco Colapinto que llevó a la sanción a Nico Hulkenberg",
-          "summary": "A bordo de su Alpine, le aguantó el ataque al alemán por cinco minutos en el GP de Brasil de Fórmula 1 y la resolución del mano a mano fue una victoria moral del argentino.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/salio-luz-video-lucha-con-franco-colapinto-que-llevo-sancion-nico-hulkenberg-id771058.html",
-          "image": "https://media.tycsports.com/files/2026/11/10/1004147/colapinto-hulkenberg_1440x810.webp",
-          "body": "A bordo de su Alpine, le aguantó el ataque al alemán por cinco minutos en el GP de Brasil de Fórmula 1 y la resolución del mano a mano fue una victoria moral del argentino.\n\nColapinto y su defensa ante Hulkenberg en Brasil + Seguinos en El Gran Premio de Brasil de Fórmula 1 sigue dando que hablar y ni el puesto 13 de Franco Colapinto en otro fin de semana padeciendo los vaivenes de su Alpine logró empañar los momentos en los que pudo derrochar su capacidad de manejo.\n\nEs que , además del sobrepaso a Pierre Gasly bajo la lluvia antes del cambio de cubiertas, también se dio a conocer el video en el que realiza una defensa espectacular con neumáticos gastados frente a Nico Hulkenberg, al que su frustración del final le trajo consecuencias con la FIA. El de Audi salió de boxes con gomas nuevas y comenzó a atacarlo por todos lados, pero siempre se encontraba con las notables maniobras del pilarense. El juego del gato y el ratón se extendió durante largos cinco minutos , un escenario que favorecía hasta al compañero del argentino, Pierre Gasly, que venía detrás y no quería que el alemán se le escapara.\n\nLa resolución de la pugna llegaría en la vuelta 50, y de la forma que mejor dejó parado a Franco. Hulkenberg, cansado de perder, lo superó cortando pista por la derecha en la S de Senna . La acción le valdría una penalización de 10 segundos que cumpliría en la última parada en boxes, con la lluvia declarada.",
-          "language": "es",
-          "publishedAt": "2026-11-11T01:39:50.000Z",
-          "addedAt": "2026-11-11T07:55:00.655Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3014,13 +2999,7 @@
           "addedAt": "2026-10-23T23:32:59.910Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-11-17T23:58:25.248Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-es-frustrante-no-haber-conseguido-nada-briatore-se-expreso-tras-las-penalizaciones-a-col",
           "title": "\"Es frustrante\": Briatore se expresó tras las penalizaciones a Colapinto y Gasly",
@@ -3033,6 +3012,27 @@
           "language": "es",
           "publishedAt": "2026-11-02T13:54:42.000Z",
           "addedAt": "2026-11-02T15:36:49.682Z",
+          "category": "argentino",
+          "tag": "Franco"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-11-18T07:12:45.948Z",
+      "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-san",
+          "title": "Aclamación por Franco Colapinto en ataque y defensa en Brasil: audaz sobrepaso a Pierre Gasly y sanción a Nico Hulkenberg",
+          "summary": "Después de la carrera de Fórmula 1 en Interlagos, se viralizaron las maniobras del argentino causando una lluvia de elogios por su talento.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-sancion-nico-hulkenberg-id771049.html",
+          "image": "https://media.tycsports.com/files/2026/11/10/1004144/colapinto_862x485.webp",
+          "body": "Después de la carrera de Fórmula 1 en Interlagos, se viralizaron las maniobras del argentino causando una lluvia de elogios por su talento.\n\nEl sobrepaso de Colapinto a Gasly en el GP de Brasil + Seguinos en Franco Colapinto causa admiración por estas horas en redes sociales, luego de que se hicieran virales videos de sus mejores momentos en el Gran Premio de Brasil de Fórmula 1. Allí, ni su 13° puesto ni los dolores de cabeza que suele provocarle el Alpine lograron empañar sus fortalezas, e incluso las agigantaron teniendo en cuenta las limitaciones de su coche y la dificultad extra de la lluvia.\n\nLa maniobra más aclamada volvió a involucrar a Pierre Gasly y resultó clave para el resultado final de la carrera, en el que logró quedar por encima de su compañero de equipo. A falta de 10 giros para el cierre, la copiosa lluvia sobre Interlagos obligó a las escuderías a llamar a sus pilotos a cambiar neumáticos, y el argentino avisó que pretendía ingresar cuanto antes. Inentendiblemente, Alpine convocó a ambos en la misma vuelta, la 63, cuando el francés aún aventajaba al pilarense... O no. Desde la cámara onboard, el ataque del argentino hiela la sangre: la lluvia volvía al Alpine aún más inmanejable y Franco corregía a cada curva el volante con tensa precisión para evitarse resbalar. Arrancó muy lejos -dos segundos- pero su audacia y la ayuda de unas gomas más frescas lo llevó al sobrepaso por adentro en la penúltima curva antes del ingreso a los boxes, zafando por muy poco de un toque rueda a rueda con su compañero y todo lo que ello hubiese implicado.\n\nEl sobrepaso de Colapinto a Gasly en el GP de Brasil La maniobra lo llevó a ingresar primero a boxes pareciendo sorprender al equipo que esperaba primero a Gasly y, con alguna dificultad extra, su parada duró unos largos ",
+          "language": "es",
+          "publishedAt": "2026-11-11T00:42:48.000Z",
+          "addedAt": "2026-11-11T01:21:58.803Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3295,8 +3295,23 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-11-17T23:58:25.248Z",
+      "createdAt": "2026-11-18T07:12:45.948Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-ricciardo-revelo-la-humillacion-que-llevo-a-su-retiro-de-la-f1-me-estaban-dando-una-pali",
+          "title": "El histórico de la F1 que reveló la \"humillación\" que llevó a su retiro: \"Me estaban dando una paliza\"",
+          "summary": "El australiano dio a conocer la situación que resultó en su salida de la categoría reina del automovilismo a nivel mundial tras el Gran Premio de Singapur en 2024.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/ricciardo-revelo-la-humillacion-que-llevo-a-su-retiro-de-la-f1-me-estaban-dando-una-paliza-id771800.html",
+          "image": "https://media.tycsports.com/files/2026/11/16/1005388/daniel-ricciardo-_1440x810.webp?v=1",
+          "body": "El australiano dio a conocer la situación que resultó en su salida de la categoría reina del automovilismo a nivel mundial tras el Gran Premio de Singapur en 2024.\n\nDaniel Ricciardo, el ex-piloto de Red Bull, McLaren y Renault que se retiró de la F1 en 2024. + Seguinos en Daniel Ricciardo supo ser una de las principales figuras de la Fórmula 1 en la década pasada , con ocho victorias en su cuenta personal y dos terceros puestos en el Campeonato de Pilotos en las temporadas 2014 y 2016. Sin embargo, su paso por la categoría reina terminó en 2024 lejos de poder luchar por esa elusiva corona y habló a corazón abierto sobre lo duro que fueron para él afrontar el final de su carrera .\n\n“ Me estaban dando una paliza . Todavía tenía hambre y quería intentar demostrar algo -principalmente a mí mismo-, pero había momentos en los que ya no podía más, y creo que también estaba en negación , volviendo a ese escudo protector que a veces podemos ponernos: ‘Puedo hacer esto, soy fuerte, voy a superar esto, soy lo suficientemente bueno, bla, bla, bla’\" , inició en diálogo con el podcast Beyond The Grid.\n\n\" Definitivamente hubo momentos en los que pensaba: ‘Uf, ya no amo esto, en realidad no quiero estar aquí’ . Duerme y se te pasará, duerme y se te pasará, llegarás y estarás bien, y entonces quizá tengas una buena carrera o un momento en el que digas: ‘Sí, recuperé el fuego’” , agregó.\n\nEl Honey Badger se encontraba afuera de la F1 tras finalizar su paso por McLaren al concluir la temporada 2022 pero regresó para reemplazar a Nick De Vryes en Alpha Tauri desde el Gran Premio de Italia del 2023 , un ciclo donde lejos estuvo de su compañero Yuki Tsunoda y llevó a que sea reemplazado por Liam Lawson poco más de un año después tras el Gran Premio de Singapur 2024 .",
+          "language": "es",
+          "publishedAt": "2026-11-16T22:41:18.000Z",
+          "addedAt": "2026-11-17T00:20:51.568Z",
+          "category": "general",
+          "tag": "F1"
+        },
         {
           "id": "www-tycsports-com-automovilismo-todo-lo-que-queda-en-juego-en-la-f1-id771819-html",
           "title": "A tres carreras del final, todo lo que queda en juego en la Fórmula 1",
@@ -3324,21 +3339,6 @@
           "language": "es",
           "publishedAt": "2026-11-17T13:08:35.000Z",
           "addedAt": "2026-11-17T17:43:02.719Z",
-          "category": "general",
-          "tag": "F1"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-ricciardo-revelo-la-humillacion-que-llevo-a-su-retiro-de-la-f1-me-estaban-dando-una-pali",
-          "title": "El histórico de la F1 que reveló la \"humillación\" que llevó a su retiro: \"Me estaban dando una paliza\"",
-          "summary": "El australiano dio a conocer la situación que resultó en su salida de la categoría reina del automovilismo a nivel mundial tras el Gran Premio de Singapur en 2024.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/ricciardo-revelo-la-humillacion-que-llevo-a-su-retiro-de-la-f1-me-estaban-dando-una-paliza-id771800.html",
-          "image": "https://media.tycsports.com/files/2026/11/16/1005388/daniel-ricciardo-_1440x810.webp?v=1",
-          "body": "El australiano dio a conocer la situación que resultó en su salida de la categoría reina del automovilismo a nivel mundial tras el Gran Premio de Singapur en 2024.\n\nDaniel Ricciardo, el ex-piloto de Red Bull, McLaren y Renault que se retiró de la F1 en 2024. + Seguinos en Daniel Ricciardo supo ser una de las principales figuras de la Fórmula 1 en la década pasada , con ocho victorias en su cuenta personal y dos terceros puestos en el Campeonato de Pilotos en las temporadas 2014 y 2016. Sin embargo, su paso por la categoría reina terminó en 2024 lejos de poder luchar por esa elusiva corona y habló a corazón abierto sobre lo duro que fueron para él afrontar el final de su carrera .\n\n“ Me estaban dando una paliza . Todavía tenía hambre y quería intentar demostrar algo -principalmente a mí mismo-, pero había momentos en los que ya no podía más, y creo que también estaba en negación , volviendo a ese escudo protector que a veces podemos ponernos: ‘Puedo hacer esto, soy fuerte, voy a superar esto, soy lo suficientemente bueno, bla, bla, bla’\" , inició en diálogo con el podcast Beyond The Grid.\n\n\" Definitivamente hubo momentos en los que pensaba: ‘Uf, ya no amo esto, en realidad no quiero estar aquí’ . Duerme y se te pasará, duerme y se te pasará, llegarás y estarás bien, y entonces quizá tengas una buena carrera o un momento en el que digas: ‘Sí, recuperé el fuego’” , agregó.\n\nEl Honey Badger se encontraba afuera de la F1 tras finalizar su paso por McLaren al concluir la temporada 2022 pero regresó para reemplazar a Nick De Vryes en Alpha Tauri desde el Gran Premio de Italia del 2023 , un ciclo donde lejos estuvo de su compañero Yuki Tsunoda y llevó a que sea reemplazado por Liam Lawson poco más de un año después tras el Gran Premio de Singapur 2024 .",
-          "language": "es",
-          "publishedAt": "2026-11-16T22:41:18.000Z",
-          "addedAt": "2026-11-17T00:20:51.568Z",
           "category": "general",
           "tag": "F1"
         },
@@ -3571,7 +3571,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-11-17T23:58:25.248Z",
+      "createdAt": "2026-11-18T07:12:45.948Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-alerta-en-la-formula-1-aseguran-que-la-escuderia-cadillac-podria-ser-vendida-tras-su-pri",
@@ -3829,6 +3829,27 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-un-podio-que-refleja-el-estilo-argentino-ante-el-mundo-de-las-bajas",
+          "title": "Un podio que refleja el estilo argentino ante el mundo de las Bajas",
+          "summary": "Sangre fría en la adversidad y efervescencia cuando toca acelerar fueron la clave para remontar hasta el podio luego de un vuelco.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/un-podio-que-refleja-el-estilo-argentino-ante-el-mundo-de-las-bajas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/PODIO-BAJA-1000-Olmedo-Villagra-Lopez-Monasterolo-2.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-17T21:32:57.000Z",
+          "addedAt": "2026-11-17T23:58:23.371Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-11-18T07:12:45.948Z",
+      "items": [
+        {
           "id": "www-tycsports-com-automovilismo-el-rally-vuelve-a-la-argentina-en-2028-id771274-html",
           "title": "El Rally vuelve a la Argentina en 2028",
           "summary": "La categoría firmó un contrato plurianual con el Gobierno de Córdoba y regresará al país por primera vez desde 2019.",
@@ -3842,13 +3863,7 @@
           "addedAt": "2026-11-12T19:09:34.582Z",
           "category": "argentino",
           "tag": "Argentino"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-11-17T23:58:25.248Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-un-piloto-argentino-sera-reserva-en-indycar-a-partir-de-2027-id771138-html",
           "title": "Un piloto argentino será reserva en IndyCar a partir de 2027",
@@ -3863,6 +3878,21 @@
           "addedAt": "2026-11-11T22:37:35.185Z",
           "category": "argentino",
           "tag": "Argentino"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-salio-luz-video-lucha-con-franco-colapinto-que-llevo-sancion-nico-hulkenberg-id771058-ht",
+          "title": "Salió a la luz el video de la lucha con Franco Colapinto que llevó a la sanción a Nico Hulkenberg",
+          "summary": "A bordo de su Alpine, le aguantó el ataque al alemán por cinco minutos en el GP de Brasil de Fórmula 1 y la resolución del mano a mano fue una victoria moral del argentino.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/salio-luz-video-lucha-con-franco-colapinto-que-llevo-sancion-nico-hulkenberg-id771058.html",
+          "image": "https://media.tycsports.com/files/2026/11/10/1004147/colapinto-hulkenberg_1440x810.webp",
+          "body": "A bordo de su Alpine, le aguantó el ataque al alemán por cinco minutos en el GP de Brasil de Fórmula 1 y la resolución del mano a mano fue una victoria moral del argentino.\n\nColapinto y su defensa ante Hulkenberg en Brasil + Seguinos en El Gran Premio de Brasil de Fórmula 1 sigue dando que hablar y ni el puesto 13 de Franco Colapinto en otro fin de semana padeciendo los vaivenes de su Alpine logró empañar los momentos en los que pudo derrochar su capacidad de manejo.\n\nEs que , además del sobrepaso a Pierre Gasly bajo la lluvia antes del cambio de cubiertas, también se dio a conocer el video en el que realiza una defensa espectacular con neumáticos gastados frente a Nico Hulkenberg, al que su frustración del final le trajo consecuencias con la FIA. El de Audi salió de boxes con gomas nuevas y comenzó a atacarlo por todos lados, pero siempre se encontraba con las notables maniobras del pilarense. El juego del gato y el ratón se extendió durante largos cinco minutos , un escenario que favorecía hasta al compañero del argentino, Pierre Gasly, que venía detrás y no quería que el alemán se le escapara.\n\nLa resolución de la pugna llegaría en la vuelta 50, y de la forma que mejor dejó parado a Franco. Hulkenberg, cansado de perder, lo superó cortando pista por la derecha en la S de Senna . La acción le valdría una penalización de 10 segundos que cumpliría en la última parada en boxes, con la lluvia declarada.",
+          "language": "es",
+          "publishedAt": "2026-11-11T01:39:50.000Z",
+          "addedAt": "2026-11-11T07:55:00.655Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-gasly-apunto-contra-el-rendimiento-de-alpine-y-lamento-no-sumar-en-brasil-fue-decepciona",
@@ -4075,21 +4105,6 @@
           "tag": "Argentino"
         },
         {
-          "id": "campeones-com-ar-mangoni-aclaro-lo-que-paso-con-werner-y-el-pedido-de-disculpas-que-recibio",
-          "title": "Mangoni aclaró lo que pasó con Werner y el pedido de disculpas que recibió",
-          "summary": "El balcarceño recibió duros mensajes en redes sociales pero a la vez contó algo de Werner: \"Me pidió disculpas y haciéndose cargo del error\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/mangoni-aclaro-lo-que-paso-con-werner-y-el-pedido-de-disculpas-que-recibio/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Mangoni-Rio-Cuarto-TC-rostro-piloto.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-17T14:20:12.000Z",
-          "addedAt": "2026-11-17T17:43:04.382Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-tc-agustin-canapino-se-llevo-la-2a-serie-riocuartense-sin-apremios",
           "title": "TC: Agustín Canapino se llevó la 2ª serie riocuartense sin apremios",
           "summary": "El “Titán” estrenó la motorización de “Pope” Bonelli en su Chevrolet Camaro con su 2º triunfo parcial de 2026, tras prevalecer en la disputa con Jonatan Castellano (Dodge Challenger), que había hecho la “pole” pero largó 2º en la serie.",
@@ -4101,21 +4116,6 @@
           "language": "es",
           "publishedAt": "2026-11-15T14:32:49.000Z",
           "addedAt": "2026-11-15T19:52:39.181Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
-          "id": "campeones-com-ar-tc-en-rio-cuarto-rossi-volvio-a-la-victoria-y-canapino-hizo-negocio-en-la-copa-de-oro",
-          "title": "TC en Río Cuarto: Rossi volvió a la victoria y Canapino hizo negocio en la Copa de Oro",
-          "summary": "El “Misil” se impuso de punta a punta con el Toyota Camry del Pradecon Racing y cortó una sequía de 33 carreras, mientras que el “Titán” terminó 2º y llega al Coronación como escolta de Santero en el “play-off”, a 10 puntos del mendocino.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/tc-en-rio-cuarto-rossi-volvio-a-la-victoria-y-canapino-hizo-negocio-en-la-copa-de-oro/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Rossi-TC-2026-1.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-15T17:42:59.000Z",
-          "addedAt": "2026-11-15T19:52:37.496Z",
           "category": "argentino",
           "tag": "Argentino"
         }
