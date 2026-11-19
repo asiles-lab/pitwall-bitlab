@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-19T04:18:05.174Z",
-  "checkedAt": "2026-11-19T04:18:05.174Z",
+  "updatedAt": "2026-11-19T13:38:56.961Z",
+  "checkedAt": "2026-11-19T13:38:56.961Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,6 +40,21 @@
   },
   "backlog": [
     {
+      "id": "campeones-com-ar-tcr-world-tour-girolami-se-ubico-6-en-las-practicas-de-macao",
+      "title": "TCR World Tour: Girolami se ubicó 6.° en las prácticas de Macao",
+      "summary": "A bordo de un Hyundai, el piloto cordobés cumplió con las primeras sesiones cronometradas en donde el más veloz fue el uruguayo Urrutia.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-world-tour-girolami-se-ubico-6-en-las-practicas-de-macao/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261119-TCRWT-Girolami-Macao-Hyundai.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-19T11:50:01.000Z",
+      "addedAt": "2026-11-19T13:39:01.361Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "www-tycsports-com-automovilismo-el-novedoso-cambio-de-reglamento-que-podria-transformar-las-carreras-de-la-formula-1-id7",
       "title": "El novedoso cambio de reglamento que podría transformar las carreras de la Fórmula 1",
       "summary": "Algunos autos de la parrilla está pidiendo modificaciones en el límite de velocidad para que se puedan hacer más adelantamientos durante las carreras.",
@@ -53,21 +68,6 @@
       "addedAt": "2026-11-17T23:58:21.608Z",
       "category": "general",
       "tag": "Carrera"
-    },
-    {
-      "id": "campeones-com-ar-manana-se-presenta-al-segundo-piloto-de-bmw-para-el-tc-2027",
-      "title": "Mañana se presenta al segundo piloto de BMW para el TC 2027 | Campeones",
-      "summary": "Mauricio Tucci le confirmó a Campeones que mañana será develado el compañero de Julián Santero en el Fispa Corse, para la temporada venidera.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/manana-se-presenta-al-segundo-piloto-de-bmw-para-el-tc-2027/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/05/260521-TC-BMW-Santero.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-18T18:16:28.000Z",
-      "addedAt": "2026-11-18T23:09:22.537Z",
-      "category": "argentino",
-      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-briatore-evaluo-el-decepcionante-fin-de-semana-de-colapinto-y-gasly-en-interlagos",
@@ -98,6 +98,21 @@
       "addedAt": "2026-11-17T00:20:55.683Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-manana-se-presenta-al-segundo-piloto-de-bmw-para-el-tc-2027",
+      "title": "Mañana se presenta al segundo piloto de BMW para el TC 2027 | Campeones",
+      "summary": "Mauricio Tucci le confirmó a Campeones que mañana será develado el compañero de Julián Santero en el Fispa Corse, para la temporada venidera.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/manana-se-presenta-al-segundo-piloto-de-bmw-para-el-tc-2027/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/05/260521-TC-BMW-Santero.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-18T18:16:28.000Z",
+      "addedAt": "2026-11-18T23:09:22.537Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-turismo-carretera-la-grilla-de-largada-de-la-final-en-rio-cuarto",
@@ -173,51 +188,6 @@
       "addedAt": "2026-11-16T16:11:54.006Z",
       "category": "argentino",
       "tag": "Franco"
-    },
-    {
-      "id": "campeones-com-ar-revista-campeones-con-rossi-ganador-en-rio-cuarto-y-antonelli-campeon-de-la-f1",
-      "title": "Revista Campeones con Rossi ganador en Río Cuarto y Antonelli campeón de la F1",
-      "summary": "Se viene la definición de la Copa de Oro del Turismo Carretera y los candidatos al título perfilan sus posibilidades en el 'playoff'.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/revista-campeones-con-rossi-ganador-en-rio-cuarto-y-antonelli-campeon-de-la-f1/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/0788_04-07-Cobertura-TC.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-18T17:54:31.000Z",
-      "addedAt": "2026-11-18T23:09:23.078Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "www-tycsports-com-automovilismo-haas-confirmo-que-piloto-volvera-a-reemplazar-a-ocon-en-el-gp-de-las-vegas-f1-formula-1-",
-      "title": "Haas confirmó qué piloto volverá a reemplazar a Ocon en la próxima carrera de F1",
-      "summary": "La escudería informó que el brasileño volverá a compartir equipo con Oliver Bearman, mientras que Ryō Hirakawa participará de la primera práctica libre.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/haas-confirmo-que-piloto-volvera-a-reemplazar-a-ocon-en-el-gp-de-las-vegas-f1-formula-1-id771693.html",
-      "image": "https://media.tycsports.com/files/2026/11/16/1005225/haas_862x485.webp?v=1",
-      "body": "La escudería informó que el brasileño volverá a compartir equipo con Oliver Bearman, mientras que Ryō Hirakawa participará de la primera práctica libre.\n\nHaas confirmó a su próximo piloto + Seguinos en Haas confirmó que Rafael Câmara volverá a reemplazar a Esteban Ocon en el Gran Premio de Las Vegas de Fórmula 1. El brasileño compartirá equipo con Oliver Bearman y tendrá una nueva oportunidad de subirse al monoplaza de la escudería estadounidense, luego de su debut en la categoría durante la última carrera en Brasil.\n\nCâmara ya había ocupado el lugar de Ocon en el Gran Premio de Brasil, tras la salida del piloto francés. Su primera participación dejó buenas sensaciones en el equipo, que decidió mantenerlo como sustituto para la próxima fecha del calendario.\n\nAyao Komatsu, director de Haas, destacó el rendimiento del brasileño en su primera experiencia en la Fórmula 1 y recordó que será parte de la estructura a partir de 2027. \"En Brasil, nuestro fichaje de 2027, Rafa Câmara, debutó en condiciones extremadamente difíciles y nos demostró, tanto a nosotros como al mundo, por qué lo fichamos para 2027\" , expresó. Por su parte, el joven piloto se mostró entusiasmado con la posibilidad de volver a competir y reconoció que tendrá un nuevo desafío en un circuito que todavía no conoce. \"Tengo muchas ganas de volver a subirme al coche en Las Vegas. Brasil fue una buena experiencia de aprendizaje, y ahora el objetivo es seguir mejorando, progresando paso a paso y aprovechando al máximo cada sesión\" , manifestó.\n\nAdemás, Câmara señaló que buscará aprovechar cada salida a pista para continuar adaptándose al monoplaza y sumar experiencia en la categoría. \"Es un circuito nuevo para mí, así que hay mucho que aprender, pero haré todo lo posible por seguir progresando durante el fin de s",
-      "language": "es",
-      "publishedAt": "2026-11-16T11:14:27.000Z",
-      "addedAt": "2026-11-16T16:11:46.887Z",
-      "category": "general",
-      "tag": "Carrera"
-    },
-    {
-      "id": "campeones-com-ar-el-maquin-parts-arma-otro-mercedes-de-tc",
-      "title": "¿El Maquin Parts arma otro Mercedes de TC? | Campeones",
-      "summary": "Horacio Soljan dialogó con Campeones y abrió la puerta a un cuarto piloto de la marca alemana en la estructura para el 2027.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-maquin-parts-arma-otro-mercedes-de-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/07/SnapInsta.to_693956161_17885157576551750_391010892514468885_n-e1782928846280.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-18T20:07:26.000Z",
-      "addedAt": "2026-11-18T23:09:22.536Z",
-      "category": "general",
-      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-esta-noche-grandes-campeones-69",
@@ -415,6 +385,36 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-revista-campeones-con-rossi-ganador-en-rio-cuarto-y-antonelli-campeon-de-la-f1",
+      "title": "Revista Campeones con Rossi ganador en Río Cuarto y Antonelli campeón de la F1",
+      "summary": "Se viene la definición de la Copa de Oro del Turismo Carretera y los candidatos al título perfilan sus posibilidades en el 'playoff'.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/revista-campeones-con-rossi-ganador-en-rio-cuarto-y-antonelli-campeon-de-la-f1/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/0788_04-07-Cobertura-TC.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-18T17:54:31.000Z",
+      "addedAt": "2026-11-18T23:09:23.078Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-haas-confirmo-que-piloto-volvera-a-reemplazar-a-ocon-en-el-gp-de-las-vegas-f1-formula-1-",
+      "title": "Haas confirmó qué piloto volverá a reemplazar a Ocon en la próxima carrera de F1",
+      "summary": "La escudería informó que el brasileño volverá a compartir equipo con Oliver Bearman, mientras que Ryō Hirakawa participará de la primera práctica libre.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/haas-confirmo-que-piloto-volvera-a-reemplazar-a-ocon-en-el-gp-de-las-vegas-f1-formula-1-id771693.html",
+      "image": "https://media.tycsports.com/files/2026/11/16/1005225/haas_862x485.webp?v=1",
+      "body": "La escudería informó que el brasileño volverá a compartir equipo con Oliver Bearman, mientras que Ryō Hirakawa participará de la primera práctica libre.\n\nHaas confirmó a su próximo piloto + Seguinos en Haas confirmó que Rafael Câmara volverá a reemplazar a Esteban Ocon en el Gran Premio de Las Vegas de Fórmula 1. El brasileño compartirá equipo con Oliver Bearman y tendrá una nueva oportunidad de subirse al monoplaza de la escudería estadounidense, luego de su debut en la categoría durante la última carrera en Brasil.\n\nCâmara ya había ocupado el lugar de Ocon en el Gran Premio de Brasil, tras la salida del piloto francés. Su primera participación dejó buenas sensaciones en el equipo, que decidió mantenerlo como sustituto para la próxima fecha del calendario.\n\nAyao Komatsu, director de Haas, destacó el rendimiento del brasileño en su primera experiencia en la Fórmula 1 y recordó que será parte de la estructura a partir de 2027. \"En Brasil, nuestro fichaje de 2027, Rafa Câmara, debutó en condiciones extremadamente difíciles y nos demostró, tanto a nosotros como al mundo, por qué lo fichamos para 2027\" , expresó. Por su parte, el joven piloto se mostró entusiasmado con la posibilidad de volver a competir y reconoció que tendrá un nuevo desafío en un circuito que todavía no conoce. \"Tengo muchas ganas de volver a subirme al coche en Las Vegas. Brasil fue una buena experiencia de aprendizaje, y ahora el objetivo es seguir mejorando, progresando paso a paso y aprovechando al máximo cada sesión\" , manifestó.\n\nAdemás, Câmara señaló que buscará aprovechar cada salida a pista para continuar adaptándose al monoplaza y sumar experiencia en la categoría. \"Es un circuito nuevo para mí, así que hay mucho que aprender, pero haré todo lo posible por seguir progresando durante el fin de s",
+      "language": "es",
+      "publishedAt": "2026-11-16T11:14:27.000Z",
+      "addedAt": "2026-11-16T16:11:46.887Z",
+      "category": "general",
+      "tag": "Carrera"
+    },
+    {
       "id": "campeones-com-ar-damiani-se-impuso-en-rio-cuarto-y-tomo-distancia-en-la-copa-de-plata-de-tc-pista",
       "title": "Damiani se impuso en Río Cuarto y tomó distancia en la Copa de Plata de TC Pista",
       "summary": "Contundente victoria logró el nuevejuliense con el Chevrolet de Canning Motorsports en la pista cordobesa y con ello amplió la ventaja de cara a la definición en La Plata.",
@@ -565,32 +565,17 @@
       "tag": "Carrera"
     },
     {
-      "id": "campeones-com-ar-tres-ascensos-confirmados-al-tc-pista",
-      "title": "Tres ascensos confirmados al TC Pista | Campeones",
-      "summary": "La CAF habilitó a participar en la \"telonera\" del Turismo Carretera a Matías Frano, Juan Pablo Alberti y Marcelo Beraldi, a partir de la fecha en La Plata.",
+      "id": "campeones-com-ar-el-maquin-parts-arma-otro-mercedes-de-tc",
+      "title": "¿El Maquin Parts arma otro Mercedes de TC? | Campeones",
+      "summary": "Horacio Soljan dialogó con Campeones y abrió la puerta a un cuarto piloto de la marca alemana en la estructura para el 2027.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tres-ascensos-confirmados-al-tc-pista/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/gui2901-1794772070267-447497928.thumb_.jpg",
+      "url": "https://campeones.com.ar/el-maquin-parts-arma-otro-mercedes-de-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/07/SnapInsta.to_693956161_17885157576551750_391010892514468885_n-e1782928846280.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-18T13:00:29.000Z",
-      "addedAt": "2026-11-18T16:37:29.728Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-las-cuentas-de-marc-marquez-para-ser-campeon-de-motogp-en-portugal",
-      "title": "Las cuentas de Marc Márquez para ser campeón de MotoGP en Portugal",
-      "summary": "El 10mo título mundial lo pondría delante de Valentino Rossi en la estadística y a la par de Giacomo Agostini en la clase mayor.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/las-cuentas-de-marc-marquez-para-ser-campeon-de-motogp-en-portugal/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Marc-Marquez-Ducati-archivo-v2.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-18T12:10:05.000Z",
-      "addedAt": "2026-11-18T16:37:30.083Z",
+      "publishedAt": "2026-11-18T20:07:26.000Z",
+      "addedAt": "2026-11-18T23:09:22.536Z",
       "category": "general",
       "tag": "F1"
     },
@@ -998,6 +983,36 @@
       "addedAt": "2026-10-27T14:45:28.421Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tres-ascensos-confirmados-al-tc-pista",
+      "title": "Tres ascensos confirmados al TC Pista | Campeones",
+      "summary": "La CAF habilitó a participar en la \"telonera\" del Turismo Carretera a Matías Frano, Juan Pablo Alberti y Marcelo Beraldi, a partir de la fecha en La Plata.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tres-ascensos-confirmados-al-tc-pista/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/gui2901-1794772070267-447497928.thumb_.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-18T13:00:29.000Z",
+      "addedAt": "2026-11-18T16:37:29.728Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-las-cuentas-de-marc-marquez-para-ser-campeon-de-motogp-en-portugal",
+      "title": "Las cuentas de Marc Márquez para ser campeón de MotoGP en Portugal",
+      "summary": "El 10mo título mundial lo pondría delante de Valentino Rossi en la estadística y a la par de Giacomo Agostini en la clase mayor.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/las-cuentas-de-marc-marquez-para-ser-campeon-de-motogp-en-portugal/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Marc-Marquez-Ducati-archivo-v2.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-18T12:10:05.000Z",
+      "addedAt": "2026-11-18T16:37:30.083Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-sensaciones-de-los-candidatos-por-el-titulo-de-tc",
@@ -2245,21 +2260,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-canapino-lidera-por-1a-vez-en-tc-pick-up-y-alimenta-el-sueno-de-otra-triple-corona",
-      "title": "Canapino lidera por 1ª vez en TC Pick Up y alimenta el sueño de otra “Triple Corona”",
-      "summary": "Si bien no avizora un panorama del todo favorable en el TCPK, algo similar a lo que considera que sucede en el Turismo Carretera, el “Titán” tiene posibilidades concretas de repetir el hito de 2025, aunque esta vez el logro sería 100% Chevrolet.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/canapino-lidera-por-1a-vez-en-tc-pick-up-y-alimenta-el-sueno-de-otra-triple-corona/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TCPK-2026-1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-20T12:23:36.000Z",
-      "addedAt": "2026-10-25T21:40:53.023Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-agustin-canapino-gano-la-final-del-turismo-carretera-en-neuquen-en-una-carrera-accidenta",
       "title": "Agustín Canapino ganó la final del Turismo Carretera en Neuquén en una carrera accidentada",
       "summary": "El Titán de Arrecifes aprovechó el problema que tuvo Matías Rossi y se convirtió en el primer piloto en ganar dos veces en ese autódromo.",
@@ -2743,7 +2743,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-19T04:18:11.558Z",
+      "createdAt": "2026-11-19T13:39:08.966Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-sancion-piastri-f1gp-las-vegas-id772009-html",
@@ -2757,6 +2757,36 @@
           "language": "es",
           "publishedAt": "2026-11-18T23:10:26.000Z",
           "addedAt": "2026-11-18T16:37:27.877Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-franaco-colapinto-carrera-las-vegas-f1-boca-final-sudamericana-id772110-html",
+          "title": "La confesión bostera de Colapinto entre el GP de Las Vegas y la final de la Sudamericana",
+          "summary": "El piloto argentino contó como verá el partido de Boca en medio de sus preparaciones para correr en Estados Unidos. Además, repasó cómo vivió el Superclásico y la consagración del Xeneize en la Tabla Anual.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franaco-colapinto-carrera-las-vegas-f1-boca-final-sudamericana-id772110.html",
+          "image": "https://media.tycsports.com/files/2026/11/19/1005989/franco-colapinto_1440x810.webp?v=1",
+          "body": "El piloto argentino contó como verá el partido de Boca en medio de sus preparaciones para correr en Estados Unidos. Además, repasó cómo vivió el Superclásico y la consagración del Xeneize en la Tabla Anual.\n\nFranco Colapinto se encuentra en el puesto número 12 del Campeonato de Pilotos de la Fórmula 1. (Mark Thompson/Getty Images) + Seguinos en Franco Colapinto tendrá un fin de semana especial: mientras se prepara para correr el Gran Premio de Las Vegas de Fórmula 1, también estará pendiente de Boca, que este sábado disputará la final de la Copa Sudamericana ante Atlético Mineiro.\n\nEl piloto argentino contó cómo vivió los últimos partidos del Xeneize durante sus compromisos en la máxima categoría y anticipó que volverá a seguirlo a la distancia. “Este fin de semana habrá que bancar de vuelta, de la misma manera. Cuando me baje del auto, vamos a estar ahí bien pendientes” , expresó. Colapinto también recordó el Superclásico que Boca ganó 1-0 en La Bombonera , mientras él competía en el Gran Premio de México. “En la bandera roja, cuando paramos ahí en México, me iban diciendo el resultado: ‘Ganó Boca’, me actualizaban. Me subí al auto motivado” , mencionó.\n\nAdemás, relató cómo siguió junto a Bizarrap , hincha de Vélez, el partido ante Defensa y Justicia en Brasil, que terminó con triunfo del Xeneize y la consagración en la Tabla Anual 2026 . “Estuvo ahí con Boca a full. Quería que gane el campeonato, así que estuvo haciendo fuerza también” , agregó. Ahora, el equipo de la Ribera buscará otro título , esta vez internacional, frente a Atlético Mineiro. La final se jugará este sábado 21 de noviembre, a las 19.30, en Barranquilla, mientras que Colapinto afrontará la carrera de Las Vegas el domingo a la 1 de la madrugada argentina.",
+          "language": "es",
+          "publishedAt": "2026-11-19T12:58:00.000Z",
+          "addedAt": "2026-11-19T13:38:57.999Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-y-el-desafio-de-alpine-en-el-gp-de-las-vegas-creo-que-va-a-ser-un-buen-",
+          "title": "Colapinto y el desafío de Alpine en el GP de Las Vegas: \"Creo que va a ser un buen auto\"",
+          "summary": "El piloto argentino palpitó la 21° fecha de la Fórmula 1 en Estados Unidos, que tendrá al frío como protagonista.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-y-el-desafio-de-alpine-en-el-gp-de-las-vegas-creo-que-va-a-ser-un-buen-auto-id772094.html",
+          "image": "https://media.tycsports.com/files/2026/11/19/1005964/franco-colapinto_1440x810.webp",
+          "body": "El piloto argentino palpitó la 21° fecha de la Fórmula 1 en Estados Unidos, que tendrá al frío como protagonista.\n\nFranco Colapinto palpitó el GP de Las Vegas de la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en La Fórmula 1 afrontará este fin de semana el Gran Premio de Las Vegas, correspondiente a la 21ª fecha del campeonato, y Franco Colapinto intentará cortar una racha de seis carreras sin sumar puntos. Después del 13° puesto en Brasil, el piloto de Alpine analizó las dificultades que encontrará en Estados Unidos y se mostró entusiasmado con el desarrollo del auto de 2027.\n\nUno de los principales desafíos será el clima: se esperan temperaturas de entre 4 y 6°C durante la competencia, una condición que podría dificultar el funcionamiento de los neumáticos. A eso se suman las particularidades del circuito callejero, que obligarán a los equipos a encontrar rápidamente la puesta a punto adecuada\n\nFranco Colapinto en el media day de la Fórmula 1 \"Es un circuito diferente, muy particular, creo, en comparación con el resto del año . Es una carrera bastante singular en general. Los factores, el clima, la manera en que está hecho el circuito, el asfalto. Todo es diferente a lo que estás acostumbrado durante el año. Así que es como empezar desde cero. Y eso a veces es bueno para ver cómo reaccionan los otros autos y qué equipo consigue entenderlo primero”, explicó el argentino ante la prensa.\n\nSobre las bajas temperaturas, advirtió que \"normalmente nos quejamos del calor, así que un poco de frío probablemente no venga mal . Pero va a hacer mucho frío. Y creo que estos autos, y también estos neumáticos, son realmente sensibles cuando están por debajo de la temperatura adecuada y del rango objetivo\" . Sin embargo, consideró que un escenario tan particular podría favorecer a",
+          "language": "es",
+          "publishedAt": "2026-11-19T11:12:54.000Z",
+          "addedAt": "2026-11-19T13:38:57.747Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2791,21 +2821,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-las-vegas-id77183",
-          "title": "F1: hora y dónde ver en vivo la práctica libre de Colapinto en el GP de Las Vegas 2026",
-          "summary": "Este jueves, en el Circuito de Las Vegas, se llevarán a cabo las Prácticas Libres 1 y 2 de una nueva fecha de la Fórmula 1 2026 con la participación de Colapinto.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-las-vegas-id771834.html",
-          "image": "https://media.tycsports.com/files/2026/11/16/1005424/alpine_1440x810.webp?v=1",
-          "body": "Este jueves, en el Circuito de Las Vegas, se llevarán a cabo las Prácticas Libres 1 y 2 de una nueva fecha de la Fórmula 1 2026 con la participación de Colapinto.\n\nFranco Colapinto marcha 12° con 31 puntos en el Campeonato de Pilotos. (Photo by Clive Rose/Getty Images) + Seguinos en La temporada 2026 de la Fórmula 1, que ya tiene a Kimi Antonelli (Mercedes) como campeón, tendrá su 22° carrera del año en el Gran Premio de Las Vegas . Durante la noche del jueves y la madrugada del viernes en Argentina se desarrollarán las prácticas libres 1 y 2 con la presencia de Franco Colapinto de la mano de Alpine , luego de culminar decimotercero en el GP de Brasil. Conocé los detalles.\n\nTambién podés seguir la cobertura de la Fórmula 1 en vivo por Carburando.com .\n\nUbicado en el corazón de Las Vegas, el nuevo circuito urbano de 6,2 km y 17 curvas serpentea pasando por lugares emblemáticos como el Caesars Palace, el Bellagio y el Venetian . Con velocidades promedio similares a las de Monza, también conocido como el \"Templo de la Velocidad\" de la Fórmula 1, los aficionados tienen garantizada mucha acción y adelantamientos espectaculares.\n\nTodo el fin de semana de la Fórmula 1 se podrá ver en vivo en la Argentina a través de Fox Sports . Además, vas a poder seguir el minuto a minuto de la competición en el sitio web www.tycsports.com .",
-          "language": "es",
-          "publishedAt": "2026-11-19T03:01:39.000Z",
-          "addedAt": "2026-11-18T16:37:28.055Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-colapinto-anticipo-el-desafio-interesante-que-enfrentara-alpine-en-el-gran-premio-de-las",
           "title": "Colapinto anticipó el \"desafío interesante\" que enfrentará Alpine en el GP de Las Vegas",
           "summary": "El piloto argentino se expidió sobre lo que será el retorno de la Fórmula 1 a la ciudad estadounidense y puso la mira en superar las adversas condiciones climáticas que trae consigo disputar una carrera de noche en el desierto.",
@@ -2817,6 +2832,21 @@
           "language": "es",
           "publishedAt": "2026-11-16T21:25:24.000Z",
           "addedAt": "2026-11-17T00:20:51.607Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-las-vegas-id77183",
+          "title": "F1: hora y dónde ver en vivo la práctica libre de Colapinto en el GP de Las Vegas 2026",
+          "summary": "Este jueves, en el Circuito de Las Vegas, se llevarán a cabo las Prácticas Libres 1 y 2 de una nueva fecha de la Fórmula 1 2026 con la participación de Colapinto.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-las-vegas-id771834.html",
+          "image": "https://media.tycsports.com/files/2026/11/16/1005424/alpine_1440x810.webp?v=1",
+          "body": "Este jueves, en el Circuito de Las Vegas, se llevarán a cabo las Prácticas Libres 1 y 2 de una nueva fecha de la Fórmula 1 2026 con la participación de Colapinto.\n\nFranco Colapinto marcha 12° con 31 puntos en el Campeonato de Pilotos. (Photo by Clive Rose/Getty Images) + Seguinos en La temporada 2026 de la Fórmula 1, que ya tiene a Kimi Antonelli (Mercedes) como campeón, tendrá su 22° carrera del año en el Gran Premio de Las Vegas . Durante la noche del jueves y la madrugada del viernes en Argentina se desarrollarán las prácticas libres 1 y 2 con la presencia de Franco Colapinto de la mano de Alpine , luego de culminar decimotercero en el GP de Brasil. Conocé los detalles.\n\nTambién podés seguir la cobertura de la Fórmula 1 en vivo por Carburando.com .\n\nUbicado en el corazón de Las Vegas, el nuevo circuito urbano de 6,2 km y 17 curvas serpentea pasando por lugares emblemáticos como el Caesars Palace, el Bellagio y el Venetian . Con velocidades promedio similares a las de Monza, también conocido como el \"Templo de la Velocidad\" de la Fórmula 1, los aficionados tienen garantizada mucha acción y adelantamientos espectaculares.\n\nTodo el fin de semana de la Fórmula 1 se podrá ver en vivo en la Argentina a través de Fox Sports . Además, vas a poder seguir el minuto a minuto de la competición en el sitio web www.tycsports.com .",
+          "language": "es",
+          "publishedAt": "2026-11-19T10:04:59.000Z",
+          "addedAt": "2026-11-18T16:37:28.055Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2881,21 +2911,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-fernando-alonso-fp1-gran-premio-las-vegas-formula-1-practica-libre-id772073-html",
-          "title": "El GP de Las Vegas de la F1 tendrá un cambio de piloto en la primera práctica libre",
-          "summary": "Aston Martin confirmó que el piloto español le cederá su butaca a Jak Crawford en el inicio de la actividad, este jueves desde las 21.30 de Argentina.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/fernando-alonso-fp1-gran-premio-las-vegas-formula-1-practica-libre-id772073.html",
-          "image": "https://media.tycsports.com/files/2026/10/30/1001210/alonso_1440x810.webp?v=1",
-          "body": "Aston Martin confirmó que el piloto español le cederá su butaca a Jak Crawford en el inicio de la actividad, este jueves desde las 21.30 de Argentina.\n\nAlbon y Alonso protagonizaron una intensa pelea en pista en el GP de Estados Unidos. (Getty Images) + Seguinos en Este jueves se pondrá en marcha la actividad de la Fórmula 1 para el Gran Premio de Las Vegas y la primera práctica libre, que comenzará desde las 21.30 de nuestro país, no contará con el español Fernando Alonso.\n\nSegún confirmó la escudería Aston Martin, Alonso verá desde afuera el primer ensayo en el trazado estadounidense y quien se subirá al volante del AMR26 será el local Jak Crawford.\n\nCrawford, de 21 años y tercer piloto de la escudería por detrás de Alonso y Lance Stroll, tendrá la oportunidad de participar de una práctica libre por quinta vez en la temporada 2026.\n\nEl estadounidense ya acumuló más de 4.800 kilómetros en la máxima categoría del automovilismo, \"lo que refuerza aún más sus conocimientos técnicos y su capacidad para contribuir al desarrollo del equipo\", indicó la escudería.",
-          "language": "es",
-          "publishedAt": "2026-11-18T23:45:12.000Z",
-          "addedAt": "2026-11-19T04:18:05.862Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-fin-de-semana-de-campeones-con-franco-colapinto-en-la-f1-2",
           "title": "Fin de semana de CAMPEONES con Franco COLAPINTO",
           "summary": "Cobertura especial del GP de Las Vegas de Fórmula 1 junto a Franco Colapinto, y toda la información del deporte motor en Argentina y el mundo, por nuestras plataformas y radio Continental.",
@@ -2941,6 +2956,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-fernando-alonso-fp1-gran-premio-las-vegas-formula-1-practica-libre-id772073-html",
+          "title": "El GP de Las Vegas de la F1 tendrá un cambio de piloto en la primera práctica libre",
+          "summary": "Aston Martin confirmó que el piloto español le cederá su butaca a Jak Crawford en el inicio de la actividad, este jueves desde las 21.30 de Argentina.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/fernando-alonso-fp1-gran-premio-las-vegas-formula-1-practica-libre-id772073.html",
+          "image": "https://media.tycsports.com/files/2026/10/30/1001210/alonso_1440x810.webp?v=1",
+          "body": "Aston Martin confirmó que el piloto español le cederá su butaca a Jak Crawford en el inicio de la actividad, este jueves desde las 21.30 de Argentina.\n\nAlbon y Alonso protagonizaron una intensa pelea en pista en el GP de Estados Unidos. (Getty Images) + Seguinos en Este jueves se pondrá en marcha la actividad de la Fórmula 1 para el Gran Premio de Las Vegas y la primera práctica libre, que comenzará desde las 21.30 de nuestro país, no contará con el español Fernando Alonso.\n\nSegún confirmó la escudería Aston Martin, Alonso verá desde afuera el primer ensayo en el trazado estadounidense y quien se subirá al volante del AMR26 será el local Jak Crawford.\n\nCrawford, de 21 años y tercer piloto de la escudería por detrás de Alonso y Lance Stroll, tendrá la oportunidad de participar de una práctica libre por quinta vez en la temporada 2026.\n\nEl estadounidense ya acumuló más de 4.800 kilómetros en la máxima categoría del automovilismo, \"lo que refuerza aún más sus conocimientos técnicos y su capacidad para contribuir al desarrollo del equipo\", indicó la escudería.",
+          "language": "es",
+          "publishedAt": "2026-11-18T23:45:12.000Z",
+          "addedAt": "2026-11-19T04:18:05.862Z",
+          "category": "argentino",
+          "tag": "Argentino"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-pidio-cambios-en-alpine-y-reflexiono-sobre-la-f1-los-pilotos-hoy-tienen-que-se",
           "title": "Colapinto pidió cambios en Alpine y reflexionó sobre la F1: \"Los pilotos hoy tienen que ser ingenieros también\"",
           "summary": "En la antesala del Gran Premio de Brasil, el argentino solicitó la introducción de modificaciones profundas en la escudería francesa, en caso de querer mejorar el rendimiento para la próxima temporada de la Máxima.",
@@ -2984,7 +3014,13 @@
           "addedAt": "2026-11-02T05:51:30.906Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-11-19T13:39:08.966Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-lo-desplazo-de-la-f1-y-podria-volver-tras-el-escandalo-de-ocon-en-haas-id76968",
           "title": "Colapinto lo desplazó de la F1 y podría volver tras el escándalo de Ocon en Haas",
@@ -3014,13 +3050,7 @@
           "addedAt": "2026-10-24T21:13:09.032Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-11-19T04:18:11.558Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-formula-1-argentina-id768274-html",
           "title": "La revelación de Colapinto sobre el regreso de la F1 a la Argentina: \"Por lo que escucho...\"",
@@ -3260,58 +3290,13 @@
           "addedAt": "2026-10-25T18:56:46.890Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda",
-          "title": "Colapinto calificó de “rara” su clasificación en el GP de Austin y explicó qué le complicó la tanda",
-          "summary": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda-id768484.html",
-          "image": "https://media.tycsports.com/files/2026/10/22/998500/franco-colapinto-casco_1440x810.webp",
-          "body": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.\n\nFranco Colapinto estrenó un nuevo diseño de su casco en el Gran Premio de Estados Unidos de la Fórmula 1. + Seguinos en Franco Colapinto terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21 . Tras la sesión en el circuito de Austin, el argentino reconoció que Alpine no logró encontrar el rendimiento esperado y apuntó a las dificultades que tuvo con el auto.\n\n“Fue una clasificación rara. Nos estuvo costando toda la sesión” , resumió el piloto, que no consiguió sentirse cómodo con el monoplaza desde el inicio del fin de semana. Además, señaló que los sectores irregulares del trazado le generaron problemas cuando intentaba acelerar el ritmo.\n\n“Desde ayer que no encontramos el auto y cuando vamos rápido por los pianos y la parte más bacheada de la pista se complica un poco” , explicó Colapinto, que buscará revertir esas sensaciones en la carrera del domingo.\n\nPese a las dificultades, el argentino logró superar la Q1 y avanzar hasta la Q2, donde terminó en el 14° lugar. Sin embargo, la penalización lo relegará al fondo de la grilla y condicionará su estrategia para la competencia.",
-          "language": "es",
-          "publishedAt": "2026-10-24T23:45:17.000Z",
-          "addedAt": "2026-10-25T01:26:40.513Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-",
-          "title": "Colapinto, entre la preocupación y la esperanza tras las prácticas libres en Austin: “Será muy difícil, pero...”",
-          "summary": "El piloto argentino, que culminó 17&ordm; y 15&ordm; en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-muy-dificil-pero--id768314.html",
-          "image": "https://media.tycsports.com/files/2026/10/23/998965/franco-colapinto_1440x810.webp?v=2",
-          "body": "El piloto argentino, que culminó 17º y 15º en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.\n\nColapinto, entre la preocupación y la esperanza luego de las prácticas libres en Austin (Getty Images: Kym Illman). + Seguinos en Este viernes, Franco Colapinto puso primera en el Gran Premio de Estados Unidos de la Fórmula 1 y lo hizo con las prácticas libres , en las cuales finalizó 17º y 15º respectivamente. Ahora, todavía a la espera de la FP3, y con una penalización de diez lugares para la grilla de salida de la carrera principal del próximo domingo , el piloto de Alpine analizó lo sucedido en la pista. Más allá de que se lo notó preocupado, también exhibió una mínima llamarada de esperanza con la mira puesta en potenciar el rendimiento.\n\nDespués de finalizar con las dos sesiones de la jornada, el pilarense dejó en evidencia su disconformidad con el funcionamiento del monoplaza . “Intentaremos enfocarnos en el balance para la carrera. Ojalá que eso nos ayude . Creo que estamos un poco obligados con la dureza del auto, uno muy rígido y cuesta mucho en una pista muy bacheada, así que va a ser difícil, pero intentaremos dar un salto para mañana (en referencia al sábado)” , expresó en primera instancia.\n\nMás adelante, reconoció que el A526 tiene margen de mejora , aunque la escudería deberá analizar múltiples datos para hacerla efectiva de cara a la clasificación que, con la mencionada sanción, no definirá demasiado . “Hay mucho por mejorar y por entender, o por lo menos bastante performance para encontrar en el auto por la cantidad de baches que hay. Creo que es una pista un poco atípica, aunque por otro lado tendremos que entender cómo mejorar para mañana” , añadió e",
-          "language": "es",
-          "publishedAt": "2026-10-24T00:50:22.000Z",
-          "addedAt": "2026-10-24T02:00:16.108Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-11-19T04:18:11.558Z",
+      "createdAt": "2026-11-19T13:39:08.966Z",
       "items": [
-        {
-          "id": "www-tycsports-com-automovilismo-cadillac-bottas-checo-perez-pilotos-temporada-2027-grilla-id772061-html",
-          "title": "Cadillac confirmó sus pilotos y solo queda una duda en la grilla de la temporada 2027 de la F1",
-          "summary": "Bottas continuará en la escudería el año que viene y así se despejó otra duda respecto al año que viene. ¿Qué resta definirse?",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/cadillac-bottas-checo-perez-pilotos-temporada-2027-grilla--id772061.html",
-          "image": "https://media.tycsports.com/files/2026/11/18/1005889/cadillac-confirmo-a-bottas-como-companero-de-checo-perez-para-2028_862x485.webp",
-          "body": "Bottas continuará en la escudería el año que viene y así se despejó otra duda respecto al año que viene. ¿Qué resta definirse?\n\nCadillac confirmó a Bottas como compañero de Checo Pérez para 2027 + Seguinos en En la previa del Gran Premio de Las Vegas , Cadillac anunció este miércoles que el finés Valtteri Bottas seguirá formando parte de la escudería durante la temporada 2027 del Campeonato del Mundo de Fórmula 1 y así se despejó otra duda de cara al año que viene.\n\n\"Este anuncio aporta continuidad y estabilidad a Cadillac, que se afianza tras su primera temporada en la parrilla de salida. De este modo, el equipo mantiene su objetivo a largo plazo de consolidar una escudería competitiva en la máxima categoría del automovilismo mundial\", indicó el equipo en un comunicado. \"A quien corresponda: ¡me quedo!\" , declaró Bottas y reconoció: \" Estoy emocionado por continuar este viaje con Cadillac hasta 2027. Sabíamos que crear un nuevo equipo de Fórmula 1 desde cero no iba a ser fácil, pero eso es precisamente lo que hace que este reto sea tan especial.\n\n\"Hemos sentado las bases, estamos aprendiendo y mejorando, y aún nos queda mucho por delante. Tengo ganas de más y creo en lo que estamos construyendo juntos. La historia no ha hecho más que empezar\", agregó el finés, quien competía por el segundo asiento con Colton Herta.\n\nBottas, de 37 años, llegó a la F1 en 2012 con el equipo Williams y perteneció ahí hasta que en 2017 pasó a Mercedes; en 2022, el finés pasó a Alfa Romeo y este año debutó con Cadillac junto al mexicano Sergio Pérez, quien recientemente renovó con el equipo hasta el final del 2029.",
-          "language": "es",
-          "publishedAt": "2026-11-18T21:42:48.000Z",
-          "addedAt": "2026-11-18T23:09:20.634Z",
-          "category": "general",
-          "tag": "F1"
-        },
         {
           "id": "www-tycsports-com-automovilismo-ricciardo-revelo-la-humillacion-que-llevo-a-su-retiro-de-la-f1-me-estaban-dando-una-pali",
           "title": "El histórico de la F1 que reveló la \"humillación\" que llevó a su retiro: \"Me estaban dando una paliza\"",
@@ -3341,6 +3326,21 @@
           "addedAt": "2026-11-17T08:12:46.039Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-cadillac-bottas-checo-perez-pilotos-temporada-2027-grilla-id772061-html",
+          "title": "Cadillac confirmó sus pilotos y solo queda una duda en la grilla de la temporada 2027 de la F1",
+          "summary": "Bottas continuará en la escudería el año que viene y así se despejó otra duda respecto al año que viene. ¿Qué resta definirse?",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/cadillac-bottas-checo-perez-pilotos-temporada-2027-grilla--id772061.html",
+          "image": "https://media.tycsports.com/files/2026/11/18/1005889/cadillac-confirmo-a-bottas-como-companero-de-checo-perez-para-2028_862x485.webp",
+          "body": "Bottas continuará en la escudería el año que viene y así se despejó otra duda respecto al año que viene. ¿Qué resta definirse?\n\nCadillac confirmó a Bottas como compañero de Checo Pérez para 2027 + Seguinos en En la previa del Gran Premio de Las Vegas , Cadillac anunció este miércoles que el finés Valtteri Bottas seguirá formando parte de la escudería durante la temporada 2027 del Campeonato del Mundo de Fórmula 1 y así se despejó otra duda de cara al año que viene.\n\n\"Este anuncio aporta continuidad y estabilidad a Cadillac, que se afianza tras su primera temporada en la parrilla de salida. De este modo, el equipo mantiene su objetivo a largo plazo de consolidar una escudería competitiva en la máxima categoría del automovilismo mundial\", indicó el equipo en un comunicado. \"A quien corresponda: ¡me quedo!\" , declaró Bottas y reconoció: \" Estoy emocionado por continuar este viaje con Cadillac hasta 2027. Sabíamos que crear un nuevo equipo de Fórmula 1 desde cero no iba a ser fácil, pero eso es precisamente lo que hace que este reto sea tan especial.\n\n\"Hemos sentado las bases, estamos aprendiendo y mejorando, y aún nos queda mucho por delante. Tengo ganas de más y creo en lo que estamos construyendo juntos. La historia no ha hecho más que empezar\", agregó el finés, quien competía por el segundo asiento con Colton Herta.\n\nBottas, de 37 años, llegó a la F1 en 2012 con el equipo Williams y perteneció ahí hasta que en 2017 pasó a Mercedes; en 2022, el finés pasó a Alfa Romeo y este año debutó con Cadillac junto al mexicano Sergio Pérez, quien recientemente renovó con el equipo hasta el final del 2029.",
+          "language": "es",
+          "publishedAt": "2026-11-18T21:42:48.000Z",
+          "addedAt": "2026-11-18T23:09:20.634Z",
+          "category": "general",
+          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-campeon-f1-formula-uno-fernando-alonso-rally-dakar-aston-martin-id771841-html",
@@ -3571,7 +3571,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-11-19T04:18:11.558Z",
+      "createdAt": "2026-11-19T13:39:08.966Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-clay-regazzoni-subcampeon-del-mundo-f1-paraplejico-dakar-muerte-choque-tragico-op-id7673",
@@ -3647,6 +3647,36 @@
           "addedAt": "2026-10-29T23:26:50.398Z",
           "category": "general",
           "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda",
+          "title": "Colapinto calificó de “rara” su clasificación en el GP de Austin y explicó qué le complicó la tanda",
+          "summary": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda-id768484.html",
+          "image": "https://media.tycsports.com/files/2026/10/22/998500/franco-colapinto-casco_1440x810.webp",
+          "body": "El argentino terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21.\n\nFranco Colapinto estrenó un nuevo diseño de su casco en el Gran Premio de Estados Unidos de la Fórmula 1. + Seguinos en Franco Colapinto terminó 14° en la clasificación del Gran Premio de Estados Unidos de Fórmula 1, pero una sanción lo obligará a largar desde el puesto 21 . Tras la sesión en el circuito de Austin, el argentino reconoció que Alpine no logró encontrar el rendimiento esperado y apuntó a las dificultades que tuvo con el auto.\n\n“Fue una clasificación rara. Nos estuvo costando toda la sesión” , resumió el piloto, que no consiguió sentirse cómodo con el monoplaza desde el inicio del fin de semana. Además, señaló que los sectores irregulares del trazado le generaron problemas cuando intentaba acelerar el ritmo.\n\n“Desde ayer que no encontramos el auto y cuando vamos rápido por los pianos y la parte más bacheada de la pista se complica un poco” , explicó Colapinto, que buscará revertir esas sensaciones en la carrera del domingo.\n\nPese a las dificultades, el argentino logró superar la Q1 y avanzar hasta la Q2, donde terminó en el 14° lugar. Sin embargo, la penalización lo relegará al fondo de la grilla y condicionará su estrategia para la competencia.",
+          "language": "es",
+          "publishedAt": "2026-10-24T23:45:17.000Z",
+          "addedAt": "2026-10-25T01:26:40.513Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-",
+          "title": "Colapinto, entre la preocupación y la esperanza tras las prácticas libres en Austin: “Será muy difícil, pero...”",
+          "summary": "El piloto argentino, que culminó 17&ordm; y 15&ordm; en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-entre-la-preocupacion-y-la-esperanza-tras-las-practicas-libres-en-austin-sera-muy-dificil-pero--id768314.html",
+          "image": "https://media.tycsports.com/files/2026/10/23/998965/franco-colapinto_1440x810.webp?v=2",
+          "body": "El piloto argentino, que culminó 17º y 15º en las primeras dos pruebas previas a la clasificación de este sábado, ventiló los aspectos que debe mejorar Alpine con la mira puesta en la carrera principal.\n\nColapinto, entre la preocupación y la esperanza luego de las prácticas libres en Austin (Getty Images: Kym Illman). + Seguinos en Este viernes, Franco Colapinto puso primera en el Gran Premio de Estados Unidos de la Fórmula 1 y lo hizo con las prácticas libres , en las cuales finalizó 17º y 15º respectivamente. Ahora, todavía a la espera de la FP3, y con una penalización de diez lugares para la grilla de salida de la carrera principal del próximo domingo , el piloto de Alpine analizó lo sucedido en la pista. Más allá de que se lo notó preocupado, también exhibió una mínima llamarada de esperanza con la mira puesta en potenciar el rendimiento.\n\nDespués de finalizar con las dos sesiones de la jornada, el pilarense dejó en evidencia su disconformidad con el funcionamiento del monoplaza . “Intentaremos enfocarnos en el balance para la carrera. Ojalá que eso nos ayude . Creo que estamos un poco obligados con la dureza del auto, uno muy rígido y cuesta mucho en una pista muy bacheada, así que va a ser difícil, pero intentaremos dar un salto para mañana (en referencia al sábado)” , expresó en primera instancia.\n\nMás adelante, reconoció que el A526 tiene margen de mejora , aunque la escudería deberá analizar múltiples datos para hacerla efectiva de cara a la clasificación que, con la mencionada sanción, no definirá demasiado . “Hay mucho por mejorar y por entender, o por lo menos bastante performance para encontrar en el auto por la cantidad de baches que hay. Creo que es una pista un poco atípica, aunque por otro lado tendremos que entender cómo mejorar para mañana” , añadió e",
+          "language": "es",
+          "publishedAt": "2026-10-24T00:50:22.000Z",
+          "addedAt": "2026-10-24T02:00:16.108Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-messi-balon-de-oro-id767832-html",
@@ -3812,7 +3842,13 @@
           "addedAt": "2026-11-06T17:24:55.432Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-11-19T13:39:08.966Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-brasil-id770258-h",
           "title": "◉ F1: seguí EN VIVO la práctica libre de Colapinto en el GP de Brasil",
@@ -3842,13 +3878,7 @@
           "addedAt": "2026-11-06T22:13:52.274Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-11-19T04:18:11.558Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-un-piloto-argentino-estuvo-presente-en-el-cumpleanos-de-lando-norris-es-un-personaje-id7",
           "title": "Un piloto argentino estuvo presente en el cumpleaños de Lando Norris: “Es un personaje”",
@@ -4088,36 +4118,6 @@
           "addedAt": "2026-11-07T23:03:39.594Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "carburando-com-ar-blog-colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
-          "title": "Colapinto no es el único: dos pilotos más suman sanciones en la parrilla de Austin",
-          "summary": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico…",
-          "source": "Carburando",
-          "sourceLabel": "Carburando",
-          "url": "https://carburando.com.ar/blog/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-la-parrilla",
-          "image": "https://carburando.com.ar/covers/22/colapinto-no-es-el-unico-dos-pilotos-mas-suman-sanciones-en-27815.webp",
-          "body": "Además de Franco Colapinto, otros dos pilotos de Fórmula 1 recibirán penalizaciones en la grilla del GP de Estados Unidos. Repasamos el reglamento técnico y deportivo que explica estas decisiones.\n\nLa parrilla del Gran Premio de Estados Unidos en el Circuito de las Américas se definirá este fin de semana con más modificaciones de lo habitual. Franco Colapinto no será el único que partirá más atrás de lo que su clasificación indique: dos pilotos adicionales acumulan sanciones que alterarán el orden de largada en Austin.\n\nEn el reglamento deportivo de la FIA, las penalizaciones por cambios de componentes de la unidad de potencia son las más habituales. Cuando un equipo excede el número permitido de motores, turbinas, MGU-K o baterías por temporada, el piloto debe retroceder posiciones en la grilla. Este mecanismo busca equilibrar el desarrollo y el costo de las plantas impulsoras.\n\nColapinto ya había recibido una sanción previa por la sustitución de varios elementos del power unit en las últimas carreras. Ahora se suman a esa lista otros dos corredores que, por motivos técnicos similares o por infracciones durante los entrenamientos, perderán lugares. El detalle exacto de cada penalidad se confirma habitualmente tras la clasificación del sábado, pero los equipos ya anticipan los movimientos.\n\nDesde el punto de vista técnico, el reglamento 2026 de la Fórmula 1 mantiene la filosofía de limitar el número de unidades de potencia por temporada, aunque con ajustes en la potencia y el componente eléctrico. Esto obliga a los fabricantes a ser más precisos en la gestión de fiabilidad, porque cada cambio extra se paga caro en la parrilla.",
-          "language": "es",
-          "publishedAt": "2026-10-23T21:50:17.000Z",
-          "addedAt": "2026-11-15T06:14:01.040Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-nacho-fain-anuncio-que-deja-el-trotta-racing",
-          "title": "\"Nacho\" Fain anunció que deja el Trotta Racing | Campeones",
-          "summary": "El de Villa Minetti no seguirá formando parte de la estructura con sede en Chacabuco, algo que se venía comentando desde la carrera en Río Cuarto.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/nacho-fain-anuncio-que-deja-el-trotta-racing/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/SaveClip.App_836571177_18469702723140148_5516655084561381431_n-e1795005796257.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-18T12:43:34.000Z",
-          "addedAt": "2026-11-18T16:37:28.602Z",
-          "category": "argentino",
-          "tag": "Argentino"
         }
       ]
     }
