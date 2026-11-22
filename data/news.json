@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-21T21:44:47.076Z",
-  "checkedAt": "2026-11-21T21:44:47.076Z",
+  "updatedAt": "2026-11-22T01:38:19.815Z",
+  "checkedAt": "2026-11-22T01:38:19.815Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,21 +40,6 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-el-fastidio-de-colapinto-tras-clasificar-no-quede-conforme-porque-estabamos-para-mucho-mas",
-      "title": "El fastidio de Colapinto tras clasificar: «No quedé conforme, porque estábamos para mucho más»",
-      "summary": "Al concluir la sesión cronometrada en Las Vegas, el piloto argentino se refirió a las dificultades que le impidieron mejorar con el Alpine.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-fastidio-de-colapinto-tras-clasificar-no-quede-conforme-porque-estabamos-para-mucho-mas/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261121-F1-LV-FColapinto.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-21T06:19:25.000Z",
-      "addedAt": "2026-11-21T08:12:18.697Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
-    {
       "id": "campeones-com-ar-notable-top5-de-colapinto-en-la-ultima-practica-de-las-vegas",
       "title": "Notable Top5 de Colapinto en las prácticas de Las Vegas",
       "summary": "Siguió trabajando en el equilibrio del Alpine A526 con neumáticos medios y blandos preparándose para la clasificación y la carrera; Russell otra vez fue el más veloz.",
@@ -68,21 +53,6 @@
       "addedAt": "2026-11-21T08:12:18.876Z",
       "category": "argentino",
       "tag": "Franco"
-    },
-    {
-      "id": "campeones-com-ar-tcr-wt-urrutia-gana-la-1a-carrera-en-macao-y-girolami-llega-4",
-      "title": "TCR WT: Urrutia gana la 1ª carrera en Macao y Girolami llega 4°",
-      "summary": "El uruguayo se impuso de punta a punta en el intrincado circuito chino, donde lo escoltaron Azcona y Michelisz. El argentino, que largó 5° con el Hyundai, quedó a un paso del podio.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tcr-wt-urrutia-gana-la-1a-carrera-en-macao-y-girolami-llega-4/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/urrutia-macao-carrera1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-21T10:18:47.000Z",
-      "addedAt": "2026-11-21T16:17:03.933Z",
-      "category": "argentino",
-      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-colapinto-quedo-9-cumpliendo-solo-media-hora-en-la-practica-2-del-gp-de-las-vegas-de-f1",
@@ -113,6 +83,21 @@
       "addedAt": "2026-11-21T21:44:48.341Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-tcr-wt-urrutia-gana-la-1a-carrera-en-macao-y-girolami-llega-4",
+      "title": "TCR WT: Urrutia gana la 1ª carrera en Macao y Girolami llega 4°",
+      "summary": "El uruguayo se impuso de punta a punta en el intrincado circuito chino, donde lo escoltaron Azcona y Michelisz. El argentino, que largó 5° con el Hyundai, quedó a un paso del podio.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tcr-wt-urrutia-gana-la-1a-carrera-en-macao-y-girolami-llega-4/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/urrutia-macao-carrera1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-21T10:18:47.000Z",
+      "addedAt": "2026-11-21T16:17:03.933Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-el-momento-de-mayor-riesgo-que-tuvo-colapinto-en-el-gp-de-las-vegas",
@@ -370,21 +355,6 @@
       "tag": "Franco"
     },
     {
-      "id": "campeones-com-ar-en-olavarria-ciarrocchi-logro-ser-el-mejor-de-la-clasificacion-de-tc2000",
-      "title": "En Olavarría, Ciarrocchi logró ser el mejor de la clasificación de TC2000",
-      "summary": "Por tercera vez en su historial, el piloto cordobés de Almafuerte lideró una clasificación ahora con el Fiat; su escoltas fueron Rossi y Carabajal.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/en-olavarria-ciarrocchi-logro-ser-el-mejor-de-la-clasificacion-de-tc2000/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261121-TC2000-Ciarrocchi.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-21T20:08:54.000Z",
-      "addedAt": "2026-11-21T21:44:49.545Z",
-      "category": "general",
-      "tag": "Reglamento"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-lewis-hamilton-campeonato-constructores-f1-formula-uno-ferrari-id772125-html",
       "title": "Hamilton reveló la prioridad de Ferrari para lo que queda de la temporada de F1",
       "summary": "El siete veces campeón mundial aseguró que el objetivo de la escudería es el Campeonato de Constructores, del cual se ubica en segundo lugar, por debajo de Mercedes.",
@@ -400,19 +370,19 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-las-vegas-tendra-cinco-pilotos-de-f1-penalizados-por-cambios-en-sus-unidades-de-potencia",
-      "title": "Las Vegas tendrá cinco pilotos de F1 penalizados por cambios en sus unidades de potencia",
-      "summary": "Oscar Piastri, Kimi Antonelli, Oliver Bearman, Carlos Sainz y Lance Stroll deberán cumplir sanciones en la carrera en Las Vegas",
+      "id": "campeones-com-ar-en-olavarria-ciarrocchi-logro-ser-el-mejor-de-la-clasificacion-de-tc2000",
+      "title": "En Olavarría, Ciarrocchi logró ser el mejor de la clasificación de TC2000",
+      "summary": "Por tercera vez en su historial, el piloto cordobés de Almafuerte lideró una clasificación ahora con el Fiat; su escoltas fueron Rossi y Carabajal.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/las-vegas-tendra-cinco-pilotos-de-f1-penalizados-por-cambios-en-sus-unidades-de-potencia/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261120-F1-Haas.jpg",
+      "url": "https://campeones.com.ar/en-olavarria-ciarrocchi-logro-ser-el-mejor-de-la-clasificacion-de-tc2000/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261121-TC2000-Ciarrocchi.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-21T00:29:15.000Z",
-      "addedAt": "2026-11-21T00:52:56.130Z",
+      "publishedAt": "2026-11-21T20:08:54.000Z",
+      "addedAt": "2026-11-21T21:44:49.545Z",
       "category": "general",
-      "tag": "Carrera"
+      "tag": "Reglamento"
     },
     {
       "id": "campeones-com-ar-daniel-herrero-se-refirio-a-la-posibilidad-de-sumar-un-cuarto-mercedes-de-tc",
@@ -456,21 +426,6 @@
       "language": "es",
       "publishedAt": "2026-11-21T14:37:39.000Z",
       "addedAt": "2026-11-21T16:17:02.828Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc2000-lucas-carabajal-establecio-la-primera-marca-en-el-retorno-a-olavarria",
-      "title": "TC2000: Lucas Carabajal estableció la primera marca en el retorno a Olavarría",
-      "summary": "Tras dos décadas, la categoría volvió a transitar el autódromo \"Hermanos Emiliozzi\" en donde el más veloz fue el chaqueño con el VW Nivus.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc2000-lucas-carabajal-establecio-la-primera-marca-en-el-retorno-a-olavarria/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261121-TC2000-Carabajal.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-21T12:45:51.000Z",
-      "addedAt": "2026-11-21T16:17:01.271Z",
       "category": "general",
       "tag": "F1"
     },
@@ -621,6 +576,21 @@
       "language": "es",
       "publishedAt": "2026-11-19T18:49:15.000Z",
       "addedAt": "2026-11-19T21:49:52.971Z",
+      "category": "general",
+      "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-las-vegas-tendra-cinco-pilotos-de-f1-penalizados-por-cambios-en-sus-unidades-de-potencia",
+      "title": "Las Vegas tendrá cinco pilotos de F1 penalizados por cambios en sus unidades de potencia",
+      "summary": "Oscar Piastri, Kimi Antonelli, Oliver Bearman, Carlos Sainz y Lance Stroll deberán cumplir sanciones en la carrera en Las Vegas",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/las-vegas-tendra-cinco-pilotos-de-f1-penalizados-por-cambios-en-sus-unidades-de-potencia/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261120-F1-Haas.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-21T00:29:15.000Z",
+      "addedAt": "2026-11-21T00:52:56.130Z",
       "category": "general",
       "tag": "Carrera"
     },
@@ -863,6 +833,21 @@
       "addedAt": "2026-10-29T19:15:02.909Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-tc2000-lucas-carabajal-establecio-la-primera-marca-en-el-retorno-a-olavarria",
+      "title": "TC2000: Lucas Carabajal estableció la primera marca en el retorno a Olavarría",
+      "summary": "Tras dos décadas, la categoría volvió a transitar el autódromo \"Hermanos Emiliozzi\" en donde el más veloz fue el chaqueño con el VW Nivus.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc2000-lucas-carabajal-establecio-la-primera-marca-en-el-retorno-a-olavarria/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261121-TC2000-Carabajal.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-21T12:45:51.000Z",
+      "addedAt": "2026-11-21T16:17:01.271Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tc-rossi-puso-fin-a-su-peor-sequia-y-accedio-al-top-10-historicos-de-ganadores",
@@ -2738,12 +2723,27 @@
       "addedAt": "2026-10-27T19:41:09.468Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "carburando-com-ar-blog-por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
+      "title": "Por qué Gasly culpó a Colapinto por perder la vuelta más rápida en Bakú",
+      "summary": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué…",
+      "source": "Carburando",
+      "sourceLabel": "Carburando",
+      "url": "https://carburando.com.ar/blog/por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rapida-en-baku",
+      "image": "https://carburando.com.ar/covers/22/por-que-gasly-culpo-a-colapinto-por-perder-la-vuelta-mas-rap-25600.webp",
+      "body": "El incidente entre Pierre Gasly y Franco Colapinto en el GP de Azerbaiyán generó polémica. Analizamos desde la perspectiva técnica y reglamentaria qué ocurrió realmente en esa vuelta.\n\nEl Gran Premio de Azerbaiyán volvió a dejar uno de esos momentos que generan debate en la Fórmula 1. Pierre Gasly, piloto de Alpine, acusó públicamente a Franco Colapinto de haberle arruinado su chance de quedarse con la vuelta más rápida de la carrera.\n\nEl francés, que venía con un ritmo sólido en las etapas finales, vio cómo su intento de registro rápido se frustraba tras un incidente con el Williams del argentino. Más allá de las declaraciones post-carrera, el episodio invita a revisar cómo funcionan las reglas de pista, el DRS y la gestión de tráfico en un circuito urbano estrecho como el de Bakú.\n\nBakú es un trazado de alta velocidad con zonas muy estrechas, donde el rebufo y el DRS juegan un rol decisivo. En las vueltas finales, cuando muchos pilotos ya habían completado sus paradas, varios autos se encontraban en diferentes fases de estrategia. Gasly buscaba precisamente aprovechar un claro para marcar el mejor tiempo del día, algo que además entrega un punto extra en el campeonato de constructores y puede tener peso en la clasificación general.\n\nColapinto, por su parte, estaba cumpliendo con su stint final y, según las imágenes disponibles, se encontraba en una posición defensiva natural. El contacto o la maniobra de paso generó que Gasly perdiera tracción o aerodinámica suficiente para completar la vuelta en el tiempo que buscaba. Desde la ingeniería, perder el flujo limpio sobre el alerón trasero en una zona de alta velocidad como la recta principal de Bakú es casi siempre fatal para un intento de vuelta rápida.",
+      "language": "es",
+      "publishedAt": "2026-10-02T21:35:36.000Z",
+      "addedAt": "2026-11-22T01:38:21.158Z",
+      "category": "argentino",
+      "tag": "Franco"
     }
   ],
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-21T21:44:57.226Z",
+      "createdAt": "2026-11-22T01:38:29.652Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-las-vegas-id771970",
@@ -2776,17 +2776,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-frustracion-de-colapinto-tras-terminar-decimo-en-la-clasificacion-de-las-vegas-estaba",
-          "title": "La frustración de Colapinto tras terminar décimo en la clasificación de Las Vegas: \"Estábamos para mucho más\"",
-          "summary": "El piloto argentino no se quedó conforme con su rendimiento en la instancia previa a la carrera en Estados Unidos. La temperatura de los neumáticos, un factor que conspiró en su contra.",
+          "id": "www-tycsports-com-automovilismo-f1-horario-y-por-donde-ver-en-vivo-la-carrera-del-gp-de-las-vegas-id772159-html",
+          "title": "F1: horario y cómo ver en vivo la carrera del GP de Las Vegas con Colapinto",
+          "summary": "Este domingo se correrá la 21° fecha de la temporada 2026 del Campeonato del Mundo de la Fórmula 1 con la presencia de Franco Colapinto.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-frustracion-de-colapinto-tras-terminar-decimo-en-la-clasificacion-de-las-vegas-estabamos-para-mucho-mas-id772468.html",
-          "image": "https://media.tycsports.com/files/2026/11/21/1006421/colapinto-qualy-las-vegas_1440x810.webp",
-          "body": "El piloto argentino no se quedó conforme con su rendimiento en la instancia previa a la carrera en Estados Unidos. La temperatura de los neumáticos, un factor que conspiró en su contra.\n\nColapinto tras su clasificación en Las Vegas (Getty Images). + Seguinos en El final del año se acerca y la vara sube para Franco Colapinto en la Fórmula 1 . Tanto que un décimo puesto en la clasificación de Las Vegas, en otro contexto un resultado más que destacado, fue objeto de la frustración del piloto argentino de Alpine. Y del deseo de ir por más en la carrera, que se disputará este domingo a la 1.00.\n\n\"Conforme no estoy, obviamente, porque estábamos para mucho más. Es una pena haber quedado tan atrás en la Q3 porque estábamos competitivos, pero siento que en ningún momento de la clasificación pusimos el auto a punto\" , analizó el oriundo de Pilar, cuya actuación estuvo condicionada por una puesta a punto deficitaria de los neumáticos.\n\nEn relación a este inconvienente, Colapinto disparó: \"Las gomas, muy frías, no entraban en temperatura. Es un desastre. Una pena porque el potencial estaba, pero habrá que avanzar en la carrera\" . La declaración de Franco deja en claro que un correcto estado de las cuatro lo podría haber llevado a luchar mucho más arriba.\n\nSin embargo, también reflexionó positivamente sobre el rendimiento del A526 en las curvas: \"Tenemos buena velocidad en las rectas, lo cual es positivo. Hay que intentar poner todo junto y vamos a hacer una buena carrera, sobre todo si tenemos una buena largada\".",
+          "url": "https://www.tycsports.com/automovilismo/f1-horario-y-por-donde-ver-en-vivo-la-carrera-del-gp-de-las-vegas-id772159.html",
+          "image": "https://media.tycsports.com/files/2026/11/19/1006060/horarios-del-gp-de-las-vegas-de-la-f1_416x234.webp?v=1",
+          "body": "Este domingo se correrá la 21° fecha de la temporada 2026 del Campeonato del Mundo de la Fórmula 1 con la presencia de Franco Colapinto.\n\nFranco Colapinto vuelve a subirse al Alpine por la fecha 21° (Créditos: Getty Images - Manuel Eletto) + Seguinos en La Fórmula 1 disputará el Gran Premio de Las Vegas en el circuito callejero el fin de semana del 22 de noviembre, por la vigésimo primera fecha de la temporada 2026. El argentino Franco Colapinto dirá presente con el equipo Alpine.\n\nFranco Colapinto tuvo una destacada actuación en la clasificación del Gran Premio de Las Vegas y terminó décimo con su Alpine , después de conseguir el pase a la Q3. El argentino logró meterse entre los diez mejores en el circuito callejero estadounidense, mientras que Kimi Antonelli se quedó con la pole position, seguido por Max Verstappen (Red Bull) y George Russell (Mercedes) . De todas formas, el italiano tiene una penalización de cinco lugares, por lo que empezará sexto y el neerlandes será el primer beneficiado. La gran sorpresa de la jornada fue la eliminación de los dos Ferrari en la Q2, que dejó a Charles Leclerc y Lewis Hamilton fuera de la pelea por los primeros puestos.\n\nEl Circuito de Las Vegas, oficialmente denominado Las Vegas Strip Circuit , es un trazado urbano de 6.201 metros de extensión que recorre algunas de las avenidas más emblemáticas de la ciudad estadounidense. Cuenta con 17 curvas y se caracteriza por sus largas rectas , especialmente la de casi dos kilómetros que atraviesa el famoso Strip, donde los monoplazas pueden superar los 350 km/h. El recorrido pasa junto a importantes puntos turísticos, como los hoteles Bellagio, Venetian y Caesars Palace , además de la Sphere, en un escenario iluminado por las luces de la ciudad.\n\nDesde el punto de vista deportivo, es un c",
           "language": "es",
-          "publishedAt": "2026-11-21T10:54:58.000Z",
-          "addedAt": "2026-11-21T16:16:58.904Z",
+          "publishedAt": "2026-11-22T00:07:10.000Z",
+          "addedAt": "2026-11-21T08:12:14.878Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2806,32 +2806,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-horario-y-por-donde-ver-en-vivo-la-carrera-del-gp-de-las-vegas-id772159-html",
-          "title": "F1: horario y cómo ver en vivo la carrera del GP de Las Vegas con Colapinto",
-          "summary": "Este domingo se correrá la 21° fecha de la temporada 2026 del Campeonato del Mundo de la Fórmula 1 con la presencia de Franco Colapinto.",
+          "id": "www-tycsports-com-automovilismo-la-frustracion-de-colapinto-tras-terminar-decimo-en-la-clasificacion-de-las-vegas-estaba",
+          "title": "La frustración de Colapinto tras terminar décimo en la clasificación de Las Vegas: \"Estábamos para mucho más\"",
+          "summary": "El piloto argentino no se quedó conforme con su rendimiento en la instancia previa a la carrera en Estados Unidos. La temperatura de los neumáticos, un factor que conspiró en su contra.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-horario-y-por-donde-ver-en-vivo-la-carrera-del-gp-de-las-vegas-id772159.html",
-          "image": "https://media.tycsports.com/files/2026/11/19/1006060/horarios-del-gp-de-las-vegas-de-la-f1_416x234.webp?v=1",
-          "body": "Este domingo se correrá la 21° fecha de la temporada 2026 del Campeonato del Mundo de la Fórmula 1 con la presencia de Franco Colapinto.\n\nFranco Colapinto vuelve a subirse al Alpine por la fecha 21° (Créditos: Getty Images - Manuel Eletto) + Seguinos en La Fórmula 1 disputará el Gran Premio de Las Vegas en el circuito callejero el fin de semana del 22 de noviembre, por la vigésimo primera fecha de la temporada 2026. El argentino Franco Colapinto dirá presente con el equipo Alpine.\n\nFranco Colapinto tuvo una destacada actuación en la clasificación del Gran Premio de Las Vegas y terminó décimo con su Alpine , después de conseguir el pase a la Q3. El argentino logró meterse entre los diez mejores en el circuito callejero estadounidense, mientras que Kimi Antonelli se quedó con la pole position, seguido por Max Verstappen (Red Bull) y George Russell (Mercedes) . De todas formas, el italiano tiene una penalización de cinco lugares, por lo que empezará sexto y el neerlandes será el primer beneficiado. La gran sorpresa de la jornada fue la eliminación de los dos Ferrari en la Q2, que dejó a Charles Leclerc y Lewis Hamilton fuera de la pelea por los primeros puestos.\n\nEl Circuito de Las Vegas, oficialmente denominado Las Vegas Strip Circuit , es un trazado urbano de 6.201 metros de extensión que recorre algunas de las avenidas más emblemáticas de la ciudad estadounidense. Cuenta con 17 curvas y se caracteriza por sus largas rectas , especialmente la de casi dos kilómetros que atraviesa el famoso Strip, donde los monoplazas pueden superar los 350 km/h. El recorrido pasa junto a importantes puntos turísticos, como los hoteles Bellagio, Venetian y Caesars Palace , además de la Sphere, en un escenario iluminado por las luces de la ciudad.\n\nDesde el punto de vista deportivo, es un c",
+          "url": "https://www.tycsports.com/automovilismo/la-frustracion-de-colapinto-tras-terminar-decimo-en-la-clasificacion-de-las-vegas-estabamos-para-mucho-mas-id772468.html",
+          "image": "https://media.tycsports.com/files/2026/11/21/1006421/colapinto-qualy-las-vegas_1440x810.webp",
+          "body": "El piloto argentino no se quedó conforme con su rendimiento en la instancia previa a la carrera en Estados Unidos. La temperatura de los neumáticos, un factor que conspiró en su contra.\n\nColapinto tras su clasificación en Las Vegas (Getty Images). + Seguinos en El final del año se acerca y la vara sube para Franco Colapinto en la Fórmula 1 . Tanto que un décimo puesto en la clasificación de Las Vegas, en otro contexto un resultado más que destacado, fue objeto de la frustración del piloto argentino de Alpine. Y del deseo de ir por más en la carrera, que se disputará este domingo a la 1.00.\n\n\"Conforme no estoy, obviamente, porque estábamos para mucho más. Es una pena haber quedado tan atrás en la Q3 porque estábamos competitivos, pero siento que en ningún momento de la clasificación pusimos el auto a punto\" , analizó el oriundo de Pilar, cuya actuación estuvo condicionada por una puesta a punto deficitaria de los neumáticos.\n\nEn relación a este inconvienente, Colapinto disparó: \"Las gomas, muy frías, no entraban en temperatura. Es un desastre. Una pena porque el potencial estaba, pero habrá que avanzar en la carrera\" . La declaración de Franco deja en claro que un correcto estado de las cuatro lo podría haber llevado a luchar mucho más arriba.\n\nSin embargo, también reflexionó positivamente sobre el rendimiento del A526 en las curvas: \"Tenemos buena velocidad en las rectas, lo cual es positivo. Hay que intentar poner todo junto y vamos a hacer una buena carrera, sobre todo si tenemos una buena largada\".",
           "language": "es",
-          "publishedAt": "2026-11-21T13:10:39.000Z",
-          "addedAt": "2026-11-21T08:12:14.878Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-sancion-piastri-f1gp-las-vegas-id772009-html",
-          "title": "Atento, Colapinto: la grilla del GP de Las Vegas de la F1 tendrá un cambio por una penalización",
-          "summary": "McLaren informó que montará un quinto motor de combustión interna en el auto del australiano, quien deberá retroceder 10 lugares en la grilla de partida de la carrera en suelo estadounidense por exceder el límite permitido.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/sancion-piastri-f1gp-las-vegas-id772009.html",
-          "image": "https://media.tycsports.com/files/2026/11/16/1005419/autos_1440x810.webp?v=1",
-          "body": "McLaren informó que montará un quinto motor de combustión interna en el auto del australiano, quien deberá retroceder 10 lugares en la grilla de partida de la carrera en suelo estadounidense por exceder el límite permitido.\n\nOscar Piastri tuvo un 2026 lejos de las expectativas. (Photo by Clive Rose/Getty Images) + Seguinos en La grilla de salida de la Fórmula 1 para el Gran Premio de Las Vegas sufrirá cambios debido a la sanción que recibió uno de los pilotos. Se trata de Oscar Piastri, quien recibirá una penalización de 10 puestos por exceder su asignación de motores en su McLaren esta temporada.\n\n\"Oscar montará un nuevo motor de combustión interna en Las Vegas después de un problema de fiabilidad\" , informó la escudería inglesa en la previa de la cita en territorio estadounidense.\n\nEl australiano de 25 años se encontraba al límite de lo permitido, ya que había utilizado cuatro motores de combustión interna en lo que va del año, pero necesitará un quinto motor V6 Mercedes para las últimas tres carreras de la temporada. Como es la primera vez que excede su asignación de ICE (motor de combustión interna), partirá 10 puestos más atrás en la carrera del próximo sábado.\n\nA pesar de la sanción, en McLaren se mostraron optimistas de cara al fin de semana: “Como es el quinto de la temporada, recibirá una penalización de 10 puestos en la parrilla, pero tiene una buena oportunidad de recuperar posiciones con adelantamientos en la carrera del sábado”.",
-          "language": "es",
-          "publishedAt": "2026-11-18T23:10:26.000Z",
-          "addedAt": "2026-11-18T16:37:27.877Z",
+          "publishedAt": "2026-11-21T10:54:58.000Z",
+          "addedAt": "2026-11-21T16:16:58.904Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2851,6 +2836,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-sancion-piastri-f1gp-las-vegas-id772009-html",
+          "title": "Atento, Colapinto: la grilla del GP de Las Vegas de la F1 tendrá un cambio por una penalización",
+          "summary": "McLaren informó que montará un quinto motor de combustión interna en el auto del australiano, quien deberá retroceder 10 lugares en la grilla de partida de la carrera en suelo estadounidense por exceder el límite permitido.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/sancion-piastri-f1gp-las-vegas-id772009.html",
+          "image": "https://media.tycsports.com/files/2026/11/16/1005419/autos_1440x810.webp?v=1",
+          "body": "McLaren informó que montará un quinto motor de combustión interna en el auto del australiano, quien deberá retroceder 10 lugares en la grilla de partida de la carrera en suelo estadounidense por exceder el límite permitido.\n\nOscar Piastri tuvo un 2026 lejos de las expectativas. (Photo by Clive Rose/Getty Images) + Seguinos en La grilla de salida de la Fórmula 1 para el Gran Premio de Las Vegas sufrirá cambios debido a la sanción que recibió uno de los pilotos. Se trata de Oscar Piastri, quien recibirá una penalización de 10 puestos por exceder su asignación de motores en su McLaren esta temporada.\n\n\"Oscar montará un nuevo motor de combustión interna en Las Vegas después de un problema de fiabilidad\" , informó la escudería inglesa en la previa de la cita en territorio estadounidense.\n\nEl australiano de 25 años se encontraba al límite de lo permitido, ya que había utilizado cuatro motores de combustión interna en lo que va del año, pero necesitará un quinto motor V6 Mercedes para las últimas tres carreras de la temporada. Como es la primera vez que excede su asignación de ICE (motor de combustión interna), partirá 10 puestos más atrás en la carrera del próximo sábado.\n\nA pesar de la sanción, en McLaren se mostraron optimistas de cara al fin de semana: “Como es el quinto de la temporada, recibirá una penalización de 10 puestos en la parrilla, pero tiene una buena oportunidad de recuperar posiciones con adelantamientos en la carrera del sábado”.",
+          "language": "es",
+          "publishedAt": "2026-11-18T23:10:26.000Z",
+          "addedAt": "2026-11-18T16:37:27.877Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-la-salvada-de-colapinto-bajo-la-lluvia-en-el-gp-de-las-vegas-de-la-formula-1-id772272-ht",
           "title": "La salvada bajo la lluvia de Colapinto en el inicio del Gran Premio de Las Vegas",
           "summary": "En una sesión de prácticas libres donde ningún piloto marcó un tiempo de vuelta por las malas condiciones de pista, el argentino probó el estado del circuito y logró evitar un duro accidente.",
@@ -2866,17 +2866,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-prediccion-de-la-ia-sobre-el-resultado-de-franco-colapinto-en-el-gp-de-las-vegas-de-l",
-          "title": "La predicción de la IA sobre el resultado de Franco Colapinto en el GP de Las Vegas de la Fórmula 1",
-          "summary": "El piloto argentino tiene por delante una nueva fecha en la máxima y buscará cortar una racha de seis carreras sin sumar puntos.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-prediccion-de-la-ia-sobre-el-resultado-de-franco-colapinto-en-el-gp-de-las-vegas-de-la-formula-1-id772063.html",
-          "image": "https://media.tycsports.com/files/2026/11/05/1003067/franco-colapinto_1440x810.webp",
-          "body": "El piloto argentino tiene por delante una nueva fecha en la máxima y buscará cortar una racha de seis carreras sin sumar puntos.\n\nFranco Colapinto tiene por delante el GP de Las Vegas + Seguinos en Franco Colapinto tiene por delante la vigesimotercera fecha de la temporada 2026 de la Fórmula 1. El piloto argentino correrá con Alpine en el Gran Premio de Las Vegas y la inteligencia artificial pronosticó el resultado del pilarense en Estados Unidos.\n\nSegún ChatGPT, Colapinto finalizará entre los puestos 11 y 14 en el circuito callejero, con el 12° lugar como resultado más probable. El piloto argentino afrontará una nueva jornada en la máxima, donde buscará cortar una racha de seis carreras consecutivas sin sumar puntos. En su última presentación, finalizó 13° en Brasil.\n\nEl trazado de Las Vegas presenta características particulares que pueden influir en el rendimiento de la escudería. Con 6.201 metros de extensión, 17 curvas y tres largas rectas , la pista exige un buen equilibrio aerodinámico para alcanzar velocidades competitivas sin perder estabilidad en las zonas de frenada. Uno de los principales desafíos para Colapinto será conseguir que los neumáticos alcancen su temperatura ideal de funcionamiento. Las bajas temperaturas durante las sesiones nocturnas pueden dificultar ese proceso y condicionar el rendimiento del auto, especialmente en la clasificación. Para esta competencia, Pirelli seleccionó los compuestos C3, C4 y C5.\n\nEs la tercera vez que el argentino disputará este trazado: en 2024, cuando corría para Williams, terminó en el 14° puesto, mientras que en 2025, en su primera temporada con Alpine, finalizó 15°. Ahora tendrá una nueva oportunidad para mejorar esos resultados y acercarse a la zona de puntos.",
+          "id": "campeones-com-ar-la-grilla-de-largada-del-gp-de-las-vegas-verstappen-desde-la-pole-y-colapinto-desde-el-9-puesto",
+          "title": "La grilla de largada del GP de Las Vegas: Verstappen desde la \"pole\" y Colapinto desde el 9.° puesto",
+          "summary": "Andrea Kimi Antonelli (Mercedes) firmó en Nevada su octava pole position de la temporada, pero fue sancionado y Max Verstappen (Red Bull) largará desde la primera posición, mientras que Franco Colapinto (Alpine) saldrá 9° por la penalización a Oscar Piastri (McLaren).",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-grilla-de-largada-del-gp-de-las-vegas-verstappen-desde-la-pole-y-colapinto-desde-el-9-puesto/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261121-F1-LV-FColapinto-Q3.jpg",
+          "body": "",
           "language": "es",
-          "publishedAt": "2026-11-18T21:56:19.000Z",
-          "addedAt": "2026-11-18T23:09:20.651Z",
+          "publishedAt": "2026-11-21T22:18:01.000Z",
+          "addedAt": "2026-11-22T01:38:22.095Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2892,6 +2892,21 @@
           "language": "es",
           "publishedAt": "2026-11-17T23:06:10.000Z",
           "addedAt": "2026-11-17T23:58:21.640Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-la-prediccion-de-la-ia-sobre-el-resultado-de-franco-colapinto-en-el-gp-de-las-vegas-de-l",
+          "title": "La predicción de la IA sobre el resultado de Franco Colapinto en el GP de Las Vegas de la Fórmula 1",
+          "summary": "El piloto argentino tiene por delante una nueva fecha en la máxima y buscará cortar una racha de seis carreras sin sumar puntos.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-prediccion-de-la-ia-sobre-el-resultado-de-franco-colapinto-en-el-gp-de-las-vegas-de-la-formula-1-id772063.html",
+          "image": "https://media.tycsports.com/files/2026/11/05/1003067/franco-colapinto_1440x810.webp",
+          "body": "El piloto argentino tiene por delante una nueva fecha en la máxima y buscará cortar una racha de seis carreras sin sumar puntos.\n\nFranco Colapinto tiene por delante el GP de Las Vegas + Seguinos en Franco Colapinto tiene por delante la vigesimotercera fecha de la temporada 2026 de la Fórmula 1. El piloto argentino correrá con Alpine en el Gran Premio de Las Vegas y la inteligencia artificial pronosticó el resultado del pilarense en Estados Unidos.\n\nSegún ChatGPT, Colapinto finalizará entre los puestos 11 y 14 en el circuito callejero, con el 12° lugar como resultado más probable. El piloto argentino afrontará una nueva jornada en la máxima, donde buscará cortar una racha de seis carreras consecutivas sin sumar puntos. En su última presentación, finalizó 13° en Brasil.\n\nEl trazado de Las Vegas presenta características particulares que pueden influir en el rendimiento de la escudería. Con 6.201 metros de extensión, 17 curvas y tres largas rectas , la pista exige un buen equilibrio aerodinámico para alcanzar velocidades competitivas sin perder estabilidad en las zonas de frenada. Uno de los principales desafíos para Colapinto será conseguir que los neumáticos alcancen su temperatura ideal de funcionamiento. Las bajas temperaturas durante las sesiones nocturnas pueden dificultar ese proceso y condicionar el rendimiento del auto, especialmente en la clasificación. Para esta competencia, Pirelli seleccionó los compuestos C3, C4 y C5.\n\nEs la tercera vez que el argentino disputará este trazado: en 2024, cuando corría para Williams, terminó en el 14° puesto, mientras que en 2025, en su primera temporada con Alpine, finalizó 15°. Ahora tendrá una nueva oportunidad para mejorar esos resultados y acercarse a la zona de puntos.",
+          "language": "es",
+          "publishedAt": "2026-11-18T21:56:19.000Z",
+          "addedAt": "2026-11-18T23:09:20.651Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2999,7 +3014,13 @@
           "addedAt": "2026-11-19T13:38:57.999Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-11-22T01:38:29.652Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-y-el-desafio-de-alpine-en-el-gp-de-las-vegas-creo-que-va-a-ser-un-buen-",
           "title": "Colapinto y el desafío de Alpine en el GP de Las Vegas: \"Creo que va a ser un buen auto\"",
@@ -3014,13 +3035,22 @@
           "addedAt": "2026-11-19T13:38:57.747Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-11-21T21:44:57.226Z",
-      "items": [
+        },
+        {
+          "id": "campeones-com-ar-en-la-noche-de-las-vegas-colapinto-clasifico-decimo-con-el-alpine-de-f1",
+          "title": "En la noche de Las Vegas, Colapinto clasificó décimo con el Alpine de F1",
+          "summary": "Otra alentadora labor cumplió el piloto argentino que, con el equipo de Enstone, se mantiene en el Top10 en el circuito callejero y largará noveno; el campeón Antonelli sorprendió y consiguió la \"pole\".",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/en-la-noche-de-las-vegas-colapinto-clasifico-decimo-con-el-alpine-de-f1/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261121-F1-LV-Colapinto-Q2.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-21T15:06:49.000Z",
+          "addedAt": "2026-11-21T08:12:17.996Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
         {
           "id": "campeones-com-ar-el-balance-de-colapinto-tras-los-entrenamientos-de-f1-en-las-vegas",
           "title": "El balance de Colapinto tras los entrenamientos de F1 en Las Vegas",
@@ -3033,36 +3063,6 @@
           "language": "es",
           "publishedAt": "2026-11-20T05:58:37.000Z",
           "addedAt": "2026-11-20T11:23:02.886Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-flavio-briatore-definio-el-ano-de-franco-colapinto-pierre-gasly-y-alpine-con-una-llamati",
-          "title": "Flavio Briatore definió el año de Franco Colapinto, Pierre Gasly y Alpine con una llamativa frase",
-          "summary": "El Padrino reconoció que perdieron puntos clave en el tramo final del campeonato de Fórmula 1, aunque destacó la evolución de la escudería desde 2024 y apuntó a la organización como clave para dar el próximo salto.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/flavio-briatore-definio-el-ano-de-franco-colapinto-pierre-gasly-y-alpine-con-una-llamativa-frase-id772424.html",
-          "image": "https://media.tycsports.com/files/2026/09/27/991053/colapinto-y-briatore_862x485.webp",
-          "body": "El Padrino reconoció que perdieron puntos clave en el tramo final del campeonato de Fórmula 1, aunque destacó la evolución de la escudería desde 2024 y apuntó a la organización como clave para dar el próximo salto.\n\nFranco Colapinto y Flavio Briatore (Getty Images) + Seguinos en Flavio Briatore no quedó del todo conforme con el rendimiento de Alpine en el campeonato de Fórmula 1 2026, aunque tampoco hizo una evaluación negativa. Con una particular respuesta, el jefe de la escudería francesa resumió el balance del año en la conferencia de prensa de la FIA en la previa del Gran Premio de Las Vegas: “Ni”, en referencia a un resultado que no fue ni bueno ni malo.\n\nEl objetivo que se había trazado al comienzo del campeonato era alcanzar el sexto puesto en el Mundial de Constructores, una posición que, salvo una sorpresa, el equipo conseguirá. Sin embargo, al ser consultado sobre el nivel de satisfacción por el progreso respecto a 2025, cuando terminaron últimos, el dirigente italiano eligió una respuesta ambigua: “Es ‘ni’. Eso significa que no, que sí, que está en medio”. La explicación llegó inmediatamente después, con una crítica a los resultados de las últimas carreras. “Estamos perdiendo muchos puntos en la última parte de la temporada. El equipo luchó, el piloto luchó pero, sea como sea, estamos perdiendo muchos puntos porque, normalmente, hubiéramos terminado en quinta posición”, sostuvo. Alpine suma 69 unidades, mientras que Racing Bulls, quinto, acumula 114, a falta de tres fechas.\n\nEn el campeonato de pilotos, Franco Colapinto reúne 27 puntos y ocupa el duodécimo lugar, mientras que Pierre Gasly alcanzó las 42 unidades y se ubica décimo . Pese a la frustración por lo que dejaron escapar en el cierre, Briatore destacó la transformación de la estructura en comparación",
-          "language": "es",
-          "publishedAt": "2026-11-20T22:50:04.000Z",
-          "addedAt": "2026-11-21T00:52:54.603Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-alpine-confirmo-partida-paul-aron-id772423-html",
-          "title": "Alpine confirmó la partida de un compañero de Franco Colapinto",
-          "summary": "Paul Aron, quien se desempeñaba como piloto de reserva, llegó a un acuerdo mutuo con el equipo francés para finalizar su vínculo anticipadamente.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/alpine-confirmo-partida-paul-aron-id772423.html",
-          "image": "https://media.tycsports.com/files/2026/11/20/1006336/aron_1440x810.webp?v=1",
-          "body": "Paul Aron, quien se desempeñaba como piloto de reserva, llegó a un acuerdo mutuo con el equipo francés para finalizar su vínculo anticipadamente.\n\nPaul Aron dejará de ser el piloto de reserva de Alpine. (Getty Images) + Seguinos en Alpine anunció una nueva salida en la previa del Gran Premio de Las Vegas de Fórmula 1. La escudería francesa llegó a un acuerdo mutuo con Paul Aron para finalizar su vínculo anticipadamente , por lo que el estonio dejará de desempeñarse como el piloto de reserva del equipo.\n\nA través de un comunicado oficial, el equipo con sede en Enstone le agradeció al corredor de 22 años por su trabajo en el equipo, le deseó éxitos para el futuro y explicó que esta decisión le permitirá a Aron buscar nuevas oportunidades dentro del mundo del automovilismo.\n\nVale la pena recordar que el estonio se incorporó a la estructura de Alpine como piloto de reserva en 2024. Desde entonces, acumuló más de 10000 kilómetros en múltiples pruebas con monoplazas de diversos equipos: corrió para Alpine, Sauber, Hass y Audi. Sin embargo, nunca llegó a debutar oficialmente en una carrera de la Máxima.\n\nDurante la temporada 2026 tuvo dos apariciones oficiales en las primeras prácticas de la F1. Primero reemplazó a Franco Colapinto en la FP1 del Gran Premio de Hungría en julio y luego a Pierre Gasly en Monza en septiembre.",
-          "language": "es",
-          "publishedAt": "2026-11-20T22:47:46.000Z",
-          "addedAt": "2026-11-21T00:52:54.621Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3108,21 +3108,6 @@
           "language": "es",
           "publishedAt": "2026-11-20T01:53:04.000Z",
           "addedAt": "2026-11-20T03:01:31.177Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-en-la-noche-de-las-vegas-colapinto-clasifico-decimo-con-el-alpine-de-f1",
-          "title": "En la noche de Las Vegas, Colapinto clasificó décimo con el Alpine de F1",
-          "summary": "Otra alentadora labor cumplió el piloto argentino que, con el equipo de Enstone, se mantiene en el Top10 en el circuito callejero y largará noveno; el campeón Antonelli sorprendió y consiguió la \"pole\".",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/en-la-noche-de-las-vegas-colapinto-clasifico-decimo-con-el-alpine-de-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261121-F1-LV-Colapinto-Q2.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-21T05:06:49.000Z",
-          "addedAt": "2026-11-21T08:12:17.996Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3247,6 +3232,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-el-fastidio-de-colapinto-tras-clasificar-no-quede-conforme-porque-estabamos-para-mucho-mas",
+          "title": "El fastidio de Colapinto tras clasificar: «No quedé conforme, porque estábamos para mucho más»",
+          "summary": "Al concluir la sesión cronometrada en Las Vegas, el piloto argentino se refirió a las dificultades que le impidieron mejorar con el Alpine.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-fastidio-de-colapinto-tras-clasificar-no-quede-conforme-porque-estabamos-para-mucho-mas/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261121-F1-LV-FColapinto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-21T06:19:25.000Z",
+          "addedAt": "2026-11-21T08:12:18.697Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-es-frustrante-no-haber-conseguido-nada-briatore-se-expreso-tras-las-penalizaciones-a-col",
           "title": "\"Es frustrante\": Briatore se expresó tras las penalizaciones a Colapinto y Gasly",
           "summary": "El asesor ejecutivo de Alpine habló luego del Gran Premio de México en la Fórmula 1, donde fueron sancionados ambos pilotos.",
@@ -3262,32 +3262,32 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-pierre-gasly-briatore-alpine-2027-id772291-html",
-          "title": "Briatore reveló el plan de Alpine con Colapinto y Gasly para 2027",
-          "summary": "El asesor ejecutivo de la escudería francesa fijó una meta ambiciosa para la próxima temporada de la Fórmula 1 y aseguró que quedar a dos o tres décimas de McLaren sería \"un gran éxito\".",
+          "id": "www-tycsports-com-automovilismo-flavio-briatore-definio-el-ano-de-franco-colapinto-pierre-gasly-y-alpine-con-una-llamati",
+          "title": "Flavio Briatore definió el año de Franco Colapinto, Pierre Gasly y Alpine con una llamativa frase",
+          "summary": "El Padrino reconoció que perdieron puntos clave en el tramo final del campeonato de Fórmula 1, aunque destacó la evolución de la escudería desde 2024 y apuntó a la organización como clave para dar el próximo salto.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-pierre-gasly-briatore-alpine-2027-id772291.html",
-          "image": "https://media.tycsports.com/files/2026/11/20/1006122/colapinto-y-gasly_1440x810.webp?v=2",
-          "body": "El asesor ejecutivo de la escudería francesa fijó una meta ambiciosa para la próxima temporada de la Fórmula 1 y aseguró que quedar a dos o tres décimas de McLaren sería \"un gran éxito\".\n\nColapinto y Gasly vienen de salir decimotercero y decimocuarto, respectivamente, en el GP de Brasil. (Jayce Illman/Getty Images) + Seguinos en Alpine ya piensa en el próximo paso de su recuperación en la Fórmula 1. Después de terminar último en el Campeonato de Constructores de 2025 y mejorar su rendimiento durante este año, Flavio Briatore estableció una referencia concreta para 2027, la temporada en la que Franco Colapinto y Pierre Gasly buscarán acercarse a los equipos que dominan la categoría.\n\n\"Si todo funciona bien, aunque no creo que sea fácil, estar el año que viene a dos o tres décimas de McLaren ya sería un gran éxito \" , expresó el asesor ejecutivo durante la conferencia de prensa de la FIA en Las Vegas. Tomó como referencia la evolución de McLaren en los últimos años y destacó la importancia de ordenar la estructura de trabajo para conseguir resultados. Además, remarcó que compartir proveedor de motores con la escudería británica y Mercedes representa un parámetro para medir el crecimiento de Alpine.\n\nEn cuanto al balance de la temporada, Briatore reconoció que el sexto puesto en el campeonato de constructores era el objetivo presupuestado, aunque consideró que el equipo tenía condiciones para pelear por la quinta posición . Sin embargo, los resultados de las últimas carreras complicaron esa posibilidad y Racing Bulls le ganó terreno en la disputa.\n\nPor otra parte, destacó la evolución interna de la escudería desde su llegada en 2024 y valoró la unión entre las diferentes áreas de trabajo. \"Es un gran salto. Ahora el equipo está unido . La parte de ingeniería y la técnica e",
+          "url": "https://www.tycsports.com/automovilismo/flavio-briatore-definio-el-ano-de-franco-colapinto-pierre-gasly-y-alpine-con-una-llamativa-frase-id772424.html",
+          "image": "https://media.tycsports.com/files/2026/09/27/991053/colapinto-y-briatore_862x485.webp",
+          "body": "El Padrino reconoció que perdieron puntos clave en el tramo final del campeonato de Fórmula 1, aunque destacó la evolución de la escudería desde 2024 y apuntó a la organización como clave para dar el próximo salto.\n\nFranco Colapinto y Flavio Briatore (Getty Images) + Seguinos en Flavio Briatore no quedó del todo conforme con el rendimiento de Alpine en el campeonato de Fórmula 1 2026, aunque tampoco hizo una evaluación negativa. Con una particular respuesta, el jefe de la escudería francesa resumió el balance del año en la conferencia de prensa de la FIA en la previa del Gran Premio de Las Vegas: “Ni”, en referencia a un resultado que no fue ni bueno ni malo.\n\nEl objetivo que se había trazado al comienzo del campeonato era alcanzar el sexto puesto en el Mundial de Constructores, una posición que, salvo una sorpresa, el equipo conseguirá. Sin embargo, al ser consultado sobre el nivel de satisfacción por el progreso respecto a 2025, cuando terminaron últimos, el dirigente italiano eligió una respuesta ambigua: “Es ‘ni’. Eso significa que no, que sí, que está en medio”. La explicación llegó inmediatamente después, con una crítica a los resultados de las últimas carreras. “Estamos perdiendo muchos puntos en la última parte de la temporada. El equipo luchó, el piloto luchó pero, sea como sea, estamos perdiendo muchos puntos porque, normalmente, hubiéramos terminado en quinta posición”, sostuvo. Alpine suma 69 unidades, mientras que Racing Bulls, quinto, acumula 114, a falta de tres fechas.\n\nEn el campeonato de pilotos, Franco Colapinto reúne 27 puntos y ocupa el duodécimo lugar, mientras que Pierre Gasly alcanzó las 42 unidades y se ubica décimo . Pese a la frustración por lo que dejaron escapar en el cierre, Briatore destacó la transformación de la estructura en comparación",
           "language": "es",
-          "publishedAt": "2026-11-20T11:11:16.000Z",
-          "addedAt": "2026-11-20T11:23:01.636Z",
+          "publishedAt": "2026-11-20T22:50:04.000Z",
+          "addedAt": "2026-11-21T00:52:54.603Z",
           "category": "argentino",
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-san",
-          "title": "Aclamación por Franco Colapinto en ataque y defensa en Brasil: audaz sobrepaso a Pierre Gasly y sanción a Nico Hulkenberg",
-          "summary": "Después de la carrera de Fórmula 1 en Interlagos, se viralizaron las maniobras del argentino causando una lluvia de elogios por su talento.",
+          "id": "www-tycsports-com-automovilismo-alpine-confirmo-partida-paul-aron-id772423-html",
+          "title": "Alpine confirmó la partida de un compañero de Franco Colapinto",
+          "summary": "Paul Aron, quien se desempeñaba como piloto de reserva, llegó a un acuerdo mutuo con el equipo francés para finalizar su vínculo anticipadamente.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-sancion-nico-hulkenberg-id771049.html",
-          "image": "https://media.tycsports.com/files/2026/11/10/1004144/colapinto_862x485.webp",
-          "body": "Después de la carrera de Fórmula 1 en Interlagos, se viralizaron las maniobras del argentino causando una lluvia de elogios por su talento.\n\nEl sobrepaso de Colapinto a Gasly en el GP de Brasil + Seguinos en Franco Colapinto causa admiración por estas horas en redes sociales, luego de que se hicieran virales videos de sus mejores momentos en el Gran Premio de Brasil de Fórmula 1. Allí, ni su 13° puesto ni los dolores de cabeza que suele provocarle el Alpine lograron empañar sus fortalezas, e incluso las agigantaron teniendo en cuenta las limitaciones de su coche y la dificultad extra de la lluvia.\n\nLa maniobra más aclamada volvió a involucrar a Pierre Gasly y resultó clave para el resultado final de la carrera, en el que logró quedar por encima de su compañero de equipo. A falta de 10 giros para el cierre, la copiosa lluvia sobre Interlagos obligó a las escuderías a llamar a sus pilotos a cambiar neumáticos, y el argentino avisó que pretendía ingresar cuanto antes. Inentendiblemente, Alpine convocó a ambos en la misma vuelta, la 63, cuando el francés aún aventajaba al pilarense... O no. Desde la cámara onboard, el ataque del argentino hiela la sangre: la lluvia volvía al Alpine aún más inmanejable y Franco corregía a cada curva el volante con tensa precisión para evitarse resbalar. Arrancó muy lejos -dos segundos- pero su audacia y la ayuda de unas gomas más frescas lo llevó al sobrepaso por adentro en la penúltima curva antes del ingreso a los boxes, zafando por muy poco de un toque rueda a rueda con su compañero y todo lo que ello hubiese implicado.\n\nEl sobrepaso de Colapinto a Gasly en el GP de Brasil La maniobra lo llevó a ingresar primero a boxes pareciendo sorprender al equipo que esperaba primero a Gasly y, con alguna dificultad extra, su parada duró unos largos ",
+          "url": "https://www.tycsports.com/automovilismo/alpine-confirmo-partida-paul-aron-id772423.html",
+          "image": "https://media.tycsports.com/files/2026/11/20/1006336/aron_1440x810.webp?v=1",
+          "body": "Paul Aron, quien se desempeñaba como piloto de reserva, llegó a un acuerdo mutuo con el equipo francés para finalizar su vínculo anticipadamente.\n\nPaul Aron dejará de ser el piloto de reserva de Alpine. (Getty Images) + Seguinos en Alpine anunció una nueva salida en la previa del Gran Premio de Las Vegas de Fórmula 1. La escudería francesa llegó a un acuerdo mutuo con Paul Aron para finalizar su vínculo anticipadamente , por lo que el estonio dejará de desempeñarse como el piloto de reserva del equipo.\n\nA través de un comunicado oficial, el equipo con sede en Enstone le agradeció al corredor de 22 años por su trabajo en el equipo, le deseó éxitos para el futuro y explicó que esta decisión le permitirá a Aron buscar nuevas oportunidades dentro del mundo del automovilismo.\n\nVale la pena recordar que el estonio se incorporó a la estructura de Alpine como piloto de reserva en 2024. Desde entonces, acumuló más de 10000 kilómetros en múltiples pruebas con monoplazas de diversos equipos: corrió para Alpine, Sauber, Hass y Audi. Sin embargo, nunca llegó a debutar oficialmente en una carrera de la Máxima.\n\nDurante la temporada 2026 tuvo dos apariciones oficiales en las primeras prácticas de la F1. Primero reemplazó a Franco Colapinto en la FP1 del Gran Premio de Hungría en julio y luego a Pierre Gasly en Monza en septiembre.",
           "language": "es",
-          "publishedAt": "2026-11-11T00:42:48.000Z",
-          "addedAt": "2026-11-11T01:21:58.803Z",
+          "publishedAt": "2026-11-20T22:47:46.000Z",
+          "addedAt": "2026-11-21T00:52:54.621Z",
           "category": "argentino",
           "tag": "Franco"
         }
@@ -3295,7 +3295,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-11-21T21:44:57.226Z",
+      "createdAt": "2026-11-22T01:38:29.652Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-ricciardo-revelo-la-humillacion-que-llevo-a-su-retiro-de-la-f1-me-estaban-dando-una-pali",
@@ -3571,7 +3571,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-11-21T21:44:57.226Z",
+      "createdAt": "2026-11-22T01:38:29.652Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-periodista-suspendido-de-la-formula-1-f1-por-insultar-a-charles-leclerc-id771499-html",
@@ -3647,6 +3647,36 @@
           "addedAt": "2026-10-22T11:40:44.470Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-franco-colapinto-pierre-gasly-briatore-alpine-2027-id772291-html",
+          "title": "Briatore reveló el plan de Alpine con Colapinto y Gasly para 2027",
+          "summary": "El asesor ejecutivo de la escudería francesa fijó una meta ambiciosa para la próxima temporada de la Fórmula 1 y aseguró que quedar a dos o tres décimas de McLaren sería \"un gran éxito\".",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-pierre-gasly-briatore-alpine-2027-id772291.html",
+          "image": "https://media.tycsports.com/files/2026/11/20/1006122/colapinto-y-gasly_1440x810.webp?v=2",
+          "body": "El asesor ejecutivo de la escudería francesa fijó una meta ambiciosa para la próxima temporada de la Fórmula 1 y aseguró que quedar a dos o tres décimas de McLaren sería \"un gran éxito\".\n\nColapinto y Gasly vienen de salir decimotercero y decimocuarto, respectivamente, en el GP de Brasil. (Jayce Illman/Getty Images) + Seguinos en Alpine ya piensa en el próximo paso de su recuperación en la Fórmula 1. Después de terminar último en el Campeonato de Constructores de 2025 y mejorar su rendimiento durante este año, Flavio Briatore estableció una referencia concreta para 2027, la temporada en la que Franco Colapinto y Pierre Gasly buscarán acercarse a los equipos que dominan la categoría.\n\n\"Si todo funciona bien, aunque no creo que sea fácil, estar el año que viene a dos o tres décimas de McLaren ya sería un gran éxito \" , expresó el asesor ejecutivo durante la conferencia de prensa de la FIA en Las Vegas. Tomó como referencia la evolución de McLaren en los últimos años y destacó la importancia de ordenar la estructura de trabajo para conseguir resultados. Además, remarcó que compartir proveedor de motores con la escudería británica y Mercedes representa un parámetro para medir el crecimiento de Alpine.\n\nEn cuanto al balance de la temporada, Briatore reconoció que el sexto puesto en el campeonato de constructores era el objetivo presupuestado, aunque consideró que el equipo tenía condiciones para pelear por la quinta posición . Sin embargo, los resultados de las últimas carreras complicaron esa posibilidad y Racing Bulls le ganó terreno en la disputa.\n\nPor otra parte, destacó la evolución interna de la escudería desde su llegada en 2024 y valoró la unión entre las diferentes áreas de trabajo. \"Es un gran salto. Ahora el equipo está unido . La parte de ingeniería y la técnica e",
+          "language": "es",
+          "publishedAt": "2026-11-20T11:11:16.000Z",
+          "addedAt": "2026-11-20T11:23:01.636Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-san",
+          "title": "Aclamación por Franco Colapinto en ataque y defensa en Brasil: audaz sobrepaso a Pierre Gasly y sanción a Nico Hulkenberg",
+          "summary": "Después de la carrera de Fórmula 1 en Interlagos, se viralizaron las maniobras del argentino causando una lluvia de elogios por su talento.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-sancion-nico-hulkenberg-id771049.html",
+          "image": "https://media.tycsports.com/files/2026/11/10/1004144/colapinto_862x485.webp",
+          "body": "Después de la carrera de Fórmula 1 en Interlagos, se viralizaron las maniobras del argentino causando una lluvia de elogios por su talento.\n\nEl sobrepaso de Colapinto a Gasly en el GP de Brasil + Seguinos en Franco Colapinto causa admiración por estas horas en redes sociales, luego de que se hicieran virales videos de sus mejores momentos en el Gran Premio de Brasil de Fórmula 1. Allí, ni su 13° puesto ni los dolores de cabeza que suele provocarle el Alpine lograron empañar sus fortalezas, e incluso las agigantaron teniendo en cuenta las limitaciones de su coche y la dificultad extra de la lluvia.\n\nLa maniobra más aclamada volvió a involucrar a Pierre Gasly y resultó clave para el resultado final de la carrera, en el que logró quedar por encima de su compañero de equipo. A falta de 10 giros para el cierre, la copiosa lluvia sobre Interlagos obligó a las escuderías a llamar a sus pilotos a cambiar neumáticos, y el argentino avisó que pretendía ingresar cuanto antes. Inentendiblemente, Alpine convocó a ambos en la misma vuelta, la 63, cuando el francés aún aventajaba al pilarense... O no. Desde la cámara onboard, el ataque del argentino hiela la sangre: la lluvia volvía al Alpine aún más inmanejable y Franco corregía a cada curva el volante con tensa precisión para evitarse resbalar. Arrancó muy lejos -dos segundos- pero su audacia y la ayuda de unas gomas más frescas lo llevó al sobrepaso por adentro en la penúltima curva antes del ingreso a los boxes, zafando por muy poco de un toque rueda a rueda con su compañero y todo lo que ello hubiese implicado.\n\nEl sobrepaso de Colapinto a Gasly en el GP de Brasil La maniobra lo llevó a ingresar primero a boxes pareciendo sorprender al equipo que esperaba primero a Gasly y, con alguna dificultad extra, su parada duró unos largos ",
+          "language": "es",
+          "publishedAt": "2026-11-11T00:42:48.000Z",
+          "addedAt": "2026-11-11T01:21:58.803Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-autocritica-post-gp-brasil-id770862-html",
@@ -3812,7 +3842,13 @@
           "addedAt": "2026-10-30T20:41:25.987Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-11-22T01:38:29.652Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-gran-premio-estados-unidos-formula-1-danos-aleron-id768564-html",
           "title": "Por qué Colapinto abandonó el Gran Premio de Estados Unidos: \"Se rompió mucho el auto\"",
@@ -3842,13 +3878,7 @@
           "addedAt": "2026-10-25T18:56:46.890Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-11-21T21:44:57.226Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-califico-de-rara-su-clasificacion-en-austin-y-explico-que-le-complico-la-tanda",
           "title": "Colapinto calificó de “rara” su clasificación en el GP de Austin y explicó qué le complicó la tanda",
@@ -3876,21 +3906,6 @@
           "language": "es",
           "publishedAt": "2026-10-24T00:50:22.000Z",
           "addedAt": "2026-10-24T02:00:16.108Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-messi-balon-de-oro-id767832-html",
-          "title": "Colapinto eligió a Messi como su candidato para el Balón de Oro: “Sería muy lindo que lo vuelva a ganar”",
-          "summary": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-messi-balon-de-oro-id767832.html",
-          "image": "https://media.tycsports.com/files/2026/10/22/998438/franco_862x485.webp?v=1",
-          "body": "En la previa del Gran Premio de Estados Unidos, el piloto argentino de Alpine dejó en claro su deseo de que el astro rosarino consiga su noveno galardón. “Es un ejemplo para el deporte”, aseguró.\n\nFrance Football aclaró la polémica en torno al Balón de Oro de todos los tiempos, mientras CR7 aventaja a Messi 22/10/2026 09:33 pm Franco Colapinto eligió a Lionel Messi como su candidato a ganar el Balón de Oro. + Seguinos en Franco Colapinto tiene muy en claro a su favorito para quedarse con el Balón de Oro , que se entregará el próximo lunes en Londres. “Messi” , sentenció el piloto argentino de Alpine en diálogo con DAZN este jueves en el Media Day del Gran Premio de Estados Unidos de Fórmula 1.\n\n“Fue su último Mundial y la rompió. Metió muchísimos goles, ayudó a Argentina a llegar a la final y es un ídolo para todo el fútbol mundial. Creo que tuvo un gran año y se lo merece” , argumentó el pilarense sobre la performance del astro rosarino en este 2026.\n\nAdemás, el corredor de 23 años se deshizo en elogios con el mejor futbolista de todos los tiempos por la vigencia que mantiene a sus 39 años: “Con la edad que tiene, su disciplina; es un ejemplo para el mundo del deporte y, si no es el mejor, tuvo uno de los mejores años entre todos los futbolistas”.\n\nPor último, el #43 le dedicó un sentido mensaje a Leo, con quien se encontró en la previa del Gran Premio de Miami. “Ojalá gane él. Soy uno de sus mayores fanáticos y, con todas las alegrías que nos dio, sería muy lindo que lo vuelva a ganar”, sentenció.",
-          "language": "es",
-          "publishedAt": "2026-10-23T00:33:50.000Z",
-          "addedAt": "2026-10-22T19:59:10.767Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3925,21 +3940,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-fernando-alonso-fp1-gran-premio-las-vegas-formula-1-practica-libre-id772073-html",
-          "title": "El GP de Las Vegas de la F1 tendrá un cambio de piloto en la primera práctica libre",
-          "summary": "Aston Martin confirmó que el piloto español le cederá su butaca a Jak Crawford en el inicio de la actividad, este jueves desde las 21.30 de Argentina.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/fernando-alonso-fp1-gran-premio-las-vegas-formula-1-practica-libre-id772073.html",
-          "image": "https://media.tycsports.com/files/2026/10/30/1001210/alonso_1440x810.webp?v=1",
-          "body": "Aston Martin confirmó que el piloto español le cederá su butaca a Jak Crawford en el inicio de la actividad, este jueves desde las 21.30 de Argentina.\n\nAlbon y Alonso protagonizaron una intensa pelea en pista en el GP de Estados Unidos. (Getty Images) + Seguinos en Este jueves se pondrá en marcha la actividad de la Fórmula 1 para el Gran Premio de Las Vegas y la primera práctica libre, que comenzará desde las 21.30 de nuestro país, no contará con el español Fernando Alonso.\n\nSegún confirmó la escudería Aston Martin, Alonso verá desde afuera el primer ensayo en el trazado estadounidense y quien se subirá al volante del AMR26 será el local Jak Crawford.\n\nCrawford, de 21 años y tercer piloto de la escudería por detrás de Alonso y Lance Stroll, tendrá la oportunidad de participar de una práctica libre por quinta vez en la temporada 2026.\n\nEl estadounidense ya acumuló más de 4.800 kilómetros en la máxima categoría del automovilismo, \"lo que refuerza aún más sus conocimientos técnicos y su capacidad para contribuir al desarrollo del equipo\", indicó la escudería.",
-          "language": "es",
-          "publishedAt": "2026-11-18T23:45:12.000Z",
-          "addedAt": "2026-11-19T04:18:05.862Z",
-          "category": "argentino",
-          "tag": "Argentino"
-        },
-        {
           "id": "campeones-com-ar-colapinto-senala-la-temperatura-de-la-noche-en-las-vegas-y-espera-una-carrera-emocionante",
           "title": "Colapinto señala la temperatura de la noche en Las Vegas y espera \"una carrera emocionante\"",
           "summary": "El equipo Alpine F1 Team regresa a Estados Unidos para la última seguidilla de carreras de Fórmula 1 con el Gran Premio de Las Vegas.",
@@ -3953,6 +3953,21 @@
           "addedAt": "2026-11-17T00:20:52.981Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-fernando-alonso-fp1-gran-premio-las-vegas-formula-1-practica-libre-id772073-html",
+          "title": "El GP de Las Vegas de la F1 tendrá un cambio de piloto en la primera práctica libre",
+          "summary": "Aston Martin confirmó que el piloto español le cederá su butaca a Jak Crawford en el inicio de la actividad, este jueves desde las 21.30 de Argentina.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/fernando-alonso-fp1-gran-premio-las-vegas-formula-1-practica-libre-id772073.html",
+          "image": "https://media.tycsports.com/files/2026/10/30/1001210/alonso_1440x810.webp?v=1",
+          "body": "Aston Martin confirmó que el piloto español le cederá su butaca a Jak Crawford en el inicio de la actividad, este jueves desde las 21.30 de Argentina.\n\nAlbon y Alonso protagonizaron una intensa pelea en pista en el GP de Estados Unidos. (Getty Images) + Seguinos en Este jueves se pondrá en marcha la actividad de la Fórmula 1 para el Gran Premio de Las Vegas y la primera práctica libre, que comenzará desde las 21.30 de nuestro país, no contará con el español Fernando Alonso.\n\nSegún confirmó la escudería Aston Martin, Alonso verá desde afuera el primer ensayo en el trazado estadounidense y quien se subirá al volante del AMR26 será el local Jak Crawford.\n\nCrawford, de 21 años y tercer piloto de la escudería por detrás de Alonso y Lance Stroll, tendrá la oportunidad de participar de una práctica libre por quinta vez en la temporada 2026.\n\nEl estadounidense ya acumuló más de 4.800 kilómetros en la máxima categoría del automovilismo, \"lo que refuerza aún más sus conocimientos técnicos y su capacidad para contribuir al desarrollo del equipo\", indicó la escudería.",
+          "language": "es",
+          "publishedAt": "2026-11-18T23:45:12.000Z",
+          "addedAt": "2026-11-19T04:18:05.862Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-la-posible-salida-de-oscar-piastri-de-mclaren-que-podria-abrirle-la-puerta-a-franco-cola",
@@ -4101,21 +4116,6 @@
           "language": "es",
           "publishedAt": "2026-11-11T01:39:50.000Z",
           "addedAt": "2026-11-11T07:55:00.655Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-gasly-apunto-contra-el-rendimiento-de-alpine-y-lamento-no-sumar-en-brasil-fue-decepciona",
-          "title": "Gasly apuntó contra el rendimiento de Alpine y lamentó no sumar en Brasil: “Fue decepcionante”",
-          "summary": "El francés finalizó 14° en Interlagos, detrás de Colapinto, y cuestionó su actuación en la lluvia. Además, reconoció su frustración por no haber sumado puntos y ya piensa en Las Vegas.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/gasly-apunto-contra-el-rendimiento-de-alpine-y-lamento-no-sumar-en-brasil-fue-decepcionante-id770876.html",
-          "image": "https://media.tycsports.com/files/2026/09/10/986411/pierre-gasly_1440x810.webp",
-          "body": "El francés finalizó 14° en Interlagos, detrás de Colapinto, y cuestionó su actuación en la lluvia. Además, reconoció su frustración por no haber sumado puntos y ya piensa en Las Vegas.\n\nPierre Gasly + Seguinos en Pierre Gasly terminó 14° en el Gran Premio de Brasil de Fórmula 1 y expresó su frustración por no haber podido sumar puntos en Interlagos . El piloto de Alpine, que finalizó por detrás de Franco Colapinto (13°), también apuntó contra el rendimiento del auto en condiciones de lluvia y adelantó que el equipo tendrá varios aspectos para analizar antes de la próxima carrera.\n\n\"Fue una tarde desafiante para nosotros y es decepcionante no volver a sumar puntos, especialmente considerando las condiciones impredecibles, que por lo general me gustan mucho\" , reconoció el francés después de la competencia. Además, remarcó que el agarre fue uno de los principales problemas durante la jornada: \"Tenemos mucho que revisar, especialmente con respecto a nuestro rendimiento sobre mojado este fin de semana, ya que el agarre fue muy pobre tanto con los neumáticos Intermedios como con los de Lluvia Extrema\".\n\nEl malestar de Gasly no comenzó el domingo. Tras la clasificación del sábado, el piloto ya había advertido algunas irregularidades en el comportamiento del monoplaza : \"Tras la frustración de ayer en la Clasificación, vimos algunas cosas extrañas en los datos aerodinámicos del auto sobre mojado, las cuales sé que nos tomará tiempo revisar y entender mejor \". De todas maneras, destacó el rendimiento que consiguió con los neumáticos blandos cuando la pista estuvo seca. \"Estuve bastante contento con los neumáticos Blandos en la carrera de hoy y estuvimos entre los autos más rápidos en pista durante la parte seca de la carrera \", señaló.\n\nPor último, el francés reconoció que las ",
-          "language": "es",
-          "publishedAt": "2026-11-09T01:11:46.000Z",
-          "addedAt": "2026-11-09T06:05:57.849Z",
           "category": "argentino",
           "tag": "Franco"
         }
