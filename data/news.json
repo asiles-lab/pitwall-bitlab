@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-24T20:22:58.388Z",
-  "checkedAt": "2026-11-24T20:22:58.388Z",
+  "updatedAt": "2026-11-25T03:37:20.101Z",
+  "checkedAt": "2026-11-25T03:37:20.101Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,6 +40,36 @@
   },
   "backlog": [
     {
+      "id": "campeones-com-ar-firestone-agasajo-a-alessandro-de-tullio-en-su-visita-a-argentina",
+      "title": "Firestone agasajó a Alessandro de Tullio en su visita a Argentina | Campeones",
+      "summary": "El joven piloto de familia argentina volverá a competir en la Indy NXT en 2027, pero además será piloto de reserva de Chip Ganassi Racing en la IndyCar. Sus orígenes, su 2026 y más.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/firestone-agasajo-a-alessandro-de-tullio-en-su-visita-a-argentina/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/SaveClip.App_928405708_1336721341865020_2726239854851025244_n-e1795567064655.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-25T00:41:58.000Z",
+      "addedAt": "2026-11-25T03:37:24.159Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-el-piloto-fontana-profesional-se-acabo-cuando-piso-el-suelo-de-argentina",
+      "title": "\"El piloto Fontana profesional se acabó cuando pisó el suelo de Argentina\"",
+      "summary": "Norberto Fontana habla de todo: El profesionalismo en la F1 y su experiencia, las pistas de Argentina y lo que podría aportar como dirigente.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/el-piloto-fontana-profesional-se-acabo-cuando-piso-el-suelo-de-argentina/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Norberto-Fontana-F1-Sauber-archivo.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-24T21:15:40.000Z",
+      "addedAt": "2026-11-25T03:37:23.244Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-notable-top5-de-colapinto-en-la-ultima-practica-de-las-vegas",
       "title": "Notable Top5 de Colapinto en las prácticas de Las Vegas",
       "summary": "Siguió trabajando en el equilibrio del Alpine A526 con neumáticos medios y blandos preparándose para la clasificación y la carrera; Russell otra vez fue el más veloz.",
@@ -68,21 +98,6 @@
       "addedAt": "2026-11-24T20:23:01.108Z",
       "category": "argentino",
       "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-stellantis-cesa-su-programa-con-peugeot-en-wec-y-opel-y-citroen-en-formula-e",
-      "title": "Stellantis cesa su programa con Peugeot en WEC y Opel y Citroën en Fórmula E",
-      "summary": "La experiencia y los recursos del área Motorsport seguirán siendo activos clave dedicados a las necesidades de los clientes.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/stellantis-cesa-su-programa-con-peugeot-en-wec-y-opel-y-citroen-en-formula-e/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261125-WEC-Stellantis.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-24T19:42:09.000Z",
-      "addedAt": "2026-11-24T20:23:00.953Z",
-      "category": "general",
-      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-tcr-wt-urrutia-gana-la-1a-carrera-en-macao-y-girolami-llega-4",
@@ -186,6 +201,21 @@
       "language": "es",
       "publishedAt": "2026-11-21T02:00:15.000Z",
       "addedAt": "2026-11-21T08:12:15.170Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-stellantis-cesa-su-programa-con-peugeot-en-wec-y-opel-y-citroen-en-formula-e",
+      "title": "Stellantis cesa su programa con Peugeot en WEC y Opel y Citroën en Fórmula E",
+      "summary": "La experiencia y los recursos del área Motorsport seguirán siendo activos clave dedicados a las necesidades de los clientes.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/stellantis-cesa-su-programa-con-peugeot-en-wec-y-opel-y-citroen-en-formula-e/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261125-WEC-Stellantis.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-24T19:42:09.000Z",
+      "addedAt": "2026-11-24T20:23:00.953Z",
       "category": "general",
       "tag": "F1"
     },
@@ -340,21 +370,6 @@
       "tag": "Franco"
     },
     {
-      "id": "campeones-com-ar-diego-azar-a-diferencia-de-gt-italiano-en-tc-se-limita-para-no-encarecer",
-      "title": "Diego Azar: «A diferencia de GT Italiano, en TC se limita para no encarecer»",
-      "summary": "En \"Buen día, Campeones\", el piloto de Del Viso repasó su test en Misano con Urcera y Fritzler y se refirió al cierre de la \"Copa de Oro\" en La Plata.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/diego-azar-a-diferencia-de-gt-italiano-en-tc-se-limita-para-no-encarecer/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261124-Diego-Azar.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-24T18:23:59.000Z",
-      "addedAt": "2026-11-24T20:23:00.952Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-formula-1-las-vegas-clasificacion-antonello-pole-penalizacion-verstappen-id772467-html",
       "title": "F1: La \"avivada\" de Kimi Antonelli que le dio la pole en una infartante qualy en Las Vegas",
       "summary": "Cuando todos peleaban por el rebufo, el campeón del mundo los dejó pasar a todos y terminó siendo el último en cerrar la clasificación. Antes, sufrió para poder abrir la última vuelta.",
@@ -385,17 +400,17 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-matias-rossi-y-sus-20-anos-de-exitosa-vigencia-en-el-tc2000",
-      "title": "Matías Rossi y sus 20 años de exitosa vigencia en el TC2000",
-      "summary": "El “Misil” igualó los 7 títulos de Juan María Traverso, aunque a diferencia del “Flaco”, que lo consiguió en un lapso de 9 años, entre el primer y el séptimo campeonato del piloto emblema de Toyota pasaron nada menos que dos décadas.",
+      "id": "campeones-com-ar-diego-azar-a-diferencia-de-gt-italiano-en-tc-se-limita-para-no-encarecer",
+      "title": "Diego Azar: «A diferencia de GT Italiano, en TC se limita para no encarecer»",
+      "summary": "En \"Buen día, Campeones\", el piloto de Del Viso repasó su test en Misano con Urcera y Fritzler y se refirió al cierre de la \"Copa de Oro\" en La Plata.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/matias-rossi-y-sus-20-anos-de-exitosa-vigencia-en-el-tc2000/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Rossi-Campeon-TC2000-2026.jpg",
+      "url": "https://campeones.com.ar/diego-azar-a-diferencia-de-gt-italiano-en-tc-se-limita-para-no-encarecer/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261124-Diego-Azar.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-24T12:38:42.000Z",
-      "addedAt": "2026-11-24T20:23:00.677Z",
+      "publishedAt": "2026-11-24T18:23:59.000Z",
+      "addedAt": "2026-11-24T20:23:00.952Z",
       "category": "general",
       "tag": "F1"
     },
@@ -505,6 +520,21 @@
       "tag": "Franco"
     },
     {
+      "id": "campeones-com-ar-el-espectaculo-de-la-f1-en-las-vegas-realidad-o-ficcion",
+      "title": "El espectáculo de la F1 en Las Vegas: ¿realidad o ficción? | Campeones",
+      "summary": "En la pluma del profesor Alberto Juárez, indagamos acerca de lo brindado por la \"Máxima\" en el callejero estadounidense.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/el-espectaculo-de-la-f1-en-las-vegas-realidad-o-ficcion/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/M6568522.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-24T15:12:54.000Z",
+      "addedAt": "2026-11-25T03:37:23.187Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-rafael-camara-deja-la-formula-2-para-cerrar-la-temporada-con-haas-en-f1",
       "title": "Rafael Câmara deja la Fórmula 2 para cerrar la temporada con Haas en F1",
       "summary": "El brasileño, que lidera el campeonato de F2 y tenía posibilidades de consagrarse campeón, priorizó su adaptación dentro de la Fórmula 1 y disputará Grandes Premios de Qatar y Abu Dhabi.",
@@ -610,21 +640,6 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-esta-noche-grandes-campeones-69",
-      "title": "Esta noche: Grandes Campeones",
-      "summary": "Martes a las 22 hs: Osvaldo «Cocho» López, Ángel Guerra, Gabriel Raies y José Luis Di Palma por El Garage TV y en simultáneo por nuestra web.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/esta-noche-grandes-campeones-69/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2025/02/GRANDES-CAMPEONES-2025-GUERRA-COCHO-LOPEZ-RAIES-DI-PALMA.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-17T20:50:58.000Z",
-      "addedAt": "2026-11-17T23:58:22.724Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-salio-ranking-destructores-formula-1-con-enorme-brecha-entre-franco-colapinto-y-pierre-g",
       "title": "Salió el ranking de destructores de la Fórmula 1, con enorme brecha entre Franco Colapinto y Pierre Gasly",
       "summary": "La tabla contabiliza los costos por accidentes y roturas de los autos durante la temporada 2026. Oliver Bearman lidera una clasificación que también refleja el elevado gasto de Alpine.",
@@ -713,6 +728,21 @@
       "addedAt": "2026-10-29T19:15:02.909Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-matias-rossi-y-sus-20-anos-de-exitosa-vigencia-en-el-tc2000",
+      "title": "Matías Rossi y sus 20 años de exitosa vigencia en el TC2000",
+      "summary": "El “Misil” igualó los 7 títulos de Juan María Traverso, aunque a diferencia del “Flaco”, que lo consiguió en un lapso de 9 años, entre el primer y el séptimo campeonato del piloto emblema de Toyota pasaron nada menos que dos décadas.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/matias-rossi-y-sus-20-anos-de-exitosa-vigencia-en-el-tc2000/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Rossi-Campeon-TC2000-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-24T12:38:42.000Z",
+      "addedAt": "2026-11-24T20:23:00.677Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-turismo-carretera-2000-debutantes-y-retornos-para-el-cierre-en-rafaela",
@@ -1675,36 +1705,6 @@
       "tag": "F1"
     },
     {
-      "id": "campeones-com-ar-sensaciones-de-los-candidatos-por-el-titulo-de-tc",
-      "title": "Las sensaciones de los candidatos por el título de TC",
-      "summary": "Seis de los potenciales candidatos que definirán la \"Copa de Oro RUS\" en La Plata, evaluaron sus pretensiones tras la penúltima fecha disputada en Río Cuarto.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/sensaciones-de-los-candidatos-por-el-titulo-de-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Rossi-Santero.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-17T22:05:53.000Z",
-      "addedAt": "2026-11-17T23:58:23.058Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-ebarlin-en-tiempos-de-decisiones-para-continuar-en-turismo-carretera",
-      "title": "Ebarlín en tiempos de decisiones para continuar en Turismo Carretera",
-      "summary": "El vínculo del piloto de Benito Juárez con el equipo de Diego De Carlo podría culminar en La Plata y ante ello está analizando opciones de cara a 2027.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/ebarlin-en-tiempos-de-decisiones-para-continuar-en-turismo-carretera/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Ebarlin.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-17T20:35:39.000Z",
-      "addedAt": "2026-11-17T23:58:23.049Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-que-resta-confirmarse-en-la-grilla-de-la-formula-1-2027-tras-el-anuncio-de-racing-bulls-",
       "title": "Qué resta confirmarse en la grilla de la Fórmula 1 2027 tras el anuncio de Racing Bulls",
       "summary": "Liam Lawson fue ratificado por el segundo equipo de Red Bull para el año que viene pero aún quedan dos lugares por definir, y uno puede traer noveea.",
@@ -1928,6 +1928,21 @@
       "addedAt": "2026-10-27T19:41:09.465Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-esta-noche-grandes-campeones-69",
+      "title": "Esta noche: Grandes Campeones",
+      "summary": "Martes a las 22 hs: Osvaldo «Cocho» López, Ángel Guerra, Gabriel Raies y José Luis Di Palma por El Garage TV y en simultáneo por nuestra web.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/esta-noche-grandes-campeones-69/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2025/02/GRANDES-CAMPEONES-2025-GUERRA-COCHO-LOPEZ-RAIES-DI-PALMA.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-17T20:50:58.000Z",
+      "addedAt": "2026-11-17T23:58:22.724Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-acuerdo-en-formula-1-aprueba-volver-a-usar-motores-v8",
@@ -2665,6 +2680,36 @@
       "tag": "Franco"
     },
     {
+      "id": "campeones-com-ar-sensaciones-de-los-candidatos-por-el-titulo-de-tc",
+      "title": "Las sensaciones de los candidatos por el título de TC",
+      "summary": "Seis de los potenciales candidatos que definirán la \"Copa de Oro RUS\" en La Plata, evaluaron sus pretensiones tras la penúltima fecha disputada en Río Cuarto.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/sensaciones-de-los-candidatos-por-el-titulo-de-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Rossi-Santero.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-17T22:05:53.000Z",
+      "addedAt": "2026-11-17T23:58:23.058Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-ebarlin-en-tiempos-de-decisiones-para-continuar-en-turismo-carretera",
+      "title": "Ebarlín en tiempos de decisiones para continuar en Turismo Carretera",
+      "summary": "El vínculo del piloto de Benito Juárez con el equipo de Diego De Carlo podría culminar en La Plata y ante ello está analizando opciones de cara a 2027.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/ebarlin-en-tiempos-de-decisiones-para-continuar-en-turismo-carretera/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261117-TC-Ebarlin.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-17T20:35:39.000Z",
+      "addedAt": "2026-11-17T23:58:23.049Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-chapur-y-una-contundente-confesion-se-nos-escapo-el-campeonato-de-tc",
       "title": "Chapur y una contundente confesión: «Se nos escapó el campeonato de TC»",
       "summary": "En diálogo con Campeones, el piloto cordobés habló sobre sus posibilidades para la definición de la \"Copa de Oro\" y se refirió respecto a su continuidad con Trotta Racing.",
@@ -2693,58 +2738,28 @@
       "addedAt": "2026-11-17T17:43:04.391Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-marcos-landa-y-un-destino-incierto-en-turismo-carretera",
-      "title": "Marcos Landa y un destino incierto en Turismo Carretera",
-      "summary": "Si bien mantiene contactos, el piloto uruguayo no tiene confirmada su continuidad en la categoría para 2027.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/marcos-landa-y-un-destino-incierto-en-turismo-carretera/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261116-TC-Marcos-Landa.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-16T15:48:33.000Z",
-      "addedAt": "2026-11-16T16:11:49.294Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
-      "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
-      "summary": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-entradas-id763683.html",
-      "image": "https://media.tycsports.com/files/2025/01/20/804453/motogp-en-termas_1440x810.webp?v=2",
-      "body": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.\n\nEl Moto GP llegará a Buenos Aires en abril de 2027 + Seguinos en El MotoGP ya tiene los precios de las entradas para su regreso a la Ciudad de Buenos Aires. El Gran Premio se disputará del 9 al 11 de abril en el renovado circuito porteño, que volverá a recibir a la máxima categoría del motociclismo mundial.\n\nEl valor de los tickets parte desde $194.520 para una ubicación en la recta y llega hasta $5.349.300 para el acceso al Apex Club Elite, la alternativa de mayor costo. Entre ambos extremos, habrá distintas opciones de localidades y experiencias para los espectadores.\n\nLa venta se realizará a través del sitio oficial de tickets de MotoGP. Además, entre el 1 y el 7 de octubre habrá una preventa exclusiva para clientes de Banco Ciudad, con la posibilidad de abonar en hasta seis cuotas sin interés.",
-      "language": "es",
-      "publishedAt": "2026-09-30T22:03:28.000Z",
-      "addedAt": "2026-11-23T02:56:19.318Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus",
-      "title": "'Pechito' López se enfoca en la próxima cita del WEC: \"Será la última carrera del Lexus\"",
-      "summary": "Los esfuerzos en la fecha de Barcelona no lograron recuperar al N°87 de los contratiempos y la vista está en la última del año.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/pechito-lopez-se-enfoca-en-la-proxima-cita-del-wec-sera-la-ultima-carrera-del-lexus/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/DPPI-WEC-Akkodis-Lopez-Lexus-Barcelona-2026-3.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-10-19T15:03:50.000Z",
-      "addedAt": "2026-11-24T09:46:45.450Z",
-      "category": "argentino",
-      "tag": "Argentino"
     }
   ],
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-24T20:23:11.944Z",
+      "createdAt": "2026-11-25T03:37:29.999Z",
       "items": [
+        {
+          "id": "www-tycsports-com-automovilismo-la-ilusion-de-colapinto-para-el-gran-premio-de-qatar-esperamos-mantener-el-impulso-id772",
+          "title": "La ilusión de Colapinto para el Gran Premio de Qatar: \"Esperamos mantener el impulso\"",
+          "summary": "Tras su regreso a la zona de puntos en Las Vegas, el piloto argentino apunta a revalidar su actuación este fin de semana en Lusail.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-ilusion-de-colapinto-para-el-gran-premio-de-qatar-esperamos-mantener-el-impulso-id772841.html",
+          "image": "https://media.tycsports.com/files/2026/11/16/1005359/franco-colapinto-alpine_1440x810.webp?v=1",
+          "body": "Tras su regreso a la zona de puntos en Las Vegas, el piloto argentino apunta a revalidar su actuación este fin de semana en Lusail.\n\nFranco Colapinto anticipó el Gran Premio de Qatar de la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en Franco Colapinto puso punto final a su sequía en Las Vegas , al lograr un tremendo sexto puesto en una carrera de locos que le permitió volver a sumar puntos . Tras un fin de semana donde peleó en pista contra escuderías como McLaren y Ferrari, el piloto de Alpine puso la mira en lo que será el Gran Premio de Qatar , que se disputará este fin de semana.\n\n\" Fue fantástico volver a sumar puntos en Las Vegas e igualar mi mejor resultado hasta la fecha en la Fórmula 1 . Tuvimos un buen ritmo durante todo el fin de semana, ya que diversas características del circuito se adaptaron bien a nuestro monoplaza, y gestionamos el evento a la perfección con ambos coches. Esperamos mantener el impulso en Qatar \" , inició el argentino en diálogo con la página web de la escudería francesa.\n\nDouble points for @AlpineF1Team ð©· Great effort from Pierre and Franco ðð #F1 #LasVegasGP https://t.co/FPIPzHs62Q\n\nLo sucedido en la madrugada del último domingo en Las Vegas dejó enloquecido a los fanáticos de la categoría reina del automovilismo por lo sucedido en pista, una situación que Colapinto dejó en claro que no espera que se repita en Lusail. \" Probablemente, volveremos a un tipo de carrera más normal, tras la intensa dinámica de succión que acabamos de vivir, que resultó ser algo muy singular \" , explicó.",
+          "language": "es",
+          "publishedAt": "2026-11-25T02:49:11.000Z",
+          "addedAt": "2026-11-25T03:37:21.480Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-las-vegas-id771970",
           "title": "Antonelli fue el más rápido, Verstappen largará primero y Colapinto terminó 10° en la clasificación del GP de Las Vegas",
@@ -2776,17 +2791,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-formula-1-rendida-ante-largada-franco-colapinto-las-vegas-id772719-html",
-          "title": "La Fórmula 1, rendida ante la largada de Franco Colapinto en Las Vegas",
-          "summary": "La cuenta oficial de la máxima categoría destacó una nueva gran salida del argentino como parte de la buena carrera de Alpine el último domingo.",
+          "id": "www-tycsports-com-automovilismo-formula-1-franco-colapinto-gp-de-las-vegas-elogio-top-10-power-rankings-id772837-html",
+          "title": "\"Era justo lo que necesitaba\": Colapinto, al top 10 de los Power Rankings de la F1 tras un gran GP de Las Vegas",
+          "summary": "El piloto argentino recibió ocho puntos en los Power Rankings, se metió en el Top 10 y quedó por encima de varios nombres importantes de la categoría.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-rendida-ante-largada-franco-colapinto-las-vegas--id772719.html",
-          "image": "https://media.tycsports.com/files/2026/11/22/1006685/colapinto_1440x810.webp",
-          "body": "La cuenta oficial de la máxima categoría destacó una nueva gran salida del argentino como parte de la buena carrera de Alpine el último domingo.\n\nLas largadas de Colapinto y Gasly que destacó la F1 + Seguinos en Franco Colapinto volvió a demostrar que las largadas son uno de sus grandes puntos fuertes en la Fórmula 1. En el Gran Premio de Las Vegas, el argentino que metería puesto 6 tuvo un arranque sobresaliente que le permitió ganar posiciones y fue destacado por la cuenta oficial de la categoría, que también elogió el desempeño de Pierre Gasly, finalmente quinto.\n\nEl pilarense aprovechó el inconveniente que sufrió Liam Lawson que lo obligó a ausentarse de la parrilla, buscó el hueco y avanzó hasta el sexto lugar. “¡Avanzando desde el principio con los pilotos de Alpine, en camino a puntos dobles! El Gran Premio de Las Vegas de Pierre y Franco comenzó con estas reacciones de salida”, publicó la Fórmula 1 en su cuenta oficial de X, en reconocimiento al inicio de los dos pilotos de la escudería francesa. De acuerdo con los registros de la categoría, Colapinto y Gasly tuvieron un tiempo de reacción de 0.25 segundos para pisar el acelerador tras la señal lumínica. Sin embargo, el argentino marcó una diferencia: necesitó 5.10 segundos para pasar de 0 a 200 km/h, mientras que el francés llegó a esa velocidad en 5.17 segundos.\n\nEsa pequeña ventaja resultó decisiva en los primeros metros. Colapinto consiguió colocar el tren delantero de su monoplaza por delante del de Gasly en el sector externo de la primera curva y le ganó la posición en ese tramo inicial. Después, ambos coches padecieron en distintos momentos de la carrera un sobrecalentamiento que mermó sus chances.\n\nDespués, el argentino se refirió al comportamiento de los neumáticos blandos, que le impidieron sostener el",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-franco-colapinto-gp-de-las-vegas-elogio-top-10-power-rankings-id772837.html",
+          "image": "https://media.tycsports.com/files/2026/11/23/1006954/franco-colapinto_1440x810.webp",
+          "body": "El piloto argentino recibió ocho puntos en los Power Rankings, se metió en el Top 10 y quedó por encima de varios nombres importantes de la categoría.\n\nFranco Colapinto terminó sexto en el GP de Las Vegas e igualó así su mejor posición histórica en una carrera de la F1 (Clive Mason/Getty Images). + Seguinos en Con su sexto puesto en el Gran Premio de Las Vegas, Franco Colapinto volvió a meterse entre los pilotos destacados de la Fórmula 1 . El argentino recibió una valoración de ocho puntos en los tradicionales Power Rankings de la categoría y se metió en el top 10 del escalafón , por encima de varios nombres destacados.\n\nEl resultado le permitió igualar su mejor actuación histórica en la máxima categoría y volver a figurar entre los diez pilotos más destacados del fin de semana . El reconocimiento llegó de parte de un panel de cinco especialistas de la F1, que califica del 1 al 10 el rendimiento individual de cada competidor, sin tener en cuenta el potencial de su monoplaza.\n\nLos jueces valoraron especialmente su recuperación después de una seguidilla de competencias complicadas . \" Tras una racha complicada de carreras, el fin de semana de Las Vegas fue justo lo que Franco Colapinto necesitaba ”, señalaron en su análisis.\n\nAdemás, destacaron su desempeño durante la clasificación, en la que consiguió acompañar a su compañero de equipo, Pierre Gasly, hasta la Q3 . También mencionaron las dificultades que atravesó con un juego usado de neumáticos blandos durante el primer stint , aunque logró convertir ese escenario en un sexto puesto en la bandera a cuadros.",
           "language": "es",
-          "publishedAt": "2026-11-24T02:44:35.000Z",
-          "addedAt": "2026-11-24T09:46:39.569Z",
+          "publishedAt": "2026-11-24T23:46:11.000Z",
+          "addedAt": "2026-11-25T03:37:21.541Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2851,6 +2866,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-formula-1-rendida-ante-largada-franco-colapinto-las-vegas-id772719-html",
+          "title": "La Fórmula 1, rendida ante la largada de Franco Colapinto en Las Vegas",
+          "summary": "La cuenta oficial de la máxima categoría destacó una nueva gran salida del argentino como parte de la buena carrera de Alpine el último domingo.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-rendida-ante-largada-franco-colapinto-las-vegas--id772719.html",
+          "image": "https://media.tycsports.com/files/2026/11/22/1006685/colapinto_1440x810.webp",
+          "body": "La cuenta oficial de la máxima categoría destacó una nueva gran salida del argentino como parte de la buena carrera de Alpine el último domingo.\n\nLas largadas de Colapinto y Gasly que destacó la F1 + Seguinos en Franco Colapinto volvió a demostrar que las largadas son uno de sus grandes puntos fuertes en la Fórmula 1. En el Gran Premio de Las Vegas, el argentino que metería puesto 6 tuvo un arranque sobresaliente que le permitió ganar posiciones y fue destacado por la cuenta oficial de la categoría, que también elogió el desempeño de Pierre Gasly, finalmente quinto.\n\nEl pilarense aprovechó el inconveniente que sufrió Liam Lawson que lo obligó a ausentarse de la parrilla, buscó el hueco y avanzó hasta el sexto lugar. “¡Avanzando desde el principio con los pilotos de Alpine, en camino a puntos dobles! El Gran Premio de Las Vegas de Pierre y Franco comenzó con estas reacciones de salida”, publicó la Fórmula 1 en su cuenta oficial de X, en reconocimiento al inicio de los dos pilotos de la escudería francesa. De acuerdo con los registros de la categoría, Colapinto y Gasly tuvieron un tiempo de reacción de 0.25 segundos para pisar el acelerador tras la señal lumínica. Sin embargo, el argentino marcó una diferencia: necesitó 5.10 segundos para pasar de 0 a 200 km/h, mientras que el francés llegó a esa velocidad en 5.17 segundos.\n\nEsa pequeña ventaja resultó decisiva en los primeros metros. Colapinto consiguió colocar el tren delantero de su monoplaza por delante del de Gasly en el sector externo de la primera curva y le ganó la posición en ese tramo inicial. Después, ambos coches padecieron en distintos momentos de la carrera un sobrecalentamiento que mermó sus chances.\n\nDespués, el argentino se refirió al comportamiento de los neumáticos blandos, que le impidieron sostener el",
+          "language": "es",
+          "publishedAt": "2026-11-24T02:44:35.000Z",
+          "addedAt": "2026-11-24T09:46:39.569Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-viajo-en-turista-revoluciono-redes-id772669-html",
           "title": "“El hombre del pueblo”: Colapinto viajó en turista y revolucionó las redes",
           "summary": "El piloto argentino fue filmado por una influencer en el vuelo de regreso tras su sobresaliente actuación en el Gran Premio de Las Vegas y sorprendió al llevar su casco en la mano.",
@@ -2862,21 +2892,6 @@
           "language": "es",
           "publishedAt": "2026-11-23T17:00:55.000Z",
           "addedAt": "2026-11-24T00:08:23.472Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-la-alegria-de-colapinto-por-la-consagracion-de-boca-antes-del-gran-premio-de-las-vegas-i",
-          "title": "La alegría de Colapinto por la consagración de Boca antes del Gran Premio de Las Vegas",
-          "summary": "Previo al comienzo a las acciones en el trazado urbano en la ciudad estadounidense, el piloto argentino evidenció su felicidad por la obtención de la Copa Sudamericana.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-alegria-de-colapinto-por-la-consagracion-de-boca-antes-del-gran-premio-de-las-vegas-id772540.html",
-          "image": "https://media.tycsports.com/files/2026/11/16/1005359/franco-colapinto-alpine_1440x810.webp?v=1",
-          "body": "Previo al comienzo a las acciones en el trazado urbano en la ciudad estadounidense, el piloto argentino evidenció su felicidad por la obtención de la Copa Sudamericana.\n\nFranco Colapinto celebró la consagración de Boca en la Copa Sudamericana antes del Gran Premio de Las Vegas de la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en Franco Colapinto disputará el Gran Premio de Las Vegas de la Fórmula 1 pero antes del comienzo a las acciones expresó su alegría por la consagración de Boca en la Copa Sudamericana 2026 .\n\n\"Estamos como locos, arrancamos bien el día\" , afirmó con una sonrisa de oreja a oreja en diálogo con ESPN al arribar al circuito emplazado en el corazón de la ciudad insignia del estado de Nevada.\n\nTambién el oriundo de Pilar confesó que estuvo atento a las acciones y reiteró su felicidad por el gran comienzo a su jornada, donde buscará cortar su racha de carreras sin poder puntuar en la categoría: \"Sí, lo ví y muy contento. Un buen arranque\" .\n\nSolo quince días atrás el piloto argentino vio el título del Xeneize en la Liga Profesional 2026 desde el mítico circuito Interlagos tras la clasificación del Gran Premio de Brasil, al estar presente con una computadora observando las acciones en el paddock acompañado por Bizarrap y con un puño apretado tras el agónico triunfo sobre Defensa y Justicia.",
-          "language": "es",
-          "publishedAt": "2026-11-22T03:03:07.000Z",
-          "addedAt": "2026-11-22T08:52:26.643Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2911,17 +2926,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-formula-1-alpine-mejora-motor-franco-colapinto-gran-premio-de-las-vegas-id771939-html",
-          "title": "Alpine prepara una especial mejora de motor para Colapinto en Las Vegas",
-          "summary": "La actualización llegará este fin de semana gracias al desarrollo de Mercedes y podrá ser utilizada por los dos pilotos de la escudería francesa sin recibir penalizaciones en la grilla.",
+          "id": "www-tycsports-com-automovilismo-la-alegria-de-colapinto-por-la-consagracion-de-boca-antes-del-gran-premio-de-las-vegas-i",
+          "title": "La alegría de Colapinto por la consagración de Boca antes del Gran Premio de Las Vegas",
+          "summary": "Previo al comienzo a las acciones en el trazado urbano en la ciudad estadounidense, el piloto argentino evidenció su felicidad por la obtención de la Copa Sudamericana.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-alpine-mejora-motor-franco-colapinto-gran-premio-de-las-vegas-id771939.html",
-          "image": "https://media.tycsports.com/files/2026/11/11/1004163/franco-colapinto_1440x810.webp",
-          "body": "La actualización llegará este fin de semana gracias al desarrollo de Mercedes y podrá ser utilizada por los dos pilotos de la escudería francesa sin recibir penalizaciones en la grilla.\n\nFranco Colapinto, piloto de Alpine. (Clive Mason/Getty Images) + Seguinos en Alpine tendrá una novedad importante en sus dos monoplazas para el Gran Premio de Las Vegas de Fórmula 1. Franco Colapinto y Pierre Gasly contarán con una evolución del motor Mercedes que se estrenará este fin de semana y que representa una oportunidad para mejorar el rendimiento de los A526 en el tramo final de la temporada.\n\nLa actualización forma parte del programa ADUO (Unidad de Desarrollo Adicional), implementado por la FIA para reducir las diferencias de rendimiento entre los fabricantes de motores. Después de analizar las unidades de potencia de los cinco proveedores de la categoría, el organismo habilitó a Mercedes a desarrollar dos evoluciones adicionales, una para 2026 y otra para 2027.\n\nEn la última evaluación, el impulsor de Red Bull Powertrains-Ford fue identificado como el más potente en su motor de combustión interna. Por su parte, Mercedes quedó entre un 2% y un 4% por debajo de la referencia , una diferencia que le permitió acceder a nuevas oportunidades de desarrollo.\n\nSegún informó Infobae, la primera actualización estará disponible en Las Vegas y contempla una mejora en el turbocompresor . Sin embargo, Mercedes decidió implementarla solamente en el auto de Kimi Antonelli, mientras que George Russell continuará con la especificación anterior para evitar una penalización de cinco puestos en la grilla de largada.",
+          "url": "https://www.tycsports.com/automovilismo/la-alegria-de-colapinto-por-la-consagracion-de-boca-antes-del-gran-premio-de-las-vegas-id772540.html",
+          "image": "https://media.tycsports.com/files/2026/11/16/1005359/franco-colapinto-alpine_1440x810.webp?v=1",
+          "body": "Previo al comienzo a las acciones en el trazado urbano en la ciudad estadounidense, el piloto argentino evidenció su felicidad por la obtención de la Copa Sudamericana.\n\nFranco Colapinto celebró la consagración de Boca en la Copa Sudamericana antes del Gran Premio de Las Vegas de la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en Franco Colapinto disputará el Gran Premio de Las Vegas de la Fórmula 1 pero antes del comienzo a las acciones expresó su alegría por la consagración de Boca en la Copa Sudamericana 2026 .\n\n\"Estamos como locos, arrancamos bien el día\" , afirmó con una sonrisa de oreja a oreja en diálogo con ESPN al arribar al circuito emplazado en el corazón de la ciudad insignia del estado de Nevada.\n\nTambién el oriundo de Pilar confesó que estuvo atento a las acciones y reiteró su felicidad por el gran comienzo a su jornada, donde buscará cortar su racha de carreras sin poder puntuar en la categoría: \"Sí, lo ví y muy contento. Un buen arranque\" .\n\nSolo quince días atrás el piloto argentino vio el título del Xeneize en la Liga Profesional 2026 desde el mítico circuito Interlagos tras la clasificación del Gran Premio de Brasil, al estar presente con una computadora observando las acciones en el paddock acompañado por Bizarrap y con un puño apretado tras el agónico triunfo sobre Defensa y Justicia.",
           "language": "es",
-          "publishedAt": "2026-11-17T23:06:10.000Z",
-          "addedAt": "2026-11-17T23:58:21.640Z",
+          "publishedAt": "2026-11-22T03:03:07.000Z",
+          "addedAt": "2026-11-22T08:52:26.643Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2999,7 +3014,13 @@
           "addedAt": "2026-11-23T12:15:49.612Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-11-25T03:37:29.999Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-duelo-colapinto-gasly-alpine-mano-a-mano-gp-las-vegas-f1-id772574-html",
           "title": "Así quedó el mano a mano de Colapinto vs. Gasly en Alpine tras el GP de Las Vegas",
@@ -3014,13 +3035,7 @@
           "addedAt": "2026-11-22T17:03:16.924Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-11-24T20:23:11.944Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-f1-verstappen-aposto-fuerte-y-gano-en-las-vegas-colapinto-termino-sexto",
           "title": "F1: Verstappen apostó fuerte y ganó en Las Vegas; Colapinto terminó sexto",
@@ -3048,21 +3063,6 @@
           "language": "es",
           "publishedAt": "2026-11-24T15:56:10.000Z",
           "addedAt": "2026-11-24T20:23:01.516Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-la-grilla-de-largada-del-gp-de-las-vegas-verstappen-desde-la-pole-y-colapinto-desde-el-9-puesto",
-          "title": "La grilla de largada del GP de Las Vegas: Verstappen desde la \"pole\" y Colapinto desde el 9.° puesto",
-          "summary": "Andrea Kimi Antonelli (Mercedes) firmó en Nevada su octava pole position de la temporada, pero fue sancionado y Max Verstappen (Red Bull) largará desde la primera posición, mientras que Franco Colapinto (Alpine) saldrá 9° por la penalización a Oscar Piastri (McLaren).",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/la-grilla-de-largada-del-gp-de-las-vegas-verstappen-desde-la-pole-y-colapinto-desde-el-9-puesto/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261121-F1-LV-FColapinto-Q3.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-21T22:18:01.000Z",
-          "addedAt": "2026-11-22T01:38:22.095Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3112,21 +3112,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-nuevo-diseno-alpine-formula-1-id771942-html",
-          "title": "Colapinto y Alpine lucirán un nuevo diseño en las tres últimas carreras de la Fórmula 1",
-          "summary": "La escudería francesa anunció la nueva decoración que utilizará en los Grandes Premios de Las Vegas, Catar y Abu Dabi.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/nuevo-diseno-alpine-formula-1-id771942.html",
-          "image": "https://media.tycsports.com/files/2026/11/17/1005649/aslpine_862x485.webp?v=1",
-          "body": "La escudería francesa anunció la nueva decoración que utilizará en los Grandes Premios de Las Vegas, Catar y Abu Dabi.\n\nEl nuevo diseño del A526 para las tres últimas carreras de la F1. + Seguinos en Alpine estrenará un nuevo diseño en sus monoplazas en el cierre de la temporada 2026 de la Fórmula 1 . La escudería francesa presentó la nueva livery que lucirán los autos de Franco Colapinto y Pierre Gasly en los Grandes Premios de Las Vegas, Catar y Abu Dhabi.\n\nLa principal novedad estética está vinculada a uno de sus patrocinadores principales, BWT. La nueva decoración le dará mayor protagonismo al color rosa , característico de la compañía austríaca.\n\nA diferencia del diseño que el equipo galo utilizó a lo largo de la temporada, en el que el azul era preponderante, ahora los pompones laterales del A526 pasarán a ser rosas en su totalidad y las letras del sponsor aparecerán en azul.\n\nAnte esta modificación, el rosa volverá a ser protagonista en los monoplazas de Colapinto y Gasly bajo las luces del circuito callejero de Las Vegas, ya que la carrera se correrá de noche y luego en las citas en Medio Oriente.",
-          "language": "es",
-          "publishedAt": "2026-11-18T00:03:25.000Z",
-          "addedAt": "2026-11-18T07:12:38.843Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-formula-1-las-vegas-gp-clasificacion-grilla-partida-qualy-penalizaciones-id772465-html",
           "title": "Atento, Colapinto: así quedó la grilla del GP de Las Vegas de F1 después de las penalizaciones",
           "summary": "Antonelli hizo la pole, pero el campeón del mundo largará sexto por la penalización. También sufrieron sanciones Bearman, Sainz, Piastri y Stroll.",
@@ -3153,6 +3138,21 @@
           "language": "es",
           "publishedAt": "2026-11-20T05:58:37.000Z",
           "addedAt": "2026-11-20T11:23:02.886Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "campeones-com-ar-la-grilla-de-largada-del-gp-de-las-vegas-verstappen-desde-la-pole-y-colapinto-desde-el-9-puesto",
+          "title": "La grilla de largada del GP de Las Vegas: Verstappen desde la \"pole\" y Colapinto desde el 9.° puesto",
+          "summary": "Andrea Kimi Antonelli (Mercedes) firmó en Nevada su octava pole position de la temporada, pero fue sancionado y Max Verstappen (Red Bull) largará desde la primera posición, mientras que Franco Colapinto (Alpine) saldrá 9° por la penalización a Oscar Piastri (McLaren).",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/la-grilla-de-largada-del-gp-de-las-vegas-verstappen-desde-la-pole-y-colapinto-desde-el-9-puesto/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261121-F1-LV-FColapinto-Q3.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-21T22:18:01.000Z",
+          "addedAt": "2026-11-22T01:38:22.095Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3247,6 +3247,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-formula-1-alpine-mejora-motor-franco-colapinto-gran-premio-de-las-vegas-id771939-html",
+          "title": "Alpine prepara una especial mejora de motor para Colapinto en Las Vegas",
+          "summary": "La actualización llegará este fin de semana gracias al desarrollo de Mercedes y podrá ser utilizada por los dos pilotos de la escudería francesa sin recibir penalizaciones en la grilla.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-alpine-mejora-motor-franco-colapinto-gran-premio-de-las-vegas-id771939.html",
+          "image": "https://media.tycsports.com/files/2026/11/11/1004163/franco-colapinto_1440x810.webp",
+          "body": "La actualización llegará este fin de semana gracias al desarrollo de Mercedes y podrá ser utilizada por los dos pilotos de la escudería francesa sin recibir penalizaciones en la grilla.\n\nFranco Colapinto, piloto de Alpine. (Clive Mason/Getty Images) + Seguinos en Alpine tendrá una novedad importante en sus dos monoplazas para el Gran Premio de Las Vegas de Fórmula 1. Franco Colapinto y Pierre Gasly contarán con una evolución del motor Mercedes que se estrenará este fin de semana y que representa una oportunidad para mejorar el rendimiento de los A526 en el tramo final de la temporada.\n\nLa actualización forma parte del programa ADUO (Unidad de Desarrollo Adicional), implementado por la FIA para reducir las diferencias de rendimiento entre los fabricantes de motores. Después de analizar las unidades de potencia de los cinco proveedores de la categoría, el organismo habilitó a Mercedes a desarrollar dos evoluciones adicionales, una para 2026 y otra para 2027.\n\nEn la última evaluación, el impulsor de Red Bull Powertrains-Ford fue identificado como el más potente en su motor de combustión interna. Por su parte, Mercedes quedó entre un 2% y un 4% por debajo de la referencia , una diferencia que le permitió acceder a nuevas oportunidades de desarrollo.\n\nSegún informó Infobae, la primera actualización estará disponible en Las Vegas y contempla una mejora en el turbocompresor . Sin embargo, Mercedes decidió implementarla solamente en el auto de Kimi Antonelli, mientras que George Russell continuará con la especificación anterior para evitar una penalización de cinco puestos en la grilla de largada.",
+          "language": "es",
+          "publishedAt": "2026-11-17T23:06:10.000Z",
+          "addedAt": "2026-11-17T23:58:21.640Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-es-frustrante-no-haber-conseguido-nada-briatore-se-expreso-tras-las-penalizaciones-a-col",
           "title": "\"Es frustrante\": Briatore se expresó tras las penalizaciones a Colapinto y Gasly",
           "summary": "El asesor ejecutivo de Alpine habló luego del Gran Premio de México en la Fórmula 1, donde fueron sancionados ambos pilotos.",
@@ -3275,27 +3290,12 @@
           "addedAt": "2026-11-24T00:08:23.227Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-alpine-campeonato-de-constructores-colapinto-gasly-las-vegas-formula-1-id772576-html",
-          "title": "Cómo quedó Alpine en el Campeonato de Constructores con las actuaciones de Colapinto y Gasly en Las Vegas",
-          "summary": "La escudería francesa tuvo un fin de semana ideal gracias a los resultados de sus pilotos. Sumó 18 unidades y redujo considerablemente la diferencia con su rival directo, con dos fechas para el cierre de la temporada.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/alpine-campeonato-de-constructores-colapinto-gasly-las-vegas-formula-1-id772576.html",
-          "image": "https://media.tycsports.com/files/2026/11/22/1006731/colapinto-y-gasly_1440x810.webp?v=1",
-          "body": "La escudería francesa tuvo un fin de semana ideal gracias a los resultados de sus pilotos. Sumó 18 unidades y redujo considerablemente la diferencia con su rival directo, con dos fechas para el cierre de la temporada.\n\nGasly y Colapinto finalizaron quinto y sexto, respectivamente, en el GP de Las Vegas. (Clive Mason/Getty Images) + Seguinos en Alpine encontró en el Gran Premio de Las Vegas el resultado que necesitaba para volver a meterse de lleno en la pelea por el quinto lugar del Campeonato de Constructores. Con Pierre Gasly en la quinta posición y Franco Colapinto en la sexta, el equipo consiguió sumar 18 puntos y recortó la distancia que lo separa de Racing Bulls.\n\nEl resultado tomó todavía más valor porque su principal competidor no logró cosechar unidades. Arvid Lindblad debió abandonar, mientras que Liam Lawson finalizó 15° después de comenzar la carrera desde el pitlane por inconvenientes en su monoplaza. De esta manera, Alpine pasó de estar a 45 puntos de Racing Bulls a quedar a 27 unidades. La escudería francesa acumula 87 puntos frente a los 114 de su rival , con dos Grandes Premios por disputarse y un máximo de 116 unidades todavía disponibles.\n\nAsí, el equipo de Enstone mantiene intactas sus chances matemáticas de terminar entre los cinco primeros del certamen. Para conseguirlo, necesitará repetir actuaciones como la de Las Vegas y aprovechar cualquier oportunidad para seguir descontando terreno.\n\nLa próxima chance llegará en el Gran Premio de Qatar, que se disputará entre el 27 y el 29 de noviembre . Luego, la temporada bajará el telón en Abu Dhabi, del 4 al 6 de diciembre, donde quedarán definidas las posiciones definitivas.",
-          "language": "es",
-          "publishedAt": "2026-11-22T15:50:08.000Z",
-          "addedAt": "2026-11-22T17:03:16.902Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-11-24T20:23:11.944Z",
+      "createdAt": "2026-11-25T03:37:29.999Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-checo-perez-sancion-formula-1-gp-de-qatar-id772575-html",
@@ -3571,7 +3571,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-11-24T20:23:11.944Z",
+      "createdAt": "2026-11-25T03:37:29.999Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-racing-bulls-lawson-lindblad-pilotos-grilla-temporada-2027-f1-red-bull-tsolov-id771389-h",
@@ -3662,6 +3662,21 @@
           "addedAt": "2026-10-22T11:40:44.470Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-alpine-campeonato-de-constructores-colapinto-gasly-las-vegas-formula-1-id772576-html",
+          "title": "Cómo quedó Alpine en el Campeonato de Constructores con las actuaciones de Colapinto y Gasly en Las Vegas",
+          "summary": "La escudería francesa tuvo un fin de semana ideal gracias a los resultados de sus pilotos. Sumó 18 unidades y redujo considerablemente la diferencia con su rival directo, con dos fechas para el cierre de la temporada.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/alpine-campeonato-de-constructores-colapinto-gasly-las-vegas-formula-1-id772576.html",
+          "image": "https://media.tycsports.com/files/2026/11/22/1006731/colapinto-y-gasly_1440x810.webp?v=1",
+          "body": "La escudería francesa tuvo un fin de semana ideal gracias a los resultados de sus pilotos. Sumó 18 unidades y redujo considerablemente la diferencia con su rival directo, con dos fechas para el cierre de la temporada.\n\nGasly y Colapinto finalizaron quinto y sexto, respectivamente, en el GP de Las Vegas. (Clive Mason/Getty Images) + Seguinos en Alpine encontró en el Gran Premio de Las Vegas el resultado que necesitaba para volver a meterse de lleno en la pelea por el quinto lugar del Campeonato de Constructores. Con Pierre Gasly en la quinta posición y Franco Colapinto en la sexta, el equipo consiguió sumar 18 puntos y recortó la distancia que lo separa de Racing Bulls.\n\nEl resultado tomó todavía más valor porque su principal competidor no logró cosechar unidades. Arvid Lindblad debió abandonar, mientras que Liam Lawson finalizó 15° después de comenzar la carrera desde el pitlane por inconvenientes en su monoplaza. De esta manera, Alpine pasó de estar a 45 puntos de Racing Bulls a quedar a 27 unidades. La escudería francesa acumula 87 puntos frente a los 114 de su rival , con dos Grandes Premios por disputarse y un máximo de 116 unidades todavía disponibles.\n\nAsí, el equipo de Enstone mantiene intactas sus chances matemáticas de terminar entre los cinco primeros del certamen. Para conseguirlo, necesitará repetir actuaciones como la de Las Vegas y aprovechar cualquier oportunidad para seguir descontando terreno.\n\nLa próxima chance llegará en el Gran Premio de Qatar, que se disputará entre el 27 y el 29 de noviembre . Luego, la temporada bajará el telón en Abu Dhabi, del 4 al 6 de diciembre, donde quedarán definidas las posiciones definitivas.",
+          "language": "es",
+          "publishedAt": "2026-11-22T15:50:08.000Z",
+          "addedAt": "2026-11-22T17:03:16.902Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-anticipo-el-desafio-interesante-que-enfrentara-alpine-en-el-gran-premio-de-las",
@@ -3827,7 +3842,13 @@
           "addedAt": "2026-11-01T16:13:46.297Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-11-25T03:37:29.999Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159-h",
           "title": "Cómo le fue a Franco Colapinto en la FP3 del Gran Premio de México de Fórmula 1",
@@ -3842,13 +3863,7 @@
           "addedAt": "2026-10-29T13:44:51.131Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-11-24T20:23:11.944Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-mexico-gp-f1-amigos-relacion-grilla-temporada-2026-checo-perez-hamilton-versta",
           "title": "Colapinto reveló cuál es su único amigo en la Fórmula 1 y con quiénes tiene una relación más cercana",
@@ -3861,21 +3876,6 @@
           "language": "es",
           "publishedAt": "2026-10-30T18:15:24.000Z",
           "addedAt": "2026-10-30T20:41:25.987Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-franco-colapinto-gran-premio-estados-unidos-formula-1-danos-aleron-id768564-html",
-          "title": "Por qué Colapinto abandonó el Gran Premio de Estados Unidos: \"Se rompió mucho el auto\"",
-          "summary": "La carrera en el Circuito de las Américas llegó a su fin para el piloto argentino en la vuelta 36, cuando su ingeniero de pista Stuart Barlow le indicó que ingresara a los boxes para retirar su monoplaza.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/franco-colapinto-gran-premio-estados-unidos-formula-1-danos-aleron-id768564.html",
-          "image": "https://media.tycsports.com/files/2026/10/25/999676/franco-colapinto-alpine_862x485.webp",
-          "body": "La carrera en el Circuito de las Américas llegó a su fin para el piloto argentino en la vuelta 36, cuando su ingeniero de pista Stuart Barlow le indicó que ingresara a los boxes para retirar su monoplaza.\n\nEl momento del toque de Lindblad a Colapinto que resultó en su abandono en el Gran Premio de Estados Unidos. + Seguinos en Franco Colapinto se vio obligado a abandonar el Gran Premio de Estados Unidos de la Fórmula 1 en la vuelta 36 por orden de su equipo, una decisión motivada en los daños que sufrió su monoplaza en su alerón delantero a lo largo de la carrera y siendo un toque con Arvid Lindblad la gota que colmó el vaso.\n\nEn la vuelta 25 se dio el contacto que terminó con sellar la suerte de Colapinto al sufrir el impacto por parte de Lindblad, que se lanzó para adelantarle en la primera curva a él para pelear con Pierre Gasly, que salía de la calle de boxes al hacer su primera parada. \"Dobló hacia mí y hacia Pierre\" , relató el piloto argentino.\n\nEl toque entre Lindblad y Colapinto que lo obligó a abandonar en Alpine Ese toque del británico agravó el previamente dañado alerón de Colapinto , lo cual resulta en un trompo que le hizo perder varios segundos pero dejó secuelas que 11 vueltas más tarde dio lugar a que el ingeniero de pista Stuart Barlow le indicara que tenían que retirar el auto al ser imposible solucionar esos daños . Este es el tercer abandono entre las últimas cuatro carrera para el ex-Williams, que no recibió al bandera a cuadros en Azerbaiyán, Singapur y Estados Unidos . Un duro golpe tras su extendida racha de 29 carreras consecutivas sin abandonar en la categoría reina del automovilismo.\n\nAl concluir las acciones el piloto argentino habló con los medios presentes y explicó qué fue en concreto lo que resultó en su final anticipado: \"Una carrera du",
-          "language": "es",
-          "publishedAt": "2026-10-25T23:21:13.000Z",
-          "addedAt": "2026-10-25T21:40:42.408Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -4060,6 +4060,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-nuevo-diseno-alpine-formula-1-id771942-html",
+          "title": "Colapinto y Alpine lucirán un nuevo diseño en las tres últimas carreras de la Fórmula 1",
+          "summary": "La escudería francesa anunció la nueva decoración que utilizará en los Grandes Premios de Las Vegas, Catar y Abu Dabi.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/nuevo-diseno-alpine-formula-1-id771942.html",
+          "image": "https://media.tycsports.com/files/2026/11/17/1005649/aslpine_862x485.webp?v=1",
+          "body": "La escudería francesa anunció la nueva decoración que utilizará en los Grandes Premios de Las Vegas, Catar y Abu Dabi.\n\nEl nuevo diseño del A526 para las tres últimas carreras de la F1. + Seguinos en Alpine estrenará un nuevo diseño en sus monoplazas en el cierre de la temporada 2026 de la Fórmula 1 . La escudería francesa presentó la nueva livery que lucirán los autos de Franco Colapinto y Pierre Gasly en los Grandes Premios de Las Vegas, Catar y Abu Dhabi.\n\nLa principal novedad estética está vinculada a uno de sus patrocinadores principales, BWT. La nueva decoración le dará mayor protagonismo al color rosa , característico de la compañía austríaca.\n\nA diferencia del diseño que el equipo galo utilizó a lo largo de la temporada, en el que el azul era preponderante, ahora los pompones laterales del A526 pasarán a ser rosas en su totalidad y las letras del sponsor aparecerán en azul.\n\nAnte esta modificación, el rosa volverá a ser protagonista en los monoplazas de Colapinto y Gasly bajo las luces del circuito callejero de Las Vegas, ya que la carrera se correrá de noche y luego en las citas en Medio Oriente.",
+          "language": "es",
+          "publishedAt": "2026-11-18T00:03:25.000Z",
+          "addedAt": "2026-11-18T07:12:38.843Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-mesa-de-campeones",
           "title": "El 6° lugar de Colapinto en F1, la definición del TC2000 y Turismo Pista en Mesa de Campeones | Campeones",
           "summary": "No te pierdas como cada lunes el programa que reúne a los ganadores de cada fin de semana, con la conducción de Jorge Luis Legnani. Miralo a partir de la hora 21:00 por la señal El Garage TV y en simultáneo por nuestras plataformas audiovisuales.",
@@ -4101,21 +4116,6 @@
           "language": "es",
           "publishedAt": "2026-10-25T01:26:21.000Z",
           "addedAt": "2026-10-25T06:31:13.814Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-estados-unidos-id7",
-          "title": "Colapinto largará 21&ordm; en el GP de Estados Unidos: Antonelli hizo la pole",
-          "summary": "El argentino, que tendrá que cumplir una penalización, no pudo superar la Q2 y finalizó 15&ordm; en la clasificación en el Circuito de las Américas. Por su parte, el joven piloto de Mercedes fue el más rápido de la sesión y comenzará la carrera del domingo en el primer lugar.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-estados-unidos-id767733.html",
-          "image": "https://media.tycsports.com/files/2026/10/24/999158/franco-colapinto_1440x810.webp?v=1",
-          "body": "El argentino, que tendrá que cumplir una penalización, no pudo superar la Q2 y finalizó 15º en la clasificación en el Circuito de las Américas. Por su parte, el joven piloto de Mercedes fue el más rápido de la sesión y comenzará la carrera del domingo en el primer lugar.\n\nFranco Colapinto en el GP de Estados Unidos (Getty Images). + Seguinos en Franco Colapinto largará 21º en la carrera del Gran Premio de Estados Unidos , que se disputará este domingo en el Circuito de las Américas. El argentino no pudo superar la Q2 y finalizó 15º, aunque tendrá que cumplir una penalización por los cambios realizados en la unidad de potencia y comenzará desde la última fila, por delante de Bortoleto (Audi) que también deberá compensar lugares en la grilla. Kimi Antonelli (Mercedes) fue el más rápido de la sesión y largará desde el primer lugar , por delante de Max Verstappen y Hadjar (Red Bull), que completaron el podio.\n\nLa penalización condicionó el fin de semana del argentino desde antes de salir a pista debido a que Alpine utilizó una cuarta unidad de control de electrónica , cuando el reglamento permite un máximo de tres durante la temporada. La infracción le costó diez posiciones de largada a Colapinto, que llegó a la clasificación después de priorizar en los entrenamientos las tandas largas y el análisis del desgaste de los neumáticos. Gabriel Bortoleto, por su parte, largará último debido a las numerosas penalizaciones que recibió por los cambios realizados en su Audi.\n\nEn la Q1, el pilarense logró posicionarse por encima de Gasly , su compañero en Alpine, con un registro competitivo para avanzar a la siguiente tanda, mientras que el francés tuvo que esperar hasta su último intento después de que le borraran una vuelta por exceder los límites de pista. En la Q2, sin embargo, el",
-          "language": "es",
-          "publishedAt": "2026-10-24T22:33:15.000Z",
-          "addedAt": "2026-10-23T17:19:41.181Z",
           "category": "argentino",
           "tag": "Franco"
         }
