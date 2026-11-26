@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-25T22:48:27.296Z",
-  "checkedAt": "2026-11-25T22:48:27.296Z",
+  "updatedAt": "2026-11-26T04:30:55.953Z",
+  "checkedAt": "2026-11-26T04:30:55.953Z",
   "pageSize": 18,
   "sources": [
     {
@@ -39,21 +39,6 @@
     "fallbackPerRun": 1
   },
   "backlog": [
-    {
-      "id": "campeones-com-ar-f1-colapinto-y-alpine-ya-se-enfocan-en-2027",
-      "title": "F1: Colapinto y Alpine ya se enfocan en 2027",
-      "summary": "Mientras en Las Vegas la escuadra de Enstone contará con una evolución en el Mercedes de los A526, se proyecta el desarrollo para el nuevo auto.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/f1-colapinto-y-alpine-ya-se-enfocan-en-2027/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261119-F1-Colapinto.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-19T15:18:44.000Z",
-      "addedAt": "2026-11-19T21:49:49.727Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
     {
       "id": "www-tycsports-com-automovilismo-revelacion-gasly-problema-alpine-en-las-vegas-id772673-html",
       "title": "La revelación de Gasly sobre el problema que sufrió Alpine en Las Vegas: “Podíamos luchar por la victoria”",
@@ -100,6 +85,21 @@
       "tag": "Franco"
     },
     {
+      "id": "campeones-com-ar-el-piloto-fontana-profesional-se-acabo-cuando-piso-el-suelo-de-argentina",
+      "title": "\"El piloto Fontana profesional se acabó cuando pisó el suelo de Argentina\"",
+      "summary": "Norberto Fontana habla de todo: El profesionalismo en la F1 y su experiencia, las pistas de Argentina y lo que podría aportar como dirigente.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/el-piloto-fontana-profesional-se-acabo-cuando-piso-el-suelo-de-argentina/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Norberto-Fontana-F1-Sauber-archivo.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-24T21:15:40.000Z",
+      "addedAt": "2026-11-26T04:30:59.062Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "www-tycsports-com-automovilismo-formula-1-gran-premio-de-las-vegas-fp3-insolito-toque-george-russell-max-verstappen-id77",
       "title": "Insólito toque entre Russell y Verstappen en la FP3 de la F1 en Las Vegas",
       "summary": "El británico de Mercedes y el neerlandés de Red Bull se sacaron chispas durante la última sesión de prácticas libres en el Gran Premio estadounidense.",
@@ -113,36 +113,6 @@
       "addedAt": "2026-11-21T08:12:15.170Z",
       "category": "general",
       "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-agustin-canapino-probo-el-cruze-de-tn-previo-a-la-definicion",
-      "title": "Agustín Canapino probó el Cruze de TN previo al Coronación | Campeones",
-      "summary": "En San Nicolás, el \"Titán\" completó un extenso día de ensayos junto a Bautista Roqueta y al Salvita Racing, previo a viajar a Viedma para cerrar la temporada 2026 de la categoría.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/agustin-canapino-probo-el-cruze-de-tn-previo-a-la-definicion/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TN-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-25T15:48:19.000Z",
-      "addedAt": "2026-11-25T22:48:29.202Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-tc-fain-ya-tiene-el-cambio-de-equipo-y-marca-para-el-2027",
-      "title": "TC: Fain ya tiene el cambio de equipo y marca para el 2027 | Campeones",
-      "summary": "La CAF de la ACTC aprobó el pase de Torino a Ford y del equipo de Trotta Racing al Galarza Racing para el año venidero.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-fain-ya-tiene-el-cambio-de-equipo-y-marca-para-el-2027/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2610021-TC-Fain.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-25T12:45:52.000Z",
-      "addedAt": "2026-11-25T13:32:18.652Z",
-      "category": "argentino",
-      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-el-momento-de-mayor-riesgo-que-tuvo-colapinto-en-el-gp-de-las-vegas",
@@ -250,6 +220,36 @@
       "tag": "Franco"
     },
     {
+      "id": "campeones-com-ar-agustin-canapino-probo-el-cruze-de-tn-previo-a-la-definicion",
+      "title": "Agustín Canapino probó el Cruze de TN previo al Coronación | Campeones",
+      "summary": "En San Nicolás, el \"Titán\" completó un extenso día de ensayos junto a Bautista Roqueta y al Salvita Racing, previo a viajar a Viedma para cerrar la temporada 2026 de la categoría.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/agustin-canapino-probo-el-cruze-de-tn-previo-a-la-definicion/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/Canapino-TN-2026.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-25T15:48:19.000Z",
+      "addedAt": "2026-11-25T22:48:29.202Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
+      "id": "campeones-com-ar-tc-fain-ya-tiene-el-cambio-de-equipo-y-marca-para-el-2027",
+      "title": "TC: Fain ya tiene el cambio de equipo y marca para el 2027 | Campeones",
+      "summary": "La CAF de la ACTC aprobó el pase de Torino a Ford y del equipo de Trotta Racing al Galarza Racing para el año venidero.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-fain-ya-tiene-el-cambio-de-equipo-y-marca-para-el-2027/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2610021-TC-Fain.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-25T12:45:52.000Z",
+      "addedAt": "2026-11-25T13:32:18.652Z",
+      "category": "argentino",
+      "tag": "Argentino"
+    },
+    {
       "id": "campeones-com-ar-en-olavarria-matias-rossi-se-corono-por-septima-vez-campeon-argentino-de-tc2000",
       "title": "En Olavarría, Matías Rossi se coronó por séptima vez campeón argentino de TC2000",
       "summary": "El piloto de Toyota Gazoo Racing Argentina se impuso en el autódromo \"Hermanos Emiliozzi\" y así igualó la marca de Juan María Traverso, además de festejar su 12.° título en el automovilismo argentino.",
@@ -310,21 +310,6 @@
       "tag": "Franco"
     },
     {
-      "id": "campeones-com-ar-actc-hugo-mazzacane-solicito-licencia-a-su-cargo-de-presidente-y-asumira-su-hijo-gaston",
-      "title": "ACTC: Hugo Mazzacane solicitó licencia a su cargo de Presidente y asumirá su hijo Gastón",
-      "summary": "La Asociación Corredores Turismo Carretera (ACTC) anunció que el presidente de la entidad, Hugo Mazzacane, solicitó licencia a su cargo por motivos de salud. Del mismo modo, afirmaron que su hijo, Gastón Mazzacane, será el presidente en ejercicio durante el período, siguiendo los pasos institucionales por ser el vicepresidente 1° de la ACTC. COMUNICADO DE [...]",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/actc-hugo-mazzacane-solicito-licencia-a-su-cargo-de-presidente-y-asumira-su-hijo-gaston/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/05/Hugo-Mazzacane-ACTC-1.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-25T22:44:23.000Z",
-      "addedAt": "2026-11-25T22:48:29.750Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-formula-1-las-vegas-clasificacion-antonello-pole-penalizacion-verstappen-id772467-html",
       "title": "F1: La \"avivada\" de Kimi Antonelli que le dio la pole en una infartante qualy en Las Vegas",
       "summary": "Cuando todos peleaban por el rebufo, el campeón del mundo los dejó pasar a todos y terminó siendo el último en cerrar la clasificación. Antes, sufrió para poder abrir la última vuelta.",
@@ -351,6 +336,21 @@
       "language": "es",
       "publishedAt": "2026-11-19T15:18:51.000Z",
       "addedAt": "2026-11-19T21:49:49.126Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-actc-hugo-mazzacane-solicito-licencia-a-su-cargo-de-presidente-y-asumira-su-hijo-gaston",
+      "title": "ACTC: Hugo Mazzacane solicitó licencia a su cargo de Presidente y asumirá su hijo Gastón",
+      "summary": "La Asociación Corredores Turismo Carretera (ACTC) anunció que el presidente de la entidad, Hugo Mazzacane, solicitó licencia a su cargo por motivos de salud. Del mismo modo, afirmaron que su hijo, Gastón Mazzacane, será el presidente en ejercicio durante el período, siguiendo los pasos institucionales por ser el vicepresidente 1° de la ACTC. COMUNICADO DE [...]",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/actc-hugo-mazzacane-solicito-licencia-a-su-cargo-de-presidente-y-asumira-su-hijo-gaston/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/05/Hugo-Mazzacane-ACTC-1.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-25T22:44:23.000Z",
+      "addedAt": "2026-11-25T22:48:29.750Z",
       "category": "general",
       "tag": "F1"
     },
@@ -2743,7 +2743,7 @@
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-25T22:48:40.926Z",
+      "createdAt": "2026-11-26T04:31:02.776Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-las-vegas-id771970",
@@ -2776,6 +2776,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-por-que-alpine-recibio-sancion-formula-1-antes-gran-premio-qatar-id772970-html",
+          "title": "Por qué Alpine recibió una sanción de la Fórmula 1 antes del Gran Premio de Qatar",
+          "summary": "La escudería de Franco Colapinto reconoció errores en sus informes financieros de 2025 y deberá pagar una multa pese a no superar el límite presupuestario.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/por-que-alpine-recibio-sancion-formula-1-antes-gran-premio-qatar-id772970.html",
+          "image": "https://media.tycsports.com/files/2026/11/01/1002067/colapinto_1440x810.webp",
+          "body": "La escudería de Franco Colapinto reconoció errores en sus informes financieros de 2025 y deberá pagar una multa pese a no superar el límite presupuestario.\n\nColapinto, cuando se quedó sin nada en el Gran Premio de México por una sanción (Clive Mason/Getty Images) + Seguinos en La FIA sancionó a Alpine en la previa al Gran Premio de Qatar de la Fórmula 1 , luego de detectar imprecisiones en los informes financieros correspondientes a la temporada 2025 . La escudería de Franco Colapinto llegó a un acuerdo con el organismo rector y deberá afrontar una multa económica.\n\nEl caso fue catalogado como una infracción de procedimiento ya que el equipo con sede en Enstone, si bien no superó el presupuesto, excluyó de manera incorrecta gastos de marketing y recursos humanos por no vincularse con la actividad competitiva, según informó Motorsport. La sanción económica no fue revelada oficialmente, aunque el medio especializado estima que este tipo de irregularidades suele derivar en multas de entre 300 y 500 mil dólares. Además, Alpine deberá hacerse cargo de los gastos correspondientes a la Administración del Límite Presupuestario (CCA, por sus siglas en inglés).\n\nEn un comunicado , el equipo reconoció la infracción y aceptó las conclusiones de la entidad . “BWT Alpine Formula One Team reconoce y acepta las conclusiones de la Administración del Límite Presupuestario correspondientes al período de presentación de informes de 2025. El equipo acepta que cometió involuntariamente una infracción de procedimiento como resultado de imprecisiones en la documentación del informe anual completo relativas a costos asociados con exclusiones y ajustes”, expresó.\n\n“Los errores e imprecisiones en los informes estaban relacionados específicamente con gastos ajenos a la competición y costos operati",
+          "language": "es",
+          "publishedAt": "2026-11-26T00:20:22.000Z",
+          "addedAt": "2026-11-26T04:30:56.774Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-la-ilusion-de-colapinto-para-el-gran-premio-de-qatar-esperamos-mantener-el-impulso-id772",
           "title": "La ilusión de Colapinto para el Gran Premio de Qatar: \"Esperamos mantener el impulso\"",
           "summary": "Tras su regreso a la zona de puntos en Las Vegas, el piloto argentino apunta a revalidar su actuación este fin de semana en Lusail.",
@@ -2787,21 +2802,6 @@
           "language": "es",
           "publishedAt": "2026-11-25T02:49:11.000Z",
           "addedAt": "2026-11-25T03:37:21.480Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-sancion-piastri-f1gp-las-vegas-id772009-html",
-          "title": "Atento, Colapinto: la grilla del GP de Las Vegas de la F1 tendrá un cambio por una penalización",
-          "summary": "McLaren informó que montará un quinto motor de combustión interna en el auto del australiano, quien deberá retroceder 10 lugares en la grilla de partida de la carrera en suelo estadounidense por exceder el límite permitido.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/sancion-piastri-f1gp-las-vegas-id772009.html",
-          "image": "https://media.tycsports.com/files/2026/11/16/1005419/autos_1440x810.webp?v=1",
-          "body": "McLaren informó que montará un quinto motor de combustión interna en el auto del australiano, quien deberá retroceder 10 lugares en la grilla de partida de la carrera en suelo estadounidense por exceder el límite permitido.\n\nOscar Piastri tuvo un 2026 lejos de las expectativas. (Photo by Clive Rose/Getty Images) + Seguinos en La grilla de salida de la Fórmula 1 para el Gran Premio de Las Vegas sufrirá cambios debido a la sanción que recibió uno de los pilotos. Se trata de Oscar Piastri, quien recibirá una penalización de 10 puestos por exceder su asignación de motores en su McLaren esta temporada.\n\n\"Oscar montará un nuevo motor de combustión interna en Las Vegas después de un problema de fiabilidad\" , informó la escudería inglesa en la previa de la cita en territorio estadounidense.\n\nEl australiano de 25 años se encontraba al límite de lo permitido, ya que había utilizado cuatro motores de combustión interna en lo que va del año, pero necesitará un quinto motor V6 Mercedes para las últimas tres carreras de la temporada. Como es la primera vez que excede su asignación de ICE (motor de combustión interna), partirá 10 puestos más atrás en la carrera del próximo sábado.\n\nA pesar de la sanción, en McLaren se mostraron optimistas de cara al fin de semana: “Como es el quinto de la temporada, recibirá una penalización de 10 puestos en la parrilla, pero tiene una buena oportunidad de recuperar posiciones con adelantamientos en la carrera del sábado”.",
-          "language": "es",
-          "publishedAt": "2026-11-18T23:10:26.000Z",
-          "addedAt": "2026-11-18T16:37:27.877Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2832,21 +2832,6 @@
           "language": "es",
           "publishedAt": "2026-11-23T17:00:55.000Z",
           "addedAt": "2026-11-24T00:08:23.472Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-formula-1-franco-colapinto-gp-de-las-vegas-elogio-top-10-power-rankings-id772837-html",
-          "title": "\"Era justo lo que necesitaba\": Colapinto, al top 10 de los Power Rankings de la F1 tras un gran GP de Las Vegas",
-          "summary": "El piloto argentino recibió ocho puntos en los Power Rankings, se metió en el Top 10 y quedó por encima de varios nombres importantes de la categoría.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-franco-colapinto-gp-de-las-vegas-elogio-top-10-power-rankings-id772837.html",
-          "image": "https://media.tycsports.com/files/2026/11/23/1006954/franco-colapinto_1440x810.webp",
-          "body": "El piloto argentino recibió ocho puntos en los Power Rankings, se metió en el Top 10 y quedó por encima de varios nombres importantes de la categoría.\n\nFranco Colapinto terminó sexto en el GP de Las Vegas e igualó así su mejor posición histórica en una carrera de la F1 (Clive Mason/Getty Images). + Seguinos en Con su sexto puesto en el Gran Premio de Las Vegas, Franco Colapinto volvió a meterse entre los pilotos destacados de la Fórmula 1 . El argentino recibió una valoración de ocho puntos en los tradicionales Power Rankings de la categoría y se metió en el top 10 del escalafón , por encima de varios nombres destacados.\n\nEl resultado le permitió igualar su mejor actuación histórica en la máxima categoría y volver a figurar entre los diez pilotos más destacados del fin de semana . El reconocimiento llegó de parte de un panel de cinco especialistas de la F1, que califica del 1 al 10 el rendimiento individual de cada competidor, sin tener en cuenta el potencial de su monoplaza.\n\nLos jueces valoraron especialmente su recuperación después de una seguidilla de competencias complicadas . \" Tras una racha complicada de carreras, el fin de semana de Las Vegas fue justo lo que Franco Colapinto necesitaba ”, señalaron en su análisis.\n\nAdemás, destacaron su desempeño durante la clasificación, en la que consiguió acompañar a su compañero de equipo, Pierre Gasly, hasta la Q3 . También mencionaron las dificultades que atravesó con un juego usado de neumáticos blandos durante el primer stint , aunque logró convertir ese escenario en un sexto puesto en la bandera a cuadros.",
-          "language": "es",
-          "publishedAt": "2026-11-24T23:46:11.000Z",
-          "addedAt": "2026-11-25T03:37:21.541Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2971,6 +2956,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-formula-1-franco-colapinto-gp-de-las-vegas-elogio-top-10-power-rankings-id772837-html",
+          "title": "\"Era justo lo que necesitaba\": Colapinto, al top 10 de los Power Rankings de la F1 tras un gran GP de Las Vegas",
+          "summary": "El piloto argentino recibió ocho puntos en los Power Rankings, se metió en el Top 10 y quedó por encima de varios nombres importantes de la categoría.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-franco-colapinto-gp-de-las-vegas-elogio-top-10-power-rankings-id772837.html",
+          "image": "https://media.tycsports.com/files/2026/11/23/1006954/franco-colapinto_1440x810.webp",
+          "body": "El piloto argentino recibió ocho puntos en los Power Rankings, se metió en el Top 10 y quedó por encima de varios nombres importantes de la categoría.\n\nFranco Colapinto terminó sexto en el GP de Las Vegas e igualó así su mejor posición histórica en una carrera de la F1 (Clive Mason/Getty Images). + Seguinos en Con su sexto puesto en el Gran Premio de Las Vegas, Franco Colapinto volvió a meterse entre los pilotos destacados de la Fórmula 1 . El argentino recibió una valoración de ocho puntos en los tradicionales Power Rankings de la categoría y se metió en el top 10 del escalafón , por encima de varios nombres destacados.\n\nEl resultado le permitió igualar su mejor actuación histórica en la máxima categoría y volver a figurar entre los diez pilotos más destacados del fin de semana . El reconocimiento llegó de parte de un panel de cinco especialistas de la F1, que califica del 1 al 10 el rendimiento individual de cada competidor, sin tener en cuenta el potencial de su monoplaza.\n\nLos jueces valoraron especialmente su recuperación después de una seguidilla de competencias complicadas . \" Tras una racha complicada de carreras, el fin de semana de Las Vegas fue justo lo que Franco Colapinto necesitaba ”, señalaron en su análisis.\n\nAdemás, destacaron su desempeño durante la clasificación, en la que consiguió acompañar a su compañero de equipo, Pierre Gasly, hasta la Q3 . También mencionaron las dificultades que atravesó con un juego usado de neumáticos blandos durante el primer stint , aunque logró convertir ese escenario en un sexto puesto en la bandera a cuadros.",
+          "language": "es",
+          "publishedAt": "2026-11-24T23:46:11.000Z",
+          "addedAt": "2026-11-25T03:37:21.541Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-la-formula-1-planea-un-historico-cambio-que-podria-afectar-a-alpine-id772633-html",
           "title": "La Fórmula 1 planea un histórico cambio que podría afectar a Alpine",
           "summary": "En las última horas trascendió que la categoría reina del automovilismo a nivel mundial se plantea poner un límite a los fabricantes de motores desde la temporada 2030, situación que podría obligar al equipo de Franco Colapinto a dejar su alianza con Mercedes.",
@@ -3019,7 +3019,7 @@
     },
     {
       "page": 2,
-      "createdAt": "2026-11-25T22:48:40.926Z",
+      "createdAt": "2026-11-26T04:31:02.776Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-franco-colapinto-gp-de-las-vegas-formula-1-id772294-html",
@@ -3108,6 +3108,21 @@
           "language": "es",
           "publishedAt": "2026-11-20T05:58:37.000Z",
           "addedAt": "2026-11-20T11:23:02.886Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-sancion-piastri-f1gp-las-vegas-id772009-html",
+          "title": "Atento, Colapinto: la grilla del GP de Las Vegas de la F1 tendrá un cambio por una penalización",
+          "summary": "McLaren informó que montará un quinto motor de combustión interna en el auto del australiano, quien deberá retroceder 10 lugares en la grilla de partida de la carrera en suelo estadounidense por exceder el límite permitido.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/sancion-piastri-f1gp-las-vegas-id772009.html",
+          "image": "https://media.tycsports.com/files/2026/11/16/1005419/autos_1440x810.webp?v=1",
+          "body": "McLaren informó que montará un quinto motor de combustión interna en el auto del australiano, quien deberá retroceder 10 lugares en la grilla de partida de la carrera en suelo estadounidense por exceder el límite permitido.\n\nOscar Piastri tuvo un 2026 lejos de las expectativas. (Photo by Clive Rose/Getty Images) + Seguinos en La grilla de salida de la Fórmula 1 para el Gran Premio de Las Vegas sufrirá cambios debido a la sanción que recibió uno de los pilotos. Se trata de Oscar Piastri, quien recibirá una penalización de 10 puestos por exceder su asignación de motores en su McLaren esta temporada.\n\n\"Oscar montará un nuevo motor de combustión interna en Las Vegas después de un problema de fiabilidad\" , informó la escudería inglesa en la previa de la cita en territorio estadounidense.\n\nEl australiano de 25 años se encontraba al límite de lo permitido, ya que había utilizado cuatro motores de combustión interna en lo que va del año, pero necesitará un quinto motor V6 Mercedes para las últimas tres carreras de la temporada. Como es la primera vez que excede su asignación de ICE (motor de combustión interna), partirá 10 puestos más atrás en la carrera del próximo sábado.\n\nA pesar de la sanción, en McLaren se mostraron optimistas de cara al fin de semana: “Como es el quinto de la temporada, recibirá una penalización de 10 puestos en la parrilla, pero tiene una buena oportunidad de recuperar posiciones con adelantamientos en la carrera del sábado”.",
+          "language": "es",
+          "publishedAt": "2026-11-18T23:10:26.000Z",
+          "addedAt": "2026-11-18T16:37:27.877Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3275,27 +3290,12 @@
           "addedAt": "2026-11-18T23:09:20.651Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-anticipo-el-desafio-interesante-que-enfrentara-alpine-en-el-gran-premio-de-las",
-          "title": "Colapinto anticipó el \"desafío interesante\" que enfrentará Alpine en el GP de Las Vegas",
-          "summary": "El piloto argentino se expidió sobre lo que será el retorno de la Fórmula 1 a la ciudad estadounidense y puso la mira en superar las adversas condiciones climáticas que trae consigo disputar una carrera de noche en el desierto.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-anticipo-el-desafio-interesante-que-enfrentara-alpine-en-el-gran-premio-de-las-vegas-id771788.html",
-          "image": "https://media.tycsports.com/files/2026/11/16/1005359/franco-colapinto-alpine_1440x810.webp?v=1",
-          "body": "El piloto argentino se expidió sobre lo que será el retorno de la Fórmula 1 a la ciudad estadounidense y puso la mira en superar las adversas condiciones climáticas que trae consigo disputar una carrera de noche en el desierto.\n\nFranco Colapinto anticipó el Gran Premio de Las Vegas de la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en Franco Colapinto buscará regresar a la zona de puntos este fin de semana en el Gran Premio de Las Vegas , carrera que anticipó dejando en claro el \"desafío interesante\" que Alpine deberá superar para tener éxito en la tercera y última carrera del año en Estados Unidos.\n\n\"Es muy emocionante regresar a Las Vegas para darles inicio a los últimos tres Grandes Premios de la temporada. Esta pista es una de las más geniales de este deporte y es muy especial poder correr por el famoso Las Vegas Strip \" , inició alegre en diálogo con la página web oficial de Alpine ante su tercera visita al trazado en el estado de Nevada.\n\nLos últimos grandes premios no trajeron los resultados esperados por la escudería francesa y el argentino apuntó a dejar atrás la sequía en el desierto . \"La reciente seguidilla de carreras realmente no nos ha visto capitalizar nuestro verdadero ritmo, pero volvemos a Estados Unidos con el objetivo de corregir esto y tener un fin de semana exitoso\" .\n\nCon la mira puesta en las actividades desde este jueves, Colapinto focalizó en la búsqueda por encontrar el mantenimiento en la temperatura de los neumáticos , crucial de cara al circuito más frio en el calendario. \" Las temperaturas nocturnas en el desierto son un desafío interesante, por lo que mantener los neumáticos en la ventana adecuada será un objetivo clave , y podría ser una carrera bastante emocionante con las rectas muy largas, especialmente con los autos de este año\" ",
-          "language": "es",
-          "publishedAt": "2026-11-16T21:25:24.000Z",
-          "addedAt": "2026-11-17T00:20:51.607Z",
-          "category": "argentino",
-          "tag": "Franco"
         }
       ]
     },
     {
       "page": 3,
-      "createdAt": "2026-11-25T22:48:40.926Z",
+      "createdAt": "2026-11-26T04:31:02.776Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-checo-perez-sancion-formula-1-gp-de-qatar-id772575-html",
@@ -3416,21 +3416,6 @@
           "addedAt": "2026-10-27T14:45:19.647Z",
           "category": "general",
           "tag": "Clima"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-la-confesion-de-russell-sobre-su-fallida-lucha-con-antonelli-por-ser-campeon-de-la-f1-mi",
-          "title": "La confesión de Russell sobre su fallida lucha por ser campeón de la F1: \"Mi visión tuvo altibajos\"",
-          "summary": "Tras un complejo Gran Premio de Estados Unidos donde Kimi Antonelli quedó a las puertas de la coronación, el piloto británico de Mercedes se sinceró sobre lo que fue su temporada.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-confesion-de-russell-sobre-su-fallida-lucha-con-antonelli-por-ser-campeon-de-la-f1-mi-vision-tuvo-altibajos-id768764.html",
-          "image": "https://media.tycsports.com/files/2026/10/26/1000089/george-russell-mercedes-_1440x810.webp?v=1",
-          "body": "Tras un complejo Gran Premio de Estados Unidos donde Kimi Antonelli quedó a las puertas de la coronación, el piloto británico de Mercedes se sinceró sobre lo que fue su temporada.\n\nGeorge Russell se sinceró sobre lo que fue su fallida puja por ganar el Campeonato de Pilotos de la Fórmula 1 en 2026. (Jayce Illman/Getty Images) + Seguinos en Kimi Antonelli quedó a las puertas de coronarse como campeón del Campeonato de Pilotos de la Fórmula 1 en la temporada 2026 tras imponerse el Gran Premio de Estados Unidos , carrera en la cual George Russell tuvo una floja actuación tras la cual entró en detalles sobre el dolor de estar muy cerca de quedar oficialmente sin chances.\n\n\"Supongo que en cuanto a mi mentalidad esta temporada, mi visión del campeonato ha tenido altibajos. A principios de año, cuando tenía un gran déficit de puntos, lo que me quitaba el sueño era mi falta de rendimiento y pensar: '¿Cómo voy a mejorar mi rendimiento? ¿Qué necesito del coche? ¿Qué necesita el coche de mi pilotaje?' Más que pensar en que quizá se me estuviera escapando la oportunidad\" , inició tras el octavo puesto en el Circuito de las Américas que dejó a su compañero de equipo a solo dos puntos de ser campeón.\n\n\"Y luego pasé de estar 70 puntos por detrás a quedar a 25 puntos después de Silverstone, y luego la diferencia aumentó, y entonces ocurrió Bakú. Eso pareció bastante importante de nuevo en cuanto a mis opciones. Una semana después, volvió a bajar en cierto modo y se añadió sal a la herida con la penalización en parrilla en Singapur. Así que esta temporada simplemente no estaba destinada a ser. No estoy amargado por ello, no lo estoy\", completó.\n\nDe cara a la próxima campaña, el ex-Williams trató de trazar las zonas a mejorar para poder conseguir su primera corona, al depender de un mila",
-          "language": "es",
-          "publishedAt": "2026-10-27T01:17:13.000Z",
-          "addedAt": "2026-10-27T02:27:21.510Z",
-          "category": "general",
-          "tag": "F1"
         },
         {
           "id": "www-tycsports-com-automovilismo-todo-lo-que-queda-en-juego-en-la-f1-id771819-html",
@@ -3566,13 +3551,7 @@
           "addedAt": "2026-11-13T15:32:30.279Z",
           "category": "general",
           "tag": "F1"
-        }
-      ]
-    },
-    {
-      "page": 4,
-      "createdAt": "2026-11-25T22:48:40.926Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-racing-bulls-lawson-lindblad-pilotos-grilla-temporada-2027-f1-red-bull-tsolov-id771389-h",
           "title": "F1: Racing Bulls confirmó sus dos pilotos para 2027 y compartirá un reserva con Red Bull",
@@ -3587,7 +3566,13 @@
           "addedAt": "2026-11-13T00:35:36.651Z",
           "category": "general",
           "tag": "F1"
-        },
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "createdAt": "2026-11-26T04:31:02.776Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-turismo-carretera-augusto-carinelli-joaquin-ochoa-discusion-id771654-html",
           "title": "“Te vas a matar y vas a matar a uno”: fuerte cruce entre dos pilotos del Turismo Carretera",
@@ -3615,6 +3600,21 @@
           "language": "es",
           "publishedAt": "2026-11-14T21:31:30.000Z",
           "addedAt": "2026-11-14T23:51:11.879Z",
+          "category": "general",
+          "tag": "F1"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-la-confesion-de-russell-sobre-su-fallida-lucha-con-antonelli-por-ser-campeon-de-la-f1-mi",
+          "title": "La confesión de Russell sobre su fallida lucha por ser campeón de la F1: \"Mi visión tuvo altibajos\"",
+          "summary": "Tras un complejo Gran Premio de Estados Unidos donde Kimi Antonelli quedó a las puertas de la coronación, el piloto británico de Mercedes se sinceró sobre lo que fue su temporada.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-confesion-de-russell-sobre-su-fallida-lucha-con-antonelli-por-ser-campeon-de-la-f1-mi-vision-tuvo-altibajos-id768764.html",
+          "image": "https://media.tycsports.com/files/2026/10/26/1000089/george-russell-mercedes-_1440x810.webp?v=1",
+          "body": "Tras un complejo Gran Premio de Estados Unidos donde Kimi Antonelli quedó a las puertas de la coronación, el piloto británico de Mercedes se sinceró sobre lo que fue su temporada.\n\nGeorge Russell se sinceró sobre lo que fue su fallida puja por ganar el Campeonato de Pilotos de la Fórmula 1 en 2026. (Jayce Illman/Getty Images) + Seguinos en Kimi Antonelli quedó a las puertas de coronarse como campeón del Campeonato de Pilotos de la Fórmula 1 en la temporada 2026 tras imponerse el Gran Premio de Estados Unidos , carrera en la cual George Russell tuvo una floja actuación tras la cual entró en detalles sobre el dolor de estar muy cerca de quedar oficialmente sin chances.\n\n\"Supongo que en cuanto a mi mentalidad esta temporada, mi visión del campeonato ha tenido altibajos. A principios de año, cuando tenía un gran déficit de puntos, lo que me quitaba el sueño era mi falta de rendimiento y pensar: '¿Cómo voy a mejorar mi rendimiento? ¿Qué necesito del coche? ¿Qué necesita el coche de mi pilotaje?' Más que pensar en que quizá se me estuviera escapando la oportunidad\" , inició tras el octavo puesto en el Circuito de las Américas que dejó a su compañero de equipo a solo dos puntos de ser campeón.\n\n\"Y luego pasé de estar 70 puntos por detrás a quedar a 25 puntos después de Silverstone, y luego la diferencia aumentó, y entonces ocurrió Bakú. Eso pareció bastante importante de nuevo en cuanto a mis opciones. Una semana después, volvió a bajar en cierto modo y se añadió sal a la herida con la penalización en parrilla en Singapur. Así que esta temporada simplemente no estaba destinada a ser. No estoy amargado por ello, no lo estoy\", completó.\n\nDe cara a la próxima campaña, el ex-Williams trató de trazar las zonas a mejorar para poder conseguir su primera corona, al depender de un mila",
+          "language": "es",
+          "publishedAt": "2026-10-27T01:17:13.000Z",
+          "addedAt": "2026-10-27T02:27:21.510Z",
           "category": "general",
           "tag": "F1"
         },
@@ -3662,6 +3662,21 @@
           "addedAt": "2026-10-22T11:40:44.470Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-anticipo-el-desafio-interesante-que-enfrentara-alpine-en-el-gran-premio-de-las",
+          "title": "Colapinto anticipó el \"desafío interesante\" que enfrentará Alpine en el GP de Las Vegas",
+          "summary": "El piloto argentino se expidió sobre lo que será el retorno de la Fórmula 1 a la ciudad estadounidense y puso la mira en superar las adversas condiciones climáticas que trae consigo disputar una carrera de noche en el desierto.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-anticipo-el-desafio-interesante-que-enfrentara-alpine-en-el-gran-premio-de-las-vegas-id771788.html",
+          "image": "https://media.tycsports.com/files/2026/11/16/1005359/franco-colapinto-alpine_1440x810.webp?v=1",
+          "body": "El piloto argentino se expidió sobre lo que será el retorno de la Fórmula 1 a la ciudad estadounidense y puso la mira en superar las adversas condiciones climáticas que trae consigo disputar una carrera de noche en el desierto.\n\nFranco Colapinto anticipó el Gran Premio de Las Vegas de la Fórmula 1. (Kym Illman/Getty Images) + Seguinos en Franco Colapinto buscará regresar a la zona de puntos este fin de semana en el Gran Premio de Las Vegas , carrera que anticipó dejando en claro el \"desafío interesante\" que Alpine deberá superar para tener éxito en la tercera y última carrera del año en Estados Unidos.\n\n\"Es muy emocionante regresar a Las Vegas para darles inicio a los últimos tres Grandes Premios de la temporada. Esta pista es una de las más geniales de este deporte y es muy especial poder correr por el famoso Las Vegas Strip \" , inició alegre en diálogo con la página web oficial de Alpine ante su tercera visita al trazado en el estado de Nevada.\n\nLos últimos grandes premios no trajeron los resultados esperados por la escudería francesa y el argentino apuntó a dejar atrás la sequía en el desierto . \"La reciente seguidilla de carreras realmente no nos ha visto capitalizar nuestro verdadero ritmo, pero volvemos a Estados Unidos con el objetivo de corregir esto y tener un fin de semana exitoso\" .\n\nCon la mira puesta en las actividades desde este jueves, Colapinto focalizó en la búsqueda por encontrar el mantenimiento en la temperatura de los neumáticos , crucial de cara al circuito más frio en el calendario. \" Las temperaturas nocturnas en el desierto son un desafío interesante, por lo que mantener los neumáticos en la ventana adecuada será un objetivo clave , y podría ser una carrera bastante emocionante con las rectas muy largas, especialmente con los autos de este año\" ",
+          "language": "es",
+          "publishedAt": "2026-11-16T21:25:24.000Z",
+          "addedAt": "2026-11-17T00:20:51.607Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-aclamacion-por-franco-colapinto-ataque-y-defensa-brasil-audaz-sobrepaso-pierre-gasly-san",
@@ -3827,7 +3842,13 @@
           "addedAt": "2026-10-29T13:44:51.131Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-11-26T04:31:02.776Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-mexico-gp-f1-amigos-relacion-grilla-temporada-2026-checo-perez-hamilton-versta",
           "title": "Colapinto reveló cuál es su único amigo en la Fórmula 1 y con quiénes tiene una relación más cercana",
@@ -3842,13 +3863,7 @@
           "addedAt": "2026-10-30T20:41:25.987Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-11-25T22:48:40.926Z",
-      "items": [
+        },
         {
           "id": "campeones-com-ar-en-mexico-antonelli-se-corono-campeon-mundial-de-f1-y-colapinto-fue-top10",
           "title": "En México, Antonelli se coronó campeón mundial de F1 y Colapinto fue penalizado tras ser Top10",
@@ -3968,21 +3983,6 @@
           "addedAt": "2026-11-20T11:23:02.795Z",
           "category": "argentino",
           "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-fernando-alonso-fp1-gran-premio-las-vegas-formula-1-practica-libre-id772073-html",
-          "title": "El GP de Las Vegas de la F1 tendrá un cambio de piloto en la primera práctica libre",
-          "summary": "Aston Martin confirmó que el piloto español le cederá su butaca a Jak Crawford en el inicio de la actividad, este jueves desde las 21.30 de Argentina.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/fernando-alonso-fp1-gran-premio-las-vegas-formula-1-practica-libre-id772073.html",
-          "image": "https://media.tycsports.com/files/2026/10/30/1001210/alonso_1440x810.webp?v=1",
-          "body": "Aston Martin confirmó que el piloto español le cederá su butaca a Jak Crawford en el inicio de la actividad, este jueves desde las 21.30 de Argentina.\n\nAlbon y Alonso protagonizaron una intensa pelea en pista en el GP de Estados Unidos. (Getty Images) + Seguinos en Este jueves se pondrá en marcha la actividad de la Fórmula 1 para el Gran Premio de Las Vegas y la primera práctica libre, que comenzará desde las 21.30 de nuestro país, no contará con el español Fernando Alonso.\n\nSegún confirmó la escudería Aston Martin, Alonso verá desde afuera el primer ensayo en el trazado estadounidense y quien se subirá al volante del AMR26 será el local Jak Crawford.\n\nCrawford, de 21 años y tercer piloto de la escudería por detrás de Alonso y Lance Stroll, tendrá la oportunidad de participar de una práctica libre por quinta vez en la temporada 2026.\n\nEl estadounidense ya acumuló más de 4.800 kilómetros en la máxima categoría del automovilismo, \"lo que refuerza aún más sus conocimientos técnicos y su capacidad para contribuir al desarrollo del equipo\", indicó la escudería.",
-          "language": "es",
-          "publishedAt": "2026-11-18T23:45:12.000Z",
-          "addedAt": "2026-11-19T04:18:05.862Z",
-          "category": "argentino",
-          "tag": "Argentino"
         },
         {
           "id": "www-tycsports-com-automovilismo-la-posible-salida-de-oscar-piastri-de-mclaren-que-podria-abrirle-la-puerta-a-franco-cola",
@@ -4114,7 +4114,7 @@
           "image": "https://campeones.com.ar/wp-content/uploads/2026/11/SaveClip.App_928405708_1336721341865020_2726239854851025244_n-e1795567064655.jpg",
           "body": "",
           "language": "es",
-          "publishedAt": "2026-11-25T00:41:58.000Z",
+          "publishedAt": "2026-11-25T10:41:58.000Z",
           "addedAt": "2026-11-25T03:37:24.159Z",
           "category": "argentino",
           "tag": "Argentino"
