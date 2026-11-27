@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-26T23:20:14.805Z",
-  "checkedAt": "2026-11-26T23:20:14.805Z",
+  "updatedAt": "2026-11-27T05:13:06.183Z",
+  "checkedAt": "2026-11-27T05:13:06.183Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,36 +40,6 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-el-alpine-a526-de-franco-colapinto-como-nunca-se-vio",
-      "title": "El Alpine A526 de Franco Colapinto como nunca se vio",
-      "summary": "Conocemos al detalle cada pieza de la unidad que utilizan el argentino y su compañero Pierre Gasly en el campeonato mundial de Fórmula 1.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-alpine-a526-de-franco-colapinto-como-nunca-se-vio/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261126-F1-Colapinto-Alpine-F1-Team.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-26T19:38:38.000Z",
-      "addedAt": "2026-11-26T23:20:19.781Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
-    {
-      "id": "campeones-com-ar-scalabroni-encuentra-la-virtud-en-briatore-le-cambio-la-cabeza-a-colapinto",
-      "title": "Scalabroni encuentra la virtud en Briatore: \"Le cambió la cabeza a Colapinto\"",
-      "summary": "El reconocido diseñador encontró en el asesor ejecutivo de Alpine la explicación a los cambios de actitud del pilarense.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/scalabroni-encuentra-la-virtud-en-briatore-le-cambio-la-cabeza-a-colapinto/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/08/260808-F1-Colapinto-Briatore.webp",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-26T20:31:30.000Z",
-      "addedAt": "2026-11-26T23:20:18.375Z",
-      "category": "argentino",
-      "tag": "Franco"
-    },
-    {
       "id": "campeones-com-ar-el-ano-de-werner-mas-victorias-y-menos-abandonos-pero-lejos-en-los-puntos",
       "title": "El año de Werner: más victorias y menos abandonos, pero lejos en los puntos | Campeones",
       "summary": "El de Paraná ganó más carreras que el año pasado tanto en Turismo Carretera con en TC Pick Up y ya no padece los problemas en el motor que lo aquejaron en 2025. Asimismo, llega a las dos definiciones por la corona lejos desde los puntos. Un repaso estadístico y comparativo de ambas temporadas,",
@@ -85,19 +55,19 @@
       "tag": "Argentino"
     },
     {
-      "id": "campeones-com-ar-ford-presenta-el-gt41-el-hypercar-con-el-que-correra-en-el-wec-en-2027",
-      "title": "Ford presenta el GT41, el Hypercar con el que correrá en el WEC en 2027",
-      "summary": "El vehículo cuenta con un motor V8 atmosférico de 5,4 litros. \"Está destinado a continuar el legado del famoso GT40\" reseñaron.",
+      "id": "campeones-com-ar-scalabroni-encuentra-la-virtud-en-briatore-le-cambio-la-cabeza-a-colapinto",
+      "title": "Scalabroni encuentra la virtud en Briatore: \"Le cambió la cabeza a Colapinto\"",
+      "summary": "El reconocido diseñador encontró en el asesor ejecutivo de Alpine la explicación a los cambios de actitud del pilarense.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/ford-presenta-el-gt41-el-hypercar-con-el-que-correra-en-el-wec-en-2027/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/FORD-GT41-WEC.jpg",
+      "url": "https://campeones.com.ar/scalabroni-encuentra-la-virtud-en-briatore-le-cambio-la-cabeza-a-colapinto/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/08/260808-F1-Colapinto-Briatore.webp",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-26T21:40:33.000Z",
-      "addedAt": "2026-11-26T23:20:19.504Z",
-      "category": "general",
-      "tag": "F1"
+      "publishedAt": "2026-11-26T20:31:30.000Z",
+      "addedAt": "2026-11-26T23:20:18.375Z",
+      "category": "argentino",
+      "tag": "Franco"
     },
     {
       "id": "www-tycsports-com-automovilismo-por-que-colapinto-no-corre-riesgo-en-alpine-pese-a-los-rumores-sobre-bearman-id772496-ht",
@@ -156,6 +126,21 @@
       "language": "es",
       "publishedAt": "2026-11-21T02:00:15.000Z",
       "addedAt": "2026-11-21T08:12:15.170Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-ford-presenta-el-gt41-el-hypercar-con-el-que-correra-en-el-wec-en-2027",
+      "title": "Ford presenta el GT41, el Hypercar con el que correrá en el WEC en 2027",
+      "summary": "El vehículo cuenta con un motor V8 atmosférico de 5,4 litros. \"Está destinado a continuar el legado del famoso GT40\" reseñaron.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/ford-presenta-el-gt41-el-hypercar-con-el-que-correra-en-el-wec-en-2027/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/FORD-GT41-WEC.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-26T21:40:33.000Z",
+      "addedAt": "2026-11-26T23:20:19.504Z",
       "category": "general",
       "tag": "F1"
     },
@@ -340,21 +325,6 @@
       "tag": "Franco"
     },
     {
-      "id": "campeones-com-ar-f1-la-fia-informo-sobre-una-infraccion-de-alpine",
-      "title": "F1: La FIA informó sobre una infracción de Alpine",
-      "summary": "La medida corresponde a una revisión del reglamento financiero de 2025 del equipo de Enstone y, que al igual que Williams, fueron resueltos esta semana.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/f1-la-fia-informo-sobre-una-infraccion-de-alpine/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261126-F1-Alpine.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-26T14:50:09.000Z",
-      "addedAt": "2026-11-26T23:20:20.153Z",
-      "category": "general",
-      "tag": "Reglamento"
-    },
-    {
       "id": "www-tycsports-com-automovilismo-formula-1-las-vegas-clasificacion-antonello-pole-penalizacion-verstappen-id772467-html",
       "title": "F1: La \"avivada\" de Kimi Antonelli que le dio la pole en una infartante qualy en Las Vegas",
       "summary": "Cuando todos peleaban por el rebufo, el campeón del mundo los dejó pasar a todos y terminó siendo el último en cerrar la clasificación. Antes, sufrió para poder abrir la última vuelta.",
@@ -366,51 +336,6 @@
       "language": "es",
       "publishedAt": "2026-11-21T06:26:18.000Z",
       "addedAt": "2026-11-21T08:12:15.060Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-viedma-cierre-de-2026-con-tn-en-marzo-de-2027-tc-y-espera-por-turismo-pista",
-      "title": "Viedma: cierre de 2026 con TN; en marzo de 2027 TC y espera por Turismo Pista",
-      "summary": "Quien encabeza la administración del consorcio del autodrómo rionegrino, Augusto Rochet detalló en Campeones sobre el cierre de la temporada de TN y cómo planifican la temporada 2027.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/viedma-cierre-de-2026-con-tn-en-marzo-de-2027-tc-y-espera-por-turismo-pista/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261126-Viedma.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-26T17:03:18.000Z",
-      "addedAt": "2026-11-26T23:20:19.632Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-el-rus-med-team-confirmo-otro-piloto-en-tc-para-la-temporada-proxima",
-      "title": "El Rus Med Team confirmó otro piloto en TC para la temporada próxima",
-      "summary": "La estructura de Mauro Medina ya había comunicado la continuidad de \"Josito\" Di Palma y Juan Bautista de Benedictis, y ahora lo hizo con el sanjuanino Tobías Martínez.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/el-rus-med-team-confirmo-otro-piloto-en-tc-para-la-temporada-proxima/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/08/Tobias-Martinez-TC-2026-e1785850998779.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-26T14:39:32.000Z",
-      "addedAt": "2026-11-26T23:20:20.570Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-fernando-alonso-explica-cuando-dejara-la-formula-1",
-      "title": "Fernando Alonso explica cuándo dejará la Fórmula 1",
-      "summary": "El español no se puso fecha para el retiro pero sí comentó cuáles serán las razones que lo motivarán a dejar la categoría máxima. La edad, los pilotos jóvenes y su equipo de competición.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/fernando-alonso-explica-cuando-dejara-la-formula-1/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/03/Fernando-Alonso-Aston-Martin.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-26T14:19:11.000Z",
-      "addedAt": "2026-11-26T14:30:20.663Z",
       "category": "general",
       "tag": "F1"
     },
@@ -503,6 +428,21 @@
       "addedAt": "2026-11-07T02:05:47.823Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-f1-la-fia-informo-sobre-una-infraccion-de-alpine",
+      "title": "F1: La FIA informó sobre una infracción de Alpine",
+      "summary": "La medida corresponde a una revisión del reglamento financiero de 2025 del equipo de Enstone y, que al igual que Williams, fueron resueltos esta semana.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/f1-la-fia-informo-sobre-una-infraccion-de-alpine/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261126-F1-Alpine.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-26T14:50:09.000Z",
+      "addedAt": "2026-11-26T23:20:20.153Z",
+      "category": "general",
+      "tag": "Reglamento"
     },
     {
       "id": "campeones-com-ar-santino-panetta-balance-del-ano-en-la-eurocup-3-y-lo-que-se-viene",
@@ -698,6 +638,51 @@
       "addedAt": "2026-10-29T19:15:02.909Z",
       "category": "general",
       "tag": "Carrera"
+    },
+    {
+      "id": "campeones-com-ar-viedma-cierre-de-2026-con-tn-en-marzo-de-2027-tc-y-espera-por-turismo-pista",
+      "title": "Viedma: cierre de 2026 con TN; en marzo de 2027 TC y espera por Turismo Pista",
+      "summary": "Quien encabeza la administración del consorcio del autodrómo rionegrino, Augusto Rochet detalló en Campeones sobre el cierre de la temporada de TN y cómo planifican la temporada 2027.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/viedma-cierre-de-2026-con-tn-en-marzo-de-2027-tc-y-espera-por-turismo-pista/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261126-Viedma.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-26T17:03:18.000Z",
+      "addedAt": "2026-11-26T23:20:19.632Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-el-rus-med-team-confirmo-otro-piloto-en-tc-para-la-temporada-proxima",
+      "title": "El Rus Med Team confirmó otro piloto en TC para la temporada próxima",
+      "summary": "La estructura de Mauro Medina ya había comunicado la continuidad de \"Josito\" Di Palma y Juan Bautista de Benedictis, y ahora lo hizo con el sanjuanino Tobías Martínez.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/el-rus-med-team-confirmo-otro-piloto-en-tc-para-la-temporada-proxima/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/08/Tobias-Martinez-TC-2026-e1785850998779.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-26T14:39:32.000Z",
+      "addedAt": "2026-11-26T23:20:20.570Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-fernando-alonso-explica-cuando-dejara-la-formula-1",
+      "title": "Fernando Alonso explica cuándo dejará la Fórmula 1",
+      "summary": "El español no se puso fecha para el retiro pero sí comentó cuáles serán las razones que lo motivarán a dejar la categoría máxima. La edad, los pilotos jóvenes y su equipo de competición.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/fernando-alonso-explica-cuando-dejara-la-formula-1/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/03/Fernando-Alonso-Aston-Martin.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-26T14:19:11.000Z",
+      "addedAt": "2026-11-26T14:30:20.663Z",
+      "category": "general",
+      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-turismo-carretera-2000-debutantes-y-retornos-para-el-cierre-en-rafaela",
@@ -2738,12 +2723,27 @@
       "addedAt": "2026-11-17T23:58:23.058Z",
       "category": "general",
       "tag": "F1"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-ent",
+      "title": "Revelan los precios de las entradas para el MotoGP en Buenos Aires",
+      "summary": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/revelan-los-precios-de-las-entradas-para-el-motogp-en-buenos-aires-precios-argentina-entradas-id763683.html",
+      "image": "https://media.tycsports.com/files/2025/01/20/804453/motogp-en-termas_1440x810.webp?v=2",
+      "body": "El Gran Premio se disputará del 9 al 11 de abril y ya se conocieron los valores para presenciar la competencia que vuelve a disputarse en el autódromo porteño.\n\nEl Moto GP llegará a Buenos Aires en abril de 2027 + Seguinos en El MotoGP ya tiene los precios de las entradas para su regreso a la Ciudad de Buenos Aires. El Gran Premio se disputará del 9 al 11 de abril en el renovado circuito porteño, que volverá a recibir a la máxima categoría del motociclismo mundial.\n\nEl valor de los tickets parte desde $194.520 para una ubicación en la recta y llega hasta $5.349.300 para el acceso al Apex Club Elite, la alternativa de mayor costo. Entre ambos extremos, habrá distintas opciones de localidades y experiencias para los espectadores.\n\nLa venta se realizará a través del sitio oficial de tickets de MotoGP. Además, entre el 1 y el 7 de octubre habrá una preventa exclusiva para clientes de Banco Ciudad, con la posibilidad de abonar en hasta seis cuotas sin interés.",
+      "language": "es",
+      "publishedAt": "2026-09-30T22:03:28.000Z",
+      "addedAt": "2026-11-27T05:13:07.335Z",
+      "category": "general",
+      "tag": "F1"
     }
   ],
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-26T23:20:24.184Z",
+      "createdAt": "2026-11-27T05:13:16.463Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-colapinto-revelo-por-que-se-subio-con-el-casco-al-avion-id773074-html",
@@ -2806,21 +2806,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-qatar-id772757-ht",
-          "title": "F1: hora y dónde ver en vivo la práctica libre de Colapinto en el GP de Qatar",
-          "summary": "Este viernes se llevarán a cabo las Prácticas Libres 1 y 2 del anteúltimo Gran Premio de la temporada 2026 de la Fórmula 1 con la participación de Colapinto.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-qatar-id772757.html",
-          "image": "https://media.tycsports.com/files/2026/10/30/1001362/franco-colapinto-alpine_1440x810.webp",
-          "body": "Este viernes se llevarán a cabo las Prácticas Libres 1 y 2 del anteúltimo Gran Premio de la temporada 2026 de la Fórmula 1 con la participación de Colapinto.\n\nFranco Colapinto. (Mark Thompson/Getty Images) + Seguinos en La temporada 2026 de la Fórmula 1, que ya tiene a Kimi Antonelli de Mercedes como campeón del año , tendrá su anteúltima carrera del año con el Gran Premio de Qatar , y este viernes se desarrollarán las Prácticas Libres 1 y 2 con la presencia de Franco Colapinto de la mano de Alpine. Conocé todos los detalles .\n\nEl Circuito Internacional de Lusail, ubicado en las afueras de la capital, Doha, donde se corre el Gran Premio de Qatar fue levantado inicialmente para recibir al Moto GP, competencia que desembarcó en 2004. Su construcción se terminó en un año y en 2021 llegó la Fórmula 1 allí. Dos años más tarde se firmó un contrato para que sea habitual sede por diez años, hasta 2033.\n\nTodo el fin de semana de la Fórmula 1 se podrá ver en vivo en la Argentina a través de Fox Sports . Además, vas a poder seguir el minuto a minuto de la competición en el sitio web www.tycsports.com .\n\nTambién se puede ver online a través de Disney+ Premium , la plataforma digital de ESPN, la cual se contrata previo registro a través de la página web por $24.390 final por mes.",
-          "language": "es",
-          "publishedAt": "2026-11-26T16:05:43.000Z",
-          "addedAt": "2026-11-26T14:30:18.741Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-la-ilusion-de-colapinto-para-el-gran-premio-de-qatar-esperamos-mantener-el-impulso-id772",
           "title": "La ilusión de Colapinto para el Gran Premio de Qatar: \"Esperamos mantener el impulso\"",
           "summary": "Tras su regreso a la zona de puntos en Las Vegas, el piloto argentino apunta a revalidar su actuación este fin de semana en Lusail.",
@@ -2836,17 +2821,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-formula-1-rendida-ante-largada-franco-colapinto-las-vegas-id772719-html",
-          "title": "La Fórmula 1, rendida ante la largada de Franco Colapinto en Las Vegas",
-          "summary": "La cuenta oficial de la máxima categoría destacó una nueva gran salida del argentino como parte de la buena carrera de Alpine el último domingo.",
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-qatar-id772757-ht",
+          "title": "F1: hora y dónde ver en vivo la práctica libre de Colapinto en el GP de Qatar",
+          "summary": "Este viernes se llevarán a cabo las Prácticas Libres 1 y 2 del anteúltimo Gran Premio de la temporada 2026 de la Fórmula 1 con la participación de Colapinto.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-rendida-ante-largada-franco-colapinto-las-vegas--id772719.html",
-          "image": "https://media.tycsports.com/files/2026/11/22/1006685/colapinto_1440x810.webp",
-          "body": "La cuenta oficial de la máxima categoría destacó una nueva gran salida del argentino como parte de la buena carrera de Alpine el último domingo.\n\nLas largadas de Colapinto y Gasly que destacó la F1 + Seguinos en Franco Colapinto volvió a demostrar que las largadas son uno de sus grandes puntos fuertes en la Fórmula 1. En el Gran Premio de Las Vegas, el argentino que metería puesto 6 tuvo un arranque sobresaliente que le permitió ganar posiciones y fue destacado por la cuenta oficial de la categoría, que también elogió el desempeño de Pierre Gasly, finalmente quinto.\n\nEl pilarense aprovechó el inconveniente que sufrió Liam Lawson que lo obligó a ausentarse de la parrilla, buscó el hueco y avanzó hasta el sexto lugar. “¡Avanzando desde el principio con los pilotos de Alpine, en camino a puntos dobles! El Gran Premio de Las Vegas de Pierre y Franco comenzó con estas reacciones de salida”, publicó la Fórmula 1 en su cuenta oficial de X, en reconocimiento al inicio de los dos pilotos de la escudería francesa. De acuerdo con los registros de la categoría, Colapinto y Gasly tuvieron un tiempo de reacción de 0.25 segundos para pisar el acelerador tras la señal lumínica. Sin embargo, el argentino marcó una diferencia: necesitó 5.10 segundos para pasar de 0 a 200 km/h, mientras que el francés llegó a esa velocidad en 5.17 segundos.\n\nEsa pequeña ventaja resultó decisiva en los primeros metros. Colapinto consiguió colocar el tren delantero de su monoplaza por delante del de Gasly en el sector externo de la primera curva y le ganó la posición en ese tramo inicial. Después, ambos coches padecieron en distintos momentos de la carrera un sobrecalentamiento que mermó sus chances.\n\nDespués, el argentino se refirió al comportamiento de los neumáticos blandos, que le impidieron sostener el",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-qatar-id772757.html",
+          "image": "https://media.tycsports.com/files/2026/10/30/1001362/franco-colapinto-alpine_1440x810.webp",
+          "body": "Este viernes se llevarán a cabo las Prácticas Libres 1 y 2 del anteúltimo Gran Premio de la temporada 2026 de la Fórmula 1 con la participación de Colapinto.\n\nFranco Colapinto. (Mark Thompson/Getty Images) + Seguinos en La temporada 2026 de la Fórmula 1, que ya tiene a Kimi Antonelli de Mercedes como campeón del año , tendrá su anteúltima carrera del año con el Gran Premio de Qatar , y este viernes se desarrollarán las Prácticas Libres 1 y 2 con la presencia de Franco Colapinto de la mano de Alpine. Conocé todos los detalles .\n\nEl Circuito Internacional de Lusail, ubicado en las afueras de la capital, Doha, donde se corre el Gran Premio de Qatar fue levantado inicialmente para recibir al Moto GP, competencia que desembarcó en 2004. Su construcción se terminó en un año y en 2021 llegó la Fórmula 1 allí. Dos años más tarde se firmó un contrato para que sea habitual sede por diez años, hasta 2033.\n\nTodo el fin de semana de la Fórmula 1 se podrá ver en vivo en la Argentina a través de Fox Sports . Además, vas a poder seguir el minuto a minuto de la competición en el sitio web www.tycsports.com .\n\nTambién se puede ver online a través de Disney+ Premium , la plataforma digital de ESPN, la cual se contrata previo registro a través de la página web por $24.390 final por mes.",
           "language": "es",
-          "publishedAt": "2026-11-24T02:44:35.000Z",
-          "addedAt": "2026-11-24T09:46:39.569Z",
+          "publishedAt": "2026-11-26T16:05:43.000Z",
+          "addedAt": "2026-11-26T14:30:18.741Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2911,32 +2896,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-colapinto-revelo-su-sueno-antes-de-entrar-en-el-mundo-de-la-f1-me-encantaria-correr-el-r",
-          "title": "Colapinto reveló su sueño antes de entrar en el mundo de la F1",
-          "summary": "En la antesala del inicio al Gran Premio de Las Vegas, el piloto argentino confesó su interés en ser parte de la histórica competencia.",
+          "id": "www-tycsports-com-automovilismo-formula-1-rendida-ante-largada-franco-colapinto-las-vegas-id772719-html",
+          "title": "La Fórmula 1, rendida ante la largada de Franco Colapinto en Las Vegas",
+          "summary": "La cuenta oficial de la máxima categoría destacó una nueva gran salida del argentino como parte de la buena carrera de Alpine el último domingo.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-revelo-su-sueno-antes-de-entrar-en-el-mundo-de-la-f1-me-encantaria-correr-el-rally-dakar-id772267.html",
-          "image": "https://media.tycsports.com/files/2026/11/16/1005359/franco-colapinto-alpine_1440x810.webp?v=1",
-          "body": "En la antesala del inicio al Gran Premio de Las Vegas, el piloto argentino confesó su interés en ser parte de la histórica competencia.\n\nFranco Colapinto anticipó el Gran Premio de Las Vegas de la Fórmula 1 y confesó su deseo de participar del Rally Dakar. (Kym Illman/Getty Images) + Seguinos en Franco Colapinto se prepara el Gran Premio de Las Vegas de la Fórmula 1 , la antepenúltima carrera de la temporada 2026 y que llega tras la confirmación de que Fernando Alonso será parte de la próxima edición del Rally Dakar ; una confirmación que dio lugar a una tremenda confesión por parte del piloto argentino .\n\n\" Me encantaría correr el Rally Dakar . Era una de las cosas que siempre quise de chiquito. Antes de meterme en el mundo de la Fórmula 1, el Dakar era mi sueño \", dio a conocer la figura de Alpine en diálogo con Cadena 3 .\n\nEl oriundo de Pilar no se quedó con esa afirmación y redobló la apuesta al afirmar que le gustaría ser parte de la histórica competencia en una categoría diferentes a la que nos tiene acostumbrados, justamente la más peligrosa al tener la menor cantidad de protecciones posibles para los pilotos. \"Si aprendiera a andar en moto, me encantaría hacerlo en moto. En auto también, pasa que siento que es un poco menos extremo\" , aseguró.\n\nJunto a Alonso, que regresa a la histórica carrera donde ya dijo presente en su edición 2020, son pocos los casos en que un piloto de la Fórmula 1 también participara del Rally Dakar , carrera que usualmente se disputa en el mes de enero (pocas semanas después de que concluya la temporada de la categoría reina). El caso más destacado es el del belga Jacky Ickx , que tras quedar a las puertas en numerosas ocasiones de ser campeón de la F1 desembarcó en el rally raid más famoso del mundo y logró ser ganador en 1983 con Merc",
+          "url": "https://www.tycsports.com/automovilismo/formula-1-rendida-ante-largada-franco-colapinto-las-vegas--id772719.html",
+          "image": "https://media.tycsports.com/files/2026/11/22/1006685/colapinto_1440x810.webp",
+          "body": "La cuenta oficial de la máxima categoría destacó una nueva gran salida del argentino como parte de la buena carrera de Alpine el último domingo.\n\nLas largadas de Colapinto y Gasly que destacó la F1 + Seguinos en Franco Colapinto volvió a demostrar que las largadas son uno de sus grandes puntos fuertes en la Fórmula 1. En el Gran Premio de Las Vegas, el argentino que metería puesto 6 tuvo un arranque sobresaliente que le permitió ganar posiciones y fue destacado por la cuenta oficial de la categoría, que también elogió el desempeño de Pierre Gasly, finalmente quinto.\n\nEl pilarense aprovechó el inconveniente que sufrió Liam Lawson que lo obligó a ausentarse de la parrilla, buscó el hueco y avanzó hasta el sexto lugar. “¡Avanzando desde el principio con los pilotos de Alpine, en camino a puntos dobles! El Gran Premio de Las Vegas de Pierre y Franco comenzó con estas reacciones de salida”, publicó la Fórmula 1 en su cuenta oficial de X, en reconocimiento al inicio de los dos pilotos de la escudería francesa. De acuerdo con los registros de la categoría, Colapinto y Gasly tuvieron un tiempo de reacción de 0.25 segundos para pisar el acelerador tras la señal lumínica. Sin embargo, el argentino marcó una diferencia: necesitó 5.10 segundos para pasar de 0 a 200 km/h, mientras que el francés llegó a esa velocidad en 5.17 segundos.\n\nEsa pequeña ventaja resultó decisiva en los primeros metros. Colapinto consiguió colocar el tren delantero de su monoplaza por delante del de Gasly en el sector externo de la primera curva y le ganó la posición en ese tramo inicial. Después, ambos coches padecieron en distintos momentos de la carrera un sobrecalentamiento que mermó sus chances.\n\nDespués, el argentino se refirió al comportamiento de los neumáticos blandos, que le impidieron sostener el",
           "language": "es",
-          "publishedAt": "2026-11-19T23:42:45.000Z",
-          "addedAt": "2026-11-20T03:01:29.705Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-por-que-alpine-recibio-sancion-formula-1-antes-gran-premio-qatar-id772970-html",
-          "title": "Por qué Alpine recibió una sanción de la Fórmula 1 antes del Gran Premio de Qatar",
-          "summary": "La escudería de Franco Colapinto reconoció errores en sus informes financieros de 2025 y deberá pagar una multa pese a no superar el límite presupuestario.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/por-que-alpine-recibio-sancion-formula-1-antes-gran-premio-qatar-id772970.html",
-          "image": "https://media.tycsports.com/files/2026/11/01/1002067/colapinto_1440x810.webp",
-          "body": "La escudería de Franco Colapinto reconoció errores en sus informes financieros de 2025 y deberá pagar una multa pese a no superar el límite presupuestario.\n\nColapinto, cuando se quedó sin nada en el Gran Premio de México por una sanción (Clive Mason/Getty Images) + Seguinos en La FIA sancionó a Alpine en la previa al Gran Premio de Qatar de la Fórmula 1 , luego de detectar imprecisiones en los informes financieros correspondientes a la temporada 2025 . La escudería de Franco Colapinto llegó a un acuerdo con el organismo rector y deberá afrontar una multa económica.\n\nEl caso fue catalogado como una infracción de procedimiento ya que el equipo con sede en Enstone, si bien no superó el presupuesto, excluyó de manera incorrecta gastos de marketing y recursos humanos por no vincularse con la actividad competitiva, según informó Motorsport. La sanción económica no fue revelada oficialmente, aunque el medio especializado estima que este tipo de irregularidades suele derivar en multas de entre 300 y 500 mil dólares. Además, Alpine deberá hacerse cargo de los gastos correspondientes a la Administración del Límite Presupuestario (CCA, por sus siglas en inglés).\n\nEn un comunicado , el equipo reconoció la infracción y aceptó las conclusiones de la entidad . “BWT Alpine Formula One Team reconoce y acepta las conclusiones de la Administración del Límite Presupuestario correspondientes al período de presentación de informes de 2025. El equipo acepta que cometió involuntariamente una infracción de procedimiento como resultado de imprecisiones en la documentación del informe anual completo relativas a costos asociados con exclusiones y ajustes”, expresó.\n\n“Los errores e imprecisiones en los informes estaban relacionados específicamente con gastos ajenos a la competición y costos operati",
-          "language": "es",
-          "publishedAt": "2026-11-26T00:20:22.000Z",
-          "addedAt": "2026-11-26T04:30:56.774Z",
+          "publishedAt": "2026-11-24T02:44:35.000Z",
+          "addedAt": "2026-11-24T09:46:39.569Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2986,21 +2956,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-salvada-de-colapinto-bajo-la-lluvia-en-el-gp-de-las-vegas-de-la-formula-1-id772272-ht",
-          "title": "La salvada bajo la lluvia de Colapinto en el inicio del Gran Premio de Las Vegas",
-          "summary": "En una sesión de prácticas libres donde ningún piloto marcó un tiempo de vuelta por las malas condiciones de pista, el argentino probó el estado del circuito y logró evitar un duro accidente.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-salvada-de-colapinto-bajo-la-lluvia-en-el-gp-de-las-vegas-de-la-formula-1-id772272.html",
-          "image": "https://media.tycsports.com/files/2026/11/19/1006118/franco-colapinto-alpine-salvada_862x485.webp?v=1",
-          "body": "En una sesión de prácticas libres donde ningún piloto marcó un tiempo de vuelta por las malas condiciones de pista, el argentino probó el estado del circuito y logró evitar un duro accidente.\n\nLa salvada de Franco Colapinto en la práctica libre 1 del Gran Premio de Las Vegas de la Fórmula 1. + Seguinos en La primera práctica libre del Gran Premio de Las Vegas de la Fórmula 1 tuvo a la lluvia como su protagonista , un diluvio en el desierto de Nevada que generó condiciones complejas en pista sobre las cuales Franco Colapinto tuvo una gran salvada para evitar un accidente cuando el reloj marcó el final de la sesión.\n\nPese a ser uno de los lugares más áridos en todo Estados Unidos, precipitaciones estuvieron presentes para el comienzo de las acciones del antepenúltimo fin de semana de la categoría reina del automovilismo en la temporada 2026. El trazado se vio afectado de gran manera y ninguno de los 22 pilotos logró marcar un tiempo de vuelta .\n\nYa sin chances de anotar un registro, los dos Alpine salieron a pista y vivieron en carne propia las complejidades en el inicio de las acciones , con Colapinto llevándose todas las miradas con su maniobra para evitar un accidente al sufrir \"aquaplaning\"; cuando los neumáticos pierden adherencia con el asfalto producto del agua.\n\nEn medio de la recta opuesta del circuito previa el argentino se vio obligado a meter un oportuno volantazo para evitar que su monoplaza se estrelle contra la barrera de protección al perder el control de sus ruedas traseras y encontrarse perpendicular a la pared.",
-          "language": "es",
-          "publishedAt": "2026-11-20T02:28:07.000Z",
-          "addedAt": "2026-11-20T03:01:29.459Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-formula-1-franco-colapinto-gp-de-las-vegas-elogio-top-10-power-rankings-id772837-html",
           "title": "\"Era justo lo que necesitaba\": Colapinto, al top 10 de los Power Rankings de la F1 tras un gran GP de Las Vegas",
           "summary": "El piloto argentino recibió ocho puntos en los Power Rankings, se metió en el Top 10 y quedó por encima de varios nombres importantes de la categoría.",
@@ -3014,13 +2969,22 @@
           "addedAt": "2026-11-25T03:37:21.541Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-11-26T23:20:24.184Z",
-      "items": [
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-por-que-alpine-recibio-sancion-formula-1-antes-gran-premio-qatar-id772970-html",
+          "title": "Por qué Alpine recibió una sanción de la Fórmula 1 antes del Gran Premio de Qatar",
+          "summary": "La escudería de Franco Colapinto reconoció errores en sus informes financieros de 2025 y deberá pagar una multa pese a no superar el límite presupuestario.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/por-que-alpine-recibio-sancion-formula-1-antes-gran-premio-qatar-id772970.html",
+          "image": "https://media.tycsports.com/files/2026/11/01/1002067/colapinto_1440x810.webp",
+          "body": "La escudería de Franco Colapinto reconoció errores en sus informes financieros de 2025 y deberá pagar una multa pese a no superar el límite presupuestario.\n\nColapinto, cuando se quedó sin nada en el Gran Premio de México por una sanción (Clive Mason/Getty Images) + Seguinos en La FIA sancionó a Alpine en la previa al Gran Premio de Qatar de la Fórmula 1 , luego de detectar imprecisiones en los informes financieros correspondientes a la temporada 2025 . La escudería de Franco Colapinto llegó a un acuerdo con el organismo rector y deberá afrontar una multa económica.\n\nEl caso fue catalogado como una infracción de procedimiento ya que el equipo con sede en Enstone, si bien no superó el presupuesto, excluyó de manera incorrecta gastos de marketing y recursos humanos por no vincularse con la actividad competitiva, según informó Motorsport. La sanción económica no fue revelada oficialmente, aunque el medio especializado estima que este tipo de irregularidades suele derivar en multas de entre 300 y 500 mil dólares. Además, Alpine deberá hacerse cargo de los gastos correspondientes a la Administración del Límite Presupuestario (CCA, por sus siglas en inglés).\n\nEn un comunicado , el equipo reconoció la infracción y aceptó las conclusiones de la entidad . “BWT Alpine Formula One Team reconoce y acepta las conclusiones de la Administración del Límite Presupuestario correspondientes al período de presentación de informes de 2025. El equipo acepta que cometió involuntariamente una infracción de procedimiento como resultado de imprecisiones en la documentación del informe anual completo relativas a costos asociados con exclusiones y ajustes”, expresó.\n\n“Los errores e imprecisiones en los informes estaban relacionados específicamente con gastos ajenos a la competición y costos operati",
+          "language": "es",
+          "publishedAt": "2026-11-26T00:20:22.000Z",
+          "addedAt": "2026-11-26T04:30:56.774Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
         {
           "id": "www-tycsports-com-automovilismo-como-quedo-colapinto-en-el-campeonato-de-la-f1-tras-su-sexto-puesto-en-las-vegas-id77255",
           "title": "Cómo quedó Colapinto en el campeonato de la F1 tras su sexto puesto en Las Vegas",
@@ -3048,6 +3012,27 @@
           "language": "es",
           "publishedAt": "2026-11-23T12:01:02.000Z",
           "addedAt": "2026-11-23T12:15:49.612Z",
+          "category": "argentino",
+          "tag": "Franco"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-11-27T05:13:16.463Z",
+      "items": [
+        {
+          "id": "campeones-com-ar-el-alpine-a526-de-franco-colapinto-como-nunca-se-vio",
+          "title": "El Alpine A526 de Franco Colapinto como nunca se vio",
+          "summary": "Conocemos al detalle cada pieza de la unidad que utilizan el argentino y su compañero Pierre Gasly en el campeonato mundial de Fórmula 1.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/el-alpine-a526-de-franco-colapinto-como-nunca-se-vio/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261126-F1-Colapinto-Alpine-F1-Team.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-26T19:38:38.000Z",
+          "addedAt": "2026-11-26T23:20:19.781Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3095,6 +3080,21 @@
           "addedAt": "2026-11-21T08:12:15.100Z",
           "category": "argentino",
           "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-hamilton-volvio-a-elogiar-a-la-argentina-quiero-pasar-tiempo-de-verdad-id773129-html",
+          "title": "Hamilton volvió a elogiar a la Argentina: \"Quiero pasar tiempo de verdad\"",
+          "summary": "El heptacampeón mundial de la Fórmula 1 confesó su admiración por el país y su intención de volver a visitarlo.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/hamilton-volvio-a-elogiar-a-la-argentina-quiero-pasar-tiempo-de-verdad-id773129.html",
+          "image": "https://media.tycsports.com/files/2026/11/26/1007826/lewis-hamilton-argentina-_1440x810.webp",
+          "body": "El heptacampeón mundial de la Fórmula 1 confesó su admiración por el país y su intención de volver a visitarlo.\n\nLewis Hamilton, en la puerta de la Facultad de Derecho de la Universidad de Buenos Aires durante su primera visita a Argentina en 2022. + Seguinos en Lewis Hamilton dejó de lado la polémica alrededor de su relación con su compañero de equipo Charles Leclerc en Ferrari y dio a conocer su deseo su deseo de regresar a Argentina , país al cual visitó por primera vez en 2022 .\n\nEn diálogo con Agustín Creevy en la previa al Gran Premio de Las Vegas del pasado fin de semana, el siete veces campeón del mundo de la Fórmula 1 fue muy elogioso del país. \"Argentina es un lugar precioso, y la gente es muy amable y cálida\" , expresó.\n\nEl piloto con mayor cantidad de victorias y pole positions en la historia de la categoría reina del automovilismo a nivel mundial redobló la apuesta y detalló qué es lo que más se gustaría conocer en su próxima visita. \"Escuché que la comida es increíble pero, fuera de aquella vez que estuve y fui a un restaurante, no tuve la oportunidad de vivir realmente la cultura\" , dio a conocer.\n\nEn 2022 se dio la primera visita de Hamilton a Argentina , en diciembre de ese año y pocas semanas después de la finalización de la temporada de la F1. En dicha oportunidad, mostró en su cuenta de Instagram el momento en que pasó por las escalinatas de la Facultad de Derecho de la Universidad de Buenos Aires y la Floralis Generica , momentos que acompañó con una cita que no pasó desapercibida: \"First time in Argentina, such a beautiful place\" (Primera vez en Argentina, un lugar tan hermoso) .",
+          "language": "es",
+          "publishedAt": "2026-11-27T00:23:38.000Z",
+          "addedAt": "2026-11-27T05:13:07.345Z",
+          "category": "argentino",
+          "tag": "Argentino"
         },
         {
           "id": "campeones-com-ar-f1-verstappen-aposto-fuerte-y-gano-en-las-vegas-colapinto-termino-sexto",
@@ -3172,6 +3172,21 @@
           "tag": "Argentino"
         },
         {
+          "id": "www-tycsports-com-automovilismo-colapinto-revelo-su-sueno-antes-de-entrar-en-el-mundo-de-la-f1-me-encantaria-correr-el-r",
+          "title": "Colapinto reveló su sueño antes de entrar en el mundo de la F1",
+          "summary": "En la antesala del inicio al Gran Premio de Las Vegas, el piloto argentino confesó su interés en ser parte de la histórica competencia.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-revelo-su-sueno-antes-de-entrar-en-el-mundo-de-la-f1-me-encantaria-correr-el-rally-dakar-id772267.html",
+          "image": "https://media.tycsports.com/files/2026/11/16/1005359/franco-colapinto-alpine_1440x810.webp?v=1",
+          "body": "En la antesala del inicio al Gran Premio de Las Vegas, el piloto argentino confesó su interés en ser parte de la histórica competencia.\n\nFranco Colapinto anticipó el Gran Premio de Las Vegas de la Fórmula 1 y confesó su deseo de participar del Rally Dakar. (Kym Illman/Getty Images) + Seguinos en Franco Colapinto se prepara el Gran Premio de Las Vegas de la Fórmula 1 , la antepenúltima carrera de la temporada 2026 y que llega tras la confirmación de que Fernando Alonso será parte de la próxima edición del Rally Dakar ; una confirmación que dio lugar a una tremenda confesión por parte del piloto argentino .\n\n\" Me encantaría correr el Rally Dakar . Era una de las cosas que siempre quise de chiquito. Antes de meterme en el mundo de la Fórmula 1, el Dakar era mi sueño \", dio a conocer la figura de Alpine en diálogo con Cadena 3 .\n\nEl oriundo de Pilar no se quedó con esa afirmación y redobló la apuesta al afirmar que le gustaría ser parte de la histórica competencia en una categoría diferentes a la que nos tiene acostumbrados, justamente la más peligrosa al tener la menor cantidad de protecciones posibles para los pilotos. \"Si aprendiera a andar en moto, me encantaría hacerlo en moto. En auto también, pasa que siento que es un poco menos extremo\" , aseguró.\n\nJunto a Alonso, que regresa a la histórica carrera donde ya dijo presente en su edición 2020, son pocos los casos en que un piloto de la Fórmula 1 también participara del Rally Dakar , carrera que usualmente se disputa en el mes de enero (pocas semanas después de que concluya la temporada de la categoría reina). El caso más destacado es el del belga Jacky Ickx , que tras quedar a las puertas en numerosas ocasiones de ser campeón de la F1 desembarcó en el rally raid más famoso del mundo y logró ser ganador en 1983 con Merc",
+          "language": "es",
+          "publishedAt": "2026-11-19T23:42:45.000Z",
+          "addedAt": "2026-11-20T03:01:29.705Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-colapinto-pidio-cambios-en-alpine-y-reflexiono-sobre-la-f1-los-pilotos-hoy-tienen-que-se",
           "title": "Colapinto pidió cambios en Alpine y reflexionó sobre la F1: \"Los pilotos hoy tienen que ser ingenieros también\"",
           "summary": "En la antesala del Gran Premio de Brasil, el argentino solicitó la introducción de modificaciones profundas en la escudería francesa, en caso de querer mejorar el rendimiento para la próxima temporada de la Máxima.",
@@ -3232,21 +3247,6 @@
           "tag": "Franco"
         },
         {
-          "id": "campeones-com-ar-colapinto-tuvo-una-practica-inedita-de-formula-1-bajo-la-lluvia-en-las-calles-de-las-vegas",
-          "title": "Colapinto tuvo una práctica inédita de Fórmula 1, bajo la lluvia en las calles de Las Vegas",
-          "summary": "Solo 17 pilotos giraron y no marcaron tiempos, entre ellos el argentino, debido a las condiciones de la pista por la lluvia y baja temperatura.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-tuvo-una-practica-inedita-de-formula-1-bajo-la-lluvia-en-las-calles-de-las-vegas/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261119-F1-Colapinto-Alpine-box.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-20T01:53:04.000Z",
-          "addedAt": "2026-11-20T03:01:31.177Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-formula-1-alpine-mejora-motor-franco-colapinto-gran-premio-de-las-vegas-id771939-html",
           "title": "Alpine prepara una especial mejora de motor para Colapinto en Las Vegas",
           "summary": "La actualización llegará este fin de semana gracias al desarrollo de Mercedes y podrá ser utilizada por los dos pilotos de la escudería francesa sin recibir penalizaciones en la grilla.",
@@ -3277,17 +3277,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-prediccion-de-la-ia-sobre-el-resultado-de-franco-colapinto-en-el-gp-de-las-vegas-de-l",
-          "title": "La predicción de la IA sobre el resultado de Franco Colapinto en el GP de Las Vegas de la Fórmula 1",
-          "summary": "El piloto argentino tiene por delante una nueva fecha en la máxima y buscará cortar una racha de seis carreras sin sumar puntos.",
+          "id": "www-tycsports-com-automovilismo-la-salvada-de-colapinto-bajo-la-lluvia-en-el-gp-de-las-vegas-de-la-formula-1-id772272-ht",
+          "title": "La salvada bajo la lluvia de Colapinto en el inicio del Gran Premio de Las Vegas",
+          "summary": "En una sesión de prácticas libres donde ningún piloto marcó un tiempo de vuelta por las malas condiciones de pista, el argentino probó el estado del circuito y logró evitar un duro accidente.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-prediccion-de-la-ia-sobre-el-resultado-de-franco-colapinto-en-el-gp-de-las-vegas-de-la-formula-1-id772063.html",
-          "image": "https://media.tycsports.com/files/2026/11/05/1003067/franco-colapinto_1440x810.webp",
-          "body": "El piloto argentino tiene por delante una nueva fecha en la máxima y buscará cortar una racha de seis carreras sin sumar puntos.\n\nFranco Colapinto tiene por delante el GP de Las Vegas + Seguinos en Franco Colapinto tiene por delante la vigesimotercera fecha de la temporada 2026 de la Fórmula 1. El piloto argentino correrá con Alpine en el Gran Premio de Las Vegas y la inteligencia artificial pronosticó el resultado del pilarense en Estados Unidos.\n\nSegún ChatGPT, Colapinto finalizará entre los puestos 11 y 14 en el circuito callejero, con el 12° lugar como resultado más probable. El piloto argentino afrontará una nueva jornada en la máxima, donde buscará cortar una racha de seis carreras consecutivas sin sumar puntos. En su última presentación, finalizó 13° en Brasil.\n\nEl trazado de Las Vegas presenta características particulares que pueden influir en el rendimiento de la escudería. Con 6.201 metros de extensión, 17 curvas y tres largas rectas , la pista exige un buen equilibrio aerodinámico para alcanzar velocidades competitivas sin perder estabilidad en las zonas de frenada. Uno de los principales desafíos para Colapinto será conseguir que los neumáticos alcancen su temperatura ideal de funcionamiento. Las bajas temperaturas durante las sesiones nocturnas pueden dificultar ese proceso y condicionar el rendimiento del auto, especialmente en la clasificación. Para esta competencia, Pirelli seleccionó los compuestos C3, C4 y C5.\n\nEs la tercera vez que el argentino disputará este trazado: en 2024, cuando corría para Williams, terminó en el 14° puesto, mientras que en 2025, en su primera temporada con Alpine, finalizó 15°. Ahora tendrá una nueva oportunidad para mejorar esos resultados y acercarse a la zona de puntos.",
+          "url": "https://www.tycsports.com/automovilismo/la-salvada-de-colapinto-bajo-la-lluvia-en-el-gp-de-las-vegas-de-la-formula-1-id772272.html",
+          "image": "https://media.tycsports.com/files/2026/11/19/1006118/franco-colapinto-alpine-salvada_862x485.webp?v=1",
+          "body": "En una sesión de prácticas libres donde ningún piloto marcó un tiempo de vuelta por las malas condiciones de pista, el argentino probó el estado del circuito y logró evitar un duro accidente.\n\nLa salvada de Franco Colapinto en la práctica libre 1 del Gran Premio de Las Vegas de la Fórmula 1. + Seguinos en La primera práctica libre del Gran Premio de Las Vegas de la Fórmula 1 tuvo a la lluvia como su protagonista , un diluvio en el desierto de Nevada que generó condiciones complejas en pista sobre las cuales Franco Colapinto tuvo una gran salvada para evitar un accidente cuando el reloj marcó el final de la sesión.\n\nPese a ser uno de los lugares más áridos en todo Estados Unidos, precipitaciones estuvieron presentes para el comienzo de las acciones del antepenúltimo fin de semana de la categoría reina del automovilismo en la temporada 2026. El trazado se vio afectado de gran manera y ninguno de los 22 pilotos logró marcar un tiempo de vuelta .\n\nYa sin chances de anotar un registro, los dos Alpine salieron a pista y vivieron en carne propia las complejidades en el inicio de las acciones , con Colapinto llevándose todas las miradas con su maniobra para evitar un accidente al sufrir \"aquaplaning\"; cuando los neumáticos pierden adherencia con el asfalto producto del agua.\n\nEn medio de la recta opuesta del circuito previa el argentino se vio obligado a meter un oportuno volantazo para evitar que su monoplaza se estrelle contra la barrera de protección al perder el control de sus ruedas traseras y encontrarse perpendicular a la pared.",
           "language": "es",
-          "publishedAt": "2026-11-18T21:56:19.000Z",
-          "addedAt": "2026-11-18T23:09:20.651Z",
+          "publishedAt": "2026-11-20T02:28:07.000Z",
+          "addedAt": "2026-11-20T03:01:29.459Z",
           "category": "argentino",
           "tag": "Franco"
         }
@@ -3295,7 +3295,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-11-26T23:20:24.184Z",
+      "createdAt": "2026-11-27T05:13:16.463Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-checo-perez-sancion-formula-1-gp-de-qatar-id772575-html",
@@ -3571,7 +3571,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-11-26T23:20:24.184Z",
+      "createdAt": "2026-11-27T05:13:16.463Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-mexico-id768545-html",
@@ -3662,6 +3662,21 @@
           "addedAt": "2026-10-22T11:40:44.470Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-la-prediccion-de-la-ia-sobre-el-resultado-de-franco-colapinto-en-el-gp-de-las-vegas-de-l",
+          "title": "La predicción de la IA sobre el resultado de Franco Colapinto en el GP de Las Vegas de la Fórmula 1",
+          "summary": "El piloto argentino tiene por delante una nueva fecha en la máxima y buscará cortar una racha de seis carreras sin sumar puntos.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-prediccion-de-la-ia-sobre-el-resultado-de-franco-colapinto-en-el-gp-de-las-vegas-de-la-formula-1-id772063.html",
+          "image": "https://media.tycsports.com/files/2026/11/05/1003067/franco-colapinto_1440x810.webp",
+          "body": "El piloto argentino tiene por delante una nueva fecha en la máxima y buscará cortar una racha de seis carreras sin sumar puntos.\n\nFranco Colapinto tiene por delante el GP de Las Vegas + Seguinos en Franco Colapinto tiene por delante la vigesimotercera fecha de la temporada 2026 de la Fórmula 1. El piloto argentino correrá con Alpine en el Gran Premio de Las Vegas y la inteligencia artificial pronosticó el resultado del pilarense en Estados Unidos.\n\nSegún ChatGPT, Colapinto finalizará entre los puestos 11 y 14 en el circuito callejero, con el 12° lugar como resultado más probable. El piloto argentino afrontará una nueva jornada en la máxima, donde buscará cortar una racha de seis carreras consecutivas sin sumar puntos. En su última presentación, finalizó 13° en Brasil.\n\nEl trazado de Las Vegas presenta características particulares que pueden influir en el rendimiento de la escudería. Con 6.201 metros de extensión, 17 curvas y tres largas rectas , la pista exige un buen equilibrio aerodinámico para alcanzar velocidades competitivas sin perder estabilidad en las zonas de frenada. Uno de los principales desafíos para Colapinto será conseguir que los neumáticos alcancen su temperatura ideal de funcionamiento. Las bajas temperaturas durante las sesiones nocturnas pueden dificultar ese proceso y condicionar el rendimiento del auto, especialmente en la clasificación. Para esta competencia, Pirelli seleccionó los compuestos C3, C4 y C5.\n\nEs la tercera vez que el argentino disputará este trazado: en 2024, cuando corría para Williams, terminó en el 14° puesto, mientras que en 2025, en su primera temporada con Alpine, finalizó 15°. Ahora tendrá una nueva oportunidad para mejorar esos resultados y acercarse a la zona de puntos.",
+          "language": "es",
+          "publishedAt": "2026-11-18T21:56:19.000Z",
+          "addedAt": "2026-11-18T23:09:20.651Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-anticipo-el-desafio-interesante-que-enfrentara-alpine-en-el-gran-premio-de-las",
@@ -3827,7 +3842,13 @@
           "addedAt": "2026-11-01T16:13:46.297Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-11-27T05:13:16.463Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159-h",
           "title": "Cómo le fue a Franco Colapinto en la FP3 del Gran Premio de México de Fórmula 1",
@@ -3842,13 +3863,7 @@
           "addedAt": "2026-10-29T13:44:51.131Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-11-26T23:20:24.184Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-colapinto-mexico-gp-f1-amigos-relacion-grilla-temporada-2026-checo-perez-hamilton-versta",
           "title": "Colapinto reveló cuál es su único amigo en la Fórmula 1 y con quiénes tiene una relación más cercana",
@@ -3861,21 +3876,6 @@
           "language": "es",
           "publishedAt": "2026-10-30T18:15:24.000Z",
           "addedAt": "2026-10-30T20:41:25.987Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-confirmado-con-que-pilotos-correra-cada-equipo-de-formula-1-en-la-temporada-2027",
-          "title": "Confirmado: ¿Con qué pilotos correra cada equipo de Fórmula 1 en la temporada 2027?",
-          "summary": "Franco Colapinto y Pierre Gasly analizan a los rivales que tendrá el equipo Alpine F1 Team dentro del campeonato de Fórmula 1 de 2027.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/confirmado-con-que-pilotos-correra-cada-equipo-de-formula-1-en-la-temporada-2027/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260905-F1-Colapinto-Gasly.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-26T11:30:31.000Z",
-          "addedAt": "2026-11-26T14:30:19.603Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3985,6 +3985,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-confirmado-con-que-pilotos-correra-cada-equipo-de-formula-1-en-la-temporada-2027",
+          "title": "Confirmado: ¿Con qué pilotos correra cada equipo de Fórmula 1 en la temporada 2027?",
+          "summary": "Franco Colapinto y Pierre Gasly analizan a los rivales que tendrá el equipo Alpine F1 Team dentro del campeonato de Fórmula 1 de 2027.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/confirmado-con-que-pilotos-correra-cada-equipo-de-formula-1-en-la-temporada-2027/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260905-F1-Colapinto-Gasly.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-26T11:30:31.000Z",
+          "addedAt": "2026-11-26T14:30:19.603Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "campeones-com-ar-en-la-noche-de-las-vegas-colapinto-clasifico-decimo-con-el-alpine-de-f1",
           "title": "En la noche de Las Vegas, Colapinto clasificó décimo con el Alpine de F1",
           "summary": "Otra alentadora labor cumplió el piloto argentino que, con el equipo de Enstone, se mantiene en el Top10 en el circuito callejero y largará noveno; el campeón Antonelli sorprendió y consiguió la \"pole\".",
@@ -3996,21 +4011,6 @@
           "language": "es",
           "publishedAt": "2026-11-21T15:06:49.000Z",
           "addedAt": "2026-11-21T08:12:17.996Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-colapinto-quedo-9-cumpliendo-solo-media-hora-en-la-practica-2-del-gp-de-las-vegas-de-f1",
-          "title": "Colapinto quedó 8.° cumpliendo solo media hora en la Práctica 2 del GP de Las Vegas de F1",
-          "summary": "La escudería Alpine aguardó 30 minutos para salir a girar en la ventosa tanda nocturna con el piloto argentino y su compañero Gasly, que escoltó a Russell.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/colapinto-quedo-9-cumpliendo-solo-media-hora-en-la-practica-2-del-gp-de-las-vegas-de-f1/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261120-F1-LV-Colapinto.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-20T05:05:45.000Z",
-          "addedAt": "2026-11-20T11:23:02.795Z",
           "category": "argentino",
           "tag": "Franco"
         },
