@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-28T04:58:44.222Z",
-  "checkedAt": "2026-11-28T04:58:44.222Z",
+  "updatedAt": "2026-11-28T14:05:16.965Z",
+  "checkedAt": "2026-11-28T14:05:16.965Z",
   "pageSize": 18,
   "sources": [
     {
@@ -40,34 +40,19 @@
   },
   "backlog": [
     {
-      "id": "campeones-com-ar-con-el-alpine-colapinto-cerro-la-noche-qatari-de-f1-siendo-15",
-      "title": "Con el Alpine, Colapinto cerró la noche qatarí de F1 siendo 15.°",
-      "summary": "El argentino siguió enfocado en la puesta a punto del A526 en la pista de Losail; su compañero Gasly se despistó y Antonelli volvió a encabezar con Mercedes.",
+      "id": "campeones-com-ar-moto3-perrone-y-morelli-fueron-13-y-24-antes-de-clasificar-en-valencia",
+      "title": "Moto3: Perrone y Morelli fueron 13° y 24° antes de clasificar en Valencia",
+      "summary": "Los representantes argentinos, que compiten con KTM, disputaron en el “Ricardo Tormo” los libres 2, instancia que quedó en poder de Álvaro Carpe, escoltado por Almansa y Quiles.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/con-el-alpine-colapinto-cerro-la-noche-qatari-de-f1-siendo-15/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261127-F1-Colapinto-Alpine.jpg",
+      "url": "https://campeones.com.ar/moto3-perrone-y-morelli-fueron-13-y-24-antes-de-clasificar-en-valencia/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/morelli-valencia-moto3.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-27T18:18:14.000Z",
-      "addedAt": "2026-11-27T23:36:40.765Z",
+      "publishedAt": "2026-11-28T09:21:22.000Z",
+      "addedAt": "2026-11-28T14:05:22.224Z",
       "category": "argentino",
-      "tag": "Franco"
-    },
-    {
-      "id": "campeones-com-ar-los-inconvenientes-del-alpine-que-afectaron-el-desempeno-de-colapinto",
-      "title": "Los inconvenientes del Alpine que afectaron el desempeño de Colapinto",
-      "summary": "Durante la segunda práctica del GP de Qatar, el piloto argentino no pudo destacarse debido a inconvenientes con los frenos y la energía.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/los-inconvenientes-del-alpine-que-afectaron-el-desempeno-de-colapinto/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261127-F1-Colapinto.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-27T20:24:23.000Z",
-      "addedAt": "2026-11-27T23:36:41.717Z",
-      "category": "argentino",
-      "tag": "Franco"
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-scalabroni-encuentra-la-virtud-en-briatore-le-cambio-la-cabeza-a-colapinto",
@@ -98,21 +83,6 @@
       "addedAt": "2026-11-21T21:44:48.341Z",
       "category": "argentino",
       "tag": "Franco"
-    },
-    {
-      "id": "campeones-com-ar-los-ingenieros-palpitan-la-gran-definicion-del-tn",
-      "title": "Los ingenieros de Canapino y Santero palpitan la gran definición del TN C3 | Campeones",
-      "summary": "En Viedma, Guillermo Cruzzetti y Marcelo Ambrogio, encargados de los autos de Agustín Canapino y Julián Santero, nos cuentan cómo palpitan el coronación de la Clase 3.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/los-ingenieros-palpitan-la-gran-definicion-del-tn/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Canapino-Santero-Podio-TN-2026.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-27T23:32:05.000Z",
-      "addedAt": "2026-11-27T23:36:41.232Z",
-      "category": "argentino",
-      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-el-momento-de-mayor-riesgo-que-tuvo-colapinto-en-el-gp-de-las-vegas",
@@ -205,17 +175,17 @@
       "tag": "Franco"
     },
     {
-      "id": "campeones-com-ar-canapino-vs-santero-el-primer-mano-a-mano-en-el-tn-clase-3-desde-2019",
-      "title": "Canapino vs. Santero: el primer “mano a mano” en el TN Clase 3 desde 2019",
-      "summary": "Antes de llegar a La Plata como principales candidatos al campeonato de Turismo Carretera, el arrecifeño y el mendocino coincidirán en la definición de un título por primera vez en los 12 años que llevan como rivales.",
+      "id": "campeones-com-ar-los-ingenieros-palpitan-la-gran-definicion-del-tn",
+      "title": "Los ingenieros de Canapino y Santero palpitan la gran definición del TN C3 | Campeones",
+      "summary": "En Viedma, Guillermo Cruzzetti y Marcelo Ambrogio, encargados de los autos de Agustín Canapino y Julián Santero, nos cuentan cómo palpitan el coronación de la Clase 3.",
       "source": "Campeones",
       "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/canapino-vs-santero-el-primer-mano-a-mano-en-el-tn-clase-3-desde-2019/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Santero-Canapino-TN-Obera-2026.jpg",
+      "url": "https://campeones.com.ar/los-ingenieros-palpitan-la-gran-definicion-del-tn/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Canapino-Santero-Podio-TN-2026.jpg",
       "body": "",
       "language": "es",
-      "publishedAt": "2026-11-27T12:44:14.000Z",
-      "addedAt": "2026-11-27T15:24:27.675Z",
+      "publishedAt": "2026-11-27T23:32:05.000Z",
+      "addedAt": "2026-11-27T23:36:41.232Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -310,19 +280,19 @@
       "tag": "F1"
     },
     {
-      "id": "www-tycsports-com-automovilismo-formula-1-las-vegas-clasificacion-antonello-pole-penalizacion-verstappen-id772467-html",
-      "title": "F1: La \"avivada\" de Kimi Antonelli que le dio la pole en una infartante qualy en Las Vegas",
-      "summary": "Cuando todos peleaban por el rebufo, el campeón del mundo los dejó pasar a todos y terminó siendo el último en cerrar la clasificación. Antes, sufrió para poder abrir la última vuelta.",
-      "source": "TyC Sports",
-      "sourceLabel": "TyC Sports",
-      "url": "https://www.tycsports.com/automovilismo/formula-1-las-vegas-clasificacion-antonello-pole-penalizacion-verstappen-id772467.html",
-      "image": "https://media.tycsports.com/files/2026/11/21/1006418/la-increible-imagen-en-la-q3-del-gran-premio-de-las-vegas-de-f1_862x485.webp",
-      "body": "Cuando todos peleaban por el rebufo, el campeón del mundo los dejó pasar a todos y terminó siendo el último en cerrar la clasificación. Antes, sufrió para poder abrir la última vuelta.\n\nLa increíble imagen en la Q3 del Gran Premio de Las Vegas de F1 + Seguinos en Kimi Antonelli (Mercedes) se quedó con el tiempo más rápido en la clasificación del Gran Premio de La Vegas de Fórmula 1 , pero el campeón del mundo no partirá desde la pole debido a que tendrá que cumplir una penalización de cinco puestos por haber utilizado su sexto motor de combustión interna.\n\nAntonelli fue uno de los cinco pilotos que sufrieron alguna sanción y le permitió \"heredar\" la pole a Max Verstappen (Red Bull), quien partirá en la primera fila junto a George Russell (Mercedes).\n\nUna \"avivada\", que por poco le sale muy mal, le permitió a Antoneli quedarse con el mejor tiempo en uan caótica definición de la clasificación, en la que todos los pilotos buscaban una succión clave en el complicado trazado de Las Vegas para ganar décimas valiosas.\n\nLos dos autos de Red Bull salieron adelante en la última parte de la qualy, los siguieron los dos McLaren y en el cierre se dio el gran espectáculo entre los Mercedes, lo Racing Bulls y los Alpine, uno de ellos al mando de Franco Colapinto.",
+      "id": "campeones-com-ar-canapino-vs-santero-el-primer-mano-a-mano-en-el-tn-clase-3-desde-2019",
+      "title": "Canapino vs. Santero: el primer “mano a mano” en el TN Clase 3 desde 2019",
+      "summary": "Antes de llegar a La Plata como principales candidatos al campeonato de Turismo Carretera, el arrecifeño y el mendocino coincidirán en la definición de un título por primera vez en los 12 años que llevan como rivales.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/canapino-vs-santero-el-primer-mano-a-mano-en-el-tn-clase-3-desde-2019/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/Santero-Canapino-TN-Obera-2026.jpg",
+      "body": "",
       "language": "es",
-      "publishedAt": "2026-11-21T06:26:18.000Z",
-      "addedAt": "2026-11-21T08:12:15.060Z",
-      "category": "general",
-      "tag": "F1"
+      "publishedAt": "2026-11-27T12:44:14.000Z",
+      "addedAt": "2026-11-27T15:24:27.675Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-ford-presenta-el-gt41-el-hypercar-con-el-que-correra-en-el-wec-en-2027",
@@ -351,21 +321,6 @@
       "language": "es",
       "publishedAt": "2026-11-25T15:48:19.000Z",
       "addedAt": "2026-11-25T22:48:29.202Z",
-      "category": "argentino",
-      "tag": "Argentino"
-    },
-    {
-      "id": "campeones-com-ar-tc-fain-ya-tiene-el-cambio-de-equipo-y-marca-para-el-2027",
-      "title": "TC: Fain ya tiene el cambio de equipo y marca para el 2027 | Campeones",
-      "summary": "La CAF de la ACTC aprobó el pase de Torino a Ford y del equipo de Trotta Racing al Galarza Racing para el año venidero.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc-fain-ya-tiene-el-cambio-de-equipo-y-marca-para-el-2027/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2610021-TC-Fain.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-25T12:45:52.000Z",
-      "addedAt": "2026-11-25T13:32:18.652Z",
       "category": "argentino",
       "tag": "Argentino"
     },
@@ -413,6 +368,21 @@
       "addedAt": "2026-11-07T02:05:47.823Z",
       "category": "argentino",
       "tag": "Franco"
+    },
+    {
+      "id": "campeones-com-ar-tc-fain-ya-tiene-el-cambio-de-equipo-y-marca-para-el-2027",
+      "title": "TC: Fain ya tiene el cambio de equipo y marca para el 2027 | Campeones",
+      "summary": "La CAF de la ACTC aprobó el pase de Torino a Ford y del equipo de Trotta Racing al Galarza Racing para el año venidero.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc-fain-ya-tiene-el-cambio-de-equipo-y-marca-para-el-2027/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/10/2610021-TC-Fain.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-25T12:45:52.000Z",
+      "addedAt": "2026-11-25T13:32:18.652Z",
+      "category": "argentino",
+      "tag": "Argentino"
     },
     {
       "id": "campeones-com-ar-stellantis-cesa-su-programa-con-peugeot-en-wec-y-opel-y-citroen-en-formula-e",
@@ -623,36 +593,6 @@
       "addedAt": "2026-10-29T19:15:02.909Z",
       "category": "general",
       "tag": "Carrera"
-    },
-    {
-      "id": "campeones-com-ar-mas-confirmaciones-en-el-mundo-del-tc",
-      "title": "Más confirmaciones en el mundo del TC",
-      "summary": "Mientras se acerca la última fecha del 2026, siguen las definiciones para la temporada 2027 de Turismo Carretera.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/mas-confirmaciones-en-el-mundo-del-tc/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/TCRioCuarto261127.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-27T13:30:51.000Z",
-      "addedAt": "2026-11-27T15:24:27.676Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-marc-marquez-anuncio-su-retiro-de-motogp",
-      "title": "Marc Márquez anunció su retiro de MotoGP",
-      "summary": "Tras conseguir el 8vo título en la categoría máxima y el 10mo del mundial de motociclismo en 19 temporadas disputadas.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/marc-marquez-anuncio-su-retiro-de-motogp/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Marc-Marquez-MotoGP-Box-Ducati.jpg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-27T10:09:13.000Z",
-      "addedAt": "2026-11-27T15:24:28.063Z",
-      "category": "general",
-      "tag": "F1"
     },
     {
       "id": "campeones-com-ar-rafael-camara-deja-la-formula-2-para-cerrar-la-temporada-con-haas-en-f1",
@@ -1165,6 +1105,36 @@
       "tag": "Argentino"
     },
     {
+      "id": "campeones-com-ar-mas-confirmaciones-en-el-mundo-del-tc",
+      "title": "Más confirmaciones en el mundo del TC",
+      "summary": "Mientras se acerca la última fecha del 2026, siguen las definiciones para la temporada 2027 de Turismo Carretera.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/mas-confirmaciones-en-el-mundo-del-tc/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/TCRioCuarto261127.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-27T13:30:51.000Z",
+      "addedAt": "2026-11-27T15:24:27.676Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "campeones-com-ar-marc-marquez-anuncio-su-retiro-de-motogp",
+      "title": "Marc Márquez anunció su retiro de MotoGP",
+      "summary": "Tras conseguir el 8vo título en la categoría máxima y el 10mo del mundial de motociclismo en 19 temporadas disputadas.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/marc-marquez-anuncio-su-retiro-de-motogp/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/09/Marc-Marquez-MotoGP-Box-Ducati.jpg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-27T10:09:13.000Z",
+      "addedAt": "2026-11-27T15:24:28.063Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-viedma-cierre-de-2026-con-tn-en-marzo-de-2027-tc-y-espera-por-turismo-pista",
       "title": "Viedma: cierre de 2026 con TN; en marzo de 2027 TC y espera por Turismo Pista",
       "summary": "Quien encabeza la administración del consorcio del autodrómo rionegrino, Augusto Rochet detalló en Campeones sobre el cierre de la temporada de TN y cómo planifican la temporada 2027.",
@@ -1251,6 +1221,21 @@
       "language": "es",
       "publishedAt": "2026-11-03T20:00:56.000Z",
       "addedAt": "2026-11-04T00:03:31.837Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
+      "id": "www-tycsports-com-automovilismo-formula-1-las-vegas-clasificacion-antonello-pole-penalizacion-verstappen-id772467-html",
+      "title": "F1: La \"avivada\" de Kimi Antonelli que le dio la pole en una infartante qualy en Las Vegas",
+      "summary": "Cuando todos peleaban por el rebufo, el campeón del mundo los dejó pasar a todos y terminó siendo el último en cerrar la clasificación. Antes, sufrió para poder abrir la última vuelta.",
+      "source": "TyC Sports",
+      "sourceLabel": "TyC Sports",
+      "url": "https://www.tycsports.com/automovilismo/formula-1-las-vegas-clasificacion-antonello-pole-penalizacion-verstappen-id772467.html",
+      "image": "https://media.tycsports.com/files/2026/11/21/1006418/la-increible-imagen-en-la-q3-del-gran-premio-de-las-vegas-de-f1_862x485.webp",
+      "body": "Cuando todos peleaban por el rebufo, el campeón del mundo los dejó pasar a todos y terminó siendo el último en cerrar la clasificación. Antes, sufrió para poder abrir la última vuelta.\n\nLa increíble imagen en la Q3 del Gran Premio de Las Vegas de F1 + Seguinos en Kimi Antonelli (Mercedes) se quedó con el tiempo más rápido en la clasificación del Gran Premio de La Vegas de Fórmula 1 , pero el campeón del mundo no partirá desde la pole debido a que tendrá que cumplir una penalización de cinco puestos por haber utilizado su sexto motor de combustión interna.\n\nAntonelli fue uno de los cinco pilotos que sufrieron alguna sanción y le permitió \"heredar\" la pole a Max Verstappen (Red Bull), quien partirá en la primera fila junto a George Russell (Mercedes).\n\nUna \"avivada\", que por poco le sale muy mal, le permitió a Antoneli quedarse con el mejor tiempo en uan caótica definición de la clasificación, en la que todos los pilotos buscaban una succión clave en el complicado trazado de Las Vegas para ganar décimas valiosas.\n\nLos dos autos de Red Bull salieron adelante en la última parte de la qualy, los siguieron los dos McLaren y en el cierre se dio el gran espectáculo entre los Mercedes, lo Racing Bulls y los Alpine, uno de ellos al mando de Franco Colapinto.",
+      "language": "es",
+      "publishedAt": "2026-11-21T06:26:18.000Z",
+      "addedAt": "2026-11-21T08:12:15.060Z",
       "category": "general",
       "tag": "F1"
     },
@@ -1551,21 +1536,6 @@
       "language": "es",
       "publishedAt": "2026-11-21T14:37:39.000Z",
       "addedAt": "2026-11-21T16:17:02.828Z",
-      "category": "general",
-      "tag": "F1"
-    },
-    {
-      "id": "campeones-com-ar-tc2000-lucas-carabajal-establecio-la-primera-marca-en-el-retorno-a-olavarria",
-      "title": "TC2000: Lucas Carabajal estableció la primera marca en el retorno a Olavarría",
-      "summary": "Tras dos décadas, la categoría volvió a transitar el autódromo \"Hermanos Emiliozzi\" en donde el más veloz fue el chaqueño con el VW Nivus.",
-      "source": "Campeones",
-      "sourceLabel": "Campeones",
-      "url": "https://campeones.com.ar/tc2000-lucas-carabajal-establecio-la-primera-marca-en-el-retorno-a-olavarria/",
-      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261121-TC2000-Carabajal.jpeg",
-      "body": "",
-      "language": "es",
-      "publishedAt": "2026-11-21T12:45:51.000Z",
-      "addedAt": "2026-11-21T16:17:01.271Z",
       "category": "general",
       "tag": "F1"
     },
@@ -2635,6 +2605,21 @@
       "tag": "F1"
     },
     {
+      "id": "campeones-com-ar-tc2000-lucas-carabajal-establecio-la-primera-marca-en-el-retorno-a-olavarria",
+      "title": "TC2000: Lucas Carabajal estableció la primera marca en el retorno a Olavarría",
+      "summary": "Tras dos décadas, la categoría volvió a transitar el autódromo \"Hermanos Emiliozzi\" en donde el más veloz fue el chaqueño con el VW Nivus.",
+      "source": "Campeones",
+      "sourceLabel": "Campeones",
+      "url": "https://campeones.com.ar/tc2000-lucas-carabajal-establecio-la-primera-marca-en-el-retorno-a-olavarria/",
+      "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261121-TC2000-Carabajal.jpeg",
+      "body": "",
+      "language": "es",
+      "publishedAt": "2026-11-21T12:45:51.000Z",
+      "addedAt": "2026-11-21T16:17:01.271Z",
+      "category": "general",
+      "tag": "F1"
+    },
+    {
       "id": "campeones-com-ar-mario-valle-el-lider-de-la-tarde-rafaelina-en-el-turismo-carretera-2000",
       "title": "Mario Valle, el líder de la tarde rafaelina en el Turismo Carretera 2000 | Campeones",
       "summary": "La categoría entrenó por duplicado en el \"Óvalo\" con las tres chicanas, donde se presenta por primera vez.",
@@ -2738,12 +2723,27 @@
       "addedAt": "2026-11-28T04:58:45.575Z",
       "category": "argentino",
       "tag": "Argentino"
+    },
+    {
+      "id": "carburando-com-ar-blog-la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-encara-a-todo",
+      "title": "La mentalidad de Ignacio Faín: “Estas cinco carreras uno las encara a todo o nada”",
+      "summary": "El piloto de Junín debuta en la Copa de Oro del Turismo Carretera y explica cómo cambia el chip cuando llega la fase decisiva del campeonato. Análisis…",
+      "source": "Carburando",
+      "sourceLabel": "Carburando",
+      "url": "https://carburando.com.ar/blog/la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-encara-a-todo",
+      "image": "https://carburando.com.ar/covers/22/la-mentalidad-de-ignacio-fain-estas-cinco-carreras-uno-las-e-23080.webp",
+      "body": "El piloto de Junín debuta en la Copa de Oro del Turismo Carretera y explica cómo cambia el chip cuando llega la fase decisiva del campeonato. Análisis de su preparación y objetivos para las cinco finales.\n\nIgnacio Faín encara su primera Copa de Oro del Turismo Carretera con la convicción de que las cinco carreras finales se disputan de manera distinta al resto del año. “Estas cinco carreras uno las encara a todo o nada”, afirma el piloto de Junín, que clasificó a la instancia decisiva tras una temporada regular sólida con el Chevrolet del equipo de José Savino.\n\nEn el TC, la Copa de Oro representa el momento donde el campeonato se reinicia con un nuevo formato. Los doce clasificados llegan con el puntaje reseteado y solo cuentan los puntos que se sumen en las cinco fechas restantes. Esa particularidad obliga a cambiar la mentalidad: ya no alcanza con sumar de a poco, hay que ir por las victorias o al menos por podios consistentes si se quiere pelear el título.\n\nFaín llega con experiencia acumulada en la categoría, pero reconoce que debutar en la Copa implica un salto. Durante la fase regular se prioriza la regularidad, evitar abandonos y acumular la mayor cantidad de puntos posible para entrar entre los doce. Una vez adentro, el enfoque pasa a ser más agresivo. “Hay que tener el auto para pelear adelante todas las fechas y no cometer errores”, explica.\n\nDesde el punto de vista técnico, su equipo trabajó en la puesta a punto pensando en circuitos que se vienen: mezcla de autódromos rápidos y semipermanentes donde el grip y la confiabilidad del motor V8 serán claves. El Chevrolet ya demostró velocidad en varias carreras, pero ahora la exigencia es mantener ese nivel sin fisuras durante las cinco finales.",
+      "language": "es",
+      "publishedAt": "2026-09-11T20:50:23.000Z",
+      "addedAt": "2026-11-28T14:05:18.440Z",
+      "category": "argentino",
+      "tag": "Argentino"
     }
   ],
   "pages": [
     {
       "page": 1,
-      "createdAt": "2026-11-28T04:58:53.038Z",
+      "createdAt": "2026-11-28T14:05:32.891Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-qatar-id772757-ht",
@@ -2761,21 +2761,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-las-vegas-id771970",
-          "title": "Antonelli fue el más rápido, Verstappen largará primero y Colapinto terminó 10° en la clasificación del GP de Las Vegas",
-          "summary": "El piloto argentino consiguió meterse en la Q3 y terminó entre los diez mejores con su Alpine. El italiano de Mercedes se quedó con el mejor tiempo, por delante de Max Verstappen y George Russell. De todas formas, el italiano largará sexto por penalizaciones.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-las-vegas-id771970.html",
-          "image": "https://media.tycsports.com/files/2026/11/05/1003130/franco-colapinto_1440x810.webp",
-          "body": "El piloto argentino consiguió meterse en la Q3 y terminó entre los diez mejores con su Alpine. El italiano de Mercedes se quedó con el mejor tiempo, por delante de Max Verstappen y George Russell. De todas formas, el italiano largará sexto por penalizaciones.\n\nFranco Colapinto (Getty Images: Clive Rose). + Seguinos en Franco Colapinto tuvo una destacada actuación en la clasificación del Gran Premio de Las Vegas y terminó décimo con su Alpine, después de conseguir el pase a la Q3. El argentino, que partirá noveno por la penalización de Oscar Piastri, logró meterse entre los diez mejores en el circuito callejero estadounidense, mientras que Kimi Antonelli se quedó con la pole position, seguido por Max Verstappen (Red Bull) y George Russell (Mercedes). De todas formas, el italiano tiene una penalización de cinco lugares, por lo que empezará sexto y el neerlandes será el máximo beneficiado. La gran sorpresa de la jornada fue la eliminación de los dos Ferrari en la Q2, que dejó a Charles Leclerc y Lewis Hamilton fuera de la pelea por los primeros puestos.\n\nColapinto llegó a la clasificación con buenas sensaciones después de haber terminado quinto en la tercera práctica libre, una de sus mejores actuaciones del fin de semana. El piloto argentino consiguió trasladar ese rendimiento a la sesión decisiva y superó los dos primeros cortes para disputar la Q3, en la que finalmente ocupó la décima posición. El resultado le permitirá afrontar la carrera del domingo con posibilidades de pelear por sus primeros puntos en varias semanas .\n\nLa definición quedó en manos de Antonelli, quien consiguió imponerse en una sesión exigente sobre el trazado urbano de Las Vegas . El italiano superó a Verstappen y a su compañero Russell, quienes completaron los tres primeros lugares de la clasificac",
-          "language": "es",
-          "publishedAt": "2026-11-21T05:28:00.000Z",
-          "addedAt": "2026-11-19T21:49:49.084Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "www-tycsports-com-automovilismo-colapinto-revelo-por-que-se-subio-con-el-casco-al-avion-id773074-html",
           "title": "Colapinto reveló por qué se subió al avión con el casco de F1 en la mano",
           "summary": "En la previa del Gran Premio de Catar, el argentino brindó detalles sobre las imágenes que se viralizaron en redes en las que se lo veía en un vuelo comercial para retirarse de Las Vegas.",
@@ -2787,51 +2772,6 @@
           "language": "es",
           "publishedAt": "2026-11-26T18:47:36.000Z",
           "addedAt": "2026-11-26T23:20:15.605Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-sainz-enojado-con-colapinto-tras-un-cruce-en-qatar-voy-a-tener-que-hablar-con-el-f1-form",
-          "title": "Sainz, enojado con Colapinto tras un cruce en Qatar: \"Voy a tener que hablar con él\"",
-          "summary": "El español apuntó contra el piloto argentino después de un encontronazo entre ambos durante los entrenamientos libres de la Fórmula 1.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/sainz-enojado-con-colapinto-tras-un-cruce-en-qatar-voy-a-tener-que-hablar-con-el-f1-formula-1--id773315.html",
-          "image": "https://media.tycsports.com/files/2026/11/27/1007974/carlos-sainz_1440x810.webp?v=1",
-          "body": "El español apuntó contra el piloto argentino después de un encontronazo entre ambos durante los entrenamientos libres de la Fórmula 1.\n\nCarlos Sainz apuntó contra Colapinto tras las prácticas libres del GP de Qatar + Seguinos en Carlos Sainz apuntó contra Franco Colapinto después de un encontronazo entre ambos durante los entrenamientos libres del Gran Premio de Qatar de Fórmula 1. El español se mostró molesto por la maniobra del argentino, con quien ya había tenido situaciones similares en otras jornadas de viernes, y lanzó una advertencia: “Puede ser que tenga que hablar con él”.\n\nEl piloto de Williams explicó que no entiende el comportamiento de Colapinto durante las prácticas y cuestionó su manera de competir. “Ya van un par de viernes en los que Franco se comporta de forma un poco complicada conmigo. No entiendo qué hace los viernes, porque corre como si fuera domingo; supongo que es cosa de la juventud” , expresó el español.\n\nEl cruce se produjo cuando ambos pilotos tuvieron un toque de ruedas en la pista de Lusail. Fue el segundo contratiempo que sufrió Sainz durante la jornada, luego de una salida de pista en la última curva cuando intentaba cerrar su mejor vuelta con neumáticos blandos. Más allá de los incidentes, el español terminó 16° en la seginda práctica y encontró algunos aspectos positivos en el rendimiento de su monoplaza. “La realidad es que, si hubiésemos logrado completar bien las vueltas, quizás hubiéramos sido algo más competitivos de lo esperado, pero nos está costando cerrar esas vueltas” , analizó. Por su parte, el argentino finalizó en el puesto 12° y 15°.\n\nEn ese sentido, reconoció que esperaba un resultado más discreto y valoró el potencial mostrado por Williams: “Esperaba estar entre el 17.º y el 19.º puesto y al final, estamos más bien en l",
-          "language": "es",
-          "publishedAt": "2026-11-27T21:15:40.000Z",
-          "addedAt": "2026-11-27T23:36:39.640Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-el-blooper-de-colapinto-antes-del-gp-de-qatar-no-es-lo-suficientemente-fuerte-id773213-h",
-          "title": "El blooper de Colapinto antes del GP de Qatar: “No es lo suficientemente fuerte”",
-          "summary": "El argentino participó de una actividad de Alpine con un aro de básquet pero en su intento de hacer una volcada casi sufre un duro golpe.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/el-blooper-de-colapinto-antes-del-gp-de-qatar-no-es-lo-suficientemente-fuerte-id773213.html",
-          "image": "https://media.tycsports.com/files/2026/11/27/1007962/franco-colapinto-alpine-blooper_416x234.webp",
-          "body": "El argentino participó de una actividad de Alpine con un aro de básquet pero en su intento de hacer una volcada casi sufre un duro golpe.\n\nEl blooper de Colapinto al jugar al básquet antes del Gran Premio de Qatar + Seguinos en Franco Colapinto se llevó todas las miradas en la previa a las dos sesiones de entrenamientos libres del Gran Premio de Qatar de la Fórmula 1 por un insólito video que publicó Alpine en sus redes sociales , en el cual protagonizó un blooper al jugar al básquet y buscar hacer una volcada.\n\nDurante las actividades del jueves en el Circuito Internacional de Lusail donde se vivió el media day al anteúltimo fin de semana de la categoría en la temporada, los dos pilotos de la escudería de origen francés y con base en Enstone formaron parte de una actividad junto Luol Deng (exjugador de Chicago Bulls y Los Angeles Lakers en la NBA) anticipando el Mundial de Basquet , el cual tendrá lugar en el país arábigo el próximo año.\n\nGasly acertó sus tres intentos pero Colapinto fue a más y buscó hacer una volcada , la cual falló desde un primer momento al perder el control de la pelota y quedar colgado a un aro que no estaba clavado; por lo que se desprendió y casi cae sobre su cabeza .\n\nAfortunadamente, el argentino dejó en evidencia sus reflejos y rápidamente soltó el aro, ya que de no haberlo hecho podría haber protagonizado una muy dura caida y bromeó al respecto: “No es lo suficientemente fuerte” .",
-          "language": "es",
-          "publishedAt": "2026-11-27T20:44:38.000Z",
-          "addedAt": "2026-11-27T23:36:39.765Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-colapinto-disconforme-post-practicas-gp-de-catar-id773206-html",
-          "title": "Colapinto, disconforme con el rendimiento del Alpine en las prácticas del GP de Qatar: “No fue un buen día”",
-          "summary": "El piloto argentino terminó 12° y 15° en las dos sesiones de entrenamientos de este viernes y dejó en claro que, en conjunto con el equipo, deberán corregir muchos aspectos del auto para el resto del fin de semana.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/colapinto-disconforme-post-practicas-gp-de-catar-id773206.html",
-          "image": "https://media.tycsports.com/files/2026/11/27/1007956/colapinto_1440x810.webp?v=1",
-          "body": "El piloto argentino terminó 12° y 15° en las dos sesiones de entrenamientos de este viernes y dejó en claro que, en conjunto con el equipo, deberán corregir muchos aspectos del auto para el resto del fin de semana.\n\nFranco Colapinto, disconforme con el rendimiento del Alpine en las prácticas del GP de Qatar. (Getty Images) + Seguinos en Franco Colapinto se mostró disconforme con el rendimiento de su Alpine en las prácticas libres del Gran Premio de Qatar de Fórmula 1. El piloto argentino se ubicó 12° en la FP1 y 15° en la FP2 y dejó en claro que este viernes “no fue un buen día”.\n\n“Tuvimos problemas con los frenos, con la bandera roja di muy pocas vueltas y en ritmo de carrera tuvimos mucha degradación, así que tenemos mucho por entender hoy a la noche”, sintetizó el pilarense, quien enumeró las dificultades que tuvo con su A526 a lo largo de la jornada.\n\nEl #43 aclaró que no se sintió cómodo con el auto y que, en conjunto con el equipo, deberán “trabajar para mejorar y dar un salto en la qualy de mañana, que es muy importante”. “ No fue particularmente un buen día” , resumió Colapinto en diálogo con ESPN.\n\nEntre risas, el piloto de 23 años también destacó una pequeña batalla que protagonizó en pista con Oscar Piastri durante la FP2, cuando el australiano de McLaren no pudo superarlo: “ En la defensa estamos bien, pero hay que intentar ir un poco más rápido porque si no el domingo se va a complicar”.",
-          "language": "es",
-          "publishedAt": "2026-11-27T20:02:26.000Z",
-          "addedAt": "2026-11-27T23:36:39.795Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -2896,6 +2836,51 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-sainz-enojado-con-colapinto-tras-un-cruce-en-qatar-voy-a-tener-que-hablar-con-el-f1-form",
+          "title": "Sainz, enojado con Colapinto tras un cruce en Qatar: \"Voy a tener que hablar con él\"",
+          "summary": "El español apuntó contra el piloto argentino después de un encontronazo entre ambos durante los entrenamientos libres de la Fórmula 1.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/sainz-enojado-con-colapinto-tras-un-cruce-en-qatar-voy-a-tener-que-hablar-con-el-f1-formula-1--id773315.html",
+          "image": "https://media.tycsports.com/files/2026/11/27/1007974/carlos-sainz_1440x810.webp?v=1",
+          "body": "El español apuntó contra el piloto argentino después de un encontronazo entre ambos durante los entrenamientos libres de la Fórmula 1.\n\nCarlos Sainz apuntó contra Colapinto tras las prácticas libres del GP de Qatar + Seguinos en Carlos Sainz apuntó contra Franco Colapinto después de un encontronazo entre ambos durante los entrenamientos libres del Gran Premio de Qatar de Fórmula 1. El español se mostró molesto por la maniobra del argentino, con quien ya había tenido situaciones similares en otras jornadas de viernes, y lanzó una advertencia: “Puede ser que tenga que hablar con él”.\n\nEl piloto de Williams explicó que no entiende el comportamiento de Colapinto durante las prácticas y cuestionó su manera de competir. “Ya van un par de viernes en los que Franco se comporta de forma un poco complicada conmigo. No entiendo qué hace los viernes, porque corre como si fuera domingo; supongo que es cosa de la juventud” , expresó el español.\n\nEl cruce se produjo cuando ambos pilotos tuvieron un toque de ruedas en la pista de Lusail. Fue el segundo contratiempo que sufrió Sainz durante la jornada, luego de una salida de pista en la última curva cuando intentaba cerrar su mejor vuelta con neumáticos blandos. Más allá de los incidentes, el español terminó 16° en la seginda práctica y encontró algunos aspectos positivos en el rendimiento de su monoplaza. “La realidad es que, si hubiésemos logrado completar bien las vueltas, quizás hubiéramos sido algo más competitivos de lo esperado, pero nos está costando cerrar esas vueltas” , analizó. Por su parte, el argentino finalizó en el puesto 12° y 15°.\n\nEn ese sentido, reconoció que esperaba un resultado más discreto y valoró el potencial mostrado por Williams: “Esperaba estar entre el 17.º y el 19.º puesto y al final, estamos más bien en l",
+          "language": "es",
+          "publishedAt": "2026-11-27T21:15:40.000Z",
+          "addedAt": "2026-11-27T23:36:39.640Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-el-blooper-de-colapinto-antes-del-gp-de-qatar-no-es-lo-suficientemente-fuerte-id773213-h",
+          "title": "El blooper de Colapinto antes del GP de Qatar: “No es lo suficientemente fuerte”",
+          "summary": "El argentino participó de una actividad de Alpine con un aro de básquet pero en su intento de hacer una volcada casi sufre un duro golpe.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/el-blooper-de-colapinto-antes-del-gp-de-qatar-no-es-lo-suficientemente-fuerte-id773213.html",
+          "image": "https://media.tycsports.com/files/2026/11/27/1007962/franco-colapinto-alpine-blooper_416x234.webp",
+          "body": "El argentino participó de una actividad de Alpine con un aro de básquet pero en su intento de hacer una volcada casi sufre un duro golpe.\n\nEl blooper de Colapinto al jugar al básquet antes del Gran Premio de Qatar + Seguinos en Franco Colapinto se llevó todas las miradas en la previa a las dos sesiones de entrenamientos libres del Gran Premio de Qatar de la Fórmula 1 por un insólito video que publicó Alpine en sus redes sociales , en el cual protagonizó un blooper al jugar al básquet y buscar hacer una volcada.\n\nDurante las actividades del jueves en el Circuito Internacional de Lusail donde se vivió el media day al anteúltimo fin de semana de la categoría en la temporada, los dos pilotos de la escudería de origen francés y con base en Enstone formaron parte de una actividad junto Luol Deng (exjugador de Chicago Bulls y Los Angeles Lakers en la NBA) anticipando el Mundial de Basquet , el cual tendrá lugar en el país arábigo el próximo año.\n\nGasly acertó sus tres intentos pero Colapinto fue a más y buscó hacer una volcada , la cual falló desde un primer momento al perder el control de la pelota y quedar colgado a un aro que no estaba clavado; por lo que se desprendió y casi cae sobre su cabeza .\n\nAfortunadamente, el argentino dejó en evidencia sus reflejos y rápidamente soltó el aro, ya que de no haberlo hecho podría haber protagonizado una muy dura caida y bromeó al respecto: “No es lo suficientemente fuerte” .",
+          "language": "es",
+          "publishedAt": "2026-11-27T20:44:38.000Z",
+          "addedAt": "2026-11-27T23:36:39.765Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-colapinto-disconforme-post-practicas-gp-de-catar-id773206-html",
+          "title": "Colapinto, disconforme con el rendimiento del Alpine en las prácticas del GP de Qatar: “No fue un buen día”",
+          "summary": "El piloto argentino terminó 12° y 15° en las dos sesiones de entrenamientos de este viernes y dejó en claro que, en conjunto con el equipo, deberán corregir muchos aspectos del auto para el resto del fin de semana.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/colapinto-disconforme-post-practicas-gp-de-catar-id773206.html",
+          "image": "https://media.tycsports.com/files/2026/11/27/1007956/colapinto_1440x810.webp?v=1",
+          "body": "El piloto argentino terminó 12° y 15° en las dos sesiones de entrenamientos de este viernes y dejó en claro que, en conjunto con el equipo, deberán corregir muchos aspectos del auto para el resto del fin de semana.\n\nFranco Colapinto, disconforme con el rendimiento del Alpine en las prácticas del GP de Qatar. (Getty Images) + Seguinos en Franco Colapinto se mostró disconforme con el rendimiento de su Alpine en las prácticas libres del Gran Premio de Qatar de Fórmula 1. El piloto argentino se ubicó 12° en la FP1 y 15° en la FP2 y dejó en claro que este viernes “no fue un buen día”.\n\n“Tuvimos problemas con los frenos, con la bandera roja di muy pocas vueltas y en ritmo de carrera tuvimos mucha degradación, así que tenemos mucho por entender hoy a la noche”, sintetizó el pilarense, quien enumeró las dificultades que tuvo con su A526 a lo largo de la jornada.\n\nEl #43 aclaró que no se sintió cómodo con el auto y que, en conjunto con el equipo, deberán “trabajar para mejorar y dar un salto en la qualy de mañana, que es muy importante”. “ No fue particularmente un buen día” , resumió Colapinto en diálogo con ESPN.\n\nEntre risas, el piloto de 23 años también destacó una pequeña batalla que protagonizó en pista con Oscar Piastri durante la FP2, cuando el australiano de McLaren no pudo superarlo: “ En la defensa estamos bien, pero hay que intentar ir un poco más rápido porque si no el domingo se va a complicar”.",
+          "language": "es",
+          "publishedAt": "2026-11-27T20:02:26.000Z",
+          "addedAt": "2026-11-27T23:36:39.795Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-la-ilusion-de-colapinto-para-el-gran-premio-de-qatar-esperamos-mantener-el-impulso-id772",
           "title": "La ilusión de Colapinto para el Gran Premio de Qatar: \"Esperamos mantener el impulso\"",
           "summary": "Tras su regreso a la zona de puntos en Las Vegas, el piloto argentino apunta a revalidar su actuación este fin de semana en Lusail.",
@@ -2956,36 +2941,6 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-frustracion-de-colapinto-tras-terminar-decimo-en-la-clasificacion-de-las-vegas-estaba",
-          "title": "La frustración de Colapinto tras terminar décimo en la clasificación de Las Vegas: \"Estábamos para mucho más\"",
-          "summary": "El piloto argentino no se quedó conforme con su rendimiento en la instancia previa a la carrera en Estados Unidos. La temperatura de los neumáticos, un factor que conspiró en su contra.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-frustracion-de-colapinto-tras-terminar-decimo-en-la-clasificacion-de-las-vegas-estabamos-para-mucho-mas-id772468.html",
-          "image": "https://media.tycsports.com/files/2026/11/21/1006421/colapinto-qualy-las-vegas_1440x810.webp",
-          "body": "El piloto argentino no se quedó conforme con su rendimiento en la instancia previa a la carrera en Estados Unidos. La temperatura de los neumáticos, un factor que conspiró en su contra.\n\nColapinto tras su clasificación en Las Vegas (Getty Images). + Seguinos en El final del año se acerca y la vara sube para Franco Colapinto en la Fórmula 1 . Tanto que un décimo puesto en la clasificación de Las Vegas, en otro contexto un resultado más que destacado, fue objeto de la frustración del piloto argentino de Alpine. Y del deseo de ir por más en la carrera, que se disputará este domingo a la 1.00.\n\n\"Conforme no estoy, obviamente, porque estábamos para mucho más. Es una pena haber quedado tan atrás en la Q3 porque estábamos competitivos, pero siento que en ningún momento de la clasificación pusimos el auto a punto\" , analizó el oriundo de Pilar, cuya actuación estuvo condicionada por una puesta a punto deficitaria de los neumáticos.\n\nEn relación a este inconvienente, Colapinto disparó: \"Las gomas, muy frías, no entraban en temperatura. Es un desastre. Una pena porque el potencial estaba, pero habrá que avanzar en la carrera\" . La declaración de Franco deja en claro que un correcto estado de las cuatro lo podría haber llevado a luchar mucho más arriba.\n\nSin embargo, también reflexionó positivamente sobre el rendimiento del A526 en las curvas: \"Tenemos buena velocidad en las rectas, lo cual es positivo. Hay que intentar poner todo junto y vamos a hacer una buena carrera, sobre todo si tenemos una buena largada\".",
-          "language": "es",
-          "publishedAt": "2026-11-21T10:54:58.000Z",
-          "addedAt": "2026-11-21T16:16:58.904Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "www-tycsports-com-automovilismo-el-despiste-de-pierre-gasly-en-el-gp-de-qatar-que-obligo-a-detener-la-practica-y-la-reac",
-          "title": "El despiste de Gasly en el GP de Qatar que obligó a detener la práctica y la reacción de Briatore",
-          "summary": "El francés perdió el control de su Alpine en la curva 14, quedó atrapado en la grava y provocó una nueva bandera roja. Colapinto también se vio perjudicado.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/el-despiste-de-pierre-gasly-en-el-gp-de-qatar-que-obligo-a-detener-la-practica-y-la-reaccion-de-briatore-id773202.html",
-          "image": "https://media.tycsports.com/files/2026/11/27/1007949/gasly-despiste_862x485.webp",
-          "body": "El francés perdió el control de su Alpine en la curva 14, quedó atrapado en la grava y provocó una nueva bandera roja. Colapinto también se vio perjudicado.\n\nEl tremendo despiste de Gasly en Qatar que obligó a frenar la FP2 (@F1) Agregar a TyC Sports como fuente preferida en Google Un error en el tercer sector dejó a Pierre Gasly fuera de los segundos entrenamientos del Gran Premio de Qatar de Fórmula 1. El francés perdió el control de su Alpine a falta de 22 minutos para el cierre de la FP2, terminó en la leca y provocó una bandera roja , algo que derivó una contundente reacción por parte de Flavio Briatore.\n\nEl incidente ocurrió cuando el piloto encaraba su primer intento de clasificación con neumáticos blandos. Al salir de la curva 14, superó los límites de pista, pisó la grava y ya no pudo recuperar el dominio del monoplaza . En su recorrido, también golpeó un cartel de telgopor y raspó varias veces el piso del auto contra el suelo.\n\n“ Estoy estancado ”, avisó por radio el corredor, que pudo abandonar el vehículo sin inconvenientes. Aunque no chocó contra ninguna barrera de contención, en Alpine deberán revisar los posibles daños, especialmente en el sector inferior del monoplaza.\n\nDesde el equipo explicaron lo sucedido a través de la comunicación oficial: “ Bandera roja. Esta es culpa nuestra. Pierre tiene un momento y, desafortunadamente, encalló su auto en la grava ”.",
-          "language": "es",
-          "publishedAt": "2026-11-27T19:22:52.000Z",
-          "addedAt": "2026-11-27T23:36:39.835Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
           "id": "campeones-com-ar-gp-de-qatar-colapinto-quedo-12-en-la-primera-tanda-con-el-alpine",
           "title": "GP de Qatar: Colapinto quedó 12.° en la primera tanda con el Alpine",
           "summary": "La práctica inicial en Losail se cumplió sin complicaciones y el argentino se abocó en el trabajo de cara a la clasificación y ritmo de carrera con neumáticos medios y blandos. Mercedes hizo el \"1-2\" con Antonelli y Russell.",
@@ -2997,6 +2952,21 @@
           "language": "es",
           "publishedAt": "2026-11-27T14:34:23.000Z",
           "addedAt": "2026-11-27T15:24:27.418Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-las-vegas-id771970",
+          "title": "Antonelli fue el más rápido, Verstappen largará primero y Colapinto terminó 10° en la clasificación del GP de Las Vegas",
+          "summary": "El piloto argentino consiguió meterse en la Q3 y terminó entre los diez mejores con su Alpine. El italiano de Mercedes se quedó con el mejor tiempo, por delante de Max Verstappen y George Russell. De todas formas, el italiano largará sexto por penalizaciones.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-clasificacion-de-colapinto-en-el-gp-de-las-vegas-id771970.html",
+          "image": "https://media.tycsports.com/files/2026/11/05/1003130/franco-colapinto_1440x810.webp",
+          "body": "El piloto argentino consiguió meterse en la Q3 y terminó entre los diez mejores con su Alpine. El italiano de Mercedes se quedó con el mejor tiempo, por delante de Max Verstappen y George Russell. De todas formas, el italiano largará sexto por penalizaciones.\n\nFranco Colapinto (Getty Images: Clive Rose). + Seguinos en Franco Colapinto tuvo una destacada actuación en la clasificación del Gran Premio de Las Vegas y terminó décimo con su Alpine, después de conseguir el pase a la Q3. El argentino, que partirá noveno por la penalización de Oscar Piastri, logró meterse entre los diez mejores en el circuito callejero estadounidense, mientras que Kimi Antonelli se quedó con la pole position, seguido por Max Verstappen (Red Bull) y George Russell (Mercedes). De todas formas, el italiano tiene una penalización de cinco lugares, por lo que empezará sexto y el neerlandes será el máximo beneficiado. La gran sorpresa de la jornada fue la eliminación de los dos Ferrari en la Q2, que dejó a Charles Leclerc y Lewis Hamilton fuera de la pelea por los primeros puestos.\n\nColapinto llegó a la clasificación con buenas sensaciones después de haber terminado quinto en la tercera práctica libre, una de sus mejores actuaciones del fin de semana. El piloto argentino consiguió trasladar ese rendimiento a la sesión decisiva y superó los dos primeros cortes para disputar la Q3, en la que finalmente ocupó la décima posición. El resultado le permitirá afrontar la carrera del domingo con posibilidades de pelear por sus primeros puntos en varias semanas .\n\nLa definición quedó en manos de Antonelli, quien consiguió imponerse en una sesión exigente sobre el trazado urbano de Las Vegas . El italiano superó a Verstappen y a su compañero Russell, quienes completaron los tres primeros lugares de la clasificac",
+          "language": "es",
+          "publishedAt": "2026-11-21T05:28:00.000Z",
+          "addedAt": "2026-11-19T21:49:49.084Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3014,13 +2984,7 @@
           "addedAt": "2026-11-21T08:12:15.021Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 2,
-      "createdAt": "2026-11-28T04:58:53.038Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-por-que-alpine-recibio-sancion-formula-1-antes-gran-premio-qatar-id772970-html",
           "title": "Por qué Alpine recibió una sanción de la Fórmula 1 antes del Gran Premio de Qatar",
@@ -3050,7 +3014,13 @@
           "addedAt": "2026-11-25T03:37:21.541Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "createdAt": "2026-11-28T14:05:32.891Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-como-quedo-colapinto-en-el-campeonato-de-la-f1-tras-su-sexto-puesto-en-las-vegas-id77255",
           "title": "Cómo quedó Colapinto en el campeonato de la F1 tras su sexto puesto en Las Vegas",
@@ -3082,6 +3052,21 @@
           "tag": "Franco"
         },
         {
+          "id": "www-tycsports-com-automovilismo-el-despiste-de-pierre-gasly-en-el-gp-de-qatar-que-obligo-a-detener-la-practica-y-la-reac",
+          "title": "El despiste de Gasly en el GP de Qatar que obligó a detener la práctica y la reacción de Briatore",
+          "summary": "El francés perdió el control de su Alpine en la curva 14, quedó atrapado en la grava y provocó una nueva bandera roja. Colapinto también se vio perjudicado.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/el-despiste-de-pierre-gasly-en-el-gp-de-qatar-que-obligo-a-detener-la-practica-y-la-reaccion-de-briatore-id773202.html",
+          "image": "https://media.tycsports.com/files/2026/11/27/1007949/gasly-despiste_862x485.webp",
+          "body": "El francés perdió el control de su Alpine en la curva 14, quedó atrapado en la grava y provocó una nueva bandera roja. Colapinto también se vio perjudicado.\n\nEl tremendo despiste de Gasly en Qatar que obligó a frenar la FP2 (@F1) Agregar a TyC Sports como fuente preferida en Google Un error en el tercer sector dejó a Pierre Gasly fuera de los segundos entrenamientos del Gran Premio de Qatar de Fórmula 1. El francés perdió el control de su Alpine a falta de 22 minutos para el cierre de la FP2, terminó en la leca y provocó una bandera roja , algo que derivó una contundente reacción por parte de Flavio Briatore.\n\nEl incidente ocurrió cuando el piloto encaraba su primer intento de clasificación con neumáticos blandos. Al salir de la curva 14, superó los límites de pista, pisó la grava y ya no pudo recuperar el dominio del monoplaza . En su recorrido, también golpeó un cartel de telgopor y raspó varias veces el piso del auto contra el suelo.\n\n“ Estoy estancado ”, avisó por radio el corredor, que pudo abandonar el vehículo sin inconvenientes. Aunque no chocó contra ninguna barrera de contención, en Alpine deberán revisar los posibles daños, especialmente en el sector inferior del monoplaza.\n\nDesde el equipo explicaron lo sucedido a través de la comunicación oficial: “ Bandera roja. Esta es culpa nuestra. Pierre tiene un momento y, desafortunadamente, encalló su auto en la grava ”.",
+          "language": "es",
+          "publishedAt": "2026-11-27T19:22:52.000Z",
+          "addedAt": "2026-11-27T23:36:39.835Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-duelo-colapinto-gasly-alpine-mano-a-mano-gp-las-vegas-f1-id772574-html",
           "title": "Así quedó el mano a mano de Colapinto vs. Gasly en Alpine tras el GP de Las Vegas",
           "summary": "El francés volvió a quedar por delante del argentino en Estados Unidos y estiró la ventaja en las estadísticas de la temporada. Repasá cómo está la disputa entre ambos.",
@@ -3097,17 +3082,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-formula-1-las-vegas-gp-clasificacion-grilla-partida-qualy-penalizaciones-id772465-html",
-          "title": "Atento, Colapinto: así quedó la grilla del GP de Las Vegas de F1 después de las penalizaciones",
-          "summary": "Antonelli hizo la pole, pero el campeón del mundo largará sexto por la penalización. También sufrieron sanciones Bearman, Sainz, Piastri y Stroll.",
-          "source": "TyC Sports",
-          "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/formula-1-las-vegas-gp-clasificacion-grilla-partida-qualy-penalizaciones--id772465.html",
-          "image": "https://media.tycsports.com/files/2026/10/30/1001313/kimi-antonelli-rudy-carezzevoligetty-images_1440x810.webp",
-          "body": "Antonelli hizo la pole, pero el campeón del mundo largará sexto por la penalización. También sufrieron sanciones Bearman, Sainz, Piastri y Stroll.\n\nAntonelli, campeón del mundo, hizo la pole pero largará sexto por la penalización (Rudy Carezzevoli/Getty Images) + Seguinos en Después de la disputa de la clasificación quedó definida la grilla de partida del Gran Premio de Las Vegas de la Fórmula 1 , que sufrió modificaciones respecto a cómo finalizó debido a que cinco pilotos deberán cumplir sanciones : Kimi Antonelli, Oliver Bearman, Carlos Sainz, Oscar Piastri y Lance Stroll\n\nAntonelli, campeón del mundo, finalizó la qualy en la primera posición pero saldrá sexto debido a que tendrá que cumplir una sanción de cinco puestos por incorporar su sexto motor de combustión interna. Como el italiano ya había excedido anteriormente la cantidad autorizada, el castigo será menor al de una primera infracción.\n\nOtro que perdió lugares en la grilla, en este caso 10 , es Piastri debido a que su McLaren utilizará un quinto motor de combustión interna de la temporada cuando el reglamento permite cuatro sin castigo. El australiano se ubicó séptimo y largará 17°.\n\nEl que tendrá que afrontar la sanción más severa es Oliver Bearman, quien antes de llevar adelante la clasificación (quedó 22° porque su función fue darle rebufo a Rafael Camara) ya sabía que iba a largar el GP de Las Vegas en la última fila. Haas reemplazó varios elementos de su unidad de potencia, entre ellos el motor de combustión interna, el turbo y el MGU-K, por lo que la acumulación de cambios le costó al británico una sanción de 35 posiciones.",
+          "id": "campeones-com-ar-con-el-alpine-colapinto-cerro-la-noche-qatari-de-f1-siendo-15",
+          "title": "Con el Alpine, Colapinto cerró la noche qatarí de F1 siendo 15.°",
+          "summary": "El argentino siguió enfocado en la puesta a punto del A526 en la pista de Losail; su compañero Gasly se despistó y Antonelli volvió a encabezar con Mercedes.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/con-el-alpine-colapinto-cerro-la-noche-qatari-de-f1-siendo-15/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261127-F1-Colapinto-Alpine.jpg",
+          "body": "",
           "language": "es",
-          "publishedAt": "2026-11-21T05:17:09.000Z",
-          "addedAt": "2026-11-21T08:12:15.100Z",
+          "publishedAt": "2026-11-27T18:18:14.000Z",
+          "addedAt": "2026-11-27T23:36:40.765Z",
           "category": "argentino",
           "tag": "Franco"
         },
@@ -3247,6 +3232,21 @@
           "tag": "Franco"
         },
         {
+          "id": "campeones-com-ar-los-inconvenientes-del-alpine-que-afectaron-el-desempeno-de-colapinto",
+          "title": "Los inconvenientes del Alpine que afectaron el desempeño de Colapinto",
+          "summary": "Durante la segunda práctica del GP de Qatar, el piloto argentino no pudo destacarse debido a inconvenientes con los frenos y la energía.",
+          "source": "Campeones",
+          "sourceLabel": "Campeones",
+          "url": "https://campeones.com.ar/los-inconvenientes-del-alpine-que-afectaron-el-desempeno-de-colapinto/",
+          "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261127-F1-Colapinto.jpg",
+          "body": "",
+          "language": "es",
+          "publishedAt": "2026-11-27T20:24:23.000Z",
+          "addedAt": "2026-11-27T23:36:41.717Z",
+          "category": "argentino",
+          "tag": "Franco"
+        },
+        {
           "id": "www-tycsports-com-automovilismo-formula-1-alpine-mejora-motor-franco-colapinto-gran-premio-de-las-vegas-id771939-html",
           "title": "Alpine prepara una especial mejora de motor para Colapinto en Las Vegas",
           "summary": "La actualización llegará este fin de semana gracias al desarrollo de Mercedes y podrá ser utilizada por los dos pilotos de la escudería francesa sin recibir penalizaciones en la grilla.",
@@ -3277,17 +3277,17 @@
           "tag": "Franco"
         },
         {
-          "id": "www-tycsports-com-automovilismo-la-salvada-de-colapinto-bajo-la-lluvia-en-el-gp-de-las-vegas-de-la-formula-1-id772272-ht",
-          "title": "La salvada bajo la lluvia de Colapinto en el inicio del Gran Premio de Las Vegas",
-          "summary": "En una sesión de prácticas libres donde ningún piloto marcó un tiempo de vuelta por las malas condiciones de pista, el argentino probó el estado del circuito y logró evitar un duro accidente.",
+          "id": "www-tycsports-com-automovilismo-la-frustracion-de-colapinto-tras-terminar-decimo-en-la-clasificacion-de-las-vegas-estaba",
+          "title": "La frustración de Colapinto tras terminar décimo en la clasificación de Las Vegas: \"Estábamos para mucho más\"",
+          "summary": "El piloto argentino no se quedó conforme con su rendimiento en la instancia previa a la carrera en Estados Unidos. La temperatura de los neumáticos, un factor que conspiró en su contra.",
           "source": "TyC Sports",
           "sourceLabel": "TyC Sports",
-          "url": "https://www.tycsports.com/automovilismo/la-salvada-de-colapinto-bajo-la-lluvia-en-el-gp-de-las-vegas-de-la-formula-1-id772272.html",
-          "image": "https://media.tycsports.com/files/2026/11/19/1006118/franco-colapinto-alpine-salvada_862x485.webp?v=1",
-          "body": "En una sesión de prácticas libres donde ningún piloto marcó un tiempo de vuelta por las malas condiciones de pista, el argentino probó el estado del circuito y logró evitar un duro accidente.\n\nLa salvada de Franco Colapinto en la práctica libre 1 del Gran Premio de Las Vegas de la Fórmula 1. + Seguinos en La primera práctica libre del Gran Premio de Las Vegas de la Fórmula 1 tuvo a la lluvia como su protagonista , un diluvio en el desierto de Nevada que generó condiciones complejas en pista sobre las cuales Franco Colapinto tuvo una gran salvada para evitar un accidente cuando el reloj marcó el final de la sesión.\n\nPese a ser uno de los lugares más áridos en todo Estados Unidos, precipitaciones estuvieron presentes para el comienzo de las acciones del antepenúltimo fin de semana de la categoría reina del automovilismo en la temporada 2026. El trazado se vio afectado de gran manera y ninguno de los 22 pilotos logró marcar un tiempo de vuelta .\n\nYa sin chances de anotar un registro, los dos Alpine salieron a pista y vivieron en carne propia las complejidades en el inicio de las acciones , con Colapinto llevándose todas las miradas con su maniobra para evitar un accidente al sufrir \"aquaplaning\"; cuando los neumáticos pierden adherencia con el asfalto producto del agua.\n\nEn medio de la recta opuesta del circuito previa el argentino se vio obligado a meter un oportuno volantazo para evitar que su monoplaza se estrelle contra la barrera de protección al perder el control de sus ruedas traseras y encontrarse perpendicular a la pared.",
+          "url": "https://www.tycsports.com/automovilismo/la-frustracion-de-colapinto-tras-terminar-decimo-en-la-clasificacion-de-las-vegas-estabamos-para-mucho-mas-id772468.html",
+          "image": "https://media.tycsports.com/files/2026/11/21/1006421/colapinto-qualy-las-vegas_1440x810.webp",
+          "body": "El piloto argentino no se quedó conforme con su rendimiento en la instancia previa a la carrera en Estados Unidos. La temperatura de los neumáticos, un factor que conspiró en su contra.\n\nColapinto tras su clasificación en Las Vegas (Getty Images). + Seguinos en El final del año se acerca y la vara sube para Franco Colapinto en la Fórmula 1 . Tanto que un décimo puesto en la clasificación de Las Vegas, en otro contexto un resultado más que destacado, fue objeto de la frustración del piloto argentino de Alpine. Y del deseo de ir por más en la carrera, que se disputará este domingo a la 1.00.\n\n\"Conforme no estoy, obviamente, porque estábamos para mucho más. Es una pena haber quedado tan atrás en la Q3 porque estábamos competitivos, pero siento que en ningún momento de la clasificación pusimos el auto a punto\" , analizó el oriundo de Pilar, cuya actuación estuvo condicionada por una puesta a punto deficitaria de los neumáticos.\n\nEn relación a este inconvienente, Colapinto disparó: \"Las gomas, muy frías, no entraban en temperatura. Es un desastre. Una pena porque el potencial estaba, pero habrá que avanzar en la carrera\" . La declaración de Franco deja en claro que un correcto estado de las cuatro lo podría haber llevado a luchar mucho más arriba.\n\nSin embargo, también reflexionó positivamente sobre el rendimiento del A526 en las curvas: \"Tenemos buena velocidad en las rectas, lo cual es positivo. Hay que intentar poner todo junto y vamos a hacer una buena carrera, sobre todo si tenemos una buena largada\".",
           "language": "es",
-          "publishedAt": "2026-11-20T02:28:07.000Z",
-          "addedAt": "2026-11-20T03:01:29.459Z",
+          "publishedAt": "2026-11-21T10:54:58.000Z",
+          "addedAt": "2026-11-21T16:16:58.904Z",
           "category": "argentino",
           "tag": "Franco"
         }
@@ -3295,7 +3295,7 @@
     },
     {
       "page": 3,
-      "createdAt": "2026-11-28T04:58:53.038Z",
+      "createdAt": "2026-11-28T14:05:32.891Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-checo-perez-sancion-formula-1-gp-de-qatar-id772575-html",
@@ -3571,7 +3571,7 @@
     },
     {
       "page": 4,
-      "createdAt": "2026-11-28T04:58:53.038Z",
+      "createdAt": "2026-11-28T14:05:32.891Z",
       "items": [
         {
           "id": "www-tycsports-com-automovilismo-f1-los-horarios-y-el-cronograma-completo-del-gp-de-mexico-id768545-html",
@@ -3662,6 +3662,21 @@
           "addedAt": "2026-10-22T11:40:44.470Z",
           "category": "general",
           "tag": "Carrera"
+        },
+        {
+          "id": "www-tycsports-com-automovilismo-la-salvada-de-colapinto-bajo-la-lluvia-en-el-gp-de-las-vegas-de-la-formula-1-id772272-ht",
+          "title": "La salvada bajo la lluvia de Colapinto en el inicio del Gran Premio de Las Vegas",
+          "summary": "En una sesión de prácticas libres donde ningún piloto marcó un tiempo de vuelta por las malas condiciones de pista, el argentino probó el estado del circuito y logró evitar un duro accidente.",
+          "source": "TyC Sports",
+          "sourceLabel": "TyC Sports",
+          "url": "https://www.tycsports.com/automovilismo/la-salvada-de-colapinto-bajo-la-lluvia-en-el-gp-de-las-vegas-de-la-formula-1-id772272.html",
+          "image": "https://media.tycsports.com/files/2026/11/19/1006118/franco-colapinto-alpine-salvada_862x485.webp?v=1",
+          "body": "En una sesión de prácticas libres donde ningún piloto marcó un tiempo de vuelta por las malas condiciones de pista, el argentino probó el estado del circuito y logró evitar un duro accidente.\n\nLa salvada de Franco Colapinto en la práctica libre 1 del Gran Premio de Las Vegas de la Fórmula 1. + Seguinos en La primera práctica libre del Gran Premio de Las Vegas de la Fórmula 1 tuvo a la lluvia como su protagonista , un diluvio en el desierto de Nevada que generó condiciones complejas en pista sobre las cuales Franco Colapinto tuvo una gran salvada para evitar un accidente cuando el reloj marcó el final de la sesión.\n\nPese a ser uno de los lugares más áridos en todo Estados Unidos, precipitaciones estuvieron presentes para el comienzo de las acciones del antepenúltimo fin de semana de la categoría reina del automovilismo en la temporada 2026. El trazado se vio afectado de gran manera y ninguno de los 22 pilotos logró marcar un tiempo de vuelta .\n\nYa sin chances de anotar un registro, los dos Alpine salieron a pista y vivieron en carne propia las complejidades en el inicio de las acciones , con Colapinto llevándose todas las miradas con su maniobra para evitar un accidente al sufrir \"aquaplaning\"; cuando los neumáticos pierden adherencia con el asfalto producto del agua.\n\nEn medio de la recta opuesta del circuito previa el argentino se vio obligado a meter un oportuno volantazo para evitar que su monoplaza se estrelle contra la barrera de protección al perder el control de sus ruedas traseras y encontrarse perpendicular a la pared.",
+          "language": "es",
+          "publishedAt": "2026-11-20T02:28:07.000Z",
+          "addedAt": "2026-11-20T03:01:29.459Z",
+          "category": "argentino",
+          "tag": "Franco"
         },
         {
           "id": "www-tycsports-com-automovilismo-la-prediccion-de-la-ia-sobre-el-resultado-de-franco-colapinto-en-el-gp-de-las-vegas-de-l",
@@ -3827,7 +3842,13 @@
           "addedAt": "2026-11-02T05:51:30.787Z",
           "category": "argentino",
           "tag": "Franco"
-        },
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "createdAt": "2026-11-28T14:05:32.891Z",
+      "items": [
         {
           "id": "www-tycsports-com-automovilismo-por-que-colapinto-gano-un-puesto-antes-de-la-largada-en-el-gp-de-mexico-id769714-html",
           "title": "Por qué Colapinto ganó un puesto antes de la largada en el GP de México",
@@ -3842,13 +3863,7 @@
           "addedAt": "2026-11-01T16:13:46.297Z",
           "category": "argentino",
           "tag": "Franco"
-        }
-      ]
-    },
-    {
-      "page": 5,
-      "createdAt": "2026-11-28T04:58:53.038Z",
-      "items": [
+        },
         {
           "id": "www-tycsports-com-automovilismo-f1-hora-y-donde-ver-en-vivo-la-practica-libre-de-colapinto-en-el-gp-de-mexico-id769159-h",
           "title": "Cómo le fue a Franco Colapinto en la FP3 del Gran Premio de México de Fórmula 1",
@@ -4101,21 +4116,6 @@
           "language": "es",
           "publishedAt": "2026-11-19T12:58:00.000Z",
           "addedAt": "2026-11-19T13:38:57.999Z",
-          "category": "argentino",
-          "tag": "Franco"
-        },
-        {
-          "id": "campeones-com-ar-confirmado-con-que-pilotos-correra-cada-equipo-de-formula-1-en-la-temporada-2027",
-          "title": "Confirmado: ¿Con qué pilotos correra cada equipo de Fórmula 1 en la temporada 2027?",
-          "summary": "Franco Colapinto y Pierre Gasly analizan a los rivales que tendrá el equipo Alpine F1 Team dentro del campeonato de Fórmula 1 de 2027.",
-          "source": "Campeones",
-          "sourceLabel": "Campeones",
-          "url": "https://campeones.com.ar/confirmado-con-que-pilotos-correra-cada-equipo-de-formula-1-en-la-temporada-2027/",
-          "image": "https://campeones.com.ar/wp-content/uploads/2026/09/260905-F1-Colapinto-Gasly.jpg",
-          "body": "",
-          "language": "es",
-          "publishedAt": "2026-11-26T15:30:31.000Z",
-          "addedAt": "2026-11-26T14:30:19.603Z",
           "category": "argentino",
           "tag": "Franco"
         }
